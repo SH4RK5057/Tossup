@@ -1,5 +1,5 @@
 import { lazy, Suspense, useCallback, useEffect, useRef, useState } from 'react';
-import { levelsForPool } from '../core/pool';
+import { highestLevel, levelsForPool } from '../core/pool';
 import { getRuleset } from '../core/rulesets';
 import { createSession, reduce, type Action, type SessionKind, type SessionState } from '../core/session';
 import { summarize, type SessionSummary } from '../core/stats';
@@ -71,13 +71,14 @@ function Main({ services }: { services: Services }) {
     try {
       const rs = getRuleset(settings.ruleset);
       const pool = await services.repo.loadPool({
-        rulesetId: rs.id, level: settings.level, levels: levelsForPool(rs, settings.level),
+        rulesetId: rs.id, level: highestLevel(settings.levels), levels: levelsForPool(rs, settings.levels, settings.cumulative),
       });
       const state = createSession({
         pool,
         seed: Math.random().toString(36).slice(2),
         rulesetId: rs.id,
-        level: settings.level,
+        levels: settings.levels,
+        cumulative: settings.cumulative,
         kind,
         filter: { subjects: settings.subjects, fullDistribution: settings.fullDistribution },
         settings: {

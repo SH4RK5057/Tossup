@@ -45,7 +45,9 @@ const ncalDefaults = getRuleset(DEFAULT_RULESET);
 
 export const settingsSchema = z.object({
   ruleset: rulesetIdSchema.default(DEFAULT_RULESET),
-  level: levelSchema.default('novice'),
+  levels: z.array(levelSchema).min(1).default(['novice']),
+  /** NCAL cumulative pools: also draw a share from levels below the selection. */
+  cumulative: z.boolean().default(true),
   tossupSeconds: z.number().min(3).max(300).default(ncalDefaults.tossupSeconds),
   tossupUntimed: z.boolean().default(false),
   bonusSeconds: z.number().min(3).max(600).default(ncalDefaults.bonus.defaultSeconds),
@@ -64,7 +66,10 @@ const STATS_KEY = 'tossup.stats.v1';
 const MAX_STORED_SESSIONS = 500;
 
 export function loadSettings(store: KeyValueStorage = localStore): Settings {
-  const parsed = settingsSchema.safeParse(store.get<unknown>(SETTINGS_KEY, {}));
+  const raw = store.get<Record<string, unknown>>(SETTINGS_KEY, {});
+  // Older saves stored a single `level`.
+  if (raw && typeof raw === 'object' && !raw.levels && typeof raw.level === 'string') raw.levels = [raw.level];
+  const parsed = settingsSchema.safeParse(raw);
   return parsed.success ? parsed.data : settingsSchema.parse({});
 }
 

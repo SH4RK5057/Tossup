@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 import { accuracy, type SessionSummary, type Tally } from '../core/stats';
 import { getRuleset } from '../core/rulesets';
-import { LEVEL_LABEL } from '../core/types';
+import { levelsLabel } from '../core/types';
 import { formatPercent } from './format';
 
 export function AccuracyBar({ t }: { t: Tally }) {
@@ -77,7 +77,7 @@ export function Summary({ summary: s, onAgain, onHome }: Props) {
       <div>
         <h1>Session complete</h1>
         <p className="muted">
-          {rs.shortName} · {LEVEL_LABEL[s.level]} · {s.kind === 'sim' ? 'Game sim' : s.kind === 'bonus' ? 'Bonus drill' : 'Tossups'}
+          {rs.shortName} · {levelsLabel(s.levels ?? [s.level])} · {s.kind === 'sim' ? 'Game sim' : s.kind === 'bonus' ? 'Bonus drill' : 'Tossups'}
           {s.untimed && <span className="badge">untimed</span>}
         </p>
         {s.untimed && <p className="hint">Untimed sessions are excluded from accuracy stats by default.</p>}

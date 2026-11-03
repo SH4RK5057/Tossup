@@ -2,7 +2,7 @@
 // Timers live in the UI layer and dispatch `timeout` / `clockExpired`.
 
 import { check } from './checker';
-import { buildBonusSequence, buildTossupSequence, type PoolFilter } from './pool';
+import { buildBonusSequence, buildTossupSequence, highestLevel, type PoolFilter } from './pool';
 import { getRuleset } from './rulesets';
 import type { Ruleset } from './rulesets/types';
 import type { AnswerSpec, Bonus, Level, PartDifficulty, Question, RulesetId, Tossup } from './types';
@@ -27,7 +27,10 @@ export interface SessionInput {
   pool: Question[];
   seed: string;
   rulesetId: RulesetId;
-  level: Level;
+  /** Levels to draw from (any non-empty combination). */
+  levels: Level[];
+  /** NCAL cumulative pools: also draw a share from levels below. */
+  cumulative: boolean;
   kind: SessionKind;
   filter: PoolFilter;
   settings: SessionSettings;
@@ -77,7 +80,9 @@ export type QuestionRecord = TossupRecord | BonusRecord;
 
 export interface SessionState {
   rulesetId: RulesetId;
+  /** Highest selected level; drives level-specific rules such as the game clock. */
   level: Level;
+  levels: Level[];
   kind: SessionKind;
   seed: string;
   settings: SessionSettings;
@@ -121,7 +126,8 @@ export function createSession(input: SessionInput): SessionState {
   const ruleset = getRuleset(input.rulesetId);
   const tossupsPool = input.pool.filter((q): q is Tossup => q.type === 'tossup');
   const bonusPool = input.pool.filter((q): q is Bonus => q.type === 'bonus');
-  const base = { ruleset, level: input.level, filter: input.filter, seed: input.seed, nowIso: input.nowIso };
+  const level = highestLevel(input.levels);
+  const base = { ruleset, levels: input.levels, cumulative: input.cumulative, filter: input.filter, seed: input.seed, nowIso: input.nowIso };
 
   let limit: number | undefined;
   let gameClockSeconds: number | null = null;
@@ -130,7 +136,7 @@ export function createSession(input: SessionInput): SessionState {
     if (ruleset.match.kind === 'count') limit = ruleset.match.tossups;
     else {
       limit = ruleset.match.maxTossups;
-      gameClockSeconds = ruleset.match.minutes[input.level] * 60;
+      gameClockSeconds = ruleset.match.minutes[level] * 60;
     }
   }
 
@@ -142,7 +148,8 @@ export function createSession(input: SessionInput): SessionState {
 
   const state: SessionState = {
     rulesetId: input.rulesetId,
-    level: input.level,
+    level,
+    levels: input.levels,
     kind: input.kind,
     seed: input.seed,
     settings: input.settings,
