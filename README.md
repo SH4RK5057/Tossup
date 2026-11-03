@@ -67,3 +67,7 @@ All are in `src/core/rulesets/ncal.ts`:
 - For name questions, `required` is the last-name portion; `duplicate_name` overrides it in NCAL.
 - Timers restart when a prompt is shown (one fresh attempt).
 - The match-simulation game clock runs on wall time and cannot be paused.
+
+## Question batches
+
+`batches/questions-batch-1.json` holds 283 tossups and 61 bonuses (NCAL and quizbowl, all levels) in importer format, `source: "ai-claude-batch1"`. Import it from Admin → Import & verify, then verify or activate. Rebuild it from `scripts/batch1/*.mjs` with `node scripts/batch1/build.mjs`; `src/admin/batch1.test.ts` enforces the quality gates (schema, subject tree, no duplicates, checker accepts every key, no answer leaks).
