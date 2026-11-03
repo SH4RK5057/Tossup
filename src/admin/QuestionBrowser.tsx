@@ -48,6 +48,52 @@ export function QuestionBrowser() {
     }
   };
 
+  const [selected, setSelected] = useState<Set<string>>(new Set());
+  const [anchor, setAnchor] = useState<number | null>(null);
+  const [busy, setBusy] = useState(false);
+  const shown = rows.slice(0, 200);
+  const editor = user?.email ?? user?.uid ?? 'admin';
+
+  // Classic click / shift-click range selection over the visible rows.
+  const toggle = (index: number, shift: boolean) => {
+    const next = new Set(selected);
+    if (shift && anchor !== null) {
+      const [a, b] = [Math.min(anchor, index), Math.max(anchor, index)];
+      const on = !selected.has(shown[index].id);
+      for (let i = a; i <= b; i++) (on ? next.add(shown[i].id) : next.delete(shown[i].id));
+    } else {
+      const id = shown[index].id;
+      if (next.has(id)) next.delete(id); else next.add(id);
+    }
+    setAnchor(index);
+    setSelected(next);
+  };
+  const allMatchingSelected = rows.length > 0 && rows.every((q) => selected.has(q.id));
+
+  const runBulk = async (label: string, fn: (ids: string[]) => Promise<void>) => {
+    const ids = [...selected];
+    setBusy(true);
+    try {
+      await fn(ids);
+      setAll(await repo.listQuestions());
+      setSelected(new Set());
+      setAnchor(null);
+    } catch (e) {
+      setError(`${label} failed: ${e instanceof Error ? e.message : String(e)}`);
+    } finally {
+      setBusy(false);
+    }
+  };
+  const bulkStatus = (status: 'active' | 'retired') => runBulk('Update', async (ids) => {
+    for (const id of ids) await repo.setStatus(id, status, editor);
+  });
+  const bulkDelete = () => {
+    const n = selected.size;
+    if (!confirm(`Permanently delete ${n} question(s) and their version history? This cannot be undone.`)) return;
+    if (n > 10 && prompt(`Type DELETE to confirm deleting ${n} questions.`) !== 'DELETE') return;
+    void runBulk('Delete', (ids) => repo.deleteQuestions(ids));
+  };
+
   const set = (patch: Partial<typeof f>) => setF({ ...f, ...patch });
 
   return (
@@ -77,16 +123,28 @@ export function QuestionBrowser() {
           <button className="primary" disabled={activating} onClick={activateAll}>{activating ? 'Activating…' : `Activate all pending (${pending.length})`}</button>
         </div>
       )}
+      {selected.size > 0 && (
+        <div className="notice row" style={{ position: 'sticky', top: 0, zIndex: 4 }}>
+          <strong>{selected.size} selected</strong>
+          <button disabled={busy} onClick={() => bulkStatus('active')}>Activate</button>
+          <button disabled={busy} onClick={() => bulkStatus('retired')}>Retire</button>
+          <button className="danger" disabled={busy} onClick={bulkDelete}>Delete…</button>
+          <button className="link" onClick={() => setSelected(new Set())}>Clear</button>
+        </div>
+      )}
       {all === null && !error && <p className="muted">Loading…</p>}
       {all && (
         <>
-          <p className="muted small">{rows.length} of {all.length} questions{rows.length > 200 ? ' (showing the first 200)' : ''}</p>
+          <p className="muted small">{rows.length} of {all.length} questions{rows.length > 200 ? ' (showing the first 200; the header checkbox selects all matching)' : ''}. Shift-click to select a range.</p>
           <div className="table-wrap panel">
             <table>
-              <thead><tr><th>Type</th><th>Question</th><th>Answer</th><th>Status</th><th>Level</th><th>Source</th><th>Reports</th></tr></thead>
+              <thead><tr><th style={{ width: 28 }}><input type="checkbox" aria-label="Select all matching" checked={allMatchingSelected}
+                onChange={() => setSelected(allMatchingSelected ? new Set() : new Set(rows.map((q) => q.id)))} /></th><th>Type</th><th>Question</th><th>Answer</th><th>Status</th><th>Level</th><th>Source</th><th>Reports</th></tr></thead>
               <tbody>
-                {rows.slice(0, 200).map((q) => (
-                  <tr key={q.id}>
+                {shown.map((q, i) => (
+                  <tr key={q.id} style={selected.has(q.id) ? { background: 'var(--surface-2)' } : undefined}>
+                    <td><input type="checkbox" aria-label="Select" checked={selected.has(q.id)} readOnly
+                      onClick={(e) => toggle(i, e.shiftKey)} /></td>
                     <td>{q.type}</td>
                     <td><a href={`#/admin/edit/${encodeURIComponent(q.id)}`}>{textOf(q).slice(0, 90)}{textOf(q).length > 90 ? '…' : ''}</a>
                       <div className="muted small">{q.category} · {q.subcategory}</div></td>

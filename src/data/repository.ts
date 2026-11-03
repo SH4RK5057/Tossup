@@ -53,6 +53,8 @@ export interface QuestionRepository {
   revertToVersion(id: string, versionId: string, editor: string): Promise<Question>;
   /** Creates new questions (the importer saves them as pending). */
   createQuestions(questions: Question[]): Promise<void>;
+  /** Permanently deletes questions (and their version history). */
+  deleteQuestions(ids: string[]): Promise<void>;
   listReports(): Promise<StoredReport[]>;
   resolveReport(id: string): Promise<void>;
   /** Recomputes questions' report_count from unresolved reports. */

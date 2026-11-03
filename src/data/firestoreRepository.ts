@@ -3,7 +3,7 @@ import {
   getAuth, onAuthStateChanged, signInWithEmailAndPassword, signOut as fbSignOut, type Auth,
 } from 'firebase/auth';
 import {
-  Timestamp, addDoc, collection, doc, endBefore, getDoc, getDocs, getFirestore, limit, orderBy, query,
+  Timestamp, addDoc, collection, deleteDoc, doc, endBefore, getDoc, getDocs, getFirestore, limit, orderBy, query,
   serverTimestamp, startAt, updateDoc, where, writeBatch, type DocumentData, type Firestore,
 } from 'firebase/firestore';
 import { questionSchema, type Question, type Status, type StoredReport } from '../core/types';
@@ -177,6 +177,19 @@ export class FirestoreRepository implements QuestionRepository {
       const batch = writeBatch(this.db);
       for (const q of questions.slice(i, i + 400)) batch.set(doc(this.questions(), q.id), toDoc(q, true));
       await batch.commit();
+    }
+  }
+
+  async deleteQuestions(ids: string[]): Promise<void> {
+    for (const id of ids) {
+      const ref = doc(this.questions(), id);
+      const versions = await getDocs(collection(ref, 'versions'));
+      for (let i = 0; i < versions.docs.length; i += 400) {
+        const b = writeBatch(this.db);
+        versions.docs.slice(i, i + 400).forEach((v) => b.delete(v.ref));
+        await b.commit();
+      }
+      await deleteDoc(ref);
     }
   }
 

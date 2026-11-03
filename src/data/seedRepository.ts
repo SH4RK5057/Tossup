@@ -86,6 +86,11 @@ export class SeedRepository implements QuestionRepository {
     questions.forEach((q) => this.questions.set(q.id, q));
   }
 
+  async deleteQuestions(ids: string[]): Promise<void> {
+    this.requireAdmin();
+    ids.forEach((id) => { this.questions.delete(id); this.versions.delete(id); });
+  }
+
   async listReports(): Promise<StoredReport[]> {
     this.requireAdmin();
     return [...this.reports];
