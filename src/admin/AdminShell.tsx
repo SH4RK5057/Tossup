@@ -2,12 +2,14 @@ import { useState } from 'react';
 import { useApp } from '../ui/context';
 import { QuestionBrowser } from './QuestionBrowser';
 import { EditorPage } from './EditorPage';
+import { GeneratePage } from './GeneratePage';
 import { ImportPage } from './ImportPage';
 import { ReportsQueue } from './ReportsQueue';
 
 const TABS: [string, string][] = [
   ['/admin', 'Questions'],
   ['/admin/import', 'Import & verify'],
+  ['/admin/generate', 'Generate'],
   ['/admin/reports', 'Reports'],
 ];
 
@@ -87,6 +89,7 @@ export default function AdminShell({ path }: { path: string }) {
       </div>
       {editMatch ? <EditorPage id={decodeURIComponent(editMatch[1])} />
         : path === '/admin/import' ? <ImportPage />
+        : path === '/admin/generate' ? <GeneratePage />
         : path === '/admin/reports' ? <ReportsQueue />
         : <QuestionBrowser />}
     </div>
