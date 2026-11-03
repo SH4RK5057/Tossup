@@ -79,7 +79,7 @@ function Main({ services }: { services: Services }) {
         rulesetId: rs.id,
         level: settings.level,
         kind,
-        filter: { subjects: settings.subjects, fullDistribution: settings.fullDistribution },
+        filter: { subjects: settings.subjects, fullDistribution: settings.fullDistribution, difficulties: settings.difficulties },
         settings: {
           tossupSeconds: settings.tossupUntimed ? null : settings.tossupSeconds,
           bonusSeconds: settings.bonusUntimed ? null : settings.bonusSeconds,

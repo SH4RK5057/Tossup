@@ -38,7 +38,7 @@ The pool is loaded once per practice session and held in memory. Firestore pool 
 
 ## Importer and verification
 
-Import schema (stable, documented for roadmap 12): a JSON array of rows, each with `type` (`tossup`|`bonus`), `rulesets`, `level`, `category`, `subcategory`, optional `source`/`expires_at`, then tossup `text` + answer spec, or bonus `leadin` + `parts` (3–5, each `text`, `part_difficulty`, answer spec). Answer spec fields: `answer`, `required`, `alternates`, `prompt_on`, `answer_type`, `duplicate_name`, `accepts_partial_name`. See `importRowSchema` in `src/core/types.ts`.
+Import schema (stable, documented for roadmap 12): a JSON array of rows, each with `type` (`tossup`|`bonus`), `rulesets`, `level`, `category`, `subcategory`, optional `source`/`expires_at`, then tossup `text` + answer spec, or bonus `leadin` + `parts` (3–5, each `text`, `part_difficulty`, answer spec). `difficulty` (`easy|medium|hard`, default `medium`), tossup or bonus overall difficulty within its level, which players can filter by. Answer spec fields: `answer`, `required`, `alternates`, `prompt_on`, `answer_type`, `duplicate_name`, `accepts_partial_name`. See `importRowSchema` in `src/core/types.ts`.
 
 Verification upload: `[{ "id": "...", "answer": "..." }]`. For bonuses, `answer` is an array with one entry per part. Math parts always go to the review queue unless the mathjs check passes and the key is simplified.
 
@@ -71,3 +71,5 @@ All are in `src/core/rulesets/ncal.ts`:
 ## Question batches
 
 `batches/questions-batch-1.json` holds 283 tossups and 61 bonuses (NCAL and quizbowl, all levels) in importer format, `source: "ai-claude-batch1"`. Import it from Admin → Import & verify, then verify or activate. Rebuild it from `scripts/batch1/*.mjs` with `node scripts/batch1/build.mjs`; `src/admin/batch1.test.ts` enforces the quality gates (schema, subject tree, no duplicates, checker accepts every key, no answer leaks).
+
+`batches/master-import.json` is the seed plus all batches (422 questions) as clean importer rows; import this single file. Rebuild it with `node scripts/build-master.mjs`.

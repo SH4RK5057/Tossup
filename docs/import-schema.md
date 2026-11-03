@@ -9,6 +9,7 @@ The bulk importer (Admin → Import & verify) takes a JSON array. This shape is 
   "type": "tossup",
   "rulesets": ["ncal"],
   "level": "novice",
+  "difficulty": "easy",
   "category": "Science",
   "subcategory": "Astronomy",
   "source": "ai",
@@ -32,6 +33,7 @@ The bulk importer (Admin → Import & verify) takes a JSON array. This shape is 
 
 - `level`: `novice | jv | varsity`. `rulesets`: any of `ncal`, `quizbowl`.
 - `category` / `subcategory` must exist in the subject tree of every listed ruleset.
+- `difficulty`: `easy | medium | hard`, relative to the level; defaults to `medium`. Players can filter by it.
 - Optional answer-spec fields default to `null`, `[]`, `"general"`, `false`.
 - Server fields (`id`, `status`, `random`, `report_count`, timestamps) are generated; rows save as `pending`.
 - Duplicates are skipped by normalized text.

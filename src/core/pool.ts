@@ -1,12 +1,14 @@
 import { createRng, shuffle, type Rng } from './rng';
 import type { Ruleset } from './rulesets/types';
-import { LEVELS, type Bonus, type Level, type Question, type Tossup } from './types';
+import { LEVELS, type Bonus, type Difficulty, type Level, type Question, type Tossup } from './types';
 
 export interface PoolFilter {
   /** Selected subjects as "Category/Subcategory" keys. Empty = everything. */
   subjects: string[];
   /** Ignore `subjects` and draw by the ruleset's distribution. */
   fullDistribution: boolean;
+  /** Difficulties to include. Omitted or empty = all. */
+  difficulties?: Difficulty[];
 }
 
 export const subjectKey = (category: string, subcategory: string) => `${category}/${subcategory}`;
@@ -49,7 +51,9 @@ function candidates<T extends Question>(
 ): Candidates<T> {
   const servable = all.filter((q) => isServable(q, ruleset, nowIso));
   const wanted = filter.fullDistribution || filter.subjects.length === 0 ? null : new Set(filter.subjects);
-  const passes = (q: T) => !wanted || wanted.has(subjectKey(q.category, q.subcategory));
+  const diffs = filter.difficulties?.length ? new Set<Difficulty>(filter.difficulties) : null;
+  const passes = (q: T) =>
+    (!wanted || wanted.has(subjectKey(q.category, q.subcategory))) && (!diffs || diffs.has(q.difficulty));
   const lowerSet = new Set<Level>(ruleset.lowerLevelShare ? lowerLevels(level) : []);
   return {
     own: servable.filter((q) => q.level === level && passes(q)).sort(byId),

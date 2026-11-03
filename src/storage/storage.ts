@@ -1,7 +1,7 @@
 import { z } from 'zod';
 import { DEFAULT_RULESET, getRuleset } from '../core/rulesets';
 import type { SessionSummary } from '../core/stats';
-import { levelSchema, rulesetIdSchema } from '../core/types';
+import { levelSchema, partDifficultySchema, rulesetIdSchema } from '../core/types';
 
 /**
  * Small key-value storage interface. Today it is backed by localStorage; roadmap item 15
@@ -46,6 +46,8 @@ const ncalDefaults = getRuleset(DEFAULT_RULESET);
 export const settingsSchema = z.object({
   ruleset: rulesetIdSchema.default(DEFAULT_RULESET),
   level: levelSchema.default('novice'),
+  /** Which difficulties to practice (multi-select, at least one). */
+  difficulties: z.array(partDifficultySchema).min(1).default(['easy', 'medium', 'hard']),
   tossupSeconds: z.number().min(3).max(300).default(ncalDefaults.tossupSeconds),
   tossupUntimed: z.boolean().default(false),
   bonusSeconds: z.number().min(3).max(600).default(ncalDefaults.bonus.defaultSeconds),

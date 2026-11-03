@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { RULESETS } from '../core/rulesets';
 import {
-  ANSWER_TYPES, LEVELS, LEVEL_LABEL, RULESET_IDS, questionSchema, statusSchema,
+  ANSWER_TYPES, DIFFICULTIES, DIFFICULTY_LABEL, LEVELS, LEVEL_LABEL, RULESET_IDS, questionSchema, statusSchema,
   type AnswerSpec, type BonusPart, type Question, type Status,
 } from '../core/types';
 import type { QuestionVersion } from '../data/repository';
@@ -136,6 +136,9 @@ export function QuestionEditor({ question, onSaved, onCancel }: Props) {
         <label className="field"><span className="lbl">Level</span>
           <select value={q.level} onChange={(e) => patch({ level: e.target.value as Question['level'] })}>
             {LEVELS.map((l) => <option key={l} value={l}>{LEVEL_LABEL[l]}</option>)}</select></label>
+        <label className="field"><span className="lbl">Difficulty (within the level)</span>
+          <select value={q.difficulty} onChange={(e) => patch({ difficulty: e.target.value as Question['difficulty'] })}>
+            {DIFFICULTIES.map((d) => <option key={d} value={d}>{DIFFICULTY_LABEL[d]}</option>)}</select></label>
         <label className="field"><span className="lbl">Category</span>
           <input type="text" list="cats" value={q.category} onChange={(e) => patch({ category: e.target.value })} />
           <datalist id="cats">{category.map((c) => <option key={c.name} value={c.name} />)}</datalist></label>

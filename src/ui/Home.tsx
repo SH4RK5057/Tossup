@@ -1,7 +1,7 @@
 import { getRuleset, RULESETS } from '../core/rulesets';
 import { subjectKey } from '../core/pool';
 import type { SessionKind } from '../core/session';
-import { LEVELS, LEVEL_LABEL, type Level, type RulesetId } from '../core/types';
+import { DIFFICULTIES, DIFFICULTY_LABEL, LEVELS, LEVEL_LABEL, type Difficulty, type Level, type RulesetId } from '../core/types';
 import type { Settings } from '../storage/storage';
 
 interface Props {
@@ -81,6 +81,22 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
               {LEVELS.map((l) => <option key={l} value={l}>{LEVEL_LABEL[l]}</option>)}
             </select>
           </label>
+
+          <div className="field">
+            <span className="lbl">Difficulty (pick any combination)</span>
+            <div className="row">
+              {DIFFICULTIES.map((d) => (
+                <label key={d} className="inline-check">
+                  <input type="checkbox" checked={settings.difficulties.includes(d)}
+                    onChange={(e) => {
+                      const next: Difficulty[] = e.target.checked ? [...settings.difficulties, d] : settings.difficulties.filter((x) => x !== d);
+                      if (next.length) set({ difficulties: DIFFICULTIES.filter((x) => next.includes(x)) });
+                    }} />
+                  {DIFFICULTY_LABEL[d]}
+                </label>
+              ))}
+            </div>
+          </div>
 
           <div className="field">
             <span className="lbl">Tossup answer time (seconds)</span>

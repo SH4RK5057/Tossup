@@ -1,6 +1,7 @@
 // Builds seed/questions.json from the compact definitions below.
 // Run with: npm run seed
 import { writeFileSync } from 'node:fs';
+import { tagDifficulty } from './difficulty.mjs';
 
 const NOW = '2026-11-02T00:00:00.000Z';
 let rngState = 20261102;
@@ -233,6 +234,15 @@ B('quizbowl', 'varsity', 'Science', 'Math', 'Answer these questions about mathem
   ['hard', 'What ratio, approximately 1.618, is denoted by the Greek letter phi?', 'golden ratio', { alt: ['phi', 'golden mean', 'golden section'] }],
 ]);
 
+// Indices per ruleset-level set that are easy or hard (rest medium).
+tagDifficulty(out, {
+  'ncal-novice': { easy: [0, 1, 2, 5, 6, 8], hard: [], bonusEasy: [2], bonusHard: [0] },
+  'ncal-jv': { easy: [5, 6, 7], hard: [1, 2, 8], bonusEasy: [0], bonusHard: [1] },
+  'ncal-varsity': { easy: [1, 4, 6], hard: [0, 5, 7], bonusEasy: [1], bonusHard: [2] },
+  'quizbowl-novice': { easy: [0, 2, 4, 5, 9], hard: [6, 8], bonusEasy: [0, 2], bonusHard: [1] },
+  'quizbowl-jv': { easy: [0, 5, 8, 9], hard: [2, 4, 6], bonusEasy: [1], bonusHard: [0] },
+  'quizbowl-varsity': { easy: [7, 8], hard: [0, 3, 5, 6], bonusEasy: [1], bonusHard: [2] },
+});
 writeFileSync(new URL('../seed/questions.json', import.meta.url), JSON.stringify(out, null, 2) + '\n');
 const tossups = out.filter((q) => q.type === 'tossup').length;
 console.log(`wrote ${out.length} questions (${tossups} tossups, ${out.length - tossups} bonuses)`);

@@ -30,8 +30,8 @@ export function generatePrompt(o: GenerateOptions): string {
     ? `NCAL style: short "speedcheck" questions of one or two sentences, with one clear answer. ${o.type === 'bonus' ? `Bonuses have a short lead-in and ${rs.bonus.minParts}-${rs.bonus.maxParts} parts, ordered easy to hard.` : ''}`
     : `Quizbowl style: ${o.type === 'tossup' ? 'pyramidal tossups of 4-6 sentences, hardest clues first, giving way to easy clues, ending with "For 10 points, name this ..."' : 'bonuses with a lead-in and exactly 3 parts, ordered easy to hard'}.`;
   const shape = o.type === 'tossup'
-    ? `{ "type": "tossup", "rulesets": ["${o.rulesetId}"], "level": "${o.level}", "category": "${o.category}", "subcategory": "${o.subcategory}", "source": "ai", "expires_at": null, "text": "...", <answer spec fields> }`
-    : `{ "type": "bonus", "rulesets": ["${o.rulesetId}"], "level": "${o.level}", "category": "${o.category}", "subcategory": "${o.subcategory}", "source": "ai", "expires_at": null, "leadin": "...", "parts": [ { "text": "...", "part_difficulty": "easy" | "medium" | "hard", <answer spec fields> } ] }`;
+    ? `{ "type": "tossup", "rulesets": ["${o.rulesetId}"], "level": "${o.level}", "difficulty": "easy" | "medium" | "hard", "category": "${o.category}", "subcategory": "${o.subcategory}", "source": "ai", "expires_at": null, "text": "...", <answer spec fields> }`
+    : `{ "type": "bonus", "rulesets": ["${o.rulesetId}"], "level": "${o.level}", "difficulty": "easy" | "medium" | "hard", "category": "${o.category}", "subcategory": "${o.subcategory}", "source": "ai", "expires_at": null, "leadin": "...", "parts": [ { "text": "...", "part_difficulty": "easy" | "medium" | "hard", <answer spec fields> } ] }`;
   return `Write ${o.count} ${o.type === 'tossup' ? 'tossup' : 'bonus'} question${o.count === 1 ? '' : 's'} for the ${rs.name} (${rs.shortName}) at ${LEVEL_LABEL[o.level]} level.
 Subject: ${o.category} / ${o.subcategory}.
 
@@ -41,6 +41,7 @@ Rules:
 - Use only well-established facts. If you are not certain of a fact, do not use it.
 - One unambiguous answer per question. No two questions in the batch may share an answer.
 - Do not put the answer in the question text.
+- Give each question a "difficulty" of easy, medium, or hard, relative to the ${LEVEL_LABEL[o.level]} level (aim for a mix; a bonus's difficulty reflects its parts overall).
 - Write for typed answers: list every reasonable alternate and prompt-on.
 
 Output ONLY a JSON array (no commentary, no code fence), one object per question, in exactly this shape:

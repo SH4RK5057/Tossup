@@ -16,7 +16,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -37,7 +38,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -56,7 +58,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -75,7 +78,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -94,7 +98,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -113,7 +118,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -132,7 +138,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -151,7 +158,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -170,7 +178,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -189,7 +198,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -208,7 +218,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -227,7 +238,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -246,7 +258,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -265,7 +278,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -288,7 +302,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -310,7 +325,8 @@
   ],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -329,7 +345,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -348,7 +365,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -367,7 +385,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -388,7 +407,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -407,7 +427,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -426,7 +447,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -445,7 +467,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -464,7 +487,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -483,7 +507,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -502,7 +527,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -521,7 +547,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -540,7 +567,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -559,7 +587,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -578,7 +607,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -597,7 +627,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -616,7 +647,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -635,7 +667,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -654,7 +687,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -673,7 +707,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -692,7 +727,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -711,7 +747,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -730,7 +767,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -752,7 +790,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -771,7 +810,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -793,7 +833,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -812,7 +853,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -831,7 +873,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -850,7 +893,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -872,7 +916,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -894,7 +939,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -913,7 +959,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -934,7 +981,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -956,7 +1004,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -975,7 +1024,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -996,7 +1046,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1015,7 +1066,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1034,7 +1086,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1053,7 +1106,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -1072,7 +1126,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -1091,7 +1146,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1112,7 +1168,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1133,7 +1190,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -1193,7 +1251,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -1254,7 +1313,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -1303,7 +1363,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -1363,7 +1424,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -1414,7 +1476,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -1461,7 +1524,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -1521,7 +1585,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -1576,7 +1641,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -1626,7 +1692,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -1684,7 +1751,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -1742,7 +1810,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -1793,7 +1862,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -1812,7 +1882,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -1831,7 +1902,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1850,7 +1922,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -1869,7 +1942,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": true
+  "accepts_partial_name": true,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -1888,7 +1962,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1907,7 +1982,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1926,7 +2002,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": true
+  "accepts_partial_name": true,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -1945,7 +2022,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -1964,7 +2042,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -1983,7 +2062,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2002,7 +2082,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2021,7 +2102,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2040,7 +2122,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2059,7 +2142,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2078,7 +2162,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2099,7 +2184,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2118,7 +2204,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2137,7 +2224,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2158,7 +2246,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2177,7 +2266,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2196,7 +2286,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2215,7 +2306,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2234,7 +2326,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2253,7 +2346,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2272,7 +2366,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2291,7 +2386,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2310,7 +2406,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2332,7 +2429,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2351,7 +2449,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2370,7 +2469,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2391,7 +2491,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2410,7 +2511,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2429,7 +2531,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2450,7 +2553,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2469,7 +2573,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2488,7 +2593,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2509,7 +2615,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2528,7 +2635,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2547,7 +2655,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2568,7 +2677,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2587,7 +2697,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2610,7 +2721,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2629,7 +2741,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2648,7 +2761,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2667,7 +2781,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2688,7 +2803,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2709,7 +2825,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2731,7 +2848,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2752,7 +2870,8 @@
   ],
   "answer_type": "name",
   "duplicate_name": true,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2773,7 +2892,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2795,7 +2915,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2817,7 +2938,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2836,7 +2958,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2857,7 +2980,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2879,7 +3003,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2902,7 +3027,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2924,7 +3050,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -2945,7 +3072,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -2967,7 +3095,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -2986,7 +3115,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -3046,7 +3176,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -3106,7 +3237,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -3171,7 +3303,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -3218,7 +3351,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -3265,7 +3399,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -3325,7 +3460,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -3389,7 +3525,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -3440,7 +3577,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -3492,7 +3630,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -3548,7 +3687,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -3595,7 +3735,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3614,7 +3755,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3633,7 +3775,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -3652,7 +3795,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3671,7 +3815,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3695,7 +3840,8 @@
   ],
   "answer_type": "name",
   "duplicate_name": true,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -3720,7 +3866,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3739,7 +3886,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -3760,7 +3908,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -3779,7 +3928,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3800,7 +3950,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -3819,7 +3970,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3838,7 +3990,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -3860,7 +4013,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -3881,7 +4035,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": true
+  "accepts_partial_name": true,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3900,7 +4055,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -3921,7 +4077,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -3943,7 +4100,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -3966,7 +4124,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -3985,7 +4144,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4004,7 +4164,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4023,7 +4184,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4042,7 +4204,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4061,7 +4224,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4080,7 +4244,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4099,7 +4264,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4118,7 +4284,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4137,7 +4304,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4156,7 +4324,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4175,7 +4344,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4194,7 +4364,8 @@
   "prompt_on": [],
   "answer_type": "foreign_language",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4215,7 +4386,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4234,7 +4406,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4253,7 +4426,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4272,7 +4446,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4291,7 +4466,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4313,7 +4489,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4336,7 +4513,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4357,7 +4535,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4376,7 +4555,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4398,7 +4578,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4419,7 +4600,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4440,7 +4622,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4459,7 +4642,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4478,7 +4662,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4497,7 +4682,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4520,7 +4706,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4543,7 +4730,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4564,7 +4752,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4583,7 +4772,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4604,7 +4794,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4623,7 +4814,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4645,7 +4837,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4664,7 +4857,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4683,7 +4877,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4702,7 +4897,8 @@
   "prompt_on": [],
   "answer_type": "math",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4721,7 +4917,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4743,7 +4940,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4762,7 +4960,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4783,7 +4982,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -4804,7 +5004,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4823,7 +5024,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -4842,7 +5044,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4869,7 +5072,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -4888,7 +5092,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -4937,7 +5142,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -4999,7 +5205,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -5046,7 +5253,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -5095,7 +5303,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -5142,7 +5351,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -5195,7 +5405,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -5246,7 +5457,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -5303,7 +5515,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -5358,7 +5571,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -5410,7 +5624,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -5468,7 +5683,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -5517,7 +5733,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5538,7 +5755,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5557,7 +5775,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5579,7 +5798,8 @@
   ],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5600,7 +5820,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5621,7 +5842,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5643,7 +5865,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5662,7 +5885,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5685,7 +5909,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5707,7 +5932,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5726,7 +5952,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5745,7 +5972,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5766,7 +5994,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5788,7 +6017,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5807,7 +6037,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5828,7 +6059,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -5847,7 +6079,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5868,7 +6101,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -5890,7 +6124,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -5913,7 +6148,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5935,7 +6171,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": true
+  "accepts_partial_name": true,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5954,7 +6191,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5973,7 +6211,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -5992,7 +6231,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6014,7 +6254,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -6033,7 +6274,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6052,7 +6294,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6071,7 +6314,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -6090,7 +6334,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6109,7 +6354,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6130,7 +6376,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6151,7 +6398,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6175,7 +6423,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6198,7 +6447,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -6251,7 +6501,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -6298,7 +6549,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -6345,7 +6597,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -6392,7 +6645,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -6439,7 +6693,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -6486,7 +6741,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -6537,7 +6793,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -6590,7 +6847,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -6645,7 +6903,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6667,7 +6926,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6686,7 +6946,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6707,7 +6968,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6726,7 +6988,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6747,7 +7010,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6766,7 +7030,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -6787,7 +7052,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6809,7 +7075,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6831,7 +7098,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -6850,7 +7118,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -6871,7 +7140,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6892,7 +7162,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6914,7 +7185,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -6935,7 +7207,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -6959,7 +7232,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -6978,7 +7252,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7002,7 +7277,8 @@
   ],
   "answer_type": "name",
   "duplicate_name": true,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7023,7 +7299,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7045,7 +7322,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7064,7 +7342,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7087,7 +7366,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7106,7 +7386,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7125,7 +7406,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7146,7 +7428,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7167,7 +7450,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7186,7 +7470,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7205,7 +7490,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7224,7 +7510,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7243,7 +7530,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7264,7 +7552,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7283,7 +7572,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7305,7 +7595,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7327,7 +7618,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -7379,7 +7671,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -7428,7 +7721,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -7483,7 +7777,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -7536,7 +7831,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -7587,7 +7883,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -7636,7 +7933,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -7683,7 +7981,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -7734,7 +8033,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7753,7 +8053,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7772,7 +8073,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7791,7 +8093,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7810,7 +8113,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7829,7 +8133,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7848,7 +8153,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7870,7 +8176,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7892,7 +8199,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -7913,7 +8221,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7932,7 +8241,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7953,7 +8263,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -7972,7 +8283,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -7994,7 +8306,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8016,7 +8329,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -8035,7 +8349,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8059,7 +8374,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8082,7 +8398,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8104,7 +8421,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8123,7 +8441,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8142,7 +8461,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8164,7 +8484,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8187,7 +8508,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8206,7 +8528,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8225,7 +8548,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8246,7 +8570,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -8265,7 +8590,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8287,7 +8613,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8309,7 +8636,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "hard"
  },
  {
   "type": "tossup",
@@ -8328,7 +8656,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8347,7 +8676,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8366,7 +8696,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -8385,7 +8716,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -8404,7 +8736,8 @@
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "medium"
  },
  {
   "type": "tossup",
@@ -8426,7 +8759,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "tossup",
@@ -8447,7 +8781,8 @@
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": false,
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -8494,7 +8829,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -8545,7 +8881,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -8601,7 +8938,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -8653,7 +8991,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -8703,7 +9042,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -8757,7 +9097,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  },
  {
   "type": "bonus",
@@ -8811,7 +9152,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "medium"
  },
  {
   "type": "bonus",
@@ -8865,7 +9207,8 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "easy"
  },
  {
   "type": "bonus",
@@ -8920,6 +9263,7 @@
     "duplicate_name": false,
     "accepts_partial_name": false
    }
-  ]
+  ],
+  "difficulty": "hard"
  }
 ]

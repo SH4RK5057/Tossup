@@ -28,10 +28,18 @@ export type AnswerSpec = z.infer<typeof answerSpecSchema>;
 export const statusSchema = z.enum(['active', 'pending', 'retired']);
 export type Status = z.infer<typeof statusSchema>;
 
+export const partDifficultySchema = z.enum(['easy', 'medium', 'hard']);
+export type PartDifficulty = z.infer<typeof partDifficultySchema>;
+/** Overall difficulty of a tossup or bonus within its level. */
+export type Difficulty = PartDifficulty;
+export const DIFFICULTIES = ['easy', 'medium', 'hard'] as const;
+export const DIFFICULTY_LABEL: Record<Difficulty, string> = { easy: 'Easy', medium: 'Medium', hard: 'Hard' };
+
 const sharedShape = {
   id: z.string().min(1),
   rulesets: z.array(rulesetIdSchema).min(1),
   level: levelSchema,
+  difficulty: partDifficultySchema.default('medium'),
   category: z.string().min(1),
   subcategory: z.string().min(1),
   status: statusSchema,
@@ -50,9 +58,6 @@ export const tossupSchema = z.object({
   ...answerSpecSchema.shape,
 });
 export type Tossup = z.infer<typeof tossupSchema>;
-
-export const partDifficultySchema = z.enum(['easy', 'medium', 'hard']);
-export type PartDifficulty = z.infer<typeof partDifficultySchema>;
 
 export const bonusPartSchema = z.object({
   text: z.string().min(1),
@@ -80,6 +85,7 @@ export type Question = z.infer<typeof questionSchema>;
 const importShared = {
   rulesets: z.array(rulesetIdSchema).min(1),
   level: levelSchema,
+  difficulty: partDifficultySchema.default('medium'),
   category: z.string().min(1),
   subcategory: z.string().min(1),
   source: z.string().min(1).default('import'),

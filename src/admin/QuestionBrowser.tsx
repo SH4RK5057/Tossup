@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { normalizeText } from '../core/normalize';
 import { RULESETS } from '../core/rulesets';
-import { LEVELS, LEVEL_LABEL, RULESET_IDS, statusSchema, type Question } from '../core/types';
+import { DIFFICULTIES, DIFFICULTY_LABEL, LEVELS, LEVEL_LABEL, RULESET_IDS, statusSchema, type Question } from '../core/types';
 import { useApp } from '../ui/context';
 
 const textOf = (q: Question) => (q.type === 'tossup' ? q.text : q.leadin);
@@ -12,7 +12,7 @@ export function QuestionBrowser() {
   const [activating, setActivating] = useState(false);
   const [all, setAll] = useState<Question[] | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [f, setF] = useState({ status: '', ruleset: '', level: '', category: '', source: '', minReports: 0, search: '' });
+  const [f, setF] = useState({ status: '', ruleset: '', level: '', difficulty: '', category: '', source: '', minReports: 0, search: '' });
 
   useEffect(() => {
     repo.listQuestions().then(setAll, (e) => setError(String(e)));
@@ -27,6 +27,7 @@ export function QuestionBrowser() {
       (!f.status || q.status === f.status) &&
       (!f.ruleset || q.rulesets.includes(f.ruleset as 'ncal')) &&
       (!f.level || q.level === f.level) &&
+      (!f.difficulty || q.difficulty === f.difficulty) &&
       (!f.category || q.category === f.category) &&
       (!f.source || q.source === f.source) &&
       q.report_count >= f.minReports &&
@@ -109,6 +110,8 @@ export function QuestionBrowser() {
             <option value="">Any ruleset</option>{RULESET_IDS.map((r) => <option key={r} value={r}>{RULESETS[r].shortName}</option>)}</select>
           <select style={{ width: 120 }} value={f.level} onChange={(e) => set({ level: e.target.value })}>
             <option value="">Any level</option>{LEVELS.map((l) => <option key={l} value={l}>{LEVEL_LABEL[l]}</option>)}</select>
+          <select style={{ width: 130 }} value={f.difficulty} onChange={(e) => set({ difficulty: e.target.value })}>
+            <option value="">Any difficulty</option>{DIFFICULTIES.map((d) => <option key={d} value={d}>{DIFFICULTY_LABEL[d]}</option>)}</select>
           <select style={{ width: 150 }} value={f.category} onChange={(e) => set({ category: e.target.value })}>
             <option value="">Any category</option>{categories.map((c) => <option key={c}>{c}</option>)}</select>
           <select style={{ width: 150 }} value={f.source} onChange={(e) => set({ source: e.target.value })}>
@@ -139,7 +142,7 @@ export function QuestionBrowser() {
           <div className="table-wrap panel">
             <table>
               <thead><tr><th style={{ width: 28 }}><input type="checkbox" aria-label="Select all matching" checked={allMatchingSelected}
-                onChange={() => setSelected(allMatchingSelected ? new Set() : new Set(rows.map((q) => q.id)))} /></th><th>Type</th><th>Question</th><th>Answer</th><th>Status</th><th>Level</th><th>Source</th><th>Reports</th></tr></thead>
+                onChange={() => setSelected(allMatchingSelected ? new Set() : new Set(rows.map((q) => q.id)))} /></th><th>Type</th><th>Question</th><th>Answer</th><th>Status</th><th>Level</th><th>Difficulty</th><th>Source</th><th>Reports</th></tr></thead>
               <tbody>
                 {shown.map((q, i) => (
                   <tr key={q.id} style={selected.has(q.id) ? { background: 'var(--surface-2)' } : undefined}>
@@ -149,7 +152,7 @@ export function QuestionBrowser() {
                     <td><a href={`#/admin/edit/${encodeURIComponent(q.id)}`}>{textOf(q).slice(0, 90)}{textOf(q).length > 90 ? '…' : ''}</a>
                       <div className="muted small">{q.category} · {q.subcategory}</div></td>
                     <td className="small">{answerOf(q)}</td>
-                    <td>{q.status}</td><td>{LEVEL_LABEL[q.level]}</td><td className="small">{q.source}</td><td>{q.report_count}</td>
+                    <td>{q.status}</td><td>{LEVEL_LABEL[q.level]}</td><td>{DIFFICULTY_LABEL[q.difficulty]}</td><td className="small">{q.source}</td><td>{q.report_count}</td>
                   </tr>
                 ))}
               </tbody>

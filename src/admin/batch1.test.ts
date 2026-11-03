@@ -20,6 +20,15 @@ function specsOf(r: ImportRow): { label: string; spec: AnswerSpec; text: string 
 describe('batch 1 quality gates', () => {
   const parsed = rows.map((r) => importRowSchema.parse(r));
 
+  it('rows carry an explicit difficulty tag with a spread of all three', () => {
+    const counts: Record<string, number> = {};
+    for (const r of rows as { difficulty?: string }[]) {
+      expect(r.difficulty).toBeTruthy();
+      counts[r.difficulty!] = (counts[r.difficulty!] ?? 0) + 1;
+    }
+    expect(Object.keys(counts).sort()).toEqual(['easy', 'hard', 'medium']);
+  });
+
   it('every row passes the importer (schema, subject tree, no duplicates, none clash with the seed)', () => {
     const res = validateImport(rows, existing, opts);
     const bad = res.rows.filter((r) => r.status !== 'valid').map((r) => `${r.index}: ${r.status} ${r.preview} ${r.errors.join('; ')}`);
@@ -98,5 +107,15 @@ describe('batch 1 quality gates', () => {
       if (r.type === 'tossup') expect(r.text, r.text.slice(0, 40)).toContain('For 10 points');
       else expect(r.parts.length, r.leadin).toBe(3);
     }
+  });
+});
+
+describe('master import file', () => {
+  it('imports cleanly: every row valid, none duplicated', async () => {
+    const { default: master } = await import('../../batches/master-import.json');
+    const res = validateImport(master, [], opts);
+    const bad = res.rows.filter((r) => r.status !== 'valid').map((r) => `${r.index}: ${r.status} ${r.preview} ${r.errors.join('; ')}`);
+    expect(bad).toEqual([]);
+    expect(res.rows.length).toBe(78 + rows.length);
   });
 });

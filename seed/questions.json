@@ -22,7 +22,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-novice-t02",
@@ -47,7 +48,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-novice-t03",
@@ -72,7 +74,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-novice-t04",
@@ -97,7 +100,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-novice-t05",
@@ -124,7 +128,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-novice-t06",
@@ -149,7 +154,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-novice-t07",
@@ -174,7 +180,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-novice-t08",
@@ -199,7 +206,8 @@
     "prompt_on": [],
     "answer_type": "foreign_language",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-novice-t09",
@@ -226,7 +234,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-novice-t10",
@@ -253,7 +262,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-novice-b01",
@@ -306,7 +316,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-novice-b02",
@@ -372,7 +383,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-novice-b03",
@@ -425,7 +437,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-jv-t01",
@@ -450,7 +463,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-jv-t02",
@@ -475,7 +489,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-jv-t03",
@@ -503,7 +518,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": true
+    "accepts_partial_name": true,
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-jv-t04",
@@ -528,7 +544,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-jv-t05",
@@ -555,7 +572,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-jv-t06",
@@ -580,7 +598,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-jv-t07",
@@ -607,7 +626,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-jv-t08",
@@ -632,7 +652,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-jv-t09",
@@ -661,7 +682,8 @@
     ],
     "answer_type": "name",
     "duplicate_name": true,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-jv-t10",
@@ -686,7 +708,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-jv-b01",
@@ -742,7 +765,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-jv-b02",
@@ -806,7 +830,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-jv-b03",
@@ -862,7 +887,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-varsity-t01",
@@ -890,7 +916,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-varsity-t02",
@@ -915,7 +942,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-varsity-t03",
@@ -940,7 +968,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-varsity-t04",
@@ -965,7 +994,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-varsity-t05",
@@ -990,7 +1020,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-varsity-t06",
@@ -1017,7 +1048,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-varsity-t07",
@@ -1044,7 +1076,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-varsity-t08",
@@ -1074,7 +1107,8 @@
     ],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-ncal-varsity-t09",
@@ -1099,7 +1133,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-varsity-t10",
@@ -1129,7 +1164,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-varsity-b01",
@@ -1187,7 +1223,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "seed-ncal-varsity-b02",
@@ -1247,7 +1284,8 @@
         "duplicate_name": false,
         "accepts_partial_name": true
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-ncal-varsity-b03",
@@ -1302,7 +1340,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-novice-t01",
@@ -1330,7 +1369,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-novice-t02",
@@ -1361,7 +1401,8 @@
     ],
     "answer_type": "name",
     "duplicate_name": true,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-novice-t03",
@@ -1388,7 +1429,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-novice-t04",
@@ -1413,7 +1455,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-novice-t05",
@@ -1440,7 +1483,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-novice-t06",
@@ -1467,7 +1511,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-novice-t07",
@@ -1494,7 +1539,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-novice-t08",
@@ -1519,7 +1565,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-novice-t09",
@@ -1548,7 +1595,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-novice-t10",
@@ -1575,7 +1623,8 @@
     "prompt_on": [],
     "answer_type": "math",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-novice-b01",
@@ -1628,7 +1677,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-novice-b02",
@@ -1687,7 +1737,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-novice-b03",
@@ -1743,7 +1794,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-jv-t01",
@@ -1768,7 +1820,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-jv-t02",
@@ -1796,7 +1849,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": true
+    "accepts_partial_name": true,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-jv-t03",
@@ -1825,7 +1879,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-jv-t04",
@@ -1852,7 +1907,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-jv-t05",
@@ -1882,7 +1938,8 @@
     ],
     "answer_type": "name",
     "duplicate_name": true,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-jv-t06",
@@ -1909,7 +1966,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-jv-t07",
@@ -1938,7 +1996,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": true
+    "accepts_partial_name": true,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-jv-t08",
@@ -1963,7 +2022,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-jv-t09",
@@ -1988,7 +2048,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-jv-t10",
@@ -2013,7 +2074,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-jv-b01",
@@ -2073,7 +2135,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-jv-b02",
@@ -2130,7 +2193,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-jv-b03",
@@ -2183,7 +2247,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-varsity-t01",
@@ -2211,7 +2276,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": true
+    "accepts_partial_name": true,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-varsity-t02",
@@ -2238,7 +2304,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-varsity-t03",
@@ -2265,7 +2332,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-varsity-t04",
@@ -2295,7 +2363,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-varsity-t05",
@@ -2320,7 +2389,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-varsity-t06",
@@ -2345,7 +2415,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-varsity-t07",
@@ -2373,7 +2444,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "hard"
   },
   {
     "id": "seed-quizbowl-varsity-t08",
@@ -2402,7 +2474,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-varsity-t09",
@@ -2429,7 +2502,8 @@
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-varsity-t10",
@@ -2454,7 +2528,8 @@
     "prompt_on": [],
     "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": false,
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-varsity-b01",
@@ -2507,7 +2582,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "seed-quizbowl-varsity-b02",
@@ -2560,7 +2636,8 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "easy"
   },
   {
     "id": "seed-quizbowl-varsity-b03",
@@ -2625,6 +2702,7 @@
         "duplicate_name": false,
         "accepts_partial_name": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   }
 ]

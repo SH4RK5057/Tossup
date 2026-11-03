@@ -57,6 +57,17 @@ describe('pool selection', () => {
     const q = createSession(input({ rulesetId: 'quizbowl', level: 'jv' }));
     expect(q.tossups.every((t) => t.level === 'jv')).toBe(true);
   });
+  it('filters by any combination of difficulties', () => {
+    const easyOnly = createSession(input({ filter: { subjects: [], fullDistribution: false, difficulties: ['easy'] } }));
+    expect(easyOnly.tossups.length).toBeGreaterThan(0);
+    expect(easyOnly.tossups.every((q) => q.difficulty === 'easy')).toBe(true);
+    expect(easyOnly.bonuses.every((b) => b.difficulty === 'easy')).toBe(true);
+    const mix = createSession(input({ level: 'jv', filter: { subjects: [], fullDistribution: false, difficulties: ['easy', 'hard'] } }));
+    expect(mix.tossups.some((q) => q.difficulty === 'hard')).toBe(true);
+    expect(mix.tossups.every((q) => q.difficulty !== 'medium')).toBe(true);
+    const all = createSession(input({ filter: { subjects: [], fullDistribution: false, difficulties: ['easy', 'medium', 'hard'] } }));
+    expect(all.tossups.length).toBe(createSession(input()).tossups.length);
+  });
   it('honors subject filters', () => {
     const s = createSession(input({ filter: { subjects: ['Math/Geometry'], fullDistribution: false } }));
     expect(s.tossups.length).toBeGreaterThan(0);
