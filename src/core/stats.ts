@@ -8,8 +8,6 @@ export interface SessionSummary {
   date: string;
   rulesetId: RulesetId;
   level: Level;
-  /** All selected levels (older saved sessions only have `level`). */
-  levels?: Level[];
   kind: SessionKind;
   /** Snapshot of the settings this session was played with. */
   settings: SessionSettings;
@@ -58,7 +56,7 @@ export function summarize(s: SessionState, id: string, dateIso: string): Session
     }
   }
   return {
-    id, date: dateIso, rulesetId: s.rulesetId, level: s.level, levels: s.levels, kind: s.kind, settings: s.settings,
+    id, date: dateIso, rulesetId: s.rulesetId, level: s.level, kind: s.kind, settings: s.settings,
     untimed: isUntimed(s.kind, s.settings), score: s.score, tossups, bestStreak,
     bonuses: { played, points: bonusPoints, parts }, bySubject,
   };

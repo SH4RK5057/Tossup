@@ -13,7 +13,7 @@ const pool: Question[] = (seed as unknown[]).map((q) => questionSchema.parse(q))
 const NOW = '2026-11-02T00:00:00.000Z';
 
 const input = (over: Partial<SessionInput> = {}): SessionInput => ({
-  pool, seed: 'abc', rulesetId: 'ncal', levels: ['novice'], cumulative: true, kind: 'sim',
+  pool, seed: 'abc', rulesetId: 'ncal', level: 'novice', kind: 'sim',
   filter: { subjects: [], fullDistribution: false },
   settings: { tossupSeconds: 10, bonusSeconds: 20, bonusesOn: true },
   length: { kind: 'all' }, nowIso: NOW, ...over,
@@ -51,26 +51,11 @@ describe('pool selection', () => {
     expect(createSession(input({ pool: retired })).tossups).toHaveLength(0);
   });
   it('draws a share from lower levels for NCAL JV (cumulative pools)', () => {
-    const s = createSession(input({ levels: ['jv'] }));
+    const s = createSession(input({ level: 'jv' }));
     expect(s.tossups.some((q) => q.level === 'novice')).toBe(true);
     expect(s.tossups.some((q) => q.level === 'jv')).toBe(true);
-    const q = createSession(input({ rulesetId: 'quizbowl', levels: ['jv'] }));
+    const q = createSession(input({ rulesetId: 'quizbowl', level: 'jv' }));
     expect(q.tossups.every((t) => t.level === 'jv')).toBe(true);
-  });
-  it('draws from any combination of levels and can exclude the rest', () => {
-    const both = createSession(input({ levels: ['novice', 'varsity'], cumulative: false }));
-    expect(new Set(both.tossups.map((q) => q.level))).toEqual(new Set(['novice', 'varsity']));
-    const noNovice = createSession(input({ levels: ['jv', 'varsity'], cumulative: false }));
-    expect(noNovice.tossups.some((q) => q.level === 'novice')).toBe(false);
-    const all = createSession(input({ levels: ['novice', 'jv', 'varsity'] }));
-    expect(new Set(all.tossups.map((q) => q.level)).size).toBe(3);
-    expect(all.level).toBe('varsity');
-  });
-  it('cumulative pools add lower levels only when turned on', () => {
-    const on = createSession(input({ levels: ['varsity'], cumulative: true }));
-    expect(on.tossups.some((q) => q.level !== 'varsity')).toBe(true);
-    const off = createSession(input({ levels: ['varsity'], cumulative: false }));
-    expect(off.tossups.every((q) => q.level === 'varsity')).toBe(true);
   });
   it('honors subject filters', () => {
     const s = createSession(input({ filter: { subjects: ['Math/Geometry'], fullDistribution: false } }));
@@ -80,7 +65,7 @@ describe('pool selection', () => {
   it('full distribution includes the NCAL current events count', () => {
     const ncal = getRuleset('ncal');
     const seq = buildTossupSequence({
-      pool: pool.filter((q) => q.type === 'tossup') as never, ruleset: ncal, levels: ['novice'], cumulative: true, seed: 's',
+      pool: pool.filter((q) => q.type === 'tossup') as never, ruleset: ncal, level: 'novice', seed: 's',
       filter: { subjects: ['Math/Geometry'], fullDistribution: true }, limit: 20, nowIso: NOW,
     });
     // only one (non-expired) current events tossup exists in the seed, so we get exactly that one
@@ -115,7 +100,7 @@ describe('tossup scoring', () => {
     expect(s.records[0]).toMatchObject({ correct: true });
   });
   it('allows exactly one more attempt after a prompt', () => {
-    const s0 = createSession(input({ kind: 'tossup', levels: ['varsity'], filter: { subjects: ['Science/Biology 2'], fullDistribution: false } }));
+    const s0 = createSession(input({ kind: 'tossup', level: 'varsity', filter: { subjects: ['Science/Biology 2'], fullDistribution: false } }));
     expect(currentTossup(s0)!.prompt_on).toContain('RNA');
     const s1 = reduce(s0, { type: 'submitAnswer', answer: 'RNA' });
     expect(s1.phase).toBe('tossup_prompt');
@@ -127,7 +112,7 @@ describe('tossup scoring', () => {
     expect(s3.records[0]).toMatchObject({ correct: true });
   });
   it('does not prompt again at timeout', () => {
-    const s0 = createSession(input({ kind: 'tossup', levels: ['varsity'], filter: { subjects: ['Science/Biology 2'], fullDistribution: false } }));
+    const s0 = createSession(input({ kind: 'tossup', level: 'varsity', filter: { subjects: ['Science/Biology 2'], fullDistribution: false } }));
     const s1 = reduce(reduce(s0, { type: 'submitAnswer', answer: 'RNA' }), { type: 'timeout', answer: 'RNA' });
     expect(s1.phase).toBe('tossup_result');
   });

@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import { RULESETS } from '../core/rulesets';
 import { accuracy, aggregate } from '../core/stats';
-import { levelsLabel, type RulesetId } from '../core/types';
+import { LEVEL_LABEL, type RulesetId } from '../core/types';
 import { clearSessions, loadSessions } from '../storage/storage';
 import { formatDate, formatPercent } from './format';
 import { AccuracyBar, PartTable, SubjectTable } from './Summary';
@@ -53,7 +53,7 @@ export function StatsPage({ initialRuleset }: { initialRuleset: RulesetId }) {
                   <tr key={s.id}>
                     <td>{formatDate(s.date)}</td>
                     <td>{s.kind}{s.untimed && <span className="badge">untimed</span>}</td>
-                    <td>{levelsLabel(s.levels ?? [s.level])}</td>
+                    <td>{LEVEL_LABEL[s.level]}</td>
                     <td>{s.score}</td>
                     <td style={{ minWidth: 160 }}><AccuracyBar t={s.tossups} /></td>
                   </tr>

@@ -23,14 +23,8 @@ function lowerLevels(level: Level): Level[] {
 }
 
 /** Levels to load from the data store: the requested level plus lower levels when pools are cumulative. */
-export function levelsForPool(ruleset: Ruleset, levels: Level[], cumulative: boolean): Level[] {
-  const set = new Set<Level>(levels);
-  if (cumulative && ruleset.lowerLevelShare) lowerLevels(highestLevel(levels)).forEach((l) => set.add(l));
-  return LEVELS.filter((l) => set.has(l));
-}
-
-export function highestLevel(levels: Level[]): Level {
-  return [...levels].sort((a, b) => LEVELS.indexOf(b) - LEVELS.indexOf(a))[0] ?? 'novice';
+export function levelsForPool(ruleset: Ruleset, level: Level): Level[] {
+  return ruleset.lowerLevelShare ? [...lowerLevels(level), level] : [level];
 }
 
 const byId = <T extends { id: string }>(a: T, b: T) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
@@ -51,16 +45,14 @@ interface Candidates<T extends Question> {
 }
 
 function candidates<T extends Question>(
-  all: T[], ruleset: Ruleset, levels: Level[], cumulative: boolean, filter: PoolFilter, nowIso: string,
+  all: T[], ruleset: Ruleset, level: Level, filter: PoolFilter, nowIso: string,
 ): Candidates<T> {
   const servable = all.filter((q) => isServable(q, ruleset, nowIso));
   const wanted = filter.fullDistribution || filter.subjects.length === 0 ? null : new Set(filter.subjects);
   const passes = (q: T) => !wanted || wanted.has(subjectKey(q.category, q.subcategory));
-  const ownSet = new Set<Level>(levels);
-  // Lower levels (not selected) supply a share of questions only when cumulative pools are on.
-  const lowerSet = new Set<Level>(cumulative && ruleset.lowerLevelShare ? lowerLevels(highestLevel(levels)).filter((l) => !ownSet.has(l)) : []);
+  const lowerSet = new Set<Level>(ruleset.lowerLevelShare ? lowerLevels(level) : []);
   return {
-    own: servable.filter((q) => ownSet.has(q.level) && passes(q)).sort(byId),
+    own: servable.filter((q) => q.level === level && passes(q)).sort(byId),
     lower: servable.filter((q) => lowerSet.has(q.level) && passes(q)).sort(byId),
   };
 }
@@ -93,9 +85,7 @@ export function currentEventsCount(ruleset: Ruleset, level: Level, length: numbe
 export interface SequenceArgs<T extends Question> {
   pool: T[];
   ruleset: Ruleset;
-  levels: Level[];
-  /** NCAL cumulative pools: draw a share from levels below the selection. */
-  cumulative: boolean;
+  level: Level;
   filter: PoolFilter;
   seed: string;
   /** Maximum number of questions. Omit for everything available. */
@@ -105,8 +95,7 @@ export interface SequenceArgs<T extends Question> {
 
 function buildSequence<T extends Question>(a: SequenceArgs<T>, salt: string): T[] {
   const rng = createRng(`${a.seed}:${salt}`);
-  const c = candidates(a.pool, a.ruleset, a.levels, a.cumulative, a.filter, a.nowIso);
-  const level = highestLevel(a.levels);
+  const c = candidates(a.pool, a.ruleset, a.level, a.filter, a.nowIso);
   const own = shuffle(c.own, rng);
   const lower = shuffle(c.lower, rng);
   const share = a.ruleset.lowerLevelShare ?? 0;
@@ -116,7 +105,7 @@ function buildSequence<T extends Question>(a: SequenceArgs<T>, salt: string): T[
 
   // Full distribution: fixed current-events count, remaining slots by category weight.
   const isCE = (q: T) => q.category === 'Current Events';
-  const ce = pickMixed(own.filter(isCE), lower.filter(isCE), currentEventsCount(a.ruleset, level, limit), share, rng);
+  const ce = pickMixed(own.filter(isCE), lower.filter(isCE), currentEventsCount(a.ruleset, a.level, limit), share, rng);
   const rest = limit - ce.length;
   const weights = a.ruleset.distribution;
   const alloc = allocate(rest, weights);
@@ -147,9 +136,9 @@ export function buildBonusSequence(a: SequenceArgs<Bonus>): Bonus[] {
 
 /** Counts servable questions so the UI can show how many a filter matches. */
 export function countAvailable(
-  pool: Question[], ruleset: Ruleset, levels: Level[], cumulative: boolean, filter: PoolFilter, nowIso: string,
+  pool: Question[], ruleset: Ruleset, level: Level, filter: PoolFilter, nowIso: string,
 ): { tossups: number; bonuses: number } {
-  const t = candidates(pool.filter((q): q is Tossup => q.type === 'tossup'), ruleset, levels, cumulative, filter, nowIso);
-  const b = candidates(pool.filter((q): q is Bonus => q.type === 'bonus'), ruleset, levels, cumulative, filter, nowIso);
+  const t = candidates(pool.filter((q): q is Tossup => q.type === 'tossup'), ruleset, level, filter, nowIso);
+  const b = candidates(pool.filter((q): q is Bonus => q.type === 'bonus'), ruleset, level, filter, nowIso);
   return { tossups: t.own.length + t.lower.length, bonuses: b.own.length + b.lower.length };
 }

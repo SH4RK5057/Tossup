@@ -1,8 +1,7 @@
 import { getRuleset, RULESETS } from '../core/rulesets';
 import { subjectKey } from '../core/pool';
 import type { SessionKind } from '../core/session';
-import { LEVELS, LEVEL_LABEL, levelsLabel, type Level, type RulesetId } from '../core/types';
-import { highestLevel } from '../core/pool';
+import { LEVELS, LEVEL_LABEL, type Level, type RulesetId } from '../core/types';
 import type { Settings } from '../storage/storage';
 
 interface Props {
@@ -38,7 +37,7 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
   };
 
   const matchLabel = rs.match.kind === 'clock'
-    ? `Match simulation (${rs.match.minutes[highestLevel(settings.levels)]} min game clock)`
+    ? `Match simulation (${rs.match.minutes[settings.level]} min game clock)`
     : `Match simulation (${rs.match.tossups} tossups)`;
 
   return (
@@ -76,27 +75,12 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
               {Object.values(RULESETS).map((r) => <option key={r.id} value={r.id}>{r.name}</option>)}
             </select>
           </label>
-          <div className="field">
-            <span className="lbl">Levels (pick any combination)</span>
-            <div className="row">
-              {LEVELS.map((l) => (
-                <label key={l} className="inline-check">
-                  <input type="checkbox" checked={settings.levels.includes(l)}
-                    onChange={(e) => {
-                      const next: Level[] = e.target.checked ? [...settings.levels, l] : settings.levels.filter((x) => x !== l);
-                      if (next.length) set({ levels: LEVELS.filter((x) => next.includes(x)) });
-                    }} />
-                  {LEVEL_LABEL[l]}
-                </label>
-              ))}
-            </div>
-            {rs.lowerLevelShare !== null && highestLevel(settings.levels) !== 'novice' && (
-              <label className="inline-check small" style={{ marginTop: '0.4rem' }}>
-                <input type="checkbox" checked={settings.cumulative} onChange={(e) => set({ cumulative: e.target.checked })} />
-                Cumulative pools: about {Math.round(rs.lowerLevelShare * 100)}% from lower levels not selected
-              </label>
-            )}
-          </div>
+          <label className="field">
+            <span className="lbl">Level</span>
+            <select value={settings.level} onChange={(e) => set({ level: e.target.value as Level })}>
+              {LEVELS.map((l) => <option key={l} value={l}>{LEVEL_LABEL[l]}</option>)}
+            </select>
+          </label>
 
           <div className="field">
             <span className="lbl">Tossup answer time (seconds)</span>
@@ -198,7 +182,11 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
               ? 'Subject boxes are ignored while Full distribution is on.'
               : settings.subjects.length === 0 ? 'No boxes checked: all subjects.' : `${settings.subjects.length} subject(s) selected.`}
           </p>
-          <p className="hint">Drawing from: {levelsLabel(settings.levels)}.</p>
+          {rs.lowerLevelShare !== null && settings.level !== 'novice' && (
+            <p className="hint">
+              {LEVEL_LABEL[settings.level]} pools are cumulative: about {Math.round(rs.lowerLevelShare * 100)}% of questions come from lower levels.
+            </p>
+          )}
         </section>
       </div>
     </div>
