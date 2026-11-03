@@ -1,0 +1,16 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "questions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "status", "order": "ASCENDING" },
+        { "fieldPath": "type", "order": "ASCENDING" },
+        { "fieldPath": "level", "order": "ASCENDING" },
+        { "fieldPath": "rulesets", "arrayConfig": "CONTAINS" },
+        { "fieldPath": "random", "order": "ASCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

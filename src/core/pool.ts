@@ -22,6 +22,11 @@ function lowerLevels(level: Level): Level[] {
   return LEVELS.slice(0, LEVELS.indexOf(level));
 }
 
+/** Levels to load from the data store: the requested level plus lower levels when pools are cumulative. */
+export function levelsForPool(ruleset: Ruleset, level: Level): Level[] {
+  return ruleset.lowerLevelShare ? [...lowerLevels(level), level] : [level];
+}
+
 const byId = <T extends { id: string }>(a: T, b: T) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
 
 /** Takes `count` items, drawing a share from the lower-level list when cumulative pools apply. */
