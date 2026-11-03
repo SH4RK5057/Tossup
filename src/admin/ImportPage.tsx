@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react';
 import type { Question } from '../core/types';
 import { useApp } from '../ui/context';
-import { validateImport, type RowResult } from './importLogic';
+import { parseLooseJson, validateImport, type RowResult } from './importLogic';
 import { verifyCold, type VerifyItem, type VerifyResult } from './verifyLogic';
 
 function JsonInput({ label, value, onChange, placeholder }: { label: string; value: string; onChange: (v: string) => void; placeholder: string }) {
@@ -19,9 +19,7 @@ function JsonInput({ label, value, onChange, placeholder }: { label: string; val
   );
 }
 
-function parseJson(text: string): { value?: unknown; error?: string } {
-  try { return { value: JSON.parse(text) }; } catch (e) { return { error: `Not valid JSON: ${e instanceof Error ? e.message : String(e)}` }; }
-}
+const parseJson = parseLooseJson;
 
 const randomId = () => `imp-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 7)}`;
 

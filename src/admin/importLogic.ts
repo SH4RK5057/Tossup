@@ -2,6 +2,24 @@ import { normalizeText } from '../core/normalize';
 import { RULESETS } from '../core/rulesets';
 import { importRowSchema, type ImportRow, type Question } from '../core/types';
 
+/**
+ * Parses pasted JSON, tolerating what chat apps do to it: code fences, and curly "smart" quotes
+ * used in place of straight double quotes.
+ */
+export function parseLooseJson(text: string): { value?: unknown; error?: string } {
+  const trimmed = text.trim().replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '');
+  try {
+    return { value: JSON.parse(trimmed) };
+  } catch {
+    /* try repairing quotes below */
+  }
+  try {
+    return { value: JSON.parse(trimmed.replace(/[“”„‟″]/g, '"')) };
+  } catch (e) {
+    return { error: `Not valid JSON: ${e instanceof Error ? e.message : String(e)}` };
+  }
+}
+
 export type RowStatus = 'valid' | 'duplicate' | 'invalid';
 
 export interface RowResult {

@@ -98,3 +98,4 @@ describe('cold verification', () => {
     expect(verifyCold(existing, [{ id: t.id, answer: 'adjective' }]).errors).toHaveLength(1); // active, not pending
   });
 });
+

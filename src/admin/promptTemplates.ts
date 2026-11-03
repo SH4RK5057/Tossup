@@ -60,6 +60,7 @@ export function coldAnswerPrompt(pending: Question[]): string {
   return `Answer each of these academic-league questions from your own knowledge. Give the shortest correct answer. Do not explain.
 
 Output ONLY a JSON array with one object per question: { "id": "<the id>", "answer": "<your answer>" }.
+Put the JSON in a code block and use plain straight double quotes (") only, never curly quotes.
 For a bonus, "answer" must be an array of strings with one answer per part, in order.
 
 ${JSON.stringify(items, null, 2)}`;
