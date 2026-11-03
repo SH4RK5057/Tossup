@@ -8,7 +8,8 @@ const textOf = (q: Question) => (q.type === 'tossup' ? q.text : q.leadin);
 const answerOf = (q: Question) => (q.type === 'tossup' ? q.answer : q.parts.map((p) => p.answer).join(' / '));
 
 export function QuestionBrowser() {
-  const { repo } = useApp();
+  const { repo, user } = useApp();
+  const [activating, setActivating] = useState(false);
   const [all, setAll] = useState<Question[] | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [f, setF] = useState({ status: '', ruleset: '', level: '', category: '', source: '', minReports: 0, search: '' });
@@ -33,6 +34,20 @@ export function QuestionBrowser() {
     );
   }, [all, f]);
 
+  const pending = (all ?? []).filter((q) => q.status === 'pending');
+  const activateAll = async () => {
+    if (!confirm(`Make all ${pending.length} pending question(s) active? Players will see them immediately.`)) return;
+    setActivating(true);
+    try {
+      for (const q of pending) await repo.setStatus(q.id, 'active', user?.email ?? user?.uid ?? 'admin');
+      setAll(await repo.listQuestions());
+    } catch (e) {
+      setError(String(e));
+    } finally {
+      setActivating(false);
+    }
+  };
+
   const set = (patch: Partial<typeof f>) => setF({ ...f, ...patch });
 
   return (
@@ -56,6 +71,12 @@ export function QuestionBrowser() {
             <input type="number" min={0} style={{ width: 70 }} value={f.minReports} onChange={(e) => set({ minReports: Math.max(0, Number(e.target.value) || 0) })} /></label>
         </div>
       </div>
+      {pending.length > 0 && (
+        <div className="notice row">
+          <span>{pending.length} pending question(s).</span>
+          <button className="primary" disabled={activating} onClick={activateAll}>{activating ? 'Activating…' : `Activate all pending (${pending.length})`}</button>
+        </div>
+      )}
       {all === null && !error && <p className="muted">Loading…</p>}
       {all && (
         <>
