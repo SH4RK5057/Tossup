@@ -34,7 +34,7 @@ The pool is loaded once per practice session and held in memory. Firestore pool 
 4. Deploy rules and the index: paste `firestore.rules` into the Rules tab, and create the composite index from `firestore.indexes.json` (or run `firebase deploy --only firestore` with the Firebase CLI). If a query errors in the browser console with an index link, click it.
 5. Add yourself to the allowlist: copy your user's **UID** from Authentication → Users. In Firestore create collection `config`, document `admin`, field `uids` (array) containing that UID. Rules allow only listed UIDs to read non-active questions, write questions/versions, and read/update reports. Anyone can create a validated report.
 6. Local config: copy `.env.example` to `.env.local` and fill in the four values.
-7. Load questions: sign in at `#/admin`, go to **Import & verify**, and import `seed/questions.json` (change `status` handling: imports are saved as pending, so run them through verification, or flip them to active in the editor).
+7. Load questions: sign in at `#/admin` and open **Import & verify**. Imports are saved as *pending*, so either run the verification step or set questions active in the editor. (The seed file uses the same schema, with extra server fields that the importer ignores and regenerates.)
 
 ## Importer and verification
 
