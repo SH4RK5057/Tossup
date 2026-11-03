@@ -1,0 +1,2628 @@
+[
+  {
+    "id": "seed-ncal-novice-t01",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "English",
+    "subcategory": "English Grammar",
+    "status": "active",
+    "source": "seed",
+    "random": 0.078486,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What part of speech describes a noun, such as the word \"red\" in \"red ball\"?",
+    "answer": "adjective",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t02",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "English",
+    "subcategory": "Literary Terms",
+    "status": "active",
+    "source": "seed",
+    "random": 0.484827,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What figure of speech compares two things using the word \"like\" or \"as\"?",
+    "answer": "simile",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t03",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "English",
+    "subcategory": "Greek and Roman Mythology",
+    "status": "active",
+    "source": "seed",
+    "random": 0.208328,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Name the Greek king of the gods who wielded a thunderbolt.",
+    "answer": "Zeus",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t04",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Math",
+    "subcategory": "Arithmetic",
+    "status": "active",
+    "source": "seed",
+    "random": 0.394607,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Simplify the fraction six-twelfths to lowest terms.",
+    "answer": "1/2",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t05",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Math",
+    "subcategory": "Geometry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.231997,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "How many degrees are in the sum of the interior angles of any triangle?",
+    "answer": "180",
+    "required": null,
+    "alternates": [
+      "180 degrees"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t06",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Astronomy",
+    "status": "active",
+    "source": "seed",
+    "random": 0.631613,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which planet, sixth from the Sun, is famous for its prominent rings?",
+    "answer": "Saturn",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t07",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Social Science",
+    "subcategory": "U.S. Geography",
+    "status": "active",
+    "source": "seed",
+    "random": 0.271751,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Sacramento is the capital of which U.S. state?",
+    "answer": "California",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t08",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Fine Arts",
+    "subcategory": "Spanish 1",
+    "status": "active",
+    "source": "seed",
+    "random": 0.504833,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Give the Spanish phrase, including its article, for \"the house.\"",
+    "answer": "la casa",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "foreign_language",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t09",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "English",
+    "subcategory": "English Vocabulary",
+    "status": "active",
+    "source": "seed",
+    "random": 0.23446,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Spell the word \"rhythm,\" which means a strong, regular, repeated pattern of sound or movement.",
+    "answer": "rhythm",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "spelling",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-t10",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Current Events",
+    "subcategory": "Current Events",
+    "status": "active",
+    "source": "seed",
+    "random": 0.395932,
+    "expires_at": "2027-03-01T00:00:00.000Z",
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "The 2026 Winter Olympics were co-hosted by Milan and which other Italian city?",
+    "answer": "Cortina d'Ampezzo",
+    "required": "Cortina",
+    "alternates": [
+      "Cortina"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-novice-b01",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "English",
+    "subcategory": "Literary Terms",
+    "status": "active",
+    "source": "seed",
+    "random": 0.116564,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about figures of speech.",
+    "parts": [
+      {
+        "text": "What term names an extreme exaggeration used for effect?",
+        "part_difficulty": "easy",
+        "answer": "hyperbole",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What term names a comparison made without using \"like\" or \"as\"?",
+        "part_difficulty": "medium",
+        "answer": "metaphor",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What term names the giving of human traits to non-human things?",
+        "part_difficulty": "hard",
+        "answer": "personification",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-novice-b02",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Math",
+    "subcategory": "Geometry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.399993,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about triangles.",
+    "parts": [
+      {
+        "text": "How many sides does a triangle have?",
+        "part_difficulty": "easy",
+        "answer": "3",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "math",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What is the area of a triangle with base 6 and height 4?",
+        "part_difficulty": "easy",
+        "answer": "12",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "math",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What kind of triangle has three equal sides?",
+        "part_difficulty": "medium",
+        "answer": "equilateral triangle",
+        "required": null,
+        "alternates": [
+          "equilateral"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "In a right triangle with legs of length 3 and 4, what is the length of the hypotenuse?",
+        "part_difficulty": "hard",
+        "answer": "5",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "math",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-novice-b03",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Astronomy",
+    "status": "active",
+    "source": "seed",
+    "random": 0.179128,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about the planets.",
+    "parts": [
+      {
+        "text": "Which planet is closest to the Sun?",
+        "part_difficulty": "easy",
+        "answer": "Mercury",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which planet is known as the Red Planet?",
+        "part_difficulty": "medium",
+        "answer": "Mars",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which is the largest planet in the Solar System?",
+        "part_difficulty": "hard",
+        "answer": "Jupiter",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-jv-t01",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "English",
+    "subcategory": "American Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.103656,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which author wrote the novel \"The Great Gatsby\"?",
+    "answer": "F. Scott Fitzgerald",
+    "required": "Fitzgerald",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t02",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "English",
+    "subcategory": "Mythology 2",
+    "status": "active",
+    "source": "seed",
+    "random": 0.231616,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "In Norse mythology, what is the name of Odin's eight-legged horse?",
+    "answer": "Sleipnir",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t03",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Fine Arts",
+    "subcategory": "Art History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.350322,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which Italian Renaissance artist painted the \"Mona Lisa\"?",
+    "answer": "Leonardo da Vinci",
+    "required": null,
+    "alternates": [
+      "da Vinci",
+      "Leonardo"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+  },
+  {
+    "id": "seed-ncal-jv-t04",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Math",
+    "subcategory": "Algebra 2",
+    "status": "active",
+    "source": "seed",
+    "random": 0.401111,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What is the base-2 logarithm of 32?",
+    "answer": "5",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t05",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Math",
+    "subcategory": "Trigonometry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.028178,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What is the exact value of the sine of thirty degrees?",
+    "answer": "1/2",
+    "required": null,
+    "alternates": [
+      "0.5"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t06",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.072035,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What is the chemical symbol for the element sodium?",
+    "answer": "Na",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t07",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Biology 1",
+    "status": "active",
+    "source": "seed",
+    "random": 0.883117,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which organelle is known as the \"powerhouse of the cell\"?",
+    "answer": "mitochondria",
+    "required": null,
+    "alternates": [
+      "mitochondrion"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t08",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Social Science",
+    "subcategory": "U.S. History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.993905,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which U.S. president issued the Emancipation Proclamation?",
+    "answer": "Abraham Lincoln",
+    "required": "Lincoln",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t09",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Social Science",
+    "subcategory": "U.S. History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.439953,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which president won the 1906 Nobel Peace Prize for mediating the end of the Russo-Japanese War? Give his full name.",
+    "answer": "Theodore Roosevelt",
+    "required": "Roosevelt",
+    "alternates": [
+      "Teddy Roosevelt"
+    ],
+    "prompt_on": [
+      "Roosevelt"
+    ],
+    "answer_type": "name",
+    "duplicate_name": true,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-t10",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Current Events",
+    "subcategory": "Current Events",
+    "status": "active",
+    "source": "seed",
+    "random": 0.721652,
+    "expires_at": "2027-01-01T00:00:00.000Z",
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "The final of the 2026 FIFA World Cup was scheduled to be played at MetLife Stadium in which U.S. state?",
+    "answer": "New Jersey",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-jv-b01",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Social Science",
+    "subcategory": "U.S. History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.033485,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about the American Revolution.",
+    "parts": [
+      {
+        "text": "Which document, adopted in 1776, declared the colonies independent from Britain?",
+        "part_difficulty": "easy",
+        "answer": "Declaration of Independence",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Who commanded the Continental Army?",
+        "part_difficulty": "medium",
+        "answer": "George Washington",
+        "required": "Washington",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "At which 1781 battle in Virginia did British General Cornwallis surrender?",
+        "part_difficulty": "hard",
+        "answer": "Yorktown",
+        "required": null,
+        "alternates": [
+          "Battle of Yorktown",
+          "Siege of Yorktown"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-jv-b02",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.404061,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about the periodic table.",
+    "parts": [
+      {
+        "text": "What is the chemical symbol for gold?",
+        "part_difficulty": "easy",
+        "answer": "Au",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What is the lightest element?",
+        "part_difficulty": "easy",
+        "answer": "hydrogen",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which noble gas has atomic number 10?",
+        "part_difficulty": "medium",
+        "answer": "neon",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which element has the chemical symbol Fe?",
+        "part_difficulty": "hard",
+        "answer": "iron",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-jv-b03",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "jv",
+    "category": "Math",
+    "subcategory": "Algebra 2",
+    "status": "active",
+    "source": "seed",
+    "random": 0.847317,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these math problems.",
+    "parts": [
+      {
+        "text": "What is the square root of 144?",
+        "part_difficulty": "easy",
+        "answer": "12",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "math",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What is 2 raised to the fifth power?",
+        "part_difficulty": "medium",
+        "answer": "32",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "math",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Solve for x: 3x + 5 = 20.",
+        "part_difficulty": "hard",
+        "answer": "5",
+        "required": null,
+        "alternates": [
+          "x=5",
+          "x = 5"
+        ],
+        "prompt_on": [],
+        "answer_type": "math",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-varsity-t01",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "English",
+    "subcategory": "World Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.104886,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which Russian author wrote \"Crime and Punishment\"?",
+    "answer": "Fyodor Dostoevsky",
+    "required": "Dostoevsky",
+    "alternates": [
+      "Dostoyevsky",
+      "Fyodor Dostoyevsky"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t02",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "English",
+    "subcategory": "English Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.516112,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which English playwright wrote \"Hamlet\"?",
+    "answer": "William Shakespeare",
+    "required": "Shakespeare",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t03",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Fine Arts",
+    "subcategory": "Architecture",
+    "status": "active",
+    "source": "seed",
+    "random": 0.395906,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which architect designed the Guggenheim Museum in Bilbao, Spain?",
+    "answer": "Frank Gehry",
+    "required": "Gehry",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t04",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Fine Arts",
+    "subcategory": "Operas and Musicals",
+    "status": "active",
+    "source": "seed",
+    "random": 0.390623,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which composer wrote the opera \"The Magic Flute\"?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "required": "Mozart",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t05",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Math",
+    "subcategory": "Pre-Calculus",
+    "status": "active",
+    "source": "seed",
+    "random": 0.045131,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8, and so on?",
+    "answer": "2",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t06",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Math",
+    "subcategory": "Calculus",
+    "status": "active",
+    "source": "seed",
+    "random": 0.733712,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What is the derivative of x squared with respect to x?",
+    "answer": "2x",
+    "required": null,
+    "alternates": [
+      "2*x"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t07",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Science",
+    "subcategory": "Physics",
+    "status": "active",
+    "source": "seed",
+    "random": 0.914062,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What is the SI unit of force?",
+    "answer": "newton",
+    "required": null,
+    "alternates": [
+      "newtons"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t08",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Science",
+    "subcategory": "Biology 2",
+    "status": "active",
+    "source": "seed",
+    "random": 0.366429,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Which type of RNA carries amino acids to the ribosome during translation?",
+    "answer": "transfer RNA",
+    "required": null,
+    "alternates": [
+      "tRNA"
+    ],
+    "prompt_on": [
+      "RNA",
+      "ribonucleic acid"
+    ],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t09",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Social Science",
+    "subcategory": "World Governments",
+    "status": "active",
+    "source": "seed",
+    "random": 0.635524,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "What term describes a government in which religious leaders rule in the name of a deity?",
+    "answer": "theocracy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-t10",
+    "type": "tossup",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Current Events",
+    "subcategory": "Current Events",
+    "status": "active",
+    "source": "seed",
+    "random": 0.058317,
+    "expires_at": "2027-05-01T00:00:00.000Z",
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Pope Leo XIV, elected in 2025, is the first pope born in which country?",
+    "answer": "United States",
+    "required": null,
+    "alternates": [
+      "United States of America",
+      "USA",
+      "US",
+      "America"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-ncal-varsity-b01",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Fine Arts",
+    "subcategory": "Composers and Works",
+    "status": "active",
+    "source": "seed",
+    "random": 0.540196,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about Ludwig van Beethoven.",
+    "parts": [
+      {
+        "text": "In which German city was Beethoven born?",
+        "part_difficulty": "easy",
+        "answer": "Bonn",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which Beethoven symphony ends with the \"Ode to Joy\"?",
+        "part_difficulty": "medium",
+        "answer": "Ninth Symphony",
+        "required": null,
+        "alternates": [
+          "Symphony No. 9",
+          "Choral Symphony",
+          "Symphony 9",
+          "9th"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What is the title of Beethoven's only opera?",
+        "part_difficulty": "hard",
+        "answer": "Fidelio",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-varsity-b02",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Social Science",
+    "subcategory": "World History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.142008,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about ancient Rome.",
+    "parts": [
+      {
+        "text": "Who was the first Roman emperor?",
+        "part_difficulty": "easy",
+        "answer": "Augustus",
+        "required": null,
+        "alternates": [
+          "Octavian",
+          "Caesar Augustus"
+        ],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which Carthaginian general crossed the Alps with elephants to attack Rome?",
+        "part_difficulty": "medium",
+        "answer": "Hannibal",
+        "required": null,
+        "alternates": [
+          "Hannibal Barca"
+        ],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "The deposition of which emperor in 476 AD is traditionally dated as the fall of the Western Roman Empire?",
+        "part_difficulty": "hard",
+        "answer": "Romulus Augustulus",
+        "required": "Augustulus",
+        "alternates": [
+          "Romulus Augustus"
+        ],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": true
+      }
+    ]
+  },
+  {
+    "id": "seed-ncal-varsity-b03",
+    "type": "bonus",
+    "rulesets": [
+      "ncal"
+    ],
+    "level": "varsity",
+    "category": "Science",
+    "subcategory": "Physics",
+    "status": "active",
+    "source": "seed",
+    "random": 0.417175,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about physics.",
+    "parts": [
+      {
+        "text": "What is the SI unit of frequency?",
+        "part_difficulty": "easy",
+        "answer": "hertz",
+        "required": null,
+        "alternates": [
+          "Hz"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which subatomic particle carries a negative electric charge?",
+        "part_difficulty": "medium",
+        "answer": "electron",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which scientist's equation E equals m c squared relates mass and energy?",
+        "part_difficulty": "hard",
+        "answer": "Albert Einstein",
+        "required": "Einstein",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-novice-t01",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Literature",
+    "subcategory": "American Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.212765,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "In one novel by this author, a boy tricks his friends into whitewashing a fence in St. Petersburg, Missouri. A sequel narrated by that boy's friend Huckleberry Finn follows a journey down the Mississippi River with the escaped slave Jim. For 10 points, name this American author of \"The Adventures of Tom Sawyer,\" who wrote under a pen name.",
+    "answer": "Mark Twain",
+    "required": "Twain",
+    "alternates": [
+      "Samuel Clemens",
+      "Samuel Langhorne Clemens"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t02",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "History",
+    "subcategory": "American History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.564918,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This man's first inaugural address declared that \"the only thing we have to fear is fear itself.\" He created programs like the Civilian Conservation Corps and Social Security as part of the New Deal. Elected four times, he led the United States for most of World War II. For 10 points, name this president, nicknamed \"FDR.\"",
+    "answer": "Franklin D. Roosevelt",
+    "required": "Roosevelt",
+    "alternates": [
+      "Franklin Roosevelt",
+      "Franklin Delano Roosevelt",
+      "FDR"
+    ],
+    "prompt_on": [
+      "Roosevelt"
+    ],
+    "answer_type": "name",
+    "duplicate_name": true,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t03",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Biology",
+    "status": "active",
+    "source": "seed",
+    "random": 0.794321,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This organelle contains folds called cristae and an inner space called the matrix. Its own circular DNA is cited as evidence for the endosymbiotic theory. Most of a cell's ATP is produced here through oxidative phosphorylation. For 10 points, name this \"powerhouse of the cell.\"",
+    "answer": "mitochondria",
+    "required": null,
+    "alternates": [
+      "mitochondrion"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t04",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.334486,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Allotropes of this element include graphite, diamond, and buckminsterfullerene. Its isotope with mass number 14 is used in radiometric dating. With atomic number 6, it forms four covalent bonds and is the basis of organic chemistry. For 10 points, name this element with chemical symbol C.",
+    "answer": "carbon",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t05",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Fine Arts",
+    "subcategory": "Visual Arts",
+    "status": "active",
+    "source": "seed",
+    "random": 0.05538,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This painter's \"Irises\" and \"Café Terrace at Night\" were completed in the final years of his life. After an argument with Paul Gauguin in Arles, he cut off part of his own ear. His works include a series of sunflowers and \"The Starry Night.\" For 10 points, name this Dutch Post-Impressionist.",
+    "answer": "Vincent van Gogh",
+    "required": "Gogh",
+    "alternates": [
+      "van Gogh"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t06",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Geography",
+    "subcategory": "World Geography",
+    "status": "active",
+    "source": "seed",
+    "random": 0.065051,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This country's Great Barrier Reef lies off its northeastern coast, and its red center contains the monolith Uluru. Its capital is Canberra, though its largest city is Sydney. Kangaroos and koalas are native to this country. For 10 points, name this island country and continent in the Southern Hemisphere.",
+    "answer": "Australia",
+    "required": null,
+    "alternates": [
+      "Commonwealth of Australia"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t07",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Mythology",
+    "subcategory": "Greco-Roman Mythology",
+    "status": "active",
+    "source": "seed",
+    "random": 0.100777,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This hero was driven mad by Hera and killed his own family, then performed penance for King Eurystheus. His tasks included cleaning the Augean stables, capturing Cerberus, and slaying the Nemean lion. For 10 points, name this Greek hero, the son of Zeus and Alcmene, called Hercules by the Romans.",
+    "answer": "Heracles",
+    "required": null,
+    "alternates": [
+      "Hercules"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t08",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Religion",
+    "subcategory": "Judaism",
+    "status": "active",
+    "source": "seed",
+    "random": 0.093839,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "According to the Book of Exodus, this man was hidden as a baby in a basket among the reeds of the Nile. He confronted a burning bush and called down ten plagues upon Egypt. He later received the Ten Commandments on Mount Sinai. For 10 points, name this prophet who led the Israelites out of Egypt.",
+    "answer": "Moses",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t09",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Math",
+    "status": "active",
+    "source": "seed",
+    "random": 0.744417,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Euclid proved that there are infinitely many examples of this type of number. His argument multiplies any finite list of them together and adds one. A number of this type has exactly two positive divisors, one and itself. For 10 points, name this type of number, examples of which are 2, 3, 5, and 7.",
+    "answer": "prime number",
+    "required": null,
+    "alternates": [
+      "prime",
+      "primes",
+      "prime numbers"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-t10",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Math",
+    "status": "active",
+    "source": "seed",
+    "random": 0.454253,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "In binary, this number is written as 10, and it is the base of that number system. It is the only even prime number, and the square root of this number is irrational. It is the smallest prime, and a pair of anything has this many members. For 10 points, give this number, the successor of one.",
+    "answer": "2",
+    "required": null,
+    "alternates": [
+      "two"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-novice-b01",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "History",
+    "subcategory": "American History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.03282,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about American presidents.",
+    "parts": [
+      {
+        "text": "Who was the first president of the United States?",
+        "part_difficulty": "easy",
+        "answer": "George Washington",
+        "required": "Washington",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which president appears on the five-dollar bill?",
+        "part_difficulty": "medium",
+        "answer": "Abraham Lincoln",
+        "required": "Lincoln",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which president completed the Louisiana Purchase in 1803?",
+        "part_difficulty": "hard",
+        "answer": "Thomas Jefferson",
+        "required": "Jefferson",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-novice-b02",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Science",
+    "subcategory": "Other Science",
+    "status": "active",
+    "source": "seed",
+    "random": 0.367985,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about changes of state.",
+    "parts": [
+      {
+        "text": "What is the process by which a solid turns into a liquid?",
+        "part_difficulty": "easy",
+        "answer": "melting",
+        "required": null,
+        "alternates": [
+          "melt",
+          "fusion"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What is the process by which a liquid turns into a gas?",
+        "part_difficulty": "medium",
+        "answer": "vaporization",
+        "required": null,
+        "alternates": [
+          "evaporation",
+          "boiling"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What is the process by which a gas turns directly into a solid?",
+        "part_difficulty": "hard",
+        "answer": "deposition",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-novice-b03",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "novice",
+    "category": "Geography",
+    "subcategory": "World Geography",
+    "status": "active",
+    "source": "seed",
+    "random": 0.047019,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about the continents.",
+    "parts": [
+      {
+        "text": "Which is the largest continent by area?",
+        "part_difficulty": "easy",
+        "answer": "Asia",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which continent contains the Sahara Desert?",
+        "part_difficulty": "medium",
+        "answer": "Africa",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which is the smallest continent by area?",
+        "part_difficulty": "hard",
+        "answer": "Australia",
+        "required": null,
+        "alternates": [
+          "Oceania",
+          "Australia/Oceania"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-jv-t01",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Literature",
+    "subcategory": "British Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.599455,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "The lawyer Mr. Jaggers and the convict Magwitch appear in one novel by this author, which features Pip and the jilted Miss Havisham. Another of his novels features Sydney Carton, who sacrifices himself during the French Revolution, and opens with \"It was the best of times, it was the worst of times.\" For 10 points, name this Victorian author of \"Oliver Twist\" and \"A Tale of Two Cities.\"",
+    "answer": "Charles Dickens",
+    "required": "Dickens",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t02",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "History",
+    "subcategory": "European History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.618675,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This man took power in the coup of 18 Brumaire in 1799 and promulgated a civil code that bears his name. He crowned himself emperor at Notre-Dame in 1804 and was defeated at the Battle of Leipzig and, after returning from Elba, at Waterloo. He died in exile on Saint Helena. For 10 points, name this French emperor.",
+    "answer": "Napoleon Bonaparte",
+    "required": "Bonaparte",
+    "alternates": [
+      "Napoleon",
+      "Napoleon I"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+  },
+  {
+    "id": "seed-quizbowl-jv-t03",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.371274,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Johann Loschmidt estimated a related constant for the number of molecules per volume of gas. This quantity is named for an Italian scientist who proposed in 1811 that equal volumes of gases contain equal numbers of particles. For 10 points, name this number, approximately 6.022 times ten to the twenty-third, the number of particles in one mole.",
+    "answer": "Avogadro's number",
+    "required": null,
+    "alternates": [
+      "Avogadro constant",
+      "Avogadro",
+      "Avogadros number"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t04",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Biology",
+    "status": "active",
+    "source": "seed",
+    "random": 0.218469,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Rosalind Franklin's Photo 51 provided crucial X-ray diffraction evidence for the structure of this molecule. Erwin Chargaff showed that its adenine and thymine, and its guanine and cytosine, occur in equal amounts. James Watson and Francis Crick described its double helix in 1953. For 10 points, name this nucleic acid that stores genetic information.",
+    "answer": "DNA",
+    "required": null,
+    "alternates": [
+      "deoxyribonucleic acid"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t05",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Fine Arts",
+    "subcategory": "Auditory Arts",
+    "status": "active",
+    "source": "seed",
+    "random": 0.72268,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This composer wrote six concertos dedicated to the Margrave of Brandenburg and a set of preludes and fugues titled \"The Well-Tempered Clavier.\" He served as Kantor of the Thomaskirche in Leipzig and wrote the Mass in B minor and the Goldberg Variations. For 10 points, name this Baroque German composer of the \"Toccata and Fugue in D minor.\"",
+    "answer": "Johann Sebastian Bach",
+    "required": "Bach",
+    "alternates": [
+      "J.S. Bach",
+      "JS Bach"
+    ],
+    "prompt_on": [
+      "Bach"
+    ],
+    "answer_type": "name",
+    "duplicate_name": true,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t06",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Geography",
+    "subcategory": "World Geography",
+    "status": "active",
+    "source": "seed",
+    "random": 0.178722,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "The Aswan High Dam on this river created Lake Nasser. Its two main tributaries are the White and Blue branches, which meet at Khartoum. It flows north through Sudan and Egypt and empties into the Mediterranean through a large delta. For 10 points, name this longest river of Africa, whose valley hosted ancient Egyptian civilization.",
+    "answer": "Nile River",
+    "required": null,
+    "alternates": [
+      "Nile"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t07",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Religion",
+    "subcategory": "Eastern Religions",
+    "status": "active",
+    "source": "seed",
+    "random": 0.741207,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This man was born in Lumbini as a prince, and left his palace after seeing an old man, a sick man, and a corpse. He practiced extreme asceticism before achieving enlightenment under a Bodhi tree at Bodh Gaya. His first sermon at Sarnath set out the Four Noble Truths. For 10 points, name this founder of Buddhism.",
+    "answer": "Siddhartha Gautama",
+    "required": "Gautama",
+    "alternates": [
+      "Buddha",
+      "Gautama Buddha",
+      "the Buddha"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+  },
+  {
+    "id": "seed-quizbowl-jv-t08",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Philosophy",
+    "subcategory": "Modern Philosophy",
+    "status": "active",
+    "source": "seed",
+    "random": 0.017979,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This thinker wrote that an evil demon might deceive him about everything, and he doubted all he could in order to find a foundation for knowledge. His \"Meditations on First Philosophy\" and \"Discourse on Method\" argue for mind-body dualism. For 10 points, name this French philosopher who wrote \"I think, therefore I am.\"",
+    "answer": "René Descartes",
+    "required": "Descartes",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t09",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Social Science",
+    "subcategory": "Economics",
+    "status": "active",
+    "source": "seed",
+    "random": 0.56304,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This economist described a division of labor in a pin factory, using it to explain how specialization improves productivity. He argued that individuals pursuing their own interest are led as if by an \"invisible hand\" to benefit society. For 10 points, name this Scottish economist who wrote \"The Wealth of Nations\" in 1776.",
+    "answer": "Adam Smith",
+    "required": "Smith",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-t10",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Physics",
+    "status": "active",
+    "source": "seed",
+    "random": 0.827651,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This scientist explained the photoelectric effect by proposing that light comes in quanta, work for which he won the 1921 Nobel Prize. He explained Brownian motion in his annus mirabilis of 1905, the year he published his special theory of relativity. His general theory of relativity describes gravity as the curvature of spacetime. For 10 points, name this physicist who wrote \"E equals m c squared.\"",
+    "answer": "Albert Einstein",
+    "required": "Einstein",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-jv-b01",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Literature",
+    "subcategory": "British Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.092328,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about plays by William Shakespeare.",
+    "parts": [
+      {
+        "text": "Which play features the feuding Montagues and Capulets?",
+        "part_difficulty": "easy",
+        "answer": "Romeo and Juliet",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [
+          "Romeo",
+          "Juliet"
+        ],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "In which play does the sorcerer Prospero live on an island with his daughter Miranda?",
+        "part_difficulty": "medium",
+        "answer": "The Tempest",
+        "required": null,
+        "alternates": [
+          "Tempest"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "In which play does Iago manipulate the Moorish general whose wife is Desdemona?",
+        "part_difficulty": "hard",
+        "answer": "Othello",
+        "required": null,
+        "alternates": [
+          "Othello, the Moor of Venice"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-jv-b02",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "status": "active",
+    "source": "seed",
+    "random": 0.401684,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about gases.",
+    "parts": [
+      {
+        "text": "Which gas makes up about 78 percent of Earth's atmosphere?",
+        "part_difficulty": "easy",
+        "answer": "nitrogen",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which gas do plants absorb from the air during photosynthesis?",
+        "part_difficulty": "medium",
+        "answer": "carbon dioxide",
+        "required": null,
+        "alternates": [
+          "CO2"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which noble gas, the second-lightest element, is used to fill balloons and airships?",
+        "part_difficulty": "hard",
+        "answer": "helium",
+        "required": null,
+        "alternates": [
+          "He"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-jv-b03",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "jv",
+    "category": "History",
+    "subcategory": "World History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.151175,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about World War II.",
+    "parts": [
+      {
+        "text": "Which Hawaiian naval base did Japan attack on December 7, 1941?",
+        "part_difficulty": "easy",
+        "answer": "Pearl Harbor",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "The Allied D-Day landings in 1944 took place on the beaches of which region of France?",
+        "part_difficulty": "medium",
+        "answer": "Normandy",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which Japanese city was the target of the first atomic bomb used in warfare, on August 6, 1945?",
+        "part_difficulty": "hard",
+        "answer": "Hiroshima",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-varsity-t01",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Literature",
+    "subcategory": "European Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.326309,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This author's epic includes a character who tells of Francesca da Rimini and Paolo being blown about by a whirlwind, and another who describes Count Ugolino gnawing on a skull. In it, the Roman poet Virgil guides the narrator through nine circles, while Beatrice leads him through Paradise. For 10 points, name this Florentine author of the \"Divine Comedy.\"",
+    "answer": "Dante Alighieri",
+    "required": "Dante",
+    "alternates": [
+      "Dante",
+      "Alighieri"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+  },
+  {
+    "id": "seed-quizbowl-varsity-t02",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Literature",
+    "subcategory": "World Literature",
+    "status": "active",
+    "source": "seed",
+    "random": 0.257041,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "In this author's best-known novel, the patriarch José Arcadio Buendía founds the village of Macondo, and a plague of insomnia strikes the town. The story ends when the last Buendía deciphers Melquíades's parchments. A pioneer of magical realism, he won the 1982 Nobel Prize. For 10 points, name this Colombian author of \"One Hundred Years of Solitude.\"",
+    "answer": "Gabriel García Márquez",
+    "required": "Marquez",
+    "alternates": [
+      "Gabo"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t03",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "History",
+    "subcategory": "Ancient History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.246167,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "A traitor named Ephialtes revealed a mountain path that let the Persians outflank the defenders in this battle. King Leonidas stayed behind with 300 Spartans and a force of Thespians and Thebans. Xerxes's invasion forces overwhelmed the defenders at this 480 BC pass in Greece. For 10 points, name this battle, a famous last stand.",
+    "answer": "Battle of Thermopylae",
+    "required": "Thermopylae",
+    "alternates": [
+      "Thermopylae"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t04",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "History",
+    "subcategory": "American History",
+    "status": "active",
+    "source": "seed",
+    "random": 0.189244,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "The Judiciary Act of 1789 and William Marbury's undelivered commission as a justice of the peace were at issue in this case. In it, Chief Justice John Marshall wrote that a law contrary to the Constitution is void. For 10 points, name this 1803 Supreme Court case that established judicial review.",
+    "answer": "Marbury v. Madison",
+    "required": "Marbury",
+    "alternates": [
+      "Marbury v Madison",
+      "Marbury vs Madison",
+      "Marbury versus Madison",
+      "Marbury"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t05",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Science",
+    "subcategory": "Physics",
+    "status": "active",
+    "source": "seed",
+    "random": 0.722071,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "Ludwig Boltzmann's tombstone is inscribed with an equation defining this quantity as a constant times the logarithm of the number of microstates. Rudolf Clausius coined its name. The second law of thermodynamics states that this quantity in an isolated system never decreases. For 10 points, name this measure of disorder, symbolized S.",
+    "answer": "entropy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t06",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Science",
+    "subcategory": "Math",
+    "status": "active",
+    "source": "seed",
+    "random": 0.352203,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This mathematician scribbled a note in the margin of a copy of Diophantus's \"Arithmetica\" claiming a marvelous proof that was too large for the margin. His little theorem states that a to the p, minus a, is divisible by prime p. For 10 points, name this French mathematician whose \"last theorem\" was proved by Andrew Wiles in the 1990s.",
+    "answer": "Pierre de Fermat",
+    "required": "Fermat",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t07",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Fine Arts",
+    "subcategory": "Architecture",
+    "status": "active",
+    "source": "seed",
+    "random": 0.850897,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This architect designed the Casa Batlló and Casa Milà, and the undulating bench of Park Güell. His unfinished masterpiece in Barcelona has towers with Nativity, Passion, and Glory facades. For 10 points, name this Catalan architect of the Sagrada Família.",
+    "answer": "Antoni Gaudí",
+    "required": "Gaudi",
+    "alternates": [
+      "Antonio Gaudi",
+      "Antoni Gaudi"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t08",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Mythology",
+    "subcategory": "Norse Mythology",
+    "status": "active",
+    "source": "seed",
+    "random": 0.623128,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "This god sacrificed an eye at Mímir's well in exchange for wisdom, and he hung for nine nights on Yggdrasil to learn the runes. His ravens Huginn and Muninn gather news for him, and his eight-legged horse is Sleipnir. For 10 points, name this one-eyed leader of the Aesir who is killed by the wolf Fenrir at Ragnarok.",
+    "answer": "Odin",
+    "required": null,
+    "alternates": [
+      "Woden",
+      "Wotan",
+      "Wodan"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t09",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Geography",
+    "subcategory": "World Geography",
+    "status": "active",
+    "source": "seed",
+    "random": 0.265663,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "The Serengeti plains and the volcano Kilimanjaro lie in this country, which includes the island of Zanzibar. Its largest city is Dar es Salaam, though its official capital was moved to Dodoma. For 10 points, name this East African country, formed by the union of Tanganyika and Zanzibar, whose neighbors include Kenya.",
+    "answer": "Tanzania",
+    "required": null,
+    "alternates": [
+      "United Republic of Tanzania"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-t10",
+    "type": "tossup",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Social Science",
+    "subcategory": "Psychology",
+    "status": "active",
+    "source": "seed",
+    "random": 0.726323,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "text": "A metronome and later a bell were sounded before food was delivered in experiments by this researcher, who measured the salivation of dogs. His work on classical conditioning revealed that a neutral stimulus can evoke a conditioned response. For 10 points, name this Russian physiologist who won the 1904 Nobel Prize in Physiology or Medicine.",
+    "answer": "Ivan Pavlov",
+    "required": "Pavlov",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+  },
+  {
+    "id": "seed-quizbowl-varsity-b01",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Fine Arts",
+    "subcategory": "Auditory Arts",
+    "status": "active",
+    "source": "seed",
+    "random": 0.462304,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about opera composers.",
+    "parts": [
+      {
+        "text": "Which Italian composer wrote \"The Barber of Seville\"?",
+        "part_difficulty": "easy",
+        "answer": "Gioachino Rossini",
+        "required": "Rossini",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which Italian composer wrote \"La Traviata\" and \"Aida\"?",
+        "part_difficulty": "medium",
+        "answer": "Giuseppe Verdi",
+        "required": "Verdi",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which Italian composer wrote \"Tosca\" and \"Madama Butterfly\"?",
+        "part_difficulty": "hard",
+        "answer": "Giacomo Puccini",
+        "required": "Puccini",
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-varsity-b02",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Philosophy",
+    "subcategory": "Ancient Philosophy",
+    "status": "active",
+    "source": "seed",
+    "random": 0.859793,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about Greek philosophers.",
+    "parts": [
+      {
+        "text": "Which philosopher wrote the \"Republic\"?",
+        "part_difficulty": "easy",
+        "answer": "Plato",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which student of Plato tutored Alexander the Great?",
+        "part_difficulty": "medium",
+        "answer": "Aristotle",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "Which teacher of Plato was sentenced to death by drinking hemlock?",
+        "part_difficulty": "hard",
+        "answer": "Socrates",
+        "required": null,
+        "alternates": [],
+        "prompt_on": [],
+        "answer_type": "name",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  },
+  {
+    "id": "seed-quizbowl-varsity-b03",
+    "type": "bonus",
+    "rulesets": [
+      "quizbowl"
+    ],
+    "level": "varsity",
+    "category": "Science",
+    "subcategory": "Math",
+    "status": "active",
+    "source": "seed",
+    "random": 0.633075,
+    "expires_at": null,
+    "report_count": 0,
+    "created_at": "2026-11-02T00:00:00.000Z",
+    "updated_at": "2026-11-02T00:00:00.000Z",
+    "leadin": "Answer these questions about mathematical constants.",
+    "parts": [
+      {
+        "text": "What constant, approximately 3.14159, is the ratio of a circle's circumference to its diameter?",
+        "part_difficulty": "easy",
+        "answer": "pi",
+        "required": null,
+        "alternates": [
+          "π",
+          "3.14159",
+          "3.14"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What constant, approximately 2.718, is the base of the natural logarithm?",
+        "part_difficulty": "medium",
+        "answer": "e",
+        "required": null,
+        "alternates": [
+          "Euler's number",
+          "Eulers number",
+          "2.718"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      },
+      {
+        "text": "What ratio, approximately 1.618, is denoted by the Greek letter phi?",
+        "part_difficulty": "hard",
+        "answer": "golden ratio",
+        "required": null,
+        "alternates": [
+          "phi",
+          "golden mean",
+          "golden section"
+        ],
+        "prompt_on": [],
+        "answer_type": "general",
+        "duplicate_name": false,
+        "accepts_partial_name": false
+      }
+    ]
+  }
+]
