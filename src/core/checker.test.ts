@@ -16,7 +16,6 @@ const davinci = spec({
 });
 const half = spec({ answer: '1/2', answer_type: 'math' });
 const five = spec({ answer: '5', answer_type: 'math' });
-const rhythm = spec({ answer: 'rhythm', answer_type: 'spelling' });
 const casa = spec({ answer: 'la casa', answer_type: 'foreign_language' });
 const trna = spec({ answer: 'transfer RNA', alternates: ['tRNA'], prompt_on: ['RNA'] });
 
@@ -172,21 +171,6 @@ describe('math answers', () => {
   });
   it('still compares forms in quizbowl when the key is a fraction', () => {
     expect(check('2/4', half, quizbowl)).toBe('incorrect');
-  });
-});
-
-describe('spelling answers', () => {
-  it('requires exact letters but ignores case, diacritics and separators', () => {
-    expect(check('RHYTHM', rhythm, ncal)).toBe('correct');
-    expect(check('r-h-y-t-h-m', rhythm, ncal)).toBe('correct');
-    expect(check('r h y t h m', rhythm, quizbowl)).toBe('correct');
-  });
-  it('has no typo tolerance', () => {
-    expect(check('rythm', rhythm, ncal)).toBe('incorrect');
-    expect(check('rhythem', rhythm, quizbowl)).toBe('incorrect');
-  });
-  it('removes diacritics before comparing', () => {
-    expect(check('cafe', spec({ answer: 'café', answer_type: 'spelling' }), ncal)).toBe('correct');
   });
 });
 

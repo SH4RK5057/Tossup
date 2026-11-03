@@ -3,7 +3,6 @@ import type { AnswerSpec } from './types';
 import {
   editDistance,
   normalizeMath,
-  normalizeSpelling,
   normalizeText,
   typoTolerance,
 } from './normalize';
@@ -135,14 +134,6 @@ function checkMath(typedRaw: string, spec: AnswerSpec, strict: boolean): CheckRe
   return 'incorrect'; // forms are compared, not values; no typo tolerance
 }
 
-function checkSpelling(typedRaw: string, spec: AnswerSpec): CheckResult {
-  const t = normalizeSpelling(typedRaw);
-  if (!t) return 'incorrect';
-  if (candidates(spec).some((c) => normalizeSpelling(c) === t)) return 'correct';
-  if (spec.prompt_on.some((p) => normalizeSpelling(p) === t)) return 'prompt';
-  return 'incorrect';
-}
-
 function splitArticle(s: string): { article: string | null; core: string } {
   const tokens = s.split(' ').filter(Boolean);
   if (tokens.length > 1 && FOREIGN_ARTICLES.has(tokens[0])) {
@@ -181,7 +172,6 @@ export function check(typed: string, spec: AnswerSpec, ruleset: Ruleset): CheckR
   switch (spec.answer_type) {
     case 'name': return checkName(typed, spec, strict);
     case 'math': return checkMath(typed, spec, strict);
-    case 'spelling': return checkSpelling(typed, spec);
     case 'foreign_language': return checkForeign(typed, spec);
     default: return checkGeneral(typed, spec);
   }

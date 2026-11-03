@@ -74,11 +74,6 @@ export function normalizeText(input: string, opts: NormalizeOptions = {}): strin
   return tokens.join(' ');
 }
 
-/** Letters-only form used for spelling questions ("r-h-y-t-h-m" == "rhythm"). */
-export function normalizeSpelling(input: string): string {
-  return stripDiacritics(input).toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
-}
-
 /** Normalizes a math answer while preserving its written form. */
 export function normalizeMath(input: string): string {
   let s = stripDiacritics(input).toLowerCase();

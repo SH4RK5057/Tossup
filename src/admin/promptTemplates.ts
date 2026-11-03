@@ -19,10 +19,10 @@ const SPEC_DOC = `Answer spec fields (on every tossup, and on every bonus part):
 - "required": minimum accepted portion, e.g. "Lincoln" for "Abraham Lincoln" (string or null)
 - "alternates": other accepted answers (array of strings)
 - "prompt_on": answers that should trigger "more specific?" (array of strings)
-- "answer_type": one of "general", "name", "math", "spelling", "foreign_language"
+- "answer_type": one of "general", "name", "math", "foreign_language"
 - "duplicate_name": true if several people share the last name and the first name is required
 - "accepts_partial_name": true if either part of a name is accepted (e.g. Leonardo OR da Vinci)
-Answer types: use "name" for people (put the last name in "required"); "math" for numeric/algebraic answers written in simplified form (fractions in lowest terms, no mixed numbers); "spelling" when the player must spell a word; "foreign_language" for answers in another language (include the article if the key has one); otherwise "general".`;
+Answer types: use "name" for people (put the last name in "required"); "math" for numeric/algebraic answers written in simplified form (fractions in lowest terms, no mixed numbers); "foreign_language" for answers in another language (include the article if the key has one); otherwise "general".`;
 
 export function generatePrompt(o: GenerateOptions): string {
   const rs = RULESETS[o.rulesetId];

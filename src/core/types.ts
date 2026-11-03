@@ -10,7 +10,7 @@ export type Level = z.infer<typeof levelSchema>;
 /** NCAL calls novice "Freshman" in some documents; we always display "Novice". */
 export const LEVEL_LABEL: Record<Level, string> = { novice: 'Novice', jv: 'JV', varsity: 'Varsity' };
 
-export const ANSWER_TYPES = ['general', 'name', 'math', 'spelling', 'foreign_language'] as const;
+export const ANSWER_TYPES = ['general', 'name', 'math', 'foreign_language'] as const;
 export const answerTypeSchema = z.enum(ANSWER_TYPES);
 export type AnswerType = z.infer<typeof answerTypeSchema>;
 

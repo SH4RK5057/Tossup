@@ -67,7 +67,7 @@ N('Math', 'Geometry', 'How many degrees are in the sum of the interior angles of
 N('Science', 'Astronomy', 'Which planet, sixth from the Sun, is famous for its prominent rings?', 'Saturn');
 N('Social Science', 'U.S. Geography', 'Sacramento is the capital of which U.S. state?', 'California');
 N('Fine Arts', 'Spanish 1', 'Give the Spanish phrase, including its article, for "the house."', 'la casa', { type: 'foreign_language' });
-N('English', 'English Vocabulary', 'Spell the word "rhythm," which means a strong, regular, repeated pattern of sound or movement.', 'rhythm', { type: 'spelling' });
+N('English', 'English Vocabulary', 'What term names a word that has the opposite meaning of another word?', 'antonym', { alt: ['antonyms'] });
 N('Current Events', 'Current Events', 'The 2026 Winter Olympics were co-hosted by Milan and which other Italian city?', "Cortina d'Ampezzo", { req: 'Cortina', alt: ['Cortina'], exp: '2027-03-01T00:00:00.000Z' });
 
 B('ncal', 'novice', 'English', 'Literary Terms', 'Answer these questions about figures of speech.', [
