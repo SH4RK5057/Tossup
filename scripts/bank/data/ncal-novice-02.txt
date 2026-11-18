@@ -1,0 +1,465 @@
+# ncal novice | English | Literary Terms
+e|What term names the villain or opposing force that works against the main character?|antagonist
+e|What term names the sequence of events in a story?|plot
+e|What term names the problem or struggle that the characters face in a story?|conflict
+e|What term names the central message or big idea of a story?|theme
+m|What term names the feeling or atmosphere that a story creates for the reader?|mood
+m|What term names the author's attitude toward the subject of a piece of writing?|tone
+e|What term names the person or voice who tells a story?|narrator
+e|What term names the words that characters say to each other in a story?|dialogue
+m|What term names a long speech by one character, spoken to other characters?|monologue
+h|What term names a speech in which a character speaks thoughts aloud while alone on stage?|soliloquy
+e|What term names a group of lines in a poem, like a paragraph in prose?|stanza
+e|What term names the matching sounds at the ends of lines in a poem?|rhyme
+m|What term names the pattern of rhyme in a poem, often written as ABAB?|rhyme scheme
+m|What term names the steady beat of stressed and unstressed syllables in a poem?|rhythm
+m|What term names a line or group of lines that repeats in a poem or song?|refrain
+m|What term names two lines of poetry in a row that rhyme?|couplet
+m|What term names a four-line stanza?|quatrain
+m|What term names a three-line Japanese poem with five, seven, and five syllables?|haiku
+m|What term names a funny five-line poem with an AABBA rhyme scheme?|limerick
+h|What term names a poem that tells a story and is often set to music?|ballad
+h|What term names a long poem about the deeds of a hero?|epic
+h|What term names poetry that does not rhyme and has no regular meter?|free verse
+h|What term names a poem written to praise a person, thing, or idea?|ode
+h|What term names a poem written to mourn someone who has died?|elegy
+e|What term names a short story with animal characters that teaches a lesson?|fable
+m|What term names a traditional story that explains nature or tells about gods and heroes?|myth
+m|What term names a story handed down for generations that may be based on a real person or event?|legend
+m|What term names a story that exaggerates, like the tale of Paul Bunyan and his blue ox?|tall tale
+e|What term names a true story about a person's life, written by someone else?|biography
+m|What term names the story of a person's life, written by that same person?|autobiography
+e|What term names writing that is based on facts and real events?|nonfiction
+e|What term names writing that comes from the imagination, such as a novel?|fiction
+m|What term names a long work of fiction, longer than a short story?|novel
+m|What term names a story meant to be performed by actors?|drama|play
+m|What term names a play with a happy ending that is meant to be funny?|comedy
+m|What term names a serious play that ends in disaster for the main character?|tragedy
+m|What term names hints that suggest what will happen later in a story?|foreshadowing
+m|What term names a scene that goes back to an earlier time in a story?|flashback
+h|What term names a result that is the opposite of what the reader or characters expect?|irony
+m|What term names an object that stands for a larger idea, like a dove for peace?|symbol|symbolism
+m|What term names descriptive language that appeals to the five senses?|imagery
+m|What term names a comparison of two things that does not use "like" or "as"?|metaphor
+m|What term names a deliberate overstatement used for effect?|hyperbole
+h|What term names a joke that plays on the double meaning of a word?|pun
+h|What term names a brief reference to a famous person, event, or work?|allusion
+h|What term names a phrase that joins two opposite ideas, such as "deafening silence"?|oxymoron
+m|What term names the beginning part of a plot, where the setting and characters are introduced?|exposition
+m|What term names the part of a plot where events build toward the highest point?|rising action
+m|What term names the part of a plot after the climax, where tension eases?|falling action
+m|What term names the end of a plot, where the conflict is settled?|resolution
+m|What term names the perspective from which a story is told?|point of view
+m|What term names a story told by an outside narrator who uses "he," "she," and "they"?|third-person narration|third person;third-person point of view
+h|What term names a narrator who knows the thoughts of every character?|omniscient narrator|omniscient
+h|What term names a character who changes in important ways during a story?|dynamic character|dynamic
+h|What term names a character who stays the same throughout a story?|static character|static
+h|What term names a character who contrasts with another to highlight that character's traits?|foil
+m|What term names the excitement or worry a reader feels while wondering what will happen next?|suspense
+m|What term names a way of speaking that is special to a region or group of people?|dialect
+m|What term names a category of literature, such as mystery or science fiction?|genre
+m|What term names a short introduction that comes before the first chapter of a book?|prologue
+m|What term names a short section at the end of a book that wraps up the story?|epilogue
+m|What term names the directions in a play that tell actors how to move and speak?|stage directions
+m|What term names a main division of a play, made up of scenes?|act
+e|What term names the person who writes plays?|playwright
+e|What term names the people who appear in a story or play?|characters|character
+m|What term names a writer's choice of words?|diction
+h|What term names a story within a story?|frame story|frame narrative
+h|What term names a poem of fourteen lines written in iambic pentameter by Shakespeare and others?|sonnet
+B|e|Answer these questions about the parts of a story.
+-|e|What term names the people in a story?|characters
+-|e|What term names the time and place of a story?|setting
+-|m|What term names the highest point of tension?|climax
+-|m|What term names the series of events in a story?|plot
+B|e|Answer these questions about poetry.
+-|e|What term names a group of lines in a poem?|stanza
+-|e|What term names the matching sounds at the ends of lines?|rhyme
+-|m|What term names a two-line rhyming pair?|couplet
+-|m|What term names a poem of three lines with five, seven, and five syllables?|haiku
+B|m|Answer these questions about genres.
+-|e|What term names a story that is not true and comes from the imagination?|fiction
+-|e|What term names writing based on facts?|nonfiction
+-|m|What term names a story about a person's life written by that person?|autobiography
+-|m|What term names a short tale that ends with a moral?|fable
+B|m|Answer these questions about figurative language.
+-|e|What term names a comparison that uses "like" or "as"?|simile
+-|m|What term names giving human qualities to nonhuman things?|personification
+-|m|What term names a very exaggerated statement?|hyperbole
+-|h|What term names a word that sounds like the noise it describes?|onomatopoeia
+B|m|Answer these questions about who tells a story.
+-|e|What term names the voice that tells a story?|narrator
+-|m|What term names a story told with the words "I" and "me"?|first-person narration|first person
+-|m|What term names a story told with the words "he" and "she"?|third-person narration|third person
+-|h|What term names a storyteller who sees into every character's mind?|omniscient
+B|m|Answer these questions about plays.
+-|e|What term names a person who writes plays?|playwright
+-|e|What term names a main division of a play?|act
+-|m|What term names a long speech by a single character?|monologue
+-|m|What term names the instructions in a script about movement and tone?|stage directions
+B|m|Answer these questions about plot structure.
+-|e|What part of the plot introduces the characters and setting?|exposition
+-|m|What part of the plot comes right after the climax?|falling action
+-|m|What part of the plot is the final settling of the conflict?|resolution
+-|m|What part of the plot is the buildup of problems?|rising action
+B|m|Answer these questions about types of characters.
+-|e|What term names the main character?|protagonist
+-|e|What term names the character who opposes the main character?|antagonist
+-|m|What term names a character who changes over time?|dynamic character
+-|h|What term names a character who stays the same?|static character
+B|h|Answer these questions about the feeling and message of a story.
+-|m|What term names the central message of a story?|theme
+-|m|What term names the feeling a story creates?|mood
+-|m|What term names the writer's attitude toward the subject?|tone
+-|h|What term names a hint about future events?|foreshadowing
+B|m|Answer these questions about traditional tales.
+-|e|What term names a story that explains how the world works using gods and heroes?|myth
+-|m|What term names a story about a hero handed down through time and linked to history?|legend
+-|m|What term names a story with outrageous exaggeration about a larger-than-life hero?|tall tale
+-|m|What term names a story that begins "once upon a time" and often features magic?|fairy tale
+B|m|Answer these questions about poems of different kinds.
+-|m|What term names a funny five-line poem?|limerick
+-|m|What term names a poem that praises something?|ode
+-|h|What term names a poem of sorrow for the dead?|elegy
+-|h|What term names a story told in song-like verse?|ballad
+B|m|Answer these questions about sound devices.
+-|e|What term names the repeating of beginning sounds, as in "slippery snakes"?|alliteration
+-|m|What term names the beat of a poem?|rhythm
+-|m|What term names a repeated line in a poem or song?|refrain
+-|h|What term names the pattern of end rhymes, such as ABAB?|rhyme scheme
+B|m|Answer these questions about wordplay.
+-|m|What term names a joke using a word with two meanings?|pun
+-|m|What term names a figure of speech that joins opposites, such as "bittersweet"?|oxymoron
+-|h|What term names a reference to a well-known story or person?|allusion
+-|h|What term names the opposite of what is expected?|irony
+B|e|Answer these questions about books.
+-|e|What term names a true story about someone's life, written by another person?|biography
+-|e|What term names an introduction before chapter one?|prologue
+-|m|What term names a closing section after the last chapter?|epilogue
+-|m|What term names a long work of fiction?|novel
+B|m|Answer these questions about senses and description.
+-|e|What term names words that help you see, hear, smell, taste, and feel what is described?|imagery
+-|m|What term names a thing that stands for an idea, like a dove for peace?|symbol
+-|m|What term names a scene that jumps back to the past?|flashback
+-|h|What term names the worried waiting of a reader who wants to know what happens?|suspense
+B|m|Answer these questions about types of plays.
+-|e|What kind of play has a happy ending and is meant to be funny?|comedy
+-|m|What kind of play ends in sorrow for the hero?|tragedy
+-|m|What do we call the people who perform in a play?|actors|cast
+-|h|What do we call a speech spoken by a character who is alone on stage?|soliloquy
+B|m|Answer these questions about writing styles.
+-|m|What term names the special way people in a region speak?|dialect
+-|m|What term names a category such as mystery or fantasy?|genre
+-|m|What term names the words characters say to each other?|dialogue
+-|h|What term names an author's choice of words?|diction
+
+# ncal novice | English | Freshman Literature
+e|Which author wrote the fantasy novel "The Hobbit"?|J. R. R. Tolkien|Tolkien|n=Tolkien
+e|Which character in "The Hobbit" is the hobbit who goes on an adventure with dwarves and a wizard?|Bilbo Baggins|Bilbo|n=Baggins part
+e|In "The Hobbit," what is the name of the dragon who guards the treasure in the Lonely Mountain?|Smaug|n
+m|Which author wrote the novel "The Giver"?|Lois Lowry|Lowry|n
+m|In "The Giver," what is the name of the boy chosen to be the Receiver of Memory?|Jonas|n
+e|Which author wrote the novel "Hatchet," about a boy who survives alone in the Canadian wilderness?|Gary Paulsen|Paulsen|n
+m|Which author wrote the novel "The Outsiders"?|S. E. Hinton|Hinton|n
+m|In "The Outsiders," which gang is the main group of characters in, the Greasers or the Socs?|Greasers|the Greasers|ok
+e|Which author wrote the novel "Holes," about a boy sent to Camp Green Lake?|Louis Sachar|Sachar|n
+e|Which author wrote the novel "Charlotte's Web"?|E. B. White|White|n
+e|In "Charlotte's Web," what animal is Wilbur?|pig|a pig
+m|Which author wrote the novel "A Wrinkle in Time"?|Madeleine L'Engle|L'Engle|n=L'Engle
+m|Which author wrote the novel "Bridge to Terabithia"?|Katherine Paterson|Paterson|n
+m|Which author wrote the novel "Number the Stars," set in Denmark during World War II?|Lois Lowry|Lowry|n
+e|Which author wrote "The Adventures of Tom Sawyer"?|Mark Twain|Twain|n
+e|On what river does Huckleberry Finn travel on a raft with Jim?|Mississippi River|Mississippi
+m|Which author wrote the novel "The Call of the Wild," about a dog named Buck?|Jack London|London|n
+m|In "The Call of the Wild," what kind of animal is the main character, Buck?|dog|a dog;St. Bernard-Scottish shepherd mix
+e|Which author wrote "Alice's Adventures in Wonderland"?|Lewis Carroll|Carroll|n
+e|In "Alice's Adventures in Wonderland," what animal does Alice follow down the rabbit hole?|white rabbit|a white rabbit;rabbit
+e|Which author wrote "The Lion, the Witch and the Wardrobe"?|C. S. Lewis|Lewis|n
+m|In "The Lion, the Witch and the Wardrobe," what is the name of the lion who rules Narnia?|Aslan|n
+e|Which author wrote "Peter Pan"?|J. M. Barrie|Barrie|n
+m|In "Peter Pan," what is the name of the pirate captain whose hand is cut off by Peter?|Captain Hook|Hook|n
+m|Which author wrote the novel "Treasure Island"?|Robert Louis Stevenson|Stevenson|n
+m|In "Treasure Island," what is the name of the one-legged pirate cook?|Long John Silver|Silver|n
+m|Which author wrote "The Wonderful Wizard of Oz"?|L. Frank Baum|Baum|n
+e|In "The Wonderful Wizard of Oz," what kind of storm carries Dorothy to Oz?|tornado|cyclone
+m|Which author wrote "Anne of Green Gables"?|L. M. Montgomery|Montgomery|n
+m|Which author wrote "Little Women"?|Louisa May Alcott|Alcott|n
+m|In "Little Women," what is the name of the March sister who wants to be a writer?|Jo|Jo March|n=Jo
+h|In "Little Women," which March sister is the youngest?|Amy|Amy March|n=Amy
+m|Which author wrote "Island of the Blue Dolphins"?|Scott O'Dell|O'Dell|n
+m|Which author wrote "Where the Red Fern Grows"?|Wilson Rawls|Rawls|n
+m|Which author wrote "The Diary of a Young Girl," kept while hiding in Amsterdam?|Anne Frank|Frank|n
+m|Which author wrote "The Hunger Games"?|Suzanne Collins|Collins|n
+m|In "The Hunger Games," what is the name of the girl who volunteers to take her sister's place?|Katniss Everdeen|Katniss|n=Everdeen part
+m|Which author wrote "Percy Jackson and the Lightning Thief"?|Rick Riordan|Riordan|n
+m|Which author wrote the novel "Tuck Everlasting"?|Natalie Babbitt|Babbitt|n
+m|Which author wrote "Where the Wild Things Are"?|Maurice Sendak|Sendak|n
+m|Which author wrote the novel "Wonder," about a boy named Auggie?|R. J. Palacio|Palacio|n
+m|Which author wrote "Esperanza Rising"?|Pam Munoz Ryan|Ryan|n
+h|Which Shakespeare play includes the line "Et tu, Brute"?|Julius Caesar
+m|Which Shakespeare play features fairies, a character named Puck, and a donkey-headed man named Bottom?|A Midsummer Night's Dream|Midsummer Night's Dream
+h|Which author wrote "The Pearl," a novella about a poor fisherman who finds a valuable pearl?|John Steinbeck|Steinbeck|n
+h|Which author wrote "Animal Farm," a story about farm animals who rebel against their owner?|George Orwell|Orwell|n
+h|Which author wrote "Fahrenheit 451," a novel about a society that burns books?|Ray Bradbury|Bradbury|n
+h|Which author wrote "The Old Man and the Sea"?|Ernest Hemingway|Hemingway|n
+h|Which author wrote "A Christmas Carol"?|Charles Dickens|Dickens|n
+m|In "A Christmas Carol," what is the name of the miserly main character?|Ebenezer Scrooge|Scrooge|n
+h|In "Romeo and Juliet," what is the name of Juliet's cousin who is killed by Romeo?|Tybalt|n
+h|In "Romeo and Juliet," what is the name of Romeo's friend who is killed by Tybalt?|Mercutio|n
+h|Which author wrote "Gulliver's Travels"?|Jonathan Swift|Swift|n
+h|Which author wrote "Robinson Crusoe"?|Daniel Defoe|Defoe|n
+m|Which author wrote "The Secret Garden"?|Frances Hodgson Burnett|Burnett|n
+m|Which author wrote "Black Beauty," told from the point of view of a horse?|Anna Sewell|Sewell|n
+m|Which author wrote "The Jungle Book"?|Rudyard Kipling|Kipling|n
+m|In "The Jungle Book," what is the name of the boy raised by wolves?|Mowgli|n
+m|Which author wrote "Matilda," about a girl with special powers?|Roald Dahl|Dahl|n
+m|Which author wrote "Charlie and the Chocolate Factory"?|Roald Dahl|Dahl|n
+m|In "Charlie and the Chocolate Factory," what is the name of the chocolate maker?|Willy Wonka|Wonka|n
+B|e|Answer these questions about classic children's books.
+-|e|Which author wrote "Charlotte's Web"?|E. B. White|White|n
+-|e|Which author wrote "The Cat in the Hat"?|Dr. Seuss|Seuss|n=Seuss
+-|m|Which author wrote "Where the Wild Things Are"?|Maurice Sendak|Sendak|n
+-|m|Which author wrote "Matilda"?|Roald Dahl|Dahl|n
+B|e|Answer these questions about fantasy stories.
+-|e|Which author wrote "The Hobbit"?|J. R. R. Tolkien|Tolkien|n
+-|e|Which author wrote "The Lion, the Witch and the Wardrobe"?|C. S. Lewis|Lewis|n
+-|m|What is the name of the lion in Narnia?|Aslan|n
+-|m|What is the name of the hobbit hero of "The Hobbit"?|Bilbo Baggins|Bilbo|n=Baggins part
+B|m|Answer these questions about adventure novels.
+-|e|Which author wrote "Treasure Island"?|Robert Louis Stevenson|Stevenson|n
+-|m|Which author wrote "The Call of the Wild"?|Jack London|London|n
+-|m|Which author wrote "Hatchet"?|Gary Paulsen|Paulsen|n
+-|m|Which author wrote "Robinson Crusoe"?|Daniel Defoe|Defoe|n
+B|m|Answer these questions about Mark Twain.
+-|e|Which Mark Twain character whitewashes a fence?|Tom Sawyer|Tom|n=Sawyer part
+-|e|Which Mark Twain character travels down the Mississippi on a raft?|Huckleberry Finn|Huck|n=Finn part
+-|m|What is Mark Twain's real last name?|Clemens|n
+-|m|On which river did Twain work as a steamboat pilot?|Mississippi River|Mississippi
+B|m|Answer these questions about Shakespeare.
+-|e|Which play is about two feuding families in Verona?|Romeo and Juliet|p=Romeo;Juliet
+-|m|Which play has fairies and a character named Puck?|A Midsummer Night's Dream|Midsummer Night's Dream
+-|m|Which play includes the phrase "Et tu, Brute"?|Julius Caesar
+-|h|Which play features three witches and a Scottish king?|Macbeth
+B|m|Answer these questions about dystopian novels.
+-|m|Which author wrote "The Giver"?|Lois Lowry|Lowry|n
+-|m|Which author wrote "The Hunger Games"?|Suzanne Collins|Collins|n
+-|h|Which author wrote "Fahrenheit 451"?|Ray Bradbury|Bradbury|n
+-|h|Which author wrote "Animal Farm"?|George Orwell|Orwell|n
+B|m|Answer these questions about authors of novels about school and growing up.
+-|e|Which author wrote "Holes"?|Louis Sachar|Sachar|n
+-|m|Which author wrote "The Outsiders"?|S. E. Hinton|Hinton|n
+-|m|Which author wrote "Wonder"?|R. J. Palacio|Palacio|n
+-|h|Which author wrote "Bridge to Terabithia"?|Katherine Paterson|Paterson|n
+B|m|Answer these questions about girls in classic novels.
+-|e|Which character follows a white rabbit down a hole?|Alice
+-|e|Which character is carried to Oz by a tornado?|Dorothy
+-|m|Which March sister wants to be a writer in "Little Women"?|Jo|Jo March|n=Jo
+-|m|Which girl in a Roald Dahl novel has special powers?|Matilda|n
+B|m|Answer these questions about characters from Roald Dahl.
+-|e|Which Roald Dahl novel features a chocolate factory?|Charlie and the Chocolate Factory
+-|e|Who owns the chocolate factory?|Willy Wonka|Wonka|n
+-|m|What is the name of the girl with special powers in a Dahl novel?|Matilda|n
+-|h|Which Dahl novel is about a boy who travels in a giant fruit?|James and the Giant Peach
+B|m|Answer these questions about the Odyssey and the Iliad.
+-|e|Which ancient Greek poet is credited with the Odyssey?|Homer|n
+-|m|Who is the hero of the Odyssey?|Odysseus|n
+-|m|What is the name of the hero's faithful wife?|Penelope|n
+-|h|What one-eyed giant does the hero blind?|Polyphemus|the Cyclops;Cyclops
+B|m|Answer these questions about novels set during wars.
+-|e|Which girl kept a diary while hiding in Amsterdam?|Anne Frank|Frank|n
+-|m|Which author wrote "Number the Stars"?|Lois Lowry|Lowry|n
+-|m|In which country is "Number the Stars" set?|Denmark
+-|h|What kind of tower or building did Anne Frank's family hide in? Name the type of space.|annex|secret annex;the annex
+B|m|Answer these questions about animals in famous novels.
+-|e|What animal is Wilbur in "Charlotte's Web"?|pig
+-|e|What animal is Buck in "The Call of the Wild"?|dog
+-|m|What animal is Black Beauty?|horse
+-|m|What animal is Charlotte in "Charlotte's Web"?|spider
+B|m|Answer these questions about British authors.
+-|e|Which author wrote "Alice's Adventures in Wonderland"?|Lewis Carroll|Carroll|n
+-|e|Which author wrote "A Christmas Carol"?|Charles Dickens|Dickens|n
+-|m|Which author wrote "Peter Pan"?|J. M. Barrie|Barrie|n
+-|m|Which author wrote "The Jungle Book"?|Rudyard Kipling|Kipling|n
+B|m|Answer these questions about American authors of novels for young readers.
+-|e|Which author wrote "Little Women"?|Louisa May Alcott|Alcott|n
+-|m|Which author wrote "The Wonderful Wizard of Oz"?|L. Frank Baum|Baum|n
+-|m|Which author wrote "Island of the Blue Dolphins"?|Scott O'Dell|O'Dell|n
+-|m|Which author wrote "Where the Red Fern Grows"?|Wilson Rawls|Rawls|n
+B|m|Answer these questions about main characters.
+-|e|Who is the girl who volunteers in "The Hunger Games"?|Katniss Everdeen|Katniss|n=Everdeen part
+-|m|Who is the boy chosen as Receiver in "The Giver"?|Jonas|n
+-|m|Who is the pirate captain in "Peter Pan"?|Captain Hook|Hook|n
+-|m|Who is the boy raised by wolves in "The Jungle Book"?|Mowgli|n
+B|m|Answer these questions about older stories read in school.
+-|m|Which novella is about a fisherman who finds a valuable gem in the sea?|The Pearl|Pearl
+-|m|Which novel by Daniel Defoe is about a man stranded on an island?|Robinson Crusoe
+-|h|Which novel by Jonathan Swift is about a traveler who visits Lilliput?|Gulliver's Travels
+-|h|Which novel by Ernest Hemingway is about an old fisherman and a giant marlin?|The Old Man and the Sea|Old Man and the Sea
+B|m|Answer these questions about books with young heroes.
+-|e|Which boy wizard is the hero of books by J. K. Rowling? Name him.|Harry Potter|Harry|n=Potter part
+-|m|Which demigod is the hero of "The Lightning Thief"?|Percy Jackson|Percy|n=Jackson part
+-|m|Which boy survives a plane crash in "Hatchet"?|Brian Robeson|Brian|n=Robeson part
+-|h|Which boy is the main character in "Holes"?|Stanley Yelnats|Stanley|n=Yelnats part
+
+# ncal novice | English | Greek and Roman Mythology
+e|Which Greek god of the sun, music, and healing drove a chariot across the sky?|Apollo|n
+e|Which Greek goddess of the hunt and the moon was the twin sister of Apollo?|Artemis|n
+e|Which Greek god was the swift messenger of the gods, with winged sandals?|Hermes|n
+e|Which Greek god ruled the underworld, the land of the dead?|Hades|n
+e|Which Greek goddess was the queen of the gods and the wife of Zeus?|Hera|n
+m|Which Greek god of the forge made weapons and armor for the gods?|Hephaestus|n
+m|Which Greek god of wine and celebration was the son of Zeus?|Dionysus|n
+e|Which Greek goddess of love and beauty was said to be born from sea foam?|Aphrodite|n
+m|Which Greek goddess was taken to the underworld by Hades and spends part of each year there?|Persephone|n
+e|Which Greek hero, famed for his strength, completed twelve labors?|Heracles|Hercules|n
+m|Which Greek hero cut off the head of Medusa?|Perseus|n
+m|Which Greek hero led the Argonauts on a quest for the Golden Fleece?|Jason|n
+m|Which Greek musician traveled to the underworld to bring back his wife Eurydice?|Orpheus|n
+m|Which king of Greek myth turned everything he touched into gold?|Midas|King Midas|n
+m|Which boy in Greek myth flew too close to the sun with wings made of wax?|Icarus|n
+m|Which inventor built the Labyrinth and the wings worn by Icarus?|Daedalus|n
+m|Which handsome young man in Greek myth fell in love with his own reflection in a pool?|Narcissus|n
+m|Which mountain nymph in Greek myth could only repeat the last words spoken to her?|Echo|n
+m|Which girl in Greek myth was turned into a spider after challenging Athena to a weaving contest?|Arachne|n
+m|Which Titan was forced to hold up the sky on his shoulders?|Atlas|n
+m|Which Titan stole fire from the gods and gave it to humans?|Prometheus|n
+e|Which three-headed dog guards the entrance to the underworld?|Cerberus|n
+e|Which winged horse sprang from the blood of Medusa?|Pegasus|n
+e|Which monster had the head of a bull and the body of a man?|Minotaur|the Minotaur
+e|What name was given to giants with a single eye in the middle of their foreheads?|Cyclopes|Cyclops;cyclopses
+m|Which many-headed water serpent grew two heads for each one that Heracles cut off?|Hydra|the Hydra;Lernaean Hydra|n
+m|What creatures lured sailors to their doom with enchanting songs?|Sirens|the Sirens
+e|Which wooden gift was used by the Greeks to sneak soldiers into the city of Troy?|Trojan Horse|the Trojan Horse;wooden horse
+m|Which prince of Troy took Helen from her husband, starting the Trojan War?|Paris|n
+m|Which woman, said to be the most beautiful in the world, was at the center of the Trojan War?|Helen|Helen of Troy|n
+m|Who was the greatest Trojan warrior, killed by Achilles?|Hector|n
+m|Which Titan was the father of Zeus and swallowed his own children?|Cronus|Kronos|n
+e|What mountain was said to be the home of the Greek gods?|Mount Olympus|Olympus
+m|What are the nine goddesses of the arts and sciences called?|Muses|the Muses
+m|What are the three goddesses who control the thread of human life called?|Fates|the Fates
+e|What is the Roman name for the Greek king of the gods, Zeus?|Jupiter|n
+e|What is the Roman name for the Greek goddess Aphrodite?|Venus|n
+m|What is the Roman name for the Greek goddess Athena?|Minerva|n
+m|What is the Roman name for the Greek messenger god Hermes?|Mercury|n
+m|What is the Roman name for the Greek god of the forge, Hephaestus?|Vulcan|n
+m|What is the Roman name for the Greek god Dionysus?|Bacchus|n
+m|What is the Roman name for the Greek god of the underworld, Hades?|Pluto|n
+m|What is the Roman name for the Greek goddess Artemis?|Diana|n
+m|What is the Roman name for the Greek goddess Hera?|Juno|n
+m|What is the Roman name for the Greek god of the sea, Poseidon?|Neptune|n
+e|What is the Roman name for the Greek god of love, Eros?|Cupid|n
+m|Which Roman god of beginnings has two faces and gave his name to the month of January?|Janus|n
+m|Which Roman goddess of the hearth was served by priestesses called Vestal Virgins?|Vesta|n
+m|Which Roman goddess of grain is the counterpart of the Greek Demeter?|Ceres|n
+m|Which Trojan hero fled his burning city and became the ancestor of the Romans?|Aeneas|n
+e|Which twin brothers were said to have founded Rome, one of whom killed the other?|Romulus and Remus|Romulus
+m|Which animal was said to have nursed the infant founders of Rome?|she-wolf|wolf
+m|Which Roman god of war was the father of Romulus and Remus?|Mars|n
+m|Which Greek goddess of victory is often shown with wings?|Nike|n
+m|Which Greek god of war was the son of Zeus and Hera?|Ares|n
+e|Which Greek goddess of grain and harvest was the mother of Persephone?|Demeter|n
+m|What was the name of the ship in which Jason sailed in search of the Golden Fleece?|Argo|the Argo
+m|Which goddess of the rainbow served as a messenger to the gods?|Iris|n
+h|Which Greek goddess of discord threw a golden apple among the gods at a wedding?|Eris|n
+m|What river did the ferryman Charon cross with the souls of the dead?|Styx|River Styx;the Styx
+m|Who was the ferryman who carried souls across the river to the underworld?|Charon|n
+m|Which fire-breathing monster had a lion's head, a goat's body, and a serpent's tail?|Chimera|the Chimera
+m|What is the name of the famous oracle site in Greece where a priestess gave prophecies?|Delphi
+m|Which Roman goddess of the dawn shares her name with a type of light in the sky?|Aurora|n
+m|Which hero killed the Nemean lion as one of his twelve labors?|Heracles|Hercules|n
+e|What is the Greek name for the Roman king of the gods, Jupiter?|Zeus|n
+e|What is the Greek name for the Roman goddess Venus?|Aphrodite|n
+m|What is the Greek name for the Roman god of war, Mars?|Ares|n
+m|What is the Greek name for the Roman queen of the gods, Juno?|Hera|n
+m|What is the Greek name for the Roman sea god Neptune?|Poseidon|n
+m|What is the Greek name for the Roman goddess of wisdom, Minerva?|Athena|n
+m|What is the Greek name for the Roman messenger god Mercury?|Hermes|n
+m|What is the Greek name for the Roman god of the dead, Pluto?|Hades|n
+m|What is the Greek name for the Roman moon goddess Diana?|Artemis|n
+h|Which Roman poet wrote the epic poem the Aeneid?|Virgil|Vergil|n
+h|Which Roman poet wrote the Metamorphoses, a collection of myths about transformations?|Ovid|n
+B|e|Answer these questions about the domains of the Greek gods.
+-|e|Which god ruled the sun, music, and healing?|Apollo|n
+-|e|Which god ruled the sea?|Poseidon|n
+-|m|Which god ruled the underworld?|Hades|n
+-|m|Which goddess of wisdom was born from the head of Zeus?|Athena|n
+B|m|Answer these questions about Greek heroes.
+-|e|Which hero beheaded Medusa?|Perseus|n
+-|e|Which hero completed twelve labors?|Heracles|Hercules|n
+-|m|Which hero sailed on the Argo?|Jason|n
+-|m|Which hero killed the Minotaur?|Theseus|n
+B|m|Answer these questions about monsters of Greek myth.
+-|e|Which monster had the head of a bull on a man's body?|Minotaur|n
+-|e|Which three-headed dog guarded the underworld?|Cerberus|n
+-|m|Which many-headed serpent grew new heads when one was cut off?|Hydra|n
+-|m|Which snake-haired woman turned people to stone?|Medusa|n
+B|m|Answer these questions about the Trojan War.
+-|e|Which city did the Greeks besiege for ten years?|Troy
+-|e|Which wooden gift did the Greeks use to enter the city?|Trojan Horse|wooden horse
+-|m|Which Trojan prince took Helen away from Greece?|Paris|n
+-|h|Which Trojan warrior was killed by Achilles?|Hector|n
+B|m|Answer these questions about the Odyssey.
+-|e|Which hero spends ten years trying to return home?|Odysseus|n
+-|m|What is the name of his faithful wife?|Penelope|n
+-|m|Which giant with one eye does he blind?|Polyphemus|the Cyclops;Cyclops|n
+-|h|Which enchantress turns his men into pigs?|Circe|n
+B|m|Answer these questions about the older generation of Greek gods.
+-|m|Which Titan was the father of Zeus?|Cronus|Kronos|n
+-|m|Which Titan holds up the sky?|Atlas|n
+-|m|Which Titan stole fire and gave it to humans?|Prometheus|n
+-|h|What name is given to the generation of gods who ruled before the Olympians?|Titans|the Titans
+B|m|Answer these questions about the underworld.
+-|m|Who ferries souls across the river of the dead?|Charon|n
+-|m|What is the name of the river of the underworld that gods swore oaths on?|Styx|n
+-|m|Which goddess spends part of each year in the underworld as its queen?|Persephone|n
+-|e|What is the underworld often called, after its ruler?|Hades|the land of Hades
+B|m|Answer these questions about groups of goddesses.
+-|e|What are the nine goddesses of the arts called?|Muses|the Muses
+-|m|What are the three goddesses who control the thread of life called?|Fates|the Fates
+-|m|How many goddesses of the arts are there?|9|nine|m
+-|m|How many goddesses control the thread of life?|3|three|m
+B|m|Answer these questions about the Roman gods.
+-|e|Which Roman god of war gave his name to a planet?|Mars|n
+-|e|Which Roman goddess of love gave her name to a planet?|Venus|n
+-|m|Which Roman goddess of wisdom is the counterpart of Athena?|Minerva|n
+-|m|Which Roman messenger god is the counterpart of Hermes?|Mercury|n
+B|m|Answer these questions about Roman names.
+-|e|What is the Greek name for the Roman god Mars?|Ares|n
+-|e|What is the Greek name for the Roman goddess Venus?|Aphrodite|n
+-|m|What is the Greek name for the Roman goddess Minerva?|Athena|n
+-|m|What is the Greek name for the Roman god Mercury?|Hermes|n
+B|m|Answer these questions about warnings in myths.
+-|e|Which boy flew too close to the sun?|Icarus|n
+-|e|Which king turned everything he touched to gold?|Midas|n
+-|m|Which young man loved his own reflection?|Narcissus|n
+-|m|Which weaver was turned into a spider?|Arachne|n
+B|m|Answer these questions about the founding of Rome.
+-|e|Which twin is said to have founded Rome?|Romulus|n
+-|m|Which twin did he kill?|Remus|n
+-|m|Which animal nursed the twins?|she-wolf|wolf
+-|h|Which Trojan hero was the ancestor of the Romans?|Aeneas|n
+B|h|Answer these questions about ancient writers of myths.
+-|m|Which poet is credited with the Iliad and the Odyssey?|Homer|n
+-|m|Which Roman poet wrote the Aeneid?|Virgil|Vergil|n
+-|h|Which Roman poet wrote the Metamorphoses?|Ovid|n
+-|h|Which Greek poet wrote the Theogony, about the origins of the gods?|Hesiod|n
+B|m|Answer these questions about places in myths.
+-|e|What mountain was the home of the gods?|Mount Olympus|Olympus
+-|m|At which site did a priestess give prophecies?|Delphi
+-|m|Which island kingdom was Odysseus's home?|Ithaca
+-|m|Which city fell to the wooden horse?|Troy
+B|e|Answer these questions about Greek goddesses.
+-|e|Which goddess was queen of the gods?|Hera|n
+-|e|Which goddess ruled the hunt and the moon?|Artemis|n
+-|m|Which goddess ruled love and beauty?|Aphrodite|n
+-|m|Which goddess ruled grain and harvest?|Demeter|n
+B|m|Answer these questions about famous objects in myths.
+-|m|Which woman opened a jar that released evils into the world?|Pandora|n
+-|m|What golden object did Jason seek?|Golden Fleece|the Golden Fleece
+-|m|What golden fruit did Eris throw among the goddesses?|golden apple|apple;the golden apple
+-|h|What pair of sea dangers threatened Odysseus in a narrow strait?|Scylla and Charybdis|Scylla;Charybdis
+B|m|Answer these questions about planets named for Roman gods.
+-|e|Which planet is named for the Roman king of the gods?|Jupiter
+-|e|Which planet is named for the Roman messenger god?|Mercury
+-|m|Which planet is named for the Roman goddess of love?|Venus
+-|m|Which planet is named for the Roman god of agriculture?|Saturn

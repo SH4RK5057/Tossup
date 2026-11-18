@@ -13,7 +13,12 @@
 export const SOURCE = 'ai-claude-bank';
 const DIFF = { e: 'easy', m: 'medium', h: 'hard' };
 
+const OPT_TOKEN = /^(n|n=S.*|m|f|dup|part|ok|p=S.*)$/;
+/** A lone trailing field that is made only of option tokens is the opts field (alts omitted). */
+const looksLikeOpts = (s) => !!s && s.trim().split(/s+/).every((t) => OPT_TOKEN.test(t));
+
 function spec(answer, alts, opts) {
+  if (opts === undefined && looksLikeOpts(alts)) { opts = alts; alts = ''; }
   const s = {
     answer, required: null, alternates: alts ? alts.split(';').map((x) => x.trim()).filter(Boolean) : [],
     prompt_on: [], answer_type: 'general', duplicate_name: false, accepts_partial_name: false,
@@ -62,11 +67,11 @@ export function parseBank(text, file = 'bank') {
     } else if (f[0] === '-') {
       if (!bonus) fail(n, 'bonus part without a bonus');
       if (f.length < 4 || !DIFF[f[1]]) fail(n, 'part line is -|d|text|answer|alts|opts');
-      bonus.parts.push({ text: f[2].trim(), part_difficulty: DIFF[f[1]], ...spec(f[3].trim(), f[4], f[5]) });
+      try { bonus.parts.push({ text: f[2].trim(), part_difficulty: DIFF[f[1]], ...spec(f[3].trim(), f[4], f[5]) }); } catch (e) { fail(n, e.message); }
     } else if (DIFF[f[0]]) {
       bonus = null;
       if (f.length < 3) fail(n, 'tossup line is d|text|answer|alts|opts');
-      rows.push({ type: 'tossup', ...base, difficulty: DIFF[f[0]], text: f[1].trim(), ...spec(f[2].trim(), f[3], f[4]) });
+      try { rows.push({ type: 'tossup', ...base, difficulty: DIFF[f[0]], text: f[1].trim(), ...spec(f[2].trim(), f[3], f[4]) }); } catch (e) { fail(n, e.message); }
     } else {
       fail(n, `unrecognized line start "${f[0]}"`);
     }

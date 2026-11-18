@@ -52,7 +52,7 @@ const previewOf = (row: unknown): string => {
   return t.length > 80 ? `${t.slice(0, 80)}…` : t;
 };
 
-function subjectErrors(row: ImportRow): string[] {
+export function subjectErrors(row: ImportRow): string[] {
   const errs: string[] = [];
   for (const rid of row.rulesets) {
     const rs = RULESETS[rid];

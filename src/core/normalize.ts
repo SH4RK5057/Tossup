@@ -107,7 +107,10 @@ export function normalizeMath(input: string): string {
     .replace(/π/g, 'pi')
     .replace(/²/g, '^2')
     .replace(/³/g, '^3')
-    .replace(/\*\*/g, '^');
+    .replace(/\*\*/g, '^')
+    // radicals: the radical sign, "sqrt3" and "sqrt(3)" are the same form
+    .replace(/√\s*(\d+|\([^)]*\))/g, (_m, r: string) => `sqrt(${r.replace(/^\(|\)$/g, '')})`)
+    .replace(/sqrt\s*(\d+)/g, 'sqrt($1)');
   // spelled-out numbers -> digits (only word tokens are touched)
   const wordTokens = s.split(/\s+/).filter(Boolean);
   s = convertNumberWords(wordTokens).join(' ');

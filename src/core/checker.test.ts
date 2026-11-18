@@ -182,6 +182,16 @@ describe('math answers', () => {
     expect(check('2*pi', pi, ncal)).toBe('correct');
     expect(check('6.28', pi, ncal)).toBe('incorrect');
   });
+  it('treats the radical sign and sqrt as the same form', () => {
+    const r = spec({ answer: 'sqrt(3)/2', answer_type: 'math' });
+    expect(check('√3/2', r, ncal)).toBe('correct');
+    expect(check('sqrt3 / 2', r, ncal)).toBe('correct');
+    expect(check('√(3)/2', r, ncal)).toBe('correct');
+    expect(check('sqrt(2)/2', r, ncal)).toBe('incorrect');
+    const two = spec({ answer: '2sqrt(3)', answer_type: 'math' });
+    expect(check('2√3', two, ncal)).toBe('correct');
+    expect(check('2*sqrt(3)', two, ncal)).toBe('correct');
+  });
   it('normalizes multiplication and variable forms', () => {
     const d = spec({ answer: '2x', answer_type: 'math' });
     expect(check('2*x', d, ncal)).toBe('correct');

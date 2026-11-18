@@ -4927,5 +4927,7420 @@
     "accepts_partial_name": false
    }
   ]
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the villain or opposing force that works against the main character?",
+  "answer": "antagonist",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the sequence of events in a story?",
+  "answer": "plot",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the problem or struggle that the characters face in a story?",
+  "answer": "conflict",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the central message or big idea of a story?",
+  "answer": "theme",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the feeling or atmosphere that a story creates for the reader?",
+  "answer": "mood",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the author's attitude toward the subject of a piece of writing?",
+  "answer": "tone",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the person or voice who tells a story?",
+  "answer": "narrator",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the words that characters say to each other in a story?",
+  "answer": "dialogue",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a long speech by one character, spoken to other characters?",
+  "answer": "monologue",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a speech in which a character speaks thoughts aloud while alone on stage?",
+  "answer": "soliloquy",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names a group of lines in a poem, like a paragraph in prose?",
+  "answer": "stanza",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the matching sounds at the ends of lines in a poem?",
+  "answer": "rhyme",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the pattern of rhyme in a poem, often written as ABAB?",
+  "answer": "rhyme scheme",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the steady beat of stressed and unstressed syllables in a poem?",
+  "answer": "rhythm",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a line or group of lines that repeats in a poem or song?",
+  "answer": "refrain",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names two lines of poetry in a row that rhyme?",
+  "answer": "couplet",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a four-line stanza?",
+  "answer": "quatrain",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a three-line Japanese poem with five, seven, and five syllables?",
+  "answer": "haiku",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a funny five-line poem with an AABBA rhyme scheme?",
+  "answer": "limerick",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a poem that tells a story and is often set to music?",
+  "answer": "ballad",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a long poem about the deeds of a hero?",
+  "answer": "epic",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names poetry that does not rhyme and has no regular meter?",
+  "answer": "free verse",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a poem written to praise a person, thing, or idea?",
+  "answer": "ode",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a poem written to mourn someone who has died?",
+  "answer": "elegy",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names a short story with animal characters that teaches a lesson?",
+  "answer": "fable",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a traditional story that explains nature or tells about gods and heroes?",
+  "answer": "myth",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a story handed down for generations that may be based on a real person or event?",
+  "answer": "legend",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a story that exaggerates, like the tale of Paul Bunyan and his blue ox?",
+  "answer": "tall tale",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names a true story about a person's life, written by someone else?",
+  "answer": "biography",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the story of a person's life, written by that same person?",
+  "answer": "autobiography",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names writing that is based on facts and real events?",
+  "answer": "nonfiction",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names writing that comes from the imagination, such as a novel?",
+  "answer": "fiction",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a long work of fiction, longer than a short story?",
+  "answer": "novel",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a story meant to be performed by actors?",
+  "answer": "drama",
+  "required": null,
+  "alternates": [
+   "play"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a play with a happy ending that is meant to be funny?",
+  "answer": "comedy",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a serious play that ends in disaster for the main character?",
+  "answer": "tragedy",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names hints that suggest what will happen later in a story?",
+  "answer": "foreshadowing",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a scene that goes back to an earlier time in a story?",
+  "answer": "flashback",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a result that is the opposite of what the reader or characters expect?",
+  "answer": "irony",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names an object that stands for a larger idea, like a dove for peace?",
+  "answer": "symbol",
+  "required": null,
+  "alternates": [
+   "symbolism"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names descriptive language that appeals to the five senses?",
+  "answer": "imagery",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a comparison of two things that does not use \"like\" or \"as\"?",
+  "answer": "metaphor",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a deliberate overstatement used for effect?",
+  "answer": "hyperbole",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a joke that plays on the double meaning of a word?",
+  "answer": "pun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a brief reference to a famous person, event, or work?",
+  "answer": "allusion",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a phrase that joins two opposite ideas, such as \"deafening silence\"?",
+  "answer": "oxymoron",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the beginning part of a plot, where the setting and characters are introduced?",
+  "answer": "exposition",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the part of a plot where events build toward the highest point?",
+  "answer": "rising action",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the part of a plot after the climax, where tension eases?",
+  "answer": "falling action",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the end of a plot, where the conflict is settled?",
+  "answer": "resolution",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the perspective from which a story is told?",
+  "answer": "point of view",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a story told by an outside narrator who uses \"he,\" \"she,\" and \"they\"?",
+  "answer": "third-person narration",
+  "required": null,
+  "alternates": [
+   "third person",
+   "third-person point of view"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a narrator who knows the thoughts of every character?",
+  "answer": "omniscient narrator",
+  "required": null,
+  "alternates": [
+   "omniscient"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a character who changes in important ways during a story?",
+  "answer": "dynamic character",
+  "required": null,
+  "alternates": [
+   "dynamic"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a character who stays the same throughout a story?",
+  "answer": "static character",
+  "required": null,
+  "alternates": [
+   "static"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a character who contrasts with another to highlight that character's traits?",
+  "answer": "foil",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the excitement or worry a reader feels while wondering what will happen next?",
+  "answer": "suspense",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a way of speaking that is special to a region or group of people?",
+  "answer": "dialect",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a category of literature, such as mystery or science fiction?",
+  "answer": "genre",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a short introduction that comes before the first chapter of a book?",
+  "answer": "prologue",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a short section at the end of a book that wraps up the story?",
+  "answer": "epilogue",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the directions in a play that tell actors how to move and speak?",
+  "answer": "stage directions",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a main division of a play, made up of scenes?",
+  "answer": "act",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the person who writes plays?",
+  "answer": "playwright",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What term names the people who appear in a story or play?",
+  "answer": "characters",
+  "required": null,
+  "alternates": [
+   "character"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a writer's choice of words?",
+  "answer": "diction",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a story within a story?",
+  "answer": "frame story",
+  "required": null,
+  "alternates": [
+   "frame narrative"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a poem of fourteen lines written in iambic pentameter by Shakespeare and others?",
+  "answer": "sonnet",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about the parts of a story.",
+  "parts": [
+   {
+    "text": "What term names the people in a story?",
+    "part_difficulty": "easy",
+    "answer": "characters",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the time and place of a story?",
+    "part_difficulty": "easy",
+    "answer": "setting",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the highest point of tension?",
+    "part_difficulty": "medium",
+    "answer": "climax",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the series of events in a story?",
+    "part_difficulty": "medium",
+    "answer": "plot",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about poetry.",
+  "parts": [
+   {
+    "text": "What term names a group of lines in a poem?",
+    "part_difficulty": "easy",
+    "answer": "stanza",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the matching sounds at the ends of lines?",
+    "part_difficulty": "easy",
+    "answer": "rhyme",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a two-line rhyming pair?",
+    "part_difficulty": "medium",
+    "answer": "couplet",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a poem of three lines with five, seven, and five syllables?",
+    "part_difficulty": "medium",
+    "answer": "haiku",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about genres.",
+  "parts": [
+   {
+    "text": "What term names a story that is not true and comes from the imagination?",
+    "part_difficulty": "easy",
+    "answer": "fiction",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names writing based on facts?",
+    "part_difficulty": "easy",
+    "answer": "nonfiction",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story about a person's life written by that person?",
+    "part_difficulty": "medium",
+    "answer": "autobiography",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a short tale that ends with a moral?",
+    "part_difficulty": "medium",
+    "answer": "fable",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about figurative language.",
+  "parts": [
+   {
+    "text": "What term names a comparison that uses \"like\" or \"as\"?",
+    "part_difficulty": "easy",
+    "answer": "simile",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names giving human qualities to nonhuman things?",
+    "part_difficulty": "medium",
+    "answer": "personification",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a very exaggerated statement?",
+    "part_difficulty": "medium",
+    "answer": "hyperbole",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a word that sounds like the noise it describes?",
+    "part_difficulty": "hard",
+    "answer": "onomatopoeia",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about who tells a story.",
+  "parts": [
+   {
+    "text": "What term names the voice that tells a story?",
+    "part_difficulty": "easy",
+    "answer": "narrator",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story told with the words \"I\" and \"me\"?",
+    "part_difficulty": "medium",
+    "answer": "first-person narration",
+    "required": null,
+    "alternates": [
+     "first person"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story told with the words \"he\" and \"she\"?",
+    "part_difficulty": "medium",
+    "answer": "third-person narration",
+    "required": null,
+    "alternates": [
+     "third person"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a storyteller who sees into every character's mind?",
+    "part_difficulty": "hard",
+    "answer": "omniscient",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about plays.",
+  "parts": [
+   {
+    "text": "What term names a person who writes plays?",
+    "part_difficulty": "easy",
+    "answer": "playwright",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a main division of a play?",
+    "part_difficulty": "easy",
+    "answer": "act",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a long speech by a single character?",
+    "part_difficulty": "medium",
+    "answer": "monologue",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the instructions in a script about movement and tone?",
+    "part_difficulty": "medium",
+    "answer": "stage directions",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about plot structure.",
+  "parts": [
+   {
+    "text": "What part of the plot introduces the characters and setting?",
+    "part_difficulty": "easy",
+    "answer": "exposition",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What part of the plot comes right after the climax?",
+    "part_difficulty": "medium",
+    "answer": "falling action",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What part of the plot is the final settling of the conflict?",
+    "part_difficulty": "medium",
+    "answer": "resolution",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What part of the plot is the buildup of problems?",
+    "part_difficulty": "medium",
+    "answer": "rising action",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about types of characters.",
+  "parts": [
+   {
+    "text": "What term names the main character?",
+    "part_difficulty": "easy",
+    "answer": "protagonist",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the character who opposes the main character?",
+    "part_difficulty": "easy",
+    "answer": "antagonist",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a character who changes over time?",
+    "part_difficulty": "medium",
+    "answer": "dynamic character",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a character who stays the same?",
+    "part_difficulty": "hard",
+    "answer": "static character",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "leadin": "Answer these questions about the feeling and message of a story.",
+  "parts": [
+   {
+    "text": "What term names the central message of a story?",
+    "part_difficulty": "medium",
+    "answer": "theme",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the feeling a story creates?",
+    "part_difficulty": "medium",
+    "answer": "mood",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the writer's attitude toward the subject?",
+    "part_difficulty": "medium",
+    "answer": "tone",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a hint about future events?",
+    "part_difficulty": "hard",
+    "answer": "foreshadowing",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about traditional tales.",
+  "parts": [
+   {
+    "text": "What term names a story that explains how the world works using gods and heroes?",
+    "part_difficulty": "easy",
+    "answer": "myth",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story about a hero handed down through time and linked to history?",
+    "part_difficulty": "medium",
+    "answer": "legend",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story with outrageous exaggeration about a larger-than-life hero?",
+    "part_difficulty": "medium",
+    "answer": "tall tale",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story that begins \"once upon a time\" and often features magic?",
+    "part_difficulty": "medium",
+    "answer": "fairy tale",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about poems of different kinds.",
+  "parts": [
+   {
+    "text": "What term names a funny five-line poem?",
+    "part_difficulty": "medium",
+    "answer": "limerick",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a poem that praises something?",
+    "part_difficulty": "medium",
+    "answer": "ode",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a poem of sorrow for the dead?",
+    "part_difficulty": "hard",
+    "answer": "elegy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a story told in song-like verse?",
+    "part_difficulty": "hard",
+    "answer": "ballad",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about sound devices.",
+  "parts": [
+   {
+    "text": "What term names the repeating of beginning sounds, as in \"slippery snakes\"?",
+    "part_difficulty": "easy",
+    "answer": "alliteration",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the beat of a poem?",
+    "part_difficulty": "medium",
+    "answer": "rhythm",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a repeated line in a poem or song?",
+    "part_difficulty": "medium",
+    "answer": "refrain",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the pattern of end rhymes, such as ABAB?",
+    "part_difficulty": "hard",
+    "answer": "rhyme scheme",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about wordplay.",
+  "parts": [
+   {
+    "text": "What term names a joke using a word with two meanings?",
+    "part_difficulty": "medium",
+    "answer": "pun",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a figure of speech that joins opposites, such as \"bittersweet\"?",
+    "part_difficulty": "medium",
+    "answer": "oxymoron",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a reference to a well-known story or person?",
+    "part_difficulty": "hard",
+    "answer": "allusion",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the opposite of what is expected?",
+    "part_difficulty": "hard",
+    "answer": "irony",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about books.",
+  "parts": [
+   {
+    "text": "What term names a true story about someone's life, written by another person?",
+    "part_difficulty": "easy",
+    "answer": "biography",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names an introduction before chapter one?",
+    "part_difficulty": "easy",
+    "answer": "prologue",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a closing section after the last chapter?",
+    "part_difficulty": "medium",
+    "answer": "epilogue",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a long work of fiction?",
+    "part_difficulty": "medium",
+    "answer": "novel",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about senses and description.",
+  "parts": [
+   {
+    "text": "What term names words that help you see, hear, smell, taste, and feel what is described?",
+    "part_difficulty": "easy",
+    "answer": "imagery",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a thing that stands for an idea, like a dove for peace?",
+    "part_difficulty": "medium",
+    "answer": "symbol",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a scene that jumps back to the past?",
+    "part_difficulty": "medium",
+    "answer": "flashback",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the worried waiting of a reader who wants to know what happens?",
+    "part_difficulty": "hard",
+    "answer": "suspense",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about types of plays.",
+  "parts": [
+   {
+    "text": "What kind of play has a happy ending and is meant to be funny?",
+    "part_difficulty": "easy",
+    "answer": "comedy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of play ends in sorrow for the hero?",
+    "part_difficulty": "medium",
+    "answer": "tragedy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What do we call the people who perform in a play?",
+    "part_difficulty": "medium",
+    "answer": "actors",
+    "required": null,
+    "alternates": [
+     "cast"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What do we call a speech spoken by a character who is alone on stage?",
+    "part_difficulty": "hard",
+    "answer": "soliloquy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about writing styles.",
+  "parts": [
+   {
+    "text": "What term names the special way people in a region speak?",
+    "part_difficulty": "medium",
+    "answer": "dialect",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a category such as mystery or fantasy?",
+    "part_difficulty": "medium",
+    "answer": "genre",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names the words characters say to each other?",
+    "part_difficulty": "medium",
+    "answer": "dialogue",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names an author's choice of words?",
+    "part_difficulty": "hard",
+    "answer": "diction",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote the fantasy novel \"The Hobbit\"?",
+  "answer": "J. R. R. Tolkien",
+  "required": "Tolkien",
+  "alternates": [
+   "Tolkien"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which character in \"The Hobbit\" is the hobbit who goes on an adventure with dwarves and a wizard?",
+  "answer": "Bilbo Baggins",
+  "required": "Baggins",
+  "alternates": [
+   "Bilbo"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "In \"The Hobbit,\" what is the name of the dragon who guards the treasure in the Lonely Mountain?",
+  "answer": "Smaug",
+  "required": "Smaug",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"The Giver\"?",
+  "answer": "Lois Lowry",
+  "required": "Lowry",
+  "alternates": [
+   "Lowry"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"The Giver,\" what is the name of the boy chosen to be the Receiver of Memory?",
+  "answer": "Jonas",
+  "required": "Jonas",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote the novel \"Hatchet,\" about a boy who survives alone in the Canadian wilderness?",
+  "answer": "Gary Paulsen",
+  "required": "Paulsen",
+  "alternates": [
+   "Paulsen"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"The Outsiders\"?",
+  "answer": "S. E. Hinton",
+  "required": "Hinton",
+  "alternates": [
+   "Hinton"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"The Outsiders,\" which gang is the main group of characters in, the Greasers or the Socs?",
+  "answer": "Greasers",
+  "required": null,
+  "alternates": [
+   "the Greasers"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote the novel \"Holes,\" about a boy sent to Camp Green Lake?",
+  "answer": "Louis Sachar",
+  "required": "Sachar",
+  "alternates": [
+   "Sachar"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote the novel \"Charlotte's Web\"?",
+  "answer": "E. B. White",
+  "required": "White",
+  "alternates": [
+   "White"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "In \"Charlotte's Web,\" what animal is Wilbur?",
+  "answer": "pig",
+  "required": null,
+  "alternates": [
+   "a pig"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"A Wrinkle in Time\"?",
+  "answer": "Madeleine L'Engle",
+  "required": "L'Engle",
+  "alternates": [
+   "L'Engle"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"Bridge to Terabithia\"?",
+  "answer": "Katherine Paterson",
+  "required": "Paterson",
+  "alternates": [
+   "Paterson"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"Number the Stars,\" set in Denmark during World War II?",
+  "answer": "Lois Lowry",
+  "required": "Lowry",
+  "alternates": [
+   "Lowry"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote \"The Adventures of Tom Sawyer\"?",
+  "answer": "Mark Twain",
+  "required": "Twain",
+  "alternates": [
+   "Twain"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "On what river does Huckleberry Finn travel on a raft with Jim?",
+  "answer": "Mississippi River",
+  "required": null,
+  "alternates": [
+   "Mississippi"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"The Call of the Wild,\" about a dog named Buck?",
+  "answer": "Jack London",
+  "required": "London",
+  "alternates": [
+   "London"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"The Call of the Wild,\" what kind of animal is the main character, Buck?",
+  "answer": "dog",
+  "required": null,
+  "alternates": [
+   "a dog",
+   "St. Bernard-Scottish shepherd mix"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote \"Alice's Adventures in Wonderland\"?",
+  "answer": "Lewis Carroll",
+  "required": "Carroll",
+  "alternates": [
+   "Carroll"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "In \"Alice's Adventures in Wonderland,\" what animal does Alice follow down the rabbit hole?",
+  "answer": "white rabbit",
+  "required": null,
+  "alternates": [
+   "a white rabbit",
+   "rabbit"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote \"The Lion, the Witch and the Wardrobe\"?",
+  "answer": "C. S. Lewis",
+  "required": "Lewis",
+  "alternates": [
+   "Lewis"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"The Lion, the Witch and the Wardrobe,\" what is the name of the lion who rules Narnia?",
+  "answer": "Aslan",
+  "required": "Aslan",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which author wrote \"Peter Pan\"?",
+  "answer": "J. M. Barrie",
+  "required": "Barrie",
+  "alternates": [
+   "Barrie"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"Peter Pan,\" what is the name of the pirate captain whose hand is cut off by Peter?",
+  "answer": "Captain Hook",
+  "required": "Hook",
+  "alternates": [
+   "Hook"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"Treasure Island\"?",
+  "answer": "Robert Louis Stevenson",
+  "required": "Stevenson",
+  "alternates": [
+   "Stevenson"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"Treasure Island,\" what is the name of the one-legged pirate cook?",
+  "answer": "Long John Silver",
+  "required": "Silver",
+  "alternates": [
+   "Silver"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"The Wonderful Wizard of Oz\"?",
+  "answer": "L. Frank Baum",
+  "required": "Baum",
+  "alternates": [
+   "Baum"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "In \"The Wonderful Wizard of Oz,\" what kind of storm carries Dorothy to Oz?",
+  "answer": "tornado",
+  "required": null,
+  "alternates": [
+   "cyclone"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Anne of Green Gables\"?",
+  "answer": "L. M. Montgomery",
+  "required": "Montgomery",
+  "alternates": [
+   "Montgomery"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Little Women\"?",
+  "answer": "Louisa May Alcott",
+  "required": "Alcott",
+  "alternates": [
+   "Alcott"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"Little Women,\" what is the name of the March sister who wants to be a writer?",
+  "answer": "Jo",
+  "required": "Jo",
+  "alternates": [
+   "Jo March"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "In \"Little Women,\" which March sister is the youngest?",
+  "answer": "Amy",
+  "required": "Amy",
+  "alternates": [
+   "Amy March"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Island of the Blue Dolphins\"?",
+  "answer": "Scott O'Dell",
+  "required": "O'Dell",
+  "alternates": [
+   "O'Dell"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Where the Red Fern Grows\"?",
+  "answer": "Wilson Rawls",
+  "required": "Rawls",
+  "alternates": [
+   "Rawls"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"The Diary of a Young Girl,\" kept while hiding in Amsterdam?",
+  "answer": "Anne Frank",
+  "required": "Frank",
+  "alternates": [
+   "Frank"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"The Hunger Games\"?",
+  "answer": "Suzanne Collins",
+  "required": "Collins",
+  "alternates": [
+   "Collins"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"The Hunger Games,\" what is the name of the girl who volunteers to take her sister's place?",
+  "answer": "Katniss Everdeen",
+  "required": "Everdeen",
+  "alternates": [
+   "Katniss"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Percy Jackson and the Lightning Thief\"?",
+  "answer": "Rick Riordan",
+  "required": "Riordan",
+  "alternates": [
+   "Riordan"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"Tuck Everlasting\"?",
+  "answer": "Natalie Babbitt",
+  "required": "Babbitt",
+  "alternates": [
+   "Babbitt"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Where the Wild Things Are\"?",
+  "answer": "Maurice Sendak",
+  "required": "Sendak",
+  "alternates": [
+   "Sendak"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote the novel \"Wonder,\" about a boy named Auggie?",
+  "answer": "R. J. Palacio",
+  "required": "Palacio",
+  "alternates": [
+   "Palacio"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Esperanza Rising\"?",
+  "answer": "Pam Munoz Ryan",
+  "required": "Ryan",
+  "alternates": [
+   "Ryan"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which Shakespeare play includes the line \"Et tu, Brute\"?",
+  "answer": "Julius Caesar",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Shakespeare play features fairies, a character named Puck, and a donkey-headed man named Bottom?",
+  "answer": "A Midsummer Night's Dream",
+  "required": null,
+  "alternates": [
+   "Midsummer Night's Dream"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"The Pearl,\" a novella about a poor fisherman who finds a valuable pearl?",
+  "answer": "John Steinbeck",
+  "required": "Steinbeck",
+  "alternates": [
+   "Steinbeck"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"Animal Farm,\" a story about farm animals who rebel against their owner?",
+  "answer": "George Orwell",
+  "required": "Orwell",
+  "alternates": [
+   "Orwell"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"Fahrenheit 451,\" a novel about a society that burns books?",
+  "answer": "Ray Bradbury",
+  "required": "Bradbury",
+  "alternates": [
+   "Bradbury"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"The Old Man and the Sea\"?",
+  "answer": "Ernest Hemingway",
+  "required": "Hemingway",
+  "alternates": [
+   "Hemingway"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"A Christmas Carol\"?",
+  "answer": "Charles Dickens",
+  "required": "Dickens",
+  "alternates": [
+   "Dickens"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"A Christmas Carol,\" what is the name of the miserly main character?",
+  "answer": "Ebenezer Scrooge",
+  "required": "Scrooge",
+  "alternates": [
+   "Scrooge"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "In \"Romeo and Juliet,\" what is the name of Juliet's cousin who is killed by Romeo?",
+  "answer": "Tybalt",
+  "required": "Tybalt",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "In \"Romeo and Juliet,\" what is the name of Romeo's friend who is killed by Tybalt?",
+  "answer": "Mercutio",
+  "required": "Mercutio",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"Gulliver's Travels\"?",
+  "answer": "Jonathan Swift",
+  "required": "Swift",
+  "alternates": [
+   "Swift"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which author wrote \"Robinson Crusoe\"?",
+  "answer": "Daniel Defoe",
+  "required": "Defoe",
+  "alternates": [
+   "Defoe"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"The Secret Garden\"?",
+  "answer": "Frances Hodgson Burnett",
+  "required": "Burnett",
+  "alternates": [
+   "Burnett"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Black Beauty,\" told from the point of view of a horse?",
+  "answer": "Anna Sewell",
+  "required": "Sewell",
+  "alternates": [
+   "Sewell"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"The Jungle Book\"?",
+  "answer": "Rudyard Kipling",
+  "required": "Kipling",
+  "alternates": [
+   "Kipling"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"The Jungle Book,\" what is the name of the boy raised by wolves?",
+  "answer": "Mowgli",
+  "required": "Mowgli",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Matilda,\" about a girl with special powers?",
+  "answer": "Roald Dahl",
+  "required": "Dahl",
+  "alternates": [
+   "Dahl"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which author wrote \"Charlie and the Chocolate Factory\"?",
+  "answer": "Roald Dahl",
+  "required": "Dahl",
+  "alternates": [
+   "Dahl"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In \"Charlie and the Chocolate Factory,\" what is the name of the chocolate maker?",
+  "answer": "Willy Wonka",
+  "required": "Wonka",
+  "alternates": [
+   "Wonka"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about classic children's books.",
+  "parts": [
+   {
+    "text": "Which author wrote \"Charlotte's Web\"?",
+    "part_difficulty": "easy",
+    "answer": "E. B. White",
+    "required": "White",
+    "alternates": [
+     "White"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Cat in the Hat\"?",
+    "part_difficulty": "easy",
+    "answer": "Dr. Seuss",
+    "required": "Seuss",
+    "alternates": [
+     "Seuss"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Where the Wild Things Are\"?",
+    "part_difficulty": "medium",
+    "answer": "Maurice Sendak",
+    "required": "Sendak",
+    "alternates": [
+     "Sendak"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Matilda\"?",
+    "part_difficulty": "medium",
+    "answer": "Roald Dahl",
+    "required": "Dahl",
+    "alternates": [
+     "Dahl"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about fantasy stories.",
+  "parts": [
+   {
+    "text": "Which author wrote \"The Hobbit\"?",
+    "part_difficulty": "easy",
+    "answer": "J. R. R. Tolkien",
+    "required": "Tolkien",
+    "alternates": [
+     "Tolkien"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Lion, the Witch and the Wardrobe\"?",
+    "part_difficulty": "easy",
+    "answer": "C. S. Lewis",
+    "required": "Lewis",
+    "alternates": [
+     "Lewis"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the name of the lion in Narnia?",
+    "part_difficulty": "medium",
+    "answer": "Aslan",
+    "required": "Aslan",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the name of the hobbit hero of \"The Hobbit\"?",
+    "part_difficulty": "medium",
+    "answer": "Bilbo Baggins",
+    "required": "Baggins",
+    "alternates": [
+     "Bilbo"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about adventure novels.",
+  "parts": [
+   {
+    "text": "Which author wrote \"Treasure Island\"?",
+    "part_difficulty": "easy",
+    "answer": "Robert Louis Stevenson",
+    "required": "Stevenson",
+    "alternates": [
+     "Stevenson"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Call of the Wild\"?",
+    "part_difficulty": "medium",
+    "answer": "Jack London",
+    "required": "London",
+    "alternates": [
+     "London"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Hatchet\"?",
+    "part_difficulty": "medium",
+    "answer": "Gary Paulsen",
+    "required": "Paulsen",
+    "alternates": [
+     "Paulsen"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Robinson Crusoe\"?",
+    "part_difficulty": "medium",
+    "answer": "Daniel Defoe",
+    "required": "Defoe",
+    "alternates": [
+     "Defoe"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about Mark Twain.",
+  "parts": [
+   {
+    "text": "Which Mark Twain character whitewashes a fence?",
+    "part_difficulty": "easy",
+    "answer": "Tom Sawyer",
+    "required": "Sawyer",
+    "alternates": [
+     "Tom"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   },
+   {
+    "text": "Which Mark Twain character travels down the Mississippi on a raft?",
+    "part_difficulty": "easy",
+    "answer": "Huckleberry Finn",
+    "required": "Finn",
+    "alternates": [
+     "Huck"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   },
+   {
+    "text": "What is Mark Twain's real last name?",
+    "part_difficulty": "medium",
+    "answer": "Clemens",
+    "required": "Clemens",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "On which river did Twain work as a steamboat pilot?",
+    "part_difficulty": "medium",
+    "answer": "Mississippi River",
+    "required": null,
+    "alternates": [
+     "Mississippi"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about Shakespeare.",
+  "parts": [
+   {
+    "text": "Which play is about two feuding families in Verona?",
+    "part_difficulty": "easy",
+    "answer": "Romeo and Juliet",
+    "required": null,
+    "alternates": [
+     "p=Romeo",
+     "Juliet"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which play has fairies and a character named Puck?",
+    "part_difficulty": "medium",
+    "answer": "A Midsummer Night's Dream",
+    "required": null,
+    "alternates": [
+     "Midsummer Night's Dream"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which play includes the phrase \"Et tu, Brute\"?",
+    "part_difficulty": "medium",
+    "answer": "Julius Caesar",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which play features three witches and a Scottish king?",
+    "part_difficulty": "hard",
+    "answer": "Macbeth",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about dystopian novels.",
+  "parts": [
+   {
+    "text": "Which author wrote \"The Giver\"?",
+    "part_difficulty": "medium",
+    "answer": "Lois Lowry",
+    "required": "Lowry",
+    "alternates": [
+     "Lowry"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Hunger Games\"?",
+    "part_difficulty": "medium",
+    "answer": "Suzanne Collins",
+    "required": "Collins",
+    "alternates": [
+     "Collins"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Fahrenheit 451\"?",
+    "part_difficulty": "hard",
+    "answer": "Ray Bradbury",
+    "required": "Bradbury",
+    "alternates": [
+     "Bradbury"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Animal Farm\"?",
+    "part_difficulty": "hard",
+    "answer": "George Orwell",
+    "required": "Orwell",
+    "alternates": [
+     "Orwell"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about authors of novels about school and growing up.",
+  "parts": [
+   {
+    "text": "Which author wrote \"Holes\"?",
+    "part_difficulty": "easy",
+    "answer": "Louis Sachar",
+    "required": "Sachar",
+    "alternates": [
+     "Sachar"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Outsiders\"?",
+    "part_difficulty": "medium",
+    "answer": "S. E. Hinton",
+    "required": "Hinton",
+    "alternates": [
+     "Hinton"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Wonder\"?",
+    "part_difficulty": "medium",
+    "answer": "R. J. Palacio",
+    "required": "Palacio",
+    "alternates": [
+     "Palacio"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Bridge to Terabithia\"?",
+    "part_difficulty": "hard",
+    "answer": "Katherine Paterson",
+    "required": "Paterson",
+    "alternates": [
+     "Paterson"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about girls in classic novels.",
+  "parts": [
+   {
+    "text": "Which character follows a white rabbit down a hole?",
+    "part_difficulty": "easy",
+    "answer": "Alice",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which character is carried to Oz by a tornado?",
+    "part_difficulty": "easy",
+    "answer": "Dorothy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which March sister wants to be a writer in \"Little Women\"?",
+    "part_difficulty": "medium",
+    "answer": "Jo",
+    "required": "Jo",
+    "alternates": [
+     "Jo March"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which girl in a Roald Dahl novel has special powers?",
+    "part_difficulty": "medium",
+    "answer": "Matilda",
+    "required": "Matilda",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about characters from Roald Dahl.",
+  "parts": [
+   {
+    "text": "Which Roald Dahl novel features a chocolate factory?",
+    "part_difficulty": "easy",
+    "answer": "Charlie and the Chocolate Factory",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Who owns the chocolate factory?",
+    "part_difficulty": "easy",
+    "answer": "Willy Wonka",
+    "required": "Wonka",
+    "alternates": [
+     "Wonka"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the name of the girl with special powers in a Dahl novel?",
+    "part_difficulty": "medium",
+    "answer": "Matilda",
+    "required": "Matilda",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Dahl novel is about a boy who travels in a giant fruit?",
+    "part_difficulty": "hard",
+    "answer": "James and the Giant Peach",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the Odyssey and the Iliad.",
+  "parts": [
+   {
+    "text": "Which ancient Greek poet is credited with the Odyssey?",
+    "part_difficulty": "easy",
+    "answer": "Homer",
+    "required": "Homer",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Who is the hero of the Odyssey?",
+    "part_difficulty": "medium",
+    "answer": "Odysseus",
+    "required": "Odysseus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the name of the hero's faithful wife?",
+    "part_difficulty": "medium",
+    "answer": "Penelope",
+    "required": "Penelope",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What one-eyed giant does the hero blind?",
+    "part_difficulty": "hard",
+    "answer": "Polyphemus",
+    "required": null,
+    "alternates": [
+     "the Cyclops",
+     "Cyclops"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about novels set during wars.",
+  "parts": [
+   {
+    "text": "Which girl kept a diary while hiding in Amsterdam?",
+    "part_difficulty": "easy",
+    "answer": "Anne Frank",
+    "required": "Frank",
+    "alternates": [
+     "Frank"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Number the Stars\"?",
+    "part_difficulty": "medium",
+    "answer": "Lois Lowry",
+    "required": "Lowry",
+    "alternates": [
+     "Lowry"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "In which country is \"Number the Stars\" set?",
+    "part_difficulty": "medium",
+    "answer": "Denmark",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of tower or building did Anne Frank's family hide in? Name the type of space.",
+    "part_difficulty": "hard",
+    "answer": "annex",
+    "required": null,
+    "alternates": [
+     "secret annex",
+     "the annex"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about animals in famous novels.",
+  "parts": [
+   {
+    "text": "What animal is Wilbur in \"Charlotte's Web\"?",
+    "part_difficulty": "easy",
+    "answer": "pig",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What animal is Buck in \"The Call of the Wild\"?",
+    "part_difficulty": "easy",
+    "answer": "dog",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What animal is Black Beauty?",
+    "part_difficulty": "medium",
+    "answer": "horse",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What animal is Charlotte in \"Charlotte's Web\"?",
+    "part_difficulty": "medium",
+    "answer": "spider",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about British authors.",
+  "parts": [
+   {
+    "text": "Which author wrote \"Alice's Adventures in Wonderland\"?",
+    "part_difficulty": "easy",
+    "answer": "Lewis Carroll",
+    "required": "Carroll",
+    "alternates": [
+     "Carroll"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"A Christmas Carol\"?",
+    "part_difficulty": "easy",
+    "answer": "Charles Dickens",
+    "required": "Dickens",
+    "alternates": [
+     "Dickens"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Peter Pan\"?",
+    "part_difficulty": "medium",
+    "answer": "J. M. Barrie",
+    "required": "Barrie",
+    "alternates": [
+     "Barrie"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Jungle Book\"?",
+    "part_difficulty": "medium",
+    "answer": "Rudyard Kipling",
+    "required": "Kipling",
+    "alternates": [
+     "Kipling"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about American authors of novels for young readers.",
+  "parts": [
+   {
+    "text": "Which author wrote \"Little Women\"?",
+    "part_difficulty": "easy",
+    "answer": "Louisa May Alcott",
+    "required": "Alcott",
+    "alternates": [
+     "Alcott"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"The Wonderful Wizard of Oz\"?",
+    "part_difficulty": "medium",
+    "answer": "L. Frank Baum",
+    "required": "Baum",
+    "alternates": [
+     "Baum"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Island of the Blue Dolphins\"?",
+    "part_difficulty": "medium",
+    "answer": "Scott O'Dell",
+    "required": "O'Dell",
+    "alternates": [
+     "O'Dell"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which author wrote \"Where the Red Fern Grows\"?",
+    "part_difficulty": "medium",
+    "answer": "Wilson Rawls",
+    "required": "Rawls",
+    "alternates": [
+     "Rawls"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about main characters.",
+  "parts": [
+   {
+    "text": "Who is the girl who volunteers in \"The Hunger Games\"?",
+    "part_difficulty": "easy",
+    "answer": "Katniss Everdeen",
+    "required": "Everdeen",
+    "alternates": [
+     "Katniss"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   },
+   {
+    "text": "Who is the boy chosen as Receiver in \"The Giver\"?",
+    "part_difficulty": "medium",
+    "answer": "Jonas",
+    "required": "Jonas",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Who is the pirate captain in \"Peter Pan\"?",
+    "part_difficulty": "medium",
+    "answer": "Captain Hook",
+    "required": "Hook",
+    "alternates": [
+     "Hook"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Who is the boy raised by wolves in \"The Jungle Book\"?",
+    "part_difficulty": "medium",
+    "answer": "Mowgli",
+    "required": "Mowgli",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about older stories read in school.",
+  "parts": [
+   {
+    "text": "Which novella is about a fisherman who finds a valuable gem in the sea?",
+    "part_difficulty": "medium",
+    "answer": "The Pearl",
+    "required": null,
+    "alternates": [
+     "Pearl"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which novel by Daniel Defoe is about a man stranded on an island?",
+    "part_difficulty": "medium",
+    "answer": "Robinson Crusoe",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which novel by Jonathan Swift is about a traveler who visits Lilliput?",
+    "part_difficulty": "hard",
+    "answer": "Gulliver's Travels",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which novel by Ernest Hemingway is about an old fisherman and a giant marlin?",
+    "part_difficulty": "hard",
+    "answer": "The Old Man and the Sea",
+    "required": null,
+    "alternates": [
+     "Old Man and the Sea"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about books with young heroes.",
+  "parts": [
+   {
+    "text": "Which boy wizard is the hero of books by J. K. Rowling? Name him.",
+    "part_difficulty": "easy",
+    "answer": "Harry Potter",
+    "required": "Potter",
+    "alternates": [
+     "Harry"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   },
+   {
+    "text": "Which demigod is the hero of \"The Lightning Thief\"?",
+    "part_difficulty": "medium",
+    "answer": "Percy Jackson",
+    "required": "Jackson",
+    "alternates": [
+     "Percy"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   },
+   {
+    "text": "Which boy survives a plane crash in \"Hatchet\"?",
+    "part_difficulty": "medium",
+    "answer": "Brian Robeson",
+    "required": "Robeson",
+    "alternates": [
+     "Brian"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   },
+   {
+    "text": "Which boy is the main character in \"Holes\"?",
+    "part_difficulty": "hard",
+    "answer": "Stanley Yelnats",
+    "required": "Yelnats",
+    "alternates": [
+     "Stanley"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": true
+   }
+  ]
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek god of the sun, music, and healing drove a chariot across the sky?",
+  "answer": "Apollo",
+  "required": "Apollo",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek goddess of the hunt and the moon was the twin sister of Apollo?",
+  "answer": "Artemis",
+  "required": "Artemis",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek god was the swift messenger of the gods, with winged sandals?",
+  "answer": "Hermes",
+  "required": "Hermes",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek god ruled the underworld, the land of the dead?",
+  "answer": "Hades",
+  "required": "Hades",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek goddess was the queen of the gods and the wife of Zeus?",
+  "answer": "Hera",
+  "required": "Hera",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek god of the forge made weapons and armor for the gods?",
+  "answer": "Hephaestus",
+  "required": "Hephaestus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek god of wine and celebration was the son of Zeus?",
+  "answer": "Dionysus",
+  "required": "Dionysus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek goddess of love and beauty was said to be born from sea foam?",
+  "answer": "Aphrodite",
+  "required": "Aphrodite",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek goddess was taken to the underworld by Hades and spends part of each year there?",
+  "answer": "Persephone",
+  "required": "Persephone",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek hero, famed for his strength, completed twelve labors?",
+  "answer": "Heracles",
+  "required": "Heracles",
+  "alternates": [
+   "Hercules"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek hero cut off the head of Medusa?",
+  "answer": "Perseus",
+  "required": "Perseus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek hero led the Argonauts on a quest for the Golden Fleece?",
+  "answer": "Jason",
+  "required": "Jason",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek musician traveled to the underworld to bring back his wife Eurydice?",
+  "answer": "Orpheus",
+  "required": "Orpheus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which king of Greek myth turned everything he touched into gold?",
+  "answer": "Midas",
+  "required": "Midas",
+  "alternates": [
+   "King Midas"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which boy in Greek myth flew too close to the sun with wings made of wax?",
+  "answer": "Icarus",
+  "required": "Icarus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which inventor built the Labyrinth and the wings worn by Icarus?",
+  "answer": "Daedalus",
+  "required": "Daedalus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which handsome young man in Greek myth fell in love with his own reflection in a pool?",
+  "answer": "Narcissus",
+  "required": "Narcissus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which mountain nymph in Greek myth could only repeat the last words spoken to her?",
+  "answer": "Echo",
+  "required": "Echo",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which girl in Greek myth was turned into a spider after challenging Athena to a weaving contest?",
+  "answer": "Arachne",
+  "required": "Arachne",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Titan was forced to hold up the sky on his shoulders?",
+  "answer": "Atlas",
+  "required": "Atlas",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Titan stole fire from the gods and gave it to humans?",
+  "answer": "Prometheus",
+  "required": "Prometheus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which three-headed dog guards the entrance to the underworld?",
+  "answer": "Cerberus",
+  "required": "Cerberus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which winged horse sprang from the blood of Medusa?",
+  "answer": "Pegasus",
+  "required": "Pegasus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which monster had the head of a bull and the body of a man?",
+  "answer": "Minotaur",
+  "required": null,
+  "alternates": [
+   "the Minotaur"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What name was given to giants with a single eye in the middle of their foreheads?",
+  "answer": "Cyclopes",
+  "required": null,
+  "alternates": [
+   "Cyclops",
+   "cyclopses"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which many-headed water serpent grew two heads for each one that Heracles cut off?",
+  "answer": "Hydra",
+  "required": "Hydra",
+  "alternates": [
+   "the Hydra",
+   "Lernaean Hydra"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What creatures lured sailors to their doom with enchanting songs?",
+  "answer": "Sirens",
+  "required": null,
+  "alternates": [
+   "the Sirens"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which wooden gift was used by the Greeks to sneak soldiers into the city of Troy?",
+  "answer": "Trojan Horse",
+  "required": null,
+  "alternates": [
+   "the Trojan Horse",
+   "wooden horse"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which prince of Troy took Helen from her husband, starting the Trojan War?",
+  "answer": "Paris",
+  "required": "Paris",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which woman, said to be the most beautiful in the world, was at the center of the Trojan War?",
+  "answer": "Helen",
+  "required": "Helen",
+  "alternates": [
+   "Helen of Troy"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Who was the greatest Trojan warrior, killed by Achilles?",
+  "answer": "Hector",
+  "required": "Hector",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Titan was the father of Zeus and swallowed his own children?",
+  "answer": "Cronus",
+  "required": "Cronus",
+  "alternates": [
+   "Kronos"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What mountain was said to be the home of the Greek gods?",
+  "answer": "Mount Olympus",
+  "required": null,
+  "alternates": [
+   "Olympus"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What are the nine goddesses of the arts and sciences called?",
+  "answer": "Muses",
+  "required": null,
+  "alternates": [
+   "the Muses"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What are the three goddesses who control the thread of human life called?",
+  "answer": "Fates",
+  "required": null,
+  "alternates": [
+   "the Fates"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the Roman name for the Greek king of the gods, Zeus?",
+  "answer": "Jupiter",
+  "required": "Jupiter",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the Roman name for the Greek goddess Aphrodite?",
+  "answer": "Venus",
+  "required": "Venus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek goddess Athena?",
+  "answer": "Minerva",
+  "required": "Minerva",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek messenger god Hermes?",
+  "answer": "Mercury",
+  "required": "Mercury",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek god of the forge, Hephaestus?",
+  "answer": "Vulcan",
+  "required": "Vulcan",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek god Dionysus?",
+  "answer": "Bacchus",
+  "required": "Bacchus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek god of the underworld, Hades?",
+  "answer": "Pluto",
+  "required": "Pluto",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek goddess Artemis?",
+  "answer": "Diana",
+  "required": "Diana",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek goddess Hera?",
+  "answer": "Juno",
+  "required": "Juno",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Roman name for the Greek god of the sea, Poseidon?",
+  "answer": "Neptune",
+  "required": "Neptune",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the Roman name for the Greek god of love, Eros?",
+  "answer": "Cupid",
+  "required": "Cupid",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Roman god of beginnings has two faces and gave his name to the month of January?",
+  "answer": "Janus",
+  "required": "Janus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Roman goddess of the hearth was served by priestesses called Vestal Virgins?",
+  "answer": "Vesta",
+  "required": "Vesta",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Roman goddess of grain is the counterpart of the Greek Demeter?",
+  "answer": "Ceres",
+  "required": "Ceres",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Trojan hero fled his burning city and became the ancestor of the Romans?",
+  "answer": "Aeneas",
+  "required": "Aeneas",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which twin brothers were said to have founded Rome, one of whom killed the other?",
+  "answer": "Romulus and Remus",
+  "required": null,
+  "alternates": [
+   "Romulus"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which animal was said to have nursed the infant founders of Rome?",
+  "answer": "she-wolf",
+  "required": null,
+  "alternates": [
+   "wolf"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Roman god of war was the father of Romulus and Remus?",
+  "answer": "Mars",
+  "required": "Mars",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek goddess of victory is often shown with wings?",
+  "answer": "Nike",
+  "required": "Nike",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Greek god of war was the son of Zeus and Hera?",
+  "answer": "Ares",
+  "required": "Ares",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which Greek goddess of grain and harvest was the mother of Persephone?",
+  "answer": "Demeter",
+  "required": "Demeter",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What was the name of the ship in which Jason sailed in search of the Golden Fleece?",
+  "answer": "Argo",
+  "required": null,
+  "alternates": [
+   "the Argo"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which goddess of the rainbow served as a messenger to the gods?",
+  "answer": "Iris",
+  "required": "Iris",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which Greek goddess of discord threw a golden apple among the gods at a wedding?",
+  "answer": "Eris",
+  "required": "Eris",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What river did the ferryman Charon cross with the souls of the dead?",
+  "answer": "Styx",
+  "required": null,
+  "alternates": [
+   "River Styx",
+   "the Styx"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Who was the ferryman who carried souls across the river to the underworld?",
+  "answer": "Charon",
+  "required": "Charon",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which fire-breathing monster had a lion's head, a goat's body, and a serpent's tail?",
+  "answer": "Chimera",
+  "required": null,
+  "alternates": [
+   "the Chimera"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the name of the famous oracle site in Greece where a priestess gave prophecies?",
+  "answer": "Delphi",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which Roman goddess of the dawn shares her name with a type of light in the sky?",
+  "answer": "Aurora",
+  "required": "Aurora",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which hero killed the Nemean lion as one of his twelve labors?",
+  "answer": "Heracles",
+  "required": "Heracles",
+  "alternates": [
+   "Hercules"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the Greek name for the Roman king of the gods, Jupiter?",
+  "answer": "Zeus",
+  "required": "Zeus",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the Greek name for the Roman goddess Venus?",
+  "answer": "Aphrodite",
+  "required": "Aphrodite",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman god of war, Mars?",
+  "answer": "Ares",
+  "required": "Ares",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman queen of the gods, Juno?",
+  "answer": "Hera",
+  "required": "Hera",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman sea god Neptune?",
+  "answer": "Poseidon",
+  "required": "Poseidon",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman goddess of wisdom, Minerva?",
+  "answer": "Athena",
+  "required": "Athena",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman messenger god Mercury?",
+  "answer": "Hermes",
+  "required": "Hermes",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman god of the dead, Pluto?",
+  "answer": "Hades",
+  "required": "Hades",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the Greek name for the Roman moon goddess Diana?",
+  "answer": "Artemis",
+  "required": "Artemis",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which Roman poet wrote the epic poem the Aeneid?",
+  "answer": "Virgil",
+  "required": "Virgil",
+  "alternates": [
+   "Vergil"
+  ],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which Roman poet wrote the Metamorphoses, a collection of myths about transformations?",
+  "answer": "Ovid",
+  "required": "Ovid",
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "name",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about the domains of the Greek gods.",
+  "parts": [
+   {
+    "text": "Which god ruled the sun, music, and healing?",
+    "part_difficulty": "easy",
+    "answer": "Apollo",
+    "required": "Apollo",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which god ruled the sea?",
+    "part_difficulty": "easy",
+    "answer": "Poseidon",
+    "required": "Poseidon",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which god ruled the underworld?",
+    "part_difficulty": "medium",
+    "answer": "Hades",
+    "required": "Hades",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which goddess of wisdom was born from the head of Zeus?",
+    "part_difficulty": "medium",
+    "answer": "Athena",
+    "required": "Athena",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about Greek heroes.",
+  "parts": [
+   {
+    "text": "Which hero beheaded Medusa?",
+    "part_difficulty": "easy",
+    "answer": "Perseus",
+    "required": "Perseus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which hero completed twelve labors?",
+    "part_difficulty": "easy",
+    "answer": "Heracles",
+    "required": "Heracles",
+    "alternates": [
+     "Hercules"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which hero sailed on the Argo?",
+    "part_difficulty": "medium",
+    "answer": "Jason",
+    "required": "Jason",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which hero killed the Minotaur?",
+    "part_difficulty": "medium",
+    "answer": "Theseus",
+    "required": "Theseus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about monsters of Greek myth.",
+  "parts": [
+   {
+    "text": "Which monster had the head of a bull on a man's body?",
+    "part_difficulty": "easy",
+    "answer": "Minotaur",
+    "required": "Minotaur",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which three-headed dog guarded the underworld?",
+    "part_difficulty": "easy",
+    "answer": "Cerberus",
+    "required": "Cerberus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which many-headed serpent grew new heads when one was cut off?",
+    "part_difficulty": "medium",
+    "answer": "Hydra",
+    "required": "Hydra",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which snake-haired woman turned people to stone?",
+    "part_difficulty": "medium",
+    "answer": "Medusa",
+    "required": "Medusa",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the Trojan War.",
+  "parts": [
+   {
+    "text": "Which city did the Greeks besiege for ten years?",
+    "part_difficulty": "easy",
+    "answer": "Troy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which wooden gift did the Greeks use to enter the city?",
+    "part_difficulty": "easy",
+    "answer": "Trojan Horse",
+    "required": null,
+    "alternates": [
+     "wooden horse"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Trojan prince took Helen away from Greece?",
+    "part_difficulty": "medium",
+    "answer": "Paris",
+    "required": "Paris",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Trojan warrior was killed by Achilles?",
+    "part_difficulty": "hard",
+    "answer": "Hector",
+    "required": "Hector",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the Odyssey.",
+  "parts": [
+   {
+    "text": "Which hero spends ten years trying to return home?",
+    "part_difficulty": "easy",
+    "answer": "Odysseus",
+    "required": "Odysseus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the name of his faithful wife?",
+    "part_difficulty": "medium",
+    "answer": "Penelope",
+    "required": "Penelope",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which giant with one eye does he blind?",
+    "part_difficulty": "medium",
+    "answer": "Polyphemus",
+    "required": "Polyphemus",
+    "alternates": [
+     "the Cyclops",
+     "Cyclops"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which enchantress turns his men into pigs?",
+    "part_difficulty": "hard",
+    "answer": "Circe",
+    "required": "Circe",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the older generation of Greek gods.",
+  "parts": [
+   {
+    "text": "Which Titan was the father of Zeus?",
+    "part_difficulty": "medium",
+    "answer": "Cronus",
+    "required": "Cronus",
+    "alternates": [
+     "Kronos"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Titan holds up the sky?",
+    "part_difficulty": "medium",
+    "answer": "Atlas",
+    "required": "Atlas",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Titan stole fire and gave it to humans?",
+    "part_difficulty": "medium",
+    "answer": "Prometheus",
+    "required": "Prometheus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What name is given to the generation of gods who ruled before the Olympians?",
+    "part_difficulty": "hard",
+    "answer": "Titans",
+    "required": null,
+    "alternates": [
+     "the Titans"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the underworld.",
+  "parts": [
+   {
+    "text": "Who ferries souls across the river of the dead?",
+    "part_difficulty": "medium",
+    "answer": "Charon",
+    "required": "Charon",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the name of the river of the underworld that gods swore oaths on?",
+    "part_difficulty": "medium",
+    "answer": "Styx",
+    "required": "Styx",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which goddess spends part of each year in the underworld as its queen?",
+    "part_difficulty": "medium",
+    "answer": "Persephone",
+    "required": "Persephone",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the underworld often called, after its ruler?",
+    "part_difficulty": "easy",
+    "answer": "Hades",
+    "required": null,
+    "alternates": [
+     "the land of Hades"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about groups of goddesses.",
+  "parts": [
+   {
+    "text": "What are the nine goddesses of the arts called?",
+    "part_difficulty": "easy",
+    "answer": "Muses",
+    "required": null,
+    "alternates": [
+     "the Muses"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What are the three goddesses who control the thread of life called?",
+    "part_difficulty": "medium",
+    "answer": "Fates",
+    "required": null,
+    "alternates": [
+     "the Fates"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "How many goddesses of the arts are there?",
+    "part_difficulty": "medium",
+    "answer": "9",
+    "required": null,
+    "alternates": [
+     "nine"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "How many goddesses control the thread of life?",
+    "part_difficulty": "medium",
+    "answer": "3",
+    "required": null,
+    "alternates": [
+     "three"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the Roman gods.",
+  "parts": [
+   {
+    "text": "Which Roman god of war gave his name to a planet?",
+    "part_difficulty": "easy",
+    "answer": "Mars",
+    "required": "Mars",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Roman goddess of love gave her name to a planet?",
+    "part_difficulty": "easy",
+    "answer": "Venus",
+    "required": "Venus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Roman goddess of wisdom is the counterpart of Athena?",
+    "part_difficulty": "medium",
+    "answer": "Minerva",
+    "required": "Minerva",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Roman messenger god is the counterpart of Hermes?",
+    "part_difficulty": "medium",
+    "answer": "Mercury",
+    "required": "Mercury",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about Roman names.",
+  "parts": [
+   {
+    "text": "What is the Greek name for the Roman god Mars?",
+    "part_difficulty": "easy",
+    "answer": "Ares",
+    "required": "Ares",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the Greek name for the Roman goddess Venus?",
+    "part_difficulty": "easy",
+    "answer": "Aphrodite",
+    "required": "Aphrodite",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the Greek name for the Roman goddess Minerva?",
+    "part_difficulty": "medium",
+    "answer": "Athena",
+    "required": "Athena",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the Greek name for the Roman god Mercury?",
+    "part_difficulty": "medium",
+    "answer": "Hermes",
+    "required": "Hermes",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about warnings in myths.",
+  "parts": [
+   {
+    "text": "Which boy flew too close to the sun?",
+    "part_difficulty": "easy",
+    "answer": "Icarus",
+    "required": "Icarus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which king turned everything he touched to gold?",
+    "part_difficulty": "easy",
+    "answer": "Midas",
+    "required": "Midas",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which young man loved his own reflection?",
+    "part_difficulty": "medium",
+    "answer": "Narcissus",
+    "required": "Narcissus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which weaver was turned into a spider?",
+    "part_difficulty": "medium",
+    "answer": "Arachne",
+    "required": "Arachne",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about the founding of Rome.",
+  "parts": [
+   {
+    "text": "Which twin is said to have founded Rome?",
+    "part_difficulty": "easy",
+    "answer": "Romulus",
+    "required": "Romulus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which twin did he kill?",
+    "part_difficulty": "medium",
+    "answer": "Remus",
+    "required": "Remus",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which animal nursed the twins?",
+    "part_difficulty": "medium",
+    "answer": "she-wolf",
+    "required": null,
+    "alternates": [
+     "wolf"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Trojan hero was the ancestor of the Romans?",
+    "part_difficulty": "hard",
+    "answer": "Aeneas",
+    "required": "Aeneas",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "leadin": "Answer these questions about ancient writers of myths.",
+  "parts": [
+   {
+    "text": "Which poet is credited with the Iliad and the Odyssey?",
+    "part_difficulty": "medium",
+    "answer": "Homer",
+    "required": "Homer",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Roman poet wrote the Aeneid?",
+    "part_difficulty": "medium",
+    "answer": "Virgil",
+    "required": "Virgil",
+    "alternates": [
+     "Vergil"
+    ],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Roman poet wrote the Metamorphoses?",
+    "part_difficulty": "hard",
+    "answer": "Ovid",
+    "required": "Ovid",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Greek poet wrote the Theogony, about the origins of the gods?",
+    "part_difficulty": "hard",
+    "answer": "Hesiod",
+    "required": "Hesiod",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about places in myths.",
+  "parts": [
+   {
+    "text": "What mountain was the home of the gods?",
+    "part_difficulty": "easy",
+    "answer": "Mount Olympus",
+    "required": null,
+    "alternates": [
+     "Olympus"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "At which site did a priestess give prophecies?",
+    "part_difficulty": "medium",
+    "answer": "Delphi",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which island kingdom was Odysseus's home?",
+    "part_difficulty": "medium",
+    "answer": "Ithaca",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which city fell to the wooden horse?",
+    "part_difficulty": "medium",
+    "answer": "Troy",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about Greek goddesses.",
+  "parts": [
+   {
+    "text": "Which goddess was queen of the gods?",
+    "part_difficulty": "easy",
+    "answer": "Hera",
+    "required": "Hera",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which goddess ruled the hunt and the moon?",
+    "part_difficulty": "easy",
+    "answer": "Artemis",
+    "required": "Artemis",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which goddess ruled love and beauty?",
+    "part_difficulty": "medium",
+    "answer": "Aphrodite",
+    "required": "Aphrodite",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which goddess ruled grain and harvest?",
+    "part_difficulty": "medium",
+    "answer": "Demeter",
+    "required": "Demeter",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about famous objects in myths.",
+  "parts": [
+   {
+    "text": "Which woman opened a jar that released evils into the world?",
+    "part_difficulty": "medium",
+    "answer": "Pandora",
+    "required": "Pandora",
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "name",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What golden object did Jason seek?",
+    "part_difficulty": "medium",
+    "answer": "Golden Fleece",
+    "required": null,
+    "alternates": [
+     "the Golden Fleece"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What golden fruit did Eris throw among the goddesses?",
+    "part_difficulty": "medium",
+    "answer": "golden apple",
+    "required": null,
+    "alternates": [
+     "apple",
+     "the golden apple"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What pair of sea dangers threatened Odysseus in a narrow strait?",
+    "part_difficulty": "hard",
+    "answer": "Scylla and Charybdis",
+    "required": null,
+    "alternates": [
+     "Scylla",
+     "Charybdis"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about planets named for Roman gods.",
+  "parts": [
+   {
+    "text": "Which planet is named for the Roman king of the gods?",
+    "part_difficulty": "easy",
+    "answer": "Jupiter",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which planet is named for the Roman messenger god?",
+    "part_difficulty": "easy",
+    "answer": "Mercury",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which planet is named for the Roman goddess of love?",
+    "part_difficulty": "medium",
+    "answer": "Venus",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which planet is named for the Roman god of agriculture?",
+    "part_difficulty": "medium",
+    "answer": "Saturn",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
  }
 ]
