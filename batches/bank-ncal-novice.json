@@ -1,0 +1,4931 @@
+[
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What part of speech names a person, place, thing, or idea?",
+  "answer": "noun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What part of speech expresses an action or a state of being?",
+  "answer": "verb",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What part of speech modifies a verb, an adjective, or a word of its own kind, such as \"very\" or \"quickly\"?",
+  "answer": "adverb",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What type of sentence asks a question?",
+  "answer": "interrogative sentence",
+  "required": null,
+  "alternates": [
+   "interrogative",
+   "question"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What type of sentence gives a command or makes a request?",
+  "answer": "imperative sentence",
+  "required": null,
+  "alternates": [
+   "imperative",
+   "command"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What type of sentence expresses strong emotion and ends with an exclamation point?",
+  "answer": "exclamatory sentence",
+  "required": null,
+  "alternates": [
+   "exclamatory"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What type of sentence makes a statement and ends with a period?",
+  "answer": "declarative sentence",
+  "required": null,
+  "alternates": [
+   "declarative"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a group of related words that has no subject-verb pair, such as \"in the morning\"?",
+  "answer": "phrase",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What part of speech is the word \"wow\" in the sentence \"Wow, that was fast\"?",
+  "answer": "interjection",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the past tense of the verb \"go\"?",
+  "answer": "went",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the past tense of the verb \"eat\"?",
+  "answer": "ate",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the plural of the word \"mouse\"?",
+  "answer": "mice",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the plural of the word \"box\"?",
+  "answer": "boxes",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the plural of the word \"leaf\"?",
+  "answer": "leaves",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the plural of the word \"city\"?",
+  "answer": "cities",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the comparative form of the adjective \"good\"?",
+  "answer": "better",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the superlative form of the adjective \"bad\"?",
+  "answer": "worst",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the superlative form of the adjective \"tall\"?",
+  "answer": "tallest",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the comparative form of the adjective \"happy\"?",
+  "answer": "happier",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What punctuation mark is used at the end of a question?",
+  "answer": "question mark",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What punctuation mark shows that letters are missing in a contraction?",
+  "answer": "apostrophe",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the contraction of the words \"do not\"?",
+  "answer": "don't",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the contraction of the words \"I am\"?",
+  "answer": "I'm",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the contraction of the words \"will not\"?",
+  "answer": "won't",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the contraction of the words \"let us\"?",
+  "answer": "let's",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "In the sentence \"The cat sat on the mat,\" what is the simple subject?",
+  "answer": "cat",
+  "required": null,
+  "alternates": [
+   "the cat"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "In the sentence \"Birds fly south in winter,\" which word is the verb?",
+  "answer": "fly",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In the sentence \"Maria gave Tom a gift,\" which word is the indirect object?",
+  "answer": "Tom",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In the sentence \"She kicked the ball,\" which word is the direct object?",
+  "answer": "ball",
+  "required": null,
+  "alternates": [
+   "the ball"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What part of speech is the word \"beautiful\" in the phrase \"a beautiful flower\"?",
+  "answer": "adjective",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What part of speech is the word \"under\" in the sentence \"The dog hid under the bed\"?",
+  "answer": "preposition",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What part of speech is the word \"because\" in the sentence \"I stayed home because I was sick\"?",
+  "answer": "conjunction",
+  "required": null,
+  "alternates": [
+   "subordinating conjunction"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What part of speech is the word \"they\" in the sentence \"They went home\"?",
+  "answer": "pronoun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names the word that a pronoun refers back to?",
+  "answer": "antecedent",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In the sentence \"The dog barked loudly,\" which word is the adverb?",
+  "answer": "loudly",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which word correctly completes the sentence \"___ house is big\": there, their, or they're?",
+  "answer": "their",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "Which word correctly completes the sentence \"___ my best friend\": your or you're?",
+  "answer": "you're",
+  "required": null,
+  "alternates": [
+   "you are"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which word correctly completes the sentence \"The dog wagged ___ tail\": its or it's?",
+  "answer": "its",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which word correctly completes the sentence \"___ coat is this\": who's or whose?",
+  "answer": "whose",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which word correctly completes the sentence \"She is taller ___ her brother\": than or then?",
+  "answer": "than",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What do we call the words \"a,\" \"an,\" and \"the\"?",
+  "answer": "articles",
+  "required": null,
+  "alternates": [
+   "article"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which article is used before a word that begins with a vowel sound, such as \"apple\"?",
+  "answer": "an",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a sentence that runs two complete thoughts together with no punctuation or conjunction between them?",
+  "answer": "run-on sentence",
+  "required": null,
+  "alternates": [
+   "run-on",
+   "run on"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names an incomplete sentence that lacks a subject or a verb?",
+  "answer": "sentence fragment",
+  "required": null,
+  "alternates": [
+   "fragment"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names the part of a sentence that tells what the subject does?",
+  "answer": "predicate",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What kind of noun names a specific person or place and begins with a capital letter?",
+  "answer": "proper noun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What kind of noun names a general person, place, or thing, such as \"city\"?",
+  "answer": "common noun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What kind of noun names an idea you cannot touch, such as \"freedom\"?",
+  "answer": "abstract noun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What kind of noun names a group, such as \"flock\" or \"team\"?",
+  "answer": "collective noun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which verb is correct: \"The dogs ___ barking\": is or are?",
+  "answer": "are",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which verb is correct: \"She ___ like spinach\": don't or doesn't?",
+  "answer": "doesn't",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "Which word is correct: \"He ___ the book on the table yesterday\": lay or laid?",
+  "answer": "laid",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "Which word is correct: \"Please ___ down for a nap\": lie or lay?",
+  "answer": "lie",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false,
+  "_leakOk": true
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the past tense of the verb \"bring\"?",
+  "answer": "brought",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the past participle of the verb \"write\"?",
+  "answer": "written",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the past tense of the verb \"swim\"?",
+  "answer": "swam",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the past tense of the verb \"teach\"?",
+  "answer": "taught",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the plural of the word \"foot\"?",
+  "answer": "feet",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the plural of the word \"tooth\"?",
+  "answer": "teeth",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the plural of the word \"man\"?",
+  "answer": "men",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What is the plural of the word \"analysis\"?",
+  "answer": "analyses",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What is the common Latin plural of the word \"cactus\"?",
+  "answer": "cacti",
+  "required": null,
+  "alternates": [
+   "cactuses"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a verb form ending in \"-ing\" that is used as a noun, as in \"Swimming is fun\"?",
+  "answer": "gerund",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a verb form that begins with \"to,\" such as \"to run\"?",
+  "answer": "infinitive",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What kind of pronoun, such as \"who\" or \"which,\" begins a clause that describes a noun?",
+  "answer": "relative pronoun",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "In the sentence \"She will sing tomorrow,\" what verb tense is used?",
+  "answer": "future tense",
+  "required": null,
+  "alternates": [
+   "future"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the plural of the word \"wife\"?",
+  "answer": "wives",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the plural of the word \"baby\"?",
+  "answer": "babies",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the plural of the word \"potato\"?",
+  "answer": "potatoes",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the plural of the word \"goose\"?",
+  "answer": "geese",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about nouns.",
+  "parts": [
+   {
+    "text": "What kind of noun names a specific person, place, or thing and is always capitalized?",
+    "part_difficulty": "easy",
+    "answer": "proper noun",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"dish\"?",
+    "part_difficulty": "easy",
+    "answer": "dishes",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of noun names a group, such as \"herd\" or \"class\"?",
+    "part_difficulty": "medium",
+    "answer": "collective noun",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of noun names a quality or idea, such as \"honesty\"?",
+    "part_difficulty": "hard",
+    "answer": "abstract noun",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about verbs.",
+  "parts": [
+   {
+    "text": "What is the past tense of the verb \"run\"?",
+    "part_difficulty": "easy",
+    "answer": "ran",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the past tense of the verb \"write\"?",
+    "part_difficulty": "easy",
+    "answer": "wrote",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the past participle of the verb \"eat\"?",
+    "part_difficulty": "medium",
+    "answer": "eaten",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the past tense of the verb \"buy\"?",
+    "part_difficulty": "medium",
+    "answer": "bought",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about punctuation.",
+  "parts": [
+   {
+    "text": "What mark ends an exclamatory sentence?",
+    "part_difficulty": "easy",
+    "answer": "exclamation point",
+    "required": null,
+    "alternates": [
+     "exclamation mark"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What mark separates the day from the year in a date, as in \"March 3, 2020\"?",
+    "part_difficulty": "easy",
+    "answer": "comma",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What mark can introduce a list after a complete sentence?",
+    "part_difficulty": "medium",
+    "answer": "colon",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What mark can join two closely related independent clauses without a conjunction?",
+    "part_difficulty": "hard",
+    "answer": "semicolon",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about sentence types.",
+  "parts": [
+   {
+    "text": "What type of sentence is \"Close the door\"?",
+    "part_difficulty": "easy",
+    "answer": "imperative",
+    "required": null,
+    "alternates": [
+     "command"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What type of sentence is \"Where are you going\"?",
+    "part_difficulty": "easy",
+    "answer": "interrogative",
+    "required": null,
+    "alternates": [
+     "question"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What type of sentence is \"What a beautiful day\"?",
+    "part_difficulty": "medium",
+    "answer": "exclamatory",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What type of sentence is \"The sun rises in the east\"?",
+    "part_difficulty": "medium",
+    "answer": "declarative",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about comparing with adjectives.",
+  "parts": [
+   {
+    "text": "What is the comparative form of \"fast\"?",
+    "part_difficulty": "easy",
+    "answer": "faster",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the superlative form of \"good\"?",
+    "part_difficulty": "medium",
+    "answer": "best",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the comparative form of \"beautiful\"?",
+    "part_difficulty": "medium",
+    "answer": "more beautiful",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the superlative form of \"far\"?",
+    "part_difficulty": "hard",
+    "answer": "farthest",
+    "required": null,
+    "alternates": [
+     "furthest"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about words that are often confused.",
+  "parts": [
+   {
+    "text": "Which word completes \"I put the book over ___\": there, their, or they're?",
+    "part_difficulty": "easy",
+    "answer": "there",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "Which word completes \"___ going to the park\": their, there, or they're?",
+    "part_difficulty": "medium",
+    "answer": "they're",
+    "required": null,
+    "alternates": [
+     "they are"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "Which word completes \"The bird built ___ nest\": its or it's?",
+    "part_difficulty": "medium",
+    "answer": "its",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "Which word completes \"Do you know ___ book this is\": who's or whose?",
+    "part_difficulty": "medium",
+    "answer": "whose",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about parts of a sentence.",
+  "parts": [
+   {
+    "text": "In \"The tall girl sings,\" which word is the verb?",
+    "part_difficulty": "easy",
+    "answer": "sings",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "In \"The tall girl sings,\" what is the simple subject?",
+    "part_difficulty": "medium",
+    "answer": "girl",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "In \"My brother plays soccer,\" what is the direct object?",
+    "part_difficulty": "medium",
+    "answer": "soccer",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "In \"My brother plays soccer,\" what is the predicate's main verb?",
+    "part_difficulty": "medium",
+    "answer": "plays",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about irregular plurals.",
+  "parts": [
+   {
+    "text": "What is the plural of the word \"child\"?",
+    "part_difficulty": "easy",
+    "answer": "children",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"woman\"?",
+    "part_difficulty": "easy",
+    "answer": "women",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"ox\"?",
+    "part_difficulty": "medium",
+    "answer": "oxen",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"person,\" in everyday use?",
+    "part_difficulty": "medium",
+    "answer": "people",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about conjunctions.",
+  "parts": [
+   {
+    "text": "Which conjunction shows contrast, as in \"small but strong\"?",
+    "part_difficulty": "easy",
+    "answer": "but",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which conjunction offers a choice?",
+    "part_difficulty": "easy",
+    "answer": "or",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which conjunction gives a reason, as in \"I left early ___ it rained\"?",
+    "part_difficulty": "medium",
+    "answer": "because",
+    "required": null,
+    "alternates": [
+     "since"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "What kind of conjunctions are the words in the memory trick FANBOYS?",
+    "part_difficulty": "hard",
+    "answer": "coordinating conjunctions",
+    "required": null,
+    "alternates": [
+     "coordinating"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about articles.",
+  "parts": [
+   {
+    "text": "Which article is used before the word \"hour\"?",
+    "part_difficulty": "easy",
+    "answer": "an",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which article is used before the word \"university\"?",
+    "part_difficulty": "easy",
+    "answer": "a",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which article is definite?",
+    "part_difficulty": "medium",
+    "answer": "the",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of article are \"a\" and \"an\"?",
+    "part_difficulty": "medium",
+    "answer": "indefinite article",
+    "required": null,
+    "alternates": [
+     "indefinite"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about pronouns.",
+  "parts": [
+   {
+    "text": "Which pronoun can replace \"Maria and I\" as the subject of a sentence?",
+    "part_difficulty": "easy",
+    "answer": "we",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which pronoun can replace \"the books\" as the object of a sentence?",
+    "part_difficulty": "easy",
+    "answer": "them",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which pronoun can replace \"John\" as the subject of a sentence?",
+    "part_difficulty": "medium",
+    "answer": "he",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "In \"The red bike is mine,\" which word is the possessive pronoun?",
+    "part_difficulty": "medium",
+    "answer": "mine",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about verb tenses.",
+  "parts": [
+   {
+    "text": "What tense is \"She walked\"?",
+    "part_difficulty": "easy",
+    "answer": "past tense",
+    "required": null,
+    "alternates": [
+     "past"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What tense is \"She will walk\"?",
+    "part_difficulty": "easy",
+    "answer": "future tense",
+    "required": null,
+    "alternates": [
+     "future"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What tense is \"She has walked\"?",
+    "part_difficulty": "medium",
+    "answer": "present perfect",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What tense is \"She had walked\"?",
+    "part_difficulty": "hard",
+    "answer": "past perfect",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about prepositions.",
+  "parts": [
+   {
+    "text": "In \"The cat jumped onto the table,\" which word is the preposition?",
+    "part_difficulty": "easy",
+    "answer": "onto",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "In \"We sat beside the lake,\" which word is the object of the preposition?",
+    "part_difficulty": "medium",
+    "answer": "lake",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "In \"The book is under the chair,\" which word is the preposition?",
+    "part_difficulty": "medium",
+    "answer": "under",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false,
+    "_leakOk": true
+   },
+   {
+    "text": "What is the term for a preposition, its object, and any modifiers, such as \"in the garden\"?",
+    "part_difficulty": "hard",
+    "answer": "prepositional phrase",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "leadin": "Answer these questions about sentence structure.",
+  "parts": [
+   {
+    "text": "What term names a group of words with a subject and verb that can stand alone as a sentence?",
+    "part_difficulty": "medium",
+    "answer": "independent clause",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a group of words with a subject and verb that cannot stand alone?",
+    "part_difficulty": "medium",
+    "answer": "dependent clause",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a sentence that has a single clause?",
+    "part_difficulty": "hard",
+    "answer": "simple sentence",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What term names a sentence made of two complete thoughts joined by a word such as \"and\"?",
+    "part_difficulty": "hard",
+    "answer": "compound sentence",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about contractions.",
+  "parts": [
+   {
+    "text": "What is the contraction of \"can not\"?",
+    "part_difficulty": "easy",
+    "answer": "can't",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the contraction of \"she is\"?",
+    "part_difficulty": "easy",
+    "answer": "she's",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the contraction of \"they are\"?",
+    "part_difficulty": "medium",
+    "answer": "they're",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the contraction of \"should have\"?",
+    "part_difficulty": "medium",
+    "answer": "should've",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about word jobs.",
+  "parts": [
+   {
+    "text": "What kind of word describes a noun?",
+    "part_difficulty": "easy",
+    "answer": "adjective",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of word often ends in \"-ly\" and tells how something is done?",
+    "part_difficulty": "easy",
+    "answer": "adverb",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of word takes the place of a noun?",
+    "part_difficulty": "easy",
+    "answer": "pronoun",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What kind of word shows action?",
+    "part_difficulty": "easy",
+    "answer": "verb",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about spelling plurals.",
+  "parts": [
+   {
+    "text": "What is the plural of the word \"wife\"?",
+    "part_difficulty": "medium",
+    "answer": "wives",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"knife\"?",
+    "part_difficulty": "medium",
+    "answer": "knives",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"puppy\"?",
+    "part_difficulty": "easy",
+    "answer": "puppies",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the plural of the word \"tomato\"?",
+    "part_difficulty": "medium",
+    "answer": "tomatoes",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the opposite of the word \"hot\"?",
+  "answer": "cold",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the opposite of the word \"up\"?",
+  "answer": "down",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the opposite of the word \"empty\"?",
+  "answer": "full",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the opposite of the word \"early\"?",
+  "answer": "late",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What is the opposite of the word \"strong\"?",
+  "answer": "weak",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word is the antonym of the word \"generous\"?",
+  "answer": "stingy",
+  "required": null,
+  "alternates": [
+   "selfish"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word is the antonym of the word \"victory\"?",
+  "answer": "defeat",
+  "required": null,
+  "alternates": [
+   "loss"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word is the antonym of the word \"ancient\"?",
+  "answer": "modern",
+  "required": null,
+  "alternates": [
+   "new"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What word means the same as the word \"big\"?",
+  "answer": "large",
+  "required": null,
+  "alternates": [
+   "huge",
+   "giant",
+   "great"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What word means the same as the word \"begin\"?",
+  "answer": "start",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What word means the same as the word \"angry\"?",
+  "answer": "mad",
+  "required": null,
+  "alternates": [
+   "furious",
+   "upset"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word means the same as the word \"tiny\"?",
+  "answer": "small",
+  "required": null,
+  "alternates": [
+   "little",
+   "minute"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is a synonym for the word \"rapid\"?",
+  "answer": "fast",
+  "required": null,
+  "alternates": [
+   "quick",
+   "speedy"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is a synonym for the word \"silent\"?",
+  "answer": "quiet",
+  "required": null,
+  "alternates": [
+   "still"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What does the prefix \"un-\" mean in the word \"unhappy\"?",
+  "answer": "not",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What does the prefix \"re-\" mean in the word \"rewrite\"?",
+  "answer": "again",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the prefix \"pre-\" mean in the word \"preview\"?",
+  "answer": "before",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the prefix \"mis-\" mean in the word \"misspell\"?",
+  "answer": "wrongly",
+  "required": null,
+  "alternates": [
+   "wrong",
+   "badly"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the prefix \"sub-\" mean in the word \"submarine\"?",
+  "answer": "under",
+  "required": null,
+  "alternates": [
+   "below"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the prefix \"bi-\" mean in the word \"bicycle\"?",
+  "answer": "two",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the prefix \"tri-\" mean in the word \"triangle\"?",
+  "answer": "three",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What does the prefix \"inter-\" mean in the word \"international\"?",
+  "answer": "between",
+  "required": null,
+  "alternates": [
+   "among"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What does the prefix \"trans-\" mean in the word \"transport\"?",
+  "answer": "across",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What does the prefix \"anti-\" mean in the word \"antibiotic\"?",
+  "answer": "against",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the suffix \"-less\" mean in the word \"hopeless\"?",
+  "answer": "without",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the suffix \"-ful\" mean in the word \"joyful\"?",
+  "answer": "full of",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What does the suffix \"-able\" mean in the word \"washable\"?",
+  "answer": "able to be",
+  "required": null,
+  "alternates": [
+   "capable of"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What does the suffix \"-er\" often mean in the word \"teacher\"?",
+  "answer": "one who",
+  "required": null,
+  "alternates": [
+   "person who",
+   "a person who"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the root word in the word \"unfriendly\"?",
+  "answer": "friend",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What is the root word in the word \"rebuilding\"?",
+  "answer": "build",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What compound word is made by joining \"sun\" and \"flower\"?",
+  "answer": "sunflower",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What compound word is made by joining \"rain\" and \"bow\"?",
+  "answer": "rainbow",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What compound word is made by joining \"foot\" and \"ball\"?",
+  "answer": "football",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What compound word is made by joining \"butter\" and \"fly\"?",
+  "answer": "butterfly",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What kind of book lists words and their meanings?",
+  "answer": "dictionary",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What reference book lists synonyms?",
+  "answer": "thesaurus",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names each part of a word that has one vowel sound, as in \"ba-na-na\"?",
+  "answer": "syllable",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "How many syllables are in the word \"banana\"?",
+  "answer": "3",
+  "required": null,
+  "alternates": [
+   "three"
+  ],
+  "prompt_on": [],
+  "answer_type": "math",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What are the two words at the top of a dictionary page that show its first and last entries called?",
+  "answer": "guide words",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What part of a book, found near the end, lists hard words and their meanings?",
+  "answer": "glossary",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names words that imitate sounds, such as \"buzz\" and \"sizzle\"?",
+  "answer": "onomatopoeia",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What term names a word that is spelled the same as another word but has a different meaning, like \"bat\"?",
+  "answer": "homonym",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names a phrase whose meaning differs from its individual words, such as \"raining cats and dogs\"?",
+  "answer": "idiom",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What word completes the idiom \"a piece of ___,\" meaning very easy?",
+  "answer": "cake",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word completes the idiom \"it's raining cats and ___\"?",
+  "answer": "dogs",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word completes the idiom \"let the cat out of the ___\"?",
+  "answer": "bag",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word completes the idiom \"once in a blue ___\"?",
+  "answer": "moon",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word completes the idiom \"break the ___,\" meaning to start a conversation in a tense setting?",
+  "answer": "ice",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What type of figurative language gives human traits to an object or animal?",
+  "answer": "personification",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What term names clues in a sentence that help you figure out an unknown word?",
+  "answer": "context clues",
+  "required": null,
+  "alternates": [
+   "context clue"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a person who writes books?",
+  "answer": "author",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What word names a person who flies an airplane?",
+  "answer": "pilot",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a scientist who studies stars and planets?",
+  "answer": "astronomer",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a doctor who cares for children?",
+  "answer": "pediatrician",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What word names a person who makes maps?",
+  "answer": "cartographer",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What word names a scientist who studies insects?",
+  "answer": "entomologist",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word means to put something off until a later time?",
+  "answer": "postpone",
+  "required": null,
+  "alternates": [
+   "delay"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word means very tired?",
+  "answer": "exhausted",
+  "required": null,
+  "alternates": [
+   "weary"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word means happening once a year?",
+  "answer": "annual",
+  "required": null,
+  "alternates": [
+   "yearly"
+  ],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word means happening every day?",
+  "answer": "daily",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word means happening every month?",
+  "answer": "monthly",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What word means happening every two years?",
+  "answer": "biennial",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What word means able to be seen through, like clear glass?",
+  "answer": "transparent",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "text": "What word means not able to be seen through, like wood?",
+  "answer": "opaque",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a long journey by sea or through space?",
+  "answer": "voyage",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a large group of ships?",
+  "answer": "fleet",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a group of birds flying together?",
+  "answer": "flock",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "text": "What word names a person who builds with wood and tools?",
+  "answer": "carpenter",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "tossup",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "text": "What word names a person who fixes pipes and sinks?",
+  "answer": "plumber",
+  "required": null,
+  "alternates": [],
+  "prompt_on": [],
+  "answer_type": "general",
+  "duplicate_name": false,
+  "accepts_partial_name": false
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about prefixes.",
+  "parts": [
+   {
+    "text": "Which prefix means \"again,\" as in \"redo\"?",
+    "part_difficulty": "easy",
+    "answer": "re",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which prefix means \"not,\" as in \"unlucky\"?",
+    "part_difficulty": "easy",
+    "answer": "un",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which prefix means \"before,\" as in \"prepay\"?",
+    "part_difficulty": "medium",
+    "answer": "pre",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which prefix means \"opposite of,\" as in \"disagree\"?",
+    "part_difficulty": "medium",
+    "answer": "dis",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about opposites.",
+  "parts": [
+   {
+    "text": "What is the antonym of the word \"wet\"?",
+    "part_difficulty": "easy",
+    "answer": "dry",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the antonym of the word \"always\"?",
+    "part_difficulty": "medium",
+    "answer": "never",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the antonym of the word \"success\"?",
+    "part_difficulty": "medium",
+    "answer": "failure",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the antonym of the word \"expand\"?",
+    "part_difficulty": "hard",
+    "answer": "contract",
+    "required": null,
+    "alternates": [
+     "shrink"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about compound words.",
+  "parts": [
+   {
+    "text": "Which compound word joins \"moon\" and \"light\"?",
+    "part_difficulty": "easy",
+    "answer": "moonlight",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which compound word joins \"pop\" and \"corn\"?",
+    "part_difficulty": "easy",
+    "answer": "popcorn",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which compound word joins \"note\" and \"book\"?",
+    "part_difficulty": "easy",
+    "answer": "notebook",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which compound word joins \"sun\" and \"set\"?",
+    "part_difficulty": "easy",
+    "answer": "sunset",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about reference tools.",
+  "parts": [
+   {
+    "text": "What book gives the meanings of words?",
+    "part_difficulty": "easy",
+    "answer": "dictionary",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What book lists synonyms and antonyms?",
+    "part_difficulty": "medium",
+    "answer": "thesaurus",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is each beat of a word called, as in \"el-e-phant\"?",
+    "part_difficulty": "medium",
+    "answer": "syllable",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What list at the back of a textbook explains key terms?",
+    "part_difficulty": "hard",
+    "answer": "glossary",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "leadin": "Answer these questions about Latin and Greek roots.",
+  "parts": [
+   {
+    "text": "Which Greek root means \"write,\" as in \"autograph\"?",
+    "part_difficulty": "medium",
+    "answer": "graph",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Greek root means \"sound,\" as in \"telephone\"?",
+    "part_difficulty": "medium",
+    "answer": "phone",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Greek root means \"see,\" as in \"telescope\"?",
+    "part_difficulty": "medium",
+    "answer": "scope",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which Latin root means \"water,\" as in \"aquarium\"?",
+    "part_difficulty": "hard",
+    "answer": "aqua",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about suffixes.",
+  "parts": [
+   {
+    "text": "Which suffix means \"without\"?",
+    "part_difficulty": "easy",
+    "answer": "less",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which suffix means \"full of\"?",
+    "part_difficulty": "easy",
+    "answer": "ful",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which suffix means \"one who,\" as in \"singer\"?",
+    "part_difficulty": "medium",
+    "answer": "er",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which suffix often turns an adjective into an adverb, as in \"slowly\"?",
+    "part_difficulty": "medium",
+    "answer": "ly",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about idioms.",
+  "parts": [
+   {
+    "text": "What word completes the idiom \"spill the ___,\" meaning reveal a secret?",
+    "part_difficulty": "medium",
+    "answer": "beans",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What word completes \"cost an arm and a ___\"?",
+    "part_difficulty": "medium",
+    "answer": "leg",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What word completes \"under the ___,\" meaning feeling sick?",
+    "part_difficulty": "medium",
+    "answer": "weather",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What word completes \"the ball is in your ___,\" meaning it is your turn to act?",
+    "part_difficulty": "hard",
+    "answer": "court",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about syllables.",
+  "parts": [
+   {
+    "text": "How many syllables are in the word \"cat\"?",
+    "part_difficulty": "easy",
+    "answer": "1",
+    "required": null,
+    "alternates": [
+     "one"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "How many syllables are in the word \"elephant\"?",
+    "part_difficulty": "medium",
+    "answer": "3",
+    "required": null,
+    "alternates": [
+     "three"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "How many syllables are in the word \"butterfly\"?",
+    "part_difficulty": "medium",
+    "answer": "3",
+    "required": null,
+    "alternates": [
+     "three"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "How many syllables are in the word \"imagination\"?",
+    "part_difficulty": "hard",
+    "answer": "5",
+    "required": null,
+    "alternates": [
+     "five"
+    ],
+    "prompt_on": [],
+    "answer_type": "math",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about jobs.",
+  "parts": [
+   {
+    "text": "What do we call a person who treats sick animals?",
+    "part_difficulty": "easy",
+    "answer": "veterinarian",
+    "required": null,
+    "alternates": [
+     "vet"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What do we call a person who fixes electrical wiring?",
+    "part_difficulty": "easy",
+    "answer": "electrician",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What do we call a person who puts out fires?",
+    "part_difficulty": "easy",
+    "answer": "firefighter",
+    "required": null,
+    "alternates": [
+     "fireman"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What do we call a person who cuts and styles hair?",
+    "part_difficulty": "medium",
+    "answer": "barber",
+    "required": null,
+    "alternates": [
+     "hairdresser",
+     "stylist"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "easy",
+  "leadin": "Answer these questions about time words.",
+  "parts": [
+   {
+    "text": "Which word means once a year?",
+    "part_difficulty": "easy",
+    "answer": "annual",
+    "required": null,
+    "alternates": [
+     "annually",
+     "yearly"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which word means once a month?",
+    "part_difficulty": "easy",
+    "answer": "monthly",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which word means once a week?",
+    "part_difficulty": "easy",
+    "answer": "weekly",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which word means once a day?",
+    "part_difficulty": "medium",
+    "answer": "daily",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about homophones.",
+  "parts": [
+   {
+    "text": "Which word sounds like \"sea\" and means to look?",
+    "part_difficulty": "easy",
+    "answer": "see",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which word sounds like \"sun\" but is a male child of a parent?",
+    "part_difficulty": "easy",
+    "answer": "son",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which word sounds like \"flour\" and grows in a garden?",
+    "part_difficulty": "medium",
+    "answer": "flower",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which word sounds like \"knight\" and means the time after sunset?",
+    "part_difficulty": "medium",
+    "answer": "night",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about more prefixes.",
+  "parts": [
+   {
+    "text": "Which prefix means \"half,\" as in \"semicircle\"?",
+    "part_difficulty": "easy",
+    "answer": "semi",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which prefix means \"small,\" as in \"microscope\"?",
+    "part_difficulty": "easy",
+    "answer": "micro",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which prefix means \"self,\" as in \"autobiography\"?",
+    "part_difficulty": "medium",
+    "answer": "auto",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which prefix means \"far,\" as in \"television\"?",
+    "part_difficulty": "medium",
+    "answer": "tele",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "hard",
+  "leadin": "Answer these questions about word families.",
+  "parts": [
+   {
+    "text": "What is the noun form of the verb \"decide\"?",
+    "part_difficulty": "medium",
+    "answer": "decision",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the noun form of the verb \"act\"?",
+    "part_difficulty": "medium",
+    "answer": "action",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the adjective form of the noun \"beauty\"?",
+    "part_difficulty": "medium",
+    "answer": "beautiful",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the adjective form of the noun \"danger\"?",
+    "part_difficulty": "hard",
+    "answer": "dangerous",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about opposites of verbs.",
+  "parts": [
+   {
+    "text": "What is the opposite of the verb \"open\"?",
+    "part_difficulty": "easy",
+    "answer": "close",
+    "required": null,
+    "alternates": [
+     "shut"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the opposite of the verb \"buy\"?",
+    "part_difficulty": "easy",
+    "answer": "sell",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the opposite of the verb \"arrive\"?",
+    "part_difficulty": "medium",
+    "answer": "depart",
+    "required": null,
+    "alternates": [
+     "leave"
+    ],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is the opposite of the verb \"remember\"?",
+    "part_difficulty": "medium",
+    "answer": "forget",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about names for groups of animals.",
+  "parts": [
+   {
+    "text": "What is a group of fish called?",
+    "part_difficulty": "easy",
+    "answer": "school",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is a group of wolves called?",
+    "part_difficulty": "easy",
+    "answer": "pack",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is a group of lions called?",
+    "part_difficulty": "medium",
+    "answer": "pride",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What is a group of cows called?",
+    "part_difficulty": "medium",
+    "answer": "herd",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about figures of speech.",
+  "parts": [
+   {
+    "text": "What figure of speech is \"as brave as a lion\"?",
+    "part_difficulty": "easy",
+    "answer": "simile",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What figure of speech is \"time is money\"?",
+    "part_difficulty": "medium",
+    "answer": "metaphor",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What figure of speech is \"I am so hungry I could eat a horse\"?",
+    "part_difficulty": "medium",
+    "answer": "hyperbole",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "What figure of speech is \"the wind whispered through the trees\"?",
+    "part_difficulty": "medium",
+    "answer": "personification",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ },
+ {
+  "type": "bonus",
+  "rulesets": [
+   "ncal"
+  ],
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "source": "ai-claude-bank",
+  "expires_at": null,
+  "difficulty": "medium",
+  "leadin": "Answer these questions about word origins.",
+  "parts": [
+   {
+    "text": "Which language does the word \"pizza\" come from?",
+    "part_difficulty": "easy",
+    "answer": "Italian",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which language does the word \"taco\" come from?",
+    "part_difficulty": "easy",
+    "answer": "Spanish",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which language does the word \"sushi\" come from?",
+    "part_difficulty": "medium",
+    "answer": "Japanese",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   },
+   {
+    "text": "Which language does the word \"croissant\" come from?",
+    "part_difficulty": "medium",
+    "answer": "French",
+    "required": null,
+    "alternates": [],
+    "prompt_on": [],
+    "answer_type": "general",
+    "duplicate_name": false,
+    "accepts_partial_name": false
+   }
+  ]
+ }
+]

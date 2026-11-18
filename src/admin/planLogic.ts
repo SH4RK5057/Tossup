@@ -53,9 +53,8 @@ function subjectsFor(rulesetId: RulesetId, level: Level): { category: string; su
     if (cat.name === 'Current Events') continue;
     const subs = rulesetId === 'ncal' ? cat.subjects.filter((s) => s.level === level) : cat.subjects;
     if (!subs.length) continue;
-    // NCAL: one weight per subject. Quizbowl: the category's distribution weight, shared by its subcategories.
-    const w = rulesetId === 'ncal' ? 1 : (rs.distribution[cat.name] ?? 1) / subs.length;
-    subs.forEach((s) => out.push({ category: cat.name, subcategory: s.name, weight: w }));
+    // Even split: every subject gets the same share, so every category is covered.
+    subs.forEach((s) => out.push({ category: cat.name, subcategory: s.name, weight: 1 }));
   }
   return out;
 }

@@ -54,6 +54,28 @@ export function stripDiacritics(s: string): string {
 
 const ARTICLES = new Set(['a', 'an', 'the']);
 
+const ABBREVIATIONS: Record<string, string> = {
+  mt: 'mount', mtn: 'mountain', mtns: 'mountains', mts: 'mountains', ft: 'fort',
+  dr: 'doctor', mr: 'mister', mrs: 'missus', jr: 'junior', sr: 'senior', vs: 'versus',
+  capt: 'captain', col: 'colonel', lt: 'lieutenant', sgt: 'sergeant', gov: 'governor',
+  pres: 'president', sen: 'senator', prof: 'professor', rev: 'reverend', bros: 'brothers',
+  dept: 'department', univ: 'university', ave: 'avenue', blvd: 'boulevard', rd: 'road', lk: 'lake',
+};
+
+/**
+ * Expands abbreviations so "Mt. Everest" matches "Mount Everest". "st" is "street" when it ends
+ * a multi-word answer ("Baker St") and "saint" otherwise ("St. Louis"); "v" is "versus" between words.
+ */
+export function expandAbbreviations(tokens: string[]): string[] {
+  const out = tokens.map((t, i) => {
+    if (t === 'st') return i === tokens.length - 1 && tokens.length > 1 ? 'street' : 'saint';
+    if (t === 'v') return i > 0 && i < tokens.length - 1 ? 'versus' : t;
+    return ABBREVIATIONS[t] ?? t;
+  });
+  const joined = out.join(' ').replace(/\bu s a\b/g, 'usa').replace(/\bu s\b/g, 'us');
+  return joined ? joined.split(' ') : [];
+}
+
 export interface NormalizeOptions {
   /** Keep a leading article (foreign-language answers). */
   keepArticle?: boolean;
@@ -69,6 +91,7 @@ export function normalizeText(input: string, opts: NormalizeOptions = {}): strin
   s = s.replace(/\u0001/g, '.');
   let tokens = s.split(/\s+/).filter(Boolean);
   tokens = tokens.map((t) => t.replace(/^(\d+)(st|nd|rd|th)$/, '$1'));
+  tokens = expandAbbreviations(tokens);
   tokens = convertNumberWords(tokens);
   if (!opts.keepArticle && tokens.length > 1 && ARTICLES.has(tokens[0])) tokens = tokens.slice(1);
   return tokens.join(' ');

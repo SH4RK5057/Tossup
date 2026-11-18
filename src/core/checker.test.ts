@@ -40,6 +40,31 @@ describe('normalization', () => {
   });
 });
 
+describe('abbreviations', () => {
+  it('expands common abbreviations on both sides', () => {
+    expect(check('Mt. Everest', spec({ answer: 'Mount Everest' }), ncal)).toBe('correct');
+    expect(check('Mount Everest', spec({ answer: 'Mt. Everest' }), ncal)).toBe('correct');
+    expect(check('mt everest', spec({ answer: 'Mount Everest' }), quizbowl)).toBe('correct');
+    expect(check('Ft. Sumter', spec({ answer: 'Fort Sumter' }), ncal)).toBe('correct');
+    expect(check('Doctor Seuss', spec({ answer: 'Dr. Seuss', answer_type: 'name', required: 'Seuss' }), ncal)).toBe('correct');
+    expect(check('Martin Luther King Jr', spec({ answer: 'Martin Luther King Junior', answer_type: 'name', required: 'King' }), ncal)).toBe('correct');
+  });
+  it('tells saint from street and expands versus', () => {
+    expect(check('St. Louis', spec({ answer: 'Saint Louis' }), ncal)).toBe('correct');
+    expect(check('Mount St. Helens', spec({ answer: 'Mount Saint Helens' }), ncal)).toBe('correct');
+    expect(check('Baker St', spec({ answer: 'Baker Street' }), ncal)).toBe('correct');
+    expect(check('Marbury vs. Madison', spec({ answer: 'Marbury v. Madison' }), ncal)).toBe('correct');
+    expect(check('Marbury versus Madison', spec({ answer: 'Marbury v. Madison' }), ncal)).toBe('correct');
+  });
+  it('unifies U.S. and U.S.A. spellings', () => {
+    expect(check('U.S.A.', spec({ answer: 'USA' }), ncal)).toBe('correct');
+    expect(check('U.S.', spec({ answer: 'US' }), ncal)).toBe('correct');
+  });
+  it('does not make different words match', () => {
+    expect(check('Mount Rushmore', spec({ answer: 'Mount Everest' }), ncal)).toBe('incorrect');
+  });
+});
+
 describe('general answers', () => {
   it('matches exact, required, and alternates', () => {
     const a = spec({ answer: 'mitochondria', alternates: ['mitochondrion'] });

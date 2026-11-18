@@ -1,0 +1,1418 @@
+[
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Grammar",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "English",
+  "subcategory": "English Vocabulary",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Literary Terms",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Freshman Literature",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "English",
+  "subcategory": "Greek and Roman Mythology",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Art Terms",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Music Theory and Terms",
+  "tossups": 67,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Composers and Works",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Spanish 1",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "French 1",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Math",
+  "subcategory": "Arithmetic",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Math",
+  "subcategory": "Algebra 1",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Math",
+  "subcategory": "Geometry",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Earth Science",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Life Science",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Physical Science",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "General",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "U.S. Geography",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "World Cultures",
+  "tossups": 66,
+  "bonuses": 17
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "English",
+  "subcategory": "American Literature",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "English",
+  "subcategory": "Mythology 2",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Art History",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Spanish 2",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "French 2",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Math",
+  "subcategory": "Algebra 2",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Math",
+  "subcategory": "Trigonometry",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Biology 1",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Chemistry",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "World Geography",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "U.S. History",
+  "tossups": 111,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "World History",
+  "tossups": 110,
+  "bonuses": 28
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "English",
+  "subcategory": "English Literature",
+  "tossups": 103,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "English",
+  "subcategory": "World Literature",
+  "tossups": 103,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Architecture",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Operas and Musicals",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Spanish 3+",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "French 3+",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Math",
+  "subcategory": "Pre-Calculus",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Math",
+  "subcategory": "Calculus",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Biology 2",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Physics",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "U.S. Government",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "World Governments",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "ncal",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Economics",
+  "tossups": 102,
+  "bonuses": 26
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Literature",
+  "subcategory": "American Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Literature",
+  "subcategory": "British Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Literature",
+  "subcategory": "European Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Literature",
+  "subcategory": "World Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Literature",
+  "subcategory": "Other Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "History",
+  "subcategory": "American History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "History",
+  "subcategory": "European History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "History",
+  "subcategory": "Ancient History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "History",
+  "subcategory": "World History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "History",
+  "subcategory": "Other History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Biology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Chemistry",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Physics",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Earth Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Math",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Computer Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Science",
+  "subcategory": "Other Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Visual Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Auditory Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Audiovisual Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Architecture",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Fine Arts",
+  "subcategory": "Other Fine Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Religion",
+  "subcategory": "Christianity",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Religion",
+  "subcategory": "Judaism",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Religion",
+  "subcategory": "Islam",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Religion",
+  "subcategory": "Eastern Religions",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Religion",
+  "subcategory": "Other Religion",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Mythology",
+  "subcategory": "Greco-Roman Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Mythology",
+  "subcategory": "Norse Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Mythology",
+  "subcategory": "World Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Philosophy",
+  "subcategory": "Ancient Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Philosophy",
+  "subcategory": "Modern Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Philosophy",
+  "subcategory": "Other Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "Economics",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "Psychology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "Sociology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "Political Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "Anthropology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Social Science",
+  "subcategory": "Linguistics",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Geography",
+  "subcategory": "American Geography",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Geography",
+  "subcategory": "World Geography",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Other Academic",
+  "subcategory": "General Knowledge",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "novice",
+  "category": "Other Academic",
+  "subcategory": "Other Academic",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Literature",
+  "subcategory": "American Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Literature",
+  "subcategory": "British Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Literature",
+  "subcategory": "European Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Literature",
+  "subcategory": "World Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Literature",
+  "subcategory": "Other Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "History",
+  "subcategory": "American History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "History",
+  "subcategory": "European History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "History",
+  "subcategory": "Ancient History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "History",
+  "subcategory": "World History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "History",
+  "subcategory": "Other History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Biology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Chemistry",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Physics",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Earth Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Math",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Computer Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Science",
+  "subcategory": "Other Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Visual Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Auditory Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Audiovisual Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Architecture",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Fine Arts",
+  "subcategory": "Other Fine Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Religion",
+  "subcategory": "Christianity",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Religion",
+  "subcategory": "Judaism",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Religion",
+  "subcategory": "Islam",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Religion",
+  "subcategory": "Eastern Religions",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Religion",
+  "subcategory": "Other Religion",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Mythology",
+  "subcategory": "Greco-Roman Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Mythology",
+  "subcategory": "Norse Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Mythology",
+  "subcategory": "World Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Philosophy",
+  "subcategory": "Ancient Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Philosophy",
+  "subcategory": "Modern Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Philosophy",
+  "subcategory": "Other Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "Economics",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "Psychology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "Sociology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "Political Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "Anthropology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Social Science",
+  "subcategory": "Linguistics",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Geography",
+  "subcategory": "American Geography",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Geography",
+  "subcategory": "World Geography",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Other Academic",
+  "subcategory": "General Knowledge",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "jv",
+  "category": "Other Academic",
+  "subcategory": "Other Academic",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Literature",
+  "subcategory": "American Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Literature",
+  "subcategory": "British Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Literature",
+  "subcategory": "European Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Literature",
+  "subcategory": "World Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Literature",
+  "subcategory": "Other Literature",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "History",
+  "subcategory": "American History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "History",
+  "subcategory": "European History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "History",
+  "subcategory": "Ancient History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "History",
+  "subcategory": "World History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "History",
+  "subcategory": "Other History",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Biology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Chemistry",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Physics",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Earth Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Math",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Computer Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Science",
+  "subcategory": "Other Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Visual Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Auditory Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Audiovisual Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Architecture",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Fine Arts",
+  "subcategory": "Other Fine Arts",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Religion",
+  "subcategory": "Christianity",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Religion",
+  "subcategory": "Judaism",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Religion",
+  "subcategory": "Islam",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Religion",
+  "subcategory": "Eastern Religions",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Religion",
+  "subcategory": "Other Religion",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Mythology",
+  "subcategory": "Greco-Roman Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Mythology",
+  "subcategory": "Norse Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Mythology",
+  "subcategory": "World Mythology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Philosophy",
+  "subcategory": "Ancient Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Philosophy",
+  "subcategory": "Modern Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Philosophy",
+  "subcategory": "Other Philosophy",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Economics",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Psychology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Sociology",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Political Science",
+  "tossups": 30,
+  "bonuses": 8
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Anthropology",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Social Science",
+  "subcategory": "Linguistics",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Geography",
+  "subcategory": "American Geography",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Geography",
+  "subcategory": "World Geography",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Other Academic",
+  "subcategory": "General Knowledge",
+  "tossups": 30,
+  "bonuses": 7
+ },
+ {
+  "rulesetId": "quizbowl",
+  "level": "varsity",
+  "category": "Other Academic",
+  "subcategory": "Other Academic",
+  "tossups": 30,
+  "bonuses": 7
+ }
+]

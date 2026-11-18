@@ -1,0 +1,312 @@
+# ncal novice | English | English Grammar
+e|What part of speech names a person, place, thing, or idea?|noun
+e|What part of speech expresses an action or a state of being?|verb
+e|What part of speech modifies a verb, an adjective, or a word of its own kind, such as "very" or "quickly"?|adverb
+e|What type of sentence asks a question?|interrogative sentence|interrogative;question
+e|What type of sentence gives a command or makes a request?|imperative sentence|imperative;command
+e|What type of sentence expresses strong emotion and ends with an exclamation point?|exclamatory sentence|exclamatory
+e|What type of sentence makes a statement and ends with a period?|declarative sentence|declarative
+m|What term names a group of related words that has no subject-verb pair, such as "in the morning"?|phrase
+m|What part of speech is the word "wow" in the sentence "Wow, that was fast"?|interjection
+e|What is the past tense of the verb "go"?|went
+e|What is the past tense of the verb "eat"?|ate
+e|What is the plural of the word "mouse"?|mice
+e|What is the plural of the word "box"?|boxes
+m|What is the plural of the word "leaf"?|leaves
+m|What is the plural of the word "city"?|cities
+e|What is the comparative form of the adjective "good"?|better
+m|What is the superlative form of the adjective "bad"?|worst
+e|What is the superlative form of the adjective "tall"?|tallest
+m|What is the comparative form of the adjective "happy"?|happier
+e|What punctuation mark is used at the end of a question?|question mark
+e|What punctuation mark shows that letters are missing in a contraction?|apostrophe
+e|What is the contraction of the words "do not"?|don't
+e|What is the contraction of the words "I am"?|I'm
+m|What is the contraction of the words "will not"?|won't
+m|What is the contraction of the words "let us"?|let's
+e|In the sentence "The cat sat on the mat," what is the simple subject?|cat|the cat|ok
+e|In the sentence "Birds fly south in winter," which word is the verb?|fly||ok
+m|In the sentence "Maria gave Tom a gift," which word is the indirect object?|Tom||ok
+m|In the sentence "She kicked the ball," which word is the direct object?|ball|the ball|ok
+e|What part of speech is the word "beautiful" in the phrase "a beautiful flower"?|adjective
+e|What part of speech is the word "under" in the sentence "The dog hid under the bed"?|preposition
+m|What part of speech is the word "because" in the sentence "I stayed home because I was sick"?|conjunction|subordinating conjunction
+m|What part of speech is the word "they" in the sentence "They went home"?|pronoun
+h|What term names the word that a pronoun refers back to?|antecedent
+m|In the sentence "The dog barked loudly," which word is the adverb?|loudly||ok
+e|Which word correctly completes the sentence "___ house is big": there, their, or they're?|their||ok
+e|Which word correctly completes the sentence "___ my best friend": your or you're?|you're|you are|ok
+m|Which word correctly completes the sentence "The dog wagged ___ tail": its or it's?|its||ok
+m|Which word correctly completes the sentence "___ coat is this": who's or whose?|whose||ok
+m|Which word correctly completes the sentence "She is taller ___ her brother": than or then?|than||ok
+e|What do we call the words "a," "an," and "the"?|articles|article
+m|Which article is used before a word that begins with a vowel sound, such as "apple"?|an
+h|What term names a sentence that runs two complete thoughts together with no punctuation or conjunction between them?|run-on sentence|run-on;run on
+m|What term names an incomplete sentence that lacks a subject or a verb?|sentence fragment|fragment
+m|What term names the part of a sentence that tells what the subject does?|predicate
+e|What kind of noun names a specific person or place and begins with a capital letter?|proper noun
+m|What kind of noun names a general person, place, or thing, such as "city"?|common noun
+h|What kind of noun names an idea you cannot touch, such as "freedom"?|abstract noun
+m|What kind of noun names a group, such as "flock" or "team"?|collective noun
+m|Which verb is correct: "The dogs ___ barking": is or are?|are||ok
+m|Which verb is correct: "She ___ like spinach": don't or doesn't?|doesn't||ok
+m|Which word is correct: "He ___ the book on the table yesterday": lay or laid?|laid||ok
+h|Which word is correct: "Please ___ down for a nap": lie or lay?|lie||ok
+m|What is the past tense of the verb "bring"?|brought
+m|What is the past participle of the verb "write"?|written
+m|What is the past tense of the verb "swim"?|swam
+m|What is the past tense of the verb "teach"?|taught
+e|What is the plural of the word "foot"?|feet
+m|What is the plural of the word "tooth"?|teeth
+e|What is the plural of the word "man"?|men
+h|What is the plural of the word "analysis"?|analyses
+h|What is the common Latin plural of the word "cactus"?|cacti|cactuses
+h|What term names a verb form ending in "-ing" that is used as a noun, as in "Swimming is fun"?|gerund
+h|What term names a verb form that begins with "to," such as "to run"?|infinitive
+h|What kind of pronoun, such as "who" or "which," begins a clause that describes a noun?|relative pronoun
+m|In the sentence "She will sing tomorrow," what verb tense is used?|future tense|future
+m|What is the plural of the word "wife"?|wives
+e|What is the plural of the word "baby"?|babies
+m|What is the plural of the word "potato"?|potatoes
+m|What is the plural of the word "goose"?|geese
+B|e|Answer these questions about nouns.
+-|e|What kind of noun names a specific person, place, or thing and is always capitalized?|proper noun
+-|e|What is the plural of the word "dish"?|dishes
+-|m|What kind of noun names a group, such as "herd" or "class"?|collective noun
+-|h|What kind of noun names a quality or idea, such as "honesty"?|abstract noun
+B|e|Answer these questions about verbs.
+-|e|What is the past tense of the verb "run"?|ran
+-|e|What is the past tense of the verb "write"?|wrote
+-|m|What is the past participle of the verb "eat"?|eaten
+-|m|What is the past tense of the verb "buy"?|bought
+B|m|Answer these questions about punctuation.
+-|e|What mark ends an exclamatory sentence?|exclamation point|exclamation mark
+-|e|What mark separates the day from the year in a date, as in "March 3, 2020"?|comma
+-|m|What mark can introduce a list after a complete sentence?|colon
+-|h|What mark can join two closely related independent clauses without a conjunction?|semicolon
+B|e|Answer these questions about sentence types.
+-|e|What type of sentence is "Close the door"?|imperative|command
+-|e|What type of sentence is "Where are you going"?|interrogative|question
+-|m|What type of sentence is "What a beautiful day"?|exclamatory
+-|m|What type of sentence is "The sun rises in the east"?|declarative
+B|m|Answer these questions about comparing with adjectives.
+-|e|What is the comparative form of "fast"?|faster
+-|m|What is the superlative form of "good"?|best
+-|m|What is the comparative form of "beautiful"?|more beautiful
+-|h|What is the superlative form of "far"?|farthest|furthest
+B|m|Answer these questions about words that are often confused.
+-|e|Which word completes "I put the book over ___": there, their, or they're?|there||ok
+-|m|Which word completes "___ going to the park": their, there, or they're?|they're|they are|ok
+-|m|Which word completes "The bird built ___ nest": its or it's?|its||ok
+-|m|Which word completes "Do you know ___ book this is": who's or whose?|whose||ok
+B|e|Answer these questions about parts of a sentence.
+-|e|In "The tall girl sings," which word is the verb?|sings||ok
+-|m|In "The tall girl sings," what is the simple subject?|girl||ok
+-|m|In "My brother plays soccer," what is the direct object?|soccer||ok
+-|m|In "My brother plays soccer," what is the predicate's main verb?|plays||ok
+B|m|Answer these questions about irregular plurals.
+-|e|What is the plural of the word "child"?|children
+-|e|What is the plural of the word "woman"?|women
+-|m|What is the plural of the word "ox"?|oxen
+-|m|What is the plural of the word "person," in everyday use?|people
+B|m|Answer these questions about conjunctions.
+-|e|Which conjunction shows contrast, as in "small but strong"?|but
+-|e|Which conjunction offers a choice?|or
+-|m|Which conjunction gives a reason, as in "I left early ___ it rained"?|because|since|ok
+-|h|What kind of conjunctions are the words in the memory trick FANBOYS?|coordinating conjunctions|coordinating
+B|e|Answer these questions about articles.
+-|e|Which article is used before the word "hour"?|an
+-|e|Which article is used before the word "university"?|a
+-|m|Which article is definite?|the
+-|m|What kind of article are "a" and "an"?|indefinite article|indefinite
+B|m|Answer these questions about pronouns.
+-|e|Which pronoun can replace "Maria and I" as the subject of a sentence?|we
+-|e|Which pronoun can replace "the books" as the object of a sentence?|them
+-|m|Which pronoun can replace "John" as the subject of a sentence?|he
+-|m|In "The red bike is mine," which word is the possessive pronoun?|mine||ok
+B|m|Answer these questions about verb tenses.
+-|e|What tense is "She walked"?|past tense|past
+-|e|What tense is "She will walk"?|future tense|future
+-|m|What tense is "She has walked"?|present perfect
+-|h|What tense is "She had walked"?|past perfect
+B|m|Answer these questions about prepositions.
+-|e|In "The cat jumped onto the table," which word is the preposition?|onto||ok
+-|m|In "We sat beside the lake," which word is the object of the preposition?|lake||ok
+-|m|In "The book is under the chair," which word is the preposition?|under||ok
+-|h|What is the term for a preposition, its object, and any modifiers, such as "in the garden"?|prepositional phrase
+B|h|Answer these questions about sentence structure.
+-|m|What term names a group of words with a subject and verb that can stand alone as a sentence?|independent clause
+-|m|What term names a group of words with a subject and verb that cannot stand alone?|dependent clause
+-|h|What term names a sentence that has a single clause?|simple sentence
+-|h|What term names a sentence made of two complete thoughts joined by a word such as "and"?|compound sentence
+B|e|Answer these questions about contractions.
+-|e|What is the contraction of "can not"?|can't
+-|e|What is the contraction of "she is"?|she's
+-|m|What is the contraction of "they are"?|they're
+-|m|What is the contraction of "should have"?|should've
+B|e|Answer these questions about word jobs.
+-|e|What kind of word describes a noun?|adjective
+-|e|What kind of word often ends in "-ly" and tells how something is done?|adverb
+-|e|What kind of word takes the place of a noun?|pronoun
+-|e|What kind of word shows action?|verb
+B|m|Answer these questions about spelling plurals.
+-|m|What is the plural of the word "wife"?|wives
+-|m|What is the plural of the word "knife"?|knives
+-|e|What is the plural of the word "puppy"?|puppies
+-|m|What is the plural of the word "tomato"?|tomatoes
+
+# ncal novice | English | English Vocabulary
+e|What is the opposite of the word "hot"?|cold
+e|What is the opposite of the word "up"?|down
+e|What is the opposite of the word "empty"?|full
+e|What is the opposite of the word "early"?|late
+e|What is the opposite of the word "strong"?|weak
+m|What word is the antonym of the word "generous"?|stingy|selfish
+m|What word is the antonym of the word "victory"?|defeat|loss
+m|What word is the antonym of the word "ancient"?|modern|new
+e|What word means the same as the word "big"?|large|huge;giant;great
+e|What word means the same as the word "begin"?|start
+e|What word means the same as the word "angry"?|mad|furious;upset
+m|What word means the same as the word "tiny"?|small|little;minute
+m|What is a synonym for the word "rapid"?|fast|quick;speedy
+m|What is a synonym for the word "silent"?|quiet|still
+e|What does the prefix "un-" mean in the word "unhappy"?|not
+e|What does the prefix "re-" mean in the word "rewrite"?|again
+m|What does the prefix "pre-" mean in the word "preview"?|before
+m|What does the prefix "mis-" mean in the word "misspell"?|wrongly|wrong;badly
+m|What does the prefix "sub-" mean in the word "submarine"?|under|below
+m|What does the prefix "bi-" mean in the word "bicycle"?|two
+m|What does the prefix "tri-" mean in the word "triangle"?|three
+h|What does the prefix "inter-" mean in the word "international"?|between|among
+h|What does the prefix "trans-" mean in the word "transport"?|across
+h|What does the prefix "anti-" mean in the word "antibiotic"?|against
+m|What does the suffix "-less" mean in the word "hopeless"?|without
+m|What does the suffix "-ful" mean in the word "joyful"?|full of
+h|What does the suffix "-able" mean in the word "washable"?|able to be|capable of
+m|What does the suffix "-er" often mean in the word "teacher"?|one who|person who;a person who
+m|What is the root word in the word "unfriendly"?|friend
+m|What is the root word in the word "rebuilding"?|build
+e|What compound word is made by joining "sun" and "flower"?|sunflower
+e|What compound word is made by joining "rain" and "bow"?|rainbow
+e|What compound word is made by joining "foot" and "ball"?|football
+m|What compound word is made by joining "butter" and "fly"?|butterfly
+e|What kind of book lists words and their meanings?|dictionary
+m|What reference book lists synonyms?|thesaurus
+m|What term names each part of a word that has one vowel sound, as in "ba-na-na"?|syllable
+m|How many syllables are in the word "banana"?|3|three|m
+h|What are the two words at the top of a dictionary page that show its first and last entries called?|guide words
+h|What part of a book, found near the end, lists hard words and their meanings?|glossary
+m|What term names words that imitate sounds, such as "buzz" and "sizzle"?|onomatopoeia
+h|What term names a word that is spelled the same as another word but has a different meaning, like "bat"?|homonym
+m|What term names a phrase whose meaning differs from its individual words, such as "raining cats and dogs"?|idiom
+e|What word completes the idiom "a piece of ___," meaning very easy?|cake
+m|What word completes the idiom "it's raining cats and ___"?|dogs
+m|What word completes the idiom "let the cat out of the ___"?|bag
+m|What word completes the idiom "once in a blue ___"?|moon
+m|What word completes the idiom "break the ___," meaning to start a conversation in a tense setting?|ice
+h|What type of figurative language gives human traits to an object or animal?|personification
+m|What term names clues in a sentence that help you figure out an unknown word?|context clues|context clue
+m|What word names a person who writes books?|author
+e|What word names a person who flies an airplane?|pilot
+m|What word names a scientist who studies stars and planets?|astronomer
+m|What word names a doctor who cares for children?|pediatrician
+h|What word names a person who makes maps?|cartographer
+h|What word names a scientist who studies insects?|entomologist
+m|What word means to put something off until a later time?|postpone|delay
+m|What word means very tired?|exhausted|weary
+m|What word means happening once a year?|annual|yearly
+m|What word means happening every day?|daily
+m|What word means happening every month?|monthly
+h|What word means happening every two years?|biennial
+h|What word means able to be seen through, like clear glass?|transparent
+h|What word means not able to be seen through, like wood?|opaque
+m|What word names a long journey by sea or through space?|voyage
+m|What word names a large group of ships?|fleet
+m|What word names a group of birds flying together?|flock
+e|What word names a person who builds with wood and tools?|carpenter
+m|What word names a person who fixes pipes and sinks?|plumber
+B|e|Answer these questions about prefixes.
+-|e|Which prefix means "again," as in "redo"?|re
+-|e|Which prefix means "not," as in "unlucky"?|un
+-|m|Which prefix means "before," as in "prepay"?|pre
+-|m|Which prefix means "opposite of," as in "disagree"?|dis
+B|e|Answer these questions about opposites.
+-|e|What is the antonym of the word "wet"?|dry
+-|m|What is the antonym of the word "always"?|never
+-|m|What is the antonym of the word "success"?|failure
+-|h|What is the antonym of the word "expand"?|contract|shrink
+B|e|Answer these questions about compound words.
+-|e|Which compound word joins "moon" and "light"?|moonlight
+-|e|Which compound word joins "pop" and "corn"?|popcorn
+-|e|Which compound word joins "note" and "book"?|notebook
+-|e|Which compound word joins "sun" and "set"?|sunset
+B|m|Answer these questions about reference tools.
+-|e|What book gives the meanings of words?|dictionary
+-|m|What book lists synonyms and antonyms?|thesaurus
+-|m|What is each beat of a word called, as in "el-e-phant"?|syllable
+-|h|What list at the back of a textbook explains key terms?|glossary
+B|h|Answer these questions about Latin and Greek roots.
+-|m|Which Greek root means "write," as in "autograph"?|graph
+-|m|Which Greek root means "sound," as in "telephone"?|phone
+-|m|Which Greek root means "see," as in "telescope"?|scope
+-|h|Which Latin root means "water," as in "aquarium"?|aqua
+B|m|Answer these questions about suffixes.
+-|e|Which suffix means "without"?|less
+-|e|Which suffix means "full of"?|ful
+-|m|Which suffix means "one who," as in "singer"?|er
+-|m|Which suffix often turns an adjective into an adverb, as in "slowly"?|ly
+B|m|Answer these questions about idioms.
+-|m|What word completes the idiom "spill the ___," meaning reveal a secret?|beans
+-|m|What word completes "cost an arm and a ___"?|leg
+-|m|What word completes "under the ___," meaning feeling sick?|weather
+-|h|What word completes "the ball is in your ___," meaning it is your turn to act?|court
+B|e|Answer these questions about syllables.
+-|e|How many syllables are in the word "cat"?|1|one|m
+-|m|How many syllables are in the word "elephant"?|3|three|m
+-|m|How many syllables are in the word "butterfly"?|3|three|m
+-|h|How many syllables are in the word "imagination"?|5|five|m
+B|e|Answer these questions about jobs.
+-|e|What do we call a person who treats sick animals?|veterinarian|vet
+-|e|What do we call a person who fixes electrical wiring?|electrician
+-|e|What do we call a person who puts out fires?|firefighter|fireman
+-|m|What do we call a person who cuts and styles hair?|barber|hairdresser;stylist
+B|e|Answer these questions about time words.
+-|e|Which word means once a year?|annual|annually;yearly
+-|e|Which word means once a month?|monthly
+-|e|Which word means once a week?|weekly
+-|m|Which word means once a day?|daily
+B|m|Answer these questions about homophones.
+-|e|Which word sounds like "sea" and means to look?|see
+-|e|Which word sounds like "sun" but is a male child of a parent?|son
+-|m|Which word sounds like "flour" and grows in a garden?|flower
+-|m|Which word sounds like "knight" and means the time after sunset?|night
+B|m|Answer these questions about more prefixes.
+-|e|Which prefix means "half," as in "semicircle"?|semi
+-|e|Which prefix means "small," as in "microscope"?|micro
+-|m|Which prefix means "self," as in "autobiography"?|auto
+-|m|Which prefix means "far," as in "television"?|tele
+B|h|Answer these questions about word families.
+-|m|What is the noun form of the verb "decide"?|decision
+-|m|What is the noun form of the verb "act"?|action
+-|m|What is the adjective form of the noun "beauty"?|beautiful
+-|h|What is the adjective form of the noun "danger"?|dangerous
+B|m|Answer these questions about opposites of verbs.
+-|e|What is the opposite of the verb "open"?|close|shut
+-|e|What is the opposite of the verb "buy"?|sell
+-|m|What is the opposite of the verb "arrive"?|depart|leave
+-|m|What is the opposite of the verb "remember"?|forget
+B|m|Answer these questions about names for groups of animals.
+-|e|What is a group of fish called?|school
+-|e|What is a group of wolves called?|pack
+-|m|What is a group of lions called?|pride
+-|m|What is a group of cows called?|herd
+B|m|Answer these questions about figures of speech.
+-|e|What figure of speech is "as brave as a lion"?|simile
+-|m|What figure of speech is "time is money"?|metaphor
+-|m|What figure of speech is "I am so hungry I could eat a horse"?|hyperbole
+-|m|What figure of speech is "the wind whispered through the trees"?|personification
+B|m|Answer these questions about word origins.
+-|e|Which language does the word "pizza" come from?|Italian
+-|e|Which language does the word "taco" come from?|Spanish
+-|m|Which language does the word "sushi" come from?|Japanese
+-|m|Which language does the word "croissant" come from?|French
