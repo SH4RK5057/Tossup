@@ -141,7 +141,10 @@ function Main({ services }: { services: Services }) {
   return (
     <AppContext.Provider value={{ ...services, user, isAdmin, adminChecked }}>
       <header className="topbar">
-        <a className="brand" href="#/">TOSSUP</a>
+        <a className="brand" href="#/">
+          <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={26} height={26} style={{ verticalAlign: '-7px', marginRight: 8 }} />
+          TOSSUP
+        </a>
         <nav>
           <a href="#/" className={path === '/' ? 'active' : ''}>Practice</a>
           <a href="#/stats" className={path === '/stats' ? 'active' : ''}>Stats</a>

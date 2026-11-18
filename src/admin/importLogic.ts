@@ -13,8 +13,11 @@ export function parseLooseJson(text: string): { value?: unknown; error?: string 
   } catch {
     /* try repairing quotes below */
   }
+  // Several replies pasted back to back ("][") are merged into one array.
+  const fixed = trimmed.replace(/[“”„‟″]/g, '"');
+  const merged = fixed.replace(/\]\s*(?:```\s*(?:json)?\s*)*\[/g, ',');
   try {
-    return { value: JSON.parse(trimmed.replace(/[“”„‟″]/g, '"')) };
+    return { value: JSON.parse(merged) };
   } catch (e) {
     return { error: `Not valid JSON: ${e instanceof Error ? e.message : String(e)}` };
   }

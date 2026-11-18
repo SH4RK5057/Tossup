@@ -4,6 +4,7 @@
 
 import { RULESETS } from '../core/rulesets';
 import { LEVEL_LABEL, type Level, type Question, type RulesetId } from '../core/types';
+import { planLabel, type PlanItem } from './planLogic';
 
 export interface GenerateOptions {
   rulesetId: RulesetId;
@@ -12,6 +13,8 @@ export interface GenerateOptions {
   category: string;
   subcategory: string;
   count: number;
+  /** Answers already in the question bank for this subject; the prompt asks Claude not to reuse them. */
+  avoidAnswers?: string[];
 }
 
 const SPEC_DOC = `Answer spec fields (on every tossup, and on every bonus part):
@@ -37,7 +40,9 @@ Subject: ${o.category} / ${o.subcategory}.
 
 ${style}
 
-Rules:
+${o.avoidAnswers?.length ? `Already in the question bank (do not reuse these answers or topics): ${o.avoidAnswers.join('; ')}.
+
+` : ''}Rules:
 - Use only well-established facts. If you are not certain of a fact, do not use it.
 - One unambiguous answer per question. No two questions in the batch may share an answer.
 - Do not put the answer in the question text.
@@ -64,4 +69,35 @@ Put the JSON in a code block and use plain straight double quotes (") only, neve
 For a bonus, "answer" must be an array of strings with one answer per part, in order.
 
 ${JSON.stringify(items, null, 2)}`;
+}
+
+/**
+ * One prompt for a whole chat: an ordered task list that Claude works through one task per reply,
+ * moving on when you type "next". Start a fresh chat every so often (use startAt to continue).
+ */
+export function masterPrompt(items: PlanItem[], startAt: number, tasks: number): string {
+  const slice = items.slice(startAt, startAt + tasks);
+  const list = slice.map((it, i) => `${startAt + i + 1}. ${planLabel(it)}`).join('\n');
+  const tossupShape = '{ "type": "tossup", "rulesets": ["<ruleset>"], "level": "<level>", "difficulty": "easy" | "medium" | "hard", "category": "<category>", "subcategory": "<subcategory>", "source": "ai", "expires_at": null, "text": "...", <answer spec fields> }';
+  const bonusShape = '{ "type": "bonus", "rulesets": ["<ruleset>"], "level": "<level>", "difficulty": "easy" | "medium" | "hard", "category": "<category>", "subcategory": "<subcategory>", "source": "ai", "expires_at": null, "leadin": "...", "parts": [ { "text": "...", "part_difficulty": "easy" | "medium" | "hard", <answer spec fields> } ] }';
+  return `You are writing questions for a high school academic-league practice site. I will give you an ordered task list. Do ONE task per reply, then stop and wait for me to type "next".
+
+Tasks (rulesets: ncal = North County Academic League, quizbowl = standard quizbowl):
+${list}
+
+How to do a task:
+- Write exactly the number of questions the task asks for, for that ruleset, level, category and subcategory. Vary topics widely inside the subject; never repeat an answer within or across tasks.
+- NCAL style: short "speedcheck" questions of one or two sentences with one clear answer; bonuses have a short lead-in and 3-5 parts ordered easy to hard.
+- Quizbowl style: pyramidal tossups of 4-6 sentences, hardest clues first, ending "For 10 points, name this ..."; bonuses have a lead-in and exactly 3 parts ordered easy to hard.
+- Levels: novice is the easiest, varsity the hardest. Give each question a "difficulty" (easy, medium, hard) relative to its level, aiming for a mix.
+- Use only well-established facts. If you are not certain, do not use the fact. Never put the answer in the question text, and never let one bonus part give away another.
+- Write for typed answers: list every reasonable alternate and prompt-on.
+
+Reply format: ONLY a JSON array in a code block with plain straight double quotes, nothing else. Each object is one of:
+${tossupShape}
+${bonusShape}
+
+${SPEC_DOC}
+
+Start with task ${startAt + 1} now.`;
 }

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { RULESETS } from '../core/rulesets';
 import { LEVELS, LEVEL_LABEL, RULESET_IDS, type Level, type Question, type RulesetId } from '../core/types';
 import { useApp } from '../ui/context';
+import { BulkPlan } from './BulkPlan';
 import { coldAnswerPrompt, generatePrompt } from './promptTemplates';
 
 function PromptBox({ text }: { text: string }) {
@@ -28,11 +29,12 @@ export function GeneratePage() {
   const [subcategory, setSubcategory] = useState('English Grammar');
   const [count, setCount] = useState(10);
   const [pending, setPending] = useState<Question[] | null>(null);
+  const [bank, setBank] = useState<Question[]>([]);
 
   const rs = RULESETS[rulesetId];
   const cat = rs.subjects.find((c) => c.name === category) ?? rs.subjects[0];
   useEffect(() => {
-    repo.listQuestions().then((qs) => setPending(qs.filter((q) => q.status === 'pending')), () => setPending([]));
+    repo.listQuestions().then((qs) => { setBank(qs); setPending(qs.filter((q) => q.status === 'pending')); }, () => setPending([]));
   }, [repo]);
 
   const gen = useMemo(
@@ -67,6 +69,7 @@ export function GeneratePage() {
         </div>
         <PromptBox text={gen} />
       </section>
+      <BulkPlan bank={bank} />
       <section className="panel stack">
         <h2>2. Cold-answer prompt ({pending?.length ?? '…'} pending)</h2>
         <p className="muted small">Questions only; answer keys are never included. Use a fresh Claude session.</p>
