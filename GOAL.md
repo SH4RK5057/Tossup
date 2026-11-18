@@ -23,3 +23,9 @@
 ## Status
 
 See the output of `node scripts/bank/build.mjs`. Nothing here is imported or verified yet: after the bank is written, import the compiled files and run the cold-answer verification (Admin -> Import & verify).
+
+## Plan in use (2026-11-17)
+
+- 16 parallel writer agents each own a disjoint set of subjects (`scripts/bank/assignments.json`, instructions in `scripts/bank/WRITERS.md`, files `scripts/bank/data/<tag>-NN.txt`). They check with `npx vite-node scripts/bank/check.ts <files>` (gates + duplicate check against the seed, batch 1, and every other writer's files).
+- The coordinator (me) writes NCAL novice English by hand (`ncal-novice-01/02.txt`) and generates the NCAL math subjects with `scripts/bank/gen-math.mjs` (computed answers).
+- After writing: compile (`node scripts/bank/build.mjs`), run all gates (`npx vitest run`), then an independent cold-answer verification pass (verifier agents answer the questions without seeing keys; mismatches are reviewed and fixed or removed), then a final duplicate check against the questions already in the live app (export from the admin page and run `findDuplicates` in `src/admin/dupes.ts`).
