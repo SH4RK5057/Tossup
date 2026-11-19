@@ -1,0 +1,63 @@
+# quizbowl novice | Philosophy | Ancient Philosophy
+e|This philosopher claimed that his wisdom consisted only in knowing that he knew nothing. He compared himself to a gadfly stinging the sleepy city of Athens and said that the unexamined life is not worth living. He left no writings of his own. For 10 points, name this teacher of Plato.|Socrates|n
+e|This philosopher described a realm of perfect Forms of which the physical world is only a shadow. He wrote dialogues in which his teacher is the main speaker, including the Symposium and the Phaedo. His most famous student was Aristotle. For 10 points, name this Greek philosopher.|Plato|n
+e|This philosopher analyzed four kinds of causes, including the material and the final cause, and he wrote on logic, ethics, politics, and biology. He tutored the young Alexander of Macedon. Raphael painted him gesturing toward the earth in The School of Athens. For 10 points, name this student of Plato.|Aristotle|n
+e|This is the poison, made from a plant in the parsley family, that Athens gave to condemned prisoners. A famous philosopher drank a cup of it in 399 BC after being convicted of impiety, as told in the Phaedo. For 10 points, name this poison.|hemlock|poison hemlock
+e|This work of Plato imagines a city ruled by philosopher-kings and argues that justice is harmony among the parts of the soul and city. It begins at the house of Cephalus and features a debate with Thrasymachus. For 10 points, name this dialogue about justice, an enormous work of political philosophy.|The Republic|Republic;Politeia
+e|In this allegory, prisoners are chained in an underground chamber and see only shadows cast on a wall by a fire. One prisoner escapes, is dazzled by the sun, and returns to tell others what he saw. For 10 points, name this allegory from Plato's Republic that illustrates his theory of knowledge.|Allegory of the Cave|the Cave;Plato's Cave;Allegory of the cave;cave
+e|This Milesian is often called the first philosopher in the Western tradition. He argued that everything is made of water and is said to have predicted a solar eclipse. For 10 points, name this Greek thinker, the first of the Seven Sages.|Thales|n
+e|This Greek philosopher and mathematician founded a religious brotherhood in southern Italy that believed in reincarnation. He is famous for a theorem about right triangles and said that all things are numbers. For 10 points, name this Greek thinker.|Pythagoras|n
+e|This Greek philosopher is said to have lived in a large ceramic jar and walked around in daylight with a lamp searching for an honest man. When Alexander the Great offered him a favor, he asked the king to step out of his sunlight. For 10 points, name this Cynic.|Diogenes|Diogenes of Sinope|n
+e|This Roman emperor wrote a private journal of reflections while on military campaign in central Europe. Written in Greek, those Meditations advise accepting what cannot be controlled. He is the last of the Five Good Emperors. For 10 points, name this Stoic emperor.|Marcus Aurelius|Aurelius|part
+m|This philosopher argued that the world is in constant flux, saying that you cannot step into the same river twice. He believed that fire is the fundamental substance and that the logos governs all change. For 10 points, name this Ephesian known as the Obscure.|Heraclitus|n
+m|This philosopher developed atomism, arguing that all matter consists of tiny indivisible particles moving in a void. His teacher was Leucippus, and he was nicknamed the Laughing Philosopher. For 10 points, name this thinker from Abdera.|Democritus|n
+m|This philosopher taught that pleasure is the highest good, but defined it mainly as freedom from pain and disturbance. He gathered followers in a garden in Athens and argued that death is nothing to us. For 10 points, name this founder of a school of philosophy.|Epicurus|n
+m|This former slave and lame philosopher taught that we should focus only on what is up to us. His lectures were recorded by his student Arrian as the Discourses and the Enchiridion. For 10 points, name this Stoic of Hierapolis.|Epictetus|n
+m|This Roman philosopher served as tutor to the emperor Nero and wrote Letters to Lucilius and On the Shortness of Life. He was ordered to take his own life in 65 AD. For 10 points, name this Stoic and playwright.|Seneca|Seneca the Younger|n
+m|This school was founded by Plato in a grove outside Athens and lasted for centuries. Aristotle studied there for about twenty years. For 10 points, name this first institution of higher learning in the Western world.|the Academy|Academy;Plato's Academy
+m|This school in Athens was founded by Aristotle in a grove sacred to Apollo. Its members were nicknamed peripatetics because they discussed ideas while walking. For 10 points, name this school.|the Lyceum|Lyceum;Lykeion
+m|This work by Aristotle examines the best life for human beings and argues that virtue is a mean between excess and deficiency. It is named for his father or his son. For 10 points, name this treatise on ethics.|Nicomachean Ethics|Ethics;the Nicomachean Ethics
+m|This school of thought took its name from a painted porch in Athens. It taught that virtue is the only good and that one should accept fate calmly. For 10 points, name this school followed by Epictetus and Marcus Aurelius.|Stoicism|Stoic;Stoics|ok
+m|This Greek school took its name from the word for dog. Its followers rejected wealth, fame, and social conventions in favor of living according to nature. Antisthenes is considered its founder. For 10 points, name this philosophy, associated with Diogenes.|Cynicism|Cynics;Cynic
+m|This method of teaching involves asking a series of probing questions in order to expose contradictions in a person's beliefs. It is named for an Athenian philosopher and is often used in law schools. For 10 points, name this question-and-answer method.|Socratic method|Socratic questioning;elenchus|part
+m|This type of reasoning, studied by Aristotle, draws a conclusion from two premises, such as all men are mortal, Socrates is a man, so Socrates is mortal. For 10 points, name this form of deductive argument.|syllogism|n
+m|This Greek word, usually translated as flourishing or happiness, is for Aristotle the highest aim of human life. It comes from words meaning good and spirit. For 10 points, name this concept central to Greek ethics.|eudaimonia|Eudaemonia
+m|These were itinerant teachers in classical Greece who charged fees to teach rhetoric and the art of persuasion. Plato criticized them for treating truth as relative. Gorgias and Protagoras belonged to this group. For 10 points, name these paid teachers.|Sophists|the Sophists|n
+h|This philosopher from Elea wrote a poem in which a goddess describes the way of truth and the way of opinion. He argued that what exists is one, unchanging, and eternal, and that change is an illusion. For 10 points, name this Eleatic thinker, whose student Zeno defended his ideas.|Parmenides|n
+h|This student of Parmenides argued that motion is impossible through paradoxes. In one, a swift runner can never overtake a slow tortoise. For 10 points, name this Eleatic philosopher.|Zeno of Elea|Zeno|n=Zeno
+h|This Milesian philosopher proposed that the origin of all things is an infinite, indefinite substance. He is credited with creating an early map of the known world. For 10 points, name this student of Thales, who named that substance the apeiron.|Anaximander|n
+h|This philosopher, said to have accompanied Alexander the Great to India, founded a school that taught suspension of judgment as the path to peace of mind. For 10 points, name this founder of Skepticism, called Pyrrhonism after him.|Pyrrho|Pyrrhon|n
+h|This Sophist from Abdera was a friend of the statesman Pericles. He claimed that man is the measure of all things, a statement taken to mean that truth is relative to the individual. For 10 points, name this Greek thinker, the namesake of a Platonic dialogue.|Protagoras|n
+h|This philosopher, born in Roman Egypt, taught in Rome and believed that all things emanate from a single ineffable source called the One. His student Porphyry edited his writings into the Enneads. For 10 points, name this founder of Neoplatonism.|Plotinus|n
+B|m|Answer these questions about the dialogues of Plato.
+-|e|Which dialogue is set at a drinking party where guests give speeches in praise of love?|Symposium|the Symposium
+-|m|Which dialogue shows Socrates in prison, refusing to escape despite his friend's urging?|Crito|the Crito
+-|h|Which dialogue offers an account of the creation of the cosmos and mentions the lost island of Atlantis?|Timaeus|the Timaeus
+B|m|Answer these questions about the works of Aristotle.
+-|e|Which work discusses tragedy, plot, and catharsis?|Poetics|the Poetics
+-|m|Which work, whose title means after the physics, discusses being and first causes?|Metaphysics|the Metaphysics
+-|h|Which collection of six texts, including the Categories and Prior Analytics, makes up his writings on logic?|Organon|the Organon
+B|m|Answer these questions about Roman philosophers.
+-|e|Which Roman orator and statesman wrote On Duties and was killed on the orders of Mark Antony?|Cicero|n
+-|m|Which Epicurean poet wrote the epic On the Nature of Things?|Lucretius|n
+-|h|Which Roman writer, imprisoned under the Gothic king Theodoric, composed The Consolation of Philosophy?|Boethius|n
+B|m|Answer these questions about the trial of Socrates.
+-|e|In which city was Socrates tried and executed?|Athens|n
+-|m|Which oracle at Apollo's sanctuary declared that no one was wiser than Socrates?|the Oracle of Delphi|Delphi;Delphic oracle;Pythia
+-|h|Which soldier and historian wrote a Memorabilia and an Apology defending the memory of Socrates?|Xenophon|n
+B|m|Answer these questions about the life of Aristotle.
+-|e|Which Macedonian conqueror did Aristotle tutor?|Alexander the Great|Alexander|part
+-|m|In which northern Greek town was Aristotle born?|Stagira|Stageira
+-|h|Which student succeeded Aristotle as head of his school and wrote on botany and character types?|Theophrastus|n
+B|m|Answer these questions about opponents of Socrates in Plato's dialogues.
+-|e|Which Sophist from Leontini gives his name to a dialogue about rhetoric?|Gorgias|n
+-|m|Which Sophist argues in the first book of the Republic that justice is the interest of the stronger?|Thrasymachus|n
+-|h|Which character in that same dialogue on rhetoric argues that might makes right?|Callicles|n
+B|m|Answer these questions about key Greek words.
+-|e|Which English word comes from a Greek phrase meaning love of wisdom?|philosophy|philosophia
+-|m|Which Greek word, meaning word or reason, was used by Heraclitus and the Stoics for the rational principle of the universe?|logos
+-|h|Which Greek word for virtue or excellence is central to Socratic ethics?|arete|aretê;areté
+B|m|Answer these questions about the founders and leaders of Stoicism.
+-|e|Which philosopher from Cyprus founded the Stoic school in Athens?|Zeno of Citium|Zeno|n=Zeno
+-|m|Which third head of the Stoic school wrote hundreds of treatises on logic?|Chrysippus|n
+-|h|Which second head of the Stoic school wrote the Hymn to Zeus?|Cleanthes|n

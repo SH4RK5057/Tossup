@@ -1,0 +1,113 @@
+# ncal jv | Science | Chemistry
+B|e|Answer these questions about the periodic table.
+-|e|Name the element that has 26 protons in each atom.|iron|
+-|m|What name is given to the unreactive elements found in column 18?|noble gases|noble gas;inert gases
+-|h|Which block of the periodic table contains the transition metals?|d-block|d block;the d-block
+B|m|Answer these questions about acids and bases.
+-|e|What is the pH of a neutral solution at 25 degrees Celsius?|7|seven|m
+-|m|By the Arrhenius definition, an acid produces which ion in water?|hydrogen ion|H+;hydronium;hydronium ion;H3O+
+-|h|What is the pH of a 0.001 molar solution of hydrochloric acid?|3|three|m
+B|h|Answer these questions about the gas laws.
+-|e|Which Italian scientist proposed that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?|Amedeo Avogadro|Avogadro|n
+-|m|Which law states that gas pressure is directly proportional to Kelvin temperature at constant volume?|Gay-Lussac's law|Gay-Lussac;Gay Lussac
+-|h|How many liters does one mole of an ideal gas occupy at zero degrees Celsius and one atmosphere?|22.4|22.4 liters|m
+B|m|Answer these questions about chemical bonding.
+-|e|What type of bond involves the sharing of electrons between atoms?|covalent bond|covalent
+-|m|What type of bond forms between sodium and chlorine in table salt?|ionic bond|ionic
+-|h|What is the geometry of the CO2 molecule, whose atoms lie along a straight axis?|linear|
+B|e|Answer these questions about atomic structure.
+-|e|Which subatomic particle has a negative charge?|electron|electrons
+-|m|What term describes atoms of the same element that have different numbers of neutrons?|isotopes|isotope
+-|h|How many neutrons are in an atom of oxygen-18?|10|ten|m
+B|m|Answer these questions about the mole.
+-|e|Avogadro's number is approximately 6.02 times 10 to what power?|23|twenty-three|m
+-|m|What is the molar mass of water in grams per mole, to the nearest whole number?|18|eighteen|m
+-|h|How many grams does 2 moles of carbon dioxide have, given its molar mass is 44 grams per mole?|88|88 grams|m
+B|h|Answer these questions about types of chemical reactions.
+-|e|What type of reaction combines two simple substances into a single product?|synthesis|combination;synthesis reaction;combination reaction
+-|m|What type of reaction is the burning of methane in oxygen?|combustion|combustion reaction
+-|h|What type of reaction has the general form AB plus CD yields AD plus CB?|double replacement|double displacement;metathesis;double replacement reaction
+B|e|Answer these questions about organic chemistry.
+-|e|What is the simplest alkane?|methane|
+-|m|What is the name of the alkane that has three carbon atoms?|propane|
+-|h|What functional group defines an alcohol?|hydroxyl|hydroxyl group;OH;hydroxy group
+B|m|Answer these questions about energy in chemical reactions.
+-|e|What term describes a reaction that releases heat to its surroundings?|exothermic|exothermic reaction
+-|m|What non-SI energy unit equals about 4.18 joules?|calorie|calories
+-|h|What term describes the heat needed to raise one gram of a substance by one degree Celsius?|specific heat|specific heat capacity
+B|m|Answer these questions about solutions.
+-|e|In a solution of salt in water, what term describes the salt?|solute|
+-|m|In that solution, what term describes the water?|solvent|
+-|h|What concentration unit expresses moles of dissolved substance per liter of solution?|molarity|molar
+B|h|Answer these questions about chemical equilibrium.
+-|e|Which French chemist is known for a principle describing how equilibrium shifts when a stress is applied?|Le Chatelier|Henri Louis Le Chatelier;Henri Le Chatelier;Le Chatelier's principle|n
+-|m|At equilibrium, what is true of the rates of the forward and reverse reactions?|they are equal|equal;the same
+-|h|What term describes a substance that speeds up a reaction without being consumed?|catalyst|
+B|e|Answer these questions about electrochemistry.
+-|e|What type of cell converts chemical energy into electrical energy?|galvanic cell|voltaic cell;galvanic;voltaic
+-|m|Which electrode is the negative terminal in a cell that produces current?|anode|the anode
+-|h|What is the oxidation state of manganese in potassium permanganate, KMnO4?|plus 7|+7;7;seven;positive seven|m
+B|m|Answer these questions about nuclear chemistry.
+-|e|Which type of radiation consists of helium nuclei?|alpha radiation|alpha;alpha particles;alpha rays
+-|m|What term describes the time needed for half of a radioactive sample to decay?|half-life|half life
+-|h|A radioactive sample loses half its atoms every 10 years. What fraction of it remains after 30 years?|1/8|one eighth;one-eighth|m
+B|m|Answer these questions about titration.
+-|e|What piece of glassware is used to deliver precise, variable volumes of liquid in a titration?|buret|burette
+-|m|What term describes the point in a titration where the indicator changes color?|endpoint|end point
+-|h|Which indicator is colorless in acid and pink in base?|phenolphthalein|
+B|e|Answer these questions about changes of state.
+-|e|What term describes a solid changing directly into a gas?|sublimation|
+-|m|What term describes a gas changing into a liquid?|condensation|
+-|h|What term describes the unique temperature and pressure at which solid, liquid, and gas phases coexist?|triple point|
+B|h|Answer these questions about historical chemists and physicists.
+-|e|Which Russian chemist published a periodic table in 1869, arranging elements by atomic mass?|Dmitri Mendeleev|Mendeleev;Mendeleyev|n
+-|m|Which New Zealand-born physicist discovered the atomic nucleus with his gold foil experiment?|Ernest Rutherford|Rutherford|n
+-|h|Which French physicist discovered radioactivity in 1896?|Henri Becquerel|Becquerel|n
+B|m|Answer these questions about electron configuration.
+-|e|What is the maximum number of electrons in the first energy level?|2|two|m
+-|m|How many valence electrons does a neutral oxygen atom have?|6|six|m
+-|h|Which noble gas has the same electron configuration as a sodium ion?|neon|
+B|m|Give the chemical formula for each of these compounds.
+-|e|Carbon dioxide|CO2|
+-|m|Ammonia|NH3|
+-|h|Sulfuric acid|H2SO4|
+B|e|Answer these questions about reaction rates.
+-|e|What term describes the minimum energy needed for a reaction to occur?|activation energy|
+-|m|What term describes a substance that slows down a reaction?|inhibitor|
+-|h|What term describes a reaction whose rate depends on the concentration of a single reactant raised to the first power?|first-order|first order;first-order reaction
+B|m|Answer these questions about alloys.
+-|e|Which alloy is made mostly of copper and tin?|bronze|
+-|m|Which alloy is made mostly of copper and zinc?|brass|
+-|h|Steel is an alloy of iron and which other element?|carbon|
+B|h|Answer these questions about the halogens.
+-|e|Which halogen is a yellow-green gas at room temperature?|chlorine|
+-|m|Which halogen is a liquid at room temperature?|bromine|
+-|h|Which halogen is a purple-black solid that sublimes when heated?|iodine|
+B|e|Answer these questions about periodic trends.
+-|e|As you move down a group, what generally happens to atomic radius?|it increases|increases;increase;gets larger
+-|m|What term describes the energy needed to remove an electron from a gaseous atom?|ionization energy|ionisation energy
+-|h|Which third-period element, excluding noble gases, has the largest atomic radius?|sodium|Na
+B|m|Answer these questions about mixtures.
+-|e|What term describes a mixture that is uniform throughout?|homogeneous mixture|homogeneous;solution
+-|m|What technique separates liquids based on differences in boiling point?|distillation|
+-|h|What technique separates substances by their different speeds moving through paper or a column?|chromatography|
+B|m|Answer these questions about biochemistry.
+-|e|What are the building blocks of proteins?|amino acids|amino acid
+-|m|Starch and cellulose are polymers of which simple sugar?|glucose|
+-|h|What type of covalent bond links the units of a protein together?|peptide bond|peptide
+B|h|Answer these questions about the chemistry of water.
+-|e|What type of attraction holds water molecules to one another?|hydrogen bonding|hydrogen bond;hydrogen bonds
+-|m|Because of its uneven charge distribution, water is described as what kind of molecule?|polar|polar molecule
+-|h|What is the boiling point of water on the Kelvin scale, to the nearest whole number?|373|373 K;373.15|m
+B|e|Answer these questions about measurement.
+-|e|What number does the metric prefix kilo represent?|1000|one thousand;a thousand|m
+-|m|What is 25 degrees Celsius on the Kelvin scale, to the nearest whole number?|298|298 K;298.15|m
+-|h|How many significant figures are in the measurement 0.00450?|3|three|m
+B|m|Answer these questions about ions.
+-|e|What is the name for an ion that has gained electrons?|anion|
+-|m|What charge does a calcium ion typically carry?|plus 2|+2;2+;positive two;2|m
+-|h|What is the name of the polyatomic ion NO3 with a charge of minus 1?|nitrate|nitrate ion
+B|m|Answer these questions about acid-base chemistry.
+-|e|What color does blue litmus paper turn in an acid?|red|
+-|m|What term describes a substance that can act as either an acid or a base?|amphoteric|amphiprotic
+-|h|What is the conjugate base of water?|hydroxide|hydroxide ion;OH-

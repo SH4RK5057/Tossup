@@ -1,0 +1,105 @@
+# ncal varsity | Fine Arts | Architecture
+B|m|Answer these questions about ancient Egyptian monuments.
+-|e|The Great Sphinx at Giza has the body of which animal?|lion|a lion
+-|m|Which architect designed the Step Pyramid of Djoser?|Imhotep|
+-|h|The Step Pyramid is located at which burial site near Memphis?|Saqqara|Sakkara
+B|m|Answer these questions about Gothic cathedral features.
+-|e|Carved stone figures that drain water away from the walls are called what?|gargoyles|gargoyle
+-|m|What name is given to a large circular stained glass window, as at Chartres?|rose window|
+-|h|What name is given to the decorative stone framework inside a Gothic window?|tracery|
+B|m|Answer these questions about a famous Roman amphitheater.
+-|e|By what name is the Flavian Amphitheatre better known?|Colosseum|Coliseum
+-|m|Which emperor began this amphitheater around 70 AD?|Vespasian|
+-|h|What name is given to the network of tunnels beneath the arena floor that held animals and equipment?|hypogeum|
+B|m|Answer these questions about the architecture of a major Midwestern city.
+-|e|Which city was rebuilt with early skyscrapers after a great fire in 1871?|Chicago|
+-|m|Which tower was formerly known as the Sears Tower?|Willis Tower|
+-|h|What name is given to the group of architects, including Sullivan, who pioneered steel-frame towers in that city?|Chicago School|The Chicago School
+B|m|Answer these questions about Islamic architecture.
+-|e|Which cube-shaped building stands at the center of the Great Mosque of Mecca?|Kaaba|Ka'bah;Kaabah
+-|m|What name is given to the niche in a mosque wall that shows the direction of Mecca?|mihrab|
+-|h|What name is given to the stepped pulpit in a mosque from which the sermon is delivered?|minbar|
+B|m|Answer these questions about medieval castles.
+-|e|What name is given to the water-filled ditch around a castle?|moat|
+-|m|What name is given to the central, strongest tower of a medieval castle?|keep|donjon
+-|h|What name is given to the iron grating lowered to block a castle gateway?|portcullis|
+B|m|Answer these questions about bridges.
+-|e|Which type of bridge hangs its deck from cables strung between towers?|suspension bridge|suspension
+-|m|What type of movable bridge, such as London's Tower Bridge, has a deck that swings upward?|bascule bridge|bascule;drawbridge
+-|h|What type of bridge uses a framework of connected triangles to carry loads?|truss bridge|truss
+B|m|Answer these questions about the Taj Mahal.
+-|e|The Taj Mahal is made mostly of which white stone?|marble|white marble
+-|m|The Taj Mahal was built as a tomb for which empress?|Mumtaz Mahal|Mumtaz|n=Mahal
+-|h|The Taj Mahal sits on the bank of which river?|Yamuna|Yamuna River;Jumna;Jamuna
+B|m|Answer these questions about the city of Paris.
+-|e|Which river flows through the center of Paris?|Seine|The Seine;Seine River
+-|m|Which hill in northern Paris is topped by the Sacré-Cœur basilica?|Montmartre|
+-|h|Which baron rebuilt Paris in the 1850s and 1860s with wide boulevards for Napoleon III?|Georges-Eugène Haussmann|Haussmann;Baron Haussmann;Georges Eugene Haussmann|n
+B|m|Answer these questions about skyscrapers.
+-|e|Which safe passenger machine, perfected by Elisha Otis, made tall buildings practical?|elevator|lift;Otis elevator
+-|m|In which decade was the Empire State Building completed?|1930s|nineteen thirties;the 1930s;1931
+-|h|Which firm designed the Empire State Building?|Shreve, Lamb and Harmon|Shreve Lamb and Harmon;Shreve, Lamb & Harmon;Shreve Lamb & Harmon
+B|m|Answer these questions about parts of classical architecture.
+-|e|What term names a vertical support, usually round, that holds up a roof or beam?|column|pillar
+-|m|What name is given to the decorated top of a Doric, Ionic, or Corinthian support?|capital|
+-|h|What name is given to the vertical grooves carved along the shaft of a Doric or Ionic support?|fluting|flutes
+B|m|Answer these questions about Japanese architecture.
+-|e|Which Japanese city is home to the Golden Pavilion, Kinkaku-ji?|Kyoto|
+-|m|What name is given to the gates, often red, at the entrance to Shinto shrines?|torii|torii gates
+-|h|Himeji Castle is nicknamed after which white bird?|White Heron|Heron;egret;Shirasagi
+B|m|Answer these questions about prehistoric stone monuments.
+-|e|What word describes a very large stone used in a prehistoric monument?|megalith|
+-|m|What name is given to a prehistoric tomb made of upright stones topped by a flat capstone?|dolmen|
+-|h|Newgrange, a passage tomb older than Stonehenge, is in which country?|Ireland|Republic of Ireland
+B|m|Answer these questions about landscape architecture.
+-|e|Which park in Manhattan was designed in the 1850s through a famous competition?|Central Park|
+-|m|Which landscape architect co-designed the Manhattan park and is called the founder of American landscape architecture?|Frederick Law Olmsted|Olmsted|n
+-|h|Which English-born architect was Olmsted's partner on that park?|Calvert Vaux|Vaux|n
+B|m|Answer these questions about Russian architecture.
+-|e|What name is given to the fortified complex in the heart of Moscow?|Kremlin|The Kremlin
+-|m|Which tsar, known as "the Terrible," commissioned Saint Basil's Cathedral?|Ivan IV|Ivan the Terrible;Ivan the Fourth|n=IV
+-|h|Which Russian city, founded by Peter the Great, is home to the Winter Palace?|Saint Petersburg|Petersburg
+B|m|Answer these questions about the Lincoln Memorial.
+-|e|The Lincoln Memorial honors which president?|Abraham Lincoln|Lincoln|n
+-|m|What name is given to the long water feature in front of the Lincoln Memorial?|Reflecting Pool|The Reflecting Pool
+-|h|Which architect designed the Greek temple-style memorial on the National Mall honoring the sixteenth president?|Henry Bacon|Bacon|n
+B|m|Answer these questions about a famous ancient defensive wall.
+-|e|The Great Wall stretches across which country?|China|
+-|m|Most of the surviving Great Wall was built or rebuilt under which dynasty?|Ming|Ming dynasty
+-|h|Which first emperor of a unified realm joined earlier walls into one defense?|Qin Shi Huang|Shi Huangdi;Qin Shihuang;Shi Huang Di|n=Huang
+B|m|Answer these questions about the Parthenon.
+-|e|The Parthenon stands in which Greek city?|Athens|
+-|m|The Parthenon was dedicated to which goddess?|Athena|Athena Parthenos
+-|h|Which Athenian statesman oversaw the building of the Parthenon?|Pericles|
+B|m|Answer these questions about the Leaning Tower of Pisa.
+-|e|The Leaning Tower is what type of building?|bell tower|campanile
+-|m|What is the Italian word for a free-standing tower housing bells?|campanile|
+-|h|The tower stands in which square, called the Field of Miracles?|Piazza dei Miracoli|Piazza del Duomo;Square of Miracles;Campo dei Miracoli
+B|m|Answer these questions about the parts of a church.
+-|e|What name is given to the long central area where the congregation sits?|nave|
+-|m|What name is given to the cross-shaped church's arms that cross the long central hall?|transept|
+-|h|What name is given to the semicircular recess at the east end of a church?|apse|
+B|m|Answer these questions about roofs.
+-|e|What name is given to the triangular upper part of a wall under a sloping roof's ridge?|gable|
+-|m|What name is given to a roof sloping on all four sides?|hip roof|hipped roof;hip
+-|h|The Mansard roof is named for which French architect?|François Mansart|Mansart;Francois Mansart|n
+B|m|Answer these questions about Native American architecture.
+-|e|Mesa Verde National Park, with its cliff dwellings, is in which state?|Colorado|
+-|m|Mesa Verde was built by which ancestral people of the Southwest?|Ancestral Puebloans|Anasazi;Pueblo;Ancestral Pueblo
+-|h|What name is given to the round, underground ceremonial chamber in Puebloan villages?|kiva|
+B|m|Answer these questions about a famous West Coast estate.
+-|e|Hearst Castle, built for William Randolph Hearst, is in which state?|California|
+-|m|Which woman architect designed Hearst Castle?|Julia Morgan|Morgan|n
+-|h|Hearst Castle sits above which small coastal town on the central coast?|San Simeon|
+B|m|Answer these questions about a famous urban park.
+-|e|Balboa Park is in which California city?|San Diego|
+-|m|Which 1915 world's fair led to the building of many of the park's Spanish Colonial Revival buildings?|Panama-California Exposition|Panama California Exposition
+-|h|Which tiled-dome tower, designed for the Exposition, is a landmark of the Museum of Us?|California Tower|
+B|m|Answer these questions about Abu Simbel.
+-|e|The temples of Abu Simbel were carved to honor which pharaoh?|Ramses II|Ramesses II;Ramses the Great;Ramses the Second|n=II
+-|m|Abu Simbel stands beside which river?|Nile|Nile River;The Nile
+-|h|Which dam's reservoir forced Abu Simbel to be moved in the 1960s?|Aswan High Dam|Aswan Dam;High Dam
+B|m|Answer these questions about a famous Catalan architect.
+-|e|Antoni Gaudí designed most of his buildings in which Spanish city?|Barcelona|
+-|m|Casa Milà goes by what nickname meaning "the stone quarry"?|La Pedrera|Pedrera
+-|h|What name is given to Gaudí's mosaic technique using broken tile pieces?|trencadís|trencadis

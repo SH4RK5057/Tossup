@@ -1,0 +1,105 @@
+# ncal varsity | Fine Arts | French 3+
+B|m|Answer these questions about French numbers.
+-|e|What English number does the French "cinq" mean?|five|5|m
+-|m|What English number does the French "quatre-vingts" mean?|eighty|80|m
+-|h|What English number does the French "soixante-dix" mean?|seventy|70|m
+B|m|Answer these questions about French colors.
+-|e|What English color does the French "jaune" mean?|yellow|
+-|m|What English color does the French "noir" mean?|black|
+-|h|What English color does the French "gris" mean?|gray|grey
+B|m|Answer these questions about the French days of the week.
+-|e|What English day does the French "lundi" mean?|Monday|
+-|m|What English day does the French "mercredi" mean?|Wednesday|
+-|h|What English day does the French "samedi" mean?|Saturday|
+B|m|Answer these questions about French family words.
+-|e|What English word does the French "mère" mean?|mother|
+-|m|What English word does the French "grand-père" mean?|grandfather|
+-|h|What English word does the French "neveu" mean?|nephew|
+B|m|Answer these questions about French verbs.
+-|e|What English verb phrase does the French "manger" mean?|to eat|eat
+-|m|What English verb phrase does the French "vouloir" mean?|to want|want
+-|h|What English verb phrase does the French "pouvoir" mean?|to be able to|can;to be able
+B|m|Answer these questions about the French Revolution.
+-|e|Which device, named for a doctor, was used for executions during the Revolution?|guillotine|the guillotine
+-|m|Which leader of the Committee of Public Safety was himself guillotined in 1794?|Maximilien Robespierre|Robespierre|n
+-|h|What name is given to the period of mass executions from 1793 to 1794?|Reign of Terror|the Reign of Terror;the Terror
+B|m|Answer these questions about the Paris transit system and parks.
+-|e|What is the name of the Paris subway system?|the Métro|Métro;Metro;le métro;Paris Métro|f
+-|m|Which large Left Bank park, with a palace that houses the French Senate, is a favorite of Parisians?|Jardin du Luxembourg|Luxembourg Gardens;Luxembourg Garden;Luxembourg
+-|h|Which large forest park on the western edge of Paris contains the Longchamp racecourse?|Bois de Boulogne|Boulogne
+B|m|Answer these questions about a region of northwestern France.
+-|e|Which northwestern French region is known for its crêpes and rocky coast?|Brittany|Bretagne
+-|m|Which city is the regional capital of that area?|Rennes|
+-|h|Which Celtic language is traditionally spoken in that region?|Breton|Brezhoneg
+B|m|Answer these questions about French food vocabulary.
+-|e|What English word does the French "poulet" mean?|chicken|
+-|m|What English word does the French "escargots" mean?|snails|snail
+-|h|What English word does the French "champignons" mean?|mushrooms|mushroom
+B|m|Answer these questions about French-speaking North and West Africa.
+-|e|Which North African country, a former French colony, has the capital Algiers?|Algeria|
+-|m|Which Moroccan city is the capital of Morocco?|Rabat|
+-|h|Which West African country with the capital Dakar was French until 1960?|Senegal|
+B|m|Answer these questions about "Les Misérables."
+-|e|Which ex-convict is the main character?|Jean Valjean|Valjean|n
+-|m|Which orphaned girl is raised by Valjean?|Cosette|
+-|h|Which Parisian street urchin dies on the barricades?|Gavroche|
+B|m|Answer these questions about Joan of Arc.
+-|e|At which city under siege did she win a famous victory in 1429?|Orléans|Orleans
+-|m|In which Norman city was she burned in 1431?|Rouen|
+-|h|Which French prince did she help to be crowned at Reims?|Charles VII|The Dauphin;Charles the Seventh;Charles|n=VII
+B|m|Answer these questions about French mountains.
+-|e|Which mountain range forms the border between France and Spain?|the Pyrenees|Pyrenees;Pyrénées
+-|m|Which large mountain range runs along France's southeastern border?|the Alps|Alps
+-|h|Which highland region occupies the south-central part of France?|Massif Central|the Massif Central
+B|m|Answer these questions about French cheeses.
+-|e|Which soft, creamy cheese named after a region east of Paris is often served on baguettes?|Brie|
+-|m|Which blue cheese from southern France is made from sheep's milk?|Roquefort|
+-|h|Which hard cheese from the Jura mountains is often compared to Gruyère?|Comté|Comte
+B|m|Answer these questions about French film.
+-|e|Which French word, from the Greek, names a motion picture theater?|cinéma|cinema|f
+-|m|Which director made "The 400 Blows" in 1959?|François Truffaut|Truffaut|n
+-|h|What name is given to the French film movement of the late 1950s and 1960s led by Truffaut and Godard?|the New Wave|French New Wave;La Nouvelle Vague;Nouvelle Vague
+B|m|Answer these questions about Marie Curie.
+-|e|Which element did Curie name after her native Poland?|polonium|
+-|m|Which other radioactive element did the Curies announce in 1898?|radium|
+-|h|In how many different sciences did Curie win a Nobel Prize?|two|2|m
+B|m|Answer these questions about a French explorer of Canada.
+-|e|For which country did Cartier claim land in North America?|France|
+-|m|Which river did Cartier explore into the interior of Canada?|Saint Lawrence River|Saint Lawrence;the Saint Lawrence
+-|h|Which explorer founded Quebec City in 1608?|Samuel de Champlain|Champlain|n
+B|m|Answer these questions about French fashion.
+-|e|Which perfume by Coco Chanel is known by a number?|Chanel No. 5|Chanel Number 5;No. 5;Chanel 5
+-|m|Which designer launched the "New Look" in 1947?|Christian Dior|Dior|n
+-|h|Which designer introduced the tuxedo suit for women and founded a house with the initials YSL?|Yves Saint Laurent|Saint Laurent|n
+B|m|Answer these questions about French sports.
+-|e|Which Grand Slam tennis tournament is played on clay in Paris?|the French Open|French Open;Roland Garros;Roland-Garros
+-|m|What color jersey does the leader of the Tour de France wear?|yellow|
+-|h|After which French aviator is the stadium of that tennis tournament named?|Roland Garros|Garros|n
+B|m|Answer these questions about French Christmas traditions.
+-|e|What is the French word for Christmas?|Noël|Noel|f
+-|m|What name is given to the long Christmas Eve feast in France?|réveillon|reveillon|f
+-|h|What is the name of the traditional French Christmas log cake?|bûche de Noël|buche de Noel|f
+B|m|Answer these questions about French accent marks.
+-|e|What is the name of the mark under the c in "français"?|cedilla|cédille|f
+-|m|Which accent slants up to the right, as in "été"?|acute accent|accent aigu|f
+-|h|Which accent, shaped like a small roof, is found in "forêt"?|circumflex|accent circonflexe|f
+B|m|Answer these questions about French greetings and farewells.
+-|e|What English phrase does the French "bonne nuit" mean?|good night|
+-|m|What English phrase does the French "à bientôt" mean?|see you soon|
+-|h|What English phrase does the French "de rien" mean?|you're welcome|it's nothing;you are welcome
+B|m|Answer these questions about the French months.
+-|e|What English month does the French "janvier" mean?|January|
+-|m|What English month does the French "mai" mean?|May|
+-|h|What English month does the French "août" mean?|August|
+B|m|Answer these questions about French weather vocabulary.
+-|e|What English phrase does the French "il pleut" mean?|it is raining|it's raining
+-|m|What English word does the French "neige" mean?|snow|
+-|h|What English word does the French "orage" mean?|thunderstorm|storm
+B|m|Answer these questions about French body vocabulary.
+-|e|What English word does the French "tête" mean?|head|
+-|m|What English word does the French "main" mean?|hand|
+-|h|What English word does the French "genou" mean?|knee|
+B|m|Answer these questions about French school subjects.
+-|e|What English word does the French "la musique" mean?|music|
+-|m|What English word does the French "l'histoire" mean?|history|story
+-|h|What English word does the French "la chimie" mean?|chemistry|

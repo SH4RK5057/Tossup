@@ -1,0 +1,166 @@
+# ncal jv | Social Science | World History
+e|Which ancient civilization is associated with the Parthenon and the Acropolis?|Greece|Ancient Greece;Greeks
+e|What river flows north through Egypt and was central to its ancient civilization?|Nile|Nile River
+e|Which Greek city-state was famous for its militaristic society and training of soldiers from childhood?|Sparta
+e|Who was the first emperor of Rome?|Augustus|Octavian;Caesar Augustus|n
+e|Which Mongol leader founded the Mongol Empire in the early 1200s?|Genghis Khan|Chinggis Khan;Genghis|n=Khan
+e|Which French emperor was defeated at the Battle of Waterloo?|Napoleon Bonaparte|Napoleon;Bonaparte|part
+e|Which Paris prison fortress was stormed on July 14, 1789?|Bastille|The Bastille
+e|Which English king was forced to sign the Magna Carta in 1215?|King John|John|n=John
+e|Which explorer's 1492 voyage for Spain reached the Americas?|Christopher Columbus|Columbus|n
+e|Which German dictator led the Nazi Party?|Adolf Hitler|Hitler|n
+e|Which wall divided a German city into east and west from 1961 until 1989?|Berlin Wall|The Berlin Wall
+e|Which Indian leader championed nonviolent resistance against British rule?|Mohandas Gandhi|Mahatma Gandhi;Gandhi|n
+e|Which period of renewed interest in art and learning began in Italy in the 1300s?|Renaissance|The Renaissance
+e|Which German printer developed movable-type printing in Europe around 1450?|Johannes Gutenberg|Gutenberg|n
+e|Which religion was founded by Siddhartha Gautama?|Buddhism
+e|Which Roman emperor issued the Edict of Milan, which tolerated Christianity?|Constantine|Constantine the Great;Constantine I
+e|Whose 1914 assassination in Sarajevo helped trigger World War I?|Archduke Franz Ferdinand|Franz Ferdinand;Franz Ferdinand of Austria|n=Ferdinand
+e|Which Russian leader led the Bolsheviks in the 1917 revolution?|Vladimir Lenin|Lenin|n
+e|Which ancient people of Mesopotamia developed cuneiform writing?|Sumerians|Sumer;Sumerian
+e|Which Greek city-state is known as the birthplace of democracy?|Athens
+e|Which Japanese warrior class followed the code of bushido?|samurai|Samurai
+e|Which Roman general defeated Hannibal at Zama in 202 BCE?|Scipio Africanus|Scipio;Scipio the Elder|n=Africanus
+e|Which Spanish conquistador landed in Mexico in 1519?|Hernan Cortes|Cortes;Hernán Cortés;Cortés|n
+e|Which reformer posted the Ninety-five Theses in Germany in 1517?|Martin Luther|Luther|n
+e|Which Chinese philosopher's teachings emphasized filial piety and social harmony?|Confucius|Kong Fuzi
+e|Which epidemic killed roughly a third of Europe's people in the 1300s?|Black Death|Bubonic plague;the plague;black plague
+e|Which Soviet leader ruled from the late 1920s until 1953?|Joseph Stalin|Stalin|n
+e|Which 1919 treaty formally ended World War I with Germany?|Treaty of Versailles|Versailles
+e|What was the South African system of legal racial segregation called?|apartheid|Apartheid
+e|Which South African leader was imprisoned for 27 years and then became president?|Nelson Mandela|Mandela|n
+e|Which Portuguese explorer sailed around Africa to reach India in 1498?|Vasco da Gama|da Gama;Gama|n=Gama
+e|Which Greek poet is traditionally credited with the Iliad?|Homer
+e|Which Egyptian queen allied with Mark Antony?|Cleopatra|Cleopatra VII
+e|Which Roman city was buried by an eruption of Mount Vesuvius in 79 CE?|Pompeii
+e|Which international organization was founded in 1945 to promote peace?|United Nations|The United Nations;UN
+e|Which 1962 Cold War standoff involved Soviet missiles in Cuba?|Cuban Missile Crisis|Cuban missile crisis
+e|Which Italian Fascist dictator allied with Hitler in World War II?|Benito Mussolini|Mussolini|n
+e|On which Japanese city did the United States drop an atomic bomb on August 6, 1945?|Hiroshima
+e|Which Chinese Communist leader proclaimed the People's Republic in 1949?|Mao Zedong|Mao;Mao Tse-tung|part
+e|Which Scottish inventor made major improvements to the steam engine in the late 1700s?|James Watt|Watt|n
+e|Which country was the birthplace of the Industrial Revolution?|Great Britain|Britain;England;United Kingdom
+m|Which philosopher was the teacher of Plato?|Socrates
+m|Which Greek philosopher tutored Alexander the Great?|Aristotle
+m|Which war between Athens and Sparta ended in 404 BCE with a Spartan victory?|Peloponnesian War|The Peloponnesian War
+m|At which 490 BCE battle did the Athenians defeat a Persian army?|Marathon|Battle of Marathon
+m|Which Persian king led the 480 BCE invasion of Greece?|Xerxes|Xerxes I|n
+m|Which Roman general crossed the Rubicon River in 49 BCE?|Julius Caesar|Caesar|n
+m|Which series of wars did Rome fight against Carthage?|Punic Wars|The Punic Wars
+m|Which Roman emperor divided the empire's rule among four leaders called the Tetrarchy?|Diocletian
+m|In which year did the Western Roman Empire traditionally end?|476|476 CE;476 AD|m
+m|Which Roman emperor ordered a wall built across northern Britain?|Hadrian|Emperor Hadrian
+m|Which Byzantine emperor ordered the building of the Hagia Sophia and a codification of Roman law?|Justinian|Justinian I
+m|From which city did Muhammad make the Hijra to Medina in 622?|Mecca
+m|Which Frankish king was crowned emperor by the pope in the year 800?|Charlemagne|Charles the Great
+m|Which 1066 battle led to the Norman conquest of England?|Battle of Hastings|Hastings
+m|Which Norman duke became king of England after 1066?|William the Conqueror|William I;William of Normandy
+m|Which pope called for the First Crusade in 1095?|Urban II|Pope Urban II
+m|Which Muslim leader recaptured Jerusalem from the Crusaders in 1187?|Saladin|Salah ad-Din
+m|Which Mali emperor made a famed pilgrimage to Mecca in 1324?|Mansa Musa|Musa;Musa I
+m|Which Chinese dynasty, which lasted from 618 to 907, is remembered as a golden age of poetry?|Tang Dynasty|Tang
+m|Which Venetian merchant wrote of his travels to China and the court of Kublai Khan?|Marco Polo|Polo|n
+m|Which Byzantine city fell to the Ottoman Turks in 1453?|Constantinople
+m|Which Ottoman sultan was known as "the Magnificent"?|Suleiman the Magnificent|Suleiman;Suleiman I;Suleyman
+m|Which dynasty ruled Russia from 1613 until 1917?|Romanov|Romanovs;House of Romanov
+m|Which Russian tsar built a new capital at Saint Petersburg?|Peter the Great|Peter I
+m|Which French king, called the Sun King, built the Palace of Versailles?|Louis XIV|Louis the Fourteenth
+m|Which Englishman led Parliament's army in the English Civil War and later ruled as Lord Protector?|Oliver Cromwell|Cromwell|n
+m|Which 1688 event removed King James II in favor of William and Mary?|Glorious Revolution|The Glorious Revolution
+m|Which 1648 settlement ended the Thirty Years' War?|Peace of Westphalia|Treaty of Westphalia;Westphalia
+m|Which English queen's navy defeated the Spanish Armada in 1588?|Elizabeth I|Queen Elizabeth I;Queen Elizabeth
+m|Which Polish astronomer proposed that the planets orbit the sun?|Nicolaus Copernicus|Copernicus|n
+m|Which Italian scientist used a telescope to observe the moons of Jupiter?|Galileo Galilei|Galileo|part
+m|Which English scientist described the laws of motion and universal gravitation?|Isaac Newton|Newton|n
+m|Which French thinker wrote "The Social Contract"?|Jean-Jacques Rousseau|Rousseau|n
+m|Which English philosopher wrote "Leviathan"?|Thomas Hobbes|Hobbes|n
+m|Which French thinker championed the separation of powers in "The Spirit of the Laws"?|Montesquieu|Charles de Montesquieu|n
+m|Which radical Jacobin leader directed the Reign of Terror?|Maximilien Robespierre|Robespierre|n
+m|To which Mediterranean island was Napoleon first exiled in 1814?|Elba
+m|Which 1814 and 1815 conference redrew the map of Europe after Napoleon?|Congress of Vienna|Vienna
+m|Which former slave led the Haitian Revolution?|Toussaint Louverture|Toussaint L'Ouverture;Louverture|n
+m|Which South American leader was called "El Libertador"?|Simon Bolivar|Simón Bolívar;Bolivar;Bolívar|n
+m|Which Prussian chancellor oversaw the unification of Germany in 1871?|Otto von Bismarck|Bismarck|n
+m|Which Italian nationalist led the Red Shirts in the unification of Italy?|Giuseppe Garibaldi|Garibaldi|n
+m|Which 1868 event restored imperial rule in Japan and began rapid modernization?|Meiji Restoration|The Meiji Restoration;Meiji
+m|Which 1857 uprising by Indian soldiers challenged British East India Company rule?|Sepoy Mutiny|Indian Rebellion of 1857;Sepoy Rebellion;Sepoy Uprising
+m|Which Chinese emperor unified China in 221 BCE and was buried with a terracotta army?|Qin Shi Huang|Shi Huangdi;Qin Shi Huangdi
+m|Which Russian ruler was nicknamed "the Terrible"?|Ivan the Terrible|Ivan IV
+h|Which Babylonian king created a famous law code carved on a stone pillar?|Hammurabi
+h|Which Egyptian pharaoh tried to establish worship of the sun disk Aten?|Akhenaten|Amenhotep IV|n
+h|Which Mauryan emperor converted to Buddhism after the bloody Kalinga war?|Ashoka|Asoka
+h|Which king founded the Achaemenid Persian Empire?|Cyrus the Great|Cyrus II;Cyrus
+h|Which Athenian statesman led the city at the height of its golden age and promoted building the Parthenon?|Pericles
+h|Which Roman emperor, last of the Five Good Emperors, wrote the "Meditations"?|Marcus Aurelius|n=Aurelius
+h|Which 31 BCE naval battle saw Octavian defeat Antony and Cleopatra?|Battle of Actium|Actium
+h|Which leader of the Huns invaded Gaul and Italy in the 450s?|Attila|Attila the Hun
+h|Which 732 battle halted the northward Muslim advance into Gaul?|Battle of Tours|Battle of Poitiers;Tours;Poitiers
+h|Which 1054 event divided Christianity into Roman Catholic and Eastern Orthodox branches?|East-West Schism|Great Schism;Schism of 1054
+h|Which West African empire, centered on Gao, followed Mali and reached its peak under Askia Muhammad?|Songhai Empire|Songhai
+h|Which Mughal emperor built the Taj Mahal?|Shah Jahan
+h|Which Mughal emperor, grandson of Babur, was known for religious tolerance?|Akbar|Akbar the Great
+h|Which 1494 treaty divided newly found lands between Spain and Portugal?|Treaty of Tordesillas|Tordesillas
+h|Which 1598 edict granted limited rights to French Protestants?|Edict of Nantes|Nantes
+h|Which Chinese admiral led giant treasure ship voyages in the early 1400s?|Zheng He|Cheng Ho
+h|Which shogunate, founded by Tokugawa Ieyasu, ruled Japan from 1603 to 1868?|Tokugawa Shogunate|Tokugawa;Edo period
+h|Which British general commanded allied forces at Waterloo?|Duke of Wellington|Wellington;Arthur Wellesley
+h|Which 1884 and 1885 conference set rules for European colonization of Africa?|Berlin Conference|Congress of Berlin
+h|Which Chinese uprising of 1899 to 1901 attacked foreigners and Christian missionaries?|Boxer Rebellion|Boxer Uprising;Boxers
+h|Which 1938 agreement allowed Germany to annex the Sudetenland?|Munich Agreement|Munich Pact
+// bonuses
+B|m|Answer these questions about ancient Egypt.
+-|e|What picture-based writing system did the ancient Egyptians use?|hieroglyphics|hieroglyphs
+-|m|Which stone, found in 1799, helped scholars decipher it?|Rosetta Stone|The Rosetta Stone
+-|h|Which French scholar deciphered the script in 1822?|Jean-Francois Champollion|Champollion;Jean-François Champollion|n
+B|m|Answer these questions about ancient Greece.
+-|e|Which god was the king of the Greek gods?|Zeus
+-|m|Which mountain was the legendary home of the gods?|Mount Olympus|Olympus
+-|h|Which sanctuary housed the oracle of Apollo?|Delphi
+B|m|Answer these questions about ancient Rome.
+-|e|What was the governing council of elders in the Roman Republic called?|Senate|Roman Senate
+-|m|Which Roman poet wrote the Odes?|Horace|n
+-|h|Which Roman historian wrote the Annals and the Histories?|Tacitus|n
+B|m|Answer these questions about early Islam.
+-|e|What is the Islamic holy month of daytime fasting called?|Ramadan
+-|m|What is the pilgrimage to Mecca called?|Hajj|Haj
+-|h|Which cousin and son-in-law of Muhammad, the fourth caliph, is honored by Shia Muslims as the first imam?|Ali|Ali ibn Abi Talib
+B|m|Answer these questions about medieval Europe.
+-|e|What system exchanged land for loyalty and service between lords and vassals?|feudalism|Feudalism;feudal system
+-|m|What were peasants bound to a lord's land called?|serfs|Serfs
+-|h|Which long conflict between England and France lasted from 1337 to 1453?|Hundred Years' War|Hundred Years War
+B|m|Answer these questions about Renaissance Italy.
+-|e|Who painted The School of Athens in the Vatican?|Raphael|Raffaello Sanzio
+-|m|Who painted the ceiling of the Sistine Chapel?|Michelangelo|Michelangelo Buonarroti
+-|h|Which Florentine banking family patronized Renaissance artists?|Medici|The Medici;Medici family
+B|m|Answer these questions about the Protestant Reformation.
+-|e|Which English king broke with the Roman Catholic Church so he could remarry?|Henry VIII|Henry the Eighth
+-|m|Which French theologian led reform in Geneva and taught predestination?|John Calvin|Calvin|n
+-|h|Which 1555 agreement allowed German princes to choose Lutheranism or Catholicism for their lands?|Peace of Augsburg|Augsburg
+B|m|Answer these questions about the Age of Exploration.
+-|e|Which Portuguese prince, nicknamed "the Navigator," sponsored voyages down the African coast?|Prince Henry the Navigator|Henry the Navigator;Prince Henry
+-|m|Which Portuguese captain rounded the southern tip of Africa in 1488?|Bartolomeu Dias|Dias;Bartholomew Diaz|n
+-|h|Which Italian sailing for England reached North America in 1497?|John Cabot|Giovanni Caboto;Cabot|n
+B|m|Answer these questions about the Americas before European conquest.
+-|e|What was the capital city of the Aztec Empire?|Tenochtitlan|Tenochtitlán
+-|m|What was the capital city of the Inca Empire?|Cusco|Cuzco
+-|h|What record-keeping device of knotted cords did the Inca use?|quipu|khipu;quipus
+B|m|Answer these questions about 18th-century European thought.
+-|e|What name is given to the 18th-century movement emphasizing reason?|Enlightenment|The Enlightenment;Age of Reason
+-|m|Which English philosopher argued for natural rights to life, liberty, and property?|John Locke|Locke|n
+-|h|Which Frenchman edited the Encyclopedie with Jean d'Alembert?|Denis Diderot|Diderot|n
+B|m|Answer these questions about the French Revolution.
+-|e|Which French king was executed in 1793?|Louis XVI|Louis the Sixteenth
+-|m|What device was used for executions during the Revolution?|guillotine|The guillotine
+-|h|Which 1799 coup brought Napoleon to power?|Coup of 18 Brumaire|18 Brumaire;Eighteenth Brumaire
+B|m|Answer these questions about the Napoleonic era.
+-|e|Whose harsh winter helped destroy Napoleon's army in 1812?|Russia
+-|m|On which South Atlantic island was Napoleon exiled after Waterloo?|Saint Helena|Saint Helena Island;St. Helena
+-|h|What name was given to Napoleon's policy of closing European ports to British trade?|Continental System|Continental Blockade
+B|m|Answer these questions about the Industrial Revolution.
+-|e|Which fuel powered most steam engines in the early Industrial Revolution?|coal|Coal
+-|m|Which English inventor created the spinning jenny?|James Hargreaves|Hargreaves|n
+-|h|Which English workers destroyed textile machinery in 1811 to 1816 protests?|Luddites|The Luddites
+B|m|Answer these questions about European imperialism.
+-|e|Which Egyptian canal, opened in 1869, links the Mediterranean and Red Seas?|Suez Canal|Suez
+-|m|Which continent was carved up in the "Scramble" among European powers in the late 1800s?|Africa
+-|h|Which Belgian king held the Congo Free State as a personal possession?|Leopold II|King Leopold II;Leopold

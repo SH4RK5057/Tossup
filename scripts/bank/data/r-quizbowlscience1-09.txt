@@ -1,0 +1,65 @@
+# quizbowl varsity | Science | Math
+h|This theorem states that the integral of a holomorphic function around a closed contour in a simply connected domain is zero. A consequence is an integral formula giving the value of a function inside a contour in terms of its values on the boundary. It is a foundation of complex analysis. For 10 points, name this theorem named for a French mathematician who also names a sequence criterion for convergence.|Cauchy's integral theorem|Cauchy's theorem;Cauchy integral theorem;Cauchy theorem|
+h|Kurt Godel proved two theorems with this word in their names, showing that any consistent formal system capable of arithmetic contains true statements that cannot be proved within it. They ended Hilbert's program of proving consistency of mathematics. For 10 points, give the word, referring to a quality of a system being unable to prove everything true.|incompleteness|Godel's incompleteness theorems;incompleteness theorems|
+h|This formula states that e raised to i times theta equals cosine theta plus i times sine theta. A special case with theta equal to pi gives an identity linking five fundamental constants: e to the i pi plus one equals zero. For 10 points, name this formula named for a Swiss mathematician.|Euler's formula|Euler's identity;Euler formula|
+m|This is the term for a group in which the operation is commutative, named for a Norwegian mathematician who died young. The integers under addition are an example. For 10 points, give this adjective, which also names a prize in mathematics.|abelian|Abelian group;abelian group|
+m|This is the term for the set of all vectors that a linear transformation maps to zero. Its dimension is called the nullity, and the rank-nullity theorem relates it to the rank. For 10 points, name this subspace, also called the null space.|kernel|null space|
+h|This conjecture, one of the Millennium Prize Problems, asks whether the nontrivial zeros of a certain complex function all have real part one half. It has implications for the distribution of primes. For 10 points, name this conjecture about the zeta function.|Riemann hypothesis|Riemann's hypothesis;Riemann conjecture|
+m|This theorem states that if a function is continuous on a closed interval and differentiable on the open interval, there is a point where the derivative equals the average rate of change. For 10 points, name this theorem used to prove many results in calculus.|mean value theorem|MVT;Lagrange's mean value theorem|
+m|Euler solved this problem in 1735, finding that the sum of the reciprocals of the squares of the positive integers equals pi squared over six. It was posed by Pietro Mengoli and resisted attacks by the Bernoulli family. It is named for the Swiss city that was the hometown of Euler. For 10 points, name this problem.|Basel problem|Basel|
+m|This is the name for a number of the form a plus b i, whose conjugate is a minus b i, and whose magnitude is the square root of a squared plus b squared. For 10 points, name this extension of the real numbers.|complex number|complex numbers|
+h|In graph theory, this theorem says that the vertices of any planar map can be colored with at most four colors so that no adjacent regions share a color. It was first proved in 1976 by Appel and Haken using a computer. For 10 points, name this theorem about coloring maps.|four color theorem|four-color theorem;4-color theorem;four colour theorem|
+m|This is the name of the method of finding roots of a function by iterating x minus f of x over f prime of x. It converges quadratically near simple roots. For 10 points, name this method named for an English physicist, also called the Newton-Raphson method.|Newton's method|Newton-Raphson method;Newton Raphson method;Newton-Raphson|
+e|This is the term for the number of ways to arrange n distinct objects in order, equal to n factorial. There are six of these of the letters A, B, and C. For 10 points, name this counting concept.|permutations|permutation|
+e|This is the type of matrix with ones on the main diagonal and zeros everywhere else. Multiplying any compatible matrix by it leaves the matrix unchanged, so it plays the role that the number one plays for real numbers. Its determinant is one, and it is its own inverse. For 10 points, name this matrix.|identity matrix|identity|
+h|This theorem states that a continuous function from a closed ball to itself must have a point where f of x equals x. It was proved by a Dutch mathematician and implies that stirring coffee leaves some point in place. For 10 points, name this fixed-point theorem.|Brouwer fixed-point theorem|Brouwer's fixed point theorem;Brouwer fixed point theorem;Brouwer|
+m|This is the term for the distribution with a probability density function proportional to e to the negative x squared over two, with mean zero and variance one in its standard form. The central limit theorem says sample means approach it. For 10 points, name this bell-shaped distribution.|normal distribution|Gaussian distribution;standard normal distribution;Gaussian|
+e|This is the term for a statement that is assumed to be true without proof, such as the parallel postulate in Euclid. For 10 points, give this term for a starting assumption in a mathematical system.|axiom|postulate|
+m|This function, defined as the integral from zero to infinity of t to the x minus one times e to the negative t, extends the factorial to complex numbers. For 10 points, name this function symbolized by a Greek capital letter.|gamma function|Gamma function|
+h|This is the term for a set that can be put into one-to-one correspondence with the natural numbers. The integers and rationals are examples, but Cantor's diagonal argument shows the reals are not. For 10 points, name this adjective for a set the same size as the naturals.|countable|countably infinite|
+m|This is the name for the theorem that states that every non-constant polynomial with complex coefficients has at least one complex root. Gauss gave the first widely accepted proof. For 10 points, name this theorem of algebra.|fundamental theorem of algebra||
+m|This is the name for the series expansion of a function about zero, with coefficients given by derivatives at zero divided by factorials. The expansion of e to the x is one plus x plus x squared over two and so on. For 10 points, name this series named for a Scottish mathematician, a special case of Taylor series.|Maclaurin series|Maclaurin expansion|
+e|This is the term for the point where a graph crosses the vertical axis, found by setting x equal to zero. In the slope-intercept form of a line, y equals m x plus b, it is the constant b. For the parabola y equals x squared plus three, it equals three. For 10 points, name this feature of a graph.|y-intercept|y intercept|
+m|This is the type of number that cannot be written as a ratio of two integers, such as the square root of two. The Pythagorean Hippasus is said to have proved their existence. For 10 points, name this class of real numbers.|irrational numbers|irrational number;irrational|
+h|This is the name of the constant, approximately 0.5772, defined as the limit of the harmonic sum minus the natural logarithm of n. It is named for two mathematicians, a Swiss and an Italian. For 10 points, name this constant, symbolized by a Greek gamma.|Euler-Mascheroni constant|Euler's constant;Euler Mascheroni constant;Euler gamma|
+m|This is the type of statistical test that uses a distribution named for a British-born statistician writing as "Student" at the Guinness brewery. It is used for small samples. For 10 points, name this test.|t-test|Student's t-test;t test;Student t-test|
+e|This is the name for the line that divides a segment into two equal parts at a right angle. Every point on it is equidistant from the two endpoints of the segment. The three of them in a triangle meet at the circumcenter. For 10 points, name this line.|perpendicular bisector|bisector|
+m|This is the measure of how much a curve bends, equal to the reciprocal of the radius of the osculating circle. A straight line has zero of it. For 10 points, name this geometric quantity.|curvature||
+h|This conjecture states that every simply connected, closed three-dimensional manifold is homeomorphic to the three-sphere. It was proved by Grigori Perelman using Ricci flow, following a program of Richard Hamilton. Perelman declined the Fields Medal and the Millennium Prize for it. For 10 points, name this conjecture, the first Millennium Prize Problem to be solved.|Poincare conjecture|Poincaré conjecture;Poincare's conjecture|
+B|m|Answer these questions about calculus.
+-|e|What is the integral of 2x with respect to x, not including the constant?|x squared|x^2|m
+-|m|What rule is used to differentiate a composition of functions?|chain rule||
+-|h|What rule evaluates limits of indeterminate forms by differentiating numerator and denominator?|L'Hopital's rule|L'Hospital's rule;L'Hôpital's rule|
+B|m|Answer these questions about linear algebra.
+-|e|What term describes a matrix with the same number of rows and columns?|square matrix|square|
+-|m|What scalar, found by solving the characteristic equation, satisfies A v equals lambda v?|eigenvalue|eigenvalues|
+-|h|What decomposition expresses a matrix as U sigma V transpose?|singular value decomposition|SVD|
+B|m|Answer these questions about geometry.
+-|e|What is the sum of the first five positive odd integers?|25||m
+-|m|What French mathematician, a coordinate pioneer, gives his name to the Cartesian plane?|Rene Descartes|Descartes|n
+-|h|What circle passes through the midpoints of the sides of a triangle and the feet of its altitudes?|nine-point circle|nine point circle|
+B|m|Answer these questions about number theory.
+-|e|What is the term for a number divisible by only one and itself?|prime||
+-|m|What theorem, proven by Andrew Wiles, concerns no solutions to a to the n plus b to the n equals c to the n?|Fermat's Last Theorem|Fermat's last theorem|
+-|h|What Russian mathematician conjectured that every even number greater than two is the sum of two primes?|Christian Goldbach|Goldbach|n
+B|m|Answer these questions about probability.
+-|e|What is the probability of getting two heads in two fair coin tosses?|1/4|one fourth;one quarter|m
+-|m|What term describes the expected number of successes in repeated independent trials, named for a Swiss family?|binomial distribution|binomial|
+-|h|What distribution gives the number of events in a fixed interval at constant average rate, named for a French mathematician?|Poisson distribution|Poisson|
+B|m|Answer these questions about famous mathematicians.
+-|e|Which Swiss mathematician introduced the notation f of x and the number e?|Leonhard Euler|Euler|n
+-|m|Which French mathematician, killed in a duel at age 20, founded group theory?|Evariste Galois|Galois|n
+-|h|Which Indian mathematician, nicknamed the man who knew infinity, collaborated with G. H. Hardy?|Srinivasa Ramanujan|Ramanujan|n
+B|m|Answer these questions about sequences and series.
+-|e|How many diagonals does a hexagon have?|9|nine|m
+-|m|What test uses the ratio of successive terms to determine convergence?|ratio test||
+-|h|What series, of the form sum of one over n, diverges despite terms going to zero?|harmonic series|harmonic|
+B|m|Answer these questions about topology and analysis.
+-|e|What topological surface has only one side and one edge, made from a twisted strip?|Mobius strip|Möbius strip;Mobius band;Möbius band|
+-|m|What term describes a function whose limit at a point equals its value there?|continuous|continuity|
+-|h|What term describes a topological space that cannot be split into two disjoint nonempty open sets?|connected space|connected|
+e|A Greek scholar who was head of the Library of Alexandria and also measured the circumference of the Earth devised this method for finding primes. One lists the integers from two up, then repeatedly crosses out all multiples of each surviving number. The numbers that remain are prime. For 10 points, name this ancient algorithm named for that scholar.|Sieve of Eratosthenes|sieve of Eratosthenes;Eratosthenes sieve;Eratosthenes|
+e|This function of a real number returns its distance from zero, so the value for negative three is three. Its graph is V-shaped with a corner at the origin. It is written with two vertical bars around the input. For 10 points, name this function that makes negatives positive.|absolute value|absolute value function|
+e|This number, approximately 1.618, equals one plus the square root of five, all divided by two. The ratio of consecutive Fibonacci numbers approaches it. It is denoted by a Greek letter and appears in the pentagram and in Euclid's extreme and mean ratio. For 10 points, name this ratio.|golden ratio|phi;golden mean;golden section|
+e|This three-dimensional shape has volume four thirds pi r cubed and surface area four pi r squared. Archimedes was so proud of relating its volume to that of a circumscribed cylinder that it was reportedly shown on his tomb. Every point on its surface is the same distance from its center. For 10 points, name this round solid.|sphere||
+

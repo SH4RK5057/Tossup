@@ -1,0 +1,145 @@
+# ncal novice | Fine Arts | Art Terms
+e|When mixing paints in the traditional color wheel, red combined with yellow makes which secondary color?|orange
+e|When mixing paints in the traditional color wheel, blue combined with yellow makes which secondary color?|green
+e|When mixing paints in the traditional color wheel, red combined with blue makes which secondary color?|purple|violet
+e|What element of art describes how light or dark a color is?|value
+e|What is the term for the name of a color, such as red, blue, or yellow?|hue
+m|What term describes how bright or dull a color appears?|intensity|saturation;chroma
+e|Colors that sit directly opposite each other on the color wheel are called what kind of colors?|complementary colors|complementary
+m|Colors that sit next to each other on the color wheel, such as blue, blue-green, and green, are called what kind of colors?|analogous colors|analogous
+e|Blue, green, and violet are examples of what group of colors that seem calm and distant?|cool colors|cool
+e|Red, orange, and yellow are examples of what group of colors that seem energetic and close?|warm colors|warm
+m|What term names a color that has had white added to it?|tint
+m|What term names a color that has had black added to it?|shade
+m|What term names a color that has had gray added to it?|tone
+e|Which transparent paint is thinned with water and applied with soft brushes on paper?|watercolor|watercolors
+e|What name is given to an artwork that is three-dimensional and is carved, modeled, or assembled?|sculpture
+e|What kind of artwork shows a person, often focusing on the face?|portrait
+e|What kind of artwork shows natural scenery such as mountains, fields, or forests?|landscape
+m|What kind of artwork shows an arrangement of objects such as fruit, flowers, and bottles on a table?|still life
+e|What kind of portrait is one that an artist makes of himself or herself?|self-portrait|self portrait
+m|What kind of artwork shows the sea, ocean waves, or ships?|seascape
+e|In a drawing that uses perspective, what is the name of the line where the sky appears to meet the ground?|horizon line|horizon
+m|In perspective drawing, what is the name of the point where parallel lines appear to meet in the distance?|vanishing point
+m|What technique makes a flat surface look as if it has depth and distance?|perspective|linear perspective
+m|What term names the part of a picture that appears closest to the viewer?|foreground
+m|What term names the part of a picture that appears farthest from the viewer?|background
+e|What element of art is a mark that connects two points and can be thick, thin, straight, or curved?|line
+e|What element of art is a flat, enclosed area such as a circle, square, or triangle?|shape
+m|What element of art is a three-dimensional object such as a cube, sphere, or cylinder?|form
+e|What element of art describes how a surface feels or looks like it would feel, such as rough or smooth?|texture
+m|What element of art refers to the area around, between, and within objects in a work?|space
+m|What kind of space is the empty area around the main subject of an artwork?|negative space
+m|What principle of design describes the way visual weight is distributed in an artwork?|balance
+m|What principle of design is created when an element such as a shape or color is repeated in a regular way?|pattern|repetition
+m|What principle of design makes one part of an artwork stand out as the focal point?|emphasis
+m|What principle of design uses differences, such as light against dark, to create interest?|contrast
+m|What principle of design leads the viewer's eye through an artwork?|movement
+m|What principle of design refers to how the sizes of parts relate to one another and to the whole?|proportion
+m|What principle of design describes the feeling that all parts of an artwork belong together?|unity|harmony
+e|What kind of balance occurs when both sides of an artwork mirror each other?|symmetrical balance|symmetry;symmetrical
+h|What kind of balance occurs when two sides of an artwork are different but still feel equal in visual weight?|asymmetrical balance|asymmetry;asymmetrical
+e|What thin board do painters hold and use to mix their colors?|palette
+e|What kind of stand holds a painting upright while an artist works on it?|easel
+m|What flat, blunt metal blade do painters use to apply thick layers of paint?|palette knife
+m|What drawing technique builds up shadows with sets of crossing parallel lines?|cross-hatching|crosshatching;cross hatching
+m|What shading technique builds up tones using many tiny dots?|stippling
+h|What Italian term describes strong contrast between light and dark in a painting?|chiaroscuro
+h|What Italian term, meaning smoky, describes the soft blending of tones without hard outlines, as used by Leonardo da Vinci?|sfumato
+h|What Italian term names the technique of applying paint so thickly that brush strokes stand out in texture?|impasto
+e|What word names a quick, loose drawing made as a first idea for a larger work?|sketch
+m|What art form creates a picture from many small pieces of colored glass, tile, or stone?|mosaic
+m|What art form is made by gluing paper, fabric, and other materials onto a surface?|collage
+m|What technique of painting on wet plaster is used on walls and ceilings?|fresco
+m|What name is given to a large painting made directly on a wall?|mural
+m|What type of paint is made by mixing pigment with egg yolk?|tempera
+m|In printmaking, which technique prints from a design carved into a block of wood?|woodcut|woodblock;woodblock print
+h|In printmaking, which technique uses acid to cut lines into a metal plate?|etching
+h|What printmaking process uses a flat stone and the fact that grease and water repel each other?|lithography
+h|What name is given to the brownish-orange baked clay used for flowerpots and ancient statues?|terra cotta|terracotta
+m|What name is given to the glassy coating that is melted onto pottery in the kiln?|glaze
+h|What name is given to a sculpture of a person's head, shoulders, and upper chest?|bust
+m|What name is given to a hanging sculpture with parts that move in the air, made famous by Alexander Calder?|mobile
+e|What kind of art does not try to show things as they really appear, using shapes, colors, and lines instead?|abstract art|abstract;abstraction
+m|What kind of art tries to show subjects as they appear in real life?|realism|realistic;representational
+m|What name is given to a solid dark shape that shows only the outline of a person or object?|silhouette
+m|What kind of drawing exaggerates a person's features, often for humor?|caricature|caricatures
+m|What name is given to the art of beautiful handwriting?|calligraphy
+m|What word names the material an artist uses, such as oil paint, clay, or charcoal?|medium
+e|What name is given to the colored powder that gives paint its color?|pigment
+h|What term describes an artwork made of three connected panels?|triptych
+h|What term describes the technique of drawing an object at a sharp angle so that it appears to recede in space?|foreshortening
+h|What word names a pattern of shapes that fit together with no gaps or overlaps, like a tiled floor?|tessellation
+h|What white primer is brushed on a panel or canvas to prepare it for painting?|gesso
+h|What technique, used by Georges Seurat, builds an image from small dots of pure color?|pointillism
+h|What kind of line shows the outline and edges of a shape or form?|contour line|contour
+m|What term describes an artwork that uses only one hue in different values?|monochromatic
+m|What term describes the way the elements of an artwork are arranged on the page or canvas?|composition
+B|e|Answer these questions about drawing materials.
+-|e|What material is made from burnt sticks of wood and produces rich black marks?|charcoal
+-|m|What mineral, mixed with clay, forms the core of a standard pencil?|graphite
+-|h|What soft, chalk-like sticks of pure pigment are used for colorful drawings?|pastel|pastels;soft pastel
+B|m|Answer these questions about types of paint.
+-|e|What type of paint, made by mixing pigment with linseed oil, dries slowly and is used on canvas?|oil paint|oil;oils
+-|m|What water-based, fast-drying paint is made with a plastic polymer?|acrylic|acrylic paint
+-|h|What opaque form of watercolor has a heavier, matte finish?|gouache
+B|m|Answer these questions about sculpture.
+-|e|What smooth, hard stone from Italy has been carved by many famous sculptors?|marble
+-|m|What alloy of copper and tin is often melted and poured into molds to make sculptures?|bronze
+-|h|What casting method pours metal into a mold made by melting away a wax model?|lost-wax casting|lost wax;lost-wax;cire perdue
+B|m|Answer these questions about the color wheel.
+-|e|What color is directly opposite orange on the color wheel?|blue
+-|m|What color is directly opposite yellow on the color wheel?|violet|purple
+-|h|What name is given to a color scheme made of three colors spaced evenly around the color wheel?|triadic|triad
+B|m|Answer these questions about printmaking.
+-|e|What kind of print is made by carving a design into a block of soft rubbery linoleum?|linocut|linoleum print;linoleum cut
+-|m|What type of printing pushes ink through a mesh screen and was used by Andy Warhol?|screen printing|silkscreen;silk screen;serigraphy
+-|h|What sharp steel tool is used to cut lines into a metal plate in engraving?|burin|graver
+B|e|Answer these questions about surfaces for drawing and painting.
+-|e|What woven cloth, stretched on a frame, is the most common surface for oil painting?|canvas
+-|m|What paper-like material did ancient Egyptians make from a reed plant?|papyrus
+-|h|What writing surface made from the treated skin of a calf was used for medieval manuscripts?|vellum
+B|m|Answer these questions about the art world.
+-|e|What person organizes and cares for the collection at a museum?|curator
+-|m|What term names a person who gives money to support an artist?|patron
+-|h|What term names an artwork that is made on request for a specific client?|commission|commissioned work
+B|m|Answer these questions about types of modern art.
+-|e|What term names art that is sprayed or painted on public walls, often with spray cans?|graffiti
+-|m|What type of art fills a room or gallery space and is often made for a specific place?|installation|installation art
+-|h|What type of art uses actual or implied movement as an essential part of the work?|kinetic art|kinetic
+B|m|Answer these questions about East Asian art.
+-|e|What Japanese art is the folding of paper into shapes such as cranes?|origami
+-|m|What Japanese term names woodblock prints of everyday life, popular in the Edo period?|ukiyo-e|ukiyo e;ukiyoe|f
+-|h|What Japanese term means ink wash painting, done with black ink and brush on paper?|sumi-e|sumi e;suibokuga|f
+B|m|Answer these questions about textile arts.
+-|e|What kind of bed covering is made by sewing small pieces of fabric together in a pattern?|quilt
+-|m|What kind of heavy woven fabric picture is hung on walls and often shows scenes or stories?|tapestry
+-|h|What dyeing method from Indonesia uses wax to resist the dye in a pattern?|batik
+B|m|Answer these questions about ceramics.
+-|e|What kind of very hot oven is used to bake clay pottery until it hardens?|kiln
+-|m|What fine, white, translucent ceramic was first perfected in China?|porcelain
+-|h|What name is given to the liquid clay used to glue pieces of pottery together?|slip
+B|m|Answer these questions about creating depth in a picture.
+-|e|When one object partly covers another in a picture, it creates the feeling of depth. What is this called?|overlapping|overlap
+-|m|What kind of perspective makes distant objects look paler, bluer, and less detailed?|atmospheric perspective|aerial perspective
+-|h|In what kind of perspective do all lines recede to a single vanishing point?|one-point perspective|one point perspective
+B|m|Answer these questions about sculpture tools and supports.
+-|e|What sharp-edged tool do sculptors hammer to carve stone?|chisel
+-|m|What wire framework supports a clay sculpture while it is being built?|armature
+-|h|What coarse tool with raised teeth is used to smooth wood or stone?|rasp
+B|m|Answer these questions about shapes.
+-|e|What term describes shapes such as circles, squares, and triangles that have precise mathematical definitions?|geometric|geometric shapes
+-|m|What term describes irregular, free-flowing shapes like those found in nature, such as a leaf or a cloud?|organic|organic shapes
+-|h|What term describes abstract shapes inspired by living forms, often used by Joan Miro and Jean Arp?|biomorphic|biomorphic shapes
+B|m|Answer these questions about presenting artwork.
+-|e|What decorative border is placed around a painting?|frame
+-|m|What cardboard border is placed between a picture and its outer border?|mat|matte
+-|h|What clear protective coating is brushed over a finished oil painting?|varnish
+B|m|Answer these questions about digital art and design.
+-|e|What is the smallest dot of color on a computer screen image?|pixel
+-|m|What term names the art of arranging and designing letters and type?|typography
+-|h|What type of computer graphics uses mathematical lines and curves so that they can be enlarged without losing quality?|vector graphics|vector
+B|m|Answer these questions about monuments and sculpture bases.
+-|e|What term describes a sculpture of a person that stands freely, such as Lady Liberty in New York Harbor?|statue
+-|m|What name is given to the base that a sculpture stands on?|pedestal|plinth
+-|h|What term describes a sculpture carved so that it projects only slightly from a flat background?|bas-relief|bas relief;low relief

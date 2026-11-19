@@ -1,0 +1,63 @@
+# quizbowl varsity | Science | Astronomy
+h|This limit, equal to about 1.4 solar masses, is the maximum mass of a stable white dwarf supported by electron degeneracy pressure. It was calculated in 1930 by an Indian-American astrophysicist on a voyage to England. Stars above it end as neutron stars or black holes. For 10 points, name this mass limit named for a Nobel laureate.|Chandrasekhar limit|Chandrasekhar mass|
+h|This diagram plots stellar luminosity against surface temperature or spectral type, revealing a main sequence, giants, and white dwarfs. It was developed independently by a Dane and an American in the early twentieth century. For 10 points, name this diagram named for two astronomers, abbreviated H-R.|Hertzsprung-Russell diagram|H-R diagram;HR diagram;Hertzsprung Russell diagram|
+m|This law, discovered by an American astronomer in 1929, states that galaxies recede from us at speeds proportional to their distances. It provided the first evidence for the expansion of the universe. For 10 points, name this law named for an astronomer who also has a space telescope named for him.|Hubble's law|Hubble-Lemaitre law;Hubble law;Hubble's Law|
+m|This is the boundary around a black hole beyond which nothing, not even light, can escape. Its radius is given by two times the gravitational constant times the mass divided by the speed of light squared. For 10 points, name this surface named for what you see happening at the horizon.|event horizon||
+e|This is the closest star to Earth other than the Sun, about four light-years away. It is a red dwarf in the Alpha Centauri system. For 10 points, name this star whose name implies it is the nearest.|Proxima Centauri|Proxima|
+m|These pulsating radio sources were discovered in 1967 by Jocelyn Bell Burnell and Antony Hewish. They are rapidly rotating neutron stars that emit beams of radiation. For 10 points, name these objects, whose name combines "pulsating" and "star."|pulsars|pulsar|
+h|This radiation, discovered by Arno Penzias and Robert Wilson in 1965 as unexplained noise in a horn antenna, has a blackbody temperature of about 2.7 kelvin. It is the leftover glow from the early universe, released about 380,000 years after the Big Bang. For 10 points, name this radiation, abbreviated CMB.|cosmic microwave background|CMB;cosmic microwave background radiation|
+e|This planet has the largest volcano in the solar system, Olympus Mons, and a reddish color due to iron oxide. It has two moons, Phobos and Deimos. For 10 points, name this fourth planet from the Sun.|Mars||
+m|This is the term for a star's apparent shift in position as the Earth orbits the Sun. Friedrich Bessel first measured it for 61 Cygni in 1838. For 10 points, name this effect used to measure distances to nearby stars, and the source of the parsec.|parallax|stellar parallax|
+e|This is the name of our galaxy, a barred spiral about 100,000 light-years across containing hundreds of billions of stars. The Sun lies in the Orion Arm, roughly halfway out from the center. Its name comes from the pale band of stars visible across the night sky. For 10 points, name this galaxy.|Milky Way|the Milky Way|
+m|This object, the largest planet's most famous storm, is an anticyclone that has persisted for centuries. It is large enough to engulf Earth. For 10 points, name this feature in Jupiter's atmosphere.|Great Red Spot|Red Spot|
+h|These are the stable points in a two-body orbital system, where a small object can remain in a fixed position relative to the two large masses. The James Webb Space Telescope orbits the second one. There are five of them in all. For 10 points, name these points named for a French-Italian mathematician.|Lagrange points|Lagrangian points;Lagrange point;L2|
+m|This is the process powering the Sun, in which hydrogen nuclei combine to form helium and release energy. It requires temperatures of millions of kelvin in the core. For 10 points, name this nuclear process, whose reverse is fission.|nuclear fusion|fusion|
+e|This is the planet with the most prominent ring system, composed mostly of ice. It has a moon called Titan with a thick atmosphere. For 10 points, name this planet, the sixth from the Sun.|Saturn||
+h|This is the term for a star that has exhausted hydrogen in its core and expanded, cooled, and brightened, such as Betelgeuse and Arcturus. The Sun will become one in about five billion years. For 10 points, name this stage that follows the main sequence, which can be red.|red giant|red giants|
+m|This Polish astronomer proposed in De revolutionibus orbium coelestium that the Sun, rather than Earth, is at the center of the planetary system. He published it in 1543. For 10 points, name this man.|Nicolaus Copernicus|Copernicus|n
+m|This is the first rocky world in the solar system, closest to the Sun, with the most extreme temperature swings. A day on it lasts longer than its year in some senses. For 10 points, name this planet, smallest in the solar system.|Mercury||
+e|This is the term for a large, rotating system of stars, gas, dust, and dark matter held together by gravity. Edwin Hubble classified them as spiral, elliptical, and irregular. The Milky Way and Andromeda are examples. For 10 points, give this term for an island universe of billions of stars.|galaxy|galaxies|
+h|This is the type of supernova that results from the thermonuclear explosion of a white dwarf accreting matter from a companion. Because they have consistent peak luminosity, they serve as standard candles, which showed that the expansion of the universe is accelerating. For 10 points, name this type, labeled with a Roman numeral and a letter.|Type Ia supernova|Type 1a supernova;Ia;type Ia|
+m|This is the term for the apparent path of the Sun across the celestial sphere over the course of a year. The zodiac constellations lie along it, and it is inclined about 23.4 degrees to the celestial equator. Eclipses can occur only when the Moon crosses it. For 10 points, name this great circle.|ecliptic||
+e|This force holds planets in orbit around the Sun and keeps the Moon circling Earth. Newton explained it with a universal law in which it is proportional to the product of two masses and inversely proportional to the square of their separation. Einstein later described it as curvature of spacetime. For 10 points, name this fundamental force.|gravity|gravitation;gravitational force|
+m|This astronomer used Tycho Brahe's careful observations of Mars to derive three laws of planetary motion. He found that planets move in ellipses with the Sun at one focus, sweep out equal areas in equal times, and obey a period-distance relation. He published them in Astronomia Nova and Harmonices Mundi. For 10 points, name this German astronomer.|Johannes Kepler|Kepler|n
+h|This is the name of the invisible substance that makes up about 85 percent of the matter in the universe, inferred from galactic rotation curves studied by Vera Rubin. It does not emit or absorb light. For 10 points, name this substance.|dark matter||
+e|This is the name for a ball of ice, dust, and rock whose gas and dust tails point away from the Sun as it nears it. The nucleus is often called a dirty snowball, and its coma forms as ices sublimate. Halley's is the most famous periodic one, returning about every 76 years. For 10 points, name this kind of small solar system body.|comet|comets|
+m|This dwarf planet was discovered by Clyde Tombaugh at Lowell Observatory in 1930 and was reclassified by the International Astronomical Union in 2006. It has a large moon named Charon, and New Horizons flew past it in 2015. A heart-shaped plain called Tombaugh Regio is on its surface. For 10 points, name this world.|Pluto||
+m|This is the most volcanically active body in the solar system, with hundreds of volcanoes and lava lakes. Its surface is colored yellow and orange by sulfur compounds. Tidal heating from orbital resonance with Europa and Ganymede drives its activity. For 10 points, name this innermost Galilean moon.|Io||
+m|This is the type of eclipse in which the Moon passes between the Sun and Earth, casting a shadow on part of the planet. A total one reveals the faint outer corona and lasts at most about seven and a half minutes. A path of totality sweeps across the surface. For 10 points, name this eclipse, as opposed to a lunar one.|solar eclipse|eclipse of the Sun|
+h|This is the dwarf planet and largest object in the asteroid belt, visited by NASA's Dawn spacecraft in 2015. It was first discovered by Giuseppe Piazzi in 1801. For 10 points, name this world named for a Roman goddess of agriculture.|Ceres||
+m|This is the term for an exploding massive star at the end of its life, which can briefly outshine a galaxy. The Crab Nebula is the remnant of one seen in 1054. For 10 points, name this event.|supernova|supernovae|
+B|m|Answer these questions about the solar system.
+-|e|What is the largest planet?|Jupiter||
+-|m|What planet, the seventh from the Sun, was discovered by William Herschel in 1781?|Uranus||
+-|h|What is the outermost planet from the Sun?|Neptune||
+B|m|Answer these questions about stars.
+-|e|What is the star at the center of our solar system?|Sun|the Sun|
+-|m|What is the brightest star in the night sky, in Canis Major?|Sirius||
+-|h|What type of star is the leftover core of a Sun-like star, supported by electron degeneracy?|white dwarf|white dwarfs|
+B|m|Answer these questions about telescopes and space missions.
+-|e|What telescope, launched in 1990, orbits Earth and takes sharp images?|Hubble Space Telescope|Hubble|
+-|m|What mission in 1969 first landed humans on the Moon?|Apollo 11||
+-|h|What probe, launched in 1977, has left the heliosphere and carries a golden record?|Voyager 1|Voyager|
+B|m|Answer these questions about cosmology.
+-|e|What term describes the event believed to have started the universe?|Big Bang|the Big Bang|
+-|m|What Belgian priest proposed that the universe began from a "primeval atom"?|Georges Lemaitre|Lemaitre|n
+-|h|What mysterious force is thought to be driving the accelerating expansion of the universe?|dark energy||
+B|m|Answer these questions about astronomers.
+-|e|Which Italian astronomer observed the moons of Jupiter with a telescope?|Galileo Galilei|Galileo|n=Galilei
+-|m|Which Danish astronomer made precise naked-eye observations of Mars?|Tycho Brahe|Brahe|n
+-|h|Which American astronomer discovered that the Milky Way is one of many galaxies, using Cepheid variables in Andromeda?|Edwin Hubble|Hubble|n
+B|m|Answer these questions about the Moon and Earth-Sun system.
+-|e|What are the large dark plains on the Moon called, from the Latin for seas?|maria|mare|
+-|m|What phenomenon explains the Moon always showing the same face to Earth?|tidal locking|synchronous rotation|
+-|h|What name is given to the point in Earth's orbit closest to the Sun?|perihelion||
+B|m|Answer these questions about the outer solar system.
+-|e|Which Galilean moon of Jupiter is the largest in the solar system?|Ganymede||
+-|m|Which moon of Saturn has geysers on its south pole and a subsurface ocean?|Enceladus||
+-|h|Which region beyond Neptune contains Pluto and many icy bodies?|Kuiper belt|Kuiper Belt|
+B|m|Answer these questions about galaxies.
+-|e|What is the nearest large spiral galaxy to the Milky Way?|Andromeda|Andromeda Galaxy|
+-|m|What type of galaxy, such as M87, has an ellipsoidal shape and little gas or star formation?|elliptical galaxy|elliptical|
+-|h|What supermassive black hole sits at the center of the Milky Way, abbreviated Sgr A star?|Sagittarius A*|Sagittarius A star;Sgr A*|
+h|These pulsating stars have a period-luminosity relation discovered by Henrietta Swan Leavitt in 1912 from observations in the Small Magellanic Cloud. Hubble used them in Andromeda to show that it lies far outside the Milky Way. They are named for a star in the constellation Cepheus, and they serve as standard candles. For 10 points, name these variable stars.|Cepheid variables|Cepheids;Cepheid variable;Cepheid|

@@ -1,0 +1,128 @@
+# ncal varsity | Social Science | U.S. Government
+B|e|Answer these questions about the legislative branch.
+-|e|What is the title of the leader of the House of Representatives?|Speaker of the House|Speaker
+-|m|What is the name of the Senate officer who presides when the vice president is absent, a title meaning "for the time"?|president pro tempore|president pro tem
+-|m|What name is given to a Senate or House group that studies bills in a particular policy area?|standing committee|committee
+-|h|What term names the House committee that sets the rules for debate on bills?|Rules Committee|House Rules Committee
+B|m|Answer these questions about presidential powers.
+-|e|What is the term for a president's formal yearly address to Congress?|State of the Union|State of the Union address
+-|m|Which article of the Constitution establishes the executive branch?|Article II|Article Two;Two;2
+-|m|What term describes the president's power to name federal judges, ambassadors, and cabinet members, with the Senate's consent?|appointment power|appointments;appoint
+-|h|What 1973 law requires a president to notify Congress within forty-eight hours of sending troops into hostilities?|War Powers Resolution|War Powers Act
+B|e|Answer these questions about the Constitutional Convention.
+-|e|In which city was the Constitutional Convention held in 1787?|Philadelphia
+-|m|Which Virginian is called the "Father of the Constitution"?|James Madison|Madison|n
+-|m|Which plan proposed at the Convention called for a legislature based on population in both houses?|Virginia Plan
+-|h|Which plan, offered by William Paterson, called for equal representation of states in a one-house legislature?|New Jersey Plan
+B|m|Answer these questions about elections.
+-|e|What is the minimum age to vote in federal elections?|eighteen|18|m
+-|m|What is the name for an election in which voters choose between candidates from several parties for an office, held in November?|general election
+-|m|What name is given to the votes cast by the members of the body that formally chooses the president?|electoral votes;electors
+-|h|How many electoral votes does a candidate need to win the presidency?|270|two hundred seventy|m
+B|m|Answer these questions about the Bill of Rights.
+-|e|Which amendment protects the right to a trial by jury in civil cases?|Seventh Amendment|Seventh;7th Amendment
+-|m|Which amendment prohibits the government from forcing citizens to house soldiers in peacetime?|Third Amendment|Third;3rd Amendment
+-|m|Which amendment says that listing certain rights in the Constitution does not deny others retained by the people?|Ninth Amendment|Ninth;9th Amendment
+B|h|Answer these questions about the Constitution's amendments.
+-|e|Which amendment says the right to vote cannot be denied because of race, color, or previous condition of servitude?|Fifteenth Amendment|Fifteenth;15th Amendment
+-|m|Which amendment made the District of Columbia eligible for presidential electors?|Twenty-third Amendment|Twenty-third;23rd Amendment
+-|h|Which amendment delays any pay raise for members of Congress until after the next election?|Twenty-seventh Amendment|Twenty-seventh;27th Amendment
+B|m|Answer these questions about federalism.
+-|e|What name is given to powers held only by the national government, such as coining money?|delegated powers|enumerated powers;expressed powers;delegated
+-|m|What name is given to powers shared by national and state governments, such as taxation?|concurrent powers|concurrent
+-|m|What name is given to powers that states hold, such as running schools and issuing licenses, which come from the Tenth Amendment?|reserved powers|reserved
+-|h|What clause in Article IV requires states to recognize legal documents and court decisions from other states?|Full Faith and Credit Clause|full faith and credit
+B|e|Answer these questions about political participation.
+-|e|What is the term for the right to vote?|suffrage|franchise
+-|m|What is the name for a group formed by corporations, unions, or others to raise money to support candidates?|political action committee|PAC
+-|m|What is the name for a group that tries to influence government decisions on behalf of a cause?|interest group|lobby;lobbyist;pressure group
+-|h|What term describes a state in which the presidential vote is closely divided between the parties, often drawing campaign attention?|swing state|battleground state
+B|m|Answer these questions about the federal bureaucracy.
+-|e|Which executive department is headed by the Secretary of State?|Department of State|State Department;State
+-|m|Which independent federal agency, created in 1970, sets and enforces pollution standards?|Environmental Protection Agency|EPA
+-|m|What 1883 law created a merit system for hiring federal employees?|Pendleton Act|Pendleton Civil Service Reform Act;Pendleton Act of 1883
+-|h|Which agency, created in 1934 after the stock market crash, regulates the stock markets?|Securities and Exchange Commission|SEC
+B|e|Answer these questions about the Supreme Court.
+-|e|What title is held by the presiding member of the Supreme Court?|Chief Justice|chief justice
+-|m|How long may federal judges serve, according to Article III?|during good behavior|for life;life
+-|m|What is the term for a decision of the Supreme Court that is written to explain the views of the majority?|majority opinion|opinion of the Court
+-|h|Which president tried in 1937 to increase the number of justices on the Supreme Court, in a plan critics called "court packing"?|Franklin D. Roosevelt|Roosevelt;Franklin Roosevelt;n=Roosevelt
+B|m|Answer these questions about civil rights law.
+-|e|Which 1964 law, signed by Lyndon Johnson, banned discrimination in public places and employment?|Civil Rights Act of 1964|Civil Rights Act
+-|m|Which 1965 law outlawed practices such as literacy tests that kept Black citizens from voting?|Voting Rights Act of 1965|Voting Rights Act
+-|m|Which Alabama city was the site of the 1965 voting rights marches that led to that law?|Selma
+-|h|Which 1990 law prohibits discrimination against people with disabilities?|Americans with Disabilities Act|ADA
+B|e|Answer these questions about Congress's powers.
+-|e|Which body of Congress has the sole power to start bills that raise revenue?|House of Representatives|House
+-|m|Which body of Congress holds the trial for an impeached official?|Senate|the Senate
+-|m|Which clause of Article I, Section 8 gives Congress power to regulate trade between the states?|Commerce Clause|commerce clause
+-|h|Which congressional power, called the power of the "purse," lets Congress decide how federal money is spent?|appropriations;spending power
+B|m|Answer these questions about the Founding era.
+-|e|Which general presided over the Constitutional Convention?|George Washington|Washington|n
+-|m|Which 1786 uprising of Massachusetts farmers showed the weakness of the Articles of Confederation?|Shays' Rebellion|Shays Rebellion
+-|m|Which 1787 law set up a process for creating new states north of the Ohio River?|Northwest Ordinance
+-|h|Which of the Founders wrote Federalist essays under the pen name "Publius" and also served as the first Secretary of the Treasury?|Alexander Hamilton|Hamilton|n
+B|e|Answer these questions about political parties.
+-|e|What term describes a system dominated by two major parties?|two-party system
+-|m|What name is given to the document that sets out a party's positions on issues, adopted at its national convention?|platform|party platform
+-|m|What is the name for a third-party candidate who takes votes from a major-party candidate?|spoiler
+-|h|Which 1796 farewell address by the first president warned against political parties?|Washington's Farewell Address|Farewell Address
+B|h|Answer these questions about the court system.
+-|e|What kind of federal courts hold trials in the United States, with at least one in each state?|district courts;United States district courts;district court
+-|m|What are the federal courts called that hear appeals from district courts?|courts of appeals|circuit courts;appeals courts;circuit courts of appeals
+-|m|What is the term for the right of a court to hear a case, based on the type of case or the location?|jurisdiction
+-|h|What name is given to the kind of law that deals with disputes between private parties, rather than crimes?|civil law|civil
+B|m|Answer these questions about the budget and taxes.
+-|e|Which executive office helps the president prepare the federal budget?|Office of Management and Budget|OMB
+-|m|What is the term for the total money the government owes from accumulated deficits?|national debt|public debt;federal debt
+-|m|What term describes government spending that is required by law, such as benefits for retirees, rather than set annually?|mandatory spending|entitlements;entitlement spending
+-|h|What name is given to the federal retirement insurance program for workers, created by an act of 1935?|Social Security
+B|e|Answer these questions about the executive mansion and the vice presidency.
+-|e|What is the name of the official home of the president in Washington?|White House|The White House
+-|m|Who becomes president if the president dies, resigns, or is removed?|vice president|Vice President
+-|h|Which second president was the first to occupy the official presidential residence, in 1800?|John Adams|Adams|n dup
+B|m|Answer these questions about freedom of religion and speech.
+-|e|Which clause of the First Amendment bars government from creating an official religion?|Establishment Clause|establishment clause
+-|m|Which clause of the First Amendment protects the practice of religion?|Free Exercise Clause|free exercise clause
+-|m|What term describes a speech that is not protected, because it incites imminent illegal action?|incitement
+-|h|Which Supreme Court case of 1919 gave the "clear and present danger" test?|Schenck versus United States|Schenck
+B|e|Answer these questions about state and local government.
+-|e|What is the title of the chief executive of a state?|governor
+-|m|What is the name for the unit of local government that is a subdivision of a state, headed by commissioners or supervisors?|county
+-|m|What is the term for a process that lets voters propose a law by petition and vote on it directly?|initiative|ballot initiative
+-|h|What is the term for a vote that lets citizens remove an elected official before the term ends?|recall|recall election
+B|m|Answer these questions about the Declaration and Revolution.
+-|e|Which Founding Father was the main author of the Declaration of Independence?|Thomas Jefferson|Jefferson|n
+-|m|Which English philosopher's idea of natural rights to life, liberty, and property influenced Jefferson?|John Locke|Locke|n
+-|m|Which French thinker's idea of separating government powers influenced the Constitution?|Montesquieu|Baron de Montesquieu|n
+-|h|Which 1215 English document limited the king's power and influenced American ideas of limited government?|Magna Carta
+B|e|Answer these questions about qualifications for office.
+-|e|What word names the status of being a legal member of a country, with rights and duties?|citizenship
+-|m|What is the minimum age to serve as a senator?|thirty|30|m
+-|m|What is the minimum age to serve in the House?|twenty-five|25|m
+-|h|How many years must a person be a citizen to be a senator?|nine|9|m
+B|m|Answer these questions about the economy and government.
+-|e|Which government program of the 1930s, led by Franklin Roosevelt, tried to end the Great Depression?|New Deal|the New Deal
+-|m|Which independent agency controls the supply of money and sets interest rates in the United States?|Federal Reserve|the Federal Reserve;Fed
+-|m|Which 1890 law was the first to ban monopolies and trusts?|Sherman Antitrust Act|Sherman Act
+-|h|Which agency, created in 1914, polices unfair business practices and false advertising?|Federal Trade Commission|FTC
+B|h|Answer these questions about constitutional crises and conflicts.
+-|e|Which president was the first to be impeached by the House of Representatives?|Andrew Johnson|Johnson|n dup
+-|m|Which scandal of the 1970s, which began with a break-in at Democratic Party offices, led a president to resign?|Watergate|Watergate scandal
+-|m|Which 1974 Supreme Court case required President Nixon to turn over tape recordings?|United States versus Nixon
+-|h|Which law passed after the Civil War over a veto, banning presidents from removing officials without Senate approval, led to Johnson's impeachment?|Tenure of Office Act
+B|e|Answer these questions about how Congress passes laws.
+-|e|What is the name for a proposed law that is being considered by Congress?|bill
+-|m|What is the name for the formal vote in which members record their yes or no on a measure?|roll call vote|roll call
+-|m|What is the name for an unrelated provision attached to another measure?|rider
+-|h|What term describes a system of favors in which legislators trade votes for each other's projects?|logrolling
+B|m|Answer these questions about the rights of the accused.
+-|e|What is the term for a defendant's formal answer to a charge, such as guilty or not guilty?|plea
+-|m|What name is given to the formal charge of a crime made by a grand jury?|indictment
+-|m|What is the term for money paid to a court to ensure a defendant returns for trial?|bail
+-|h|What is the name for the rule that evidence obtained illegally cannot be used at trial?|exclusionary rule
+B|e|Answer these questions about the history of the presidency.
+-|e|Which president, nicknamed "Old Hickory," fought against the Second Bank of the United States?|Andrew Jackson|Jackson|n dup
+-|m|Which president signed the proclamation that freed slaves in Confederate-held territory in 1863?|Abraham Lincoln|Lincoln|n
+-|m|Which president made the Louisiana Purchase?|Thomas Jefferson|Jefferson|n
+-|h|Which president is the only one to have resigned from the office?|Richard Nixon|Nixon|n

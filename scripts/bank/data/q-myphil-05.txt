@@ -1,0 +1,59 @@
+# quizbowl novice | Philosophy | Modern Philosophy
+e|This philosopher imagined an evil demon who deceives him about everything and concluded that his own existence cannot be doubted because he is thinking. He argued that mind and body are separate substances. His Discourse on Method begins with systematic doubt. For 10 points, name this French author of Meditations on First Philosophy, who said "I think, therefore I am."|Descartes|René Descartes|n
+e|This English philosopher argued that people have natural rights to life, liberty, and property and that governments exist only by the consent of the governed. His Two Treatises of Government influenced Thomas Jefferson. For 10 points, name this author of An Essay Concerning Human Understanding.|Locke|n
+e|This philosopher from Konigsberg argued that we can know only the world as it appears to us and never things as they are in themselves. His major works include the Critique of Pure Reason and the Critique of Practical Reason. For 10 points, name this German Enlightenment thinker.|Kant|Immanuel Kant|n
+e|This German philosopher declared that God is dead and called for the coming of the Übermensch. He also wrote Thus Spoke Zarathustra and Beyond Good and Evil. His idea of the will to power opposed traditional Christian morality. For 10 points, name this philosopher.|Nietzsche|Friedrich Nietzsche|n
+e|This German philosopher and economist argued that history is driven by class struggle and that capitalism would be replaced by communism. He wrote Das Kapital while living in London. For 10 points, name this author, with Friedrich Engels, of The Communist Manifesto.|Marx|Karl Marx|n
+e|This Swiss-born philosopher argued that humans are naturally good but are corrupted by society. He began a famous book with the line that man is born free, but everywhere he is in chains. He also wrote Emile. For 10 points, name this French Enlightenment thinker, author of The Social Contract.|Rousseau|Jean-Jacques Rousseau|n
+e|This French Enlightenment writer championed religious tolerance and freedom of speech, and he wrote the satire Candide. He was exiled to England and spent his last years at Ferney. For 10 points, name this author, whose real name was Francois-Marie Arouet.|Voltaire|n
+e|This English philosopher and statesman wrote the Novum Organum, which advocated gathering evidence through experiment and induction. He is credited with the saying that knowledge is power, and he served as Lord Chancellor. For 10 points, name this father of the scientific method and author of New Atlantis.|Francis Bacon|Bacon|n
+e|This French philosopher wrote Being and Nothingness and the play No Exit, which includes the line that hell is other people. He argued that existence precedes essence. He refused the Nobel Prize in Literature. For 10 points, name this French existentialist.|Sartre|Jean-Paul Sartre|n
+e|This moral theory holds that an action is right if it produces the greatest good for the greatest number of people. It was developed by Jeremy Bentham and refined by John Stuart Mill. For 10 points, name this consequentialist philosophy.|utilitarianism|Utilitarian|n
+m|This English philosopher wrote that without a strong government, life in the state of nature would be solitary, poor, nasty, brutish, and short. He lived through the English Civil War and defended absolute monarchy. For 10 points, name this author of Leviathan.|Hobbes|Thomas Hobbes|n
+m|This Scottish philosopher argued that we have no rational basis for believing in cause and effect, only habit. His Treatise of Human Nature claimed that the self is a bundle of perceptions. He awoke Kant from his dogmatic slumber. For 10 points, name this skeptical empiricist.|Hume|David Hume|n
+m|This English philosopher wrote On Liberty, which argued that society may limit individual freedom only to prevent harm to others. He also wrote The Subjection of Women, in collaboration with Harriet Taylor. For 10 points, name this utilitarian who wrote Utilitarianism.|Mill|John Stuart Mill|n
+m|This English philosopher designed a circular prison called the Panopticon and requested that his preserved body be displayed after death. He wrote An Introduction to the Principles of Morals and Legislation, which measured actions by pleasure and pain. For 10 points, name this founder of modern utilitarianism.|Bentham|Jeremy Bentham|n
+m|This Danish philosopher wrote Fear and Trembling, which discusses Abraham's near-sacrifice of Isaac, and introduced the idea of the leap of faith. He published many works under pseudonyms and broke off his engagement to Regine Olsen. For 10 points, name this father of existentialism.|Kierkegaard|Soren Kierkegaard;Søren Kierkegaard|n
+m|This German philosopher wrote the Phenomenology of Spirit and argued that history advances through a dialectical process toward freedom. He taught at the University of Berlin, and his ideas strongly influenced Marx. For 10 points, name this absolute idealist.|Hegel|G. W. F. Hegel;Georg Hegel|n
+m|This French philosopher wrote The Second Sex, which says that one is not born but rather becomes a woman. She was a lifelong partner of Jean-Paul Sartre. For 10 points, name this founder of modern feminist philosophy.|Simone de Beauvoir|Beauvoir;de Beauvoir|n
+m|This Algerian-born French writer argued in The Myth of Sisyphus that life is absurd and that one must imagine Sisyphus happy. He also wrote the novels The Stranger and The Plague. For 10 points, name this winner of the 1957 Nobel Prize in Literature.|Camus|Albert Camus|n
+m|This English philosopher wrote A Vindication of the Rights of Woman, arguing that women should receive an education equal to men. She was the mother of the author of Frankenstein. For 10 points, name this early feminist thinker.|Mary Wollstonecraft|Wollstonecraft|n
+m|This movement, associated with Kierkegaard, Sartre, and Camus, emphasizes individual freedom, choice, and responsibility in a world without given meaning. For 10 points, name this philosophical movement.|existentialism|existentialist|n
+m|This principle states that one should act only according to a maxim that one could will to become a universal law. It was proposed in the Groundwork of the Metaphysics of Morals by a German philosopher. For 10 points, name this ethical principle.|categorical imperative|the categorical imperative
+m|This Latin phrase, meaning blank slate, describes the idea that the mind at birth has no innate ideas and is filled by experience. An English empiricist popularized it. For 10 points, name this phrase.|tabula rasa|blank slate
+m|This 1651 work begins with a frontispiece showing a giant crowned figure made up of many tiny people. It argues that people give up some freedom to a sovereign in exchange for protection from violence. For 10 points, name this work named for a biblical sea monster.|Leviathan
+m|This theory in philosophy holds that all knowledge comes from sensory experience rather than from innate ideas. It is usually contrasted with rationalism and is associated with British thinkers. For 10 points, name this theory of knowledge.|empiricism
+h|This Irish bishop argued that material objects exist only as perceptions in minds, summing up his position as to be is to be perceived. His Treatise concerning the Principles of Human Knowledge defended this immaterialism. For 10 points, name this philosopher, the namesake of a California city.|Berkeley|George Berkeley|n
+h|This Dutch philosopher was excommunicated from his Jewish community in Amsterdam and earned a living grinding lenses. His Ethics is written in the form of geometric proofs and identifies God with nature. For 10 points, name this rationalist.|Spinoza|Baruch Spinoza;Benedict de Spinoza|n
+h|This German rationalist argued that the universe is made up of simple, windowless units called monads. He claimed that we live in the best of all possible worlds and is credited with independently inventing calculus. For 10 points, name this philosopher.|Leibniz|Gottfried Leibniz|n
+h|This French baron wrote Persian Letters and The Spirit of the Laws, in which he argued that governmental power should be divided among separate branches. His ideas deeply influenced the framers of the United States Constitution. For 10 points, name this political philosopher.|Montesquieu|Charles de Secondat|n
+h|This German pessimist argued that the world is driven by a blind, striving force he called the will. His main work, The World as Will and Representation, influenced Nietzsche and Wagner. For 10 points, name this philosopher.|Schopenhauer|Arthur Schopenhauer|n
+h|This French mathematician and philosopher argued that it is rational to bet on the existence of God. He wrote the Pensees and the Provincial Letters and invented an early mechanical calculator. For 10 points, name this man who has a law of fluid pressure and a triangle named after him.|Pascal|Blaise Pascal|n
+B|m|Answer these questions about the American Transcendentalists.
+-|e|Which author of Walden lived for two years in a cabin near a pond in Massachusetts?|Thoreau|Henry David Thoreau|n
+-|m|Which essayist wrote Self-Reliance and was a mentor of that author?|Emerson|Ralph Waldo Emerson|n
+-|h|Which journalist and feminist wrote Woman in the Nineteenth Century and edited The Dial?|Margaret Fuller|Fuller|n
+B|m|Answer these questions about American pragmatism.
+-|e|Which psychologist and philosopher wrote The Varieties of Religious Experience?|William James|James|dup
+-|m|Which philosopher of education wrote Democracy and Education?|John Dewey|Dewey|n
+-|h|Which logician is called the founder of pragmatism for his essay How to Make Our Ideas Clear?|Charles Sanders Peirce|Peirce|n
+B|m|Answer these questions about the French Enlightenment.
+-|e|Which massive French reference work, begun in the 1750s, was meant to gather all human knowledge?|the Encyclopedie|Encyclopedie;Encyclopédie;Encyclopaedia
+-|m|Which philosophe served as chief editor of that reference work?|Denis Diderot|Diderot|n
+-|h|Which mathematician co-edited it and wrote its preliminary discourse?|Jean le Rond d'Alembert|d'Alembert;Alembert|n
+B|m|Answer these questions about political philosophy.
+-|e|Which Renaissance author wrote The Prince?|Machiavelli|Niccolo Machiavelli|n
+-|m|Which pamphleteer wrote Common Sense in support of American independence?|Thomas Paine|Paine|n
+-|h|Which Irish-born statesman wrote Reflections on the Revolution in France?|Edmund Burke|Burke|n
+B|m|Answer these questions about logic and the philosophy of science.
+-|e|Which British philosopher and mathematician co-wrote Principia Mathematica with Alfred North Whitehead?|Bertrand Russell|Russell|n
+-|m|Which philosopher of science argued that a scientific theory must be falsifiable?|Karl Popper|Popper|n
+-|h|Which German logician wrote the Begriffsschrift and founded modern predicate logic?|Gottlob Frege|Frege|n
+B|m|Answer these questions about the philosophy of language.
+-|e|Which Austrian-born philosopher wrote the Tractatus Logico-Philosophicus?|Ludwig Wittgenstein|Wittgenstein|n
+-|m|Which British philosopher popularized logical positivism in Language, Truth and Logic?|A. J. Ayer|Ayer;Alfred Ayer|n
+-|h|Which American logician wrote Two Dogmas of Empiricism?|Willard Van Orman Quine|Quine;W. V. O. Quine|n
+B|m|Answer these questions about economic and social thought.
+-|e|Which Scottish thinker wrote The Wealth of Nations?|Adam Smith|Smith|n
+-|m|Which German thinker wrote The Condition of the Working Class in England?|Friedrich Engels|Engels|n
+-|h|Which German sociologist wrote The Protestant Ethic and the Spirit of Capitalism?|Max Weber|Weber|n

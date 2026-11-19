@@ -1,0 +1,111 @@
+# ncal varsity | English | World Literature
+e|Which ancient Greek poet is credited with writing the Iliad and the Odyssey?|Homer|n
+e|In the Odyssey, what is the name of the hero's wife who waits for him in Ithaca?|Penelope||
+e|Which French author wrote Les Misérables?|Victor Hugo|Hugo|n
+e|Which German author wrote the drama Faust?|Johann Wolfgang von Goethe|Goethe|n
+e|Which Colombian author wrote One Hundred Years of Solitude?|Gabriel García Márquez|García Márquez;Garcia Marquez;Gabriel Garcia Marquez;Marquez|n
+e|Which Roman poet wrote the Aeneid?|Virgil|Vergil|n
+e|Which Greek playwright wrote Oedipus Rex?|Sophocles|n
+e|In Greek myth, which hero is the central figure of Homer's Iliad and kills Hector?|Achilles||
+e|Which Norwegian playwright wrote A Doll's House?|Henrik Ibsen|Ibsen|n
+e|Which Russian author wrote The Cherry Orchard?|Anton Chekhov|Chekhov|n
+e|Which Czech author wrote The Metamorphosis?|Franz Kafka|Kafka|n
+e|Into what kind of creature does Gregor Samsa transform in Kafka's story?|insect|bug;giant insect;vermin|
+e|Which French author wrote Madame Bovary?|Gustave Flaubert|Flaubert|n
+e|Which Chilean poet wrote Twenty Love Poems and a Song of Despair?|Pablo Neruda|Neruda|n
+e|Which Indian author wrote the Gitanjali and won the 1913 Nobel Prize in Literature?|Rabindranath Tagore|Tagore|n
+e|Which Japanese author wrote The Tale of Genji?|Murasaki Shikibu|Murasaki|n=Shikibu
+e|Which Greek storyteller is traditionally credited with a collection of fables about animals?|Aesop|n
+e|Which French author wrote The Count of Monte Cristo and The Three Musketeers?|Alexandre Dumas|Dumas|n
+e|Which Danish author wrote "The Little Mermaid" and "The Ugly Duckling"?|Hans Christian Andersen|Andersen|n
+e|Which Italian author wrote the Decameron?|Giovanni Boccaccio|Boccaccio|n
+e|Which French author wrote The Little Prince?|Antoine de Saint-Exupéry|Saint-Exupéry;Saint-Exupery;Antoine de Saint-Exupery|n
+e|What is the name of the Greek hero in Homer's Odyssey who devised the wooden horse trick?|Odysseus|Ulysses|
+e|Which Persian poet wrote the Shahnameh?|Ferdowsi|Firdausi;Firdawsi|n
+e|Which German author wrote All Quiet on the Western Front?|Erich Maria Remarque|Remarque|n
+e|Which Russian novelist wrote Doctor Zhivago?|Boris Pasternak|Pasternak|n
+e|Which Greek playwright wrote Medea?|Euripides|n
+e|Which Roman poet wrote the Metamorphoses?|Ovid|n
+e|Which Egyptian novelist won the 1988 Nobel Prize and wrote the Cairo Trilogy?|Naguib Mahfouz|Mahfouz|n
+e|Which Portuguese poet wrote The Lusiads?|Luís de Camões|Camões;Camoes;Luis de Camoes;Luis Vaz de Camoes|n
+e|Which Greek philosopher wrote the Republic, a dialogue about justice?|Plato|n
+m|Which French playwright wrote Tartuffe and The Misanthrope?|Molière|Moliere|n
+m|Which Russian author wrote Dead Souls and The Overcoat?|Nikolai Gogol|Gogol|n
+m|Which Russian author wrote Fathers and Sons?|Ivan Turgenev|Turgenev|n
+m|Which Russian poet wrote Eugene Onegin?|Alexander Pushkin|Pushkin|n
+m|In Don Quixote, what is the name of the knight's squire?|Sancho Panza|Sancho|part
+m|Which French author wrote In Search of Lost Time?|Marcel Proust|Proust|n
+m|Which French poet wrote The Flowers of Evil?|Charles Baudelaire|Baudelaire|n
+m|Which German author wrote The Magic Mountain and Death in Venice?|Thomas Mann|Mann|n
+m|Which Swedish playwright wrote Miss Julie?|August Strindberg|Strindberg|n
+m|Which Irish playwright wrote Waiting for Godot, though he wrote it in French?|Samuel Beckett|Beckett|n
+m|Which Irish author wrote Ulysses?|James Joyce|Joyce|n
+m|Which French author wrote Candide?|Voltaire|n
+m|Which Greek playwright wrote the comedy Lysistrata?|Aristophanes|n
+m|Which Greek tragedian wrote the Oresteia trilogy?|Aeschylus|n
+m|In Sophocles' play, which daughter of Oedipus defies a king by burying her brother?|Antigone||
+m|Which French author wrote Gargantua and Pantagruel?|François Rabelais|Rabelais|n
+m|Which Italian author wrote The Betrothed, a historical novel set in Lombardy?|Alessandro Manzoni|Manzoni|n
+m|Which Italian author wrote Six Characters in Search of an Author?|Luigi Pirandello|Pirandello|n
+m|Which Mexican poet and essayist won the 1990 Nobel Prize and wrote The Labyrinth of Solitude?|Octavio Paz|Paz|n
+m|Which Peruvian author wrote The Time of the Hero and won the 2010 Nobel Prize?|Mario Vargas Llosa|Vargas Llosa;Llosa|n=Llosa
+m|Which Portuguese author wrote Blindness and won the 1998 Nobel Prize?|José Saramago|Saramago|n
+m|Which Turkish author wrote Snow and My Name Is Red?|Orhan Pamuk|Pamuk|n
+m|Which South African author wrote Disgrace and Waiting for the Barbarians?|J. M. Coetzee|Coetzee;John Maxwell Coetzee|n
+m|Which Nigerian author wrote Death and the King's Horseman and won the 1986 Nobel Prize?|Wole Soyinka|Soyinka|n
+m|Which Japanese author wrote Rashomon and Other Stories?|Ryūnosuke Akutagawa|Akutagawa;Ryunosuke Akutagawa|n
+m|Which Japanese author wrote Snow Country and won the 1968 Nobel Prize?|Yasunari Kawabata|Kawabata|n
+m|Which Japanese author wrote The Temple of the Golden Pavilion?|Yukio Mishima|Mishima|n
+m|Which Chinese author wrote Dream of the Red Chamber?|Cao Xueqin|Cao|n=Xueqin
+m|Which Chinese author wrote The Real Story of Ah Q and "Diary of a Madman"?|Lu Xun|Lu|n=Xun
+m|Which Indian epic includes the Bhagavad Gita?|Mahabharata|The Mahabharata|
+m|Which French author wrote Germinal?|Émile Zola|Zola;Emile Zola|n
+m|Which Austrian author wrote The Man Without Qualities?|Robert Musil|Musil|n
+m|Which German author wrote The Tin Drum?|Günter Grass|Grass;Gunter Grass|n
+m|Which Italian author wrote If on a Winter's Night a Traveler and Invisible Cities?|Italo Calvino|Calvino|n
+m|Which Polish author wrote Quo Vadis and won the 1905 Nobel Prize?|Henryk Sienkiewicz|Sienkiewicz|n
+m|Which Russian author wrote The Master and Margarita?|Mikhail Bulgakov|Bulgakov|n
+m|Which Russian author wrote One Day in the Life of Ivan Denisovich?|Aleksandr Solzhenitsyn|Solzhenitsyn;Alexander Solzhenitsyn|n
+m|Which Russian author wrote the play The Seagull?|Anton Chekhov|Chekhov|n
+m|In Les Misérables, what is the name of the police inspector who relentlessly pursues Jean Valjean?|Javert||
+m|In Crime and Punishment, what is the name of the student who murders a pawnbroker?|Raskolnikov|Rodion Raskolnikov|
+m|In Dante's Inferno, which Roman poet guides Dante through Hell?|Virgil|Vergil|n
+m|In Dante's Divine Comedy, which woman guides Dante through Paradise?|Beatrice||
+h|Which Nigerian-born author wrote The Palm-Wine Drinkard?|Amos Tutuola|Tutuola|n
+h|Which Mexican author wrote Pedro Páramo?|Juan Rulfo|Rulfo|n
+h|Which Argentine author wrote Hopscotch?|Julio Cortázar|Cortázar;Cortazar;Julio Cortazar|n
+h|Which Brazilian author wrote The Posthumous Memoirs of Brás Cubas?|Machado de Assis|Assis;Joaquim Maria Machado de Assis|n=Assis
+h|Which Portuguese poet used heteronyms like Álvaro de Campos?|Fernando Pessoa|Pessoa|n
+h|Which Czech author wrote The Good Soldier Švejk?|Jaroslav Hašek|Hašek;Hasek;Jaroslav Hasek|n
+h|Which Hungarian author wrote Fatelessness and won the 2002 Nobel Prize?|Imre Kertész|Kertész;Kertesz;Imre Kertesz|n
+h|Which Polish author wrote Ferdydurke?|Witold Gombrowicz|Gombrowicz|n
+h|Which Russian poet wrote Requiem about the Stalinist terror?|Anna Akhmatova|Akhmatova|n
+h|Which Greek author wrote Zorba the Greek?|Nikos Kazantzakis|Kazantzakis|n
+h|Which Old Norse collection of poems and prose records myths about Odin and Thor, compiled by Snorri Sturluson?|Prose Edda|Edda;The Prose Edda|
+h|Which French author wrote The Red and the Black?|Stendhal|Henri Beyle|n
+h|Which Norwegian playwright wrote Hedda Gabler?|Henrik Ibsen|Ibsen|n
+h|Which Palestinian poet wrote "Identity Card" and "Write Down: I Am an Arab"?|Mahmoud Darwish|Darwish|n
+h|Which Sanskrit playwright wrote Shakuntala?|Kalidasa|Kālidāsa|n
+h|Which Persian poet wrote the Rubaiyat, later translated by Edward FitzGerald?|Omar Khayyam|Khayyam|n
+h|Which Persian poet wrote the Masnavi?|Rumi|Jalal ad-Din Rumi|n
+h|Which Welsh medieval collection of tales includes the story of Pwyll and Rhiannon?|Mabinogion|The Mabinogion|
+h|Which Finnish national epic was compiled by Elias Lönnrot?|Kalevala|The Kalevala|
+h|Which Mesopotamian epic features a king of Uruk and his friend Enkidu?|Epic of Gilgamesh|Gilgamesh;The Epic of Gilgamesh|
+h|Which Spanish playwright wrote Blood Wedding and The House of Bernarda Alba?|Federico García Lorca|Lorca;Garcia Lorca;Federico Garcia Lorca|n
+h|Which Cuban author wrote Three Trapped Tigers?|Guillermo Cabrera Infante|Cabrera Infante;Infante|n=Infante
+h|Which Senegalese author wrote So Long a Letter?|Mariama Bâ|Mariama Ba;Bâ;Ba|n
+h|Which Kenyan author wrote A Grain of Wheat and Petals of Blood?|Ngũgĩ wa Thiong'o|Ngugi wa Thiong'o;Ngugi|n=Thiong'o
+h|Which Sudanese author wrote Season of Migration to the North?|Tayeb Salih|Salih|n
+h|Which French author wrote Journey to the End of the Night?|Louis-Ferdinand Céline|Céline;Celine|n
+
+e|Which Greek hero is famous for his twelve labors?|Heracles|Hercules|
+e|Which Roman author wrote the satirical novel The Golden Ass?|Apuleius|n
+m|Which Russian author wrote Notes from Underground?|Fyodor Dostoevsky|Dostoevsky;Dostoyevsky|n
+m|Which Spanish author wrote Don Juan Tenorio?|José Zorrilla|Zorrilla;Jose Zorrilla|n
+m|Which German poet wrote the Sorrows of Young Werther?|Johann Wolfgang von Goethe|Goethe|n
+m|Which Russian author wrote The Brothers Karamazov?|Fyodor Dostoevsky|Dostoevsky;Dostoyevsky|n
+e|Which German author wrote Siddhartha and Steppenwolf?|Hermann Hesse|Hesse|n
+e|Which Greek epic poet wrote Theogony and Works and Days?|Hesiod|n
+m|Which Indian author wrote The God of Small Things?|Arundhati Roy|Roy|n
+m|Which Algerian-born French author wrote The Plague?|Albert Camus|Camus|n
+m|Which Italian author wrote The Name of the Rose?|Umberto Eco|Eco|n

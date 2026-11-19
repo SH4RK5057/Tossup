@@ -1,0 +1,182 @@
+# ncal novice | Science | Astronomy
+e|How many planets are in our solar system?|eight|8|m
+e|Which planet has the shortest year, taking only about 88 Earth days to orbit the Sun?|Mercury
+e|Which planet spins backward compared with most others and has a day longer than its year?|Venus
+e|Which planet is so low in density that it would float in water if there were a bathtub big enough?|Saturn
+e|Which planet was discovered in 1846 after its position was predicted using mathematics?|Neptune
+e|Which astronomer discovered Uranus in 1781?|William Herschel|Herschel|n
+m|Which moon of Jupiter is covered in ice and is thought to have a liquid ocean beneath its surface?|Europa
+m|Which small moon of Saturn shoots geysers of water ice into space?|Enceladus
+m|What is the name of Neptune's largest moon?|Triton
+m|What is the name of Pluto's largest moon?|Charon
+e|What is the name of the dwarf planet found in the asteroid belt?|Ceres
+h|What spacecraft, launched in 1977, became the first human-made object to enter interstellar space?|Voyager 1|Voyager
+m|What spacecraft flew past Pluto in 2015?|New Horizons
+m|What is the name of the NASA rover that landed on Mars in 2021 with a small helicopter called Ingenuity?|Perseverance
+e|What American astronomer discovered that the universe is expanding?|Edwin Hubble|Hubble|n
+m|What infrared space telescope, launched in 2021, is named for a NASA administrator?|the James Webb Space Telescope|James Webb;Webb Space Telescope;JWST;James Webb Space Telescope
+e|What is the name of the large orbiting laboratory where astronauts from many countries live and work?|the International Space Station|International Space Station;ISS
+e|Who was the first woman to travel into space, in 1963?|Valentina Tereshkova|Tereshkova|n
+m|Who was the first American woman in space?|Sally Ride|Ride|n
+m|Which Apollo mission had an oxygen tank explode, forcing the crew to return without landing on the Moon?|Apollo 13
+m|What unit of distance is equal to the average distance from Earth to the Sun?|astronomical unit|AU;an astronomical unit
+m|About how many minutes does light from the Sun take to reach Earth?|eight|8;about eight;eight minutes;8 minutes|m
+e|What is the name of the bright star that is nearly aligned with Earth's north pole and is also called the North Star?|Polaris|the North Star;North Star
+e|What is the brightest star in Earth's night sky?|Sirius
+m|What is the name of the red supergiant star that marks the shoulder of Orion?|Betelgeuse
+e|Which constellation contains a famous belt of three stars?|Orion
+m|The Big Dipper is part of which larger constellation, whose name means "Great Bear"?|Ursa Major
+e|Which twelve constellations form the band of sky through which the Sun appears to move over a year?|the zodiac|zodiac
+m|What term describes the day of the year with the most hours of daylight in the Northern Hemisphere?|summer solstice|June solstice;solstice
+e|What term describes a large cloud of gas and dust in space where stars are born?|nebula
+m|What is the name of the stage in which a star like the Sun spends most of its life, fusing hydrogen in its core?|main sequence
+m|What type of star will the Sun become after it uses up the hydrogen in its core?|red giant
+m|What name is given to the model in which the Sun is at the center of the solar system?|heliocentric|heliocentric model
+m|Which ancient Greek astronomer wrote the Almagest and described an Earth-centered universe?|Ptolemy|Claudius Ptolemy|n
+m|Which Danish astronomer made precise naked-eye observations of the planets that Kepler later used?|Tycho Brahe|Brahe|n
+m|Which scientist developed the theory of general relativity?|Albert Einstein|Einstein|n
+h|What faint glow of radiation left over from the early universe is detected in every direction in the sky?|cosmic microwave background|CMB;cosmic background radiation
+h|What invisible substance, making up about a quarter of the universe, is detected only by its gravity?|dark matter
+h|What mysterious force is thought to be causing the expansion of the universe to speed up?|dark energy
+h|What term describes an extremely bright galactic center powered by a supermassive black hole?|quasar|active galactic nucleus
+h|Which British astronomer discovered the first pulsars in 1967?|Jocelyn Bell Burnell|Bell Burnell;Jocelyn Bell|n=Burnell part
+m|What type of tide, with the greatest range, occurs when the Sun, Earth, and Moon are in a line?|spring tide|spring tides
+m|What is the term for the way the Moon always shows the same face to Earth, because its rotation matches its orbit?|synchronous rotation|tidal locking;tidally locked
+m|What is the name of the bowl-shaped features on the Moon caused by meteorite impacts?|craters|lunar craters;crater
+m|What phase of the Moon comes right after the first quarter?|waxing gibbous
+m|What is the name for a huge eruption of charged particles from the Sun's surface?|coronal mass ejection|CME;solar flare
+h|About how long is the cycle in which sunspot numbers rise and fall?|eleven years|11 years;11|m
+h|About how hot is the core of the Sun, in degrees Celsius?|15 million|15 million degrees;15 million degrees Celsius;fifteen million|m
+m|Which comet returns to the inner solar system about every 76 years?|Halley's Comet|Halley;Comet Halley
+m|In which direction does a comet's tail always point relative to the Sun: toward it or away from it?|away from it|away;away from the Sun|ok
+m|What meteor shower, seen every August, appears to come from the constellation Perseus?|Perseids|the Perseids;Perseid meteor shower
+h|Which meteor shower, seen every December, appears to radiate from the constellation Gemini?|Geminids|the Geminids
+m|What dwarf planet in the Kuiper Belt is slightly more massive than Pluto?|Eris
+m|Which planet's reddish color comes from iron oxide, or rust, on its surface?|Mars
+m|What is the name of the enormous canyon system on Mars, about 4,000 kilometers long?|Valles Marineris
+m|What acid makes up the clouds of Venus?|sulfuric acid
+h|What is the term for heat being trapped by a thick atmosphere, which makes Venus so hot?|greenhouse effect
+m|Which planet has the fastest rotation, with a day of about ten hours?|Jupiter
+h|What gas in the atmosphere of Uranus and Neptune absorbs red light and gives them a blue color?|methane
+m|Which planet has the strongest winds in the solar system?|Neptune
+e|What type of telescope uses lenses to collect light?|refracting telescope|refractor
+e|What type of telescope uses a curved mirror to collect light?|reflecting telescope|reflector
+m|What type of telescope detects waves with wavelengths much longer than visible light and often uses a large dish?|radio telescope
+m|What Hawaiian volcano is home to many of the world's major observatories?|Mauna Kea
+h|What is the apparent shift in a nearby star's position when seen from opposite sides of Earth's orbit?|parallax|stellar parallax
+m|What is the name of the supermassive black hole at the center of the Milky Way?|Sagittarius A*|Sagittarius A;Sgr A*
+m|What famous open cluster of stars, also called the Seven Sisters, is in Taurus?|Pleiades|the Pleiades
+m|What nebula in Taurus is the remains of a supernova seen by Chinese astronomers in 1054?|Crab Nebula|the Crab Nebula
+e|What name is given to the rocket that carried Apollo astronauts toward the Moon?|Saturn V|Saturn 5
+m|What was the first space station launched by the United States, in 1973?|Skylab
+m|What Russian space station orbited Earth from 1986 to 2001?|Mir
+e|What word describes a star's color that means it is the hottest: red, yellow, or blue?|blue||ok
+m|What kind of orbit lets a satellite stay above the same spot on Earth's equator?|geostationary orbit|geostationary;geosynchronous
+
+B|e|Answer these questions about the Sun.
+-|e|What is the name for the dark, cooler patches that appear on the Sun's surface?|sunspots|sunspot
+-|m|What is the name of the Sun's visible surface layer?|photosphere|the photosphere
+-|m|What process in the Sun's core fuses hydrogen nuclei into helium?|nuclear fusion|fusion
+-|h|What is the name of the Sun's outer atmosphere, seen as a halo during a total solar eclipse?|corona|the corona
+
+B|e|Answer these questions about the Moon.
+-|e|What is the term for the changing shapes of the Moon as seen from Earth?|phases|phases of the Moon;lunar phases
+-|m|What name is given to the large, dark plains on the Moon formed by ancient lava flows?|maria|mare
+-|m|Which Apollo mission was the first to land humans on the Moon?|Apollo 11
+-|h|What do we call the surface layer of loose dust and rock fragments on the Moon?|regolith
+
+B|e|Answer these questions about the inner planets.
+-|e|Which planet is the third from the Sun?|Earth
+-|e|Which is the smallest planet in the solar system?|Mercury
+-|m|Which planet is the hottest in the solar system?|Venus
+-|h|What term names the four rocky planets closest to the Sun?|terrestrial planets|inner planets;rocky planets
+
+B|m|Answer these questions about Saturn.
+-|e|What feature of Saturn is made of countless pieces of ice and rock?|rings|its rings
+-|m|Which of Saturn's moons has a thick nitrogen atmosphere?|Titan
+-|m|Which Italian astronomer first saw Saturn's strange "ears" in 1610 but did not understand what they were?|Galileo Galilei|Galileo|n
+-|h|What NASA and European mission studied Saturn from orbit from 2004 to 2017?|Cassini|Cassini-Huygens
+
+B|e|Answer these questions about the Apollo program.
+-|e|Which Apollo 11 astronaut was the first to step onto the Moon?|Neil Armstrong|Armstrong|n
+-|m|Which Apollo 11 astronaut stepped onto the Moon second?|Buzz Aldrin|Aldrin|n
+-|m|Which Apollo 11 astronaut stayed in orbit in the command module?|Michael Collins|Collins|n
+-|h|What was the name of the Apollo 11 lunar module?|Eagle|the Eagle
+
+B|m|Answer these questions about the life of stars.
+-|e|What word names the explosion of a massive star at the end of its life?|supernova
+-|m|What dense object is left behind when a massive star collapses but not enough to form a black hole?|neutron star
+-|m|What small, hot, dim remnant is left by a Sun-like star after it sheds its outer layers?|white dwarf
+-|h|What rapidly rotating stellar remnant sends out beams of radio waves that sweep past Earth?|pulsar
+
+B|m|Answer these questions about astronomers.
+-|e|Which Italian scientist used a telescope to discover the four largest moons of Jupiter?|Galileo Galilei|Galileo|n
+-|m|Which Polish astronomer proposed a Sun-centered model of the universe in 1543?|Nicolaus Copernicus|Copernicus|n
+-|m|Which German astronomer discovered that the planets move in elliptical orbits?|Johannes Kepler|Kepler|n
+-|h|Which American astronomer's name was given to the telescope launched in 1990?|Edwin Hubble|Hubble|n
+
+B|e|Answer these questions about the dwarf planets.
+-|e|Which dwarf planet was called the ninth planet until 2006?|Pluto
+-|m|What distant region beyond Neptune is full of icy bodies?|Kuiper Belt|the Kuiper Belt
+-|m|Which group voted in 2006 on the official definition of a planet?|International Astronomical Union|the International Astronomical Union;IAU
+-|h|Which dwarf planet in the scattered disk, discovered in 2005, helped lead to that vote?|Eris
+
+B|m|Answer these questions about gravity and orbits.
+-|e|Which English scientist described the law of universal gravitation?|Isaac Newton|Newton|n
+-|m|What shape are planetary orbits, according to Kepler?|ellipses|ellipse;elliptical
+-|m|What is the name for the point in a planet's orbit when it is closest to the Sun?|perihelion
+-|h|What is the name for the point in a planet's orbit when it is farthest from the Sun?|aphelion
+
+B|e|Answer these questions about Earth's motions.
+-|e|What is the name for Earth's turning once every 24 hours?|rotation
+-|m|What is the name for Earth's yearly trip around the Sun?|revolution|orbit
+-|m|About how many degrees is Earth's axis tilted: 23.5 or 45?|23.5|23.5 degrees;twenty-three and a half|m
+-|h|What term refers to the two days each year when day and night are equal in length?|equinox|equinoxes
+
+B|m|Answer these questions about the gas giants.
+-|e|Which gas giant has a famous storm called the Great Red Spot?|Jupiter
+-|m|Which gas giant is tilted on its side so that it seems to roll around the Sun?|Uranus
+-|m|Which gas giant is the farthest from the Sun?|Neptune
+-|h|What two elements make up most of the atmosphere of Saturn?|hydrogen and helium|helium and hydrogen
+
+B|e|Answer these questions about early spaceflight.
+-|e|What was the name of the first artificial satellite, launched in 1957?|Sputnik|Sputnik 1
+-|m|Which Soviet cosmonaut was the first person in space?|Yuri Gagarin|Gagarin|n
+-|m|Which American astronaut was the first American to orbit Earth?|John Glenn|Glenn|n
+-|h|Which American astronaut became the first American in space in 1961 on a suborbital flight?|Alan Shepard|Shepard|n
+
+B|m|Answer these questions about galaxies.
+-|e|What is the name of the pale band of stars seen across the night sky from Earth?|the Milky Way|Milky Way
+-|m|What supermassive objects lie at the centers of most large galaxies?|black holes|black hole
+-|m|What is the nearest large spiral galaxy to ours?|Andromeda|the Andromeda Galaxy
+-|h|What is the name for the theory that the universe began in a hot, dense state and has been expanding ever since?|Big Bang theory|the Big Bang;Big Bang
+
+B|e|Answer these questions about small bodies in space.
+-|e|What do we call a streak of light made by a small piece of space debris burning in the atmosphere?|meteor|shooting star
+-|m|What do we call a space rock that survives its fall and lands on Earth?|meteorite
+-|m|Which icy body forms a glowing tail as it nears the Sun?|comet
+-|h|What region between Mars and Jupiter holds most asteroids?|the asteroid belt|asteroid belt
+
+B|m|Answer these questions about eclipses.
+-|e|What kind of eclipse occurs when the Moon moves between Earth and the Sun?|solar eclipse|solar
+-|m|What kind of eclipse occurs when Earth's shadow falls on the Moon?|lunar eclipse|lunar
+-|m|What is the darkest part of a shadow called?|umbra
+-|h|What is the lighter outer part of a shadow called?|penumbra
+
+B|m|Answer these questions about Mars.
+-|e|What is the name of Mars's larger moon?|Phobos
+-|m|What is the name of the tallest volcano in the solar system?|Olympus Mons
+-|m|What is the name of the NASA rover that landed in 2012?|Curiosity
+-|h|What is the name of the system of canyons on Mars?|Valles Marineris
+
+B|m|Answer these questions about the constellations.
+-|e|Which constellation contains Sirius, the Dog Star?|Canis Major
+-|m|What constellation contains the northern pole star?|Ursa Minor|Little Dipper
+-|m|Which constellation looks like a scorpion and contains the red star Antares?|Scorpius
+-|h|Which constellation shaped like a W or M has a queen's name?|Cassiopeia
+
+B|e|Answer these questions about telescopes.
+-|e|Which Hawaiian peak, over 4,000 meters tall, is a top site for observatories?|Mauna Kea
+-|m|What kind of telescope collects light with a curved mirror?|reflecting telescope|reflector
+-|m|What space telescope was launched in 1990 and repaired by shuttle astronauts?|Hubble Space Telescope|Hubble
+-|h|What kind of telescope detects waves such as those used by satellite dishes?|radio telescope

@@ -1,0 +1,131 @@
+# ncal varsity | Fine Arts | Spanish 3+
+e|Which Spanish author wrote the novel "Cien años de soledad"?|Gabriel García Márquez|García Márquez;Garcia Marquez;Gabo|n
+e|Which Chilean poet wrote "Veinte poemas de amor y una canción desesperada"?|Pablo Neruda|Neruda|n
+e|Which Mexican artist is famous for her many self-portraits and her husband was the muralist Diego Rivera?|Frida Kahlo|Kahlo|n
+e|What Mexican holiday on November 1 and 2 honors deceased loved ones?|el Día de los Muertos|Día de los Muertos;Day of the Dead|f
+e|Which ancient Incan city is located high in the Andes of Peru?|Machu Picchu|
+e|Which Spanish city is famous for the running of the bulls during the festival of San Fermín?|Pamplona|
+e|What is the Spanish word for "although" in the sentence "Voy al parque ___ hace frío"? Give the word that begins with "a" and means "even though."|aunque|f
+e|What is the Spanish word for "to get" or "to obtain," a verb beginning with "con"?|conseguir|f
+e|What is the Spanish word for "to find," as in finding a lost item?|encontrar|f
+e|What is the Spanish word for "to wait" or "to hope," often used with "que" and the subjunctive?|esperar|f
+e|What is the Spanish word for "neighbor"?|el vecino|vecino;la vecina|f
+e|What is the Spanish word for "job" or "work" as a noun?|el trabajo|trabajo;el empleo;empleo|f
+e|What is the Spanish word for "to return" or "to give back"?|devolver|f
+e|What is the Spanish word for "to forget"?|olvidar|olvidarse|f
+e|What is the Spanish word for "to know" in the sense of being acquainted with a person?|conocer|f
+e|What does the Spanish word "ojalá" express in English?|I hope|hopefully|if only|let's hope|
+e|What does the Spanish phrase "por favor" mean in English?|please|
+e|What does the Spanish word "desde" mean in English?|since|from|
+e|What does the Spanish word "hasta" mean in English?|until|up to|even|
+e|What does the Spanish word "sino" mean in English?|but rather|but|
+e|What does the Spanish word "mientras" mean in English?|while|
+e|What does the Spanish word "cada" mean in English?|each|every|
+e|What does the Spanish word "todavía" mean in English when used with a negative as "todavía no"?|not yet|
+e|What does the Spanish word "ahora" mean in English?|now|
+e|What does the Spanish word "enojado" mean in English?|angry|mad|
+e|What does the Spanish word "cansado" mean in English?|tired|
+e|What does the Spanish word "ocupado" mean in English?|busy|
+e|What does the Spanish word "aburrido" mean in English?|bored|boring|
+e|What does the Spanish word "lástima" mean in the phrase "es una lástima"?|pity|shame|
+e|What does the Spanish word "mudarse" mean in English?|to move|move|to move away|
+e|What does the Spanish word "echar de menos" mean in English?|to miss|miss|
+e|What is the Spanish word for "wedding"?|la boda|boda|el casamiento|f
+e|What is the Spanish word for "customs" at an airport?|la aduana|aduana|f
+e|What is the Spanish word for "environment"?|el medio ambiente|medio ambiente|el ambiente|f
+m|What is the yo form of the verb "hablar" in the present subjunctive?|hable|f
+m|What is the yo form of the verb "comer" in the present subjunctive?|coma|f
+m|What is the yo form of the verb "ir" in the present subjunctive?|vaya|f
+m|What is the yo form of the verb "ser" in the present subjunctive?|sea|f
+m|What is the yo form of the verb "estar" in the present subjunctive?|esté|f
+m|What is the yo form of the verb "saber" in the present subjunctive?|sepa|f
+m|What is the yo form of the verb "dar" in the present subjunctive?|dé|f
+m|What is the yo form of the verb "tener" in the present subjunctive?|tenga|f
+m|What is the yo form of the verb "hacer" in the present subjunctive?|haga|f
+m|What is the yo form of the verb "poner" in the present subjunctive?|ponga|f
+m|What is the yo form of the verb "salir" in the present subjunctive?|salga|f
+m|What is the yo form of the verb "venir" in the present subjunctive?|venga|f
+m|What is the yo form of the verb "decir" in the present subjunctive?|diga|f
+m|What is the yo form of the verb "buscar" in the present subjunctive, with the spelling change?|busque|f
+m|What is the yo form of the verb "llegar" in the present subjunctive, with the spelling change?|llegue|f
+m|What is the yo form of the verb "empezar" in the present subjunctive, with the spelling change?|empiece|f
+m|What is the yo form of the verb "hablar" in the future tense?|hablaré|f
+m|What is the yo form of the verb "comer" in the conditional tense?|comería|f
+m|What is the yo form of the verb "tener" in the future tense?|tendré|f
+m|What is the yo form of the verb "poder" in the future tense?|podré|f
+m|What is the yo form of the verb "hacer" in the future tense?|haré|f
+m|What is the yo form of the verb "decir" in the future tense?|diré|f
+m|What is the yo form of the verb "querer" in the conditional tense?|querría|f
+m|What is the yo form of the verb "salir" in the conditional tense?|saldría|f
+m|What is the yo form of the verb "venir" in the future tense?|vendré|f
+m|What is the yo form of the verb "poner" in the future tense?|pondré|f
+m|What is the yo form of the verb "saber" in the conditional tense?|sabría|f
+m|What is the singular formal command form of the verb "tener"?|tenga|f
+m|What is the tú negative command form of "hablar"?|no hables|hables|f
+m|What is the tú negative command form of "comer"?|no comas|comas|f
+m|What is the nosotros command form of "bailar," meaning "let's dance"?|bailemos|f
+m|What is the form of the verb "haber" used for "he" in the present perfect, as in "he comido"?|he|f
+m|What is the past participle of "abrir"?|abierto|f
+m|What is the past participle of "decir"?|dicho|f
+m|What is the past participle of "hacer"?|hecho|f
+m|What is the past participle of "poner"?|puesto|f
+m|What is the past participle of "volver"?|vuelto|f
+m|What is the past participle of "morir"?|muerto|f
+m|What is the past participle of "cubrir"?|cubierto|f
+m|What is the past participle of "resolver"?|resuelto|f
+m|What Spanish preposition would you use in "Es un regalo ___ ti" meaning "for you" as the recipient?|para|f
+m|What Spanish preposition would you use in "Gracias ___ todo" meaning "thanks for everything"?|por|f
+m|What Spanish verb means "to take care of oneself"?|cuidarse|f
+m|What is the Spanish word for "although" or "even though" beginning with "a" and ending in "-que"? Do not answer "aunque."|a pesar de que|f
+m|What is the Spanish word for "unless," used with the subjunctive?|a menos que|f
+m|What is the Spanish word for "so that," used with the subjunctive?|para que|f
+m|What is the Spanish word for "before," used in the conjunction "___ que" with the subjunctive?|antes de|antes|f
+m|What is the Spanish word for "until," used in the conjunction "___ que" with the subjunctive?|hasta|f
+m|What is the Spanish word for "provided that," used with the subjunctive?|con tal de que|con tal que|f
+m|What is the Spanish relative pronoun meaning "whose"?|cuyo|f
+m|What is the Spanish relative pronoun meaning "which" or "that" used most commonly?|que|f
+m|What is the Spanish word for "lawsuit" or "trial"?|el juicio|juicio|f
+m|What is the Spanish word for "government"?|el gobierno|gobierno|f
+m|What is the Spanish word for "election"?|la elección|elección|las elecciones|f
+m|What is the Spanish word for "to vote"?|votar|f
+m|What is the Spanish word for "law" as in a rule passed by a legislature?|la ley|ley|f
+m|What is the Spanish word for "freedom"?|la libertad|libertad|f
+m|What is the Spanish word for "to fight" or "to struggle"?|luchar|f
+m|What is the Spanish word for "poverty"?|la pobreza|pobreza|f
+m|What is the Spanish word for "wealth" or "riches"?|la riqueza|riqueza|f
+m|What is the Spanish word for "to grow" in the sense of "to grow up"?|crecer|f
+m|What is the Spanish word for "to improve"?|mejorar|f
+m|What is the Spanish word for "to avoid"?|evitar|f
+m|What is the Spanish word for "to achieve" or "to manage to"?|lograr|f
+m|What is the Spanish word for "to pollute"?|contaminar|f
+m|What is the Spanish word for "recycling"?|el reciclaje|reciclaje|f
+m|What is the Spanish word for "to be worth it" or "to be worthwhile"?|valer la pena|f
+m|What is the Spanish word for "to take place"?|tener lugar|f
+m|What is the Spanish word for "to get along with"?|llevarse bien con|llevarse bien|f
+h|Which Spanish author wrote the novel "Don Quijote de la Mancha"?|Miguel de Cervantes|Cervantes|Cervantes Saavedra|n
+h|Which Argentine author wrote the short story collection "Ficciones"?|Jorge Luis Borges|Borges|n
+h|Which Spanish playwright and poet wrote "La casa de Bernarda Alba"?|Federico García Lorca|García Lorca;Lorca|n
+h|Which Colombian author wrote "Crónica de una muerte anunciada"?|Gabriel García Márquez|García Márquez;Garcia Marquez;Gabo|n
+h|Which Mexican author wrote the essay collection "El laberinto de la soledad" and won the Nobel Prize in Literature in 1990?|Octavio Paz|Paz|n
+h|Which Spanish painter created the large antiwar mural "Guernica" in 1937?|Pablo Picasso|Picasso|n
+h|Which Spanish painter is known for the surrealist work "La persistencia de la memoria," with melting clocks?|Salvador Dalí|Dalí;Dali|n
+h|Which Spanish painter created "Las meninas" in the seventeenth century?|Diego Velázquez|Velázquez;Velazquez|n
+h|Which Spanish architect designed the Sagrada Família in Barcelona?|Antoni Gaudí|Gaudí;Gaudi|n
+h|Which Mexican muralist painted "Man at the Crossroads" and murals at the National Palace in Mexico City?|Diego Rivera|Rivera|n
+h|Which Aztec capital stood where Mexico City stands today?|Tenochtitlán|Tenochtitlan|f
+h|Which Spanish conquistador conquered the Aztec Empire?|Hernán Cortés|Cortés;Cortes|n
+h|Which Spanish conquistador conquered the Inca Empire?|Francisco Pizarro|Pizarro|n
+h|What is the imperfect subjunctive yo form of "hablar" ending in "-ara"?|hablara|f
+h|What is the imperfect subjunctive yo form of "ser" or "ir" ending in "-ra"?|fuera|f
+h|What is the imperfect subjunctive yo form of "tener" ending in "-ra"?|tuviera|f
+h|What is the pluperfect form of "hablar" for yo, using "había"?|había hablado|f
+h|What is the future perfect form of "ver" for yo, using "habré"?|habré visto|f
+h|What is the conditional perfect form of "hacer" for yo, using "habría"?|habría hecho|f
+h|What is the tú affirmative command of "decir"?|di|f
+h|What is the tú affirmative command of "venir"?|ven|f
+h|What is the tú affirmative command of "hacer"?|haz|f
+h|What is the tú affirmative command of "tener"?|ten|f
+h|What is the ustedes command of "ir"?|vayan|f
+h|What is the Spanish word for "mine," a possessive pronoun?|mío|el mío|f
+h|What is the Spanish word for "oven"?|el horno|horno|f
+h|What is the Spanish word for "hammer"?|el martillo|martillo|f

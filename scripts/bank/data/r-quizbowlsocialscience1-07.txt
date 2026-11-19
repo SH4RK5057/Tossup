@@ -1,0 +1,60 @@
+# quizbowl varsity | Social Science | Linguistics
+h|This sociolinguist's study of Martha's Vineyard showed that speakers centralized the diphthongs in "right" and "house" to signal local identity. He also did a famous survey of the pronunciation of "r" in New York department stores. For 10 points, name this founder of variationist sociolinguistics, first name William.|William Labov|Labov|n
+m|This Indo-European sound law, named for a Danish linguist, explains apparent exceptions to Grimm's law by showing that voiceless fricatives became voiced when the preceding syllable was unstressed. For 10 points, name this law named for Karl.|Verner's law|Verner
+h|This philosopher's How to Do Things with Words distinguished locutionary, illocutionary and perlocutionary acts, as when saying "I promise" performs a promise. For 10 points, name this Oxford philosopher whose speech act theory was developed by John Searle, first name J. L.|J. L. Austin|John Langshaw Austin|Austin|n
+h|This British philosopher's 1975 lecture "Logic and Conversation" proposed that speakers follow a cooperative principle with maxims of quantity, quality, relation and manner. For 10 points, name this author of Studies in the Way of Words, first name Paul.|Paul Grice|Grice|n
+e|This major change in English pronunciation, between about 1400 and 1700, raised long vowels so that "mouse" and "house" shifted from a sound like "moose" to a diphthong. Chaucer's English predates it. For 10 points, name this shift.|Great Vowel Shift|
+h|This American linguist wrote the 1933 book Language, which established the structuralist approach with its emphasis on distribution and rejection of mentalism. He was influenced by behaviorism. For 10 points, name this man, first name Leonard.|Leonard Bloomfield|Bloomfield|n
+h|Joseph Greenberg classified African languages into four families and compiled cross-linguistic generalizations about language, such as "if a language has verb-subject-object order, it has prepositions." For 10 points, name these patterns first described in 1963.|linguistic universals|language universals;Greenberg's universals;universals
+m|This American linguist's 1921 book Language and his essays on Navajo and Southwest languages made him a founder of linguistic anthropology. He was a student of Boas who taught at Yale. For 10 points, name this man, first name Edward.|Edward Sapir|Sapir|n
+e|This MIT linguist's 1959 review of B. F. Skinner's Verbal Behavior argued that behaviorism could not explain how children produce novel sentences. The argument from limited input is called the "poverty of the stimulus." For 10 points, name this author of Aspects of the Theory of Syntax.|Noam Chomsky|Chomsky|n
+h|This Harvard psychologist wrote The Language Instinct and Words and Rules. He argued that language is an evolved adaptation, and he studied the English past tense. For 10 points, name this author, first name Steven.|Steven Pinker|Pinker|n
+e|This sign language, used by many deaf people in the United States and Canada, has its own grammar distinct from English. William Stokoe's 1960 work showed it was a true language. For 10 points, name this language, abbreviated ASL.|American Sign Language|ASL|ok
+h|In the 1980s, deaf children brought together in new schools in this Central American country spontaneously created a new sign language with its own grammar. For 10 points, name this country, whose capital is Managua.|Nicaragua|
+m|This Amazonian language, spoken in Brazil by a group on the Maici River, was claimed by Daniel Everett to lack recursion, number words and color terms. For 10 points, name this language.|Piraha|Pirahã
+h|Brent Berlin and Paul Kay's 1969 study of color terms found that languages add basic color words in a predictable order, beginning with terms for black and white, then adding a color associated with blood and fire. For 10 points, name this color, the third term added in the sequence.|red|
+m|George Lakoff and Mark Johnson's 1980 book argues that thought is structured by conceptual mappings such as "argument is war." For 10 points, name this book, whose title is Metaphors We Live By.|Metaphors We Live By|ok
+h|This Indian grammarian of about the fourth century BCE wrote the Ashtadhyayi, a concise set of nearly four thousand rules describing Sanskrit. It influenced modern linguistics. For 10 points, name this author of a Sanskrit grammar.|Panini|Pāṇini
+m|This Danish linguist's 1818 Investigation into the Origin of Old Norse proposed correspondences among Germanic, Greek and Latin and laid foundations for Grimm's law. For 10 points, name this man, first name Rasmus.|Rasmus Rask|Rask|n
+h|In 1915, this Czech scholar deciphered Hittite and showed it was an Indo-European language. He was an orientalist at Charles University in Prague, first name Bedrich. For 10 points, name this man, whose last name is Hrozny.|Bedrich Hrozny|Hrozny|n
+e|This ancient Anatolian language, written in cuneiform, was the earliest attested Indo-European language and belonged to an empire with its capital at Hattusa. For 10 points, name this language of the Hittites.|Hittite|
+m|Johannes Schmidt's 1872 wave model challenged the family tree model of language relationships proposed by this German linguist, who even wrote a fable in reconstructed Proto-Indo-European. For 10 points, name this man, first name August.|August Schleicher|Schleicher|n
+h|This kind of language, such as Basque, Georgian and Tibetan, marks the subject of an intransitive verb the same way as the object of a transitive verb. For 10 points, name this alignment type, named for a case.|ergative|ergative-absolutive;ergative language
+m|Inuktitut and Mohawk are examples of this type of language, in which a single word can express a whole sentence by combining many morphemes, including incorporated nouns. For 10 points, name this morphological type, with a Greek prefix meaning "many."|polysynthetic|polysynthetic language
+e|This effect, discovered by Harry McGurk and John MacDonald in 1976, occurs when a video of lips making one syllable is paired with a different sound, causing listeners to hear a third syllable. For 10 points, name this auditory-visual illusion.|McGurk effect|McGurk
+h|In this kind of sentence, such as "The horse raced past the barn fell," a reader is led down a wrong path by an initial ambiguous parse. For 10 points, name this kind of sentence, named for a trip through a yard.|garden path sentence|garden-path sentence;garden path;garden-path
+m|This law, named for a Harvard linguist, states that the frequency of a word is inversely proportional to its rank in a frequency table, so the second most common word appears about half as often as the first. For 10 points, name this law, first name George Kingsley.|Zipf's law|Zipf
+e|This Creole language of the Sea Islands off South Carolina and Georgia retains African features in vocabulary and grammar. For 10 points, name this language of the Lowcountry, spoken by descendants of enslaved people.|Gullah|Geechee;Gullah Geechee
+e|This English-based creole is an official language of Papua New Guinea and has words such as "haus" and "pikinini." For 10 points, name this language, whose name roughly means "talk of the people."|Tok Pisin|
+h|The linguist Roman Jakobson, a founder of the Prague School, developed a model of communication with six functions, including the emotive and poetic. His Prague colleague Nikolai Trubetzkoy wrote Principles of Phonology. For 10 points, name this study of sound systems, which the Prague School approached through distinctive oppositions.|phonology|ok
+e|This type of figure of speech compares two things using "like" or "as," as in "busy as a bee" or "cold as ice." Linguists and teachers of literature contrast it with metaphor, which states that one thing is another. Linguists contrast it with metaphor. For 10 points, name this figure of speech.|simile|
+m|Slips of the tongue in which sounds are swapped, such as saying "a blushing crow" for "a crushing blow," are named for this Oxford clergyman, William Archibald. For 10 points, name this kind of error.|spoonerism|spoonerisms
+m|This 1066 event began with William of Normandy's victory at Hastings and led to thousands of French loanwords in English, such as "beef" and "judge." For 10 points, name this conquest of England.|Norman Conquest|Norman invasion
+B|m|Answer these questions about sociolinguistics and variation.
+-|e|What term names a variety of a language tied to a region or social group?|dialect|
+-|m|Which sociolinguist studied Martha's Vineyard and New York department stores?|William Labov|Labov|n
+-|h|What creole of South Carolina and Georgia Sea Islands retains African features?|Gullah|Geechee
+B|m|Answer these questions about the philosophy of language.
+-|e|Which Oxford philosopher wrote How to Do Things with Words?|J. L. Austin|Austin|n
+-|m|Which philosopher proposed the cooperative principle and conversational maxims?|Paul Grice|Grice|n
+-|h|Which American philosopher developed speech act theory in a 1969 book?|John Searle|Searle|n
+B|m|Answer these questions about language acquisition and the mind.
+-|e|Which MIT linguist argued that language is innate?|Noam Chomsky|Chomsky|n
+-|m|Which Harvard psychologist wrote The Language Instinct?|Steven Pinker|Pinker|n
+-|h|Which Central American country saw a new sign language emerge among deaf schoolchildren?|Nicaragua|
+B|m|Answer these questions about reconstructing Indo-European.
+-|e|Which British judge in Calcutta noted similarities among Sanskrit, Greek and Latin in 1786?|William Jones|Jones|n
+-|m|Which ancient Anatolian language did Bedrich Hrozny identify as Indo-European?|Hittite|
+-|h|Which German linguist wrote a fable in reconstructed Proto-Indo-European?|August Schleicher|Schleicher|n
+B|m|Answer these questions about English language history.
+-|e|Which 1066 invasion added thousands of French words to English?|Norman Conquest|Norman invasion
+-|m|Which pronunciation change, 1400 to 1700, affected English long vowels?|Great Vowel Shift|
+-|h|Which Old English epic poem features the monster Grendel?|Beowulf|
+B|m|Answer these questions about language types.
+-|e|What term names a language type that builds words from many affixes with one meaning each, like Turkish?|agglutinative|
+-|m|What term names a type of language like Inuktitut in which a word may be a whole sentence?|polysynthetic|
+-|h|What alignment type, found in Basque, treats intransitive subjects like transitive objects?|ergative|ergative-absolutive
+B|m|Answer these questions about structural linguistics.
+-|e|Which Russian-born Prague School linguist proposed six functions of communication?|Roman Jakobson|Jakobson|n
+-|m|Which American linguist wrote the 1933 book Language and led structuralism?|Leonard Bloomfield|Bloomfield|n
+-|h|Which Prague School scholar wrote Principles of Phonology?|Nikolai Trubetzkoy|Trubetzkoy|n

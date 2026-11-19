@@ -1,0 +1,60 @@
+# quizbowl jv | Geography | American Geography
+m|This peak in the Sierra Nevada is the highest in the contiguous United States, at over fourteen thousand feet. It lies on the border of Inyo and Tulare counties in California. The town of Lone Pine sits at its eastern base. For 10 points, name this mountain.|Mount Whitney|Whitney
+e|This deep alpine lake on the California-Nevada border is known for its clear blue water. It lies in a basin of the Sierra Nevada and has ski resorts such as Heavenly nearby. Emerald Bay is on its southwestern shore. For 10 points, name this lake.|Lake Tahoe|Tahoe
+m|This Kentucky national park protects the longest known cave system in the world. Its passages have been explored for more than four hundred miles. Visitors tour its chambers such as the Rotunda. For 10 points, name this cave.|Mammoth Cave|Mammoth Cave National Park
+m|This New Mexico national park in the Guadalupe Mountains has a huge chamber called the Big Room. Millions of bats emerge from its entrance at dusk. It is named for a nearby city. For 10 points, name these limestone caves.|Carlsbad Caverns|Carlsbad Caverns National Park
+m|Clingmans Dome is the highest point in this mountain range on the Tennessee-North Carolina border. The Cades Cove valley lies within it. Blue mist often hangs over its slopes. For 10 points, name this part of the Appalachians whose national park takes its name.|Great Smoky Mountains|Smoky Mountains;Great Smokies;Smokies
+m|John Muir called this range the "Range of Light." It stretches along the eastern edge of California and includes Yosemite and Sequoia national parks. Its eastern face rises steeply above the Owens Valley. For 10 points, name this mountain range.|Sierra Nevada|The Sierra Nevada;Sierras
+m|This volcanic mountain range runs from northern California through Oregon and Washington. It includes Mount Rainier, Mount Hood, and Mount Shasta. It is part of the Pacific Ring of Fire. For 10 points, name this range of the Pacific Northwest.|Cascade Range|Cascades;Cascade Mountains
+m|This river of the northwestern United States flows through Idaho's Hells Canyon and past Lewiston. It begins in Wyoming near Jackson Hole and joins the Columbia River in Washington. Shoshone Falls is on it. For 10 points, name this river.|Snake River|Snake
+e|This river flows south from the Adirondacks past Albany to New York Harbor. The Palisades and West Point lie along it. It is named for an English explorer who sailed on it in 1609. For 10 points, name this river.|Hudson River|Hudson
+m|This waterway opened in 1825 and connected Albany to Buffalo. It was nicknamed "Clinton's Ditch" for the governor who championed it. It made New York City the nation's leading port. For 10 points, name this man-made channel linking the Hudson River to Lake Erie.|Erie Canal|The Erie Canal
+e|Brooklyn and Queens are on this island, which stretches east from New York City. It includes the Hamptons and Montauk Point on its eastern end. Fire Island lies off its south shore. For 10 points, name this large island of New York State.|Long Island
+h|This chain of barrier islands off North Carolina includes Kitty Hawk and Roanoke Island. The lost colony of Roanoke was here, and the Wright brothers flew nearby. Hurricanes frequently erode its narrow sands. For 10 points, name these islands on the Atlantic coast.|Outer Banks|The Outer Banks
+m|This range in South Dakota and Wyoming is sacred to the Lakota. Gold was discovered there in 1874, leading to the town of Deadwood. Crazy Horse Memorial is carved into one of its mountains. For 10 points, name these hills.|Black Hills|The Black Hills
+m|Eroded buttes and pinnacles with colorful strata mark this national park in South Dakota. Its name was given by the Lakota. Bighorn sheep and prairie dogs live on its grasslands. For 10 points, name this dry landscape.|Badlands|Badlands National Park;the Badlands
+h|This highland region in Missouri, Arkansas, and Oklahoma is a forested plateau, not a true mountain range. Branson and a large reservoir on the Osage River are in it. Its caves and springs are typical of karst terrain. For 10 points, name this region of the central United States.|Ozarks|Ozark Mountains;Ozark Plateau;The Ozarks
+h|This large shallow lake in south-central Florida drains into the Everglades. A dike built after hurricanes in the 1920s surrounds it. Its name comes from a Seminole word for "big water." For 10 points, name this lake.|Lake Okeechobee|Okeechobee
+m|This river rises in the San Juan Mountains of Colorado and flows through Albuquerque and El Paso. It forms part of the border between Texas and Mexico. It reaches the Gulf of Mexico near Brownsville. For 10 points, name this river.|Rio Grande|The Rio Grande
+h|Sandstone buttes such as the Mittens rise from the desert floor in this Navajo Tribal Park on the Utah-Arizona border. Many Western films by John Ford were shot there. For 10 points, name this red-rock landscape.|Monument Valley
+m|This Wyoming rock formation, a column of igneous rock, was declared the first national monument in 1906. Its sides are fluted columns. It was featured in the film Close Encounters of the Third Kind. For 10 points, name this tower.|Devils Tower|Devil's Tower
+h|This Oregon lake fills the caldera of Mount Mazama, which erupted about 7,700 years ago. Wizard Island rises from it. It is the deepest lake in the United States. For 10 points, name this national park lake.|Crater Lake|Crater Lake National Park
+m|El Capitan and Half Dome rise above this California valley. Ansel Adams photographed its waterfalls, and John Muir campaigned to protect it. Glaciers carved its granite walls. For 10 points, name this national park in the Sierra Nevada.|Yosemite National Park|Yosemite;Yosemite Valley
+h|This chain of volcanic islands stretches west from the Alaska Peninsula toward Russia. Dutch Harbor is a major fishing port there. Japan invaded Attu and Kiska in World War II. For 10 points, name this archipelago.|Aleutian Islands|Aleutians;Aleutian Island chain
+m|This fault runs through California for hundreds of miles, where the Pacific Plate slides past the North American Plate. Slippage on it caused the 1906 earthquake in San Francisco. For 10 points, name this transform fault.|San Andreas Fault|San Andreas
+h|This large region of the western United States has no outlet to the sea, so its rivers drain into salt flats and lakes. It includes most of Nevada and part of Utah. Bristlecone pines grow in its mountains. For 10 points, name this high desert.|Great Basin|The Great Basin
+m|This desert covers much of southern Arizona and northwestern Mexico. The tall saguaro cactus grows there, and it has two rainy seasons each year. Phoenix and Tucson are in it. For 10 points, name this desert.|Sonoran Desert|Sonoran
+h|This line in the Rocky Mountains separates rivers that flow toward the Atlantic and Gulf from those that flow toward the Pacific. It follows peaks from New Mexico to Montana. For 10 points, name this feature, whose Triple Divide Peak is in Glacier National Park.|Continental Divide|The Continental Divide;Great Divide
+m|This point is the only place in the United States where four states meet. They are Utah, Colorado, New Mexico, and Arizona. A monument marks the spot on Navajo land. For 10 points, name this location.|Four Corners|Four Corners Monument
+h|Seneca and Cayuga are among these long narrow lakes in central New York, carved by glaciers. Ithaca sits at the south end of one. The region is known for wineries. For 10 points, name these lakes.|Finger Lakes|The Finger Lakes
+e|This capital of Colorado is called the Mile High City because its elevation is about 5,280 feet. It lies where the Great Plains meet the Rocky Mountains. Coors Field is there. For 10 points, name this city.|Denver
+e|The Space Needle, built for the 1962 World's Fair, rises over this city in Washington State. It lies between Puget Sound and Lake Washington. Pike Place Market is there. For 10 points, name this city.|Seattle
+h|This lake north of New Orleans is crossed by a very long causeway. It is brackish and connects to the Gulf of Mexico through passes. Its name honors a French minister. For 10 points, name this Louisiana lake.|Lake Pontchartrain|Pontchartrain
+B|m|Answer these questions about national parks.
+-|e|Which Montana national park on the Canadian border has the scenic Going-to-the-Sun Road?|Glacier National Park|Glacier
+-|m|Which Utah park, with its Narrows and Angels Landing, takes a name from a biblical word for sanctuary?|Zion National Park|Zion
+-|h|Which Maine national park on Mount Desert Island includes Cadillac Mountain?|Acadia National Park|Acadia
+B|m|Answer these questions about state capitals.
+-|e|Which city is the capital of Oregon?|Salem
+-|m|Which city is the capital of Montana?|Helena
+-|h|Which city is the capital of Washington State, located at the southern end of Puget Sound?|Olympia
+B|m|Answer these questions about eastern rivers.
+-|e|Which river flows through Washington, D.C., and forms the border of Maryland and Virginia?|Potomac River|Potomac
+-|m|Which river, with Philadelphia on its banks, separates Pennsylvania from New Jersey?|Delaware River|Delaware
+-|h|Which river flows through Knoxville and Chattanooga and joins the Ohio River at Paducah, Kentucky?|Tennessee River|Tennessee
+B|e|Answer these questions about islands and coasts.
+-|e|Which New York borough is an island with Central Park?|Manhattan
+-|m|Which Massachusetts island south of Cape Cod is known for summer vacations and "Jaws"?|Martha's Vineyard
+-|h|Which Gulf Coast city in Texas is home to the Johnson Space Center?|Houston
+B|m|Answer these questions about the Midwest.
+-|e|Which Midwestern state has Des Moines as its capital?|Iowa
+-|m|Which Great Lakes state has Lansing as its capital and has two peninsulas?|Michigan
+-|h|Which state has the capital Pierre and shares the Black Hills with Wyoming?|South Dakota
+B|h|Answer these questions about mountains.
+-|e|Which Colorado peak near Colorado Springs inspired the song "America the Beautiful"?|Pikes Peak
+-|m|Which New Hampshire peak is the tallest in the northeastern United States and known for terrible weather?|Mount Washington
+-|h|Which Washington State volcano, the tallest in the Cascades, is a major glacier-covered peak near Tacoma?|Mount Rainier|Rainier
+B|m|Answer these questions about southern states and cities.
+-|e|Which Florida city on the Gulf coast, home of Busch Gardens, lies across the bay from Saint Petersburg?|Tampa
+-|m|Which South Carolina port city, is the harbor where the Civil War began at Fort Sumter?|Charleston
+-|h|Which Mississippi city is the state capital and sits on the Pearl River?|Jackson

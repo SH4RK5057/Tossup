@@ -1,0 +1,104 @@
+# ncal varsity | Fine Arts | French 3+
+e|Which city on the Seine, nicknamed the City of Light, is the capital of France?|Paris|
+e|Which river runs beneath the Pont Alexandre III in Paris?|the Seine|Seine;Seine River
+e|Which iron tower, finished in 1889, is the best-known landmark of Paris?|the Eiffel Tower|Eiffel Tower;La Tour Eiffel
+e|What English phrase does the French word "merci" mean?|thank you|thanks
+e|What is the French word for "apple"?|la pomme|pomme|f
+e|Which French holiday, celebrated on July 14, marks the storming of a royal prison in 1789?|Bastille Day|la Fête nationale;Fête nationale;le quatorze juillet
+e|What French greeting means "hello" or "good day"?|bonjour|f
+e|What French phrase means "goodbye"?|au revoir|f
+e|What is the French word for "cat"?|le chat|chat|f
+e|Which crescent-shaped buttery pastry is a French breakfast favorite?|croissant|le croissant
+e|Which long, thin loaf of French bread is traditionally eaten with every meal?|baguette|la baguette
+e|Which palace outside Paris was built by Louis XIV and has a famous Hall of Mirrors?|Versailles|Palace of Versailles|le château de Versailles
+e|In which Parisian museum can the "Mona Lisa" be seen?|the Louvre|Louvre;Musée du Louvre
+e|Which French military leader crowned himself emperor in 1804?|Napoleon Bonaparte|Napoleon|n
+e|Which teenage French heroine, burned at the stake in 1431, led armies against the English?|Joan of Arc|Jeanne d'Arc
+e|Which French author wrote "The Hunchback of Notre-Dame"?|Victor Hugo|Hugo|n
+e|Which French author and pilot wrote "The Little Prince"?|Antoine de Saint-Exupéry|Saint-Exupéry;Saint-Exupery;Antoine de Saint-Exupery|n
+e|Which European country lies directly south of France across the Pyrenees?|Spain|
+e|Which famous annual bicycle race ends on the Champs-Élysées in Paris?|Tour de France|the Tour de France
+e|Which resort city on the French Riviera hosts a famous annual film festival?|Cannes|
+e|What are the three colors of the French flag?|blue, white, and red|bleu, blanc et rouge;red, white, and blue;le tricolore
+e|What is the French word for "school"?|l'école|école;ecole|f
+e|What English phrase does the French "merci beaucoup" mean?|thank you very much|thanks a lot;many thanks
+e|What is the French word for "book"?|le livre|livre|f
+e|Which Canadian province has French as its only official language?|Quebec|Québec
+e|Which mountain on the French and Italian border is the tallest peak in the Alps?|Mont Blanc|
+e|Which body of water separates France from England?|the English Channel|English Channel;La Manche
+e|What English word does the French "s'il vous plaît" mean?|please|
+e|What is the French word for "dog"?|le chien|chien|f
+e|Which French writer wrote "The Three Musketeers"?|Alexandre Dumas|Dumas|n
+e|Which French playwright wrote the comedy "Tartuffe"?|Molière|Moliere|n
+e|Which French king, known as the Sun King, ruled for 72 years?|Louis XIV|Louis the Fourteenth;Louis 14|n=XIV
+e|What is the French word for "house"?|la maison|maison|f
+e|What is the French word for "water"?|l'eau|eau|f
+e|What is the French word for "bread"?|le pain|pain|f
+e|What English word does the French "bonsoir" mean?|good evening|
+m|Which French philosopher wrote "I think, therefore I am"?|René Descartes|Descartes;Rene Descartes|n
+m|Which Enlightenment writer wrote the satirical novel "Candide"?|Voltaire|
+m|Which French author of "The Stranger" and "The Plague" won the Nobel Prize in Literature in 1957?|Albert Camus|Camus|n
+m|Which French novelist wrote "Madame Bovary"?|Gustave Flaubert|Flaubert|n
+m|Which French author wrote the seven-volume "In Search of Lost Time"?|Marcel Proust|Proust|n
+m|Which French poet wrote "Les Fleurs du mal"?|Charles Baudelaire|Baudelaire|n
+m|Which French novelist wrote "J'accuse" in defense of Alfred Dreyfus?|Émile Zola|Zola;Emile Zola|n
+m|Which French author wrote "Twenty Thousand Leagues Under the Sea" and "Around the World in Eighty Days"?|Jules Verne|Verne|n
+m|Which French feminist wrote "The Second Sex"?|Simone de Beauvoir|Beauvoir|n
+m|Which French king was beheaded by guillotine in 1793?|Louis XVI|Louis the Sixteenth;Louis 16|n=XVI
+m|Which French royal prison was stormed on July 14, 1789?|the Bastille|Bastille
+m|Which island in the Mediterranean was Napoleon's first place of exile?|Elba|
+m|Which queen of France is falsely said to have said "Let them eat cake"?|Marie Antoinette|Antoinette|n
+m|Which treaty signed in the Hall of Mirrors in 1919 formally ended World War I with Germany?|Treaty of Versailles|the Treaty of Versailles
+m|Which French general led the Free French forces during World War II?|Charles de Gaulle|de Gaulle|n
+m|Which French wine region northeast of Paris gives its name to a sparkling wine?|Champagne|La Champagne|f
+m|Which French region is home to the abbey of Mont-Saint-Michel and the D-Day beaches?|Normandy|Normandie|f
+m|Which river, the longest in France, flows past many Renaissance châteaux?|the Loire|Loire|
+m|Which city in the Alsace region lies on the Rhine and is home to the European Parliament?|Strasbourg|
+m|What is the French name for the Mediterranean coast of France, meaning "Blue Coast"?|la Côte d'Azur|Côte d'Azur;Cote d'Azur;French Riviera|f
+m|Which Mediterranean island, Napoleon's birthplace, is a French region?|Corsica|Corse
+m|Which Caribbean country was the first in Latin America to become independent from France, in 1804?|Haiti|
+m|What language family, including French, Spanish, and Italian, descended from Latin?|Romance languages|Romance
+m|Which helping verb is used with most verbs in the passé composé?|avoir|f
+m|What is the French word for "cheese"?|le fromage|fromage|f
+m|Which French verb means "to be"?|être|etre|f
+m|What is the French word for "butterfly"?|le papillon|papillon|f
+m|Which French dessert is a custard topped with a layer of hard caramel?|crème brûlée|creme brulee|f
+m|Which vegetable stew from Provence contains eggplant, zucchini, and tomatoes?|ratatouille|f
+m|Which soft cheese from Normandy has a white rind and shares its name with a village?|Camembert|
+m|Which Paris hill is known for the white Sacré-Cœur Basilica and its artists?|Montmartre|
+m|Which broad Paris avenue runs from the Place de la Concorde to the Arc de Triomphe?|Champs-Élysées|the Champs-Élysées;Champs-Elysees|f
+m|Which former Paris railway station now houses a museum of Impressionist art?|Musée d'Orsay|Orsay;Musee d'Orsay;Orsay Museum
+m|Which historic university in Paris was founded in the thirteenth century?|the Sorbonne|Sorbonne
+m|Which prehistoric caves in southwestern France contain famous Paleolithic paintings of animals?|Lascaux|the Lascaux caves;Lascaux Cave
+m|Which French fashion designer created the little black dress and Chanel No. 5?|Coco Chanel|Chanel|n
+m|Which French scientist developed a rabies vaccine and the process of pasteurization?|Louis Pasteur|Pasteur|n
+m|Which two French brothers held the first public film screening in Paris in 1895?|the Lumière brothers|Lumière;Lumiere brothers;Auguste and Louis Lumière;Lumière Brothers|f
+m|Which French author collected fairy tales such as "Cinderella" and "Puss in Boots"?|Charles Perrault|Perrault|n
+m|Which French city, famous for its cuisine, lies at the meeting of the Rhône and Saône rivers?|Lyon|Lyons
+m|Which French currency was replaced by the euro in 2002?|the franc|franc|French franc
+m|Which famous Paris cabaret with a red windmill is known for the cancan?|Moulin Rouge|the Moulin Rouge|f
+m|Which Mediterranean port is the second-largest city in France?|Marseille|Marseilles
+m|Which port city in southwestern France on the Garonne River gives its name to a famous red wine?|Bordeaux|
+h|Which cardinal served as chief minister to Louis XIII?|Cardinal Richelieu|Richelieu|n
+h|Which French playwright wrote "Cyrano de Bergerac"?|Edmond Rostand|Rostand|n
+h|Which French philosopher wrote "Nausea" and "Being and Nothingness"?|Jean-Paul Sartre|Sartre|n
+h|Which French poet wrote "A Season in Hell" before abandoning poetry as a young man?|Arthur Rimbaud|Rimbaud|n
+h|Which seventeenth-century French writer is famous for his animal fables?|Jean de La Fontaine|La Fontaine|n=Fontaine
+h|Which Paris cemetery is the burial place of Jim Morrison, Oscar Wilde, and Édith Piaf?|Père Lachaise|Pere Lachaise;Père Lachaise Cemetery
+h|Which Paris museum, designed by Renzo Piano and Richard Rogers, has its pipes and escalators on the outside?|Centre Pompidou|The Pompidou Centre;Centre Georges Pompidou;Pompidou Center
+h|Which oldest bridge in Paris, despite its name meaning "new bridge," crosses the Seine?|Pont Neuf|le Pont Neuf
+h|Which royal palace southeast of Paris was a favorite of Napoleon and Francis I?|Fontainebleau|Château de Fontainebleau
+h|Which castle in the Loire Valley has a famous double-helix staircase and 440 rooms?|Chambord|Château de Chambord
+h|Which Roman aqueduct bridge in southern France has three tiers of arches?|Pont du Gard|
+h|Which city in Provence has a well-preserved Roman amphitheater and was painted by van Gogh?|Arles|
+h|Which French city on the Rhône was the seat of the popes in the fourteenth century?|Avignon|
+h|Which French aviator was the first to fly across the English Channel in 1909?|Louis Blériot|Blériot;Bleriot|n
+h|Which French stew of beef, red wine, and carrots is named for a region?|boeuf bourguignon|bœuf bourguignon;beef bourguignon|f
+h|Which French holiday on January 6 is celebrated with a cake containing a hidden charm?|la Fête des Rois|Epiphany;Fête des Rois;galette des rois|f
+h|What is the French term for "false friend," a word that looks like an English word but means something different?|faux ami|faux amis|f
+h|Which tense of the French verb corresponds to the English "I used to speak"?|imparfait|the imperfect;imperfect|f
+h|Which French mathematician and philosopher wrote "Pensées" and invented a mechanical calculator?|Blaise Pascal|Pascal|n
+e|What is the French word for "friend"?|l'ami|ami;l'amie;amie|f
+e|What is the French word for "milk"?|le lait|lait|f
+m|Which Gothic cathedral near Paris is famous for its blue stained glass windows?|Chartres Cathedral|Chartres
+h|In which cathedral city were most French kings crowned?|Reims|Rheims

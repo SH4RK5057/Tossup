@@ -1,0 +1,108 @@
+# ncal jv | Social Science | World History
+m|Which Athenian historian wrote an account of the Peloponnesian conflict, stressing human causes?|Thucydides
+m|Which king of Macedon was the father of Alexander the Great?|Philip II|Philip II of Macedon;Philip of Macedon|n=II
+# ncal varsity | Social Science | Economics
+B|m|Answer these questions about factors of production.
+-|e|What factor of production consists of natural resources such as soil and minerals?|land
+-|m|What term refers to the human work effort used to produce goods and services?|labor|labour
+-|h|Which factor of production is the organizing of the other inputs and the bearing of risk to start a business?|entrepreneurship
+B|m|Answer these questions about money.
+-|e|What type of money is made of a valuable material such as gold or silver?|commodity money
+-|m|What term describes money whose value comes from government decree rather than a physical commodity?|fiat money|fiat currency
+-|h|What name is given to money held in checking accounts that can be withdrawn at any time?|demand deposits|checking deposits;checkable deposits
+B|m|Answer these questions about banking and the Federal Reserve.
+-|e|What do banks pay savers and charge borrowers?|interest
+-|m|Which act created the Federal Reserve System in 1913?|Federal Reserve Act
+-|h|Which government agency, created in 1933, insures bank deposits?|Federal Deposit Insurance Corporation|FDIC
+B|m|Answer these questions about unemployment.
+-|e|What is unemployment due to workers moving between jobs called?|frictional unemployment|frictional
+-|m|What is unemployment due to a mismatch of workers' skills and available jobs called?|structural unemployment|structural
+-|h|What is unemployment that rises and falls with the business cycle called?|cyclical unemployment|cyclical
+B|m|Answer these questions about inflation measures.
+-|e|What kind of price rise do economists call "cost-push" or "demand-pull" varieties of?|inflation|ok
+-|m|Which index tracks the cost of a typical basket of consumer goods?|Consumer Price Index|CPI
+-|h|What term describes a self-reinforcing cycle in which wages and prices rise together?|wage-price spiral
+B|m|Answer these questions about taxes.
+-|e|What kind of tax takes a smaller share of income as income rises?|regressive tax|regressive
+-|m|What tax is paid on the profits of businesses?|corporate income tax|corporate tax
+-|h|What term describes the tax rate applied to the last dollar of income earned?|marginal tax rate|marginal rate
+B|m|Answer these questions about international trade.
+-|e|What is a limit on the quantity of a good that may be imported?|quota|import quota
+-|m|What do we call goods and services sold to other countries?|exports|export
+-|h|Which 1994 agreement created a free trade area among the United States, Canada, and Mexico?|North American Free Trade Agreement|NAFTA
+B|m|Answer these questions about market structures.
+-|e|What term describes a market with a single buyer rather than a single seller?|monopsony
+-|m|What term describes a monopoly that arises because one firm can supply the whole market at the lowest cost?|natural monopoly
+-|h|What term describes a market with exactly two sellers?|duopoly
+B|m|Answer these questions about government and the economy.
+-|e|What term describes the amount by which government spending exceeds revenue in a year?|budget deficit|deficit
+-|m|What is the total of a government's past borrowing that it still owes called?|national debt|public debt;government debt
+-|h|What term describes programs like unemployment benefits that automatically cushion downturns without new legislation?|automatic stabilizers|automatic stabilizer
+B|m|Answer these questions about consumer behavior.
+-|e|What term describes the limit on a consumer's spending set by income and prices?|budget constraint
+-|m|What term describes the extra satisfaction from consuming one more unit of a good?|marginal utility
+-|h|What term measures how responsive quantity demanded is to a change in consumer income?|income elasticity of demand|income elasticity
+B|m|Answer these questions about a firm's finances.
+-|e|What term describes the money a firm receives from its sales?|revenue|total revenue
+-|m|What term describes total cost divided by quantity produced?|average total cost|average cost
+-|h|What cost per unit is found by dividing variable cost by quantity produced?|average variable cost
+B|m|Answer these questions about rising living standards.
+-|e|What term describes an increase in a country's output of goods and services over time?|economic growth
+-|m|What term describes output per hour of work?|productivity|labor productivity
+-|h|What term describes the stock of knowledge and skills held by workers?|human capital
+B|m|Answer these questions about the New Deal.
+-|e|Which New Deal program put young men to work on conservation projects?|Civilian Conservation Corps|CCC
+-|m|Which 1935 law created a national retirement program?|Social Security Act
+-|h|Which agency, created in 1934, regulates securities markets?|Securities and Exchange Commission|SEC
+B|m|Answer these questions about economic systems.
+-|e|What system relies on private ownership and markets?|capitalism
+-|m|What system seeks collective ownership of the means of production?|socialism
+-|h|Which 1921 Soviet policy allowed limited private trade after War Communism?|New Economic Policy|NEP
+B|m|Answer these questions about related goods.
+-|e|What term describes goods used together, such as printers and ink cartridges?|complements|complementary goods;complement
+-|m|What term describes goods that can replace each other, such as butter and margarine?|substitutes|substitute goods;substitute
+-|h|What term describes a good whose demand falls as consumer income rises?|inferior good
+B|m|Answer these questions about labor markets.
+-|e|What is the lowest hourly pay allowed by law called?|minimum wage
+-|m|What term describes workers bargaining together with an employer through a union?|collective bargaining
+-|h|Which 1935 law guaranteed American workers the right to organize unions?|Wagner Act|National Labor Relations Act
+B|m|Answer these questions about financial markets.
+-|e|What term describes a fund pooling investors' money to buy many securities?|mutual fund
+-|m|What term describes a prolonged rise in stock prices?|bull market
+-|h|What term describes a prolonged fall in stock prices of twenty percent or more?|bear market
+B|m|Answer these questions about trade policy.
+-|e|What term describes shielding domestic industries from foreign competition?|protectionism
+-|m|What term describes selling goods abroad below their home price?|dumping
+-|h|What 1947 agreement preceded the World Trade Organization?|General Agreement on Tariffs and Trade|GATT
+B|m|Answer these questions about the Industrial era economy.
+-|e|Which factory method uses a moving line of workers?|assembly line
+-|m|Which automaker introduced the Model T?|Henry Ford|Ford|n
+-|h|What principle of dividing work into specialized tasks did Adam Smith illustrate with pin-making?|division of labor|division of labour
+B|m|Answer these questions about economic indicators.
+-|e|What term describes the share of working-age people who are employed or looking for work?|labor force participation rate|participation rate
+-|m|What term describes the difference between actual output and potential output?|output gap|GDP gap
+-|h|What is the term for a stock index's tracking of a sample of firms' prices as a gauge of the market?|stock market index|market index
+B|m|Answer these questions about risk and insurance.
+-|e|What payment is made to an insurer to buy coverage?|premium
+-|m|What term describes spreading investments across many assets to reduce risk?|diversification
+-|h|What term describes the extra return required for holding a risky asset instead of a safe one?|risk premium
+B|m|Answer these questions about government rules.
+-|e|What term describes government rules that limit business behavior?|regulation
+-|m|Which 1970 U.S. agency was created to set environmental standards?|Environmental Protection Agency|EPA
+-|h|What term describes a tax on a polluting activity, named for an English economist?|Pigouvian tax|carbon tax;pollution tax
+B|m|Answer these questions about currencies.
+-|e|What term describes a currency rising in value relative to another?|appreciation
+-|m|What system lets exchange rates move with supply and demand?|floating exchange rate|floating exchange rates;flexible exchange rate
+-|h|What term describes a government setting its currency's value against another?|fixed exchange rate|peg;currency peg
+B|m|Answer these questions about European economic integration.
+-|e|What currency is shared by many countries of the European Union?|euro|the euro
+-|m|Which 1992 treaty created the European Union?|Maastricht Treaty|Treaty of Maastricht;Maastricht
+-|h|Which 1957 treaty created the European Economic Community?|Treaty of Rome|Rome
+B|m|Answer these questions about economists.
+-|e|Which economist wrote "The Affluent Society"?|John Kenneth Galbraith|Galbraith|n
+-|m|Which economist popularized the phrase "creative destruction"?|Joseph Schumpeter|Schumpeter|n
+-|h|Which English economist wrote "Principles of Political Economy" in 1848?|John Stuart Mill|Mill|n
+B|m|Answer these questions about taxation.
+-|e|What tax is withheld from paychecks to fund Social Security and Medicare?|payroll tax|FICA
+-|m|What tax is levied on the value of land and buildings?|property tax
+-|h|What tax is levied on the value added at each stage of production?|value-added tax|VAT

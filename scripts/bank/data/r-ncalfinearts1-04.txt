@@ -1,0 +1,209 @@
+# ncal varsity | Fine Arts | Operas and Musicals
+e|Which Austrian composer of "Eine kleine Nachtmusik" also wrote the opera "The Magic Flute"?|Wolfgang Amadeus Mozart|Mozart|n
+e|Which French composer died in 1875, shortly after the premiere of "Carmen"?|Georges Bizet|Bizet|n
+e|Which Italian composer wrote the opera "Aida"?|Giuseppe Verdi|Verdi|n
+e|Which Disney stage musical follows a lion cub named Simba?|The Lion King|Lion King
+e|Which Andrew Lloyd Webber musical is about a disfigured musician haunting the Paris Opera House?|The Phantom of the Opera|Phantom of the Opera;Phantom
+e|Which Lin-Manuel Miranda musical tells the story of a founding father who became the first Secretary of the Treasury?|Hamilton|
+e|Which Rodgers and Hammerstein musical follows a governess and the seven children of Captain von Trapp?|The Sound of Music|Sound of Music
+e|"West Side Story" is a modern retelling of which Shakespeare play?|Romeo and Juliet|
+e|Which musical, based on poems by T. S. Eliot, features Grizabella singing "Memory"?|Cats|
+e|"Wicked" tells the untold story of the witches of which fictional land?|Oz|Land of Oz;the Land of Oz
+e|Which American composer wrote the opera "Porgy and Bess"?|George Gershwin|Gershwin|n
+e|In "Les Misérables," which ex-convict is the main character?|Jean Valjean|Valjean|n
+e|Which musical is set at Rydell High School and features Danny and Sandy?|Grease|
+e|Which musical features an orphan with curly red hair who sings "Tomorrow"?|Annie|
+e|Which American conductor of the New York Philharmonic wrote "Chichester Psalms"?|Leonard Bernstein|Bernstein|n
+e|Which term for an operatic solo comes from the Italian word for "air"?|aria|
+e|What word names the text and lyrics of an opera or musical?|libretto|
+e|What is the highest type of female singing voice?|soprano|
+e|Which street in New York City is the center of American commercial theater?|Broadway|
+e|What award is given each year for excellence in Broadway theater?|Tony Award|Tony|Tonys
+e|Whose songs are used in the musical "Mamma Mia!"?|ABBA|Abba
+e|Which composer wrote "Cats," "Evita," and "Jesus Christ Superstar"?|Andrew Lloyd Webber|Lloyd Webber|n
+e|What word names the instrumental piece that opens an opera or musical?|overture|
+e|Which male voice type, sung by Luciano Pavarotti, is the highest?|tenor|
+e|Which German composer wrote the opera cycle containing "The Ride of the Valkyries"?|Richard Wagner|Wagner|n
+e|Which Rodgers and Hammerstein musical opens with the song "Oh, What a Beautiful Mornin'"?|Oklahoma!|Oklahoma
+e|Which Italian composer wrote "William Tell," whose overture became the "Lone Ranger" theme?|Gioachino Rossini|Rossini|n
+e|Which Italian composer left "Turandot" unfinished at his death in 1924?|Giacomo Puccini|Puccini|n
+e|In "Phantom of the Opera," which young soprano does the Phantom love?|Christine Daaé|Christine;Christine Daae|n=Daae
+e|Which Dickens novel is the basis of the musical "Oliver!"?|Oliver Twist|
+e|In "My Fair Lady," which flower girl is taught to speak properly by Henry Higgins?|Eliza Doolittle|Eliza|n
+e|Which witch with green skin is the main character of "Wicked"?|Elphaba|
+e|In "West Side Story," Maria's brother Bernardo leads which gang?|Sharks|the Sharks
+e|Which composer wrote the music for "The Lion King" and "Aida" for the stage, with lyrics by Tim Rice?|Elton John|John|n
+m|Which Puccini opera features the seamstress Mimì and the poet Rodolfo?|La bohème|La boheme
+m|Which Rodgers and Hammerstein musical features the barker Billy Bigelow and the song "If I Loved You"?|Carousel|
+m|Which 1996 musical by Jonathan Larson is based on Puccini's "La bohème"?|Rent|
+m|Which Kander and Ebb musical about Roxie Hart and Velma Kelly is set in the Jazz Age?|Chicago|
+m|Which musical set in a Berlin nightclub features the Master of Ceremonies?|Cabaret|
+m|Which Mozart opera features the servant Susanna and Count Almaviva?|The Marriage of Figaro|Marriage of Figaro;Le nozze di Figaro
+m|Which Puccini opera set in Nagasaki tells of a Japanese geisha and an American naval officer?|Madama Butterfly|Madame Butterfly
+m|In which Spanish city is "Carmen" set?|Seville|Sevilla
+m|Which Gilbert and Sullivan comic opera features a Major-General and softhearted buccaneers?|The Pirates of Penzance|Pirates of Penzance
+m|Which Wagner opera cycle is called "Der Ring des Nibelungen" in German?|The Ring of the Nibelung|Ring Cycle;The Ring Cycle;Ring of the Nibelung;The Ring of the Nibelungs
+m|Which musical is set in the Anatevka village and features Tevye the dairyman?|Fiddler on the Roof|
+m|Which author wrote the novel on which "Les Misérables" is based?|Victor Hugo|Hugo|n
+m|Which musical's score by Jonathan Larson was completed just before his death in 1996?|Rent|
+m|Which Argentine first lady is the subject of the Lloyd Webber musical "Evita"?|Eva Perón|Eva Peron;Evita;Eva Duarte|n
+m|Which Broadway composer wrote "A Little Night Music" and "Company"?|Stephen Sondheim|Sondheim|n
+m|Which Puccini opera contains the aria "Nessun dorma"?|Turandot|
+m|In which Iowa town is "The Music Man" set?|River City|River City, Iowa
+m|Which musical set in Baltimore features the teenager Tracy Turnblad?|Hairspray|
+m|Which composer wrote the music for "Wicked" and "Godspell"?|Stephen Schwartz|Schwartz|n
+m|In "The King and I," which present-day Asian country was called Siam?|Thailand|
+m|Which stage musical features the Four Seasons?|Jersey Boys|
+m|Which French composer wrote the opera "Faust"?|Charles Gounod|Gounod|n
+m|Which Russian composer wrote the opera "Eugene Onegin"?|Pyotr Ilyich Tchaikovsky|Tchaikovsky;Peter Tchaikovsky|n
+m|Which Monty Python film inspired the musical "Spamalot"?|Monty Python and the Holy Grail|Holy Grail;The Holy Grail
+m|In "Les Misérables," which police inspector relentlessly pursues Valjean?|Javert|Inspector Javert
+m|Which neighborhood of New York City is the setting of Lin-Manuel Miranda's "In the Heights"?|Washington Heights|
+m|Which Italian opera house, home to many premieres by Verdi, is in Milan?|La Scala|Teatro alla Scala
+m|What word names the sung dialogue in an opera that imitates speech?|recitative|
+m|Which female voice type lies between soprano and alto?|mezzo-soprano|mezzo
+m|Which male voice type lies between tenor and bass?|baritone|
+m|Which term describes a comic Italian opera, as opposed to opera seria?|opera buffa|buffa
+m|What Italian word, meaning "beautiful singing," names a style of Italian opera of the early nineteenth century?|bel canto|
+m|Which opera company performs at New York's Lincoln Center?|The Metropolitan Opera|Metropolitan Opera;The Met;Met
+h|Which Beethoven opera, his only one, is about a woman who disguises herself as a prison guard to free her husband?|Fidelio|
+h|Which Mozart librettist wrote the texts for "Don Giovanni" and "Così fan tutte"?|Lorenzo Da Ponte|Da Ponte|n
+h|Which South Carolina city is the setting of "Porgy and Bess," with its Catfish Row?|Charleston|
+h|Which composer wrote the musical "Show Boat" with Oscar Hammerstein II?|Jerome Kern|Kern|n
+h|In "South Pacific," nurse Nellie Forbush is from which state?|Arkansas|
+h|Which French author wrote the novel on which "The Phantom of the Opera" is based?|Gaston Leroux|Leroux|n
+h|Which lyricist wrote "Jesus Christ Superstar" and "Evita" with Andrew Lloyd Webber?|Tim Rice|Rice|n
+h|Which Verdi opera contains the chorus "Va, pensiero," sung by Hebrew slaves?|Nabucco|
+h|Which Italian composer wrote "Pagliacci"?|Ruggero Leoncavallo|Leoncavallo|n
+h|Which composer wrote "Cavalleria rusticana"?|Pietro Mascagni|Mascagni|n
+h|Which composer wrote the opera "The Tales of Hoffmann"?|Jacques Offenbach|Offenbach|n
+h|Which German composer wrote the opera "Hansel and Gretel"?|Engelbert Humperdinck|Humperdinck|n
+h|Which composer wrote "The Rake's Progress," with a libretto by W. H. Auden?|Igor Stravinsky|Stravinsky|n
+h|Which English composer wrote the opera "Peter Grimes"?|Benjamin Britten|Britten|n
+h|Which Richard Strauss opera is based on a play by Oscar Wilde and features the "Dance of the Seven Veils"?|Salome|
+h|Which Austrian composer of waltzes wrote the operetta "Die Fledermaus"?|Johann Strauss II|Johann Strauss;Strauss|n=II
+h|Which Russian composer wrote the opera "Boris Godunov"?|Modest Mussorgsky|Mussorgsky;Moussorgsky|n
+h|Which English composer wrote the opera "Dido and Aeneas"?|Henry Purcell|Purcell|n
+h|Which Italian composer wrote the early opera "L'Orfeo" in 1607?|Claudio Monteverdi|Monteverdi|n
+h|Which Cole Porter musical is based on Shakespeare's "The Taming of the Shrew"?|Kiss Me, Kate|Kiss Me Kate
+h|Which Irving Berlin musical is about the sharpshooter Annie Oakley?|Annie Get Your Gun|
+h|Which musical is about the comedian Fanny Brice and her marriage to Nick Arnstein?|Funny Girl|
+h|Which composing and lyric-writing team wrote "Cabaret" and "Chicago"?|Kander and Ebb|John Kander and Fred Ebb|Fred Ebb and John Kander
+h|Which musical about dancers auditioning features the song "What I Did for Love"?|A Chorus Line|
+h|Which character sings "Wait for It" in "Hamilton"?|Aaron Burr|Burr|n
+h|Which composer wrote the music for "Camelot" and "My Fair Lady"?|Frederick Loewe|Loewe|n
+h|Which composer wrote the music for "Oliver!"?|Lionel Bart|Bart|n
+h|Which German composer's festival theater is in the town of Bayreuth?|Richard Wagner|Wagner|n
+h|In Gilbert and Sullivan's "The Mikado," the setting is a town with which name?|Titipu|
+h|Which Richard Strauss opera features the Marschallin and a young knight bearing a silver rose?|Der Rosenkavalier|The Knight of the Rose;Rosenkavalier
+B|m|Answer these questions about Mozart's operas.
+-|e|Which of Mozart's operas features the bird catcher Papageno?|The Magic Flute|Magic Flute;Die Zauberflöte
+-|m|Which Mozart opera tells of a seducer dragged to hell by a statue?|Don Giovanni|
+-|h|Which Mozart opera, whose title means "Women Are Like That," has two sisters tested by disguised lovers?|Così fan tutte|Cosi fan tutte
+B|m|Answer these questions about Giuseppe Verdi.
+-|e|Which Verdi opera is set in ancient Egypt and features an Ethiopian princess?|Aida|
+-|m|Which Verdi opera features a hunchbacked court jester and the song "La donna è mobile"?|Rigoletto|
+-|h|Which Verdi opera, based on a Dumas novel, tells of the courtesan Violetta?|La traviata|La Traviata
+B|m|Answer these questions about Giacomo Puccini.
+-|e|Which Puccini opera features a singer, Floria, and a villain named Scarpia?|Tosca|
+-|m|Which Puccini opera has the aria "O mio babbino caro"?|Gianni Schicchi|
+-|h|Which Puccini opera, set in the American West, was based on a David Belasco play?|The Girl of the Golden West|La fanciulla del West;Girl of the Golden West
+B|m|Answer these questions about Rodgers and Hammerstein.
+-|e|Which musical contains "Do-Re-Mi" and "Edelweiss"?|The Sound of Music|Sound of Music
+-|m|Which of their musicals features Anna Leonowens?|The King and I|King and I
+-|h|Which of their musicals, set on a Pacific island, contains "Some Enchanted Evening"?|South Pacific|
+B|m|Answer these questions about Andrew Lloyd Webber.
+-|e|Which musical features the song "Memory" sung by an old cat?|Cats|
+-|m|Which Lloyd Webber musical about a biblical figure has "Any Dream Will Do"?|Joseph and the Amazing Technicolor Dreamcoat|Joseph
+-|h|Which Lloyd Webber musical is set on roller skates and trains as characters?|Starlight Express|
+B|m|Answer these questions about Wagner's operas.
+-|e|Which Wagner opera begins with the famous "Ride of the Valkyries"?|Die Walküre|The Valkyrie;Die Walkure;Valkyrie
+-|m|Which Wagner opera tells of a knight, a swan, and the bride Elsa?|Lohengrin|
+-|h|Which Wagner opera, about Irish lovers, opens with the famous "Tristan chord"?|Tristan und Isolde|Tristan and Isolde
+B|m|Answer these questions about Gilbert and Sullivan.
+-|e|Which Gilbert and Sullivan operetta is set in Japan and features Nanki-Poo?|The Mikado|Mikado
+-|m|Which operetta features Sir Joseph Porter, First Lord of the Admiralty, aboard a ship?|HMS Pinafore|H.M.S. Pinafore;Pinafore
+-|h|Which operetta is set in a fairyland with a House of Lords?|Iolanthe|
+B|m|Answer these questions about Stephen Sondheim.
+-|e|Which musical features a murderous barber on Fleet Street?|Sweeney Todd|Sweeney Todd: The Demon Barber of Fleet Street
+-|m|Which Sondheim musical mixes fairy-tale characters such as Cinderella and Little Red Riding Hood?|Into the Woods|
+-|h|Which Sondheim musical is about the painter Georges Seurat?|Sunday in the Park with George|
+B|m|Answer these questions about opera terminology.
+-|e|What word names a sung piece for one voice and orchestra?|aria|
+-|m|Which term names the lowest female singing voice?|contralto|alto
+-|h|Which Italian term names a male singer with a high voice produced by preadolescent castration, common in Baroque opera?|castrato|
+B|m|Answer these questions about Les Misérables.
+-|e|Which song sung by Fantine begins "There was a time when men were kind"?|I Dreamed a Dream|
+-|m|Which girl is raised by Valjean after her mother Fantine dies?|Cosette|
+-|h|Which student revolutionary leads the barricade?|Enjolras|
+B|m|Answer these questions about Leonard Bernstein.
+-|e|Which Bernstein musical retells Romeo and Juliet in New York?|West Side Story|
+-|m|Which Bernstein musical, based on Voltaire, includes "Glitter and Be Gay"?|Candide|
+-|h|Which Bernstein musical set in New York features three sailors on leave?|On the Town|
+B|m|Answer these questions about Hamilton.
+-|e|Who wrote "Hamilton"?|Lin-Manuel Miranda|Miranda|n
+-|m|Which Schuyler sister sings "Satisfied" at a wedding toast?|Angelica|Angelica Schuyler
+-|h|Which king sings "You'll Be Back"?|King George III|King George;George III
+B|m|Answer these questions about Bizet's Carmen.
+-|e|In Carmen's Habanera, love is compared to what kind of rebellious animal?|bird|a bird
+-|m|Which soldier falls for Carmen?|Don José|Don Jose;José;Jose
+-|h|Which bullfighter sings the Toreador Song?|Escamillo|
+B|m|Answer these questions about Cole Porter and Irving Berlin.
+-|e|Which Irving Berlin song from "Holiday Inn" became a famous Christmas favorite?|White Christmas|
+-|m|Which Cole Porter musical includes the song "Brush Up Your Shakespeare"?|Kiss Me, Kate|Kiss Me Kate
+-|h|Which Cole Porter musical, set on an ocean liner, has the song "You're the Top"?|Anything Goes|
+B|m|Answer these questions about Gershwin.
+-|e|Which Gershwin brother wrote the lyrics for many of George's songs?|Ira Gershwin|Ira|n
+-|m|Which character in "Porgy and Bess" sings "Summertime" at the beginning?|Clara|
+-|h|Which Gershwin piece for piano and orchestra, premiered in 1924, opens with a clarinet glissando?|Rhapsody in Blue|
+B|m|Answer these questions about Fiddler on the Roof.
+-|e|Which dairyman is the main character?|Tevye|
+-|m|Which opening number of the show explains the customs of the village, with the dairyman singing the title?|Tradition|
+-|h|Which Yiddish author's stories about a milkman inspired the musical?|Sholem Aleichem|Sholom Aleichem|n
+B|m|Answer these questions about The Phantom of the Opera.
+-|e|What is the Phantom's lair beneath the opera house?|the catacombs|underground lair;lake;the lake
+-|m|Which young man is Christine's love interest?|Raoul|Vicomte Raoul de Chagny;Raoul de Chagny
+-|h|The Phantom's masked ball scene uses which name for his song?|Masquerade|
+B|m|Answer these questions about West Side Story.
+-|e|Which two gangs fight in the musical?|Jets and Sharks|The Jets and the Sharks
+-|m|Which comic song sung by the Jets mocks social workers, judges, and psychiatrists?|Gee, Officer Krupke|Officer Krupke
+-|h|Which Puerto Rican heroine falls for Tony?|Maria|
+m|Which Verdi opera is based on Shakespeare's "Othello"?|Otello|Othello
+m|Which Disney musical includes the song "Be Our Guest" sung by a candelabrum?|Beauty and the Beast|
+m|Which Mel Brooks musical features a Broadway flop called "Springtime for Hitler"?|The Producers|Producers
+m|Which Italian tenor was one of the "Three Tenors" with Plácido Domingo and José Carreras?|Luciano Pavarotti|Pavarotti|n
+h|Which soprano, born in New York to Greek parents, was nicknamed "La Divina"?|Maria Callas|Callas|n
+h|Which German composer wrote the Romantic opera "Der Freischütz"?|Carl Maria von Weber|Weber|n
+h|Which American composer wrote the opera "Nixon in China"?|John Adams|Adams|n=Adams
+B|m|Answer these questions about opera houses.
+-|e|Which capital of Austria is home to the Staatsoper on the Ringstrasse?|Vienna|
+-|m|In which English city is the Royal Opera House, Covent Garden?|London|
+-|h|In which Italian city is the Teatro La Fenice?|Venice|Venezia
+B|m|Answer these questions about the musical Annie.
+-|e|What is the name of Annie's dog?|Sandy|
+-|m|Which billionaire adopts Annie?|Oliver Warbucks|Daddy Warbucks;Warbucks
+-|h|Which cruel woman runs the orphanage?|Miss Hannigan|Agatha Hannigan;Hannigan
+B|m|Answer these questions about Wicked.
+-|e|Which good witch befriends Elphaba?|Glinda|Galinda
+-|m|At which university do the two witches meet?|Shiz University|Shiz
+-|h|Which character is Elphaba's sister, the governor of Munchkinland?|Nessarose|
+B|m|Answer these questions about The Sound of Music.
+-|e|In which European country is the musical set?|Austria|
+-|m|In which city does the family live?|Salzburg|
+-|h|From which abbey does Maria come to be a governess?|Nonnberg Abbey|Nonnberg
+B|m|Answer these questions about The Lion King.
+-|e|Which villainous uncle of Simba wants the throne?|Scar|
+-|m|Which meerkat sings "Hakuna Matata" alongside Pumbaa?|Timon|
+-|h|Which wise mandrill presents Simba to the animals?|Rafiki|
+B|m|Answer these questions about Oklahoma!
+-|e|Which cowboy is in love with Laurey?|Curly|Curly McLain|n
+-|m|Which farmhand is Curly's menacing rival?|Jud Fry|Jud
+-|h|Which traveling peddler sings "It's a Scandal! It's an Outrage!" and tries to avoid marriage?|Ali Hakim|Hakim
+B|m|Answer these questions about Oliver!
+-|e|What does Oliver ask for more of at the workhouse?|gruel|porridge
+-|m|Which leader of the pickpockets teaches Oliver the trade?|Fagin|
+-|h|Which girl sings "As Long as He Loves Me"?|Nancy|
+B|m|Answer these questions about Cabaret.
+-|e|Which English singer is the star of the nightclub?|Sally Bowles|Sally
+-|m|Which nightclub in Berlin is the show's setting?|Kit Kat Klub|Kit Kat
+-|h|Which author's "Berlin Stories" inspired the musical?|Christopher Isherwood|Isherwood|n

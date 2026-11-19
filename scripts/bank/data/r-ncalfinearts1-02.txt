@@ -1,0 +1,103 @@
+# ncal varsity | Fine Arts | Architecture
+e|Which American architect designed Fallingwater and the Guggenheim Museum in New York?|Frank Lloyd Wright|Wright|n
+e|Which engineer's company built the Eiffel Tower for the 1889 World's Fair in Paris?|Gustave Eiffel|Eiffel|n
+e|In which Italian city is the famous Leaning Tower?|Pisa|
+e|Which Mughal emperor ordered the building of the Red Fort in Delhi?|Shah Jahan|
+e|The Parthenon stands on which hill above Athens?|Acropolis|the Acropolis
+e|The Colosseum, a huge ancient amphitheater, is located in which city?|Rome|
+e|Which simple Greek column order has plain, undecorated capitals?|Doric|Doric order
+e|The porch of the Pantheon uses which ornate order, whose capitals show acanthus leaves?|Corinthian|Corinthian order
+e|Which Finnish-American architect designed the Gateway Arch in Saint Louis?|Eero Saarinen|Saarinen|n
+e|Which Danish architect designed the Sydney Opera House?|Jørn Utzon|Utzon;Jorn Utzon|n
+e|What name is given to the central wedge-shaped stone at the top of an arch that locks the others in place?|keystone|
+e|Flying buttresses and pointed arches are features of which medieval architectural style?|Gothic|Gothic architecture
+e|Which Gothic cathedral stands on the Île de la Cité in Paris?|Notre-Dame|Notre Dame;Notre-Dame de Paris;Notre Dame Cathedral
+e|Brunelleschi designed the great dome of the cathedral in which Italian city?|Florence|Firenze
+e|The Great Pyramid of Giza was built as a tomb for which pharaoh?|Khufu|Cheops
+e|What name is given to a Roman bridge-like structure built to carry water over long distances?|aqueduct|
+e|Which English architect designed Saint Paul's Cathedral in London after the Great Fire?|Christopher Wren|Wren;Sir Christopher Wren|n
+e|The Empire State Building is a landmark in which American city?|New York City|New York;New York, New York
+e|The Burj Khalifa is a skyscraper in which city of the United Arab Emirates?|Dubai|
+e|Which Spanish architect began the Sagrada Família in Barcelona?|Antoni Gaudí|Gaudí;Gaudi;Antoni Gaudi|n
+e|Many government buildings in Washington, DC, with columns and pediments are in which revived classical style?|Neoclassical|Neoclassicism;Neoclassical architecture
+e|Which French palace, built by Louis XIV, contains the Hall of Mirrors?|Versailles|Palace of Versailles
+e|The mountaintop city of Machu Picchu was built by which empire?|Inca|Incas;Inca Empire
+e|Angkor Wat, the largest religious monument in the world, is in which country?|Cambodia|
+e|The Hagia Sophia, once a Byzantine cathedral, stands in which Turkish city?|Istanbul|Constantinople
+e|The Forbidden City, a vast palace complex, is in which Chinese capital?|Beijing|Peking
+e|What term describes a row of evenly spaced columns supporting a roof or a series of arches?|colonnade|
+e|What name is given to the slender tower of a mosque from which the call to prayer is made?|minaret|
+e|The prehistoric stone circle of Stonehenge is located in which country?|England|United Kingdom;Great Britain
+e|The pyramid of Chichen Itza was built by which Mesoamerican civilization?|Maya|Mayans;the Maya
+e|The Space Needle, built for the 1962 World's Fair, is a landmark in which American city?|Seattle|
+e|Which American president designed his own home Monticello in Virginia?|Thomas Jefferson|Jefferson|n
+e|Which architect designed the glass pyramid at the Louvre?|I. M. Pei|Pei;Ieoh Ming Pei;IM Pei|n
+e|The Alhambra, a palace and fortress with Moorish decoration, is in which European country?|Spain|
+e|The ancient rock-cut city of Petra is located in which Middle Eastern country?|Jordan|
+e|Which Bavarian king built Neuschwanstein Castle?|Ludwig II|King Ludwig II;Ludwig the Second
+e|Which German-born engineer designed the Brooklyn Bridge?|John Roebling|Roebling;John A. Roebling|n
+e|The Golden Gate Bridge crosses the entrance to the bay of which California city?|San Francisco|
+e|Reinforced concrete is concrete that has been strengthened with bars made of which metal?|steel|
+m|Which Chicago architect coined the phrase "form follows function"?|Louis Sullivan|Sullivan|n
+m|Which German school of design and architecture was founded by Walter Gropius in 1919?|Bauhaus|The Bauhaus
+m|Which Irish-born architect designed the White House?|James Hoban|Hoban|n
+m|Which medieval style that preceded Gothic is known for thick walls and rounded arches?|Romanesque|Romanesque architecture
+m|What is the name of the circular opening at the top of the Pantheon's dome?|oculus|
+m|Which Swiss-French architect designed the Villa Savoye and the Unité d'Habitation?|Le Corbusier|Corbusier|n=Corbusier
+m|Which German-American architect, famous for "less is more," designed the Seagram Building?|Ludwig Mies van der Rohe|Mies van der Rohe;Mies|n=Rohe
+m|Which Iraqi-British architect became the first woman to win the Pritzker Architecture Prize?|Zaha Hadid|Hadid|n
+m|Frank Gehry designed the Walt Disney Concert Hall in which California city?|Los Angeles|
+m|Which Italian Renaissance architect designed the Villa Rotonda and wrote "The Four Books of Architecture"?|Andrea Palladio|Palladio|n
+m|Which English architect introduced Palladian style to England with the Banqueting House in London?|Inigo Jones|Jones|n=Jones
+m|Which building material, a mix of lime, volcanic ash, and aggregate, allowed Romans to build huge domes?|concrete|Roman concrete
+m|Which Roman writer's treatise "On Architecture" influenced Renaissance builders?|Vitruvius|
+m|Which American architect designed the Salk Institute in La Jolla?|Louis Kahn|Kahn|n
+m|Fallingwater was built over a waterfall in which state?|Pennsylvania|
+m|Frank Lloyd Wright's low houses with strong horizontal lines were built in which style?|Prairie style|Prairie School;Prairie
+m|The Chrysler Building is a famous example of which decorative style of the 1920s and 1930s?|Art Deco|
+m|Which Byzantine emperor ordered the construction of the Hagia Sophia?|Justinian|Justinian I|n=Justinian
+m|The Dome of the Rock is located in which city?|Jerusalem|
+m|Angkor Wat was built as a temple to which Hindu god?|Vishnu|
+m|The Forbidden City was built under which Chinese dynasty?|Ming|Ming dynasty
+m|The Pyramid of the Sun is found at which ancient Mexican city?|Teotihuacan|
+m|Machu Picchu is located in which South American country?|Peru|
+m|Which award, established by the Hyatt Foundation, is considered architecture's highest honor?|Pritzker Prize|Pritzker Architecture Prize|Pritzker
+m|Which Chinese-American architect designed the East Building of the National Gallery of Art?|I. M. Pei|Pei;Ieoh Ming Pei|n
+m|Which architect designed the Vietnam Veterans Memorial as a Yale student?|Maya Lin|Lin|n
+m|Which American inventor popularized the geodesic dome?|Buckminster Fuller|Fuller;R. Buckminster Fuller|n
+m|The Taj Mahal is located in which Indian city?|Agra|
+m|Cologne Cathedral is a Gothic cathedral in which country?|Germany|
+m|Which Roman emperor rebuilt the Pantheon in the second century?|Hadrian|
+m|What name is given to a stepped temple tower built in ancient Mesopotamia?|ziggurat|
+m|What term describes a beam that is supported only at one end, as in a balcony?|cantilever|
+m|The Washington Monument has what four-sided tapering shape?|obelisk|
+m|The Arc de Triomphe in Paris was commissioned to honor the victories of which French leader?|Napoleon Bonaparte|Napoleon|n
+m|The Great Fire of which year destroyed much of London and led to its rebuilding under Christopher Wren?|1666|sixteen sixty-six|m
+m|Which Renaissance artist took over the design of the dome of Saint Peter's Basilica?|Michelangelo|n
+m|What name is given to the sculpted female figures that serve as columns, as on the Erechtheion in Athens?|caryatids|caryatid
+m|What name is given to the triangular gable at the end of a Greek temple's roof?|pediment|
+m|What name is given to sun-dried clay bricks used in Southwestern and Spanish colonial buildings?|adobe|
+m|Which style of architecture, named for the British kings of the 1700s, features symmetry and brick facades?|Georgian|Georgian architecture
+m|Which Spanish friar founded Mission San Diego de Alcalá, the first of California's missions?|Junípero Serra|Serra;Junipero Serra|n
+h|Which Greek architect, along with Callicrates, designed the Parthenon?|Ictinus|Iktinos;Iktinus
+h|Which architect and mathematician from Miletus designed the Hagia Sophia with Anthemius of Tralles?|Isidore of Miletus|Isidorus of Miletus;Isidore
+h|Which great Ottoman architect designed the Suleymaniye Mosque in Istanbul?|Sinan|Mimar Sinan;Koca Sinan
+h|Which architect designed the Tempietto at San Pietro in Montorio in Rome?|Donato Bramante|Bramante|n
+h|Which Baroque architect designed San Carlo alle Quattro Fontane in Rome?|Francesco Borromini|Borromini|n
+h|Which French architect designed the Paris Opera house, the Palais Garnier?|Charles Garnier|Garnier|n
+h|Which English gardener and architect designed the glass-and-iron Crystal Palace?|Joseph Paxton|Paxton|n
+h|Which architect designed the Gothic Revival Palace of Westminster, home of Parliament?|Charles Barry|Sir Charles Barry|Barry|n
+h|Which American architect designed the Home Insurance Building in Chicago, often called the first skyscraper?|William Le Baron Jenney|Jenney|n
+h|Which architect designed the Chrysler Building?|William Van Alen|Van Alen|n=Alen
+h|Which architect led the planning of the 1893 World's Columbian Exposition in Chicago?|Daniel Burnham|Burnham|n
+h|Which American architect designed the Glass House in New Canaan, Connecticut?|Philip Johnson|Johnson|n
+h|Which American architect designed the Getty Center in Los Angeles?|Richard Meier|Meier|n
+h|Which Spanish architect designed the City of Arts and Sciences in Valencia and the Milwaukee Art Museum addition?|Santiago Calatrava|Calatrava|n
+h|Which Brazilian architect designed the government buildings of Brasília?|Oscar Niemeyer|Niemeyer|n
+h|Which French abbot oversaw the rebuilding of the Abbey Church of Saint-Denis, a birthplace of Gothic architecture?|Abbot Suger|Suger
+h|Which San Diego architect, a pioneer of modernist simplicity in California, designed the La Jolla Woman's Club?|Irving Gill|Gill|n
+h|Which postwar style, named for the French for "raw concrete," uses massive, blocky forms?|Brutalism|Brutalist architecture
+h|What triangular architectural element allows a round dome to rest on a square base?|pendentive|pendentives
+h|Which Buddhist monument in Java, Indonesia, is arranged as a giant stepped mandala?|Borobudur|
+h|El Castillo at Chichen Itza is aligned to show a serpent shadow on which feathered serpent god's pyramid?|Kukulkan|Kukulcan
+h|Which Istanbul mosque, built for a seventeenth-century sultan, has six minarets and is nicknamed for its blue interior tiles?|Sultan Ahmed Mosque|Blue Mosque;Sultanahmet Mosque

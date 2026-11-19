@@ -1,0 +1,68 @@
+# quizbowl varsity | Science | Chemistry
+h|This process converts atmospheric nitrogen and hydrogen into ammonia over an iron catalyst at high temperature and pressure, roughly 200 atmospheres. Carl Bosch scaled it up industrially at BASF. It made synthetic fertilizers possible and also supplied explosives for World War I. For 10 points, name this process developed by a German chemist who won the 1918 Nobel Prize.|Haber process|Haber-Bosch process;Haber Bosch process|
+h|This rule predicts that when hydrogen bromide adds to an unsymmetrical alkene, the hydrogen attaches to the carbon that already bears more hydrogens. It is explained by the greater stability of the more substituted carbocation. A Russian chemist from Kazan proposed it in 1869. For 10 points, name this regioselectivity rule.|Markovnikov's rule|Markovnikov rule;Markovnikov;Markownikoff's rule|
+m|These elements, with atomic numbers 57 through 71, fill the 4f subshell and are usually shown in a detached row beneath the main periodic table. They have very similar chemical properties, which made them hard to separate, and cerium is the most abundant of them. Many are used in strong magnets and phosphors. For 10 points, name this series of rare-earth elements that begins with lanthanum.|lanthanides|lanthanoids;lanthanide;lanthanide series|
+m|In this type of reaction, an electron pair is donated by a nucleophile to a carbon bearing a leaving group. The first, called SN1, goes through a carbocation, while the second, SN2, is concerted with inversion of configuration. For 10 points, name this reaction type, abbreviated with an S and a N.|nucleophilic substitution|substitution reaction;SN1;SN2;nucleophilic substitution reaction|
+e|This is the most abundant element in the universe and the lightest element, with an atomic number of one. Its most common isotope has no neutron. It makes up most of the mass of the Sun. For 10 points, name this element with symbol H.|hydrogen||
+m|These elements, found in group 18, have filled valence shells and are therefore largely unreactive. Neil Bartlett made the first compound of one with platinum hexafluoride. For 10 points, name this group, including helium, neon, and argon.|noble gases|inert gases;noble gas|
+h|This quantum number, symbolized l, determines the shape of an orbital, with s, p, d, and f corresponding to values 0 through 3. It is also called the azimuthal quantum number. For 10 points, name this quantum number, named for the angular momentum of the electron.|angular momentum quantum number|azimuthal quantum number;azimuthal;orbital angular momentum quantum number|
+m|This equation, PV equals nRT, relates pressure, volume, amount, and temperature for a hypothetical type of gas that has no intermolecular forces. For 10 points, name this equation of state, for a "perfect" kind of gas.|ideal gas law|ideal gas equation;ideal gas|
+e|This type of bond involves the sharing of electron pairs between two atoms, as in the molecule of water. It typically forms between nonmetals. For 10 points, name this bond, distinct from ionic.|covalent bond|covalent|
+m|This law states that the total enthalpy change of a reaction is the same regardless of the pathway, as long as initial and final conditions are the same. It is named for a Swiss-born Russian chemist. For 10 points, name this law for adding enthalpies.|Hess's law|Hess's Law;Hess law|
+h|This reaction between a conjugated diene and a dienophile forms a six-membered ring in a concerted pericyclic process. Otto Diels and Kurt Alder shared the 1950 Nobel Prize for it. For 10 points, name this cycloaddition reaction.|Diels-Alder reaction|Diels Alder reaction;Diels-Alder;Diels Alder|
+m|In this process, an electrolyte solution undergoes a nonspontaneous reaction when current is passed through it. Michael Faraday formulated laws for it, and it is used to produce aluminum and chlorine. For 10 points, name this process, a use of electrical energy to drive chemistry.|electrolysis|electrolytic cell|
+e|This acid, with formula HCl, is found in the human stomach and is also used for cleaning metal. It is a strong acid that dissociates completely in water. For 10 points, name this acid, with a name referring to a chlorine-containing hydrogen compound.|hydrochloric acid|HCl|
+m|This scientist's model of the atom, proposed in 1913, has electrons in quantized circular orbits and explains the spectrum of hydrogen. He later headed an institute in Copenhagen and won the 1922 Nobel Prize in Physics. His principle of complementarity was debated with Einstein. For 10 points, name this Danish physicist.|Niels Bohr|Bohr|n
+h|This equation relates the rate constant of a reaction to temperature as k equals A times e to the negative E a over R T. It shows that rates increase exponentially with temperature. For 10 points, name this equation from a Swedish chemist.|Arrhenius equation|Arrhenius|
+e|These are atoms of the same element with different numbers of neutrons, and so different mass numbers. Carbon-12 and carbon-14 are examples, and the latter is used in radiocarbon dating. Hydrogen has three common ones, including deuterium and tritium. For 10 points, name this term.|isotopes|isotope|
+m|This is the term for the minimum energy required for a reaction to proceed, represented by the height of the barrier on an energy diagram. Catalysts lower it. For 10 points, name this energy.|activation energy|energy of activation|
+m|This rule says that electrons fill degenerate orbitals singly with parallel spins before pairing up. For example, in a p subshell, three electrons occupy three different orbitals. For 10 points, name this rule named for a German physicist.|Hund's rule|Hund's Rule;Hund rule;Hund|
+h|This type of isomerism occurs when two molecules are non-superimposable mirror images, as in L and D amino acids. A carbon with four different groups is called a center of this. For 10 points, name this property of "handedness."|chirality|enantiomerism;optical isomerism;handedness|
+e|This scale, from zero to fourteen, uses the concentration of hydronium ions to measure acidity; solutions below seven are acids. For 10 points, name the quantity that equals the negative log of hydrogen ion concentration.|pH||
+m|This family of organic compounds contains a carbonyl group bonded to a hydrogen and an R group, as in formaldehyde and acetaldehyde. They are oxidized to carboxylic acids. For 10 points, name this functional group.|aldehydes|aldehyde|
+h|This law relates the absorbance of light by a solution to its concentration, the path length, and a molar absorptivity. Spectrophotometers rely on it to find concentrations from a calibration curve. It is named for a German physicist and for a Swiss-German mathematician, joined by a hyphen. For 10 points, name this absorbance law.|Beer-Lambert law|Beer Lambert law;Beer-Lambert-Bouguer law;Beer's law|
+e|This is the process of a solid changing directly into a gas without passing through the liquid phase. Dry ice does this at room temperature and ordinary pressure, as does iodine when heated gently. Its reverse is called deposition. For 10 points, name this phase change.|sublimation|sublimate|
+m|This element has atomic number 79 and symbol Au, from the Latin aurum. It is dense, malleable, and unreactive, dissolving only in aqua regia, a mixture of nitric and hydrochloric acids. Rutherford's famous scattering experiment used foil made of it. For 10 points, name this precious metal.|gold||
+h|This law states that the pressure of a gas mixture equals the sum of the partial pressures of each component. It is named for an English chemist who also proposed an atomic theory. For 10 points, name this law named for a man who also studied color blindness.|Dalton's law|Dalton's law of partial pressures;Dalton's Law|
+m|This is the term for a substance, often a metal such as platinum, that speeds up a reaction without being consumed. Enzymes act as biological examples. For 10 points, name this term.|catalyst|catalysts|
+e|This element, with atomic number 8, is necessary for combustion and respiration. It makes up about a fifth of Earth's atmosphere, and its allotrope ozone forms a protective layer high above. Joseph Priestley and Carl Scheele both isolated it. For 10 points, name this element with symbol O.|oxygen||
+m|This family of organic compounds has a hydroxyl group bonded to a saturated carbon. The simplest, with one carbon, is methanol. For 10 points, name this functional group, such as ethanol in beverages.|alcohols|alcohol|
+h|This principle states that no two electrons in an atom can have the same set of four quantum numbers. It was formulated by an Austrian physicist. For 10 points, name this principle.|Pauli exclusion principle|Pauli exclusion;exclusion principle|
+m|This type of compound consists of a central metal atom or ion bound to surrounding ligands, as in cisplatin and the heme group. Alfred Werner won the 1913 Nobel Prize in Chemistry for explaining their structure. For 10 points, name this class of compounds with a central metal atom and attached ligands.|coordination complex|coordination compound;coordination compounds;coordination complexes;complex ion|
+B|m|Answer these questions about the periodic table.
+-|e|What is the most electronegative element, with symbol F?|fluorine||
+-|m|What group of elements includes sodium and potassium and reacts vigorously with water?|alkali metals|alkali metal;group 1|
+-|h|What Russian chemist arranged elements by atomic weight in 1869?|Dmitri Mendeleev|Mendeleev|n
+B|m|Answer these questions about acids and bases.
+-|e|What type of paper turns red in acid and blue in base?|litmus paper|litmus|
+-|m|What scientist defined acids as proton donors, alongside a Danish counterpart?|Brønsted|Bronsted;Bronsted-Lowry;Johannes Brønsted|n
+-|h|What term describes the product of a neutralization reaction, along with water?|salt||
+B|m|Answer these questions about organic chemistry.
+-|e|What is the simplest alkane, with one carbon?|methane||
+-|m|What term describes hydrocarbons containing one or more carbon-carbon double bonds?|alkenes|alkene|
+-|h|What name is given to the six-carbon aromatic ring proposed by Kekulé?|benzene||
+B|m|Answer these questions about gas laws.
+-|e|What scientist's law relates the volume of a gas inversely to its pressure at constant temperature?|Robert Boyle|Boyle|n
+-|m|What French chemist's law relates volume to temperature at constant pressure?|Jacques Charles|Charles|n
+-|h|What term describes a gas that deviates from ideal behavior at high pressure, studied by a Dutch physicist?|real gas|van der Waals gas;real gases|
+B|m|Answer these questions about chemical bonding.
+-|e|What kind of bond results from the transfer of electrons from a metal to a nonmetal?|ionic bond|ionic|
+-|m|What theory predicts molecular shapes by electron pair repulsion, abbreviated VSEPR?|valence shell electron pair repulsion theory|VSEPR;VSEPR theory|
+-|h|What is the hybridization of carbon in ethylene?|sp2|sp squared;sp2 hybridization|
+B|m|Answer these questions about thermodynamics.
+-|e|What term describes a reaction that releases heat?|exothermic||
+-|m|What quantity, symbolized S, measures disorder?|entropy||
+-|h|What quantity, symbolized G and named for a Yale scientist, determines reaction spontaneity?|Gibbs free energy|Gibbs energy;free energy|
+B|m|Answer these questions about laboratory techniques.
+-|e|What lab glassware is used for precise measurement of liquid volume during a titration, with a stopcock?|burette|buret|
+-|m|What separation technique uses a mobile phase and a stationary phase, for example on paper?|chromatography|paper chromatography|
+-|h|What technique measures mass-to-charge ratios of ions, abbreviated MS?|mass spectrometry|mass spectroscopy;mass spectrometer|
+B|m|Answer these questions about kinetics and equilibrium.
+-|e|What term describes the speed at which reactants are consumed?|reaction rate|rate of reaction;rate|
+-|m|What is the term for the expression of products over reactants at equilibrium, symbolized K?|equilibrium constant|K eq;Keq|
+-|h|What term describes the slowest step in a mechanism?|rate-determining step|rate determining step;rate-limiting step;rate limiting step|
+B|m|Answer these questions about famous chemists.
+-|e|Which French chemist is called the father of modern chemistry and was guillotined in 1794?|Antoine Lavoisier|Lavoisier|n
+-|m|Which New Zealand-born physicist proposed the nuclear model of the atom after his gold foil experiment?|Ernest Rutherford|Rutherford|n
+-|h|Which American chemist won Nobel Prizes in both Chemistry and Peace, and wrote about the nature of the chemical bond?|Linus Pauling|Pauling|n
+

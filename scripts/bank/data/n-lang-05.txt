@@ -1,0 +1,120 @@
+# ncal jv | Fine Arts | French 2
+e|What is the French word for "kitchen"?|la cuisine|cuisine|f
+e|What is the French word for "bedroom"?|la chambre|chambre|f
+e|What is the French word for "bathroom"?|la salle de bains|salle de bains|f
+e|What is the French word for "window"?|la fenêtre|fenêtre;fenetre|f
+e|What is the French word for "door"?|la porte|porte|f
+e|What is the French word for "city," including its article?|la ville|ville|f
+e|What is the French word for "car"?|la voiture|voiture;l'auto;auto|f
+e|What is the French word for "airport," including its article?|l'aéroport|aéroport;aeroport|f
+e|What is the French word for "train," including its article?|le train|train|f
+e|What is the French word for "suitcase"?|la valise|valise|f
+e|What is the French word for "beach"?|la plage|plage|f
+e|What does the French verb "boire" mean in English?|to drink|drink
+e|What does the French verb "écrire" mean in English?|to write|write
+e|What does the French verb "courir" mean in English?|to run|run
+e|What does the French verb "travailler" mean in English?|to work|work
+e|What does the French verb "ouvrir" mean in English?|to open|open
+e|What does the French verb "aider" mean in English?|to help|help
+e|What does the French verb "lire" mean in English?|to read|read
+e|What does the French noun "cadeau" mean in English?|gift|present
+e|What does the French word "tôt" mean in English?|early|
+e|What does the French word "tard" mean in English?|late|
+e|What does the French word "près" mean in English?|near|close;nearby
+e|What does the French word "loin" mean in English?|far|far away
+e|What does the French word "sale" mean in English?|dirty|
+e|What does the French word "propre" mean in the sense of "tidy" or "not dirty"?|clean|
+e|What does the French word "cher" mean when it describes a price?|expensive|
+e|What does the French phrase "bon marché" mean in English?|cheap|inexpensive
+e|What French word means "also" or "too"?|aussi|f
+e|What does the French verb "habiter" mean in English?|to live|live
+e|What does the French verb "regarder" mean in English?|to watch|to look at;watch;look at
+e|What does the French word "heureux" mean in English?|happy|
+e|What does the French word "triste" mean in English?|sad|
+m|What is the past participle of "parler," used in the passé composé?|parlé|f
+m|What is the past participle of "finir"?|fini|f
+m|What is the past participle of "vendre"?|vendu|f
+m|What is the past participle of "avoir"?|eu|f
+m|What is the past participle of "être"?|été|f
+m|What is the past participle of "faire"?|fait|f
+m|What is the past participle of "prendre"?|pris|f
+m|What is the past participle of "voir"?|vu|f
+m|What is the past participle of "boire"?|bu|f
+m|What is the past participle of "lire"?|lu|f
+m|What is the past participle of "écrire"?|écrit|f
+m|What is the past participle of "mettre"?|mis|f
+m|What auxiliary verb is used in the passé composé of most verbs, such as "manger"?|avoir|f
+m|What auxiliary verb is used in the passé composé of "aller"?|être|f
+m|What is the je form of "faire" in the present tense?|fais|f
+m|What is the nous form of "faire" in the present tense?|faisons|f
+m|What is the je form of "prendre" in the present tense?|prends|f
+m|What is the nous form of "prendre" in the present tense?|prenons|f
+m|What is the je form of "vouloir" in the present tense?|veux|f
+m|What is the je form of "pouvoir" in the present tense?|peux|f
+m|What is the je form of "devoir" in the present tense?|dois|f
+m|What is the je form of "venir" in the present tense?|viens|f
+m|What is the je form of "voir" in the present tense?|vois|f
+m|What is the je form of "dire" in the present tense?|dis|f
+m|What is the je form of "savoir" in the present tense?|sais|f
+m|What is the je form of "boire" in the present tense?|bois|f
+m|What is the tu form of "aller" in the present tense?|vas|f
+m|What is the vous form of "faire" in the present tense?|faites|f
+m|What is the ils form of "avoir" in the present tense?|ont|f
+m|What is the ils form of "être" in the present tense?|sont|f
+m|What is the ils form of "aller" in the present tense?|vont|f
+m|What is the nous form of "manger" in the present tense?|mangeons|f
+m|What is the nous form of "commencer" in the present tense?|commençons|f
+m|What is the nous form of "être" in the imparfait?|étions|f
+m|What is the je form of "parler" in the imparfait?|parlais|f
+m|What is the je form of "être" in the imparfait?|étais|f
+m|What is the je form of "avoir" in the imparfait?|avais|f
+m|What is the French word for "to wake up," a reflexive verb?|se réveiller|reveiller|f
+m|What is the French reflexive pronoun used with "je"?|me|m'|f
+m|What is the French word for "to get dressed"?|s'habiller|habiller|f
+m|What is the French word for "toothbrush"?|la brosse à dents|brosse à dents|f
+m|What is the French word for "soap," including its article?|le savon|savon|f
+m|What is the French word for "towel"?|la serviette|serviette|f
+m|What is the French word for "stomach"?|le ventre|ventre;l'estomac;estomac|f
+m|What is the French word for "throat"?|la gorge|gorge|f
+m|What is the French phrase for "headache," using "mal"?|le mal de tête|mal de tête|f
+m|What is the French word for "pharmacy"?|la pharmacie|pharmacie|f
+m|What is the French word for "hospital"?|l'hôpital|hôpital;hopital|f
+m|What is the French word for "bank," as a place for money?|la banque|banque|f
+m|What is the French word for "post office"?|la poste|poste;le bureau de poste|f
+m|What is the French word for "bakery"?|la boulangerie|boulangerie|f
+m|What is the French word for "neighborhood"?|le quartier|quartier|f
+m|What is the French word for "corner" of a street?|le coin|coin|f
+m|What is the French word for "to turn" when giving directions?|tourner|f
+m|What is the French phrase for "straight ahead"?|tout droit|f
+m|What is the French phrase for "to the right"?|à droite|droite|f
+m|What does the French word "bientôt" mean in English?|soon|
+m|What does the French word "quelquefois" mean in English?|sometimes|
+m|What does the French word "trop" mean in English?|too much|too
+m|What does the French word "meilleur" mean in English?|better|best
+m|What French word means "more" in comparisons, as in "___ grand que"?|plus|f
+m|What French word means "than" in comparisons, as in "plus grand ___"?|que|f
+m|What is the French word for the number 50?|cinquante|f
+m|What is the French word for the number 70?|soixante-dix|f
+m|What is the French word for the number 80?|quatre-vingts|quatre-vingt|f
+m|What is the French word for the number 1000?|mille|f
+m|What is the French word for the ordinal "first"?|premier|première|f
+h|What is the French word for "to remember"?|se souvenir|se rappeler|f
+h|What is the past participle of "venir"?|venu|f
+h|What is the past participle of "naître"?|né|f
+h|What is the past participle of "ouvrir"?|ouvert|f
+h|What is the past participle of "pouvoir"?|pu|f
+h|What is the past participle of "vouloir"?|voulu|f
+h|What is the past participle of "devoir"?|dû|du|f
+h|What is the past participle of "connaître"?|connu|f
+h|What is the nous form of "voir" in the present tense?|voyons|f
+h|What is the ils form of "prendre" in the present tense?|prennent|f
+h|What is the ils form of "venir" in the present tense?|viennent|f
+h|What is the ils form of "vouloir" in the present tense?|veulent|f
+h|What is the vous form of "dire" in the present tense?|dites|f
+h|What is the tu form of "se lever" in the present tense?|tu te lèves|te lèves|f
+h|What is the je form of "acheter" in the present tense?|achète|f
+h|What is the je form of "appeler" in the present tense?|appelle|f
+h|What does the French word "sans" mean in English?|without|
+h|What is the French word for "lawn" or "grass"?|l'herbe|herbe;la pelouse;pelouse|f
+h|What is the French word for "sidewalk"?|le trottoir|trottoir|f
+h|What is the French word for "stairs"?|l'escalier|escalier;les escaliers;escaliers|f

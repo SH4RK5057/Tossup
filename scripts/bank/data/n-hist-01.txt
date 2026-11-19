@@ -1,0 +1,137 @@
+# ncal novice | Social Science | U.S. Geography
+e|Which state is nicknamed the Last Frontier?|Alaska
+e|Which state is nicknamed the Sooner State?|Oklahoma
+e|Which state is nicknamed the Evergreen State?|Washington
+e|Which New England state has Hartford as its capital?|Connecticut
+e|Which state is known for Mardi Gras and has Baton Rouge as its capital city?|Louisiana
+m|Which state is nicknamed the Garden State and lies just west of New York City?|New Jersey
+m|Which state is nicknamed the Keystone State and has Philadelphia as its largest city?|Pennsylvania
+m|Which state is nicknamed the Badger State?|Wisconsin
+m|Which state is nicknamed the Show-Me State?|Missouri
+m|Which state is nicknamed the Granite State?|New Hampshire
+h|Which state is nicknamed the Natural State and has Little Rock as its capital?|Arkansas
+h|Which state is nicknamed the Cornhusker State?|Nebraska
+h|Which state is nicknamed the Sunflower State?|Kansas
+e|What is the capital city of the United States?|Washington, D.C.|Washington;Washington DC;Washington District of Columbia
+e|What is the smallest state in the United States by area?|Rhode Island
+e|Which ocean borders the United States on its west coast?|Pacific Ocean|Pacific
+e|Which state is made up of a chain of islands in the Pacific and has the capital Honolulu?|Hawaii
+e|Which two countries share a land border with the contiguous United States?|Canada and Mexico|Mexico and Canada;Canada;Mexico
+e|What is the name of the longest river in the United States, which flows from Montana to the Gulf of Mexico?|Missouri River|Missouri
+e|Which U.S. state is home to the Grand Canyon?|Arizona
+e|What is the capital of California?|Sacramento
+e|What is the capital of Texas?|Austin
+e|What is the capital of New York State?|Albany
+e|Which U.S. state is nicknamed the Sunshine State and has Miami as a major city?|Florida
+e|Which U.S. state is the westernmost of the contiguous states, bordering Oregon and Mexico?|California
+e|Which mountain range in the western United States includes Pikes Peak and Longs Peak in Colorado?|Rocky Mountains|Rockies;Rocky Mountain
+e|Which state is nicknamed the Beehive State and has Salt Lake City as its capital?|Utah
+m|What is the capital of Massachusetts?|Boston
+m|What is the capital of Pennsylvania?|Harrisburg
+m|What is the capital of Ohio?|Columbus
+m|What is the capital of Georgia?|Atlanta
+m|What is the capital of Washington State?|Olympia
+m|What is the capital of Colorado?|Denver
+m|What is the capital of Arizona?|Phoenix
+m|What is the capital of Oregon?|Salem
+m|What is the capital of Nevada?|Carson City
+m|What is the capital of Michigan?|Lansing
+m|What is the capital of Louisiana?|Baton Rouge
+m|Which city is the largest in the United States by population?|New York City|New York;New York, New York
+m|Which national park in Wyoming is famous for the geyser Old Faithful?|Yellowstone National Park|Yellowstone
+m|Which U.S. state is known as the Lone Star State?|Texas
+m|Which state is nicknamed the Bay State and has Boston as its capital?|Massachusetts
+m|Which state is nicknamed the Empire State?|New York
+m|What is the name of the large desert in the southwestern United States that includes Death Valley?|Mojave Desert|Mojave
+m|Which U.S. state has the nickname the Peach State?|Georgia
+m|Which river flows through the Grand Canyon?|Colorado River|Colorado
+m|What is the name of the narrow chain of islands off the southern tip of Florida?|Florida Keys|Keys
+m|Which Great Lake has the city of Cleveland on its southern shore?|Lake Erie|Erie
+m|Which state has the nickname the Buckeye State?|Ohio
+m|Which state is known as the Hoosier State?|Indiana
+m|Which state contains Mount Rushmore?|South Dakota
+m|Which state is known as the Golden State?|California
+m|Which Pacific Northwest state has Portland as its largest city?|Oregon
+m|Which gulf lies south of Louisiana, Mississippi, and Alabama?|Gulf of Mexico
+m|Which city is the largest in Texas by population?|Houston
+m|Which U.S. state is the Aloha State?|Hawaii
+h|What is the capital of Vermont?|Montpelier
+h|What is the capital of New Mexico?|Santa Fe
+h|What is the capital of Kentucky?|Frankfort
+h|What is the capital of Alaska?|Juneau
+h|What is the capital of South Carolina?|Columbia
+h|What is the capital of Wisconsin?|Madison
+h|What is the capital of Maine?|Augusta
+h|What is the highest mountain peak in the contiguous United States, located in California?|Mount Whitney|Whitney
+h|What is the lowest point in North America, located in Death Valley?|Badwater Basin|Badwater
+h|Which waterfall on the border of New York and Ontario is the most famous in North America?|Niagara Falls|Niagara
+h|Which state is the only one to border both the Pacific Ocean and the Arctic Ocean?|Alaska
+h|Which U.S. state is the only one that borders just one other state?|Maine
+B|e|Answer these questions about U.S. state capitals.
+-|e|What is the capital of Minnesota?|Saint Paul
+-|m|What is the capital of Tennessee?|Nashville
+-|h|What is the capital of Mississippi?|Jackson
+B|m|Answer these questions about U.S. rivers.
+-|e|Which river flows from Minnesota to the Gulf of Mexico, with New Orleans near its mouth?|Mississippi River|Mississippi
+-|m|Which river flows through Washington, D.C., and is named for a Native American word?|Potomac River|Potomac
+-|h|Which river separates Pennsylvania from New Jersey and flows past Philadelphia?|Delaware River|Delaware
+B|m|Answer these questions about the Great Lakes.
+-|e|Which Great Lake is the largest by surface area?|Lake Superior|Superior
+-|m|Which Great Lake has the city of Chicago on its western shore?|Lake Michigan|Michigan
+-|h|Which Great Lake is the smallest by surface area?|Lake Ontario|Ontario
+B|e|Answer these questions about U.S. regions.
+-|e|In which region of the United States are Maine and Vermont found?|New England
+-|m|Which region of the United States includes Texas, Arizona, and New Mexico?|Southwest|the Southwest
+-|h|Which broad grassland region, including Nebraska and Kansas, is known for flat prairies and farming?|Great Plains|The Plains;Plains
+B|m|Answer these questions about U.S. national parks.
+-|e|Which national park in Arizona has a famous huge canyon carved by a river?|Grand Canyon National Park|Grand Canyon
+-|m|Which California national park is home to Half Dome and El Capitan?|Yosemite National Park|Yosemite
+-|h|Which national park in Florida protects a large subtropical wetland?|Everglades National Park|Everglades
+B|e|Answer these questions about U.S. landmarks and the states they are in.
+-|e|In which state is the Gateway Arch, located in the city of Saint Louis?|Missouri
+-|m|In which state is the Space Needle?|Washington
+-|h|In which state is the Alamo?|Texas
+B|m|Answer these questions about the 50 states.
+-|e|Which state was admitted in 1959 as the 50th and has Honolulu as its capital?|Hawaii
+-|m|Which state was the last of the original thirteen colonies to ratify the Constitution in 1790, and is the smallest by area?|Rhode Island
+-|h|Which state is nicknamed the Centennial State and has Denver as its capital?|Colorado
+B|e|Answer these questions about U.S. mountains.
+-|e|Which mountain in Alaska is the highest peak in North America?|Denali|Mount McKinley;McKinley
+-|m|Which volcano in Washington State erupted in 1980?|Mount Saint Helens|Saint Helens
+-|h|Which mountain in Washington is the tallest peak of the Cascade Range?|Mount Rainier|Rainier
+B|m|Answer these questions about U.S. cities.
+-|e|Which city is nicknamed the Windy City and sits on Lake Michigan?|Chicago
+-|m|Which Louisiana city is famous for Mardi Gras and is nicknamed the Big Easy?|New Orleans
+-|h|Which city in Nevada is known for its casinos and the Strip?|Las Vegas
+B|e|Answer these questions about U.S. territories and islands.
+-|e|Which U.S. island territory in the Caribbean has the capital San Juan?|Puerto Rico
+-|m|Which island in New York State is home to the boroughs of Brooklyn and Queens?|Long Island
+-|h|Which island territory in the western Pacific has the capital Hagatna?|Guam
+B|m|Answer these questions about U.S. bodies of water.
+-|e|Which lake in Utah is famous for being very salty?|Great Salt Lake|Salt Lake
+-|m|Which large bay on the California coast has the Golden Gate Bridge at its entrance?|San Francisco Bay
+-|h|Which large sound separates Long Island from Connecticut?|Long Island Sound
+B|e|Answer these questions about states and their borders.
+-|e|Which state lies directly south of Minnesota?|Iowa
+-|m|Which state lies directly north of Florida and west of South Carolina?|Georgia
+-|h|Which four states meet at a single point in the Southwest, called the Four Corners?|Utah, Colorado, Arizona, and New Mexico|Four Corners
+B|m|Answer these questions about U.S. state nicknames.
+-|e|Which state is nicknamed the Sunshine State?|Florida
+-|m|Which state is nicknamed the Pine Tree State?|Maine
+-|h|Which state is nicknamed the Gem State?|Idaho
+B|e|Answer these questions about states that are islands or have coastlines.
+-|e|Which state is made up of islands in the Pacific?|Hawaii
+-|m|Which state is on a peninsula between the Atlantic Ocean and the Gulf of Mexico?|Florida
+-|h|Which state has the longest coastline of any U.S. state?|Alaska
+B|m|Answer these questions about the Mississippi River region.
+-|e|Which city at the mouth of the Mississippi River is the largest in Louisiana?|New Orleans
+-|m|Which river joins the Mississippi at Saint Louis and is the longest tributary in the United States?|Missouri River|Missouri
+-|h|Which tributary joins the Mississippi at Cairo, Illinois, and flows through Ohio and Kentucky?|Ohio River|Ohio
+B|e|Answer these questions about western U.S. features.
+-|e|Which bridge connects San Francisco to Marin County?|Golden Gate Bridge
+-|m|Which large dam on the Colorado River lies near Las Vegas?|Hoover Dam
+-|h|Which mountain range in California includes Yosemite and Mount Whitney?|Sierra Nevada
+B|m|Answer these questions about the capitals of western states.
+-|e|What is the capital of Idaho?|Boise
+-|m|What is the capital of Utah?|Salt Lake City
+-|h|What is the capital of Montana?|Helena

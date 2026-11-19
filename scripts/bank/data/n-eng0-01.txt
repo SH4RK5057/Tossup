@@ -1,0 +1,209 @@
+# ncal novice | English | English Grammar
+B|e|Answer these questions about punctuation.
+-|e|What punctuation mark is used to separate items in a series, such as "red, white, and blue"?|comma
+-|m|What punctuation mark can join two closely related independent clauses without a conjunction?|semicolon
+-|m|What punctuation mark usually introduces a list that follows a complete sentence?|colon
+B|e|Answer these questions about irregular verbs.
+-|e|What is the past tense of the verb "run"?|ran
+-|m|What is the past participle of the verb "take"?|taken
+-|h|What is the past participle of the verb "choose"?|chosen
+B|m|Answer these questions about possessive nouns.
+-|e|What is the possessive form of the singular noun "girl"?|girl's
+-|m|What is the possessive form of the plural noun "dogs"?|dogs'|ok
+-|m|What is the possessive form of the plural noun "women"?|women's
+B|m|Answer these questions about pronouns.
+-|e|What kind of pronoun, such as "I," "you," or "she," refers to a specific person or thing?|personal pronoun|personal
+-|m|What kind of pronoun, such as "myself" or "themselves," reflects the action back to the subject?|reflexive pronoun|reflexive
+-|h|Which pronoun is correct in "To ___ did you give the book": who or whom?|whom|ok
+B|m|Answer these questions about subject-verb agreement.
+-|e|Which verb is correct in "He ___ a new bike": have or has?|has|ok
+-|m|Which verb is correct in "Everyone ___ ready": is or are?|is|ok
+-|h|Which verb is correct in "The group of students ___ late": was or were?|was|ok
+B|e|Answer these questions about verb tenses.
+-|e|What verb tense is used in the sentence "She danced all night"?|past tense|past
+-|m|"She has danced all night" is written in which tense that uses "has" plus a past participle?|present perfect|present perfect tense
+-|h|What tense uses "had" plus a past participle, as in "She had danced all night"?|past perfect|past perfect tense
+B|m|Answer these questions about degrees of adjectives.
+-|e|What is the superlative form of the adjective "big"?|biggest
+-|m|What is the comparative form of the adjective "beautiful"?|more beautiful
+-|h|What is the superlative form of the adjective "good"?|best
+B|h|Answer these questions about sentence structure.
+-|e|What type of sentence has two independent clauses joined by a comma and a word such as "and" or "but"?|compound sentence|compound
+-|m|What term names a clause that cannot stand alone as a sentence?|dependent clause|subordinate clause;dependent;subordinate
+-|h|What type of sentence combines one main clause with at least one clause that cannot stand alone?|complex sentence|complex
+B|e|Answer these questions about conjunctions.
+-|e|In the sentence "I like tea but she likes coffee," which word is the conjunction?|but|ok
+-|m|What acronym names the seven coordinating conjunctions?|FANBOYS
+-|h|What kind of conjunctions, such as "either...or" and "neither...nor," work in pairs?|correlative conjunctions|correlative conjunction;correlative
+B|e|Answer these questions about prepositions.
+-|e|In the sentence "The book is on the table," which word is the preposition?|on|ok
+-|m|What term names a group of words made of a preposition, its object, and any modifiers?|prepositional phrase
+-|h|In the sentence "She walked across the bridge," which word is the object of the preposition?|bridge|the bridge|ok
+B|m|Answer these questions about words that are often confused.
+-|e|Which spelling means "also": to, too, or two?|too|ok
+-|m|Which word completes the sentence "The weather will ___ our plans": affect or effect?|affect|ok
+-|h|Which word completes the sentence "Everyone ___ Tom came to the party": accept or except?|except|ok
+B|h|Answer these questions about more punctuation.
+-|e|What pair of marks is placed around dialogue in a story?|quotation marks|quotation mark;quotes
+-|m|What punctuation mark joins the parts of a compound word such as "mother-in-law"?|hyphen
+-|h|What punctuation mark, made with a long horizontal line, sets off a sudden break in thought?|dash|em dash
+B|m|Answer these questions about kinds of verbs.
+-|e|What kind of verb, such as "is" or "seems," connects the subject to a word that describes it?|linking verb|linking
+-|m|What kind of verb, such as "can" or "will," comes before a main verb to help it?|helping verb|auxiliary verb;auxiliary;helping
+-|h|In the sentence "She is a doctor," what word is the predicate nominative?|doctor|a doctor|ok
+B|h|Answer these questions about voice and mood.
+-|e|Is the sentence "The dog chased the cat" written in the active voice or the passive voice?|active voice|active|ok
+-|m|What voice is shown when the subject receives the action, as in "The cat was chased by the dog"?|passive voice|passive|ok
+-|h|Which verb is correct in "If I ___ you, I would study harder": was or were?|were|ok
+B|m|Answer these questions about common usage choices.
+-|e|Which word completes the sentence "She sings very ___": good or well?|well|ok
+-|m|Which word completes the sentence "There are ___ cookies left than before": fewer or less?|fewer|ok
+-|h|Which pronoun completes the phrase "between you and ___": I or me?|me|ok
+B|m|Answer these questions about plural nouns.
+-|e|What is the plural of the word "ox"?|oxen
+-|m|What is the plural of the word "sheep"?|sheep|ok
+-|h|What is the plural of the word "phenomenon"?|phenomena
+B|e|Answer these questions about contractions.
+-|e|What is the contraction of the words "they are"?|they're
+-|m|What is the contraction of the words "should not"?|shouldn't
+-|h|What is the contraction of the words "of the clock"?|o'clock
+
+# ncal novice | English | English Vocabulary
+B|e|Answer these questions about synonyms.
+-|e|What word means the same as the word "glad"?|happy|pleased;joyful;cheerful
+-|m|What word means the same as the word "brave"?|courageous|bold;fearless;heroic
+-|h|What word means the same as the word "scarce"?|rare|limited;sparse
+B|e|Answer these questions about antonyms.
+-|e|What is the opposite of the word "wet"?|dry
+-|m|What is the opposite of the word "rough"?|smooth
+-|h|What is the opposite of the word "expand"?|contract|shrink
+B|m|Answer these questions about prefixes.
+-|e|What does the prefix "dis-" mean in the word "disagree"?|not|opposite;opposite of
+-|m|What does the prefix "semi-" mean in the word "semicircle"?|half
+-|h|What does the prefix "post-" mean in the word "postwar"?|after
+B|m|Answer these questions about suffixes.
+-|e|What suffix added to the word "slow" makes the adverb "slowly"?|-ly|ly
+-|m|What does the suffix "-ology" mean in the word "biology"?|study of|the study of
+-|h|What does the suffix "-phobia" mean in the word "claustrophobia"?|fear of|fear
+B|e|Answer these questions about Greek and Latin roots.
+-|e|What does the Latin root "aqua" mean in the word "aquarium"?|water
+-|m|What does the Latin root "dict" mean in the word "dictate"?|say|speak;tell
+-|h|What does the Greek root "chron" mean in the word "chronology"?|time
+B|m|Answer these questions about more word roots.
+-|e|What does the Greek root "bio" mean in the word "biography"?|life
+-|m|What does the Greek root "graph" mean in the word "autograph"?|write|writing
+-|h|What does the Latin root "spect" mean in the word "spectator"?|look|see;watch
+B|m|Answer these questions about still more word roots.
+-|e|What does the Greek root "tele" mean in the word "telescope"?|far|distance;distant;far off
+-|m|What does the Latin root "aud" mean in the word "audience"?|hear|listen
+-|h|What does the Latin root "ped" mean in the word "pedestrian"?|foot
+B|m|Answer these questions about homophones.
+-|e|What word sounds like "sea" but means to look at something?|see
+-|m|What word sounds like "flower" but names the powder used to bake bread?|flour
+-|h|What word sounds like "principal" but means a basic rule or belief?|principle
+B|m|Answer these questions about kinds of words.
+-|e|What term names words that sound alike but have different spellings and meanings, such as "two" and "too"?|homophones|homophone
+-|m|What term names a word formed from the first letters of a phrase, such as "NASA"?|acronym
+-|h|What term names words that are spelled alike but pronounced differently and have different meanings, such as "tear" the drop and "tear" the rip?|heteronyms|heteronym;homograph;homographs
+B|e|Answer these questions about word origins.
+-|e|What language of ancient Rome gave English many of its prefixes and roots?|Latin
+-|m|What ancient language gave English the words "democracy" and "telephone"?|Greek|ancient Greek
+-|h|The word "tsunami" came into English from what language?|Japanese
+B|m|Answer these questions about describing words.
+-|e|What word describes a person who always tells the truth?|honest|truthful
+-|m|What word describes a person who refuses to change his or her mind?|stubborn|obstinate;headstrong;pigheaded
+-|h|What word describes a person who is unselfish and puts the needs of others first?|altruistic|selfless
+B|e|Answer these questions about people who study things.
+-|e|What word names a person who writes poems?|poet
+-|m|What word names a scientist who studies rocks and the earth?|geologist
+-|h|What word names a scientist who studies the weather?|meteorologist
+B|e|Answer these questions about idioms.
+-|e|What word completes the idiom "cost an arm and a ___"?|leg
+-|m|What word completes the idiom "spill the ___," meaning to reveal a secret?|beans
+-|h|What word completes the idiom "a blessing in ___"?|disguise
+B|m|Answer these questions about word forms.
+-|e|What is the adjective form of the noun "danger"?|dangerous
+-|m|What is the noun form of the verb "decide"?|decision
+-|h|What is the noun form of the verb "know" that names what a person has learned?|knowledge
+B|e|Answer these questions about reference works.
+-|e|What kind of book contains maps of the world?|atlas
+-|m|What kind of reference work has articles on many subjects?|encyclopedia
+-|h|What alphabetical list of topics with page numbers appears at the back of a book?|index
+B|e|Answer these questions about compound words.
+-|e|What compound word is made by joining "snow" and "man"?|snowman
+-|e|What compound word is made by joining "moon" and "light"?|moonlight
+-|m|What compound word is made by joining "cup" and "board"?|cupboard
+B|m|Answer these questions about periods of time.
+-|e|What word names a period of ten years?|decade
+-|m|What word names a period of one hundred years?|century
+-|h|What word names a period of one thousand years?|millennium
+
+# ncal novice | English | Literary Terms
+B|e|Answer these questions about sound devices in writing.
+-|e|What term names the repetition of the same beginning consonant sound in nearby words, as in "Peter Piper picked"?|alliteration
+-|m|What term names the repetition of vowel sounds in nearby words, as in "the rain in Spain"?|assonance
+-|h|What term names the repetition of consonant sounds within or at the ends of nearby words, as in "pitter-patter"?|consonance
+B|e|Answer these questions about plot.
+-|e|What term names a surprising turn in the plot that readers do not expect?|plot twist|twist
+-|m|The most exciting moment of a story, which comes before the falling action, is called what?|climax
+-|h|What term names a false clue that leads readers away from the truth in a mystery?|red herring
+B|m|Answer these questions about poetry.
+-|e|What term names the voice that talks in a poem?|speaker
+-|m|What term names a pause in the middle of a line of poetry?|caesura
+-|h|What term names the running over of a sentence from one line of poetry to the next without a pause?|enjambment|enjambement
+B|m|Answer these questions about characters.
+-|e|What term names the method a writer uses to reveal a character's personality?|characterization
+-|m|What term names a complex, well-developed character who seems like a real person?|round character|round
+-|m|What term names a simple character who shows only one or two traits?|flat character|flat
+B|e|Answer these questions about narrators.
+-|e|What point of view uses the pronoun "I" to tell a story?|first person|first-person;first-person point of view
+-|m|What rare point of view addresses the reader as "you"?|second person|second-person;second-person point of view
+-|h|What term names a narrator whose account cannot be trusted?|unreliable narrator|unreliable
+B|m|Answer these questions about genres.
+-|e|What genre of fiction involves science, space travel, or future technology?|science fiction|sci-fi
+-|m|What genre of fiction sets invented characters in a real period of the past?|historical fiction
+-|h|What genre shows a frightening imagined society, often ruled by an oppressive government?|dystopian fiction|dystopia;dystopian
+B|m|Answer these questions about nonfiction.
+-|e|What term names a short piece of nonfiction that gives a writer's thoughts on one subject?|essay
+-|m|What term names a newspaper article that gives the opinion of the editors?|editorial
+-|h|What term names the sentence, usually in the introduction of a paper, that states the writer's main claim?|thesis statement|thesis
+B|m|Answer these questions about drama.
+-|e|What term names a short division of an act in a play?|scene
+-|m|What term names a remark that an actor makes to the audience that other characters do not hear?|aside
+-|h|What term names a situation in which the audience knows something that the characters do not?|dramatic irony
+B|m|Answer these questions about rhyme.
+-|e|What term names a rhyme that occurs within a single line of poetry?|internal rhyme
+-|m|What term names a rhyme in which the sounds are close but not exact, such as "home" and "come"?|slant rhyme|near rhyme;half rhyme;off rhyme
+-|h|What term names the use of harsh, clashing sounds in writing?|cacophony
+B|e|Answer these questions about kinds of stories.
+-|e|What term names a brief work of fiction that can be read in one sitting?|short story
+-|m|What term names a simple story that teaches a moral or spiritual lesson?|parable
+-|h|What term names a story in which characters and events stand for deeper ideas?|allegory
+B|e|Answer these questions about reading skills.
+-|e|What term names a writer's reason for writing, such as to inform, to persuade, or to entertain?|author's purpose|purpose
+-|m|What term names a conclusion that a reader draws from clues in the text?|inference
+-|h|What term names a writer's unfair leaning toward one side of an issue?|bias
+B|h|Answer these questions about poem forms.
+-|e|What kind of poem uses the letters of a word, read down the page, to spell a message?|acrostic poem|acrostic
+-|m|What kind of poem is arranged on the page in the shape of its subject?|concrete poem|shape poem;concrete
+-|h|What nineteen-line poem uses two repeating refrains?|villanelle
+B|m|Answer these questions about types of conflict.
+-|e|What kind of conflict takes place inside a character's own mind?|internal conflict|internal
+-|m|What kind of conflict pits a character against a storm, a wild animal, or the wilderness?|character versus nature|person versus nature;man versus nature;nature
+-|h|What kind of conflict pits a character against the rules or beliefs of a community?|character versus society|person versus society;man versus society;society
+B|e|Answer these questions about word meaning.
+-|e|What term names an overused expression, such as "cold as ice"?|cliche|cliché
+-|m|What term names the feelings or ideas a word suggests beyond its dictionary meaning?|connotation
+-|h|What term names the literal dictionary meaning of a word?|denotation
+B|m|Answer these questions about humor in writing.
+-|e|What term names comedy that uses clumsy physical action, such as pratfalls and pie fights?|slapstick
+-|m|What term names a humorous imitation of a serious work?|parody
+-|h|What term names writing that uses humor to criticize human foolishness or the faults of society?|satire
+B|h|Answer these questions about book structure.
+-|e|What term names one numbered division of a novel?|chapter
+-|m|What term names a book that continues the story of an earlier book?|sequel
+-|h|What term names a work of fiction longer than a short story but shorter than a novel?|novella
+B|h|Answer these questions about literary devices.
+-|e|What term names a hero's loyal companion and helper?|sidekick
+-|m|What term names a question asked for effect rather than to get an answer?|rhetorical question
+-|h|What term names an image or idea that recurs throughout a work?|motif

@@ -1,0 +1,63 @@
+# quizbowl jv | Science | Biology
+h|This process occurs in the cytoplasm and splits a six-carbon sugar into two molecules of pyruvate. It uses two ATP in an investment phase and yields a net gain of two ATP and two NADH. It does not require oxygen, and it is the first stage of cellular respiration. For 10 points, name this metabolic pathway.|glycolysis
+h|The Hershey-Chase experiment of 1952 used radioactive sulfur and radioactive phosphorus to label the proteins and DNA of this kind of virus. After it infected Escherichia coli, only the radioactive phosphorus entered the host cells. This showed that DNA is the genetic material. For 10 points, name this type of virus that infects bacteria.|bacteriophage|phage;T2 phage
+h|This enzyme uses a template of RNA to synthesize a strand of DNA. It is carried by viruses such as HIV, which is a member of the Retroviridae. Howard Temin and David Baltimore shared a Nobel Prize for discovering it. For 10 points, name this enzyme that reverses the usual direction of the central dogma.|reverse transcriptase
+h|In 1961, Francois Jacob and Jacques Monod described this genetic unit in E. coli. It consists of a promoter, an operator, and structural genes, and a repressor protein can bind to the operator. The lac one is turned on by lactose. For 10 points, name this cluster of genes controlled together.|operon|lac operon
+h|This cycle, named for an American biochemist, takes place in the stroma of the chloroplast. The enzyme RuBisCO fixes carbon dioxide onto ribulose bisphosphate, and ATP and NADPH from the light reactions drive the reduction steps. For 10 points, name this light-independent set of reactions that makes sugar.|Calvin cycle|Calvin-Benson cycle;Calvin Benson cycle;Calvin
+h|This process produces ATP when protons flow through the enzyme ATP synthase down a gradient across a membrane. Peter Mitchell proposed it in his chemiosmotic theory and won a Nobel Prize in 1978. For 10 points, name this process that couples an electron transport chain to ATP production.|oxidative phosphorylation|chemiosmosis
+h|This is the term for the process in which a cell engulfs large particles or whole microbes by wrapping its membrane around them to form a vesicle. Macrophages use it to destroy bacteria. For 10 points, name this form of endocytosis whose name means "cell eating."|phagocytosis
+h|This molecule is the main energy currency of the cell. It consists of adenine, ribose, and three phosphate groups, and energy is released when its terminal phosphate bond is hydrolyzed. For 10 points, name this nucleotide abbreviated with three letters.|ATP|adenosine triphosphate
+m|These cells transmit electrical impulses along an axon and receive signals through branching dendrites. The gap between two of them is called a synapse, where neurotransmitters are released. For 10 points, name these cells that make up the nervous system.|neurons|neuron;nerve cells
+m|In 1952 Rosalind Franklin took Photo 51, an X-ray diffraction image that led Watson and Crick to this conclusion about DNA. Their model showed two antiparallel strands wound around each other. For 10 points, give this shape of DNA.|double helix
+m|A project completed in 2003 found about 20,000 protein-coding genes in humans, spread over 23 pairs of chromosomes. This term names what that project sequenced: the complete set of an organism's DNA. Bacteria, yeast, and fruit flies have also had theirs sequenced. For 10 points, give this term for an organism's entire collection of genetic material.|genome
+m|Plants that live in dry places use this type of photosynthesis, in which stomata open at night to take in carbon dioxide. It is used by cacti and succulents. For 10 points, name this pathway abbreviated CAM.|CAM photosynthesis|crassulacean acid metabolism;CAM
+m|This hormone is made by the beta cells of the pancreas and lowers blood glucose by helping cells take up sugar. A lack of it or resistance to it causes diabetes mellitus. For 10 points, name this hormone.|insulin
+m|This is the name for the process in which genes' relative frequencies in a population change by random chance, especially in small populations. The bottleneck effect and founder effect are examples. For 10 points, give this term.|genetic drift
+m|This type of tissue in plants, found at root tips and shoot tips, is made of undifferentiated cells that divide. Growth in length comes from it. For 10 points, name this plant tissue whose name means "divisible."|meristem|meristematic tissue
+m|This scientist's two laws of inheritance are called the law of segregation and the law of independent assortment. He published results from experiments on pea plants in 1866. For 10 points, name this Austrian friar.|Gregor Mendel|Mendel|n
+m|This is the term for the offspring of a cross between parents differing in one trait, such as Tt from TT and tt. They show the dominant phenotype in complete dominance. For 10 points, name this genetic condition of having two different alleles.|heterozygous|heterozygote
+m|This type of natural selection favors both extreme phenotypes over the intermediate one, which can split a population in two. Finches with very large or very small beaks are an example. For 10 points, name this type of selection that can lead to speciation.|disruptive selection|diversifying selection
+m|These are the structures made of microtubules that pull chromosomes apart during cell division. They attach to centromeres at the kinetochore. For 10 points, name these fibers that form between the two centrioles.|spindle fibers|mitotic spindle;spindle
+m|This is the name for the kind of mutation in which one nucleotide is replaced by another, such as the one causing sickle cell anemia. The change can alter a single amino acid in hemoglobin. For 10 points, name this type of small mutation.|point mutation|substitution;missense mutation
+m|This is the term for the maintenance of a stable internal environment in an organism, as in the regulation of body temperature by sweating and shivering. Negative feedback loops regulate it. For 10 points, name this process.|homeostasis
+e|This is the name for the group of organisms of the same species that live in the same area. Ecologists study their size, density, and growth. For 10 points, name this group, which is smaller than a community.|population
+e|This is the name for the process by which a cell makes proteins from the code on messenger RNA at a ribosome. Transfer RNAs bring amino acids that match each codon. For 10 points, name this step that follows transcription.|translation
+e|This organ of the digestive system produces bile and is the largest internal organ. Bile helps to emulsify fats. For 10 points, name this organ that sits under the diaphragm on the right side of the abdomen.|liver
+e|This tough, rigid layer lies outside the cell membrane of plants, fungi, and bacteria. In plants it is built from cellulose, and in fungi from chitin. For 10 points, name this protective outer layer that gives these cells their shape.|cell wall
+e|Cells use this process to make ATP when oxygen is available. It breaks down glucose into carbon dioxide and water in the mitochondria. For 10 points, name this process, the reverse in some ways of photosynthesis.|cellular respiration|aerobic respiration;respiration
+e|This is the term for a trait that is hidden when a dominant allele is present. A person must inherit two copies of the allele to show it, as in cystic fibrosis. For 10 points, name this kind of allele or trait.|recessive|recessive allele
+e|These are the cells that carry out the immune response, including B cells and T cells. They are produced in the bone marrow and are also called leukocytes. For 10 points, name these blood cells that fight infection.|white blood cells|leukocytes;white blood cell;WBCs
+e|This is the process by which green plants release water vapor through tiny pores on leaves, which are also the sites of gas exchange. For 10 points, name these pores, each surrounded by two guard cells.|stomata|stoma;stomate
+e|This is the name for the type of cells that can develop into many different types of specialized cells. Embryonic ones can become any cell type in the body. For 10 points, name these undifferentiated cells.|stem cells|stem cell
+B|m|Answer these questions about the molecular biology of the cell.
+-|e|In DNA, which nitrogenous base pairs with adenine?|thymine
+-|m|What enzyme joins nucleotides together during DNA replication?|DNA polymerase|polymerase
+-|h|What enzyme seals the gaps between Okazaki fragments on the lagging strand?|DNA ligase|ligase
+B|m|Answer these questions about cellular respiration.
+-|e|What gas is the final electron acceptor in the electron transport chain?|oxygen|O2
+-|m|What anaerobic process in yeast produces ethanol and carbon dioxide from sugar?|alcoholic fermentation|fermentation
+-|h|What three-carbon molecule is made at the end of glycolysis?|pyruvate|pyruvic acid
+B|m|Answer these questions about the immune system.
+-|e|What type of cell makes antibodies?|B cell|B cells;plasma cell;B lymphocyte
+-|m|What organ, behind the breastbone, is the site where T cells mature?|thymus
+-|h|What type of protein on pathogens triggers an immune response?|antigen|antigens
+B|m|Answer these questions about evolution and classification.
+-|e|What is the basic unit of classification, a group of organisms that can interbreed and produce fertile offspring?|species
+-|m|What term names similar structures in different organisms, like a human arm and a bat wing, that come from a shared ancestor?|homologous structures|homologous;homology
+-|h|What term describes similar features in unrelated organisms that arose from similar environments, like the wings of birds and insects?|analogous structures|convergent evolution;analogous;analogy
+B|m|Answer these questions about the endocrine system.
+-|e|What gland at the base of the brain is often called the master gland?|pituitary gland|pituitary
+-|m|What butterfly-shaped gland in the neck controls metabolism?|thyroid|thyroid gland
+-|h|What hormone released from the adrenal medulla speeds up the heart rate during stress?|epinephrine|adrenaline
+B|m|Answer these questions about plant biology.
+-|e|What are the reproductive organs of flowering plants?|flowers|flower
+-|m|What plant hormone is responsible for fruit ripening?|ethylene
+-|h|What plant movement is growth toward light?|phototropism
+B|m|Answer these questions about biotechnology.
+-|e|What technique makes many copies of a DNA segment using a thermal cycler?|polymerase chain reaction|PCR
+-|m|What bacterial enzymes cut DNA at specific recognition sequences?|restriction enzymes|restriction endonucleases;restriction enzyme
+-|h|What technique separates DNA fragments by size in a gel using an electric current?|gel electrophoresis|electrophoresis
+B|m|Answer these questions about the organization of living things.
+-|e|What is the smallest unit of life?|cell
+-|m|What term names a group of similar cells that work together, such as muscle or nervous types?|tissue|tissues
+-|h|What term names a group of related organs working together, such as the digestive system?|organ system

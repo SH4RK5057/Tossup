@@ -1,0 +1,145 @@
+# ncal novice | English | Freshman Literature
+e|Which author wrote the play "Romeo and Juliet"?|William Shakespeare|Shakespeare|n
+e|Which author wrote the "Harry Potter" series?|J. K. Rowling|Rowling|n
+m|Which author wrote the novel "Roll of Thunder, Hear My Cry"?|Mildred D. Taylor|Taylor|n
+m|Which author wrote the novel "Maniac Magee"?|Jerry Spinelli|Spinelli|n
+m|Which author wrote the mystery novel "The Westing Game"?|Ellen Raskin|Raskin|n
+h|Which author wrote "The Cay," about a boy and an old sailor stranded on a small island?|Theodore Taylor|Taylor|n
+B|e|Answer these questions about "The Hobbit."
+-|e|What is the name of the wizard who recruits Bilbo for the adventure?|Gandalf|n
+-|m|What creature plays a riddle game with Bilbo in a dark cave?|Gollum|n
+-|h|What is the name of the dwarf leader of the company, who is called "Oakenshield"?|Thorin Oakenshield|Thorin|n=Oakenshield part
+B|m|Answer these questions about "The Giver."
+-|e|What is the name of Jonas's younger sister?|Lily|n
+-|m|What is the name of the baby whom Jonas carries away with him at the end?|Gabriel|Gabe|n
+-|h|What is the name of the girl who was the Receiver-in-training before Jonas?|Rosemary|n
+B|m|Answer these questions about "Hatchet."
+-|e|What is the first name of the thirteen-year-old boy who survives alone in the wilderness?|Brian|Brian Robeson
+-|m|What name does the boy give to the grouse-like birds that he learns to hunt?|foolbirds|foolbird
+-|h|Which large antlered animal attacks the boy in the woods?|moose|a moose
+B|m|Answer these questions about "The Outsiders."
+-|e|What is the name of the Greaser who narrates the story?|Ponyboy Curtis|Ponyboy|n=Curtis part
+-|m|Which Greaser kills a Soc named Bob to protect Ponyboy?|Johnny Cade|Johnny|n=Cade part
+-|h|Which poet wrote "Nothing Gold Can Stay," a poem Ponyboy recites?|Robert Frost|Frost|n
+B|e|Answer these questions about "Holes."
+-|e|What is the name of the boy who is sent to Camp Green Lake after being wrongly accused of theft?|Stanley Yelnats|Stanley|n=Yelnats part
+-|m|What is the nickname of Stanley's friend Hector, who digs holes beside him and cannot read at first?|Zero|Hector Zeroni
+-|h|What is the outlaw name of the former schoolteacher Kate Barlow?|Kissin' Kate Barlow|Kate Barlow;Kissin' Kate|n=Barlow part
+B|e|Answer these questions about "Charlotte's Web."
+-|e|What kind of animal is Charlotte?|spider|a spider
+-|m|What is the name of the greedy rat who lives in the barn?|Templeton|n
+-|h|What first words does Charlotte weave into her web to save Wilbur?|Some Pig
+B|m|Answer these questions about "Alice's Adventures in Wonderland."
+-|e|What grinning cat vanishes until only its smile is left?|Cheshire Cat|the Cheshire Cat;Cheshire
+-|m|Which royal character is known for shouting "Off with her head"?|Queen of Hearts|the Queen of Hearts
+-|h|What is the title of Lewis Carroll's sequel, in which Alice steps through a mirror?|Through the Looking-Glass|Through the Looking Glass
+B|e|Answer these questions about "The Lion, the Witch and the Wardrobe."
+-|e|Which Pevensie child is the first to discover Narnia through the wardrobe?|Lucy Pevensie|Lucy|n=Pevensie part
+-|m|Which faun does Lucy meet near a lamppost in Narnia?|Tumnus|Mister Tumnus|n
+-|h|What is the real name of the White Witch?|Jadis|n
+B|e|Answer these questions about "Peter Pan."
+-|e|What is the name of the island where Peter Pan lives?|Neverland|Never Land
+-|m|What is the name of Peter's fairy companion?|Tinker Bell|Tinkerbell|n=Bell part
+-|h|What is the name of the Darling children's dog, who serves as their nurse?|Nana|n
+B|m|Answer these questions about "Treasure Island."
+-|e|What is the name of the boy who narrates the story?|Jim Hawkins|Jim|n=Hawkins part
+-|m|What is the name of the inn run by Jim's parents?|Admiral Benbow|the Admiral Benbow;Admiral Benbow Inn
+-|h|What is the name of the marooned man who has been living alone on the island?|Ben Gunn|n
+B|e|Answer these questions about "The Wonderful Wizard of Oz."
+-|e|What is the name of Dorothy's little dog?|Toto|n
+-|m|What does the Tin Woodman hope to get from the Wizard?|heart|a heart
+-|h|In the original book, what color are Dorothy's magic shoes?|silver
+B|m|Answer these questions about "The Adventures of Tom Sawyer."
+-|e|Which relative is raising Tom?|Aunt Polly|Polly|n
+-|m|What chore does Tom trick his friends into doing for him by pretending that it is fun?|whitewashing a fence|painting a fence;whitewashing the fence;painting the fence;whitewash
+-|h|What is the name of the judge's daughter on whom Tom has a crush?|Becky Thatcher|Becky|n=Thatcher part
+B|m|Answer these questions about "A Wrinkle in Time."
+-|e|What is the first name of the girl at the center of the story, whose last name is Murry?|Meg|Meg Murry|n=Murry part
+-|m|What is the name of Meg's gifted young brother?|Charles Wallace|Charles Wallace Murry|n=Murry part
+-|h|What is the name of the planet where Meg and her friends find IT?|Camazotz
+B|h|Answer these questions about "Bridge to Terabithia."
+-|e|What is the name of the boy who becomes best friends with Leslie?|Jess Aarons|Jess|n=Aarons part
+-|m|What is the last name of Jess's friend Leslie?|Burke|Leslie Burke|n
+-|h|What is the name of the music teacher whom Jess admires?|Miss Edmunds|Edmunds|n
+B|h|Answer these questions about "Romeo and Juliet."
+-|e|In what Italian city is the play set?|Verona
+-|m|Which friar marries Romeo and Juliet in secret?|Friar Laurence|Friar Lawrence;Laurence;Lawrence|n=Laurence
+-|h|What is the name of the prince who scolds both families?|Prince Escalus|Escalus|n
+B|h|Answer these questions about Homer's "Odyssey."
+-|e|What is the name of the faithful wife who waits twenty years for Odysseus to come home?|Penelope|n
+-|m|What is the name of the island kingdom to which Odysseus is trying to return?|Ithaca
+-|h|What is the name of the son of Odysseus who goes in search of news about his father?|Telemachus|n
+B|m|Answer these questions about "Animal Farm."
+-|e|What kind of animals take over leadership of the farm after the rebellion?|pigs|the pigs
+-|m|What is the name of the hardworking cart horse who says "I will work harder"?|Boxer|n
+-|h|Which pig, an idealistic rival of Napoleon, is chased from the farm by Napoleon's dogs?|Snowball|n
+
+# ncal novice | English | Greek and Roman Mythology
+B|e|Answer these questions about Poseidon and Athena.
+-|e|What three-pronged spear does Poseidon carry?|trident
+-|m|Which bird is a symbol of Athena?|owl|an owl
+-|h|What name is given to the goatskin shield, often shown with Medusa's head, that Athena carries?|aegis
+B|e|Answer these questions about the underworld.
+-|e|Persephone ate the seeds of which red fruit, which kept her bound to the underworld?|pomegranate|a pomegranate
+-|m|What name is given to the paradise where the souls of heroes rest?|Elysium|Elysian Fields
+-|h|What is the name of the river of forgetfulness in the underworld?|Lethe|River Lethe
+B|m|Answer these questions about the labors of Heracles.
+-|m|Which king of Mycenae assigned the twelve labors?|Eurystheus|n
+-|m|In which labor did Heracles clean a huge filthy stable by redirecting two rivers?|Augean stables|the Augean stables;stables of Augeas;cleaning the Augean stables;Augeas
+-|h|Which wrestling giant grew stronger whenever he touched the ground, until Heracles lifted him in the air?|Antaeus|n
+B|m|Answer these questions about the Trojan War.
+-|e|Which part of the body was the only vulnerable spot on Achilles?|heel|his heel;Achilles heel
+-|m|Which king of Mycenae led the Greek army at Troy?|Agamemnon|n
+-|h|Which king of Troy was the father of Hector and Paris?|Priam|n
+B|e|Answer these questions about the Roman gods and our calendar and planets.
+-|e|Which month is named for the queen goddess Juno?|June
+-|m|Which month is named for the Roman god of war?|March
+-|h|Which planet is named for the Roman god of agriculture, the father of Jupiter?|Saturn
+B|e|Answer these questions about monsters.
+-|e|What creature, with a woman's head and a lion's body, posed a riddle at the city of Thebes?|Sphinx|the Sphinx
+-|m|Which hero solved the riddle posed at Thebes?|Oedipus|n
+-|h|Which six-headed sea monster lived opposite the whirlpool Charybdis?|Scylla|n
+B|m|Answer these questions about the Titans and Zeus.
+-|e|What weapon does Zeus hurl from the sky?|thunderbolt|lightning bolt;lightning;thunderbolts
+-|m|Which Titaness was the wife of Cronus and the mother of Zeus?|Rhea|n
+-|h|Which Titaness, whose name means "memory," was the mother of the Muses?|Mnemosyne|n
+B|e|Answer these questions about the story of the Minotaur.
+-|e|Which Greek island was ruled by King Minos?|Crete
+-|m|Which daughter of Minos gave a hero a ball of thread to find his way out of the Labyrinth?|Ariadne|n
+-|h|Which king of Athens threw himself into the sea after seeing black sails on his son's returning ship?|Aegeus|n
+B|m|Answer these questions about love stories in myth.
+-|e|Which mortal woman won the love of Cupid after completing tasks set by Venus?|Psyche|n
+-|m|Which sculptor fell in love with a statue he had carved, which Aphrodite brought to life?|Pygmalion|n
+-|h|Which handsome young man, loved by Aphrodite, was killed by a wild boar?|Adonis|n
+B|m|Answer these questions about transformations.
+-|e|Which nymph turned into a laurel tree to escape the god Apollo?|Daphne|n
+-|m|Which hunter was turned into a stag by Artemis and killed by his own hounds?|Actaeon|n
+-|h|Which grieving queen was turned into a stone that weeps after her children were killed?|Niobe|n
+B|m|Answer these questions about Jason and the Golden Fleece.
+-|e|The Golden Fleece came from what kind of animal?|ram|a ram;golden ram
+-|m|Which sorceress helped Jason win the fleece and later fled with him?|Medea|n
+-|h|Which king of Colchis guarded the Golden Fleece?|Aeetes|n
+B|m|Answer these questions about the story of Aeneas.
+-|e|Which Roman goddess of love was the mother of Aeneas?|Venus|n
+-|m|Which queen of Carthage fell in love with Aeneas and ended her own life when he left?|Dido|n
+-|h|Which man did Aeneas carry on his back out of burning Troy?|Anchises|his father Anchises|n
+B|h|Answer these questions about the first beings of Greek myth.
+-|e|Which primordial goddess personifies the Earth and was the mother of the Titans?|Gaia|Gaea|n
+-|m|Which sky god was the father of Cronus?|Uranus|Ouranos|n
+-|h|Which Titan personified the great river that encircled the world?|Oceanus|n
+B|m|Answer these questions about a famous jar in Greek myth.
+-|e|Which woman opened a jar that released troubles into the world?|Pandora|n
+-|m|What stayed inside the jar after the troubles escaped?|hope
+-|h|Which brother of Prometheus accepted the first woman as his wife?|Epimetheus|n
+B|h|Answer these questions about the Trojan War.
+-|e|Which friend of Achilles was killed by Hector while wearing Achilles' armor?|Patroclus|n
+-|m|Which king of Sparta was the husband of Helen?|Menelaus|n
+-|h|Which Trojan princess was cursed by Apollo so that no one would believe her prophecies?|Cassandra|n
+B|h|Answer these questions about myths behind the stars.
+-|e|Which giant hunter was placed in the sky as a constellation with a belt of three stars?|Orion|n
+-|m|Which twin brothers, sons of Leda, became the constellation Gemini?|Castor and Pollux|Castor;Pollux;Polydeuces
+-|h|Which swift huntress lost a footrace after stopping to pick up golden apples?|Atalanta|n
+B|e|Answer these questions about a famous Greek city.
+-|e|Which city is named for the goddess Athena?|Athens
+-|m|What famous temple to Athena stands on the Acropolis?|Parthenon|the Parthenon
+-|h|What gift from Athena won her the contest with Poseidon to be the patron of the city?|olive tree|olive;an olive tree

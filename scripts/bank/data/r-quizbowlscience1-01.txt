@@ -1,0 +1,69 @@
+# quizbowl novice | Science | Astronomy
+m|This moon is the most heavily cratered object in the solar system and has a bright multi-ring basin called Valhalla. It is the outermost of the four Galilean moons and has a thin carbon dioxide atmosphere. It orbits farther from its planet than Io, Europa, or Ganymede. For 10 points, name this Jovian moon whose name starts with a C.|Callisto||
+# quizbowl jv | Science | Math
+h|This theorem is proved by induction using the fact that a sum of two binomial coefficients equals a coefficient in the next row of a triangle. It gives the coefficient of x to the k in the expansion of the sum of x and y raised to the n as n choose k. For n equal to 4, the coefficients are 1, 4, 6, 4, 1. For 10 points, name this theorem about expanding powers of a sum of two terms.|binomial theorem|binomial expansion|
+m|The sum of these quantities for a polygon with n sides is 180 times n minus 2 degrees. This is why the three of them in a triangle sum to 180 degrees. A hexagon has six of them summing to 720 degrees. For 10 points, name these angles found inside a closed figure at the vertices.|interior angles|interior angle|
+e|This number, equal to 2 times 3 times 5 times 7, is the product of the first four primes. It is the smallest number divisible by each of 2, 3, 5, and 7. Half of it is 105. For 10 points, name this number, the product of the first four primes.|210||m
+m|This mathematician proved that the number of primes is infinite in his Elements, and also gave an algorithm for the greatest common divisor of two numbers. He is called the father of geometry. For 10 points, name this Greek mathematician who wrote the Elements.|Euclid|Euclid of Alexandria|n
+m|Conic sections include the parabola, the hyperbola, and this curve. It is defined as the set of points for which the sum of distances to two fixed foci is constant. A circle is a special case with both foci at the same point. For 10 points, name this oval-shaped conic section, the shape of planetary orbits.|ellipse|ellipses|
+e|This theorem states that in a right triangle the square of the hypotenuse equals the sum of the squares of the other two sides. A 3-4-5 triangle is a common example. For 10 points, name this theorem named for a Greek philosopher from Samos.|Pythagorean theorem|Pythagoras' theorem;Pythagoras theorem|
+h|A function f is called one of these if f of negative x equals negative f of x, so its graph is symmetric about the origin. The sine function and x cubed are examples, while cosine is not. The product of two such functions is even. For 10 points, name this type of function, the counterpart to an even function.|odd function|odd|
+m|This sequence begins 1, 1, 2, 3, 5, 8, 13. The ratios of consecutive terms approach the golden ratio. Each term is the sum of the two before it. For 10 points, name this sequence introduced to Europe in the Liber Abaci by a mathematician from Pisa.|Fibonacci sequence|Fibonacci numbers;Fibonacci|
+e|In a set of numbers, this measure of center is found by listing the values in order and taking the one in the middle. For 1, 3, 5, 7, 100 it equals 5, unaffected by the outlier. For 10 points, name this statistic distinct from the mean and the mode.|median||
+e|This number, approximately 3.14159, is the ratio of a circle's circumference to its diameter. It is irrational and transcendental. It is celebrated on March 14. For 10 points, name this constant represented by a Greek letter.|pi||
+m|This mathematician posed a "last theorem" in a margin of a copy of Arithmetica, claiming that no three positive integers satisfy a to the n plus b to the n equals c to the n for n greater than 2. A proof was finally given by Andrew Wiles. For 10 points, name this French lawyer and mathematician.|Pierre de Fermat|Fermat|n
+h|This function is defined for positive integers as the product of all positive integers up to n, and Euler extended it to the complex numbers with an integral. Zero of these is defined as 1. Five of these is 120. For 10 points, name this function written with an exclamation point.|factorial|factorial function|
+m|The Pythagorean identity states that sine squared plus this function squared equals 1. It is the ratio of adjacent side to hypotenuse in a right triangle. Its graph is a sine wave shifted by a quarter period. For 10 points, name this trigonometric function abbreviated cos.|cosine|cos|
+e|A polygon with five sides is called this. A famous United States military headquarters has this shape. Its interior angles each measure 108 degrees if it is regular. For 10 points, name this shape.|pentagon||
+m|This operation on a function gives the slope of the tangent line at each point. For x squared, the result is 2x. It was developed independently by Newton and Leibniz. For 10 points, name this basic operation of calculus, whose reverse is integration.|derivative|differentiation|
+e|The set of numbers 2, 3, 5, 7, 11, and 13 are examples of these numbers, which have exactly two positive divisors. Two is the only even one. For 10 points, name this type of number that is only divisible by one and itself.|prime numbers|prime;primes;prime number|
+m|These numbers are written as a plus b i, where i is the square root of negative one. They can be plotted on the Argand plane. The Fundamental Theorem of Algebra says polynomials factor completely over this set. For 10 points, name this extension of the real numbers.|complex numbers|complex number;complex|
+h|Cardano published a formula for the roots of this kind of polynomial equation, which Tartaglia had shown him. The general form has a term in x cubed and its graph can have up to two turning points. Abel and Galois later showed no such formula exists for degree five. For 10 points, name this degree-three kind of equation.|cubic equation|cubic;cubic polynomial|
+e|The area of a circle with radius 5 is 25 pi. The distance across a circle through its center is called this. It equals twice the radius. For 10 points, name this length, a chord passing through the center.|diameter||
+m|The probability of two independent events both occurring is found by doing this operation to their separate probabilities. For example, getting two heads in a row on fair coin flips has probability one fourth. For 10 points, name this operation, repeated addition.|multiplication|multiply|
+m|This mathematician is the namesake of a point set that is the intersection of the original unit interval after repeatedly removing middle thirds. He also introduced the theory that some infinities are larger than others, proving the reals are uncountable. For 10 points, name this German founder of set theory.|Georg Cantor|Cantor|n
+e|The set of numbers 1, 2, 3, and so on that we use to count are called these numbers. Together with zero they are the whole numbers. For 10 points, name these numbers, which contrast with the integers that include negatives.|natural numbers|counting numbers;natural|
+m|A square matrix has this quantity, which for the two by two matrix with entries a, b, c, d equals a d minus b c. If it equals zero, the matrix has no inverse. For 10 points, name this scalar value of a matrix.|determinant|determinants|
+h|In probability, this theorem says that the probability of A given B equals the probability of B given A times the probability of A, all divided by the probability of B. It is used to update beliefs given evidence. For 10 points, name this theorem named for an English reverend.|Bayes' theorem|Bayes theorem;Bayes' rule;Bayes rule|
+e|The number of degrees in a full turn around a circle is this number. It is also the number of days approximately in a year in the old Babylonian calendar. For 10 points, name this number, equal to 6 times 60.|360||m
+m|This type of sequence has a constant ratio between consecutive terms, such as 2, 6, 18, 54. The sum of infinitely many terms converges if the absolute value of the ratio is less than one. For 10 points, name this kind of sequence, distinct from an arithmetic one.|geometric sequence|geometric progression;geometric series;geometric|
+m|John Napier introduced this function to simplify multiplication into addition, and slide rules rely on it. It is the inverse of an exponential, so the base ten version of it applied to 1000 equals 3. The natural version uses the number e as its base. For 10 points, name this function written log.|logarithm|logarithms;log;logarithmic function|
+e|This number is the smallest positive integer, and it is neither prime nor composite. It is the multiplicative identity, so multiplying any number by it leaves that number unchanged. Its reciprocal is itself. For 10 points, name this number, which comes after zero and before two.|one|1|
+h|This mathematician's namesake paradox concerns the set of all sets that do not contain themselves. He co-wrote Principia Mathematica with Alfred North Whitehead. For 10 points, name this British logician and philosopher.|Bertrand Russell|Russell|n
+m|In geometry, two triangles are called this if their corresponding angles are equal and their sides are in proportion, such as a triangle and an enlarged copy of it. Congruent triangles are a special case. For 10 points, name this term for triangles with the same shape.|similar|similar triangles|
+B|m|Answer these questions about geometry.
+-|e|What shape has four equal sides and four right angles?|square||
+-|m|What term names the distance around a circle?|circumference||
+-|h|What theorem says the angle inscribed in a semicircle is a right angle, named for a Greek who lived in Miletus?|Thales' theorem|Thales theorem;Thales|
+B|m|Answer these questions about algebra.
+-|e|What is the value of x if 3x plus 4 equals 19?|5||m
+-|m|What formula gives the roots of a quadratic equation?|quadratic formula||
+-|h|What expression, b squared minus 4ac, determines how many real roots a quadratic has?|discriminant||
+B|m|Answer these questions about famous mathematicians.
+-|e|Which Greek mathematician is known for a theorem about right triangles?|Pythagoras|Pythagoras of Samos|n
+-|m|Which German mathematician is called the prince of mathematicians and supposedly summed 1 to 100 as a child?|Carl Friedrich Gauss|Gauss|n
+-|h|Which Indian mathematician, self-taught, wrote letters to G. H. Hardy that led to his work at Cambridge?|Srinivasa Ramanujan|Ramanujan|n
+B|m|Answer these questions about sets and logic.
+-|e|What word describes a set with no elements?|empty set|null set;empty|
+-|m|What operation on two sets gives all elements in both sets?|intersection||
+-|h|What laws state that the complement of a union equals the common part of the complements of each set?|De Morgan's laws|De Morgan's law;De Morgan|
+B|m|Answer these questions about trigonometry.
+-|e|What trigonometric function equals opposite over hypotenuse?|sine|sin|
+-|m|What unit measures angles such that a full circle is two pi?|radian|radians|
+-|h|What law relates the sides of any triangle to the cosine of an angle, generalizing the Pythagorean theorem?|law of cosines||
+B|m|Answer these questions about probability and statistics.
+-|e|What is the probability of rolling a 6 on a fair six-sided die, as a fraction?|1/6|one sixth;one-sixth|m
+-|m|What measure of center is the sum of the values divided by how many there are?|mean|average;arithmetic mean|
+-|h|What distribution, also called the bell curve, is named for a German mathematician?|normal distribution|Gaussian distribution;normal|
+B|m|Answer these questions about calculus.
+-|e|What is the derivative of x squared?|2x|2 x|m
+-|m|What term describes the limiting value of a function as its input approaches a point?|limit||
+-|h|What theorem links differentiation and integration?|fundamental theorem of calculus||
+B|m|Answer these questions about number theory.
+-|e|What is the smallest prime number?|2|two|m
+-|m|What term describes the largest number dividing two integers, found by Euclid's algorithm?|greatest common divisor|greatest common factor;gcd|
+-|h|What theorem says that if p is prime, a to the p minus 1 is congruent to 1 modulo p, for a not divisible by p, named for a French mathematician?|Fermat's little theorem|Fermat's little theorem;Little Fermat|
+B|m|Answer these questions about functions and graphs.
+-|e|What curve is the graph of y equals x squared?|parabola||
+-|m|What term describes the set of all possible inputs of a function?|domain||
+-|h|What term describes a function that is both one-to-one and onto?|bijection|bijective|

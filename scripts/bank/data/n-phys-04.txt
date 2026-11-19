@@ -1,0 +1,130 @@
+# ncal jv | Science | Chemistry
+e|What is the name for the number 6.02 times 10 to the 23rd, the number of particles in one mole?|Avogadro's number|Avogadro constant;Avogadro's constant;Avogadro
+e|What is the molar mass, in grams per mole, of water?|18|eighteen|m
+e|What is the molar mass, in grams per mole, of carbon dioxide?|44|forty-four|m
+e|What is the mass in grams of two moles of sodium chloride, whose molar mass is 58.5 grams per mole?|117|117 grams;one hundred seventeen|m
+m|What is the molarity of a solution made by dissolving 2 moles of solute in 4 liters of solution?|0.5|0.5 molar;one half;1/2;0.5 M|m
+m|What is the pH of a solution of 0.001 molar hydrochloric acid?|3|three|m
+m|What is the pH of a solution with a hydrogen ion concentration of 1 times 10 to the negative 5 moles per liter?|5|five|m
+m|What is the pOH of a solution with a pH of 9?|5|five|m
+m|What volume, in liters, is occupied by half a mole of an ideal gas at standard temperature and pressure?|11.2|11.2 liters;eleven point two|m
+e|What volume, in liters, is occupied by one mole of an ideal gas at standard temperature and pressure?|22.4|22.4 liters;twenty-two point four|m
+m|When the equation H2 plus O2 yields H2O is balanced, what is the coefficient in front of water?|2|two|m
+m|When the combustion of propane, C3H8, is balanced, what is the coefficient in front of oxygen?|5|five|m
+m|What is the sum of the coefficients when nitrogen plus hydrogen forms ammonia is balanced as N2 plus 3 H2 yields 2 NH3?|6|six|m
+m|What is the empirical formula of glucose, whose molecular formula is C6H12O6?|CH2O|CH2O|
+h|How many grams of water are produced when 4 grams of hydrogen gas react completely with excess oxygen?|36|36 grams;thirty-six|m
+e|How many valence electrons does an oxygen atom have?|6|six|m
+e|How many valence electrons does a chlorine atom have?|7|seven|m
+m|How many neutrons are in an atom of carbon-14?|8|eight|m
+m|How many electrons does a magnesium ion with a charge of 2 plus have?|10|ten|m
+m|How many protons does an atom of sodium have?|11|eleven|m
+m|What is the maximum number of electrons that the second energy level can hold?|8|eight|m
+e|How many electrons can a d subshell hold?|10|ten|m
+e|How many orbitals are in a p subshell?|3|three|m
+e|What is the name for a charged atom?|ion
+e|What is the name for a positively charged ion?|cation
+e|What is the name for a negatively charged ion?|anion
+m|What type of bond forms when electrons are transferred from one atom to another?|ionic bond|ionic
+m|What type of bond is found in metals, where electrons move freely among atoms?|metallic bond|metallic
+m|What type of attraction between a hydrogen atom and a highly electronegative atom such as oxygen gives water its high boiling point?|hydrogen bond|hydrogen bonding
+m|What is the name for the rule that atoms tend to gain, lose, or share electrons to have eight valence electrons?|octet rule|the octet rule
+m|What type of diagram, named for an American chemist, shows valence electrons as dots?|Lewis structure|Lewis dot diagram;Lewis diagram;Lewis dot structure|
+m|Which element is the most electronegative?|fluorine
+m|Which noble gas has the highest first ionization energy?|helium
+m|What is the shape of a methane molecule?|tetrahedral|tetrahedron
+e|What is the shape of a water molecule?|bent
+m|What is the shape of a carbon dioxide molecule?|linear
+m|What is the shape of an ammonia molecule?|trigonal pyramidal|pyramidal
+h|What is the bond angle in a tetrahedral molecule like methane, in degrees?|109.5|109.5 degrees|m
+h|What theory predicts molecular shape by assuming that electron pairs repel each other?|VSEPR theory|VSEPR|valence shell electron pair repulsion
+e|What is the formula for the sulfate ion?|SO4 2-|SO4;SO42-
+m|What is the formula for the nitrate ion?|NO3 minus|NO3;NO3-
+m|What is the formula for the ammonium ion?|NH4 plus|NH4;NH4+
+m|What is the name of the polyatomic ion OH minus?|hydroxide
+m|What is the name of the compound with the formula CaCO3, the main component of limestone and chalk?|calcium carbonate
+m|What is the chemical name of the compound with the formula NaOH, often called lye?|sodium hydroxide
+m|What is the name of the compound H2SO4?|sulfuric acid
+m|What is the name of the compound with formula HNO3?|nitric acid
+m|What is the common name of the compound with formula NH3?|ammonia
+e|What element has the atomic number 6 and is the basis of organic chemistry?|carbon
+e|What is the lightest metal, with atomic number 3?|lithium
+m|What is the only metal that is liquid at room temperature?|mercury
+m|What is the only nonmetal element that is liquid at room temperature?|bromine
+m|What name is given to the seven elements that exist as two-atom molecules, such as nitrogen and oxygen?|diatomic elements|diatomic molecules;diatomic
+m|Which alloy of copper and tin was used in ancient tools and weapons?|bronze
+m|Which alloy of copper and zinc is used in musical instruments?|brass
+m|Which alloy of iron and carbon is used in construction?|steel
+m|What are the different forms of the same element in the same state, such as diamond and graphite, called?|allotropes|allotrope
+h|What form of carbon, shaped like a soccer ball and named for an architect, has the formula C60?|buckminsterfullerene|fullerene;buckyball;Buckyball
+m|What is the most abundant element in Earth's crust?|oxygen
+m|What gas law states that pressure and volume of a gas are inversely proportional at constant temperature?|Boyle's law|Boyle's Law;Boyle
+m|What gas law states that volume and temperature in kelvins are directly proportional at constant pressure?|Charles's law|Charles's Law;Charles
+h|What gas law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?|Avogadro's law|Avogadro's hypothesis;Avogadro
+m|What is the equation of state for an ideal gas?|PV equals nRT|PV=nRT;pV = nRT
+m|What temperature on the Kelvin scale is equal to 25 degrees Celsius?|298|298 kelvins;298 K;298.15|m
+m|A gas occupies 2 liters at 300 kelvins. What is its volume at 600 kelvins at constant pressure, in liters?|4|four|m
+m|A gas occupies 4 liters at 1 atmosphere. What is its volume at 2 atmospheres at constant temperature, in liters?|2|two|m
+h|What is the value of the gas constant R, in liter atmospheres per mole kelvin, to three significant figures?|0.0821|.0821|m
+h|What is the name for the pressure exerted by each gas in a mixture, whose sum is the total pressure, according to Dalton?|partial pressure|partial pressures
+m|What term describes a solution that holds the maximum amount of solute it can dissolve at a given temperature?|saturated solution|saturated
+m|What term describes a substance that dissolves in water to form ions and conducts electricity?|electrolyte
+m|What type of mixture has particles that scatter light but do not settle out, such as fog or milk?|colloid
+m|What is the term for the separation of a mixture based on differing boiling points?|distillation|fractional distillation
+m|What lab technique separates the components of a mixture by their movement across paper or a solid, often used for inks?|chromatography|paper chromatography
+m|What piece of lab glassware is used to deliver precise volumes during a titration?|burette|buret
+e|What indicator turns pink in basic solutions and is colorless in acidic solutions?|phenolphthalein
+m|What is the name for the point in a titration where the acid and base have exactly neutralized one another?|equivalence point|endpoint;end point
+m|What ion do acids release in water, according to Arrhenius?|hydrogen ion|H+;hydronium;hydronium ion;H3O+
+m|According to Brønsted and Lowry, what is an acid defined as?|a proton donor|proton donor;hydrogen ion donor
+m|What type of mixture of a weak acid and its conjugate base resists changes in pH?|buffer|buffer solution
+m|Name any one of the strong acids, such as the one found in the human stomach.|hydrochloric acid|HCl|
+m|What is the approximate pH of human blood?|7.4|seven point four|m
+m|What term describes a reaction that absorbs heat from its surroundings?|endothermic|endothermic reaction
+m|What term describes the heat content of a system at constant pressure?|enthalpy
+m|What is the specific heat of liquid water, in joules per gram degree Celsius, to three significant figures?|4.18|4.18 joules|m
+m|How many joules are required to raise 100 grams of water by 10 degrees Celsius, using a specific heat of 4.18?|4180|4,180|m
+m|What law says that the total enthalpy change of a reaction is the same regardless of the path taken?|Hess's law|Hess's Law;Hess
+h|What is the minimum energy needed to start a chemical reaction called?|activation energy
+m|What principle states that a system at equilibrium shifts to counteract any change imposed on it?|Le Chatelier's principle|Le Chatelier's Principle;Le Chatelier
+h|What industrial process, developed by a German chemist, produces ammonia from nitrogen and hydrogen?|Haber process|the Haber process;Haber-Bosch process;Haber
+m|What is the term for a reaction that proceeds in both directions?|reversible reaction|reversible
+m|What mnemonic means that oxidation is the loss of electrons?|OIL RIG|oil rig
+m|At which electrode does oxidation occur in an electrochemical cell?|anode|the anode
+m|At which electrode does reduction occur?|cathode|the cathode
+m|What is the oxidation number of oxygen in most compounds?|negative 2|-2;minus 2;-2 |m
+m|What is the oxidation number of any element in its pure elemental form?|zero|0|m
+m|What process uses electricity to drive a nonspontaneous chemical reaction, such as splitting water?|electrolysis
+h|When water is split by electrolysis, what is the ratio of hydrogen gas to oxygen gas produced by volume?|2 to 1|two to one;2:1;2 to 1 hydrogen to oxygen
+m|What type of device converts chemical energy into electrical energy through spontaneous redox reactions?|galvanic cell|voltaic cell;battery;electrochemical cell;galvanic
+m|What is the name of the simplest alkane, with the formula CH4?|methane
+e|What is the name of the two-carbon alkane?|ethane
+m|What is the name of the three-carbon alkane commonly used as a fuel for grills?|propane
+m|What is the name of the four-carbon alkane with the formula C4H10?|butane
+m|What is the name for hydrocarbons that contain at least one carbon-carbon double bond?|alkenes|alkene
+m|What is the name for hydrocarbons with a carbon-carbon triple bond?|alkynes|alkyne
+m|What is the common name for ethyne, used in welding torches?|acetylene
+m|What is the name of the ring-shaped hydrocarbon with the formula C6H6?|benzene
+m|What functional group is characteristic of alcohols?|hydroxyl group|hydroxyl;OH;-OH
+m|What functional group is characteristic of carboxylic acids?|carboxyl group|carboxyl;COOH;-COOH
+m|What alcohol is produced by the fermentation of sugars by yeast?|ethanol|ethyl alcohol
+m|What term describes compounds with the same molecular formula but different structures?|isomers|isomer
+m|What is the name for a large molecule made of repeating units called monomers?|polymer
+h|What is the name of the plastic made by polymerizing ethylene?|polyethylene|polythene
+h|What type of compound is formed when an alcohol reacts with a carboxylic acid, often with a fruity smell?|ester|esters
+m|What is the term for hydrocarbons with only single bonds?|saturated hydrocarbons|alkanes;saturated
+m|What type of particle, a helium nucleus, is emitted in alpha decay?|alpha particle|helium nucleus
+m|Which type of radioactive decay emits an electron from the nucleus?|beta decay|beta
+m|Which type of radiation is high-energy electromagnetic waves and has no mass or charge?|gamma radiation|gamma rays;gamma
+m|After uranium-238 emits an alpha particle, what element is formed?|thorium|thorium-234
+h|If a radioactive sample of 80 grams has a half-life of 5 years, how many grams remain after 15 years?|10|10 grams;ten|m
+h|Which scientist discovered the neutron in 1932?|James Chadwick|Chadwick|n
+m|Which British physicist discovered the electron in 1897?|J. J. Thomson|Thomson;Joseph John Thomson|n
+m|Whose gold foil experiment showed that the atom has a small, dense, positively charged nucleus?|Ernest Rutherford|Rutherford|n
+m|Which Danish physicist proposed a model of the atom with electrons in fixed energy levels?|Niels Bohr|Bohr|n
+m|Which French chemist is called the father of modern chemistry for his law of conservation of mass?|Antoine Lavoisier|Lavoisier|n
+m|Which English chemist proposed that atoms of different elements have different masses and combine in whole-number ratios?|John Dalton|Dalton|n
+h|Which Austrian physicist's exclusion principle states that no two electrons in an atom can have the same four quantum numbers?|Wolfgang Pauli|Pauli|n
+h|What principle states that electrons fill the lowest-energy orbitals first?|Aufbau principle|the Aufbau principle;Aufbau
+h|What rule states that electrons occupy separate orbitals of the same energy before pairing up?|Hund's rule|Hund's Rule;Hund
+h|Which American chemist won Nobel Prizes in both Chemistry and Peace and developed the electronegativity scale?|Linus Pauling|Pauling|n

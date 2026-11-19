@@ -1,0 +1,146 @@
+# ncal jv | Fine Arts | French 2
+B|e|Answer these questions about rooms and furniture in a French home.
+-|e|What is the French word for "living room"?|le salon|salon;la salle de séjour;le séjour|f
+-|e|What is the French word for "bed"?|le lit|lit|f
+-|m|What is the French word for "dining room"?|la salle à manger|salle à manger|f
+-|h|What is the French word for "armchair"?|le fauteuil|fauteuil|f
+B|m|Answer these questions about the passé composé of "étudier."
+-|e|What is the past participle of "étudier"?|étudié|f
+-|m|What is the full passé composé of "étudier" for "nous"?|nous avons étudié|avons étudié|f
+-|m|What is the il form of the helper verb used in the passé composé of "étudier"?|a|f
+-|h|What is the passé composé of "étudier" for "j'" as the subject? Give the full phrase.|j'ai étudié|ai étudié|f
+B|m|Answer these questions about verbs that use "être" in the passé composé.
+-|e|What is the past participle of "aller"?|allé|f
+-|m|What is the past participle of "partir"?|parti|f
+-|m|What is the past participle of "sortir"?|sorti|f
+-|h|What is the past participle of "mourir"?|mort|f
+B|e|Answer these questions about travel in French.
+-|e|What is the French word for "passport"?|le passeport|passeport|f
+-|e|What is the French word for "hotel"?|l'hôtel|hôtel;hotel|f
+-|m|What is the French word for "flight"?|le vol|vol|f
+-|h|What is the French word for "luggage" in the sense of bags?|les bagages|bagages|f
+B|m|Answer these questions about French clothing and accessories.
+-|e|What is the French word for "hat"?|le chapeau|chapeau|f
+-|e|What is the French word for "socks"?|les chaussettes|chaussettes|f
+-|m|What is the French word for "coat"?|le manteau|manteau|f
+-|h|What is the French word for "belt"?|la ceinture|ceinture|f
+B|m|Answer these questions about the imparfait.
+-|e|What is the je form of "jouer" in the imparfait?|jouais|f
+-|m|What is the nous form of "finir" in the imparfait?|finissions|f
+-|m|What is the ils form of "voir" in the imparfait?|voyaient|f
+-|h|What is the nous form of "avoir" in the imparfait?|avions|f
+B|e|Answer these questions about fruit in French.
+-|e|What is the French word for "banana"?|la banane|banane|f
+-|e|What is the French word for "orange," the fruit?|l'orange|orange|f
+-|m|What is the French word for "grapes"?|le raisin|les raisins;raisin;raisins|f
+-|h|What is the French word for "strawberry"?|la fraise|fraise|f
+B|m|Answer these questions about vegetables in French.
+-|e|What is the French word for "tomato"?|la tomate|tomate|f
+-|m|What is the French word for "carrot"?|la carotte|carotte|f
+-|m|What is the French word for "lettuce"?|la laitue|laitue;la salade;salade|f
+-|h|What is the French word for "onion"?|l'oignon|oignon|f
+B|m|Answer these questions about reflexive verbs in French.
+-|e|What is the French verb meaning "to wash oneself"?|se laver|f
+-|m|What is the French verb meaning "to go to bed"?|se coucher|f
+-|m|What is the French verb meaning "to get up"?|se lever|f
+-|h|What is the nous form of "s'asseoir" in the present tense?|nous nous asseyons|asseyons|f
+B|e|Answer these questions about professions in French.
+-|e|What is the French word for "teacher" when the teacher is a woman, in the sense of a school professor?|la professeure|la prof;prof;professeure;la professeur;professeur|f
+-|e|What is the French word for "nurse" when the nurse is a woman?|l'infirmière|infirmière|f
+-|m|What is the French word for "lawyer" when the lawyer is a man?|l'avocat|avocat|f
+-|h|What is the French word for "firefighter"?|le pompier|pompier|f
+B|m|Answer these questions about French object pronouns.
+-|e|In French, which direct object pronoun replaces a masculine singular noun, meaning "it"?|le|l'|f
+-|m|What direct object pronoun means "them"?|les|f
+-|m|In French, which indirect object pronoun means "to me"?|me|m'|f
+-|h|In French, which indirect object pronoun means "to him" or "to her"?|lui|f
+B|e|Answer these questions about French possessive adjectives.
+-|e|What possessive adjective means "my" before a masculine singular noun?|mon|f
+-|m|What possessive adjective means "your" for the informal singular before a feminine noun?|ta|f
+-|m|What possessive adjective means "our" before a singular noun?|notre|f
+-|h|In French, which possessive adjective means "their" before a plural noun?|leurs|f
+B|m|Answer these questions about French negation.
+-|e|What word completes the French negative "ne ... ___" meaning "not"?|pas|f
+-|m|What word completes the French negative "ne ... pas ___" meaning "not yet"?|encore|f
+-|m|What word completes the French negative "ne ... ___" meaning "nothing"?|rien|f
+-|h|What word completes the French negative "ne ... ___" meaning "no one"?|personne|f
+B|e|Answer these questions about places in the city in French.
+-|e|What is the French word for "restaurant"?|le restaurant|restaurant|f
+-|e|What is the French word for "movie theater"?|le cinéma|cinéma;cinema|f
+-|m|What is the French word for "bridge"?|le pont|pont|f
+-|h|What is the French word for "fountain"?|la fontaine|fontaine|f
+B|m|Answer these questions about French adjectives.
+-|e|What does the French adjective "jeune" mean in English?|young|
+-|e|What does the French adjective "vieux" mean in English?|old|
+-|m|What does the French adjective "gentil" mean in English?|nice|kind
+-|h|What does the French adjective "paresseux" mean in English?|lazy|
+B|e|Answer these questions about French-speaking countries and cities.
+-|e|Which city is the capital of France?|Paris|
+-|e|Which country has Brussels as its capital and has French as one of its official languages?|Belgium|Belgique
+-|m|Which French-speaking Swiss city is home to the United Nations Office in Europe?|Geneva|Genève
+-|h|Which island nation off the east coast of Africa has Antananarivo as its capital and uses French as an official language?|Madagascar|
+B|m|Answer these questions about French pronunciation and spelling.
+-|e|What is the French name for the accent in "café" that slants up to the right?|accent aigu|acute accent;aigu|f
+-|m|What is the French name for the accent in "mère" that slants down to the right?|accent grave|grave accent;grave|f
+-|m|What is the name of the mark under the letter c in "garçon"?|cédille|cedilla|f
+-|h|What is the name of the circumflex accent in French, as in "forêt"?|accent circonflexe|circonflexe;circumflex|f
+B|e|Answer these questions about holidays and celebrations in French.
+-|e|What does the French word "Noël" mean in English?|Christmas|
+-|e|What does the French word "fête" mean in English?|party|celebration;festival;holiday
+-|m|What does the French phrase "Nouvel An" mean in English?|New Year|
+-|m|What is the French phrase for "Happy Birthday"?|joyeux anniversaire|bon anniversaire|f
+B|m|Answer these questions about telling time in French.
+-|e|What does the French word "heure" mean in English?|hour|time;o'clock
+-|m|What French word means "noon" or "midday"?|midi|f
+-|m|What French word means "midnight"?|minuit|f
+-|h|What French word means "half," as in "trois heures et ___"?|demie|demi|f
+B|e|Answer these questions about sports in French.
+-|e|What is the French word for "soccer"?|le football|football;le foot;foot|f
+-|e|What is the French word for "basketball"?|le basket|basket;le basket-ball;basket-ball|f
+-|m|What is the French word for "swimming"?|la natation|natation|f
+-|h|What is the French word for "team"?|l'équipe|équipe;equipe|f
+B|m|Answer these questions about household chores in French.
+-|e|What does the French phrase "faire la vaisselle" mean? Name what is washed.|dishes|the dishes
+-|m|What French verb means "to sweep"?|balayer|f
+-|m|What French verb means "to cook"?|cuisiner|faire la cuisine|f
+-|h|What French verb means "to set" a table, as in "___ la table"?|mettre|f
+B|e|Answer these questions about nature in French.
+-|e|What is the French word for "tree"?|l'arbre|arbre|f
+-|e|What is the French word for "flower"?|la fleur|fleur|f
+-|m|What is the French word for "mountain"?|la montagne|montagne|f
+-|h|What is the French word for "river"?|la rivière|rivière;le fleuve;fleuve|f
+B|m|Answer these questions about French words of quantity and the partitive.
+-|e|What French preposition is used for "of" in a phrase such as "beaucoup ___ livres"?|de|d'|f
+-|m|What is the partitive article used with a masculine noun, as in "Je mange ___ pain"?|du|f
+-|m|What is the partitive article used with a feminine noun, as in "Je bois ___ eau"?|de la|f
+-|h|What is the partitive article used with a plural noun, as in "Je mange ___ légumes"?|des|f
+B|h|Answer these questions about stem-changing and irregular present-tense verbs.
+-|e|What is the je form of "mettre"?|mets|f
+-|m|What is the nous form of "boire"?|buvons|f
+-|m|What is the tu form of "pouvoir"?|peux|f
+-|h|What is the ils form of "devoir"?|doivent|f
+B|m|Answer these questions about French comparatives and superlatives.
+-|e|What French word means "less" in comparisons?|moins|f
+-|m|What is the comparative form of "mauvais" meaning "worse"?|pire|f
+-|m|What is the French adverb for "better," as in "Il chante ___"?|mieux|f
+-|h|What two-word French phrase before an adjective forms "the most," as in "il est ___ grand"?|le plus|la plus|f
+B|e|Answer these questions about French classroom vocabulary.
+-|e|What is the French word for "desk"?|le bureau|bureau;le pupitre;pupitre|f
+-|e|What is the French word for "notebook"?|le cahier|cahier|f
+-|m|What is the French word for "eraser"?|la gomme|gomme|f
+-|h|What is the French word for "chalkboard"?|le tableau|tableau|f
+B|m|Answer these questions about French music and arts words.
+-|e|What is the French word for "painting" as a work of art?|la peinture|peinture|f
+-|e|What does the French verb "chanter" mean in English?|to sing|sing
+-|m|What is the French word for "guitar"?|la guitare|guitare|f
+-|h|What is the French word for "song"?|la chanson|chanson|f
+B|e|Answer these questions about French adverbs and time words.
+-|e|What does the French word "maintenant" mean in English?|now|
+-|e|What does the French word "aujourd'hui" mean in English?|today|
+-|m|What does the French word "ensuite" mean in English?|then|next;afterward
+-|h|What does the French word "pendant" mean in English?|during|for;while
+B|m|Answer these questions about the futur proche in French.
+-|e|What verb is used with an infinitive to form the futur proche?|aller|f
+-|m|What is the nous form of the helper verb in the futur proche?|allons|f
+-|m|What is the ils form of the helper verb in the futur proche?|vont|f
+-|h|What is the full futur proche for "I am going to eat," using "manger" and "je"? Give the phrase.|je vais manger|vais manger|f

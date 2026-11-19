@@ -1,0 +1,108 @@
+# ncal varsity | Science | Physics
+e|What term describes the force of gravity pulling on an object's mass?|weight|
+e|What term describes a material that readily allows electric charge to flow?|conductor|electrical conductor
+e|What quantity is equal to an object's mass times its velocity?|momentum|
+e|What name is given to a piece of iron that attracts other iron and has a north and south pole?|magnet|bar magnet
+e|Which English scientist formulated the three laws of motion?|Isaac Newton|Newton|n
+e|To two significant figures, what is the acceleration due to gravity near Earth's surface, in meters per second squared?|9.8|9.8 meters per second squared;9.8 m/s^2|m
+e|What is the SI unit of power?|watt|watts
+e|What is the SI unit of energy and work?|joule|joules
+e|What term describes the energy an object has because of its motion?|kinetic energy|kinetic
+e|The speed of light is approximately 3 times 10 to what power meters per second?|8|eight|m
+e|What term describes the bending of light as it passes from one medium into another?|refraction|
+e|What term describes light bouncing off a surface?|reflection|
+e|What type of lens is thicker in the middle and converges light rays?|convex lens|convex;converging lens;converging
+e|What type of current, abbreviated AC, periodically reverses direction?|alternating current|AC;alternating
+e|What device stores electric charge using two conducting plates separated by an insulator?|capacitor|condenser
+e|What force opposes the motion of two surfaces sliding against each other?|friction|
+e|What is the term for the rate of change of velocity?|acceleration|
+e|What is the term for the magnitude of velocity, without direction?|speed|
+e|What unit, equal to one newton per square meter, measures pressure?|pascal|pascals
+e|What term describes the distance between successive crests of a wave?|wavelength|
+e|Which subatomic particle in the nucleus has a positive charge?|proton|protons
+e|Which law relates voltage, current, and resistance in a circuit?|Ohm's law|Ohm;Ohms law
+e|What term describes the sum of an object's kinetic and potential energy?|mechanical energy|total mechanical energy
+e|What is the name for a reflected sound wave that you hear after a delay?|echo|
+e|What is the SI unit of magnetic field strength?|tesla|teslas
+e|Which temperature scale begins at absolute zero?|Kelvin|Kelvin scale;kelvins
+e|What is the SI unit of capacitance?|farad|farads
+e|What happens between two like magnetic poles?|they repel|repel;repulsion;repulsive
+e|What type of wave, such as sound, requires a medium to travel?|mechanical wave|mechanical;mechanical waves
+e|What is the term for speed together with direction?|velocity|
+e|What name is given to the force a surface exerts perpendicular to an object resting on it?|normal force|normal
+e|What term describes the tendency of an object to resist changes in its motion?|inertia|
+e|What is the SI base unit of mass?|kilogram|kilograms
+e|Which color of visible light has the longest wavelength?|red|
+e|Using 10 meters per second squared for gravity, what is the weight in newtons of a 10-kilogram object?|100|100 newtons|m
+m|Starting from rest, a car accelerates at 4 meters per second squared for 5 seconds. What is its final speed in meters per second?|20|m
+m|Using 10 meters per second squared for gravity, how many meters does an object dropped from rest fall in 3 seconds?|45|45 meters|m
+m|What net force, in newtons, gives a 5-kilogram object an acceleration of 3 meters per second squared?|15|15 newtons|m
+m|What is the kinetic energy in joules of a 2-kilogram object moving at 3 meters per second?|9|9 joules|m
+m|What is the momentum, in kilogram meters per second, of a 4-kilogram object moving at 6 meters per second?|24|m
+m|How many amperes flow through a 12-ohm resistor connected to a 24-volt battery?|2|2 amperes;2 amps|m
+m|How many watts of power are delivered by a current of 5 amperes in a circuit with a potential difference of 10 volts?|50|50 watts|m
+m|What is the equivalent resistance in ohms of 3-ohm and 6-ohm resistors connected in parallel?|2|2 ohms|m
+m|What is the equivalent resistance in ohms of 4-ohm and 8-ohm resistors connected in series?|12|12 ohms|m
+m|How many joules of work are done by a 10-newton force that moves an object 6 meters in the direction of the force?|60|60 joules|m
+m|What is the frequency in hertz of a wave traveling at 340 meters per second with a wavelength of 2 meters?|170|170 hertz|m
+m|What is the period in seconds of a wave with a frequency of 4 hertz?|0.25|1/4;one fourth;one quarter|m
+m|Using 10 meters per second squared for gravity, what is the gravitational potential energy in joules of a 2-kilogram object 5 meters above the ground?|100|100 joules|m
+m|Using 10 meters per second squared for gravity, what is the speed in meters per second of an object dropped from rest after falling 20 meters?|20|m
+m|What force provides the centripetal force that keeps planets in orbit around the Sun?|gravity|gravitational force
+m|Which principle states that pressure applied to an enclosed fluid is transmitted equally throughout the fluid?|Pascal's principle|Pascal's law;Pascal|n=Pascal
+m|Which principle states that the buoyant force on an object equals the weight of the fluid it displaces?|Archimedes' principle|Archimedes;Archimedes's principle|n=Archimedes
+m|What term describes the bending of waves around obstacles or through openings?|diffraction|
+m|What effect describes a change in observed frequency caused by relative motion of a wave source and an observer?|Doppler effect|Doppler;Doppler shift
+m|What term describes heat transfer by direct contact between particles?|conduction|
+m|What term describes heat transfer by the movement of a fluid?|convection|
+m|What term describes heat transfer by electromagnetic waves?|radiation|thermal radiation
+m|The first law of thermodynamics is a statement of the conservation of what quantity?|energy|
+m|To the nearest whole number, what is the freezing point of water on the Kelvin scale?|273|273 K;273.15|m
+m|Which English scientist discovered electromagnetic induction in 1831?|Michael Faraday|Faraday|n
+m|Which law states that the force between two point charges is inversely proportional to the square of the distance between them?|Coulomb's law|Coulomb;Coulombs law
+m|What term describes a material that does not allow electric charge to flow freely?|insulator|
+m|What type of circuit provides only a single path for current?|series circuit|series
+m|What term describes the smallest angle of incidence at which total internal reflection occurs?|critical angle|
+m|What type of mirror always produces an upright, virtual, reduced image?|convex mirror|convex;diverging mirror
+m|The index of refraction of a material is the ratio of the speed of light in a vacuum to what other quantity?|the speed of light in the material|speed of light in the medium;speed of light in the material;speed in the material
+m|Which scientist discovered the electron in 1897?|Joseph John Thomson|J. J. Thomson;Thomson|n
+m|Impulse is equal to the change in what quantity?|momentum|
+m|What quantity is defined as force per unit area?|pressure|
+m|What effect describes the ejection of electrons from a metal surface by light?|photoelectric effect|photoelectric
+m|What name is given to packets of light energy?|photons|photon
+m|What unit measures the intensity level of sound?|decibel|decibels
+m|To the nearest ten, what is the speed of sound in air at room temperature, in meters per second?|340|343|m
+m|Which constant, symbol capital G, appears in Newton's law of universal gravitation?|gravitational constant|universal gravitational constant;big G
+m|What nuclear process combines light nuclei into a heavier nucleus?|fusion|nuclear fusion
+m|What nuclear process splits a heavy nucleus into lighter nuclei?|fission|nuclear fission
+m|What type of radioactive decay emits a helium nucleus?|alpha decay|alpha;alpha emission
+m|How many joules of energy does a 60-watt light bulb use in 10 seconds?|600|600 joules|m
+m|Torque is the product of a force and what distance?|lever arm|moment arm;perpendicular distance;radius
+m|What name is given to the point where parallel rays converge after passing through a converging lens?|focal point|focus;principal focus
+m|What type of simple machine is a ramp?|inclined plane|
+m|What term describes the maximum displacement of a wave from its equilibrium position?|amplitude|
+m|Which electromagnetic waves have the shortest wavelengths?|gamma rays|gamma;gamma radiation
+m|What type of electromagnetic radiation causes sunburn?|ultraviolet|ultraviolet light;UV;UV radiation
+m|How many newtons of force are needed to stretch a spring with a spring constant of 200 newtons per meter by 0.1 meter?|20|20 newtons|m
+h|Using 10 meters per second squared for gravity, how many seconds does an object dropped from rest take to fall 80 meters?|4|4 seconds|m
+h|A 1000-kilogram car moving at 20 meters per second brakes to a stop over 50 meters. What is the magnitude of the net force, in newtons?|4000|4000 newtons|m
+h|A 2-kilogram ball moving at 5 meters per second collides and sticks to a stationary 3-kilogram ball. What is their speed afterward, in meters per second?|2|m
+h|What is the equivalent resistance in ohms of three 12-ohm resistors connected in parallel?|4|4 ohms|m
+h|What is the wavelength in meters of a 100-hertz wave traveling at 340 meters per second?|3.4|3.4 meters|m
+h|How many watts are dissipated by a 3-ohm resistor connected across a 12-volt battery?|48|48 watts|m
+h|Which law states that an induced electromotive force produces a current that opposes the change in magnetic flux that caused it?|Lenz's law|Lenz;Lenz law
+h|Which German physicist is associated with the uncertainty principle relating position and momentum?|Werner Heisenberg|Heisenberg|n
+h|The energy of a photon is directly proportional to what property of the light?|frequency|
+h|What term describes the number of protons in an atomic nucleus?|atomic number|
+h|A radioactive sample has a half-life of 5 days. What fraction remains after 20 days?|1/16|one sixteenth;one-sixteenth|m
+h|What quantity is the rotational analog of mass?|moment of inertia|rotational inertia
+h|Which Swiss scientist's principle states that faster-moving fluid has lower pressure?|Daniel Bernoulli|Bernoulli|n
+h|Which English scientist's double slit experiment of 1801 demonstrated the wave nature of light?|Thomas Young|Young|n
+h|What term describes the shift of light from receding galaxies toward longer wavelengths?|redshift|red shift;cosmological redshift
+h|At the top of its flight, what is the vertical velocity of a projectile?|zero|0|m
+h|What term describes the constant speed reached by a falling object when drag equals its weight?|terminal velocity|terminal speed
+h|In the ideal gas law PV equals nRT, what does the letter R represent?|the ideal gas constant|gas constant;universal gas constant;ideal gas constant
+h|Kirchhoff's current law is a statement of the conservation of what quantity?|electric charge|charge
+h|What device uses two coils of wire to increase or decrease an alternating voltage?|transformer|
+h|What type of interference occurs when the crests of two waves line up?|constructive interference|constructive
+h|What name is given to points of zero displacement in a standing wave?|nodes|node

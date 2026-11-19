@@ -1,0 +1,116 @@
+# ncal jv | English | Mythology 2
+e|Which Norse god is the father of Thor and ruler of Asgard?|Odin|Woden|n
+e|Which Norse god of mischief is the father of the wolf Fenrir?|Loki|n
+e|What is the name of the hall in Asgard where slain warriors feast with Odin?|Valhalla
+e|What is the name of the rainbow bridge that connects Asgard and Midgard?|Bifrost
+e|What name do the Norse give to the human world, whose name means "middle enclosure"?|Midgard
+e|What name is given to the female warrior spirits who choose the slain in Norse myth?|Valkyries|Valkyrie
+e|Which Norse goddess of love and beauty owned a necklace called Brisingamen?|Freya|Freyja|n
+e|Which Norse god's death by a mistletoe dart was caused by a trick of Loki?|Baldur|Balder;Baldr;Balder the Beautiful|n
+e|What name is given to the Norse "twilight of the gods," the final battle?|Ragnarok|Ragnarök
+e|Which Egyptian sun god was often shown with a falcon's head and a sun disk?|Ra|Re
+e|Which Egyptian goddess, wife of Osiris, searched for the pieces of her husband's body?|Isis|n
+e|Which Egyptian god of the dead was killed by his brother Set?|Osiris|n
+e|Which falcon-headed Egyptian god was the son of Isis and Osiris?|Horus|n
+e|Which Egyptian god of chaos and the desert murdered Osiris?|Set|Seth|n
+e|Which cat goddess of ancient Egypt protected the home?|Bastet|Bast
+e|Which Egyptian god with an ibis head was the scribe of the gods and god of writing?|Thoth|n
+e|What kind of ancient Egyptian tomb is a massive structure with triangular sides?|pyramid|a pyramid
+e|Which Greek king of the gods rules from Mount Olympus and wields the thunderbolt?|Zeus|n
+e|Which Greek god of the sea carries a trident?|Poseidon|n
+e|Which Greek god rules the underworld?|Hades|n
+e|Which Greek goddess of wisdom sprang fully grown from the head of Zeus?|Athena|n
+e|Which Greek god of the sun and music drives a chariot across the sky?|Apollo|n
+e|Which Greek goddess of the hunt is the twin sister of Apollo?|Artemis|n
+e|Which Greek god of wine and revelry was the son of Zeus and Semele?|Dionysus|n
+e|Which Greek goddess of love and beauty was born from sea foam?|Aphrodite|n
+e|Which Greek messenger god wears winged sandals?|Hermes|n
+e|Which Greek blacksmith god forged weapons for the gods?|Hephaestus|n
+e|Which Greek hero performed twelve labors as a penance?|Heracles|Hercules|n
+e|What is the Roman name of the Greek god Zeus?|Jupiter|Jove|n
+e|What is the Roman name of the Greek goddess Athena?|Minerva|n
+e|What is the Roman name of the Greek goddess Aphrodite?|Venus|n
+e|What is the Roman name of the Greek god Poseidon?|Neptune|n
+e|What is the Roman name of the Greek god Ares?|Mars|n
+e|What is the Roman name of the Greek messenger god Hermes?|Mercury|n
+e|What is the Roman name of the Greek goddess Hera?|Juno|n
+e|Which Roman twin, according to legend, founded the city of Rome and killed his brother?|Romulus|n
+e|What kind of animal raised Romulus and Remus?|she-wolf|wolf;a she-wolf;a wolf
+e|Which hero of Greek myth killed the Minotaur in the Labyrinth?|Theseus|n
+e|Which Greek hero slew Medusa and rescued Andromeda?|Perseus|n
+e|Which flying horse sprang from the blood of Medusa?|Pegasus
+e|What did Pandora release into the world when she opened her jar?|evils|troubles;all the evils;ills
+e|Which king's touch turned everything to gold?|Midas|King Midas|n
+e|Which Greek monster had the body of a lion, the head of a goat, and a serpent tail?|Chimera|Chimaera
+e|Which three-headed dog guards the entrance to the Greek underworld?|Cerberus
+e|Which mythical bird rises from its own ashes?|phoenix|the phoenix
+e|What is the name of the one-eyed giant blinded by Odysseus?|Polyphemus|n
+e|What kind of creature is a centaur, half human and half what animal?|horse|a horse
+e|Which Greek hero led the Argonauts in search of the Golden Fleece?|Jason|n
+e|Which Greek musician tried to rescue his wife Eurydice from the underworld?|Orpheus|n
+e|Which Titan was punished for stealing fire for humanity?|Prometheus|n
+e|Which Titan holds up the sky on his shoulders?|Atlas|n
+e|Which Greek goddess of the hearth was the sister of Zeus and Hera?|Hestia|n
+e|Which Greek hero was the leader of the Greeks in the Trojan War and the king of Mycenae?|Agamemnon|n
+m|In Norse myth, which gods, led by Odin, live in Asgard, as opposed to the Vanir?|Aesir|Æsir
+m|In Norse myth, which wolf will swallow Odin at Ragnarok?|Fenrir|Fenris
+m|In Norse myth, which sea serpent, a child of Loki, encircles Midgard?|Jormungandr|Midgard Serpent;Jörmungandr
+m|In Norse myth, what are the names of Odin's two ravens, whose names mean "thought" and "memory"?|Huginn and Muninn|Hugin and Munin;Huginn;Muninn
+h|In Norse myth, which god, known as the Silent, killed Baldur by throwing a mistletoe dart?|Hodr|Hod;Hoder;Höðr;Hodur
+m|In Norse myth, which god guards the Bifrost bridge and has keen sight and hearing?|Heimdall|n
+m|In Norse myth, which goddess is Odin's wife and the queen of Asgard?|Frigg|Frigga|n
+h|In Norse myth, which Norse god of the sea, a Vanir, is the father of Freya?|Njord|Njörðr|n
+m|In Norse myth, which realm of the dead is ruled by the goddess Hel?|Niflheim|Helheim
+m|What is the name of the fountain beneath Yggdrasil where Odin sacrificed an eye for wisdom?|Mimir's Well|Well of Mimir;Mimir
+m|In Egyptian myth, which crocodile-headed god was associated with the Nile?|Sobek|Sebek|n
+m|In Egyptian myth, what is the name of the goddess of truth whose feather weighed the heart of the dead?|Ma'at|Maat|n
+h|In Egyptian myth, which monster devours the hearts of those found unworthy?|Ammit|Ammut|n
+m|In Egyptian myth, which goddess with a cow's horns is the goddess of love and music?|Hathor|n
+m|In Egyptian myth, which sky goddess is often shown arched over the earth?|Nut|n
+m|In Egyptian myth, which god of the earth is the husband of Nut?|Geb|Keb|n
+h|In Egyptian myth, which serpent god of chaos does Ra battle each night?|Apep|Apophis|n
+h|In Egyptian myth, which god with a ram's head is said to have created humans on a potter's wheel?|Khnum|Khnemu|n
+m|In Egyptian myth, which lioness goddess was sent to destroy humankind?|Sekhmet|n
+m|In Egyptian myth, what paradise ruled by Osiris was imagined as a fertile land for the blessed dead?|Field of Reeds|Aaru;Fields of Reeds
+m|Which Greek monster had a bull's head and a man's body?|the Minotaur|Minotaur
+m|Which Greek king's labyrinth was designed by Daedalus?|Minos|King Minos|n
+m|Which son of Daedalus died when his wax wings melted?|Icarus|n
+m|Which woman, whose face launched a thousand ships, was taken to Troy by Paris?|Helen|Helen of Troy|n
+m|Which Greek hero led the Myrmidons at Troy and was killed by an arrow to the heel?|Achilles|n
+m|Which Trojan prince killed Achilles' friend Patroclus?|Hector|n
+m|Which Greek hero devised the wooden horse that ended the Trojan War?|Odysseus|Ulysses|n
+m|Which Trojan prophetess was cursed never to be believed?|Cassandra|n
+m|Which Greek sorceress lived on the island of Aeaea and turned Odysseus' men into pigs?|Circe|n
+m|Which sea monsters lured sailors to their deaths with their song?|Sirens|the Sirens
+m|Which Greek goddess of discord threw the golden apple labeled "for the fairest"?|Eris|n
+m|Which Greek nymph pined away for Narcissus until only her voice was left?|Echo|n
+m|Which Greek youth fell in love with his own reflection?|Narcissus|n
+m|Which Greek goddess of the harvest returns to the underworld for part of each year?|Persephone|n
+m|Which Greek hero killed the Hydra as his second labor?|Heracles|Hercules|n
+m|Which Greek river in the underworld is the river of forgetfulness?|Lethe|n
+m|Which ferryman carried souls across the River Styx?|Charon|n
+m|Which Greek king was condemned to push a boulder uphill forever?|Sisyphus|n
+m|Which Greek king was condemned to stand in water he could not drink and under fruit he could not reach?|Tantalus|n
+m|What is the Roman name of the Greek goddess of the hearth, Hestia?|Vesta|n
+m|What is the Roman name of the Greek god Hades?|Pluto|Dis|n
+m|What is the Roman name of the Greek goddess of the harvest, Demeter?|Ceres|n
+m|What is the Roman name of the Greek god Dionysus?|Bacchus|n
+m|What is the Roman name of the Greek god Cronus?|Saturn|n
+m|Which Roman god of doorways and beginnings has two faces?|Janus|n
+m|Which Roman hero, a Trojan prince, fled the fall of Troy and founded the line of Rome?|Aeneas|n
+m|Which poet wrote the "Aeneid"?|Virgil|Vergil|n
+m|Which poet wrote the "Metamorphoses," a collection of Greek and Roman myths?|Ovid|n
+h|Which Greek god of the wild, with goat legs and a set of pipes, was the son of Hermes?|Pan|n
+h|Which Greek giant fought Heracles and became stronger whenever he touched the earth?|Antaeus|n
+h|Which Greek goddess of the rainbow served as a messenger of the gods?|Iris|n
+h|Which Greek goddess of victory is usually depicted with wings?|Nike|n
+h|Which Greek goddess of retribution punished the arrogant?|Nemesis|n
+h|Which Greek god of sleep was the twin of Thanatos?|Hypnos|n
+h|Which Greek goddess of the dawn is the sister of Helios and Selene?|Eos|n
+h|Which Greek king of Thebes unknowingly killed his father and married his mother?|Oedipus|n
+h|Which Greek monster with the head of a woman and the body of a lion posed a riddle to Oedipus?|the Sphinx|Sphinx
+h|Which Mesopotamian king is the hero of an epic, a friend of Enkidu?|Gilgamesh|n
+h|In Hindu myth, which god is the destroyer in the Trimurti?|Shiva|Siva|n
+h|In Hindu myth, which elephant-headed god is the remover of obstacles?|Ganesha|Ganesh|n
+h|In Aztec myth, which feathered serpent is a god of wind and learning?|Quetzalcoatl|n
+h|In Japanese myth, which sun goddess retreated into a cave?|Amaterasu|n

@@ -1,0 +1,141 @@
+# ncal novice | Fine Arts | Composers and Works
+e|Which German composer wrote the Emperor Concerto and the Appassionata Sonata?|Ludwig van Beethoven|Beethoven|n
+e|Which composer wrote a famous Fifth Symphony that opens with the four notes short-short-short-long?|Ludwig van Beethoven|Beethoven|n
+m|The choral finale known as Ode to Joy appears in which numbered symphony by Beethoven?|Ninth Symphony|Symphony No. 9;9th Symphony;Symphony Number 9;Symphony 9
+e|Which Austrian composer wrote the operas The Magic Flute and Don Giovanni?|Wolfgang Amadeus Mozart|Mozart|n
+e|Which Austrian child prodigy, born in Salzburg, wrote the serenade Eine kleine Nachtmusik?|Wolfgang Amadeus Mozart|Mozart|n
+e|Which Baroque composer wrote the Brandenburg Concertos and the Toccata and Fugue in D minor?|Johann Sebastian Bach|Bach|n
+m|Which collection by Johann Sebastian Bach contains a prelude and fugue in each of the twenty-four major and minor keys?|The Well-Tempered Clavier|Well-Tempered Clavier;Well Tempered Clavier
+e|Which Venetian priest wrote more than five hundred concertos?|Antonio Vivaldi|Vivaldi|n
+m|Which German-born composer, who lived in England, wrote the suite Water Music?|George Frideric Handel|Handel;Georg Friedrich Handel|n
+e|Which oratorio by Handel contains the Hallelujah chorus?|Messiah|The Messiah
+e|Which Austrian composer, often called the Father of the Symphony, wrote more than one hundred symphonies?|Joseph Haydn|Haydn|n
+e|Which Russian composer wrote the ballet The Nutcracker?|Pyotr Ilyich Tchaikovsky|Tchaikovsky;Peter Tchaikovsky;Tchaikovski|n
+e|Which Tchaikovsky ballet tells the story of a princess turned into a swan by a sorcerer?|Swan Lake
+m|Which Tchaikovsky overture celebrates Russia's defense against Napoleon and includes cannon fire?|1812 Overture|The 1812 Overture;Overture 1812
+m|Which Russian composer wrote the ballets The Firebird and Petrushka?|Igor Stravinsky|Stravinsky|n
+h|Which Stravinsky ballet caused a famous riot at its 1913 Paris premiere?|The Rite of Spring|Rite of Spring;Le Sacre du printemps
+m|Which French composer wrote Clair de lune and Prelude to the Afternoon of a Faun?|Claude Debussy|Debussy|n
+m|Which French composer wrote Boléro, a piece built on one melody that repeats and grows louder?|Maurice Ravel|Ravel|n
+e|Which American composer wrote Appalachian Spring and the ballet Billy the Kid?|Aaron Copland|Copland|n
+e|Which American composer wrote Rhapsody in Blue and the opera Porgy and Bess?|George Gershwin|Gershwin|n
+e|Which American composer wrote the music for the Broadway show West Side Story?|Leonard Bernstein|Bernstein|n
+e|Which American bandleader, known as the March King, wrote The Stars and Stripes Forever?|John Philip Sousa|Sousa|n
+m|Which Norwegian composer wrote the Peer Gynt suite, which includes In the Hall of the Mountain King?|Edvard Grieg|Grieg|n
+e|Which Russian composer wrote Peter and the Wolf, in which each character is played by a different instrument?|Sergei Prokofiev|Prokofiev|n
+m|Which French composer wrote The Carnival of the Animals?|Camille Saint-Saëns|Saint-Saens;Saint Saens|n
+m|Which Russian composer wrote Pictures at an Exhibition, later orchestrated by Maurice Ravel?|Modest Mussorgsky|Mussorgsky;Moussorgsky|n
+m|Which Czech composer wrote the Symphony From the New World?|Antonín Dvořák|Dvorak|n
+m|Which Russian composer wrote The Flight of the Bumblebee?|Nikolai Rimsky-Korsakov|Rimsky-Korsakov|n
+m|Which English composer wrote the orchestral suite The Planets?|Gustav Holst|Holst|n
+e|Which Polish composer of the Romantic era wrote waltzes, nocturnes, and mazurkas for solo piano?|Frédéric Chopin|Chopin;Frederic Chopin|n
+m|Which Hungarian composer and pianist wrote the Hungarian Rhapsodies?|Franz Liszt|Liszt|n
+m|Which German composer wrote a famous lullaby and four symphonies and was a friend of Robert and Clara Schumann?|Johannes Brahms|Brahms|n
+m|Which Austrian composer wrote the Unfinished Symphony and hundreds of art songs?|Franz Schubert|Schubert|n
+m|Which German composer wrote the opera that includes The Ride of the Valkyries?|Richard Wagner|Wagner|n
+m|Which Italian composer wrote the operas Aida and La Traviata?|Giuseppe Verdi|Verdi|n
+m|Which Italian composer wrote the operas La Bohème and Madama Butterfly?|Giacomo Puccini|Puccini|n
+e|Which Italian composer wrote the William Tell Overture, used as the theme of The Lone Ranger?|Gioachino Rossini|Rossini|n
+m|Which French composer wrote the opera Faust, based on a play by Goethe?|Charles Gounod|Gounod|n
+m|Which German Baroque composer wrote a Canon in D that is popular at weddings?|Johann Pachelbel|Pachelbel|n
+m|Which waltz by Johann Strauss the Younger is named for a river that flows through Vienna and Budapest?|The Blue Danube|Blue Danube;On the Beautiful Blue Danube
+m|Which German composer wrote the cantata Carmina Burana, which opens with O Fortuna?|Carl Orff|Orff|n
+m|Which American composer wrote the slow and sad Adagio for Strings?|Samuel Barber|Barber|n
+e|Which American film composer wrote the scores for Star Wars, Jaws, and the Harry Potter movies?|John Williams|Williams|dup n
+m|Which American composer wrote the piano rag The Entertainer?|Scott Joplin|Joplin|n
+m|Which English composer wrote Pomp and Circumstance, often played at graduations?|Edward Elgar|Elgar|n
+m|Which German composer wrote the Wedding March and the Hebrides Overture?|Felix Mendelssohn|Mendelssohn|n
+m|Which French composer wrote three slow, quiet piano pieces called Gymnopédies?|Erik Satie|Satie|n
+m|How many symphonies did Ludwig van Beethoven complete?|nine|9|m
+e|In which country was Wolfgang Amadeus Mozart born?|Austria
+m|In which country was Frédéric Chopin born?|Poland
+m|In which country was Edvard Grieg born?|Norway
+m|Which Finnish composer wrote Finlandia and a famous violin concerto?|Jean Sibelius|Sibelius|n
+m|What period of music history, from about 1600 to 1750, includes the composers Bach and Handel?|Baroque|Baroque period
+m|What period of music history, from about 1750 to 1820, includes Haydn and Mozart?|Classical|Classical period
+m|What period of music history, in the nineteenth century, includes Chopin, Brahms, and Tchaikovsky?|Romantic|Romantic period
+h|Which Italian violin virtuoso wrote the Twenty-Four Caprices?|Niccolò Paganini|Paganini|n
+h|Which Hungarian composer wrote Concerto for Orchestra and the opera Bluebeard's Castle?|Béla Bartók|Bartok|n
+h|Which Copland ballet contains a section called Hoe-Down?|Rodeo
+m|Which Copland brass and percussion piece was written during World War Two to honor ordinary people?|Fanfare for the Common Man
+h|Which Czech composer wrote the symphonic poem The Moldau and the opera The Bartered Bride?|Bedřich Smetana|Smetana|n
+h|Which Austrian composer wrote nine symphonies, including the Resurrection Symphony?|Gustav Mahler|Mahler|n
+h|Which Spanish composer wrote the Concierto de Aranjuez for guitar?|Joaquín Rodrigo|Rodrigo|n
+m|Which numbered Beethoven symphony is nicknamed the Pastoral?|Sixth Symphony|Symphony No. 6;6th Symphony;Symphony Number 6;Symphony 6
+m|What instrument plays the famous upward glissando at the opening of Rhapsody in Blue?|clarinet
+m|Gershwin wrote an opera about life in Catfish Row in Charleston. What is its title?|Porgy and Bess
+h|Leonard Bernstein served as music director of which New York orchestra?|New York Philharmonic|the New York Philharmonic
+m|For which instrument did Beethoven write the short piece Für Elise?|piano
+h|What Italian nickname, meaning heroic, is given to Beethoven's Third Symphony?|Eroica|Eroica Symphony
+h|Which planet is missing from Holst's The Planets, which has no movement for it?|Earth
+m|Which instrument plays The Swan in Saint-Saëns's The Carnival of the Animals?|cello|violoncello
+h|Which keyboard instrument plays the Dance of the Sugar Plum Fairy in The Nutcracker?|celesta
+h|What nickname is given to Haydn's Symphony Number 94, which has a sudden loud chord in a quiet slow movement?|Surprise Symphony|The Surprise;Surprise
+B|m|Answer these questions about Ludwig van Beethoven.
+-|e|In which country was Beethoven born?|Germany
+-|m|What physical condition did Beethoven develop that left him unable to hear his own music?|deafness|deaf;hearing loss
+-|h|Which Austrian composer, nicknamed Papa, briefly taught Beethoven in Vienna?|Joseph Haydn|Haydn|n
+B|m|Answer these questions about Wolfgang Amadeus Mozart.
+-|e|In which Austrian city was Mozart born?|Salzburg
+-|m|Which Mozart opera tells of a nobleman who is dragged to hell at the end?|Don Giovanni
+-|h|Mozart died at what age?|thirty-five|35|m
+B|m|Answer these questions about Johann Sebastian Bach.
+-|e|What large keyboard instrument, played in churches, did Bach play and write much music for?|organ|pipe organ
+-|m|In which German city did Bach work as a church music director for the last twenty-seven years of his life?|Leipzig
+-|h|How many Brandenburg Concertos did Bach write?|six|6|m
+B|m|Answer these questions about Pyotr Tchaikovsky.
+-|e|In which country was Tchaikovsky born?|Russia
+-|m|Which Tchaikovsky ballet tells of a princess who pricks her finger on a spindle?|The Sleeping Beauty|Sleeping Beauty
+-|h|Which Shakespeare play inspired a fantasy overture by Tchaikovsky?|Romeo and Juliet
+B|m|Answer these questions about George Frideric Handel.
+-|e|In which country did Handel spend most of his adult life after leaving Germany?|England|Great Britain
+-|m|What type of large-scale work for singers and orchestra, based on a sacred story but not staged, is Messiah?|oratorio
+-|h|In which German city was Handel born?|Halle
+B|m|Answer these questions about Frédéric Chopin.
+-|e|Chopin lived much of his adult life in which European capital?|Paris
+-|m|What type of dreamy piano piece, named for the night, did Chopin write twenty-one of?|nocturne|nocturnes
+-|h|With which French novelist did Chopin have a long relationship, who wrote under the name George Sand?|Aurore Dupin|Amantine Dupin;Madame Dudevant|n=Dupin
+B|m|Answer these questions about Claude Debussy.
+-|e|In which country was Debussy born?|France
+-|m|The title of Debussy's La Mer means what body of water in English?|the sea|sea
+-|h|What musical style, named after a painting by Claude Monet, is associated with Debussy?|Impressionism|impressionist
+B|m|Answer these questions about Aaron Copland.
+-|e|In which country was Aaron Copland born?|United States|United States of America;America|p=U.S.
+-|m|Which Copland ballet tells the story of an outlaw of the American West?|Billy the Kid
+-|h|Which Shaker melody is used in Appalachian Spring?|Simple Gifts|'Tis a Gift to Be Simple
+B|m|Answer these questions about Antonio Vivaldi.
+-|e|Which instrument did Vivaldi play, which is the featured solo instrument in The Four Seasons?|violin
+-|m|In which Italian city was Vivaldi born?|Venice
+-|h|What nickname, based on his hair color and his job as a priest, was given to Vivaldi?|The Red Priest|Red Priest;il Prete Rosso
+B|m|Answer these questions about Igor Stravinsky.
+-|e|In which country was Stravinsky born?|Russia
+-|m|Which Stravinsky ballet is based on a Russian folk tale about a magical glowing bird?|The Firebird|Firebird
+-|h|Which Russian ballet company, led by Sergei Diaghilev, premiered many of Stravinsky's ballets?|Ballets Russes|The Ballets Russes|f
+B|m|Answer these questions about opera composers.
+-|e|In which country was Giuseppe Verdi born?|Italy
+-|m|Which Rossini opera is about a clever barber named Figaro?|The Barber of Seville|Barber of Seville
+-|h|How many operas make up Wagner's Ring cycle?|four|4|m
+B|m|Answer these questions about Peter and the Wolf by Prokofiev.
+-|e|Which instrument plays the part of the bird?|flute
+-|m|Which instrument plays the part of the duck?|oboe
+-|h|Which instrument plays the part of the grandfather?|bassoon
+B|m|Answer these questions about Franz Schubert.
+-|e|In which Austrian city did Schubert live and die?|Vienna
+-|m|How many movements does Schubert's Unfinished Symphony have?|two|2|m
+-|h|What name is given to the German art songs, for voice and piano, that Schubert wrote about six hundred of?|lieder|lied|f
+B|m|Answer these questions about Scott Joplin.
+-|e|What style of piano music, with a syncopated melody, was Joplin the leading composer of?|ragtime
+-|m|What is the title of Joplin's 1899 rag named for a Missouri club?|Maple Leaf Rag
+-|h|What is the title of Joplin's opera about a young Black woman in the South?|Treemonisha
+B|m|Answer these questions about John Philip Sousa.
+-|e|What type of music, played by bands in parades, was Sousa famous for writing?|marches|march
+-|m|What large, coiled brass instrument was named for Sousa?|sousaphone
+-|h|Sousa led which United States military band?|Marine Band|United States Marine Band;US Marine Band
+B|m|Answer these questions about Franz Liszt.
+-|e|In which country was Liszt born?|Hungary
+-|m|Which instrument was Liszt considered the greatest virtuoso of in his time?|piano
+-|h|Liszt's daughter Cosima married which German opera composer?|Richard Wagner|Wagner|n
+B|m|Answer these questions about Felix Mendelssohn.
+-|e|Which English playwright wrote the play A Midsummer Night's Dream, for which Mendelssohn wrote incidental music?|William Shakespeare|Shakespeare|n
+-|m|In which country was Mendelssohn born?|Germany
+-|h|Mendelssohn helped revive the music of which Baroque composer by conducting the Saint Matthew Passion in 1829?|Johann Sebastian Bach|Bach|n

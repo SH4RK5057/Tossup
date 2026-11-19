@@ -1,0 +1,155 @@
+# ncal jv | Fine Arts | Art History
+e|Which Italian artist carved the marble statue "David" in Florence?|Michelangelo|n
+e|Which French self-taught painter created "The Dream" and "The Sleeping Gypsy," showing lions and jungle plants?|Henri Rousseau|Rousseau|n
+e|Claude Monet and Pierre-Auguste Renoir belonged to which art movement named after a Monet painting of a sunrise?|Impressionism|Impressionist
+e|Which Dutch artist painted "The Night Watch"?|Rembrandt|Rembrandt van Rijn;Rembrandt Harmenszoon van Rijn
+e|Which Flemish Baroque painter created "The Descent from the Cross" and large works full of plump, energetic figures?|Peter Paul Rubens|Rubens|n
+e|Which Pop artist is famous for his paintings of Campbell's soup cans?|Andy Warhol|Warhol|n
+m|Which Dutch painter of "The Laughing Cavalier" was known for lively, loose brushwork?|Frans Hals|Hals|n
+e|What painting technique, used for murals, applies paint to wet plaster?|fresco|buon fresco
+e|Which American painter of "Christina's World" often painted scenes from Maine and Pennsylvania?|Andrew Wyeth|Wyeth|n
+e|Which French painter created "A Sunday Afternoon on the Island of La Grande Jatte"?|Georges Seurat|Seurat|n
+e|Which Italian painter frescoed the Arena Chapel in Padua?|Giotto|Giotto di Bondone
+e|Which Spanish artist co-founded Cubism with Georges Braque?|Pablo Picasso|Picasso|n
+e|Which painting by Leonardo da Vinci shows Jesus with his twelve apostles at a long table?|The Last Supper|Last Supper
+e|Which Impressionist elder, born in the Danish West Indies, painted many views of Parisian streets and gardens?|Camille Pissarro|Pissarro|n
+e|What term describes an artwork that depicts a particular person, often focusing on the face?|portrait|portraiture
+m|Which Dutch painter of "The Garden of Earthly Delights" created strange, fantastical scenes of heaven and hell?|Hieronymus Bosch|Bosch|n
+e|Which French Neoclassical painter created "The Oath of the Horatii"?|Jacques-Louis David|David;Jacques Louis David|n
+e|Which Venetian painter created "Venus of Urbino" and "Bacchus and Ariadne"?|Titian|Tiziano Vecellio
+h|Which Flemish painter created "The Descent from the Cross" now in the Prado and studied under Robert Campin?|Rogier van der Weyden|van der Weyden;Weyden|n=Weyden
+e|Which German Renaissance painter of Wittenberg created portraits of Martin Luther?|Lucas Cranach the Elder|Cranach;Lucas Cranach|n=Elder
+m|Which Mexican muralist painted "Man at the Crossroads" for Rockefeller Center before it was destroyed?|Diego Rivera|Rivera|n
+m|What Italian term names the strong contrast between light and dark in painting, used by Caravaggio?|chiaroscuro
+m|What technique, used by Georges Seurat, builds an image from tiny dots of pure color?|pointillism|Pointillism
+m|Which Belgian Surrealist painted a pipe with the caption "This is not a pipe"?|René Magritte|Magritte;Rene Magritte|n
+m|Which Italian painter created "The Birth of Venus"?|Sandro Botticelli|Botticelli|n
+m|Which French Post-Impressionist painted "Where Do We Come From? What Are We? Where Are We Going?" after moving to Tahiti?|Paul Gauguin|Gauguin|n
+m|Which American realist painted "Nighthawks," set in a late-night diner?|Edward Hopper|Hopper|n
+e|Which Austrian Expressionist painted "Death and the Maiden" and angular, distorted nudes?|Egon Schiele|Schiele|n
+m|Which Renaissance painter created "The School of Athens" in the Vatican?|Raphael|Raphael Sanzio;Raffaello Sanzio
+m|Which Dutch painter created grid-based works such as "Composition with Red, Blue and Yellow"?|Piet Mondrian|Mondrian|n
+m|Which American Abstract Expressionist became known for pouring and dripping paint onto canvases laid on the floor?|Jackson Pollock|Pollock|n
+m|Marcel Duchamp's "Fountain," a signed urinal, is associated with which anti-art movement?|Dada|Dadaism
+h|Which Spanish artist painted the dark work "Saturn Devouring His Son"?|Francisco Goya|Goya;Francisco de Goya|n
+h|Which Italian Baroque painter created "Judith Slaying Holofernes" and is known as a leading woman artist of her time?|Artemisia Gentileschi|Gentileschi|n
+h|Which French Romantic painted "The Raft of the Medusa"?|Théodore Géricault|Géricault;Gericault;Theodore Gericault|n
+h|Which Russian painter created "Black Square" and founded Suprematism?|Kazimir Malevich|Malevich|n
+h|Which German artist painted "The Ambassadors," with a distorted skull in the foreground?|Hans Holbein|Holbein;Hans Holbein the Younger|n
+h|Umberto Boccioni's sculpture "Unique Forms of Continuity in Space" belongs to which Italian movement that celebrated speed and machines?|Futurism|Futurist
+h|Which American painter of "Cow's Skull: Red, White, and Blue" is known for enlarged flowers and New Mexico landscapes?|Georgia O'Keeffe|O'Keeffe;Georgia O'Keefe|n
+h|Which British Romantic landscape painter created "The Fighting Temeraire"?|J. M. W. Turner|Turner;Joseph Mallord William Turner;JMW Turner|n
+h|Which Venetian painter created the mysterious "The Tempest" and died young of plague?|Giorgione|
+h|Which English landscape painter created "The Hay Wain"?|John Constable|Constable|n
+B|m|Answer these questions about European art from 1400 to 1600.
+-|e|Which Italian architect designed the great dome of Florence Cathedral?|Filippo Brunelleschi|Brunelleschi|n
+-|m|Which Italian painter and writer wrote "Lives of the Artists"?|Giorgio Vasari|Vasari|n
+-|h|What Italian term, meaning "smoky," names the soft blending of tones used by Leonardo da Vinci?|sfumato|
+B|m|Answer these questions about ancient Greek art.
+-|e|Which sculptor oversaw the sculptures of the Parthenon?|Phidias|Pheidias
+-|m|The "Venus de Milo" depicts which Greek goddess of love?|Aphrodite|
+-|h|What Italian term describes the relaxed, weight-shifting pose seen in classical Greek statues?|contrapposto|
+B|m|Answer these questions about ancient Egyptian art.
+-|e|What picture-based writing system covers the walls of Egyptian tombs?|hieroglyphs|hieroglyphics
+-|m|A famous painted limestone bust in Berlin depicts which queen, the wife of Akhenaten?|Nefertiti|Queen Nefertiti
+-|h|Which young pharaoh's tomb, with its gold funeral mask, was discovered by Howard Carter in 1922?|Tutankhamun|King Tut;Tut
+B|m|Answer these questions about Vincent van Gogh.
+-|e|Which yellow flowers did van Gogh paint in a series of still lifes in a vase?|sunflowers|Sunflowers
+-|m|In which southern French town did van Gogh live and paint "The Bedroom"?|Arles|
+-|h|In which Dutch village was van Gogh born?|Zundert|
+B|m|Answer these questions about Pablo Picasso.
+-|e|Picasso's sad, monochrome period from 1901 to 1904 is named for which color?|blue|
+-|m|"Guernica" was painted in response to the bombing of a town during which war?|Spanish Civil War|
+-|h|Picasso and Braque's Cubism had two phases, the analytic and which other?|synthetic|synthetic Cubism
+B|m|Answer these questions about Michelangelo.
+-|e|His sculpture the "Pietà" shows Mary holding the body of which figure?|Jesus|Jesus Christ;Christ
+-|m|In which city-state is the Sistine Chapel located?|Vatican City|The Vatican;Vatican
+-|h|Which pope commissioned Michelangelo to paint the Sistine Chapel ceiling?|Julius II|Pope Julius II;Julius the Second
+B|m|Answer these questions about Caravaggio.
+-|e|Caravaggio worked mostly in which European country, where Rome and Naples are located?|Italy|
+-|m|Which painting by Caravaggio shows Jesus pointing to a tax collector in a dim room?|The Calling of Saint Matthew|Calling of Saint Matthew;The Calling of Matthew
+-|h|What term describes Caravaggio's dramatic style in which dark shadows dominate and light is used sparingly?|tenebrism|
+B|m|Answer these questions about famous art museums.
+-|e|In which French city is the Louvre?|Paris|
+-|m|In which Spanish city is the Prado Museum?|Madrid|
+-|h|In which Italian city is the Uffizi Gallery?|Florence|Firenze
+B|m|Answer these questions about Surrealism.
+-|e|Salvador Dalí was from which European country?|Spain|
+-|m|Which French writer wrote the first Manifesto of Surrealism in 1924?|André Breton|Breton;Andre Breton|n
+-|h|Which German Surrealist developed frottage, the technique of rubbing a pencil over a textured surface?|Max Ernst|Ernst|n
+B|m|Answer these questions about Pop Art.
+-|e|Roy Lichtenstein borrowed his style from which type of printed publication?|comic books|comics;comic strips
+-|m|What name is given to the printed dots Lichtenstein imitated in his paintings?|Ben-Day dots|Benday dots
+-|h|Which Pop artist painted "Flag" in 1954 and later numbers and targets?|Jasper Johns|Johns|n
+B|m|Answer these questions about medieval art.
+-|e|Pointed arches and large stained glass windows are features of which style of cathedral?|Gothic|
+-|m|Monks illuminated manuscripts on pages made from what material, such as vellum?|animal skin|parchment;vellum
+-|h|Byzantine mosaics decorate the Hagia Sophia in which modern-day city?|Istanbul|Constantinople
+B|m|Answer these questions about sculpture.
+-|e|Which French sculptor designed the Statue of Liberty?|Frédéric Auguste Bartholdi|Bartholdi;Frederic Auguste Bartholdi;Auguste Bartholdi|n
+-|m|Which sculptor began carving the presidents on Mount Rushmore?|Gutzon Borglum|Borglum|n
+-|h|Which American artist invented the mobile, a hanging sculpture that moves with air currents?|Alexander Calder|Calder|n
+B|m|Answer these questions about women artists of the Impressionist era.
+-|e|Which Pennsylvania-born artist moved to Paris and exhibited with the Impressionists, often painting mothers and children?|Mary Cassatt|Cassatt|n
+-|m|Berthe Morisot married the brother of which fellow painter of "Olympia"?|Édouard Manet|Manet;Edouard Manet|n
+-|h|Which French portraitist painted Queen Marie Antoinette?|Élisabeth Vigée Le Brun|Vigée Le Brun;Elisabeth Vigee Le Brun;Vigee Le Brun|n=Brun
+B|m|Answer these questions about color theory.
+-|e|Which secondary color is made by mixing red and blue?|purple|violet
+-|m|What term describes colors that sit opposite each other on the color wheel?|complementary colors|complementary
+-|h|What word describes the lightness or darkness of a color?|value|
+B|m|Answer these questions about Cubism and its followers.
+-|e|A critic reportedly mocked Braque's paintings as being made of little what, six-faced solids?|cubes|cube
+-|m|What term from the French for "to glue" names artworks made by pasting materials onto a surface?|collage|
+-|h|Which Spanish painter, a Cubist, created "Portrait of Picasso" in 1912?|Juan Gris|Gris|n
+B|m|Answer these questions about Art Nouveau.
+-|e|Alphonse Mucha, known for decorative posters, came from which present-day country whose capital is Prague?|Czech Republic|Czechia
+-|m|Louis Comfort Tiffany was famous for lamps and windows made from what material?|stained glass|colored glass
+-|h|Which Spanish architect of Barcelona designed the Park Güell in an Art Nouveau-related style?|Antoni Gaudí|Gaudí;Gaudi;Antoni Gaudi|n
+B|m|Answer these questions about Japanese woodblock prints.
+-|e|Ukiyo-e prints come from which country?|Japan|
+-|m|Which artist made "Fifty-three Stations of the Tōkaidō"?|Hiroshige|Utagawa Hiroshige;Ando Hiroshige
+-|h|What term names the European craze for Japanese art in the late nineteenth century?|Japonisme|
+B|m|Answer these questions about American art.
+-|e|Which American illustrator created "Freedom from Want" and the other Four Freedoms paintings?|Norman Rockwell|Rockwell|n
+-|m|Which Hudson River School painter created "Niagara" and "The Heart of the Andes"?|Frederic Church|Church;Frederic Edwin Church|n
+-|h|Which American artist, famed for Western scenes and bronzes such as "The Bronco Buster," created "A Dash for the Timber"?|Frederic Remington|Remington|n
+B|m|Answer these questions about Neoclassicism.
+-|e|Jacques-Louis David's "The Death of Marat" shows which revolutionary murdered in his bathtub?|Jean-Paul Marat|Marat|n
+-|m|David became the official painter of which French emperor?|Napoleon Bonaparte|Napoleon;Napoleon I
+-|h|Which pupil of David painted "La Grande Odalisque"?|Jean-Auguste-Dominique Ingres|Ingres;Jean Auguste Dominique Ingres|n
+B|m|Answer these questions about Roman art.
+-|e|Which volcano buried Pompeii in 79 AD?|Mount Vesuvius|Vesuvius
+-|m|What art form made from tiny colored stones or tiles covered many Roman floors?|mosaic|mosaics
+-|h|Trajan's Column in Rome records the emperor's wars against which people?|Dacians|the Dacians;Dacia
+B|m|Answer these questions about American photography.
+-|e|Ansel Adams photographed which California national park with its Half Dome?|Yosemite|Yosemite National Park
+-|m|Dorothea Lange's "Migrant Mother" documents which decade-long economic crisis?|Great Depression|The Great Depression
+-|h|Which photographer and gallery owner married Georgia O'Keeffe?|Alfred Stieglitz|Stieglitz|n
+B|m|Answer these questions about abstract art.
+-|e|Which Russian-born painter created "Composition VII" and wrote about the spiritual in art?|Wassily Kandinsky|Kandinsky;Vasily Kandinsky|n
+-|m|Which Abstract Expressionist painted glowing rectangles of color, such as in the Seagram murals?|Mark Rothko|Rothko|n
+-|h|Mondrian and Theo van Doesburg were leaders of which Dutch movement whose name means "The Style"?|De Stijl|
+B|m|Answer these questions about printmaking.
+-|e|Which German artist made the print "Praying Hands" and "Knight, Death and the Devil"?|Albrecht Dürer|Dürer;Albrecht Durer;Durer|n
+-|m|What printmaking method carves a design into a block of wood, leaving raised areas to hold the ink?|woodcut|woodblock
+-|h|Which printing process, invented by Alois Senefelder, draws on a flat stone with a greasy crayon?|lithography|lithograph
+B|m|Answer these questions about the Rococo style.
+-|e|Which French king built the Palace of Versailles?|Louis XIV|Louis the Fourteenth;Louis 14
+-|m|Which Rococo painter created "The Swing"?|Jean-Honoré Fragonard|Fragonard;Jean-Honore Fragonard|n
+-|h|Which French painter created "Pilgrimage to Cythera"?|Antoine Watteau|Watteau|n
+B|m|Answer these questions about the Harlem Renaissance.
+-|e|Jacob Lawrence's "Migration Series" portrays which movement of African Americans from the South to the North?|Great Migration|The Great Migration
+-|m|Which sculptor created "The Harp," inspired by "Lift Every Voice and Sing"?|Augusta Savage|Savage|n
+-|h|Which painter of murals such as "Aspects of Negro Life" is called the father of African American art?|Aaron Douglas|Douglas|n
+B|m|Answer these questions about ancient Greek pottery.
+-|e|Black-figure and red-figure are techniques for decorating what objects?|vases|pottery;Greek vases
+-|m|What name is given to a tall two-handled jar used to store wine or oil?|amphora|
+-|h|What name is given to the wide bowl used to mix wine with water?|krater|calyx krater;kratēr
+B|m|Answer these questions about Pieter Bruegel the Elder.
+-|e|In "Hunters in the Snow," which season is shown?|winter|
+-|m|Which painting by Bruegel shows an enormous unfinished tower under construction?|The Tower of Babel|Tower of Babel
+-|h|Bruegel is known by what nickname because he painted village life?|Peasant Bruegel|the Peasant
+B|m|Answer these questions about German Expressionism.
+-|e|Franz Marc often painted which animal in bright colors, as in "Blue Horse I"?|horses|horse
+-|m|Which Dresden group of Expressionists was named for the German word for "the bridge"?|Die Brücke|Die Brucke;The Bridge
+-|h|Which German Expressionist painted "Street, Dresden" and "Self-Portrait as a Soldier"?|Ernst Ludwig Kirchner|Kirchner|n

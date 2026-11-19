@@ -1,0 +1,141 @@
+# ncal jv | Fine Arts | Spanish 2
+B|e|Answer these questions about rooms and furniture in a Spanish-speaking home.
+-|e|What is the Spanish word for "living room"?|la sala|sala;el salón;salón|f
+-|e|What is the Spanish word for "bed"?|la cama|cama|f
+-|m|What is the Spanish word for "dining room"?|el comedor|comedor|f
+-|h|What is the Spanish word for "armchair"?|el sillón|sillón;la butaca|f
+B|m|Answer these questions about preterite forms of the verb "estudiar."
+-|e|What is the yo form of "estudiar" in the preterite?|estudié|f
+-|m|What is the ella form of "estudiar" in the preterite?|estudió|f
+-|m|What is the nosotros form of "estudiar" in the preterite?|estudiamos|f
+-|h|What is the ellos form of "estudiar" in the preterite?|estudiaron|f
+B|m|Answer these questions about irregular preterite verbs.
+-|e|What is the tú form of "ir" in the preterite?|fuiste|f
+-|m|What is the ellos form of "dar" in the preterite?|dieron|f
+-|m|What is the yo form of "poder" in the preterite?|pude|f
+-|h|What is the nosotros form of "poner" in the preterite?|pusimos|f
+B|e|Answer these questions about travel in Spanish.
+-|e|What is the Spanish word for "passport"?|el pasaporte|pasaporte|f
+-|e|What is the Spanish word for "hotel"?|el hotel|hotel|f
+-|m|What is the Spanish word for "flight"?|el vuelo|vuelo|f
+-|h|What is the Spanish word for "luggage" in the sense of bags?|el equipaje|equipaje|f
+B|m|Answer these questions about the two Spanish verbs meaning "to be."
+-|e|Which Spanish verb meaning "to be" is used for the location of things?|estar|f
+-|m|Which Spanish verb meaning "to be" is used for telling time?|ser|f
+-|m|What is the tú form of "ser" in the present tense?|eres|f
+-|h|What is the ustedes form of "ser" in the present tense?|son|f
+B|e|Answer these questions about clothing and accessories in Spanish.
+-|e|What is the Spanish word for "hat"?|el sombrero|sombrero|f
+-|e|What is the Spanish word for "socks"?|los calcetines|calcetines;las medias|f
+-|m|What is the Spanish word for "coat"?|el abrigo|abrigo|f
+-|h|What is the Spanish word for "belt"?|el cinturón|cinturón|f
+B|m|Answer these questions about the imperfect tense.
+-|e|What is the yo form of "jugar" in the imperfect?|jugaba|f
+-|m|What is the nosotros form of "vivir" in the imperfect?|vivíamos|f
+-|m|What is the ellos form of "ver" in the imperfect?|veían|f
+-|h|What is the nosotros form of "ser" in the imperfect?|éramos|f
+B|e|Answer these questions about fruit in Spanish.
+-|e|What is the Spanish word for "banana"?|el plátano|plátano;la banana;banana|f
+-|e|What is the Spanish word for "orange," the fruit?|la naranja|naranja|f
+-|m|What is the Spanish word for "grapes"?|las uvas|uvas|f
+-|h|What is the Spanish word for "strawberry"?|la fresa|fresa;la frutilla|f
+B|m|Answer these questions about vegetables in Spanish.
+-|e|What is the Spanish word for "tomato"?|el tomate|tomate|f
+-|m|What is the Spanish word for "carrot"?|la zanahoria|zanahoria|f
+-|m|What is the Spanish word for "lettuce"?|la lechuga|lechuga|f
+-|h|What is the Spanish word for "onion"?|la cebolla|cebolla|f
+B|m|Answer these questions about reflexive verbs.
+-|e|What reflexive verb means "to wash oneself"?|lavarse|f
+-|m|What is the yo form of "acostarse" in the present tense?|me acuesto|f
+-|m|What is the yo form of "ponerse" in the present tense?|me pongo|f
+-|h|What is the nosotros form of "sentarse" in the present tense?|nos sentamos|f
+B|e|Answer these questions about professions in Spanish.
+-|e|What is the Spanish word for "teacher" when the teacher is a man?|el profesor|profesor;el maestro;maestro|f
+-|e|What is the Spanish word for "nurse" when the nurse is a woman?|la enfermera|enfermera|f
+-|m|What is the Spanish word for "lawyer" when the lawyer is a man?|el abogado|abogado|f
+-|h|What is the Spanish word for "firefighter" when the firefighter is a man?|el bombero|bombero|f
+B|m|Answer these questions about direct and indirect object pronouns.
+-|e|What direct object pronoun means "it" for a masculine singular noun?|lo|f
+-|m|What direct object pronoun means "them" for feminine plural nouns?|las|f
+-|m|What indirect object pronoun means "to me"?|me|f
+-|h|What indirect object pronoun means "to him" or "to her"?|le|f
+B|e|Answer these questions about Spanish possessive adjectives.
+-|e|What possessive adjective means "my" before a singular noun?|mi|f
+-|m|What possessive adjective means "your" in the informal singular before a singular noun?|tu|f
+-|m|What possessive adjective means "our" before a masculine singular noun?|nuestro|f
+-|h|What possessive adjective means "their" before a plural noun?|sus|f
+B|m|Answer these questions about the verb "gustar."
+-|e|What does "me gusta el helado" mean? Name the food that is liked.|ice cream|the ice cream
+-|m|What is the Spanish phrase meaning "you like" for the informal singular, as in "___ gusta el café"?|te|f
+-|m|What is the form of "gustar" used when the liked thing is plural, in the present tense?|gustan|f
+-|h|What is the Spanish phrase meaning "we like" in "___ gusta bailar"?|nos|f
+B|e|Answer these questions about places in the city in Spanish.
+-|e|What is the Spanish word for "restaurant"?|el restaurante|restaurante|f
+-|e|What is the Spanish word for "movie theater"?|el cine|cine|f
+-|m|What is the Spanish word for "bridge"?|el puente|puente|f
+-|h|What is the Spanish word for "fountain"?|la fuente|fuente|f
+B|m|Answer these questions about Spanish adjectives.
+-|e|What does the Spanish adjective "joven" mean in English?|young|
+-|e|What does the Spanish adjective "viejo" mean in English?|old|
+-|m|What does the Spanish adjective "simpático" mean in English?|nice|friendly;charming
+-|h|What does the Spanish adjective "perezoso" mean in English?|lazy|
+B|e|Answer these questions about Spanish-speaking countries and capitals.
+-|e|Which Andean country has Quito as its capital?|Ecuador|
+-|e|Which long, narrow country along the Andes has Santiago as its capital?|Chile
+-|m|Which country has Bogotá as its capital?|Colombia|
+-|h|Which Central American country has San José as its capital?|Costa Rica|
+B|m|Answer these questions about the Spanish alphabet and pronunciation.
+-|e|What mark placed above the letter "n" gives Spanish its special letter, as in "año"?|tilde|
+-|m|What is the name of the Spanish letter "ñ"?|eñe|f
+-|m|What mark is used to show stress on a vowel, as in "café"?|accent mark|accent;acute accent
+-|h|What is the Spanish name for the letter "w"?|doble ve|uve doble|f
+B|e|Answer these questions about holidays and celebrations in Spanish.
+-|e|What does the Spanish word "Navidad" mean in English?|Christmas|
+-|e|What does the Spanish word "fiesta" mean in English?|party|celebration;festival
+-|m|What does the Spanish phrase "Año Nuevo" mean in English?|New Year|
+-|m|What is the Spanish phrase for "Happy Birthday"?|feliz cumpleaños|f
+B|m|Answer these questions about telling time in Spanish.
+-|e|What does the Spanish word "hora" mean in English?|hour|time
+-|m|What Spanish word means "noon" or "midday"?|mediodía|el mediodía|f
+-|m|What Spanish word means "midnight"?|medianoche|la medianoche|f
+-|h|In telling time, what Spanish word means "half," as in "las tres y ___"?|media|f
+B|e|Answer these questions about sports in Spanish.
+-|e|What is the Spanish word for "soccer" in most countries?|el fútbol|fútbol|f
+-|e|What is the Spanish word for "basketball"?|el baloncesto|baloncesto;el básquetbol;básquetbol|f
+-|m|What is the Spanish word for "swimming"?|la natación|natación|f
+-|h|What is the Spanish word for "team"?|el equipo|equipo|f
+B|m|Answer these questions about household chores in Spanish.
+-|e|What does the Spanish phrase "lavar los platos" mean in English? Name what is washed.|dishes|the dishes
+-|m|What Spanish verb means "to sweep"?|barrer|f
+-|m|What Spanish verb means "to cook"?|cocinar|f
+-|h|What Spanish verb means "to set" a table, as in "___ la mesa"?|poner|f
+B|e|Answer these questions about nature in Spanish.
+-|e|What is the Spanish word for "tree"?|el árbol|árbol|f
+-|e|What is the Spanish word for "flower"?|la flor|flor|f
+-|m|What is the Spanish word for "mountain"?|la montaña|montaña|f
+-|h|What is the Spanish word for "river"?|el río|río|f
+B|m|Answer these questions about Spanish negation and affirmation.
+-|e|What Spanish word means "nobody" or "no one"?|nadie|f
+-|m|What Spanish word means "nothing"?|nada|f
+-|m|What Spanish word means "something"?|algo|f
+-|h|What Spanish word means "someone"?|alguien|f
+B|h|Answer these questions about stem-changing verbs in the present tense.
+-|e|What is the yo form of "poder"?|puedo|f
+-|m|What is the nosotros form of "volver"?|volvemos|f
+-|m|What is the tú form of "pensar"?|piensas|f
+-|h|What is the ellos form of "servir"?|sirven|f
+B|m|Answer these questions about Spanish comparatives and superlatives.
+-|e|What Spanish word means "less" in comparisons?|menos|f
+-|m|What is the comparative form of "bueno" meaning "better"?|mejor|f
+-|m|What is the comparative form of "malo" meaning "worse"?|peor|f
+-|h|What is the Spanish word for "older" when comparing the ages of siblings?|mayor|f
+B|e|Answer these questions about Spanish classroom vocabulary.
+-|e|What is the Spanish word for "desk"?|el escritorio|escritorio;el pupitre;pupitre|f
+-|e|What is the Spanish word for "notebook"?|el cuaderno|cuaderno|f
+-|m|What is the Spanish word for "eraser"?|el borrador|borrador;la goma;goma|f
+-|h|What is the Spanish word for "chalkboard"?|la pizarra|pizarra;el pizarrón;pizarrón|f
+B|m|Answer these questions about Spanish musical and cultural words.
+-|e|What does the Spanish word "música" mean in English?|music|
+-|e|What does the Spanish verb "cantar" mean in English?|to sing|sing
+-|m|What is the Spanish word for "guitar"?|la guitarra|guitarra|f
+-|h|What is the Spanish word for "song"?|la canción|canción|f

@@ -1,0 +1,103 @@
+# ncal varsity | Social Science | U.S. Government
+e|Which amendment to the Constitution guarantees freedom of speech, religion, press, assembly, and petition?|First Amendment|First;1st Amendment
+e|How many amendments are in the Bill of Rights?|ten|10|m
+e|How many members are in the United States Senate?|100|one hundred|m
+e|How many members are in the United States House of Representatives?|435|four hundred thirty-five|m
+e|What is the length of a term for a United States senator, in years?|six|6;six years|m
+e|What is the length of a term for a member of the House of Representatives, in years?|two|2;two years|m
+e|Which document, written primarily by Thomas Jefferson in 1776, declared American independence from Britain?|Declaration of Independence
+e|Which document, signed in 1787, established the framework of the United States government?|Constitution|United States Constitution
+e|What is the name of the first ten amendments to the Constitution?|Bill of Rights
+e|Which branch of government is responsible for making laws?|legislative branch|legislative;Congress
+e|Which branch of government is responsible for carrying out laws?|executive branch|executive
+e|Which branch of government is responsible for interpreting laws?|judicial branch|judicial;judiciary
+e|What is the highest court in the United States?|Supreme Court|United States Supreme Court
+e|How many justices serve on the Supreme Court?|nine|9|m
+e|Who is the commander in chief of the United States armed forces?|president|the president;President of the United States
+e|Which amendment abolished slavery?|Thirteenth Amendment|Thirteenth;13th Amendment
+e|Which amendment gave women the right to vote?|Nineteenth Amendment|Nineteenth;19th Amendment
+e|What is the minimum age to be elected president of the United States?|thirty-five|35|m
+e|What is the name of the group of presidential advisers who head the executive departments?|Cabinet|the Cabinet
+e|Which amendment guarantees the right to bear arms?|Second Amendment|Second;2nd Amendment
+e|Which amendment protects against unreasonable searches and seizures?|Fourth Amendment|Fourth;4th Amendment
+e|Which amendment protects a person from being forced to testify against himself?|Fifth Amendment|Fifth;5th Amendment
+e|What is the name for the first part of the Constitution, which begins "We the People"?|Preamble|the Preamble
+e|What is the term for the division of power between the national government and the states?|federalism
+e|What is the name for the body of electors who formally choose the president?|Electoral College|the Electoral College
+e|Which city is the capital of the United States?|Washington|Washington, D.C.;District of Columbia
+e|What is the name for the two-house legislature of the United States?|Congress|United States Congress
+e|Who presides over the Senate but votes only to break ties?|vice president|Vice President;the Vice President
+e|Which amendment lowered the voting age to eighteen?|Twenty-sixth Amendment|Twenty-sixth;26th Amendment
+e|What do we call a president's refusal to sign a bill into law?|veto
+e|What is the term for a formal accusation of wrongdoing against a federal official by the House of Representatives?|impeachment|impeach
+e|What do we call the two main political groups, Democrats and Republicans, that compete in elections?|political parties|parties;party
+e|What word names an election held within a party to choose its candidate for the general election?|primary|primary election;primaries
+m|Which 1803 Supreme Court case established the principle of judicial review?|Marbury versus Madison|Marbury v. Madison
+m|Which Supreme Court case of 1819 upheld the power of Congress to create a national bank and said states cannot tax it?|McCulloch versus Maryland|McCulloch
+m|Which Supreme Court case of 1954 declared racial segregation in public schools unconstitutional?|Brown versus Board of Education|Brown
+m|Which Supreme Court case of 1966 required police to inform suspects of their rights before questioning?|Miranda versus Arizona|Miranda
+m|Which Supreme Court case of 1963 guaranteed the right to an attorney for poor defendants in felony cases?|Gideon versus Wainwright|Gideon
+m|Which Supreme Court case of 1896 upheld "separate but equal" facilities?|Plessy versus Ferguson|Plessy
+m|Which 1857 Supreme Court case ruled that Black Americans could not be citizens?|Dred Scott versus Sandford|Dred Scott;Dred Scott decision
+m|Which 1969 Supreme Court case protected students' right to wear black armbands to protest the Vietnam War?|Tinker versus Des Moines|Tinker
+m|Which 1962 Supreme Court case ruled that state-sponsored prayer in public schools is unconstitutional?|Engel versus Vitale|Engel
+m|Which 1961 Supreme Court case barred the use of illegally seized evidence in state courts?|Mapp versus Ohio|Mapp
+m|Which set of essays, written by Hamilton, Madison, and Jay, argued for ratification of the Constitution?|Federalist Papers|The Federalist Papers;The Federalist
+m|Which agreement at the Constitutional Convention gave states equal representation in the Senate and population-based representation in the House?|Great Compromise|Connecticut Compromise
+m|Which compromise counted each enslaved person as three-fifths of a person for representation?|Three-Fifths Compromise
+m|Which weak first constitution of the United States was replaced by the Constitution?|Articles of Confederation
+m|What phrase describes the Senate's constitutional role in approving treaties and presidential appointments?|advice and consent
+m|How many senators must vote to invoke cloture and end a filibuster on most legislation?|sixty|60|m
+m|What fraction of each house of Congress is required to override a presidential veto?|two-thirds|two thirds;2/3|m
+m|What is the term for the clause in Article VI stating that federal law overrides conflicting state law?|Supremacy Clause|supremacy clause
+m|What name is given to the clause in Article I that gives Congress power to make laws that are "necessary and proper"?|elastic clause|Necessary and Proper Clause
+m|What name is given to the power of the courts to strike down laws that violate the Constitution?|judicial review
+m|What is the name for the process of redrawing legislative district lines after the census?|redistricting|reapportionment
+m|What term describes drawing legislative districts to favor one party?|gerrymandering|gerrymander
+m|What is the term for the executive power, granted by Article II, to forgive a federal crime?|pardon|clemency
+m|Which amendment says that powers not delegated to the United States are reserved to the states or the people?|Tenth Amendment|Tenth;10th Amendment
+m|Which amendment guarantees due process and equal protection of the laws to all citizens, ratified after the Civil War?|Fourteenth Amendment|Fourteenth;14th Amendment
+m|Which amendment limits a president to two elected terms?|Twenty-second Amendment|Twenty-second;22nd Amendment
+m|Which amendment, ratified in 1913, established the federal income tax?|Sixteenth Amendment|Sixteenth;16th Amendment
+m|Which amendment, ratified in 1913, provided for direct election of senators?|Seventeenth Amendment|Seventeenth;17th Amendment
+m|Which amendment, ratified in 1919, banned alcohol, only to be repealed later?|Eighteenth Amendment|Eighteenth;18th Amendment
+m|Which amendment banned poll taxes in federal elections?|Twenty-fourth Amendment|Twenty-fourth;24th Amendment
+m|Which amendment guarantees a speedy and public trial by an impartial jury in criminal cases?|Sixth Amendment|Sixth;6th Amendment
+m|Which amendment bans cruel and unusual punishments?|Eighth Amendment|Eighth;8th Amendment
+m|Which amendment provides for the replacement of the president or vice president in case of vacancy or inability to serve?|Twenty-fifth Amendment|Twenty-fifth;25th Amendment
+m|What is the term for a bill that is not signed or vetoed after Congress adjourns, causing it to die?|pocket veto
+m|What is the term for a temporary stop to Senate business by a long speech meant to delay a vote?|filibuster
+m|What is the name for the committee made up of members from both houses to settle differences between versions of a bill?|conference committee
+m|What is the term for the president's power to make agreements with foreign leaders that do not need Senate approval?|executive agreement
+m|What is the name for the written order issued by a president that has the force of law?|executive order
+m|What term describes a justice who believes the Constitution should be interpreted according to its original meaning?|originalist|originalism
+m|Which Supreme Court justice was the first African American to serve on the Court?|Thurgood Marshall|Marshall|n dup
+m|Which Supreme Court justice was the first woman to serve on the Court?|Sandra Day O'Connor|O'Connor|n
+m|Which Chief Justice wrote the opinion in Marbury versus Madison?|John Marshall|Marshall|n dup
+m|Which president is the only one to have served more than two terms?|Franklin D. Roosevelt|Franklin Roosevelt;Franklin Delano Roosevelt;FDR;n=Roosevelt
+h|Which section of the Fourteenth Amendment contains the clause guaranteeing "equal protection of the laws"?|Section 1|Section One;first section|m
+h|Which Supreme Court case of 1971 created a three-part test for laws involving religion and government?|Lemon versus Kurtzman|Lemon
+h|Which 1964 case established the "actual malice" standard for libel of public officials?|New York Times versus Sullivan|Sullivan
+h|Which 1971 case limited the government's ability to stop publication of the Pentagon Papers?|New York Times versus United States|Pentagon Papers case
+h|Which 1824 Supreme Court case broadly interpreted the commerce clause in a dispute over steamboats?|Gibbons versus Ogden|Gibbons
+h|Which 1935 Supreme Court case struck down parts of the National Industrial Recovery Act and is called the "sick chicken" case?|Schechter Poultry Corporation versus United States|Schechter Poultry;Schechter
+h|Which Supreme Court case of 1944 upheld the internment of Japanese Americans?|Korematsu versus United States|Korematsu
+h|Which 1962 Supreme Court case ruled that challenges to the way state legislative districts are drawn can be heard by federal courts?|Baker versus Carr|Baker
+h|Which 1973 Supreme Court case recognized a constitutional right to privacy in abortion decisions?|Roe versus Wade|Roe
+h|What term describes a court's authority to hear a case first, rather than on appeal, as the Supreme Court may do in cases involving ambassadors?|original jurisdiction
+h|Which Federalist Paper, written by James Madison, discusses the dangers of factions?|Federalist Number 10|Federalist 10;Federalist Paper 10|m
+h|Which Federalist Paper, also by Madison, explains checks and balances with the line "ambition must be made to counteract ambition"?|Federalist Number 51|Federalist 51;Federalist Paper 51|m
+h|Which Federalist Paper, written by Alexander Hamilton, defends the judiciary as the "least dangerous" branch?|Federalist Number 78|Federalist 78;Federalist Paper 78|m
+h|What name is given to the writings of opponents of the Constitution, who feared a strong national government?|Anti-Federalist Papers|Anti-Federalists;Anti-Federalist
+h|What is the legal term for a court order demanding that a prisoner be brought before a judge to determine whether detention is lawful?|habeas corpus|writ of habeas corpus|f
+h|What is the name for the constitutional clause that prohibits laws that punish an act that was legal when committed?|ex post facto law|ex post facto;ex post facto clause
+h|What is the term for a legislative act that declares a person guilty and punishes without a trial, which the Constitution forbids?|bill of attainder
+h|What term names the doctrine, from the Fourteenth Amendment, through which most Bill of Rights protections apply to the states?|incorporation|selective incorporation;incorporation doctrine
+h|What is the term for a judge's written statement disagreeing with the court's majority decision?|dissent|dissenting opinion
+h|What is the name for the legal principle of following earlier court decisions?|stare decisis|precedent|f
+h|What is the name for the Latin term meaning "friend of the court," applied to a brief filed by a nonparty?|amicus curiae|amicus|f
+h|Which Supreme Court order to review a lower court's decision is called what, from the Latin for "to be made more certain"?|writ of certiorari|certiorari;cert|f
+h|What is the name for the 1790s dispute in which Republicans opposed laws like the Alien and Sedition Acts, leading to the resolutions of Jefferson and Madison?|Virginia and Kentucky Resolutions|Kentucky and Virginia Resolutions
+h|What is the name for the principle that the federal government may use its taxing and spending power to give states money with conditions attached, known as what type of grants?|categorical grants|grants-in-aid;conditional grants
+h|What is the name for the type of federal funding to states that comes with few restrictions, as opposed to categorical grants?|block grants|block grant
+h|What name is given to federal requirements on state governments that are not accompanied by funding?|unfunded mandates|unfunded mandate

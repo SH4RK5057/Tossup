@@ -1,0 +1,63 @@
+# quizbowl novice | Science | Other Science
+e|This is the name for a testable explanation or educated guess that scientists make before running an experiment. It is often written as an "if, then" statement. For 10 points, name this step of the scientific method that comes after asking a question and doing background research.|hypothesis
+e|This is the factor in an experiment that the scientist deliberately changes to see what effect it has. It is plotted on the x-axis of a graph. For 10 points, name this kind of variable, contrasted with the dependent variable.|independent variable|manipulated variable
+e|This English scientist developed the first successful smallpox vaccine in 1796 using material from cowpox sores. For 10 points, name this physician, who is often called the founder of immunology and vaccination.|Edward Jenner|Jenner|n
+e|This is the type of microorganism that includes Escherichia coli and Streptococcus. These single-celled prokaryotes can cause strep throat, but antibiotics such as penicillin can kill many of them. For 10 points, name these microbes, whose name ends in the plural "-ia."|bacteria|bacterium
+e|This device is used by scientists to see tiny objects such as cells and microorganisms. It uses lenses to magnify and was improved by Anton van Leeuwenhoek in the 1600s. For 10 points, name this instrument.|microscope
+e|This is the name for any material that is used by the body for energy, growth, and repair, such as vitamins, minerals, proteins, and carbohydrates. For 10 points, name these substances that are obtained from food.|nutrients|nutrient
+e|This is the name of the human organ that is protected by the skull and controls thinking, memory, and movement. It is made up of the cerebrum, the cerebellum, and a stem that joins the spinal cord. Neurons in it send signals through the nervous system. For 10 points, name this organ at the top of the central nervous system.|brain
+e|This is the name for the type of energy that comes from the Sun and can be captured by panels made of silicon cells. It is a renewable resource. For 10 points, name this kind of energy, which produces electricity from photovoltaic cells.|solar energy|solar power;solar
+e|This Polish-French scientist discovered the elements polonium and radium. She won Nobel Prizes in both Physics and Chemistry. For 10 points, name this scientist who coined the term "radioactivity."|Marie Curie|Curie;Marie Sklodowska Curie|n
+e|Scientists called paleontologists study these preserved remains or traces of ancient organisms, such as bones, shells, and footprints, usually found in sedimentary rock. Dinosaur bones and trilobite shells are examples. For 10 points, name these relics of past life.|fossils|fossil
+e|This is the name for the variety of living things in an ecosystem or on Earth. It includes the diversity of species, genes, and ecosystems. For 10 points, give this word that combines "bio" with a word for variety.|biodiversity
+m|This is the name for the process in which a substance in a food, like iron or calcium, is taken into the blood from the small intestine. Villi increase the surface area of the small intestine for it. For 10 points, name this process.|absorption
+m|This vitamin, which is made in the skin when it is exposed to sunlight, helps the body absorb calcium. A lack of it causes rickets in children. For 10 points, name this vitamin, abbreviated D.|vitamin D
+m|This disease was the target of a global vaccination campaign led by the World Health Organization that ended in 1980 with its eradication. Edward Jenner developed the first vaccine against it. For 10 points, name this viral disease that caused scarring marks and killed millions.|smallpox
+m|This is the name for the unit of heredity found on a chromosome that carries the code for a protein. Gregor Mendel called them "factors." For 10 points, name these segments of DNA.|genes|gene
+m|This Scottish bacteriologist discovered penicillin in 1928 after noticing mold killed bacteria on a petri dish. For 10 points, name this scientist who shared the 1945 Nobel Prize in Medicine.|Alexander Fleming|Fleming|n
+m|In this layer of a food chain, the organisms eat the primary consumers. Hawks and snakes that eat mice are examples. For 10 points, name this category of consumers, third in a food chain starting with producers.|secondary consumers|secondary consumer;carnivores;carnivore
+m|This is the name for the bone that forms the upper arm and connects the shoulder to the elbow. It is the longest bone of the arm, and its lower end meets the radius and ulna. For 10 points, name this long bone, whose name sounds like a word for being funny.|humerus
+m|This is the name for the substance in the blood that fights infections caused by germs and is made by white blood cells. The body makes it in response to antigens. For 10 points, name this Y-shaped protein.|antibody|antibodies
+m|This is the largest organ of the human body. It protects against germs, regulates temperature, and is composed of the epidermis and dermis. For 10 points, name this organ that covers the body.|skin
+m|This is the name of the field of science that studies how living things interact with each other and their surroundings. The term was coined by Ernst Haeckel. For 10 points, name this branch of biology.|ecology
+m|This Russian physiologist discovered conditioned reflexes by training dogs to salivate at the sound of a bell. For 10 points, name this scientist who won the 1904 Nobel Prize in Physiology or Medicine.|Ivan Pavlov|Pavlov|n
+h|This German bacteriologist identified the bacteria that cause tuberculosis and cholera in the 1880s. His set of criteria for linking a germ to a disease is called his postulates. For 10 points, name this scientist.|Robert Koch|Koch|n
+h|This is the term for the maximum number of individuals of a species that an environment can support over time. Food, water, and space limit it. For 10 points, name this ecological concept.|carrying capacity
+h|This Hungarian physician in the 1840s showed that handwashing in a Vienna hospital dramatically cut deaths from childbed fever. For 10 points, name this doctor, who was largely ignored in his lifetime.|Ignaz Semmelweis|Semmelweis|n
+h|This type of study uses a control group that gets a fake treatment with no active ingredient. The patients do not know whether they got the real drug. For 10 points, name this fake treatment.|placebo
+h|This kind of ecosystem process involves bacteria that convert nitrogen gas into ammonia usable by plants. Legumes such as clover and beans host the bacteria in root nodules. For 10 points, name this process of making nitrogen available in the nitrogen cycle.|nitrogen fixation
+h|This ecological term names a species whose presence has an unusually large effect on its ecosystem compared with its numbers. Sea otters that protect kelp forests are an example. For 10 points, give this term.|keystone species
+h|This is the term for an organism that harms another organism, its host, while living on or in it. Tapeworms and ticks are examples. For 10 points, name this type of symbiotic relationship in which one species benefits at another's expense.|parasitism|parasite
+h|This French scientist developed pasteurization and a rabies vaccine. His experiments in the 1860s supported germ theory. For 10 points, name this man whose name is used for heating milk to kill bacteria.|Louis Pasteur|Pasteur|n
+B|m|Answer these questions about famous scientists.
+-|e|Which scientist developed the theory of evolution by natural selection?|Charles Darwin|Darwin|n
+-|m|Which Austrian monk is known as the father of genetics?|Gregor Mendel|Mendel|n
+-|h|Which English scientist used a microscope to examine thin slices of cork and coined the word "cell" in his 1665 book Micrographia?|Robert Hooke|Hooke|n
+B|m|Answer these questions about the scientific method.
+-|e|What is the name for the factors in an experiment that are kept the same?|controls|constants;controlled variables;control
+-|m|What is the term for the information collected in an experiment, such as measurements?|data
+-|h|What is the term for a well-tested explanation supported by lots of evidence, such as cell theory?|scientific theory|theory
+B|m|Answer these questions about the human body.
+-|e|What organ filters blood and makes urine?|kidneys|kidney
+-|m|What organ stores bile made by the liver?|gallbladder
+-|h|What is the name of the long, muscular tube that carries food from the mouth to the stomach?|esophagus
+B|m|Answer these questions about diseases and medicine.
+-|e|What type of drug, such as penicillin, is used to treat bacterial infections?|antibiotics|antibiotic
+-|m|What term names a preparation that gives immunity to a disease?|vaccine|vaccines
+-|h|What is the name of the disease that causes high blood sugar due to problems with insulin?|diabetes|diabetes mellitus
+B|m|Answer these questions about the environment.
+-|e|What is the name of the gas layer in the stratosphere that blocks harmful ultraviolet rays?|ozone layer|ozone
+-|m|What term names a group of same-species organisms living in one area?|population
+-|h|What name is given to the large land biome with cold, snowy winters and conifer trees, also called the taiga?|boreal forest|taiga
+B|m|Answer these questions about the senses and the nervous system.
+-|e|What part of the eye controls how much light enters by changing the pupil size?|iris
+-|m|What nerve cells carry messages through the body?|neurons|neuron
+-|h|What is the name of the thin layer at the back of the eye that contains rods and cones?|retina
+B|m|Answer these questions about inventions and technology.
+-|e|Which American inventor developed the practical light bulb and phonograph?|Thomas Edison|Edison|n
+-|m|Which Italian inventor developed the first practical radio telegraphy system?|Guglielmo Marconi|Marconi|n
+-|h|Which American brothers flew the first powered airplane in 1903?|Wright brothers|Wright;Orville and Wilbur Wright;Wilbur and Orville Wright
+B|m|Answer these questions about units and tools in the laboratory.
+-|e|What unit of length is equal to one thousand meters?|kilometer|kilometers
+-|m|What laboratory tool, a glass tube with markings, is used to dispense precise amounts of liquid in titrations?|burette|buret
+-|h|What type of balance device measures mass using a pair of pans and known masses?|triple beam balance|balance;beam balance

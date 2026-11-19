@@ -1,0 +1,132 @@
+# quizbowl novice | Social Science | Economics
+e|When this quantity rises, each dollar buys fewer goods, which is why your grandparents remember much cheaper movie tickets. It is commonly measured by the Consumer Price Index. Central banks often aim to keep it low and steady, at around two percent per year. For 10 points, name this general rise in prices over time.|inflation|
+e|This concept states that people have unlimited wants but only limited resources to satisfy them. It forces every society to answer the questions of what to produce, how to produce it, and for whom. Time, money, and land are all examples of things that have it. For 10 points, name this basic economic problem of limited resources.|scarcity|
+e|When the price of a good rises, producers are usually willing to offer more of it for sale. This relationship is shown by an upward-sloping line on a graph with price on the vertical axis. Together with its counterpart for buyers, it determines market price. For 10 points, name this half of a famous two-curve model, which is the amount of a good that sellers offer.|supply|
+e|The law of this concept says that, all else equal, when the price of a good rises, the quantity people buy falls. Its curve slopes downward on a graph. Shifts in income, tastes, and the prices of related goods can move the whole curve. For 10 points, name this economic term for how much of a good consumers are willing and able to buy.|demand|
+m|A famous example of this idea is that attending college means giving up the wages you could earn at a full-time job. Economists say every choice has one, and it is the value of the next best alternative that you give up. For 10 points, name this concept that is the real price of any decision beyond the money spent.|opportunity cost|cost of the next best alternative
+e|It is measured by adding up consumption, investment, government spending, and net exports. Simon Kuznets helped develop it in the 1930s. When economists say an economy is growing, they usually mean this figure is rising after adjusting for inflation. For 10 points, name this measure of the total value of goods and services produced within a country, abbreviated G-D-P.|gross domestic product|GDP;Gross Domestic Product
+e|In this kind of market, one firm is the only seller of a product and has no close substitutes. Examples have included a local water utility and, historically, Standard Oil. Because there is no competition, the firm can charge higher prices. For 10 points, name this market structure with a single seller.|monopoly|
+e|Economists often define this event as two consecutive quarters of falling gross domestic product. During it, businesses cut back, unemployment rises, and consumers spend less. A particularly deep and long one is called a depression. For 10 points, name this downturn in economic activity.|recession|
+e|This Scottish thinker wrote that a butcher, brewer, and baker serve us out of self-interest rather than benevolence. He described how a division of labor in a pin factory raises productivity. He published a 1776 book on the causes of national prosperity. For 10 points, name this author of The Wealth of Nations.|Adam Smith|Smith|n
+m|Established in 1913, this institution has a Board of Governors in Washington and twelve regional banks. It sets monetary policy by buying and selling government securities, and it acts as lender of last resort to banks. For 10 points, name this central bank of the United States, often shortened to the Fed.|Federal Reserve|Federal Reserve System;the Fed;Fed
+e|This type of tax is placed on goods imported from other countries, which makes foreign products more expensive in the domestic market. The Smoot-Hawley one of 1930 is a famous example. Supporters say it protects domestic industries. For 10 points, name this tax on imports.|tariff|import duty;duty;import tax
+e|People are counted in this category if they are without a job but are actively looking for work. The Bureau of Labor Statistics publishes a monthly rate for it. A person who has stopped looking, called a discouraged worker, is not counted. For 10 points, name this condition of being jobless, which rose sharply during the Great Depression.|unemployment|joblessness
+m|This British economist argued in a 1936 book that governments should increase spending during downturns to boost demand. His ideas influenced the New Deal and the Bretton Woods conference. He wrote The General Theory of Employment, Interest and Money. For 10 points, name this economist whose name labels a school of thought.|John Maynard Keynes|Keynes|n
+h|David Ricardo illustrated this principle with the example of wine from Portugal and cloth from England. It holds that countries should specialize in what they produce at the lowest opportunity cost, even if another country is better at everything. For 10 points, name this principle that explains the gains from trade.|comparative advantage|
+e|Owning a share of this means owning a small piece of a corporation. Its price is shown on tickers on exchanges like the Nasdaq. Owners may receive dividends. For 10 points, give this term for a unit of ownership in a company, which is bought and sold on markets.|stock|share;shares;stocks
+m|This is the price of borrowing money, expressed as a percentage of the amount borrowed. When it falls, mortgages and car loans become cheaper and spending tends to rise. The Federal Reserve influences it through its federal funds target. For 10 points, name this cost of a loan.|interest rate|interest;rate of interest
+e|This decade-long period began after the stock market crash of 1929. Unemployment in the United States reached about a quarter of workers, and thousands of banks failed. Franklin Roosevelt responded with the New Deal. For 10 points, name this worst economic downturn of the twentieth century.|Great Depression|The Great Depression
+h|OPEC members are often cited as an example of this market structure, in which a few large firms dominate, so each one's choices affect the others. Airlines and wireless carriers in many countries show it. Game theory, including the prisoner's dilemma, is often used to analyze it. For 10 points, name this market with only a handful of sellers.|oligopoly|
+m|Congress and the President use this tool by changing taxes and government spending. During a recession, a government might cut taxes or build highways to stimulate the economy. The other main tool, controlled by the central bank, is monetary policy. For 10 points, name this type of policy involving a government's budget.|fiscal policy|
+m|This University of Chicago economist advocated that the money supply grow at a steady rate. He won the 1976 Nobel Prize and wrote Capitalism and Freedom. He was a leading monetarist and critic of Keynes. For 10 points, name this economist.|Milton Friedman|Friedman|n
+m|This is the opposite of inflation: a general fall in prices across the economy. It can seem good for shoppers, but it can cause people to delay purchases and make debts harder to repay. Japan struggled with it for years in the 1990s. For 10 points, name this decline in the general price level.|deflation|
+h|Economists measure this property using a ratio of the percentage change in quantity to the percentage change in price. Gasoline is considered to have low values of it in the short run, while luxury goods have high ones. When it is less than one, the good is described as inelastic. For 10 points, name this property that describes how sensitive buyers are to price changes.|price elasticity|elasticity;elasticity of demand;price elasticity of demand
+m|A country has this when the value of its imports exceeds the value of its exports. The United States has had one with China for decades. It is part of the current account. For 10 points, name this imbalance in international trade, the opposite of a surplus.|trade deficit|
+m|This occurs in a year when a government spends more money than it collects in revenue. It is financed by borrowing, and the total of past ones forms the national debt. For 10 points, name this gap between spending and revenue in a government budget.|budget deficit|deficit;fiscal deficit
+m|In this system of exchange, people trade goods or services directly without using money. It required a double coincidence of wants, which made trading difficult and led to the invention of currency. For 10 points, name this practice of swapping one good for another.|barter|bartering
+h|This word was coined to describe the 1970s American combination of rising unemployment and high inflation, which seemed impossible under older theories. It was triggered partly by oil price shocks from OPEC. For 10 points, name this portmanteau for stagnant growth plus inflation.|stagflation|
+m|On a graph, this is the point where the supply and demand curves cross. At the price named for it, the quantity that buyers want exactly matches the quantity that sellers offer, so there is neither a shortage nor a surplus. For 10 points, give this two-word term, which includes a word meaning balance.|equilibrium price|market equilibrium;equilibrium
+e|This French-derived word names a person who starts a new business and takes on its financial risk. Steve Jobs and Henry Ford are famous examples. They organize land, labor, and capital to make a product. For 10 points, name this type of business founder.|entrepreneur|
+h|Adam Smith used this phrase for the way individuals pursuing their own self-interest in free markets end up helping society as a whole, as if guided by something unseen. It appears in The Wealth of Nations and is a key idea of laissez-faire thinking. For 10 points, give this two-word phrase.|invisible hand|the invisible hand
+m|This German philosopher co-wrote The Communist Manifesto with Friedrich Engels and also wrote Das Kapital. He criticized capitalism and argued that workers would eventually overthrow the owners of the means of production. For 10 points, name this thinker whose economic theories inspired communism.|Karl Marx|Marx|n
+m|This principle states that as you add more of one input, such as workers in a fixed-size factory, each additional unit eventually adds less extra output than the one before. Too many cooks in a small kitchen illustrates it. For 10 points, give this principle of declining marginal output, named for what happens to returns.|diminishing returns|law of diminishing returns;diminishing marginal returns
+B|e|Answer these questions about basic money and banking.
+-|e|What are the paper bills and metal coins used for everyday payments called, as opposed to checks or cards?|cash|currency
+-|m|What term describes a loan from a bank used to buy a house, with the house itself serving as collateral?|mortgage|
+-|h|What term names the money a bank is required to hold in reserve rather than lend, expressed as a percentage of deposits?|reserve requirement|required reserves
+B|e|Answer these questions about the stock market.
+-|e|What New York City street name is often used as shorthand for the American financial industry?|Wall Street|
+-|m|What name is given to a payment that a corporation makes to shareholders out of its profits?|dividend|
+-|h|What term describes a market in which stock prices are rising, named for an animal that thrusts upward with its horns?|bull market|bull
+B|m|Answer these questions about government and the economy.
+-|e|What is the name of the mandatory payments, such as income tax, collected by governments to fund services?|taxes|tax
+-|m|What term names a government payment to a business or industry meant to lower its costs and encourage production?|subsidy|
+-|h|What term names a legal maximum price, such as a cap on rent, that is set below the equilibrium price?|price ceiling|ceiling
+B|m|Answer these questions about types of economic systems.
+-|e|In which economic system are most businesses privately owned and run for profit?|capitalism|capitalist economy;market economy
+-|m|What term describes an economy in which the government makes most decisions about production and prices, as in the Soviet Union?|command economy|planned economy;centrally planned economy
+-|h|What term describes a system that mixes private enterprise with government regulation, as in most modern countries?|mixed economy|
+B|e|Answer these questions about work and wages.
+-|e|What is the term for the money a worker earns per hour of work?|wage|wages;hourly wage
+-|m|What name is given to an organization of workers that bargains with employers for pay and benefits?|labor union|union;trade union
+-|h|What term is given to a legal minimum hourly pay that employers must provide, which the Fair Labor Standards Act first set in 1938?|minimum wage|
+B|m|Answer these questions about the factors of production.
+-|e|What factor of production includes natural resources such as soil, minerals, and forests?|land|
+-|m|What factor of production refers to the tools, machinery, and factories used to produce goods?|capital|capital goods
+-|h|Which factor of production refers to the effort supplied by workers, whether physical or mental?|labor|
+B|h|Answer these questions about international trade.
+-|e|What is the name for goods sold to other countries?|exports|export
+-|m|What name is given to a limit on the quantity of a good that may be imported, which is an alternative to a tariff?|quota|import quota
+-|h|Which international body, founded in 1995 and based in Geneva, replaced the General Agreement on Tariffs and Trade?|World Trade Organization|WTO
+B|m|Answer these questions about personal finance.
+-|e|What term names money set aside for future use, often in a bank account earning interest?|savings|saving;savings account
+-|m|What term for a number from 300 to 850 estimates how likely a borrower is to repay debts?|credit score|
+-|h|What term names the practice of spreading investments across many assets to reduce risk, as in not putting all eggs in one basket?|diversification|diversifying
+# quizbowl novice | Social Science | Psychology
+e|This scientist trained dogs to salivate at the sound of a bell by repeatedly pairing the bell with food. He was a Russian physiologist who won the 1904 Nobel Prize for work on digestion. For 10 points, name this researcher who discovered classical conditioning.|Ivan Pavlov|Pavlov|n
+e|This Austrian physician founded psychoanalysis and wrote The Interpretation of Dreams. He proposed that the mind has an id, ego, and superego. He used the technique of free association with patients on a couch. For 10 points, name this psychologist.|Sigmund Freud|Freud|n
+e|This process is the mental storing and later retrieving of information. Types include short-term, long-term, and working. Hermann Ebbinghaus studied how quickly forgetting happens on a curve named for him. For 10 points, name this mental ability, which is lost in amnesia.|memory|
+m|This psychologist ranked human needs in a pyramid, with physiological needs at the base and self-actualization at the top. He is associated with humanistic psychology. For 10 points, name this American who proposed a hierarchy of needs.|Abraham Maslow|Maslow|n
+e|A person with this condition may feel sad, lose interest in activities they once enjoyed, and have changes in sleep and appetite. It is a mood disorder often treated with therapy and medication. For 10 points, name this common mental illness, sometimes called a clinical form of being down.|depression|major depressive disorder;clinical depression
+m|The Stanford prison experiment was conducted by this psychologist, who also served as president of the American Psychological Association. Participants were assigned roles as guards and prisoners. For 10 points, name this researcher, first name Philip.|Philip Zimbardo|Zimbardo|n
+h|In this 1960s study, participants were told to give increasingly strong electric shocks to a learner when he answered incorrectly. Most continued to the highest level because a man in a lab coat told them to. For 10 points, name this Yale study of obedience to authority.|Milgram experiment|obedience experiment;Milgram obedience experiment;Milgram's obedience study;Milgram study
+e|Most vivid ones occur during R-E-M sleep, when the eyes move quickly under the lids. Freud called them the royal road to the unconscious, and he wrote a famous book interpreting them. For 10 points, name these stories and images that the mind produces during sleep.|dreaming|dream;dreams
+m|This part of the brain, shaped like a seahorse, is important for forming new long-term memories. Damage to it caused the famous patient H.M. to be unable to form new memories. For 10 points, name this structure in the limbic system.|hippocampus|
+m|This researcher showed children two identical glasses of water, poured one into a taller, thinner glass, and found that young children think the taller one holds more. Tests of this kind of conservation led him to describe stages of development. He was Swiss. For 10 points, name this man.|Jean Piaget|Piaget|n
+e|Psychologists use this term for the way people think they should handle a situation such as stress. Techniques for it include exercise, talking to friends, and deep breathing. For 10 points, name this word, which means managing difficult circumstances.|coping|
+m|This term describes the strong emotional bond between an infant and caregiver. John Bowlby proposed a theory about it, and Mary Ainsworth tested it with the Strange Situation procedure. For 10 points, give this term.|attachment|attachment theory
+e|The Rorschach test uses these shapes, which are meant to reveal how a person thinks. A person looks at symmetrical inkblots and says what they see. For 10 points, name this kind of test, in which people give open-ended answers to ambiguous images.|projective test|inkblot test;Rorschach test;Rorschach inkblot test
+m|B. F. Skinner is known for this kind of learning, in which behavior is shaped by rewards and punishments. He used a box with a lever for rats. For 10 points, name this type of conditioning, named for how the subject acts on its environment.|operant conditioning|operant
+h|This term was coined by Leon Festinger for the discomfort felt when a person holds two contradictory beliefs, or acts against their own beliefs. People often change an attitude to reduce it. For 10 points, name this psychological theory.|cognitive dissonance|dissonance
+e|These disorders are marked by excessive fear or worry. Types include panic disorder, phobias, and generalized forms. For 10 points, name these disorders, which most commonly involve feeling nervous and afraid.|anxiety disorders|anxiety;anxiety disorder
+m|This is the part of the nervous system consisting of the brain and spinal cord. It processes information and sends commands to the rest of the body. For 10 points, give the two-word term, abbreviated C-N-S.|central nervous system|CNS
+h|In Freud's theory, this part of the personality is the rational mediator that balances the demands of the id and the superego. It operates on the reality principle. For 10 points, name this part, whose Latin name means I.|ego|the ego
+m|This term describes the tendency to do worse at something in front of others, or the opposite. More generally, it names the influence of other people on individuals. For 10 points, name this field of psychology, which studies how people think about and act around other people.|social psychology|
+m|This Swiss psychiatrist founded analytical psychology and developed ideas such as the collective unconscious and archetypes. He broke with Freud in 1913. For 10 points, name this man.|Carl Jung|Jung|n
+e|This disorder is often diagnosed in childhood. Symptoms include trouble paying attention, being very active, and acting without thinking. It is abbreviated A-D-H-D. For 10 points, give the full name of this disorder, whose first word is attention.|attention deficit hyperactivity disorder|ADHD;attention-deficit/hyperactivity disorder;attention deficit disorder
+h|This 1950s experiment by Solomon Asch showed participants lines of different lengths and had actors give wrong answers. Many subjects went along with the group. For 10 points, name this kind of social pressure, shown in the Asch experiment.|conformity|
+m|This is the term for a prediction or belief that comes true because a person acts as if it were true. Robert Merton named it. The Pygmalion effect in classrooms is a version. For 10 points, name this kind of prophecy.|self-fulfilling prophecy|
+e|This test, developed by Alfred Binet and later revised at Stanford, produces a score meant to measure intelligence. The average score is set at 100. For 10 points, give the abbreviation or full name of this type of score.|intelligence quotient|IQ;IQ score
+m|This part of the brain, located at the back and below the cerebrum, coordinates balance and fine movement. Damage to it can cause clumsy, shaky walking known as ataxia. Its name is Latin for little brain. For 10 points, name this structure.|cerebellum|
+e|This term describes the unlearned tendency, such as sucking in newborns, to respond to certain stimuli. Unlike habits, these are automatic. For 10 points, name this type of inborn response, as when a doctor taps your knee.|reflex|reflexes
+m|This type of therapy, associated with Aaron Beck, helps patients identify and change unhelpful thoughts and behaviors. It is abbreviated C-B-T. For 10 points, name this common therapy.|cognitive behavioral therapy|CBT;cognitive-behavioral therapy;cognitive behavior therapy
+h|In his 1960s experiment, Albert Bandura had children watch adults hit an inflatable clown. Children later copied the aggression. For 10 points, name this experiment named for a toy, which showed observational learning.|Bobo doll experiment|Bobo doll;Bobo doll study
+e|This is the mental state of being aware of oneself and the surroundings. It is lost during deep anesthesia. For 10 points, name this term, which William James described as a stream.|consciousness|
+e|In medical and psychological trials, a sugar pill given to the control group is an example of this. People who take it often report feeling better simply because they expect to. For 10 points, name this inactive treatment, whose Latin name means I shall please.|placebo|
+B|e|Answer these questions about famous psychologists.
+-|e|Which Austrian founded psychoanalysis?|Sigmund Freud|Freud|n
+-|m|Which American psychologist is considered the father of American psychology and wrote The Principles of Psychology in 1890?|William James|James|n
+-|h|Which German scientist opened the first psychology laboratory in Leipzig in 1879?|Wilhelm Wundt|Wundt|n
+B|m|Answer these questions about the brain.
+-|e|What is the largest part of the human brain, divided into two hemispheres?|cerebrum|
+-|m|Which lobe of the brain, at the back of the head, is mainly responsible for vision?|occipital lobe|occipital
+-|h|Which almond-shaped structure in the brain is most associated with fear and emotion?|amygdala|
+B|e|Answer these questions about the senses.
+-|e|Which sense organ contains the retina?|eye|eyes
+-|m|What are the three tiny bones of the middle ear, the hammer, anvil, and stirrup, collectively involved in?|hearing|
+-|h|What term refers to the smallest amount of a stimulus that can be detected half the time?|absolute threshold|threshold
+B|m|Answer these questions about learning.
+-|e|What kind of conditioning did Pavlov study?|classical conditioning|classical
+-|m|What term names a stimulus or event that increases the likelihood of a behavior being repeated?|reinforcement|reinforcer
+-|h|What term describes the gradual weakening of a conditioned response when it is no longer paired with the unconditioned stimulus?|extinction|
+B|m|Answer these questions about development.
+-|e|Which stage of life, from about age thirteen to nineteen, is marked by puberty?|adolescence|
+-|m|What term for the process of taking in new information is paired with accommodation in Piaget's theory?|assimilation|
+-|h|Which psychologist proposed eight stages of psychosocial development, including identity versus role confusion?|Erik Erikson|Erikson|n
+B|e|Answer these questions about emotions.
+-|e|What emotion is expressed by a smile in all cultures?|happiness|joy
+-|m|Which American psychologist is known for identifying six basic facial expressions across cultures, such as in the study of microexpressions?|Paul Ekman|Ekman|n
+-|h|Which theory says that bodily arousal comes before the feeling of emotion, named after two psychologists with the surnames James and Lange?|James-Lange theory|James Lange theory
+B|m|Answer these questions about mental disorders.
+-|e|Which disorder involves intrusive thoughts and repeated rituals, abbreviated O-C-D?|obsessive-compulsive disorder|OCD;obsessive compulsive disorder
+-|m|Which disorder, often involving hallucinations and delusions, is a serious mental illness whose name comes from Greek words meaning split mind?|schizophrenia|
+-|h|Which disorder follows a traumatic event and involves flashbacks and hypervigilance?|post-traumatic stress disorder|PTSD;posttraumatic stress disorder
+B|h|Answer these questions about research methods.
+-|e|What is a testable prediction in an experiment called?|hypothesis|
+-|m|What term names the group in an experiment that does not receive the treatment?|control group|control
+-|h|What term is used when neither the participants nor the researchers know who got the real treatment?|double-blind study|double blind;double-blind;double-blind experiment
+B|m|Answer these questions about individual differences.
+-|e|What term names the lasting pattern of thoughts, feelings, and behaviors that makes each person unique?|personality|
+-|m|The Big Five traits include openness, conscientiousness, agreeableness, neuroticism, and which trait of being outgoing?|extraversion|extroversion
+-|h|Which pair of psychologists developed a famous questionnaire of the sixteen types based on Jung's types?|Myers and Briggs|Myers-Briggs;Katharine Cook Briggs and Isabel Briggs Myers;Isabel Briggs Myers and Katharine Briggs
+

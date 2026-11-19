@@ -1,0 +1,175 @@
+# ncal novice | Science | Earth Science
+e|Which layer of Earth is the thin, rocky outer shell on which we live?|crust|the crust
+m|Which layer of Earth is liquid and made mostly of molten iron and nickel?|outer core
+m|Which part of Earth is a solid ball of iron and nickel at the very center?|inner core
+m|What name is given to the rigid outer layer of Earth made up of the crust and uppermost mantle?|lithosphere
+h|What name is given to the soft, slowly flowing layer of the mantle just below the lithosphere?|asthenosphere
+e|What German scientist proposed the idea of continental drift in 1912?|Alfred Wegener|Wegener|n
+e|What was the name of the supercontinent that existed about 250 million years ago?|Pangaea|Pangea
+m|What type of plate boundary is formed where two plates move apart?|divergent boundary|divergent;divergent plate boundary
+m|What type of plate boundary is formed where two plates slide past each other?|transform boundary|transform;transform plate boundary
+m|What famous California fault is a transform boundary between the Pacific and North American plates?|the San Andreas Fault|San Andreas Fault;San Andreas
+e|What is the process in which one tectonic plate sinks beneath another?|subduction
+e|What horseshoe-shaped zone around the Pacific Ocean has many earthquakes and volcanoes?|the Ring of Fire|Ring of Fire
+e|What mountain range formed when the Indian plate collided with the Eurasian plate?|Himalayas|the Himalayas
+e|What is the name of the instrument that records the shaking of the ground during an earthquake?|seismograph|seismometer
+e|What is the point on Earth's surface directly above the place where an earthquake begins?|epicenter|the epicenter
+m|What is the underground point where an earthquake rupture begins?|focus|hypocenter
+m|What type of seismic wave is the fastest and arrives first?|P wave|primary wave;P waves;primary waves
+h|What scale, developed in 1935 by an American seismologist, was once the standard for earthquake magnitude?|Richter scale|the Richter scale;Richter
+e|What is the name of the giant ocean wave caused by an undersea earthquake?|tsunami
+e|What is molten rock called when it is still beneath Earth's surface?|magma
+e|What is molten rock called when it flows out onto Earth's surface?|lava
+m|What type of volcano, such as Mauna Loa in Hawaii, has broad, gently sloping sides?|shield volcano|shield
+e|Which famous geyser in Yellowstone National Park erupts about every 90 minutes?|Old Faithful
+m|What is the large, bowl-shaped depression left when a volcano collapses after an eruption?|caldera
+e|Which Washington State volcano erupted violently in 1980?|Mount Saint Helens|Saint Helens;Mount St. Helens
+e|Which Italian volcano buried the city of Pompeii in 79 AD?|Mount Vesuvius|Vesuvius
+e|What kind of rock forms when sediments are pressed and cemented together?|sedimentary rock|sedimentary
+e|What kind of rock is changed by heat and pressure without melting?|metamorphic rock|metamorphic
+e|What dark, fine-grained volcanic rock makes up most of the ocean floor?|basalt
+e|What sedimentary rock made mostly of calcium carbonate is often formed from shells?|limestone
+e|What metamorphic rock forms from shale and can be split into thin sheets?|slate
+e|What term describes the continuous process by which rocks change from one type to another?|rock cycle|the rock cycle
+h|What light volcanic rock is full of gas bubbles and can float on water?|pumice
+h|What black volcanic glass forms when lava cools very quickly?|obsidian
+m|What scale ranks minerals from 1 to 10 by hardness?|Mohs scale|the Mohs scale;Mohs hardness scale;Mohs
+e|What is the color of a mineral's powder when rubbed on a tile called?|streak
+e|What mineral, whose chemical name is sodium chloride, is common table salt?|halite
+h|What iron-rich mineral that is attracted to magnets is named for its magnetic property?|magnetite
+e|What is the process of breaking rocks into smaller pieces called?|weathering
+e|What is the process of moving weathered rock and soil from one place to another called?|erosion
+e|What triangular landform forms where a river deposits sediment as it enters the sea?|delta
+e|Which river carved the Grand Canyon over millions of years?|the Colorado River|Colorado River;Colorado
+e|What is the name for slow-moving masses of ice that carve valleys?|glaciers|glacier
+h|What type of weathering occurs when water freezes in cracks and expands?|frost wedging|ice wedging;frost action;frost heaving
+m|What do we call the hanging icicle-shaped formations that grow from the ceilings of caves?|stalactites|stalactite
+e|What process turns liquid water into water vapor?|evaporation
+m|What is the term for water vapor released into the air by plants?|transpiration
+m|What is the name for the warming of the Pacific Ocean's surface that affects weather worldwide every few years?|El Nino|El Niño
+h|About what percent of Earth's surface is covered by water: 71 or 51?|71|71 percent;seventy-one|m
+e|In which layer of the atmosphere is the ozone layer found?|stratosphere|the stratosphere
+e|What kind of cloud is thin, wispy, and high in the sky, made of ice crystals?|cirrus
+h|What fast-moving ribbon of air high in the atmosphere affects weather in the middle latitudes?|jet stream|the jet stream
+h|What effect, caused by Earth's rotation, makes winds curve instead of traveling in straight lines?|Coriolis effect|the Coriolis effect;Coriolis force;Coriolis
+e|What is the name for a large rotating storm that forms over warm tropical ocean water?|hurricane|tropical cyclone;typhoon;cyclone
+e|What seasonal wind, common in South Asia, brings heavy summer rain?|monsoon
+e|What is the line of 0 degrees latitude called?|the equator|equator
+e|What is the line of 0 degrees longitude called?|prime meridian|the prime meridian
+m|What English town gives its name to the prime meridian?|Greenwich
+m|About how many years old is Earth?|4.6 billion years|4.6 billion;4.5 billion years|m
+e|What era is called the "Age of Reptiles" or "Age of Dinosaurs"?|Mesozoic|Mesozoic Era;the Mesozoic
+m|What is the geologic principle stating that in undisturbed rock layers the oldest is on the bottom?|law of superposition|superposition;the law of superposition
+e|What event about 66 million years ago is thought to have caused the extinction of the dinosaurs?|an asteroid impact|asteroid impact;meteorite impact;asteroid strike;asteroid
+e|What kind of fuel, formed from ancient plants, is a black sedimentary rock burned for energy?|coal
+e|What is it called when forests are cleared on a large scale?|deforestation
+e|What is the highest mountain above sea level on Earth?|Mount Everest|Everest
+h|What is the deepest known part of Earth's oceans?|Mariana Trench|the Mariana Trench;Challenger Deep
+
+B|e|Answer these questions about Earth's interior.
+-|e|What is the name for the thin, outermost layer of Earth?|crust|the crust
+-|m|What is the name of Earth's thickest layer?|mantle|the mantle
+-|m|Which element, along with nickel, makes up most of Earth's core?|iron
+-|h|What boundary, named for a Croatian scientist, separates Earth's outer rocky shell from the thick layer beneath it?|Moho|Mohorovicic discontinuity;Mohorovičić discontinuity;the Moho
+
+B|e|Answer these questions about earthquakes.
+-|e|What term describes the shaking of the ground caused by sudden movement of rock?|earthquake
+-|m|What do we call a smaller quake that follows a main shock?|aftershock|aftershocks
+-|m|What word describes a crack in Earth's crust along which movement occurs?|fault|a fault
+-|h|What modern scale, replacing the Richter scale, measures the total energy released by a quake?|moment magnitude scale|moment magnitude
+
+B|m|Answer these questions about volcanoes.
+-|e|What opening in a volcano does lava come out of?|vent|crater
+-|m|What name is given to a volcano that is not expected to erupt again?|extinct volcano|extinct
+-|m|Which massive Hawaiian shield volcano, whose name means "long mountain," is one of the largest active volcanoes?|Mauna Loa
+-|h|What name is given to the cloud of hot ash and gas that rushes down a volcano's slope?|pyroclastic flow
+
+B|m|Answer these questions about rocks.
+-|e|What kind of rock is formed from cooled magma?|igneous rock|igneous
+-|m|What sedimentary rock is made of cemented sand grains?|sandstone
+-|m|What metamorphic rock, with banded layers, forms from granite?|gneiss
+-|h|What word describes magma that cools slowly underground, forming large crystals?|intrusive|intrusive igneous rock;plutonic
+
+B|e|Answer these questions about minerals.
+-|e|What mineral, with the formula SiO2, is the second most common mineral in Earth's crust?|quartz
+-|m|What shiny yellow mineral is known as fool's gold?|pyrite
+-|m|What mineral is the main ore of iron and gives rocks a red color?|hematite
+-|h|What term describes the way a mineral breaks along smooth, flat surfaces?|cleavage
+
+B|m|Answer these questions about weathering and erosion.
+-|e|What natural force can carve valleys by moving rock along the ground as a slow river of ice?|glacier|glaciers
+-|m|What type of weathering involves a change in the chemical makeup of rock, such as rusting?|chemical weathering
+-|m|What fine-grained sedimentary rock forms from compressed mud and clay?|shale
+-|h|What term describes dissolving of limestone to make caves and sinkholes?|karst|karst topography
+
+B|e|Answer these questions about how water moves around Earth.
+-|e|What name is given to the continuous movement of water among the oceans, air, and land?|water cycle|the water cycle
+-|m|What process forms clouds from rising water vapor?|condensation
+-|m|What term describes water that soaks into the ground?|infiltration|groundwater;percolation
+-|h|What term describes the water that flows over the land into streams and rivers?|runoff|surface runoff
+
+B|m|Answer these questions about the oceans.
+-|e|What word describes the saltiness of ocean water?|salinity
+-|m|What is the most abundant salt dissolved in seawater?|sodium chloride|salt;table salt
+-|m|What name is given to the rising and falling of sea level, which occurs about twice a day?|tide|tides
+-|h|What current-driven process brings cold, nutrient-rich water up from the depths along a coast?|upwelling
+
+B|e|Answer these questions about the atmosphere.
+-|e|Which layer of the atmosphere is closest to Earth's surface?|troposphere
+-|m|Which layer of the atmosphere lies above the stratosphere and is where most meteors burn up?|mesosphere
+-|m|Which layer of the atmosphere includes the aurora and the International Space Station?|thermosphere
+-|h|What type of radiation does the ozone layer absorb?|ultraviolet radiation|ultraviolet;UV;ultraviolet light
+
+B|m|Answer these questions about weather.
+-|e|What kind of storm produces thunder and lightning?|thunderstorm
+-|m|What instrument is used to measure air temperature?|thermometer
+-|m|What is the term for the amount of water vapor in the air?|humidity
+-|h|What type of front forms when warm air rises over cold air, often bringing steady light rain?|warm front
+
+B|m|Answer these questions about severe weather.
+-|e|What severe storm is measured on the Saffir-Simpson scale?|hurricane|hurricanes
+-|m|What scale, named for a University of Chicago meteorologist, rates tornado damage?|Fujita scale|Enhanced Fujita scale;the Fujita scale;Fujita
+-|m|What is the name of the calm area at the center of this kind of storm?|eye|the eye
+-|h|What is the term for a dangerous rise in sea level pushed onshore by such a storm?|storm surge
+
+B|e|Answer these questions about maps.
+-|e|What imaginary lines measure distance north or south of the equator?|latitude|lines of latitude;parallels
+-|m|What imaginary lines measure distance east or west of the prime meridian?|longitude|lines of longitude;meridians
+-|m|What type of map uses lines to show the shape of the land?|topographic map|topographic
+-|h|What part of a map lets you convert a measured distance to real distance?|scale|map scale
+
+B|m|Answer these questions about geologic time.
+-|e|What type of remains in rock are the preserved traces of ancient life?|fossils|fossil
+-|m|Which era came before the Mesozoic and began with the Cambrian explosion?|Paleozoic|Paleozoic Era
+-|m|What technique uses the decay of carbon-14 to find the age of once-living things?|radiocarbon dating|carbon dating;carbon-14 dating
+-|h|What is the longest span of geologic time, covering about 88 percent of Earth's history?|Precambrian|Precambrian time
+
+B|e|Answer these questions about natural resources.
+-|e|What kind of resource, such as sunlight or wind, cannot be used up?|renewable resource|renewable
+-|m|What fossil fuel, a liquid found underground, is refined into gasoline?|petroleum|crude oil;oil
+-|m|What gas, mostly methane, is used for home heating and cooking?|natural gas
+-|h|What term describes the practice of protecting resources from waste?|conservation
+
+B|m|Answer these questions about moving continents and ocean floors.
+-|e|What name is given to the theory that Earth's surface is broken into moving slabs of lithosphere?|plate tectonics|the theory of plate tectonics
+-|m|What boundary type forms new crust at the mid-ocean ridge?|divergent|divergent boundary
+-|m|What deep, narrow ocean valley forms where one plate subducts under another?|trench|ocean trench;deep-sea trench
+-|h|What is the heat-driven circular motion in the mantle that moves plates?|convection currents|convection;mantle convection
+
+B|e|Answer these questions about soil.
+-|e|What dark organic matter in soil comes from decayed plants and animals?|humus
+-|m|What is the name for the top layer of soil, rich in organic matter?|topsoil
+-|m|Which soil particle type, finer than silt, feels sticky when wet?|clay
+-|h|What are the distinct layers of soil called?|horizons|soil horizons
+
+B|m|Answer these questions about long-term weather patterns.
+-|e|What is the name for the long-term pattern of weather in an area?|climate
+-|m|What gas in the atmosphere traps heat and warms Earth?|carbon dioxide|greenhouse gas;greenhouse gases
+-|m|Which zone lies between the Tropic of Cancer and the Tropic of Capricorn?|tropics|the tropics;tropical zone
+-|h|What ice-covered continent is the driest on Earth?|Antarctica
+
+B|e|Answer these questions about glaciers and ice.
+-|e|What do we call a huge sheet of ice covering land for many years?|glacier|ice sheet
+-|m|What time period saw glaciers cover large parts of North America, ending about 11,700 years ago?|ice age|the Ice Age;Pleistocene
+-|m|What is the term for a large chunk of ice breaking off into the sea?|calving|iceberg
+-|h|What name is given to the sheet of ice that covers most of Greenland?|Greenland ice sheet|ice sheet

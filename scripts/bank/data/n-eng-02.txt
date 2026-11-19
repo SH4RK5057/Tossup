@@ -1,0 +1,123 @@
+# ncal jv | English | American Literature
+e|In "Charlotte's Web," what kind of animal is Charlotte?|spider|a spider
+e|In "Where the Red Fern Grows," what are the names of Billy's two coonhounds?|Old Dan and Little Ann|Old Dan;Little Ann
+m|Who wrote the story "The Cask of Amontillado"?|Edgar Allan Poe|Poe|n
+m|Who wrote the novel "The Age of Innocence"?|Edith Wharton|Wharton|n
+m|Who wrote the novel "A Tree Grows in Brooklyn"?|Betty Smith|Smith|n
+m|Who wrote the novel "The Bluest Eye"?|Toni Morrison|Morrison|n
+m|Who wrote the novel "Number the Stars"?|Lois Lowry|Lowry|n
+h|Who wrote the novel "The Awakening"?|Kate Chopin|Chopin|n
+h|Who wrote the short story "The Yellow Wallpaper"?|Charlotte Perkins Gilman|Gilman|n
+h|Who wrote the story collection "Winesburg, Ohio"?|Sherwood Anderson|Anderson|n
+B|m|Answer these questions about the writing of Mark Twain.
+-|e|In which Twain novel does a boy trick his friends into whitewashing a fence?|The Adventures of Tom Sawyer|Tom Sawyer
+-|m|In which Twain novel do a prince and a poor boy trade places?|The Prince and the Pauper|Prince and the Pauper
+-|h|In which Twain novel is Hank Morgan sent back in time to Camelot?|A Connecticut Yankee in King Arthur's Court|Connecticut Yankee
+B|m|Answer these questions about the novels of John Steinbeck.
+-|e|Which Steinbeck novel is named for a street in Monterey, California, and follows a biologist called Doc?|Cannery Row
+-|m|"East of Eden" retells which biblical story of two brothers?|Cain and Abel|Cain;Abel
+-|h|In "The Red Pony," what is the first name of the boy who owns the pony?|Jody|Jody Tiflin
+B|m|Answer these questions about the stories of Edgar Allan Poe.
+-|e|In which Poe story is a prisoner threatened by a swinging blade?|The Pit and the Pendulum|Pit and the Pendulum
+-|m|Which detective created by Poe appears in "The Murders in the Rue Morgue"?|C. Auguste Dupin|Dupin|n
+-|h|Poe's only finished novel follows which narrator?|Arthur Gordon Pym|Pym;Arthur Pym|n=Pym
+B|m|Answer these questions about F. Scott Fitzgerald.
+-|e|Fitzgerald is associated with what decade, called the Jazz Age?|1920s|the 1920s;the twenties;the roaring twenties
+-|m|Which 1920 Fitzgerald novel follows Amory Blaine?|This Side of Paradise
+-|h|Which 1934 Fitzgerald novel centers on the psychiatrist Dick Diver?|Tender Is the Night
+B|m|Answer these questions about the Harlem Renaissance.
+-|e|The Harlem Renaissance was centered in which city?|New York City|New York
+-|m|Which Jamaican-born poet wrote "If We Must Die"?|Claude McKay|McKay|n
+-|h|Which writer published the 1923 book "Cane"?|Jean Toomer|Toomer|n
+B|m|Answer these questions about Ernest Hemingway.
+-|e|Which Hemingway novel follows Robert Jordan during the Spanish Civil War?|For Whom the Bell Tolls
+-|m|Hemingway's memoir "A Moveable Feast" describes his years in which city?|Paris
+-|h|Which recurring Hemingway character appears in "Big Two-Hearted River"?|Nick Adams|Adams|n
+B|m|Answer these questions about early American writing.
+-|e|Who wrote the pamphlet "Common Sense"?|Thomas Paine|Paine|n
+-|m|Which enslaved poet published "Poems on Various Subjects, Religious and Moral" in 1773?|Phillis Wheatley|Wheatley|n
+-|h|Which Puritan minister delivered the sermon "Sinners in the Hands of an Angry God"?|Jonathan Edwards|Edwards|n
+B|m|Answer these questions about American poets.
+-|e|Which poet described Chicago as "Hog Butcher for the World"?|Carl Sandburg|Sandburg|n
+-|m|Which Pulitzer-winning poet wrote "We Real Cool"?|Gwendolyn Brooks|Brooks|n
+-|h|Which poet wrote "The Emperor of Ice-Cream"?|Wallace Stevens|Stevens|n
+B|m|Answer these questions about American drama.
+-|e|"Our Town" is set in which fictional New Hampshire town?|Grover's Corners
+-|m|Which salesman is the title character of Arthur Miller's most famous play, whose last name is Loman?|Willy Loman|Willy
+-|h|Who wrote "Long Day's Journey into Night"?|Eugene O'Neill|O'Neill|n
+B|e|Answer these questions about children's authors.
+-|e|Who wrote "The Cat in the Hat"?|Dr. Seuss|Seuss;Theodor Geisel;Doctor Seuss|n=Seuss
+-|m|Who wrote "Where the Wild Things Are"?|Maurice Sendak|Sendak|n
+-|h|Who wrote "The Giving Tree"?|Shel Silverstein|Silverstein|n
+B|m|Answer these questions about the Beat Generation.
+-|e|Who wrote the novel "On the Road"?|Jack Kerouac|Kerouac|n
+-|m|Who wrote the novel "Naked Lunch"?|William S. Burroughs|Burroughs|n
+-|h|Which poet wrote "A Coney Island of the Mind"?|Lawrence Ferlinghetti|Ferlinghetti|n
+B|e|Answer these questions about "To Kill a Mockingbird."
+-|e|What is the real first name of the girl nicknamed Scout?|Jean Louise|Jean
+-|m|Which 2015 novel by Harper Lee features an adult Scout returning to Maycomb?|Go Set a Watchman
+-|h|Which writer was Harper Lee's childhood friend and the inspiration for the character Dill?|Truman Capote|Capote|n
+B|m|Answer these questions about Southern writers.
+-|e|Who wrote the story "A Good Man Is Hard to Find"?|Flannery O'Connor|O'Connor|n
+-|m|Who wrote the novel "The Heart Is a Lonely Hunter"?|Carson McCullers|McCullers|n
+-|h|Who wrote the nonfiction novel "In Cold Blood"?|Truman Capote|Capote|n
+B|m|Answer these questions about science fiction authors.
+-|e|Who wrote the novel "A Wrinkle in Time"?|Madeleine L'Engle|L'Engle|n
+-|m|Who wrote the novel "Dune"?|Frank Herbert|Herbert|n
+-|h|Which author wrote the robot stories collected in "I, Robot"?|Isaac Asimov|Asimov|n
+B|m|Answer these questions about "The Scarlet Letter."
+-|e|In which Puritan city is the novel set?|Boston
+-|m|Which minister is secretly the father of Hester's child?|Arthur Dimmesdale|Dimmesdale|n
+-|h|By what name does Hester's husband live after he disguises himself as a doctor?|Roger Chillingworth|Chillingworth|n
+B|m|Answer these questions about "The Great Gatsby."
+-|e|What is the first name of the title character?|Jay
+-|m|Which brutish man is Daisy's husband?|Tom Buchanan|Buchanan|n
+-|h|Whose faded billboard eyes watch over the valley of ashes?|Doctor T. J. Eckleburg|Eckleburg|n
+B|m|Answer these questions about "The Catcher in the Rye."
+-|e|What is the name of Holden's younger sister?|Phoebe|Phoebe Caulfield
+-|m|From which prep school is Holden expelled?|Pencey Prep|Pencey
+-|h|Which Scottish poet wrote the song whose line Holden mishears, giving the novel its title?|Robert Burns|Burns|n
+B|m|Answer these questions about the Transcendentalists.
+-|e|What is the name of the philosophical movement of Emerson and Thoreau?|Transcendentalism|Transcendentalist
+-|m|In which Massachusetts town did Emerson and Thoreau live?|Concord
+-|h|Thoreau lived for two years beside which body of water?|Walden Pond|Walden
+B|m|Answer these questions about the writing of Jack London.
+-|e|In which London story does a man in the Yukon try to start a blaze in extreme cold?|To Build a Fire
+-|m|Which London novel is a semi-autobiographical story of a working-class sailor who becomes a writer?|Martin Eden
+-|h|Which brutal captain terrorizes the crew in "The Sea-Wolf"?|Wolf Larsen|Larsen|n
+B|m|Answer these questions about Newbery-winning authors.
+-|e|Who wrote "Bridge to Terabithia"?|Katherine Paterson|Paterson|n
+-|m|Who wrote the novel "Holes"?|Louis Sachar|Sachar|n
+-|h|Who wrote "Island of the Blue Dolphins"?|Scott O'Dell|O'Dell|n
+B|m|Answer these questions about "Little Women."
+-|e|Which March sister dies of scarlet fever?|Beth|Beth March
+-|m|What is the last name of the boy next door nicknamed Laurie?|Laurence
+-|h|Which educator and transcendentalist, the father of the author, helped found Fruitlands?|Bronson Alcott|Alcott|n
+B|e|Answer these questions about "The Hunger Games."
+-|e|Which sister does Katniss volunteer to replace in the reaping?|Prim|Primrose;Primrose Everdeen
+-|m|Which baker's son from District 12 is chosen as a tribute?|Peeta Mellark|Peeta|part
+-|h|Who is the drunken former victor who mentors Katniss and Peeta?|Haymitch Abernathy|Haymitch|part
+B|m|Answer these questions about the poetry of Robert Frost.
+-|e|In "Mending Wall," good fences make good what?|neighbors
+-|m|Which Frost poem contemplates two ways the world might end, by flame or by frost?|Fire and Ice
+-|h|Which 1923 Frost collection includes "Stopping by Woods on a Snowy Evening"?|New Hampshire
+B|m|Answer these questions about "The Crucible."
+-|e|Which farmer is the central tragic hero who refuses to sign a false confession?|John Proctor|Proctor|n
+-|m|Which Reverend of Salem sees his daughter Betty fall ill?|Samuel Parris|Parris|n
+-|h|The play is often read as an allegory for which 1950s anti-Communist movement?|McCarthyism|McCarthy era;the Red Scare;Red Scare
+B|m|Answer these questions about Stephen Crane.
+-|e|Who is the young soldier at the center of "The Red Badge of Courage"?|Henry Fleming|Fleming;Henry|part
+-|m|Which Crane short story follows four men in a dinghy after a shipwreck?|The Open Boat|Open Boat
+-|h|Which 1893 Crane novel is about a girl in the slums of New York?|Maggie: A Girl of the Streets|Maggie
+B|m|Answer these questions about Henry James.
+-|e|Which James ghost story features a governess caring for two children?|The Turn of the Screw|Turn of the Screw
+-|m|In which James novel is the heroine Isabel Archer?|The Portrait of a Lady|Portrait of a Lady
+-|h|Which James novel follows Lambert Strether to Paris?|The Ambassadors|Ambassadors
+B|m|Answer these questions about Ray Bradbury.
+-|e|Which Bradbury story collection describes the colonization of Mars?|The Martian Chronicles|Martian Chronicles
+-|m|In "Fahrenheit 451," which teenage neighbor makes Montag question his life?|Clarisse McClellan|Clarisse|part
+-|h|Which fire captain pushes Montag to stay loyal to his job?|Captain Beatty|Beatty|n
+B|m|Answer these questions about Henry Wadsworth Longfellow.
+-|e|Which Longfellow epic poem tells of an Ojibwe hero?|The Song of Hiawatha|Hiawatha
+-|m|In which Longfellow poem is the heroine separated from Gabriel after the Acadians are expelled?|Evangeline
+-|h|In "The Village Blacksmith," under what kind of tree does the smithy stand?|chestnut tree|chestnut

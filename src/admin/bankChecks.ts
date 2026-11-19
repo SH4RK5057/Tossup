@@ -26,9 +26,9 @@ function partsOf(r: ImportRow, raw: Raw): Part[] {
 const ABBR = /\b(Mt|St|Ft|Mr|Mrs|vs|Gen|Sgt|Capt|Lt|Gov|Sen|Prof|Rev|Ave|Blvd|Rd|Lk|Dept|Univ)\.(?!\w)/;
 
 /** Runs every gate. `existing` is importer-format rows already in the bank (seed, batch 1, other files). */
-export function runBankChecks(rows: Raw[], existing: Raw[] = []): CheckResult[] {
+export function runBankChecks(rows: Raw[], existing: Raw[] = [], limit = 25): CheckResult[] {
   const out: CheckResult[] = [];
-  const add = (name: string, problems: string[]) => out.push({ name, problems: problems.slice(0, 25) });
+  const add = (name: string, problems: string[]) => out.push({ name, problems: problems.slice(0, limit) });
 
   // 1. schema + subject tree
   const parsed: ImportRow[] = [];

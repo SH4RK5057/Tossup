@@ -1,0 +1,105 @@
+# ncal varsity | Fine Arts | Spanish 3+
+B|e|Answer these questions about Spanish numbers.
+-|e|What English number does the Spanish "ocho" mean?|eight|8|m
+-|m|What English number does the Spanish "quince" mean?|fifteen|15|m
+-|h|What English number does the Spanish "cien" mean?|one hundred|100;hundred|m
+B|e|Answer these questions about Spanish colors.
+-|e|What English color does the Spanish "azul" mean?|blue|
+-|m|What English color does the Spanish "verde" mean?|green|
+-|h|What English color does the Spanish "morado" mean?|purple|
+B|e|Answer these questions about the Spanish days of the week.
+-|e|What English day does the Spanish "martes" mean?|Tuesday|
+-|m|What English day does the Spanish "jueves" mean?|Thursday|
+-|h|What English day does the Spanish "domingo" mean?|Sunday|
+B|e|Answer these questions about Spanish family words.
+-|e|What English word does the Spanish "hermano" mean?|brother|
+-|m|What English word does the Spanish "abuela" mean?|grandmother|
+-|h|What English word does the Spanish "sobrino" mean?|nephew|
+B|e|Answer these questions about Spanish verbs.
+-|e|What English verb phrase does the Spanish "comer" mean?|to eat|eat
+-|m|What English verb phrase does the Spanish "querer" mean?|to want|to love;want
+-|h|What English verb phrase does the Spanish "poder" mean?|to be able to|can;to be able
+B|e|Answer these questions about "Don Quixote."
+-|e|Which author, wounded at the Battle of Lepanto, wrote the novel about a knight from La Mancha?|Miguel de Cervantes|Cervantes|n
+-|m|Which farmer serves as the knight's squire?|Sancho Panza|Sancho|n=Panza
+-|h|Which peasant woman does Don Quixote imagine to be his lady?|Dulcinea|Dulcinea del Toboso
+B|e|Answer these questions about the Aztec Empire.
+-|e|Mexico City was built on the ruins of which Aztec capital?|Tenochtitlan|Tenochtitlán
+-|m|Which Spanish conquistador defeated the Aztecs in 1521?|Hernán Cortés|Cortés;Cortes;Hernan Cortes|n
+-|h|Which Aztec emperor was ruling when the Spanish arrived?|Moctezuma II|Montezuma II;Moctezuma;Montezuma|n=II
+B|e|Answer these questions about the Inca Empire.
+-|e|The Inca built Machu Picchu in the mountains of which country?|Peru|
+-|m|Which city in the Andes was the Incan capital?|Cusco|Cuzco
+-|h|Which Spanish conquistador captured the Incan emperor Atahualpa?|Francisco Pizarro|Pizarro|n
+B|e|Answer these questions about Spanish-speaking capitals.
+-|e|Madrid is the capital of which country?|Spain|
+-|m|Bogotá is the capital of which South American country?|Colombia|
+-|h|Montevideo is the capital of which South American country?|Uruguay|
+B|m|Answer these questions about South American geography.
+-|e|Which mountain range runs along the western coast of South America?|the Andes|Andes
+-|m|Which huge river flows through the rainforest of Brazil to the Atlantic?|the Amazon|Amazon River;Amazon
+-|h|Which lake lies on the border of Peru and Bolivia?|Lake Titicaca|Titicaca
+B|m|Answer these questions about the Spanish Civil War.
+-|e|Which general led the Nationalists to victory and ruled Spain until 1975?|Francisco Franco|Franco|n
+-|m|During which years did the Spanish Civil War take place?|1936 to 1939|1936-1939;1936–1939|m
+-|h|Which British author wrote "Homage to Catalonia" about fighting in it?|George Orwell|Orwell|n
+B|m|Answer these questions about Spanish holidays.
+-|e|What is the Spanish word for Christmas?|Navidad|la Navidad|f
+-|m|What is the Spanish word for Christmas Eve?|Nochebuena|la Nochebuena|f
+-|h|What holiday on January 6 celebrates the Three Wise Men?|Día de los Reyes Magos|Dia de los Reyes Magos;Three Kings Day;Día de Reyes;Epiphany|f
+B|m|Answer these questions about Spanish food vocabulary.
+-|e|What English word does the Spanish "frijoles" mean?|beans|
+-|m|What English word does the Spanish "arroz" mean?|rice|
+-|h|What English word does the Spanish "mariscos" mean?|seafood|shellfish
+B|m|Answer these questions about Latin American authors.
+-|e|Which Chilean author wrote "La casa de los espíritus"?|Isabel Allende|Allende|n
+-|m|Which blind Argentine author wrote "El Aleph"?|Jorge Luis Borges|Borges|n
+-|h|Which Mexican author wrote the short story collection "El llano en llamas"?|Juan Rulfo|Rulfo|n
+B|m|Answer these questions about Federico García Lorca.
+-|e|Lorca was a poet and playwright from which country?|Spain|
+-|m|Which Lorca play is known in English as "Blood Wedding"?|Bodas de sangre|f
+-|h|Which Lorca play is set in a house ruled by a domineering widow?|La casa de Bernarda Alba|The House of Bernarda Alba;Casa de Bernarda Alba|f
+B|m|Answer these questions about Spanish grammar.
+-|e|What English verb phrase does the Spanish "hablar" mean?|to speak|to talk;speak
+-|m|Which mood is used for wishes, doubts, and emotions?|subjunctive|the subjunctive;subjunctive mood
+-|h|Which past tense describes ongoing or habitual past actions?|imperfect|the imperfect;imperfecto|f
+B|m|Answer these questions about Caribbean capitals.
+-|e|Which Cuban city is the capital of Cuba?|Havana|La Habana
+-|m|Which city is the capital of the Dominican Republic?|Santo Domingo|
+-|h|Which city is the capital of Puerto Rico?|San Juan|
+B|m|Answer these questions about Spanish festivals.
+-|e|Which spring festival in Valencia burns giant papier-mâché figures?|Las Fallas|Fallas
+-|m|Which religious week of processions is famous in Seville?|Semana Santa|Holy Week|f
+-|h|In which Spanish town is the tomato fight La Tomatina held?|Buñol|Bunol
+B|m|Answer these questions about Hispanic music and dance.
+-|e|Which dance and music tradition comes from the Andalusian region of Spain?|flamenco|
+-|m|Which dance originated in Buenos Aires?|tango|the tango
+-|h|Mariachi music comes from which Mexican state?|Jalisco|
+B|m|Answer these questions about the wars of independence.
+-|e|Which Venezuelan general was called "El Libertador"?|Simón Bolívar|Bolívar;Simon Bolivar;Bolivar|n
+-|m|Which Argentine general helped liberate Chile and Peru?|José de San Martín|San Martín;San Martin;Jose de San Martin|n
+-|h|Which priest began Mexico's independence with the "Grito de Dolores"?|Miguel Hidalgo|Hidalgo|n
+B|m|Answer these questions about the Maya.
+-|e|The Maya built cities on which Mexican peninsula?|Yucatán|Yucatan|Yucatán Peninsula
+-|m|Which Maya city features the pyramid El Castillo?|Chichén Itzá|Chichen Itza
+-|h|Which Maya sacred book tells the story of the Hero Twins?|Popol Vuh|
+B|h|Answer these questions about Spanish time words.
+-|e|What English word does the Spanish "mañana" mean when referring to the day after today?|tomorrow|
+-|m|What English word does the Spanish "ayer" mean?|yesterday|
+-|h|What English word does the Spanish "anteayer" mean?|the day before yesterday|day before yesterday
+B|h|Answer these questions about Spanish clothing.
+-|e|What English word does the Spanish "camisa" mean?|shirt|
+-|m|What English word does the Spanish "zapatos" mean?|shoes|
+-|h|What English word does the Spanish "calcetines" mean?|socks|
+B|h|Answer these questions about places in Spanish.
+-|e|What English word does the Spanish "escuela" mean?|school|
+-|m|What English word does the Spanish "biblioteca" mean?|library|
+-|h|What English word does the Spanish "ayuntamiento" mean?|town hall|city hall
+B|h|Answer these questions about Spanish animal words.
+-|e|What English word does the Spanish "gato" mean?|cat|
+-|m|What English word does the Spanish "caballo" mean?|horse|
+-|h|What English word does the Spanish "ardilla" mean?|squirrel|
+B|h|Answer these questions about Spanish weather expressions.
+-|e|What English phrase does the Spanish "llueve" mean?|it is raining|it rains;it's raining
+-|m|What English phrase does the Spanish "hace calor" mean?|it is hot|it's hot
+-|h|What English phrase does the Spanish "nieva" mean?|it is snowing|it snows;it's snowing

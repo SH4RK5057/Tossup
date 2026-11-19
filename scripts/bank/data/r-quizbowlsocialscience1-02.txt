@@ -1,0 +1,126 @@
+# quizbowl jv | Social Science | Political Science
+e|This French thinker's book The Spirit of the Laws argued that government power should be divided among legislative, executive and judicial branches. His ideas deeply influenced the framers of the United States Constitution. For 10 points, name this Enlightenment baron, a champion of the separation of powers.|Montesquieu|Baron de Montesquieu;Charles-Louis de Secondat|n
+e|This English philosopher's Two Treatises of Government argued that people have natural rights to life, liberty and property, and that people may overthrow a government that violates them. Thomas Jefferson drew on his ideas. For 10 points, name this author.|John Locke|Locke|n
+m|This philosopher's Leviathan described a "state of nature" in which life is "solitary, poor, nasty, brutish, and short." He argued people should submit to an absolute sovereign for safety. For 10 points, name this English political theorist.|Thomas Hobbes|Hobbes|n
+e|This Italian Renaissance diplomat wrote a handbook for rulers arguing that it is safer for a ruler to be feared than loved. It is dedicated to Lorenzo de Medici. For 10 points, name this author of The Prince.|Niccolo Machiavelli|Machiavelli|n
+e|This practice involves drawing electoral district boundaries to favor one party or group. It is named for a Massachusetts governor and a salamander-shaped district. For 10 points, name this manipulation of districts.|gerrymandering|gerrymander
+m|In the United States, this body, created in Article II of the Constitution, has 538 members, and a candidate needs 270 of its votes to win the presidency. For 10 points, name this system in which states choose the president through electors.|Electoral College|the Electoral College
+h|Maurice Duverger observed that this kind of electoral system, where the candidate with the most votes in a district wins, tends to produce a two-party system. It is also called first-past-the-post. For 10 points, name this voting rule that elects whoever gets the most votes, even without a majority.|plurality voting|plurality system;first past the post;single-member plurality;winner-take-all
+m|Under this type of electoral system, used in Israel and many European countries, parties win legislative seats in proportion to the share of votes they receive. For 10 points, name this system, abbreviated PR, that encourages multiparty politics.|proportional representation|PR
+e|In this form of government, the executive branch is chosen from and accountable to the legislature, as in the United Kingdom and Canada. The head of government is a prime minister. For 10 points, name this system that contrasts with a presidential system.|parliamentary system|parliamentary democracy;parliamentary government;parliamentary
+m|In the United States Senate, this tactic allows a senator to delay a vote through extended speech. It can be ended through a vote called cloture, which currently requires three fifths of the Senate. For 10 points, name this delaying tactic.|filibuster|
+e|In this 1803 Supreme Court case, Chief Justice John Marshall established the principle of judicial review. It involved William Marbury, who did not receive his commission as justice of the peace. For 10 points, name this case also named for the Secretary of State.|Marbury v. Madison|Marbury versus Madison
+m|This German-born scholar, author of The Origins of Totalitarianism, also coined the phrase "the banality of evil" while covering Adolf Eichmann's trial. For 10 points, name this political theorist, first name Hannah.|Hannah Arendt|Arendt|n
+m|This term for supreme authority within a territory was formalized in the Peace of Westphalia in 1648. Jean Bodin and Hobbes helped develop it. For 10 points, name this concept, the right of a state to govern itself without outside interference.|sovereignty|
+e|This 1949 alliance among Western powers, including the United States, Canada and several European countries, is based on a principle that an attack on one is an attack on all. For 10 points, name this military alliance headquartered in Brussels.|NATO|North Atlantic Treaty Organization
+e|This international body has five permanent members with veto power: the United States, United Kingdom, France, Russia and China. For 10 points, name this United Nations body charged with keeping international peace.|Security Council|United Nations Security Council|UN Security Council
+h|Joseph Nye coined this term for the ability to shape what others want through culture, values and diplomacy rather than force or payment. It contrasts with hard power. For 10 points, name this kind of power.|soft power|
+h|Diplomat George Kennan's "Long Telegram" and X Article argued for this policy toward the Soviet Union, a strategy of preventing Communist expansion rather than rolling it back. For 10 points, name this Cold War policy adopted by the Truman administration.|containment|
+m|This school of international relations, associated with Hans Morgenthau, holds that states act in their self-interest and seek power in an anarchic world. For 10 points, name this theory contrasting with liberalism.|realism|political realism;realist
+e|This French aristocrat toured the young United States in the 1830s and wrote Democracy in America. He praised American civic associations but warned about the "tyranny of the majority." For 10 points, name this author.|Alexis de Tocqueville|Tocqueville|n
+m|This political philosopher wrote On Liberty, which defends individual freedom of speech and action unless it harms others. He also wrote Utilitarianism. For 10 points, name this English thinker, whose "harm principle" is named in the book.|John Stuart Mill|Mill|part
+e|In United States campaign finance, organizations of this type raise and spend money to elect or defeat candidates and are regulated by the Federal Election Commission. Super versions can raise unlimited sums but cannot coordinate with campaigns. For 10 points, name these groups, abbreviated PACs.|political action committees|PAC;PACs;political action committee|ok
+m|In this process held before general elections, voters or party members choose their party's nominee. A closed version limits participation to registered members of the party. For 10 points, name these elections, which include caucuses.|primary elections|primaries;primary election;primary
+h|In this 1787 and 1788 series of eighty-five essays signed "Publius," Alexander Hamilton, James Madison and John Jay urged ratification of the Constitution. Number 10 warns about factions. For 10 points, name this series.|Federalist Papers|The Federalist;the Federalist Papers
+m|The writer of Federalist number 51 argued that "ambition must be made to counteract ambition," explaining this system in which each branch can limit the others. For 10 points, name this system, which includes the presidential veto.|checks and balances|separation of powers
+e|In many countries, a government may hold this kind of direct vote in which citizens approve or reject a specific proposal, such as the 2016 United Kingdom vote on leaving the European Union. For 10 points, name this kind of direct vote.|referendum|referenda
+h|This Greek philosopher's dialogue The Republic describes a just city ruled by philosopher-kings. His student Aristotle instead wrote Politics. For 10 points, name this teacher of Aristotle.|Plato|
+B|m|Answer these questions about political thinkers.
+-|e|Which Englishman wrote Leviathan?|Thomas Hobbes|Hobbes|n
+-|m|Which Englishman wrote Two Treatises of Government?|John Locke|Locke|n
+-|h|Which Italian wrote Discourses on Livy as well as The Prince?|Niccolo Machiavelli|Machiavelli|n
+B|m|Answer these questions about the legislative branch of the United States.
+-|e|What is the name of the chamber with two members per state?|Senate|the Senate
+-|m|What term names the process of redrawing seats among states after each census?|reapportionment|apportionment;redistricting
+-|h|What kind of rule, adopted in 1917, allows debate to be ended with cloture?|Rule 22|rule twenty-two
+B|m|Answer these questions about elections.
+-|e|What term names a vote in which citizens decide a single policy question?|referendum|
+-|m|What is the name of the system in which seats are allocated according to vote share?|proportional representation|PR
+-|h|Which French political scientist formulated a "law" that plurality elections favor two parties?|Maurice Duverger|Duverger|n
+B|m|Answer these questions about international relations.
+-|e|Which organization, headquartered in New York City, replaced the League of Nations?|United Nations|UN|the United Nations
+-|m|Which 1648 settlement ending the Thirty Years' War is linked to state sovereignty?|Peace of Westphalia|Treaty of Westphalia;Westphalia
+-|h|Which American political scientist wrote The Clash of Civilizations?|Samuel Huntington|Huntington|n
+B|m|Answer these questions about the Supreme Court.
+-|e|How many justices sit on the United States Supreme Court under current law?|nine|9|m
+-|m|What power, established in Marbury v. Madison, lets courts strike down laws as unconstitutional?|judicial review|
+-|h|Who was the chief justice who wrote the Marbury opinion?|John Marshall|Marshall|n
+B|m|Answer these questions about forms of government.
+-|e|What term names rule by a single leader with absolute power?|dictatorship|autocracy;absolute monarchy;totalitarianism
+-|m|What term names rule by a small number of people, such as a ruling clique?|oligarchy|
+-|h|What word, from Greek for "rule by the best," describes rule by a privileged elite?|aristocracy|
+B|m|Answer these questions about the Cold War.
+-|e|What wall, built in 1961, divided a German city?|Berlin Wall|
+-|m|Which policy, under Truman, pledged aid to nations resisting communism in Greece and Turkey?|Truman Doctrine|
+-|h|Which 1947 American plan gave economic aid to Western Europe?|Marshall Plan|
+B|m|Answer these questions about the American system of government.
+-|e|Which document of 1787 is the supreme law of the United States?|Constitution|United States Constitution;the Constitution
+-|m|Which amendment, ratified in 1791, includes freedom of speech, religion and the press?|First Amendment|1st Amendment;First|
+-|h|Which 1819 case upheld the national bank and supremacy of federal law over states?|McCulloch v. Maryland|McCulloch versus Maryland
+e|This amendment, ratified in 1791, protects freedom of speech, religion, the press, assembly and petition. It is the first of ten amendments added shortly after the Constitution was adopted. For 10 points, name this first part of the Bill of Rights.|First Amendment|1st Amendment;the First Amendment
+e|The president can use this power to reject a bill passed by Congress. Congress can override it with a two-thirds vote in each house. For 10 points, name this presidential power, from the Latin for "I forbid."|veto|presidential veto
+m|This first governing document of the United States, ratified in 1781, created a weak national government with no power to tax and no executive. Shays' Rebellion exposed its weakness. For 10 points, name this document replaced by the Constitution.|Articles of Confederation|the Articles of Confederation
+m|This Greek philosopher's Politics classified governments by how many rule and whether they rule for the common good, naming monarchy, aristocracy and polity. He declared that "man is by nature a political animal." For 10 points, name this tutor of Alexander the Great.|Aristotle|
+# quizbowl jv | Social Science | Anthropology
+e|This American anthropologist, often called the father of American anthropology, taught at Columbia University and promoted cultural relativism. He rejected racial theories and mentored Margaret Mead and Ruth Benedict. For 10 points, name this German-born scholar.|Franz Boas|Boas|n
+e|This anthropologist's 1928 book Coming of Age in Samoa argued that adolescence in Samoa was less stressful than in America. She studied under Franz Boas. For 10 points, name this author, who later wrote Sex and Temperament.|Margaret Mead|Mead|n
+m|This Polish-born anthropologist did fieldwork on the Trobriand Islands and wrote Argonauts of the Western Pacific. He pioneered the method of participant observation. For 10 points, name this founder of functionalism in anthropology.|Bronislaw Malinowski|Malinowski|n
+m|In the Trobriand Islands, Malinowski described this ceremonial exchange of shell necklaces and armbands traveling in opposite directions between islands. For 10 points, name this system of exchange, whose name rhymes with "ring" at the end.|kula ring|kula|
+h|This French anthropologist founded structuralism in anthropology with works such as The Elementary Structures of Kinship and Tristes Tropiques. He analyzed myths through binary oppositions like raw and cooked. For 10 points, name this scholar, first name Claude.|Claude Levi-Strauss|Levi-Strauss;Strauss|n=Strauss
+h|This American anthropologist, author of The Interpretation of Cultures, advocated "thick description" in studying culture. He studied religion in Bali and Java. For 10 points, name this scholar, first name Clifford.|Clifford Geertz|Geertz|n
+m|This anthropologist's 1934 book Patterns of Culture compared the Zuni, Dobu and Kwakiutl, arguing that each culture has a distinctive personality. She also wrote The Chrysanthemum and the Sword. For 10 points, name this student of Franz Boas.|Ruth Benedict|Benedict|n
+e|This principle, championed by Franz Boas, holds that a person's beliefs and activities should be understood in terms of their own culture, not judged by others' standards. For 10 points, name this concept contrasting with ethnocentrism.|cultural relativism|relativism
+m|Among peoples of the Pacific Northwest Coast, like the Kwakiutl, this ceremonial feast involves giving away or destroying wealth to gain prestige. For 10 points, name this gift-giving ceremony.|potlatch|
+m|Arnold van Gennep identified three stages in this kind of ceremony: separation, transition and incorporation. Examples include baptisms, weddings and graduations. For 10 points, name this type of ritual that marks a change in social status.|rites of passage|rite of passage
+h|Victor Turner expanded on van Gennep's work by developing this concept, from the Latin for "threshold," describing the in-between stage of a ritual in which participants are neither one status nor the next. For 10 points, name this term.|liminality|liminal stage;liminal phase
+e|This word, from a Polynesian language, names something forbidden by social or religious custom. Sigmund Freud wrote about its "totem" companion. For 10 points, name this word for a prohibition, such as the incest one.|taboo|tabu
+e|In 1974, Donald Johanson found a skeleton in Ethiopia of this 3.2-million-year-old hominin, named after a Beatles song. For 10 points, give this nickname of the Australopithecus afarensis fossil.|Lucy|
+m|This East African gorge in Tanzania was the site of Louis and Mary Leakey's discoveries of early hominins, including Homo habilis. For 10 points, name this gorge, whose name sounds like a type of bird.|Olduvai Gorge|Olduvai
+e|This extinct relative of modern humans lived in Europe and western Asia, made Mousterian tools, and buried its dead. Its name comes from a German valley. For 10 points, name this species, Homo neanderthalensis.|Neanderthals|Neanderthal;Neandertal;Neandertals
+m|This hominin species, whose name means "upright man," used fire and made Acheulean hand axes. Its fossils include Java Man and Peking Man. For 10 points, name this species, Homo erectus.|Homo erectus|erectus|ok
+e|This revolution, around 10,000 years ago, saw humans shift from hunting and gathering to farming and settling in villages. For 10 points, name this period, named for the "new stone" age.|Neolithic Revolution|Agricultural Revolution;Neolithic;agricultural revolution
+m|This radiometric technique, developed by Willard Libby, measures the decay of an unstable isotope in organic remains to date objects up to about fifty thousand years old. For 10 points, name this dating method.|radiocarbon dating|carbon-14 dating;carbon dating;carbon 14 dating
+h|This English anthropologist defined culture in 1871 as "that complex whole which includes knowledge, belief, art, morals, law, custom" and other capabilities in his book Primitive Culture. For 10 points, name this pioneering scholar, first name Edward Burnett.|Edward Burnett Tylor|E. B. Tylor;Tylor|n
+m|This American anthropologist wrote Ancient Society and studied the Iroquois, devising an evolutionary scheme of savagery, barbarism and civilization. He also wrote on kinship systems. For 10 points, name this scholar, first name Lewis Henry.|Lewis Henry Morgan|Morgan|n
+m|This anthropologist's study of the Yanomami of the Amazon, titled Yanomamo: The Fierce People, became controversial. He studied violence and warfare. For 10 points, name this American anthropologist, first name Napoleon.|Napoleon Chagnon|Chagnon|n
+e|This term names the transmission of customs, ideas or technologies from one culture to another, as when papermaking spread from China along the Silk Road to the Islamic world and Europe. Anthropologists contrast it with independent invention. For 10 points, name this spread of cultural traits between societies.|cultural diffusion|diffusion
+e|In anthropology, this term names the system of social relationships based on blood, marriage and adoption. Lewis Henry Morgan was a pioneer in its study. For 10 points, name this concept of family ties.|kinship|
+m|This hoax of 1912, in which a skull was supposedly the "missing link," was exposed in 1953 as a human cranium combined with an orangutan jaw. For 10 points, name this fraud, named for a town in Sussex.|Piltdown Man|Piltdown|Piltdown hoax
+h|This Turkish archaeological site, dating to about 9500 BCE, consists of massive carved T-shaped pillars arranged in circles, apparently built by hunter-gatherers before farming. For 10 points, name this site near Sanliurfa.|Gobekli Tepe|
+m|This African American anthropologist wrote Mules and Men and studied folklore in Florida and Haiti. She is better known for the novel Their Eyes Were Watching God. For 10 points, name this Harlem Renaissance writer.|Zora Neale Hurston|Hurston|n
+h|This South African anatomist described the Taung Child in 1925 and proposed that Africa, not Asia, was the cradle of humankind. For 10 points, name this scientist who named Australopithecus africanus.|Raymond Dart|Dart|n
+m|This term names an animal species or plant used as an emblem of a clan, believed to be an ancestor or protector. Carved poles from the Pacific Northwest depict them. For 10 points, name this kind of emblem.|totem|totems
+m|These societies, like the !Kung of the Kalahari, rely on foraging wild plants and hunting animals, and are typically nomadic and egalitarian. For 10 points, name this type of society.|hunter-gatherer|hunter-gatherers;foragers;hunting and gathering
+B|m|Answer these questions about early human fossils.
+-|e|Which East African nation is home to the Olduvai Gorge?|Tanzania|
+-|m|Which species name means "handy man," found with stone tools at Olduvai?|Homo habilis|habilis
+-|h|Which British-Kenyan family of scientists found Zinjanthropus at Olduvai?|Leakey|Leakeys;the Leakeys
+B|m|Answer these questions about anthropologists.
+-|e|Which anthropologist wrote Coming of Age in Samoa?|Margaret Mead|Mead|n
+-|m|Which anthropologist wrote Patterns of Culture?|Ruth Benedict|Benedict|n
+-|h|Which Polish-born anthropologist studied the Trobriand Islanders?|Bronislaw Malinowski|Malinowski|n
+B|m|Answer these questions about rituals.
+-|e|What word names a ceremony marking a change in a person's life stage?|rite of passage|rites of passage|
+-|m|Which Frenchman coined this phrase in a 1909 book?|Arnold van Gennep|van Gennep;Gennep|n
+-|h|Which Scottish-born anthropologist studied the Ndembu and "liminality"?|Victor Turner|Turner|n
+B|m|Answer these questions about methods in archaeology.
+-|e|What word names the scientific digging of ancient sites?|excavation|dig
+-|m|What dating method measures tree growth rings?|dendrochronology|tree-ring dating
+-|h|What term, from Latin for "layer," names the sequence of soil layers used for relative dating?|stratigraphy|
+B|m|Answer these questions about the Neolithic Revolution.
+-|e|What word describes the keeping of animals for human use?|domestication|
+-|m|Which region, a crescent shape across the Middle East, saw early farming?|Fertile Crescent|the Fertile Crescent
+-|h|Which Neolithic Turkish town site had stacked mudbrick houses and was excavated by James Mellaart?|Catalhoyuk|Çatalhöyük|
+B|m|Answer these questions about structuralism and symbols.
+-|e|What term names an emblem of a clan, such as a carved pole?|totem|
+-|m|Which French anthropologist wrote The Raw and the Cooked?|Claude Levi-Strauss|Levi-Strauss|n=Strauss
+-|h|Which Clifford Geertz concept names detailed interpretation of cultural meaning?|thick description|
+B|m|Answer these questions about hominins.
+-|e|Which genus includes the famous fossil Lucy?|Australopithecus|
+-|m|Which kind of walking on two legs characterizes hominins?|bipedalism|bipedal|
+-|h|Which German valley gave its name to a species of extinct humans found there in 1856?|Neander Valley|Neandertal;Neander
+B|m|Answer these questions about social life in anthropology.
+-|e|What term names a group's shared way of life, including language, beliefs and customs?|culture|ok
+-|m|What term names the learning of one's own culture from childhood?|enculturation|
+-|h|What term names marriage to one spouse at a time?|monogamy|
+m|In 1978, this British-born archaeologist discovered preserved hominin footprints about 3.6 million years old in volcanic ash at Laetoli in Tanzania. She was the wife of Louis Leakey. For 10 points, name this scientist who also found the skull of Proconsul.|Mary Leakey|Leakey|n

@@ -1,0 +1,68 @@
+# ncal jv | Fine Arts | Art History
+e|Which Renaissance painting, on the wall of a dining hall in Milan, shows Jesus with his twelve apostles at a table?|The Last Supper|Last Supper;Il Cenacolo
+m|Which marble statue by Michelangelo shows a young biblical hero before his battle with Goliath and stands in Florence?|David|Michelangelo's David
+m|Which marble sculpture by Michelangelo, in Saint Peter's Basilica, shows Mary holding the body of the dead Jesus?|Pietà|Pieta;The Pietà
+e|Which Dutch painter created The Starry Night while staying at an asylum in Saint-Rémy?|Vincent van Gogh|Van Gogh;Vincent Van Gogh|n
+e|Which Spanish Surrealist painted The Persistence of Memory, with its melting clocks?|Salvador Dalí|Dali;Salvador Dali|n
+e|Which Spanish artist painted Guernica to protest the bombing of a Basque town?|Pablo Picasso|Picasso|n
+e|Which French Impressionist painted a series of haystacks and many views of Rouen Cathedral?|Claude Monet|Monet|n
+m|A critic's mocking review of Monet's painting Impression, Sunrise gave a name to which art movement?|Impressionism|Impressionist
+e|Which Norwegian artist painted The Scream?|Edvard Munch|Munch|n
+m|Which Italian Renaissance artist painted The School of Athens in the Vatican?|Raphael|Raffaello Sanzio|n
+m|Which Dutch artist painted Girl with a Pearl Earring?|Johannes Vermeer|Vermeer|n
+e|Which Dutch Golden Age painter created The Night Watch and many self-portraits?|Rembrandt van Rijn|Rembrandt|part
+m|Which Spanish court painter created Las Meninas?|Diego Velázquez|Velazquez;Diego Velazquez|n
+e|Which American painter created American Gothic, showing a farmer with a pitchfork beside a woman?|Grant Wood|Wood|n
+e|Which American Pop artist created Campbell's Soup Cans and Brillo Boxes?|Andy Warhol|Warhol|n
+m|Which American artist painted a portrait of his mother seated in profile, known as Arrangement in Grey and Black?|James McNeill Whistler|Whistler|n
+m|Which Japanese artist made the woodblock print The Great Wave off Kanagawa?|Katsushika Hokusai|Hokusai|n
+m|Which American painter created Nighthawks, showing people in a late-night diner?|Edward Hopper|Hopper|n
+h|Which German-American artist painted Washington Crossing the Delaware?|Emanuel Leutze|Leutze|n
+e|Which Paris museum holds the Mona Lisa and the Venus de Milo?|Louvre|the Louvre;Louvre Museum;Musée du Louvre
+m|Which Austrian artist painted The Kiss using gold leaf?|Gustav Klimt|Klimt|n
+e|Which French sculptor created The Thinker?|Auguste Rodin|Rodin|n
+m|Which French painter used tiny dots of color to create A Sunday Afternoon on the Island of La Grande Jatte?|Georges Seurat|Seurat|n
+h|Which French painter, with Pablo Picasso, helped develop Cubism?|Georges Braque|Braque|n
+m|Which Mexican artist is known for her many self-portraits, such as The Two Fridas?|Frida Kahlo|Kahlo|n
+m|Which Mexican muralist painted the Detroit Industry murals?|Diego Rivera|Rivera|n
+e|Which American painter created works by pouring and dripping paint onto canvases laid on the floor?|Jackson Pollock|Pollock|n
+m|Which American painter is known for large close-up paintings of flowers and for desert landscapes in New Mexico?|Georgia O'Keeffe|O'Keeffe;Georgia OKeeffe|n
+e|Which American illustrator painted Freedom from Want as part of his Four Freedoms series?|Norman Rockwell|Rockwell|n
+m|Which American Pop artist painted comic-strip scenes such as Whaam! using Ben-Day dots?|Roy Lichtenstein|Lichtenstein|n
+m|Which early twentieth-century art movement, led by Pablo Picasso and Georges Braque, showed objects broken into geometric shapes from several viewpoints?|Cubism|Cubist
+h|Which art movement, led by André Breton, explored dreams and the unconscious with strange, irrational imagery?|Surrealism|Surrealist
+m|Which art movement of the 1950s and 1960s used imagery from advertising, comic books, and consumer goods?|Pop art|Pop Art
+h|Which art movement of postwar New York included Jackson Pollock and Mark Rothko?|Abstract Expressionism|Abstract Expressionist;New York School
+e|Which art period, meaning rebirth, began in Italy in the fourteenth century and revived classical ideas?|Renaissance|the Renaissance
+m|Which dramatic style of the seventeenth century, with strong emotion and contrast of light and dark, included Caravaggio and Bernini?|Baroque
+h|Which decorative style of around 1900, with flowing plant-like curves, included the posters of Alphonse Mucha?|Art Nouveau
+h|Which early twentieth-century movement, whose name means wild beasts, used bold unnatural colors and included Henri Matisse?|Fauvism|Fauves
+m|Which Italian Baroque painter, known for dramatic lighting, painted The Calling of Saint Matthew?|Caravaggio|Michelangelo Merisi da Caravaggio|n
+m|Which Italian Baroque sculptor created The Ecstasy of Saint Teresa and Apollo and Daphne?|Gian Lorenzo Bernini|Bernini|n
+m|Which Florentine sculptor created a bronze statue of David?|Donatello|n
+h|Which Florentine sculptor created the bronze Gates of Paradise for the baptistery doors?|Lorenzo Ghiberti|Ghiberti|n
+h|Which Flemish painter created the Arnolfini Portrait?|Jan van Eyck|Van Eyck|n=Eyck
+m|Which Flemish painter created Hunters in the Snow and The Peasant Wedding?|Pieter Bruegel the Elder|Bruegel;Brueghel;Pieter Bruegel|n=Bruegel
+h|Which Dutch painter created the triptych The Garden of Earthly Delights?|Hieronymus Bosch|Bosch|n
+m|Which German artist made the woodcut series Four Horsemen of the Apocalypse?|Albrecht Dürer|Durer;Albrecht Durer|n
+m|Which Spanish painter created The Third of May 1808 and the Black Paintings?|Francisco Goya|Goya|n
+m|Which French Romantic painter created Liberty Leading the People?|Eugène Delacroix|Delacroix;Eugene Delacroix|n
+m|Which French painter created Luncheon on the Grass and Olympia?|Édouard Manet|Manet;Edouard Manet|n
+m|Which French Impressionist painted Luncheon of the Boating Party?|Pierre-Auguste Renoir|Renoir;Auguste Renoir|n
+m|Which French artist is best known for paintings and pastels of ballet dancers?|Edgar Degas|Degas|n
+m|Which Post-Impressionist painted still lifes of apples and many views of Mont Sainte-Victoire?|Paul Cézanne|Cezanne;Paul Cezanne|n
+m|Which French artist left Paris for Tahiti and painted Where Do We Come From? What Are We? Where Are We Going?|Paul Gauguin|Gauguin|n
+m|Which French artist painted The Dance and made large paper cut-outs late in life?|Henri Matisse|Matisse|n
+m|Which American Impressionist, who lived in Paris, painted The Child's Bath?|Mary Cassatt|Cassatt|n
+m|Which American painter created The Gulf Stream and Snap the Whip?|Winslow Homer|Homer|dup n
+h|Which English-born American painter founded the Hudson River School of landscape painting?|Thomas Cole|Cole|n
+h|Which American painter created the unfinished portrait of George Washington that appears on the one-dollar bill?|Gilbert Stuart|Stuart|n
+h|Which African American artist created the Migration Series about Black families moving north?|Jacob Lawrence|Lawrence|n
+m|Which Belgian Surrealist painted The Treachery of Images, which says in French that it is not a pipe?|René Magritte|Magritte|n
+m|Which Dutch artist made impossible-looking prints such as Relativity and Drawing Hands?|M. C. Escher|Escher|n
+m|Which Dutch painter made grid paintings of black lines with red, yellow, and blue rectangles?|Piet Mondrian|Mondrian|n
+h|Which Russian painter, a pioneer of abstract art, wrote Concerning the Spiritual in Art?|Wassily Kandinsky|Kandinsky|n
+h|Which French artist displayed a urinal as an artwork titled Fountain in 1917?|Marcel Duchamp|Duchamp|n
+m|Which American sculptor invented the hanging mobile and also made large standing stabiles?|Alexander Calder|Calder|n
+h|Which English sculptor is known for large abstract reclining figures?|Henry Moore|Moore|n
+h|Which Romanian-born sculptor created Bird in Space?|Constantin Brancusi|Brancusi|n

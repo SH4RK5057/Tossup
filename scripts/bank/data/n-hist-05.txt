@@ -1,0 +1,105 @@
+# ncal jv | Social Science | U.S. History
+B|e|Answer these questions about the colonial era.
+-|e|Which colony was founded by Lord Baltimore as a refuge for English Catholics?|Maryland
+-|m|Which Dutch colony in North America became New York after the English took it in 1664?|New Netherland
+-|h|Which colony was founded in 1732 by James Oglethorpe as a buffer against Spanish Florida?|Georgia
+B|m|Answer these questions about the causes of the American Revolution.
+-|e|What phrase meant that colonists objected to being taxed by a Parliament in which they had no elected representatives?|No taxation without representation
+-|m|Which 1767 laws taxed glass, paint, paper, and tea imported to the colonies?|Townshend Acts
+-|h|Which 1774 laws, called the Intolerable Acts by colonists, punished Massachusetts after the Boston Tea Party?|Coercive Acts|Intolerable Acts
+B|e|Answer these questions about the Founding Fathers.
+-|e|Which Founding Father was the third President of the United States and lived at Monticello?|Thomas Jefferson|Jefferson
+-|m|Which Founding Father was the fourth President and a major author of the Bill of Rights?|James Madison|Madison
+-|h|Which Founding Father, a Virginian, said Give me liberty, or give me death?|Patrick Henry|Henry
+B|m|Answer these questions about the early republic.
+-|e|Which city became the permanent capital of the United States, built on the Potomac River?|Washington, D.C.|Washington
+-|m|Which president, famous for his Farewell Address, warned against political parties and permanent foreign alliances?|George Washington|Washington
+-|h|Which 1794 uprising of farmers in western Pennsylvania protested a tax on whiskey?|Whiskey Rebellion
+B|e|Answer these questions about westward expansion.
+-|e|Which trail ran from Missouri to Oregon and was used by thousands of pioneers in covered wagons?|Oregon Trail
+-|m|Which phrase, coined in 1845, describes the belief that the United States was destined to expand across the continent?|Manifest Destiny
+-|h|Which religious group led by Brigham Young settled near the Great Salt Lake in 1847?|Mormons|Latter-day Saints;Church of Jesus Christ of Latter-day Saints
+B|m|Answer these questions about the Civil War.
+-|e|Which Confederate fort in South Carolina was fired on in April 1861 to start the Civil War?|Fort Sumter|Sumter
+-|m|Which Union victory in 1863 on the Mississippi River gave the North control of the river?|Siege of Vicksburg|Vicksburg
+-|h|Which president of the Confederate States led the South throughout the Civil War?|Jefferson Davis|Davis|n
+B|e|Answer these questions about late nineteenth-century America.
+-|e|Which inventor patented the telephone in 1876?|Alexander Graham Bell|Bell|n
+-|m|Which term, coined by Mark Twain, describes the period of rapid industrial growth and corruption in the late 1800s?|Gilded Age
+-|h|Which labor leader founded the American Federation of Labor in 1886?|Samuel Gompers|Gompers|n
+B|m|Answer these questions about immigration and cities.
+-|e|Which statue in New York Harbor welcomed immigrants and was dedicated in 1886?|Statue of Liberty
+-|m|Which 1882 law banned Chinese laborers from immigrating to the United States?|Chinese Exclusion Act
+-|h|Which photographer and reformer documented New York slums in his 1890 book How the Other Half Lives?|Jacob Riis|Riis|n
+B|e|Answer these questions about World War I.
+-|e|What name is given to German submarines used in both world wars?|U-boats|U-boat
+-|m|Which 1917 German telegram proposed an alliance with Mexico against the United States?|Zimmermann Telegram
+-|h|Which American general led the American Expeditionary Forces in Europe?|John Pershing|Pershing|n
+B|m|Answer these questions about the 1920s.
+-|e|Which pilot made the first solo nonstop flight across the Atlantic in 1927?|Charles Lindbergh|Lindbergh|n
+-|m|Which automaker introduced the assembly line and the Model T?|Henry Ford|Ford|n
+-|h|Which 1927 film was the first major feature with synchronized dialogue?|The Jazz Singer
+B|e|Answer these questions about the Great Depression and New Deal.
+-|e|Which president before Franklin Roosevelt led the country at the start of the Great Depression?|Herbert Hoover|Hoover|n
+-|m|Which 1935 New Deal law created a pension system for retired workers?|Social Security Act|Social Security
+-|h|Which agency created in 1933 employed young men in conservation work in national forests?|Civilian Conservation Corps|CCC
+B|m|Answer these questions about World War II.
+-|e|Which 1944 invasion of Normandy opened a second front against Germany?|D-Day|Operation Overlord;Normandy invasion
+-|m|Which American general commanded Allied forces in Europe and later became president?|Dwight Eisenhower|Dwight D. Eisenhower;Eisenhower|n
+-|h|Which 1942 naval battle in the Pacific was a turning point after the Americans sank four Japanese carriers?|Battle of Midway|Midway
+B|e|Answer these questions about the Cold War.
+-|e|Which country was the main rival of the United States in the Cold War?|Soviet Union|USSR;Soviet Union (USSR)
+-|m|Which divided country was invaded by communist North Korea in 1950?|South Korea
+-|h|Which 1961 failed invasion of Cuba was backed by the CIA?|Bay of Pigs invasion|Bay of Pigs
+B|m|Answer these questions about the civil rights movement.
+-|e|Which civil rights organization, founded in 1909, helped by W. E. B. Du Bois, is known by four letters?|NAACP|National Association for the Advancement of Colored People
+-|m|Which 1960 protests at a Greensboro, North Carolina, lunch counter were a tactic of the civil rights movement?|sit-ins|Greensboro sit-ins;sit-in
+-|h|Which first Black Supreme Court justice was appointed in 1967?|Thurgood Marshall|Marshall|n
+B|e|Answer these questions about the space race.
+-|e|Which Apollo mission put the first people on the Moon?|Apollo 11
+-|m|Which astronaut was the first American to orbit the Earth in 1962?|John Glenn|Glenn|n
+-|h|Which NASA program between Mercury and Apollo sent two-person crews into orbit?|Project Gemini|Gemini
+B|e|Answer these questions about the presidency.
+-|e|Which building in Washington is the official residence of the President?|White House|The White House
+-|m|Which amendment limits a president to two terms?|Twenty-second Amendment|22nd Amendment
+-|h|Which president was impeached in 1868 but acquitted by one vote in the Senate?|Andrew Johnson|Johnson|n dup
+B|m|Answer these questions about the Constitution.
+-|e|Which amendment protects the right to keep and bear arms?|Second Amendment|2nd Amendment
+-|m|Which amendment bans cruel and unusual punishment?|Eighth Amendment|8th Amendment
+-|h|Which amendment guarantees the right to remain silent and not incriminate oneself?|Fifth Amendment|5th Amendment
+B|e|Answer these questions about U.S. inventions and inventors.
+-|e|Which inventor developed the cotton gin in 1793?|Eli Whitney|Whitney|n
+-|m|Which inventor developed the telegraph and the code of dots and dashes named for him?|Samuel Morse|Morse|n
+-|h|Which inventor created the mechanical reaper that helped farmers harvest wheat?|Cyrus McCormick|McCormick|n
+B|m|Answer these questions about Native American history.
+-|e|Which Native American leader of the Shawnee tried to unite tribes against settlers in the early 1800s?|Tecumseh
+-|m|Which Nez Perce chief led his people on a long retreat in 1877 and said he would fight no more forever?|Chief Joseph|Joseph|n
+-|h|Which 1890 massacre in South Dakota was the last major clash between the army and the Lakota?|Wounded Knee|Wounded Knee Massacre
+B|e|Answer these questions about U.S. wars.
+-|e|Which war between 1775 and 1783 created the United States?|American Revolution|Revolutionary War
+-|m|Which war between 1950 and 1953 was fought on the Korean Peninsula?|Korean War
+-|h|Which 1991 war liberated Kuwait from Iraqi forces?|Gulf War|Persian Gulf War
+B|m|Answer these questions about U.S. presidents of the 20th century.
+-|e|Which actor-turned-president served two terms in the 1980s?|Ronald Reagan|Reagan|n
+-|m|Which president ended the Korean War and built the interstate highway system?|Dwight Eisenhower|Eisenhower|n
+-|h|Which vice president became president in 1974 and later pardoned his predecessor?|Gerald Ford|Ford|n
+B|e|Answer these questions about women in U.S. history.
+-|e|Which First Lady of Franklin Roosevelt was a UN delegate and a human rights advocate?|Eleanor Roosevelt|Eleanor|n dup
+-|m|Which woman became the first female Supreme Court justice in 1981?|Sandra Day O'Connor|O'Connor|n
+-|h|Which aviator disappeared in 1937 on a flight around the world?|Amelia Earhart|Earhart|n
+B|m|Answer these questions about government and law.
+-|e|Which branch of government makes laws and includes the House and Senate?|legislative branch|Congress;legislative
+-|m|Which document of 1215 influenced American ideas about limits on government?|Magna Carta
+-|h|Which system allows each branch of government to limit the powers of the others?|checks and balances
+B|m|Answer these questions about the Progressive Era.
+-|e|Which president was known as a trust buster and a Rough Rider?|Theodore Roosevelt|Roosevelt|n dup
+-|m|Which 1906 law, passed after Upton Sinclair's book, required inspection of meat?|Meat Inspection Act
+-|h|Which 1890 law was the first federal law against monopolies?|Sherman Antitrust Act|Sherman Act
+B|e|Answer these questions about U.S. foreign policy.
+-|e|Which organization formed in 1949 united the United States and Western Europe in a military alliance?|NATO|North Atlantic Treaty Organization
+-|m|Which 1941 policy let the United States send supplies to Britain and other Allies without immediate payment?|Lend-Lease|Lend-Lease Act
+-|h|Which 1904 addition to the Monroe Doctrine claimed a U.S. right to act as an international police power?|Roosevelt Corollary
+B|m|Answer these questions about technology and industry.
+-|e|Which inventor developed the practical electric lightbulb in the 1870s?|Thomas Edison|Edison|n
+-|m|Which 1844 invention by Samuel Morse sent messages over wires?|telegraph
+-|h|Which Pennsylvania businessman built Standard Oil's rival steel empire and merged it into U.S. Steel in 1901?|Andrew Carnegie|Carnegie|n

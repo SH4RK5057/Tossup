@@ -1,0 +1,130 @@
+# quizbowl varsity | Social Science | Psychology
+h|This psychologist founded the first experimental psychology laboratory at the University of Leipzig in 1879. He used introspection to study the elements of consciousness, an approach called structuralism by his student Edward Titchener. For 10 points, name this German pioneer, whose name is Wilhelm.|Wilhelm Wundt|Wundt|n
+e|After winning a Nobel Prize in 1904 for his research on digestive glands, this Russian scientist turned to the reflex now named for him. He noticed that dogs salivated when they heard a metronome or bell that had been paired with food. For 10 points, name this founder of classical conditioning.|Ivan Pavlov|Pavlov|n
+e|This Harvard psychologist invented an operant conditioning chamber, nicknamed a box for him, and wrote Walden Two and Beyond Freedom and Dignity. He studied reinforcement schedules using pigeons and rats. For 10 points, name this radical behaviorist, first name B. F.|B. F. Skinner|Skinner|n
+m|This psychologist founded behaviorism in a 1913 manifesto and conducted the Little Albert experiment with Rosalie Rayner. He later became an advertising executive. For 10 points, name this American, first name John B.|John B. Watson|John Watson|Watson|n
+e|In this 1961 experiment by Albert Bandura, children watched an adult hit an inflatable clown and later imitated the aggression. It demonstrated social learning. For 10 points, name this experiment, named for a toy.|Bobo doll experiment|Bobo doll
+e|In these 1961 experiments at Yale, participants gave what they thought were increasingly severe electric shocks to a learner when told to continue by an experimenter in a lab coat. For 10 points, name this study of obedience by Stanley Milgram.|Milgram experiment|Milgram obedience experiments;Milgram's obedience study;Milgram
+m|In 1971, this Stanford psychologist led a prison simulation in which student guards abused student prisoners and the study was ended after six days. For 10 points, name this psychologist, first name Philip.|Philip Zimbardo|Zimbardo|n
+m|In this 1950s study of conformity, participants judged the length of lines after confederates gave obviously wrong answers. About a third of responses conformed. For 10 points, name this experiment by Solomon Asch.|Asch conformity experiment|Asch conformity experiments;Asch line experiment;Asch
+h|Leon Festinger developed this theory after studying a doomsday cult in When Prophecy Fails. It states that people feel discomfort when holding conflicting beliefs or when behavior contradicts beliefs, and they change attitudes to reduce it. For 10 points, name this theory.|cognitive dissonance|cognitive dissonance theory
+m|In his conservation tasks, this psychologist showed that preoperational children think a tall thin glass holds more water than a short wide one. He also introduced the concepts of assimilation and accommodation and object permanence. For 10 points, name this Swiss developmental psychologist, first name Jean.|Jean Piaget|Piaget|n
+m|This Soviet psychologist introduced the zone of proximal development, the gap between what a child can do alone and with a guide. He wrote Mind in Society. For 10 points, name this theorist, first name Lev.|Lev Vygotsky|Vygotsky|n
+m|This theorist proposed eight psychosocial stages, each with a crisis, such as trust versus mistrust and identity versus role confusion. He coined the phrase "identity crisis." For 10 points, name this man, first name Erik.|Erik Erikson|Erikson|n
+h|The Heinz dilemma, about a man who steals a drug to save his dying wife, was used in this scholar's interviews with boys about moral choices. His stage theory has preconventional, conventional and postconventional levels. For 10 points, name this Harvard developmental psychologist, first name Lawrence.|Lawrence Kohlberg|Kohlberg|n
+e|This humanistic psychologist proposed a hierarchy of needs, often drawn as a pyramid, with physiological needs at the bottom and self-actualization at the top. For 10 points, name this man, first name Abraham.|Abraham Maslow|Maslow|n
+m|This American psychologist's client-centered therapy stresses unconditional positive regard and empathy. He was a founder of humanistic psychology. For 10 points, name this man, first name Carl.|Carl Rogers|Rogers|n
+m|This Swiss psychiatrist split from Freud and proposed the collective unconscious containing archetypes such as the shadow and the anima. He coined the terms introvert and extravert. For 10 points, name this man, first name Carl.|Carl Jung|Jung|n
+h|In experiments on rhesus monkeys, Harry Harlow showed that infants clung to a soft terry-cloth surrogate rather than a wire one that held the milk. He concluded that affection was not just about feeding. For 10 points, what concept of need for physical closeness did he name, "comfort" through touch?|contact comfort|attachment|ok
+m|Mary Ainsworth developed this procedure to assess infant attachment, in which a baby's reactions are observed when a mother leaves and returns. It identified secure, avoidant and ambivalent styles. For 10 points, name this laboratory test.|Strange Situation|the Strange Situation
+h|This Harvard psychologist's 1956 paper "The Magical Number Seven, Plus or Minus Two" argued that short-term memory holds about seven items. He also coined the term chunking in this context. For 10 points, name this psychologist, first name George.|George Miller|George A. Miller|Miller|n
+m|This German psychologist memorized lists of nonsense syllables and plotted a curve showing rapid forgetting that levels off. For 10 points, name this man, first name Hermann, who discovered the spacing effect.|Hermann Ebbinghaus|Ebbinghaus|n
+h|This cognitive psychologist's studies of eyewitness testimony showed that wording, such as "smashed" versus "hit," changes recalled speed. She researches misinformation and false memories. For 10 points, name this woman, first name Elizabeth.|Elizabeth Loftus|Loftus|n
+m|In 1848, an explosion drove an iron rod through the frontal lobe of this Vermont railroad foreman, who survived but whose personality changed. For 10 points, name this famous brain injury patient.|Phineas Gage|Gage|n
+h|This patient, known for decades by initials, lost the ability to form new long-term memories after surgeons removed his hippocampus in 1953 to treat epilepsy. For 10 points, name this man, studied by Brenda Milner and Suzanne Corkin, whose real name was Henry Molaison.|H. M.|Henry Molaison|Molaison;HM
+e|In this task, participants name the ink color of a word like "red" printed in blue, and are slower when the word and color conflict. For 10 points, name this effect named for a psychologist John Ridley.|Stroop effect|Stroop
+m|This school of psychology, founded by Max Wertheimer, Wolfgang Kohler and Kurt Koffka, argued that "the whole is more than the sum of its parts." It studied perception, such as the law of proximity. For 10 points, name this German school.|Gestalt psychology|Gestalt
+h|Martin Seligman developed this concept from experiments in which dogs that received inescapable shocks stopped trying to escape even when escape became possible. For 10 points, name this concept, linked to depression.|learned helplessness|
+e|This French psychologist developed the first practical intelligence test in 1905 to identify children needing help in school. The Stanford revision of his test introduced the intelligence quotient. For 10 points, name this man, first name Alfred.|Alfred Binet|Binet|n
+m|This psychologist's theory of multiple intelligences, from his 1983 book Frames of Mind, proposed eight or so, including musical and bodily-kinesthetic. For 10 points, name this Harvard professor, first name Howard.|Howard Gardner|Gardner|n
+e|This 1964 case in Queens, New York, in which a woman was killed while many neighbors reportedly did not help, inspired John Darley and Bibb Latane to study the bystander effect. For 10 points, name this victim, first name Kitty.|Kitty Genovese|Genovese|n
+m|This model of personality traits lists openness, conscientiousness, extraversion, agreeableness and neuroticism. Its acronym is OCEAN. For 10 points, name this model with a number in its name.|Big Five|Five Factor Model;five-factor model|
+B|m|Answer these questions about conditioning.
+-|e|Which Russian physiologist discovered classical conditioning?|Ivan Pavlov|Pavlov|n
+-|m|Which Harvard psychologist developed operant conditioning?|B. F. Skinner|Skinner|n
+-|h|Which Columbia psychologist formulated the law of effect using puzzle boxes with cats?|Edward Thorndike|Thorndike|n
+B|m|Answer these questions about social psychology experiments.
+-|e|Which Yale psychologist studied obedience with electric shock?|Stanley Milgram|Milgram|n
+-|m|Which psychologist did the line-judgment conformity experiment?|Solomon Asch|Asch|n
+-|h|Which psychologist conducted the Robbers Cave study of intergroup conflict among boys at a summer camp?|Muzafer Sherif|Sherif|n
+B|m|Answer these questions about developmental psychology.
+-|e|Which Swiss psychologist described four stages of cognitive development?|Jean Piaget|Piaget|n
+-|m|Which Soviet psychologist proposed the zone of proximal development?|Lev Vygotsky|Vygotsky|n
+-|h|Which British psychiatrist, known for attachment theory, wrote Maternal Care and Mental Health?|John Bowlby|Bowlby|n
+B|m|Answer these questions about memory.
+-|e|What kind of memory, as opposed to long-term memory, holds a small amount of information for seconds?|short-term memory|working memory
+-|m|Which brain structure was removed from patient H. M.?|hippocampus|hippocampi
+-|h|Which British psychologist proposed a working memory model with a central executive and phonological loop?|Alan Baddeley|Baddeley|n
+B|m|Answer these questions about theories of motivation and personality.
+-|e|Which humanistic psychologist proposed a hierarchy of needs?|Abraham Maslow|Maslow|n
+-|m|Which Swiss psychiatrist proposed the collective unconscious?|Carl Jung|Jung|n
+-|h|Which Austrian psychiatrist wrote Man's Search for Meaning and founded logotherapy?|Viktor Frankl|Frankl|n
+B|m|Answer these questions about intelligence.
+-|e|Which Frenchman devised the first practical intelligence test?|Alfred Binet|Binet|n
+-|m|Which American psychologist created the Wechsler intelligence scales?|David Wechsler|Wechsler|n
+-|h|Which psychologist proposed the triarchic theory of intelligence?|Robert Sternberg|Sternberg|n
+B|m|Answer these questions about the history of psychology.
+-|e|Which German founded the first experimental psychology laboratory in Leipzig?|Wilhelm Wundt|Wundt|n
+-|m|Which American philosopher wrote Principles of Psychology and is a founder of functionalism?|William James|James|n
+-|h|Which Austrian wrote The Interpretation of Dreams?|Sigmund Freud|Freud|n
+B|m|Answer these questions about attitudes and conformity.
+-|e|Which theory by Leon Festinger concerns inconsistent beliefs?|cognitive dissonance|
+-|m|Which Stanford psychologist led the prison simulation?|Philip Zimbardo|Zimbardo|n
+-|h|Which Stanford psychologist popularized the term "growth mindset"?|Carol Dweck|Dweck|n
+# quizbowl varsity | Social Science | Sociology
+e|This French sociologist's book Distinction analyzed taste as a marker of class. He introduced the concepts of habitus, field and symbolic capital. For 10 points, name this author of Outline of a Theory of Practice, first name Pierre.|Pierre Bourdieu|Bourdieu|n
+h|This American functionalist's AGIL scheme lists adaptation, goal attainment, integration and latency as needs every social system must meet. He wrote The Structure of Social Action. For 10 points, name this Harvard sociologist, first name Talcott.|Talcott Parsons|Parsons|n
+h|This sociologist's world-systems theory divides the global economy into core, semi-periphery and periphery. His multivolume The Modern World-System traces capitalism from the sixteenth century. For 10 points, name this man, first name Immanuel.|Immanuel Wallerstein|Wallerstein|n
+h|Harold Garfinkel founded this approach, studying the methods ordinary people use to make sense of social life, with "breaching experiments" that disrupt everyday norms. For 10 points, name this approach whose name combines Greek words for people and methods.|ethnomethodology|
+h|This Italian Marxist, writing in prison, developed the idea of cultural hegemony: that the ruling class maintains power through consent and shaping common sense. His Prison Notebooks were published after his death. For 10 points, name this man, first name Antonio.|Antonio Gramsci|Gramsci|n
+e|This French thinker analyzed Jeremy Bentham's circular prison design in Discipline and Punish as a symbol of modern surveillance. He also wrote The History of Sexuality. For 10 points, name this man, first name Michel.|Michel Foucault|Foucault|n
+h|In a 1973 paper, this Stanford sociologist argued that acquaintances may be more useful than close friends for finding jobs, because they provide new information. For 10 points, name this paper "The Strength of Weak Ties" by Mark Granovetter.|The Strength of Weak Ties|strength of weak ties|weak ties|ok
+e|This sociologist's The Power Elite argued that military, corporate and political leaders dominate American decision making. For 10 points, name this author whose The Sociological Imagination appeared in 1959, first name Charles Wright.|C. Wright Mills|Wright Mills|Mills|n
+m|In this 1987 book, William Julius Wilson argued that deindustrialization and the flight of middle-class families left inner-city neighborhoods isolated. For 10 points, name this book titled for people at the bottom of society.|The Truly Disadvantaged|Truly Disadvantaged
+e|This sociologist's books The Managed Heart and The Second Shift examined work and family. She coined "emotional labor," studying flight attendants. For 10 points, name this Berkeley scholar, first name Arlie.|Arlie Hochschild|Hochschild|n
+h|This legal scholar coined the term "intersectionality" in 1989 to describe how race and gender discrimination overlap, using the case of Emma DeGraffenreid against General Motors. For 10 points, name this woman, first name Kimberle.|Kimberle Crenshaw|Crenshaw|n
+e|Peter Berger and Thomas Luckmann wrote this 1966 book arguing that what people take as reality is built through shared interaction and habit. For 10 points, name this book, whose title contains the phrase "social construction."|The Social Construction of Reality|Social Construction of Reality
+h|Robert Michels formulated this "law" in his book Political Parties, claiming that all organizations, even democratic ones, inevitably become dominated by a small elite. For 10 points, name this law.|iron law of oligarchy|
+e|Weber described three types of legitimate authority: traditional, rational-legal and this type, based on an individual's exceptional personal qualities. For 10 points, name this kind of authority, exemplified by prophets.|charismatic authority|charisma;charismatic
+e|Weber introduced this concept, a German word meaning "understanding," for interpreting the subjective meanings people attach to their actions. For 10 points, name this interpretive method.|Verstehen|f
+e|Robert Merton coined this phrase for a false definition of a situation that evokes behavior making the false idea come true, as when a rumor of a bank failure causes a run on the bank. For 10 points, name this prophecy.|self-fulfilling prophecy|self fulfilling prophecy
+h|This British sociologist developed structuration theory and wrote The Consequences of Modernity and The Third Way. For 10 points, name this man, first name Anthony, who was director of the London School of Economics.|Anthony Giddens|Giddens|n
+h|This German sociologist's Risk Society argued that modern societies increasingly face hazards produced by their own technologies. He also wrote of the "second modernity" and reflexive modernization. For 10 points, name this man, first name Ulrich.|Ulrich Beck|Beck|n
+h|This Polish-born sociologist wrote Liquid Modernity, describing a society in which social forms melt quickly. He also wrote on the Holocaust and modernity. For 10 points, name this man, first name Zygmunt.|Zygmunt Bauman|Bauman|n
+m|Kingsley Davis and Wilbert Moore argued that social stratification is functional because it motivates talented people to fill important roles. For 10 points, name this broader thesis, a functionalist defense of inequality, named for its two authors.|Davis-Moore thesis|Davis Moore thesis
+m|This sociologist wrote Unequal Childhoods, contrasting "concerted cultivation" in middle-class families with the "accomplishment of natural growth" in working-class families. For 10 points, name this sociologist, first name Annette.|Annette Lareau|Lareau|n
+m|Elliot Liebow's classic ethnography Tally's Corner studied Black men gathered at one of these places, in Washington, D.C. For 10 points, name this kind of neighborhood spot, an urban street-corner setting.|street corner|corner|carry-out|ok
+h|This Frenchman's 1925 essay The Gift argued that gift exchange creates obligations to give, receive and reciprocate, using examples from Polynesia and the Pacific Northwest. For 10 points, name this nephew of Durkheim, first name Marcel.|Marcel Mauss|Mauss|n
+m|Douglas Massey and Nancy Denton described this arrangement of residential separation by race in their 1993 book American Apartheid. For 10 points, name this term for the separation of groups into different neighborhoods.|residential segregation|segregation
+e|This term, coined by Robert Merton, names a group that individuals compare themselves to when evaluating their own situation, even if they do not belong to it. For 10 points, name this kind of group.|reference group|reference groups
+e|Elton Mayo's studies at a Western Electric plant near Chicago led to the naming of this effect, in which people change their behavior because they know they are being observed. For 10 points, name this effect named for a factory.|Hawthorne effect|Hawthorne
+h|This model describes how societies move from high birth and death rates to low ones as they industrialize, passing through four or five stages. Warren Thompson first described it. For 10 points, name this demographic model.|demographic transition|demographic transition model;demographic transition theory
+h|Max Weber used this term for a mental construct that accentuates the typical features of a social phenomenon, such as bureaucracy, for comparison. It does not represent moral perfection. For 10 points, name this methodological tool, "type" preceded by a word for a perfect model.|ideal type|ideal types
+m|This English cleric's 1798 Essay on the Principle of Population argued that population grows geometrically while food supply grows arithmetically, leading to "positive checks" like famine. For 10 points, name this man, first name Thomas.|Thomas Malthus|Malthus|n
+m|The sociologist Ruth Glass coined this word in 1964 to describe how middle-class people were moving into working-class areas of London, raising rents and displacing residents. For 10 points, name this process, also seen in urban neighborhoods across America.|gentrification|
+B|m|Answer these questions about sociological theorists of power and class.
+-|e|Which German thinker wrote Das Kapital?|Karl Marx|Marx|n
+-|m|Which Italian Marxist wrote Prison Notebooks and developed cultural hegemony?|Antonio Gramsci|Gramsci|n
+-|h|Which French sociologist wrote Distinction and developed the concept of habitus?|Pierre Bourdieu|Bourdieu|n
+B|m|Answer these questions about the work of Max Weber.
+-|e|Which Weber book links Calvinism to modern capitalism?|The Protestant Ethic and the Spirit of Capitalism|Protestant Ethic
+-|m|What German word names Weber's interpretive understanding of meaning?|Verstehen|f
+-|h|What Weber concept, a constructed "pure type," is used for comparison?|ideal type|
+B|m|Answer these questions about urban sociology and inequality.
+-|e|What term names the movement of wealthier residents into poorer neighborhoods, raising rents?|gentrification|
+-|m|Which sociologist wrote The Truly Disadvantaged?|William Julius Wilson|Wilson|n
+-|h|Which sociologist, with Nancy Denton, wrote American Apartheid?|Douglas Massey|Massey|n
+B|m|Answer these questions about gender and work.
+-|e|What word names paid and unpaid work done at home after a paid job, as in Hochschild's title?|second shift|The Second Shift
+-|m|Which sociologist coined the term "emotional labor"?|Arlie Hochschild|Hochschild|n
+-|h|Which scholar coined "intersectionality"?|Kimberle Crenshaw|Crenshaw|n
+B|m|Answer these questions about global and social theory.
+-|e|Which sociologist developed world-systems theory?|Immanuel Wallerstein|Wallerstein|n
+-|m|Which British sociologist developed structuration theory?|Anthony Giddens|Giddens|n
+-|h|Which German wrote Risk Society?|Ulrich Beck|Beck|n
+B|m|Answer these questions about functionalism and its critics.
+-|e|Which Harvard sociologist developed the AGIL scheme?|Talcott Parsons|Parsons|n
+-|m|Which pair of scholars wrote a thesis on the functional importance of inequality?|Davis and Moore|Kingsley Davis and Wilbert Moore
+-|h|Which Italian-German sociologist wrote Political Parties and the iron law of oligarchy?|Robert Michels|Michels|n
+B|m|Answer these questions about sociological research methods.
+-|e|What kind of research, often using questionnaires, collects data from a sample of people?|survey|survey research
+-|m|Which Western Electric plant studies gave a name to an effect of being observed?|Hawthorne|Hawthorne Works|Hawthorne studies
+-|h|Which sociologist founded ethnomethodology and used breaching experiments?|Harold Garfinkel|Garfinkel|n
+B|m|Answer these questions about human populations.
+-|e|What English cleric wrote An Essay on the Principle of Population?|Thomas Malthus|Malthus|n
+-|m|What term names the process through which a society moves from high to low birth and death rates?|demographic transition|
+-|h|What word names the statistical study of human populations?|demography|
+B|m|Answer these questions about social interaction and construction.
+-|e|Which 1966 book by Berger and Luckmann concerns the building of shared reality?|The Social Construction of Reality|Social Construction of Reality
+-|m|What phrase names a belief that causes its own fulfillment, coined by Robert Merton?|self-fulfilling prophecy|
+-|h|Which French anthropologist-sociologist wrote The Gift?|Marcel Mauss|Mauss|n

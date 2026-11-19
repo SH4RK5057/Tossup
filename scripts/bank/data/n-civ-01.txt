@@ -1,0 +1,136 @@
+# ncal novice | Social Science | General
+e|What is the study of human behavior and mental processes called?|psychology
+e|What is the study of the Earth's physical features and of its people called?|geography
+e|What is the study of how people produce, buy, and sell goods and services called?|economics
+e|What is the study of human societies and their cultures, past and present, called?|anthropology
+e|What is the study of human social behavior and society called?|sociology
+e|What is the name for the imaginary line at zero degrees latitude that divides the Earth into northern and southern hemispheres?|equator
+e|Which imaginary lines, running east and west around the globe, measure distance north or south of the equator?|lines of latitude|latitude;parallels
+e|What word names the rules a country or community makes and enforces?|law|laws
+e|What word names the money a government collects from its people to pay for public services?|taxes|tax;taxation
+e|What do we call the set of beliefs, customs, art, and ways of life shared by a group of people?|culture
+e|What is the name for a person who moves into a new country to live there permanently?|immigrant
+e|What is the name for a person who leaves their own country to live in another?|emigrant
+e|What is the official count of a country's population, taken every ten years in the United States, called?|census
+e|What is the name for a group of people chosen to decide the facts and the verdict in a court trial?|jury
+e|What is the name for a formal choice made by voters in an election?|vote|ballot
+e|What do we call the amount of something that people are willing and able to buy at a given price?|demand
+e|What do we call the amount of something that producers are willing to sell at a given price?|supply
+e|What is the name for the money a person earns from working?|income
+e|What is the term for a place where buyers and sellers meet to trade goods, whether in person or online?|market
+e|What is the term for an item people pay for, such as a chair or a banana, as opposed to a service?|good|goods
+e|What is the term for work done for others in exchange for payment, such as haircuts or teaching?|service|services
+e|What is the term for a written plan of how money will be earned and spent?|budget
+e|What is the name for a group of people who all live in the same area and share common interests or government?|community
+e|What is the general name for the imaginary lines running north to south that measure distance east or west of the prime meridian?|longitude|meridians;lines of longitude
+e|What does the abbreviation "GDP" stand for, with the first word being "gross"?|gross domestic product
+e|What is the name for a large landmass that is part of the Earth's surface, such as Africa or Asia?|continent
+e|Which continent is the largest in both area and population?|Asia
+e|What is the name for a group of people who share a common ancestry, language, and customs?|ethnic group|ethnicity
+e|What is the name for the money kept in a bank for later use, rather than spent right away?|savings|savings account
+m|What term describes the fact that people have unlimited wants but limited resources?|scarcity
+m|What is the name for the benefit you give up when you choose one option over another, such as the next best choice?|opportunity cost
+m|What do economists call a general rise in prices over time?|inflation
+m|What term describes a general fall in the value of all production and a period of economic decline?|recession
+m|What term names the practice of one country buying goods and services from another?|import|imports;importing
+m|What term names a tax placed on goods that are brought into a country?|tariff
+m|In psychology, what term describes a person's relatively stable pattern of thoughts, feelings, and behaviors?|personality
+m|Which Russian physiologist is famous for experiments with dogs that salivated at the sound of a bell?|Ivan Pavlov|Pavlov|n
+m|What term from psychology describes learning by connecting two stimuli, as in Pavlov's experiments?|classical conditioning
+m|Which Austrian doctor founded psychoanalysis?|Sigmund Freud|Freud|n
+m|What is the name for a society's rules about what behavior is acceptable, which are usually unwritten?|norms|social norms;norm
+m|What term describes the process of learning the norms and values of one's society?|socialization
+m|What is the name for the basic social group made up of parents, children, and other relatives?|family
+m|What is the term for an unfair, fixed belief about a whole group of people?|stereotype
+m|What term describes treating people unfairly because of their group, such as their race, sex, or religion?|discrimination
+m|What term names the money borrowed from a bank that must be paid back with extra charges?|loan
+m|What name is given to the extra amount paid for borrowing money, or earned on savings?|interest
+m|What is the term for the amount by which a government's spending exceeds its revenue in a year?|deficit|budget deficit
+m|What is the name for a map feature that explains the symbols and colors used on the map?|legend|key
+m|What are the four main directions on a compass called collectively?|cardinal directions|cardinal
+m|What is the name for a body of land completely surrounded by water?|island
+m|What name is given to a large area of land with a similar climate and plants, such as a desert or tundra?|biome
+m|What is the term for the way a society divides its people into ranked groups by wealth, power, or status?|social stratification|stratification;social class
+h|What term describes a market with only one seller of a good or service?|monopoly
+h|What is the term for a market with a small number of large sellers who dominate it?|oligopoly
+h|What do we call the point at which the quantity supplied equals the quantity demanded?|equilibrium|market equilibrium
+h|Which American psychologist is famous for the Skinner box and for operant conditioning?|B. F. Skinner|Skinner|n
+h|Which Swiss psychologist is best known for his stages of cognitive development in children?|Jean Piaget|Piaget|n
+h|Which scientist's 1943 hierarchy of needs places physiological needs at the base and self-actualization at the top?|Abraham Maslow|Maslow|n
+h|What French sociologist wrote a famous study of suicide and is often called a founder of sociology?|Emile Durkheim|Durkheim|n
+h|What term describes the disorientation people feel when exposed to a very different culture?|culture shock
+h|What Scottish thinker wrote The Wealth of Nations, published in 1776, a founding work of modern economics?|Adam Smith|Smith|n
+h|What German thinker wrote The Communist Manifesto with Friedrich Engels?|Karl Marx|Marx|n
+h|What term describes the practice of a country extending its power by taking control of other lands?|imperialism
+h|What name is given to the line at zero degrees longitude that passes through Greenwich, England?|prime meridian
+h|What term names the study of the size, growth, and makeup of human populations?|demography
+h|What is the name for the economic system in which most businesses are privately owned and run for profit?|capitalism|free market economy;market economy
+B|e|Answer these questions about basic economics.
+-|e|What word names the money a business has left after paying all of its costs?|profit
+-|e|What word names the money a worker earns for each hour of work?|wage|wages
+-|m|What term describes a business that is the only seller of a product in its market?|monopoly
+B|e|Answer these questions about the branches of the social sciences.
+-|e|What field studies the way people think and behave?|psychology
+-|e|What field studies the Earth's lands, climates, and people?|geography
+-|m|What field studies the physical and cultural development of humans over time, including fossils and tools?|anthropology
+B|m|Answer these questions about maps and geography.
+-|e|What are the seven large landmasses on Earth called?|continents
+-|e|What is the largest ocean on Earth?|Pacific Ocean|Pacific
+-|m|What is the name for the set of maps bound together in a book?|atlas
+-|h|What are the lines on a map called that connect points of equal elevation?|contour lines|contour line
+B|e|Answer these questions about money.
+-|e|What is the name for the paper and coin money used in a country?|currency
+-|e|What is the name for an institution that holds deposits and makes loans?|bank
+-|m|What do we call a card or plan that lets you buy now and pay a bill later?|credit;credit card
+B|m|Answer these questions about psychology.
+-|e|What word names the ability to store and recall information and past experiences?|memory
+-|m|Which psychologist is the author of The Interpretation of Dreams?|Sigmund Freud|Freud|n
+-|h|What term names the tendency to see other people's behavior as caused by their character instead of their situation, a common error in judging others?|fundamental attribution error
+B|e|Answer these questions about the people who live in a place.
+-|e|What is the name for the number of people living in an area?|population
+-|m|What word names a large, dense settlement with many people and buildings, in contrast with a rural area?|city|urban area;urban
+-|m|What term describes the spread of people out of crowded cities into outlying areas?|suburbanization|urban sprawl;suburban growth
+B|m|Answer these questions about trade.
+-|e|What do we call goods that a country sells to other countries?|exports|export
+-|m|What is the term for an agreement among countries that lowers tariffs and trade barriers?|trade agreement|free trade agreement
+-|m|What is the name for the difference in value between the goods a country sells abroad and the goods it buys from abroad?|trade balance|balance of trade
+B|h|Answer these questions about important thinkers.
+-|e|Who founded psychoanalysis?|Sigmund Freud|Freud|n
+-|m|Which thinker wrote The Wealth of Nations?|Adam Smith|Smith|n
+-|h|Which English economist argued in 1936 that governments should spend to fight a depression?|John Maynard Keynes|Keynes|n
+B|e|Answer these questions about laws and rules.
+-|e|What do we call a rule made by a government that people must obey?|law
+-|e|What is the name for the officials who decide cases in a court?|judge|judges
+-|m|What do we call a written plan of government that sets out a country's basic principles?|constitution
+B|m|Answer these questions about the human population.
+-|e|What word names the movement of people from one place to another?|migration
+-|m|What term describes the number of births per 1000 people in a year?|birth rate
+-|h|What term describes the process in which an area's population increases and its cities grow?|urbanization
+B|e|Answer these questions about time zones and coordinates.
+-|e|Which imaginary line divides Earth into eastern and western hemispheres and passes through Greenwich, England?|prime meridian
+-|e|At what number of degrees of latitude does the equator lie?|zero|0;zero degrees;0 degrees
+-|m|What are the lines called that run from the North Pole to the South Pole?|meridians|longitude;lines of longitude
+B|m|Answer these questions about culture.
+-|e|What is the name for the words people in a region speak and write?|language
+-|m|What do we call the set of ideas about what is right and good that a group shares?|values|value;culture values
+-|m|What name is given to the spread of one culture's ideas and customs into another culture?|cultural diffusion|diffusion
+B|e|Answer these questions about work and jobs.
+-|e|What do we call a person who owns and runs a business?|entrepreneur|business owner
+-|m|What is the term for the group of people who are able to work, whether employed or looking for a job?|labor force|workforce
+-|m|What term names the state of being without a job while looking for one?|unemployment
+B|h|Answer these questions about money and its history.
+-|e|What is the name for the coins and bills a country uses for payment?|money;currency
+-|m|What system of trade involves exchanging goods directly without money?|barter
+-|h|What term describes money that has value because a government declares it, rather than because it is made of valuable metal?|fiat money|fiat currency
+B|m|Answer these questions about government and society.
+-|e|What word names a country's leader chosen in a republic, such as the head of a nation?|president
+-|m|What term describes the idea that all people have rights simply because they are human?|human rights
+-|m|What term describes a group of people who work together in a government office, usually appointed rather than elected?|bureaucracy
+B|e|Answer these questions about citizens and society.
+-|e|What is the name for a person who legally belongs to a country?|citizen
+-|m|What term describes the process by which an immigrant gains full legal membership in a country?|naturalization
+-|m|What term names a payment by the government to help people in need, such as for housing or food?|welfare;public assistance
+B|m|Answer these questions about the physical world and people.
+-|e|What is the name for the long-term pattern of weather in a place?|climate
+-|m|What is the name for the very dry region, such as the Sahara, that receives little rainfall?|desert
+-|h|What term names the study of how people use and change the environment, which geographers call the interaction of people and place?|human geography

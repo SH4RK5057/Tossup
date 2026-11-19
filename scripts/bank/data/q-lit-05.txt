@@ -1,0 +1,67 @@
+# quizbowl novice | Literature | Other Literature
+e|In this novel, Gandalf and thirteen dwarves led by Thorin Oakenshield recruit a homebody to help reclaim a treasure guarded by a dragon. The hero wins a magic ring in a riddle contest with Gollum. For 10 points, name this novel by J. R. R. Tolkien about Bilbo Baggins.|The Hobbit
+e|In this novel, four siblings enter a magical land through a wardrobe in a professor's house. Edmund betrays the others for Turkish delight, and the White Witch keeps the land in perpetual winter. A lion sacrifices himself at the Stone Table. For 10 points, name this book by C. S. Lewis, the first published in the Chronicles of Narnia.|The Lion, the Witch and the Wardrobe|Lion, the Witch and the Wardrobe
+e|In this novel, a girl follows a white rabbit with a pocket watch down a hole. She attends a tea party with the Mad Hatter, plays croquet with flamingos, and meets a Queen who shouts "Off with her head!" For 10 points, name this Lewis Carroll novel.|Alice's Adventures in Wonderland|Alice in Wonderland
+e|In this play, Wendy, John, and Michael Darling fly with the title boy to the Neverland. They fight the pirate Captain Hook, who is chased by a crocodile that swallowed a clock. Tinker Bell drinks poison meant for the hero. For 10 points, name this J. M. Barrie play about a boy who never grows up.|Peter Pan
+e|In this novel, Charlie Bucket wins one of five golden tickets to tour a factory run by Willy Wonka. Other winners include Augustus Gloop and Veruca Salt. The Oompa-Loompas work in the factory. For 10 points, name this Roald Dahl novel about a sweet-making plant.|Charlie and the Chocolate Factory
+m|In this novel, a brilliant girl reads at a library and discovers she can move objects with her mind. She is mistreated by her car-salesman father and by the headmistress Miss Trunchbull. Miss Honey is her kindly teacher. For 10 points, name this Roald Dahl novel.|Matilda
+e|In this book, a boy named Christopher Robin lives with a bear who loves honey and has a friend named Piglet. Other animals in the Hundred Acre Wood include Eeyore and Tigger. For 10 points, name this A. A. Milne book about a bear of very little brain.|Winnie-the-Pooh|Winnie the Pooh
+m|In this novel, a Mole meets a Water Rat, and they have adventures with Badger and a rich, reckless amphibian who loves motor cars. Toad Hall is eventually retaken from weasels. For 10 points, name this Kenneth Grahame novel set on a riverbank.|The Wind in the Willows|Wind in the Willows
+h|In this novel, Mary Lennox is sent from India to live at Misselthwaite Manor in Yorkshire. She finds a locked, overgrown garden and befriends Dickon and her sickly cousin Colin. For 10 points, name this Frances Hodgson Burnett novel.|The Secret Garden|Secret Garden
+e|In this book, a mischievous bunny wearing a blue jacket sneaks into Mister McGregor's garden. His siblings are Flopsy, Mopsy, and Cottontail. For 10 points, name this Beatrix Potter book.|The Tale of Peter Rabbit|Peter Rabbit
+e|In this picture book, Max is sent to bed without supper after wearing a wolf suit. He sails to an island and becomes king of creatures with terrible claws. Max says "Let the wild rumpus start!" For 10 points, name this Maurice Sendak book.|Where the Wild Things Are
+e|In this picture book, a tiny creature hatches from an egg on a Sunday and eats through one apple on Monday, two pears on Tuesday, and so on. After a stomachache, it forms a cocoon. For 10 points, name this Eric Carle book.|The Very Hungry Caterpillar
+m|In this novel, a boy discovers he is the son of Poseidon and is accused of stealing Zeus's master bolt. He attends Camp Half-Blood with Annabeth and Grover. For 10 points, name this Rick Riordan novel, the first in the Percy Jackson series.|The Lightning Thief|Percy Jackson and the Lightning Thief;Percy Jackson and the Olympians: The Lightning Thief
+e|In this novel, Katniss Everdeen volunteers to take her sister Prim's place in a televised fight to the death. She represents District 12 alongside Peeta Mellark. For 10 points, name this Suzanne Collins novel set in Panem.|The Hunger Games|Hunger Games
+m|In this novel, Frodo Baggins inherits a ring and sets out with eight companions to destroy it in the fires of Mount Doom. Sauron is its dark lord. For 10 points, name this epic fantasy trilogy by J. R. R. Tolkien.|The Lord of the Rings|Lord of the Rings
+m|In this novel, a boy named August Pullman, who has a facial difference, starts fifth grade at Beecher Prep. His teacher Mister Browne teaches precepts, including that one should choose kindness. For 10 points, name this R. J. Palacio novel.|Wonder
+h|This novel is narrated by a horse who describes his early life on a farm and his hard years pulling cabs in London. His friends include Ginger and Merrylegs. For 10 points, name this Anna Sewell novel.|Black Beauty
+m|This sound device repeats the same consonant sound at the start of nearby words. "Peter Piper picked a peck of pickled peppers" is a tongue twister that uses it. For 10 points, name this device.|alliteration
+m|"I've told you a million times" and "I'm so hungry I could eat a horse" are examples of this figure of speech. It uses deliberate exaggeration for emphasis. For 10 points, name this figure of speech.|hyperbole
+m|This fourteen-line poem is written in iambic pentameter. The Petrarchan form has an octave and a sestet, while Shakespeare's form ends with a rhyming couplet. For 10 points, name this form of poem.|sonnet
+m|This five-line humorous poem has an AABBA rhyme scheme and is often nonsense. Edward Lear popularized it. For 10 points, name this form that can begin "There once was a man from Nantucket."|limerick
+h|In its verbal form, a speaker says the opposite of what is meant. In its situational form, an outcome is the reverse of what is expected. In its dramatic form, the audience knows something that a character does not. For 10 points, name this literary device.|irony
+h|This device uses hints early in a story to suggest what will happen later. An author might use a storm cloud or a character's omen to create it. For 10 points, name this narrative technique.|foreshadowing
+m|In literature, this term refers to the main character of a story, who is often opposed by an antagonist. The word comes from Greek for "first actor." For 10 points, name this term for a story's central character.|protagonist
+h|In this kind of story, the characters, settings, and events represent ideas such as virtue or vice. Pilgrim's Progress is a famous example. For 10 points, name this type of narrative with a hidden symbolic meaning.|allegory
+h|In this genre, authors imagine a society in which people suffer under oppressive control, as in The Giver and Fahrenheit 451. It is the opposite of a utopia. For 10 points, name this genre of science fiction.|dystopia|dystopian fiction;dystopian literature
+
+B|m|Answer these questions about Roald Dahl.
+-|e|In this Dahl book, a young girl named Sophie is carried off by a giant who blows dreams into children's bedrooms.|The BFG|The Big Friendly Giant
+-|m|In this Dahl book, a boy escapes his awful aunts by climbing into a huge fruit pulled by seagulls.|James and the Giant Peach
+-|h|In this Dahl book, a clever animal steals chickens and cider from three mean farmers named Boggis, Bunce, and Bean.|Fantastic Mister Fox|Fantastic Mister Fox
+
+B|e|Answer these questions about classic picture books.
+-|e|In this Margaret Wise Brown book, a young bunny says goodnight to everything in a great green room.|Goodnight Moon
+-|m|In this Robert McCloskey book, a family of birds waddles through Boston to reach the Public Garden.|Make Way for Ducklings
+-|h|In this Crockett Johnson book, a boy draws his own adventures with a drawing tool.|Harold and the Purple Crayon
+
+B|e|Answer these questions about Tolkien's Middle-earth.
+-|e|This wizard with a gray cloak and a pointed hat guides Bilbo and Frodo.|Gandalf
+-|m|This creature, who loves his "precious," was once a hobbit named Sméagol.|Gollum
+-|h|This hidden valley, home to Elrond, is the "Last Homely House" east of the Misty Mountains.|Rivendell
+
+B|m|Answer these questions about poetry.
+-|e|This term refers to a group of lines in a poem, like a paragraph in prose.|stanza|verse
+-|m|This metrical pattern has five unstressed-stressed feet per line, and it is used in sonnets and blank verse.|iambic pentameter
+-|h|This term describes a sentence that runs over from one line of a poem to the next without a pause.|enjambment
+
+B|m|Answer these questions about science fiction.
+-|e|In this Orson Scott Card novel, a gifted boy named Andrew Wiggin is trained at Battle School.|Ender's Game
+-|m|In this Frank Herbert novel, Paul Atreides moves to a desert planet that produces the spice melange.|Dune
+-|h|In this Douglas Adams novel, Arthur Dent escapes Earth's destruction with a friend named Ford Prefect.|The Hitchhiker's Guide to the Galaxy|Hitchhiker's Guide to the Galaxy
+
+B|e|Answer these questions about children's authors.
+-|e|This author wrote about Ramona Quimby and Henry Huggins.|Beverly Cleary|Cleary|n
+-|m|This author wrote Tales of a Fourth Grade Nothing and Are You There God? It's Me, Margaret.|Judy Blume|Blume|n
+-|h|This author wrote Tuck Everlasting, about a family that drank from a spring and never ages.|Natalie Babbitt|Babbitt|n
+
+B|e|Answer these questions about children's mystery series.
+-|e|This teenage detective from River Heights solves mysteries in books credited to Carolyn Keene.|Nancy Drew
+-|m|These two brothers, Frank and Joe, solve crimes in a series credited to Franklin W. Dixon.|The Hardy Boys|Hardy Boys
+-|h|This boy detective from Idaville solves cases for a dime a day, with the help of Sally Kimball.|Encyclopedia Brown
+
+B|m|Answer these questions about Lewis Carroll's works.
+-|e|This animal with a wide grin disappears bit by bit, leaving only its smile.|Cheshire Cat|The Cheshire Cat
+-|m|This nonsense poem from Through the Looking-Glass describes the slaying of a beast, with "frabjous" and "galumphing."|Jabberwocky|The Jabberwock
+-|h|In this poem, an oysters-eating pair walk on a beach, and a Walrus and a Carpenter weep.|The Walrus and the Carpenter

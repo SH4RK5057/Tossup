@@ -1,0 +1,67 @@
+# quizbowl jv | Science | Computer Science
+h|This data structure is accessed in last-in, first-out order, and a call of this type is how recursion stores return addresses. Its two main operations are push and pop. Running out of room in one gives a famous overflow error. For 10 points, name this data structure that also shares its name with a pile of plates.|stack|call stack|
+m|This algorithm repeatedly steps through a list, comparing adjacent items and swapping them if out of order. Larger values "bubble" to the end on each pass. It takes quadratic time in the worst case. For 10 points, name this simple sorting algorithm with a bath-time name.|bubble sort|
+e|This type of loop in programming repeats a block as long as a condition remains true. Unlike a for loop, it does not necessarily have a counter. An infinite one occurs when the condition never becomes false. For 10 points, name this loop that begins with a keyword meaning "during."|while loop|while|
+m|This British mathematician described an abstract machine with an infinite tape and a read-write head, and also worked at Bletchley Park breaking Enigma. A test named for him asks whether a machine can imitate a human in conversation. For 10 points, name this founder of theoretical computer science.|Alan Turing|Turing|n
+e|This program translates source code written in a high-level language into machine code before the program runs. GCC is a well-known example for C. Interpreters differ in that they execute code line by line. For 10 points, name this kind of program.|compiler||
+m|Brendan Eich created this language in ten days in 1995 for Netscape. It runs in web browsers and lets pages respond to clicks, and despite a similar name it is unrelated to a coffee-named language from Sun. Node.js lets it run on servers. For 10 points, name this language.|JavaScript||
+h|This search algorithm repeatedly halves the interval of a sorted array by comparing the target with the middle element. It runs in logarithmic time. It fails if the array is not sorted. For 10 points, name this search algorithm that is far faster than a linear scan for sorted data.|binary search||
+e|This computer component, often called the "brain" of a computer, executes instructions. Intel and AMD make most of the ones in desktop computers. Its abbreviation stands for "central processing unit." For 10 points, name this component, abbreviated CPU.|CPU|central processing unit|
+m|Tim Berners-Lee invented this system in 1989 while at CERN, combining hypertext, URLs, and HTTP. Browsers like Firefox and Chrome access it. It is often confused with the Internet itself. For 10 points, name this system of linked pages, abbreviated WWW.|World Wide Web|WWW;the Web;web|
+m|This type of error occurs when a program runs but does not do what the programmer intended, such as an off-by-one mistake. The term supposedly comes from a moth found in the Harvard Mark II. For 10 points, name this kind of flaw, whose removal is debugging.|bug|software bug;bugs|
+e|A variable that can hold only true or false is called this type, named for an English mathematician who developed algebraic logic. The operations AND, OR, and NOT act on these values. For 10 points, name this data type.|Boolean|boolean|
+h|This sorting algorithm picks an element called the pivot and partitions the array into smaller and larger elements, then recurses. Its average time is n log n but its worst case is quadratic. Tony Hoare invented it. For 10 points, name this sorting algorithm sometimes called partition-exchange sort.|quicksort|quick sort|
+m|This protocol suite underlies the Internet, with one part breaking data into packets and another handling addressing. The second part's addresses come in versions four and six. For 10 points, name this suite, abbreviated by two sets of letters separated by a slash.|TCP/IP|Transmission Control Protocol;TCP IP;TCP and IP|
+e|This kind of memory is volatile, losing its contents when power is turned off, and is used for programs that are currently running. A typical laptop has several gigabytes of it. For 10 points, name this memory, abbreviated RAM.|RAM|random access memory|
+m|Ada Lovelace wrote what is often called the first computer program for this mechanical computer designed by Charles Babbage. It was never completed in his lifetime and was to use punched cards. For 10 points, name this proposed general-purpose machine, which had an "Analytical" name.|Analytical Engine|Babbage's Analytical Engine|
+e|This protocol, abbreviated HTTP, is used for web browsing, with a secure version ending in S. Pages at addresses beginning with it are fetched by browsers. For 10 points, give the full name of this protocol, whose first word is for text that links.|Hypertext Transfer Protocol|HyperText Transfer Protocol|
+h|In a computer, a process waiting for a resource held by another process that is waiting for its resource is in this state. The classic illustration is five philosophers with forks. For 10 points, name this standstill in concurrent computing.|deadlock|
+m|This data structure holds a first-in, first-out sequence, like a line at a store. Its main operations are enqueue and dequeue. Breadth-first search uses one. For 10 points, name this data structure that shares its name with a waiting line.|queue||
+e|This kind of software, such as Windows, macOS, or Linux, manages hardware and provides services for other programs. Android and iOS are mobile examples. For 10 points, name this basic software layer, abbreviated OS.|operating system|OS|
+m|Ken Thompson and Dennis Ritchie created this operating system at Bell Labs in 1969. Its philosophy includes small tools connected by pipes and everything being a file. macOS and Linux are descended from or modeled on it. For 10 points, name this operating system.|Unix|UNIX|
+h|This structure consists of nodes connected by edges and has no cycles, with one special node at the top. Binary examples have at most two children per node. Heaps and file systems are organized as these. For 10 points, name this hierarchical data structure that has a root and leaves.|tree|binary tree|
+m|This programming language, created by Dennis Ritchie at Bell Labs, was used to rewrite an early operating system there. Its object-oriented extension by Bjarne Stroustrup has plus signs in its name. For 10 points, name this one-letter language.|C||
+e|A set of step-by-step instructions to solve a problem or perform a computation is called this. The word comes from the name of a Persian mathematician, al-Khwarizmi. For 10 points, give this term used for sorting and searching procedures.|algorithm|algorithms|
+m|This type of attack tries every possible password or key until the correct one is found. Longer passwords make it exponentially harder. For 10 points, name this attack named for its lack of subtlety.|brute force|brute-force attack|
+h|This design principle in programming involves hiding internal details of an object and exposing only a controlled interface. It is one of the pillars of object-oriented programming, along with inheritance and polymorphism. For 10 points, name this principle that bundles data and methods together.|encapsulation||
+e|This language, whose name contains a hot drink, was released by Sun Microsystems and is known for "write once, run anywhere." It is distinct from JavaScript. For 10 points, name this object-oriented language.|Java||
+m|This function in programming calls itself with a smaller input until it reaches a base case. A classic example computes factorial this way. Fibonacci can also be computed this way, though inefficiently. For 10 points, name this technique, or the type of function using it.|recursion|recursive function;recursive|
+m|A hash of a password is usually stored rather than the password itself because this property of the function makes it infeasible to recover the input. Algorithms like SHA-256 are examples. For 10 points, name this type of function mapping data of arbitrary size to a fixed-size value.|hash function|hashing;hash|
+e|A computer virus differs from this self-replicating malware, which spreads across networks without attaching to a host file. The Morris one was one of the first on the Internet. For 10 points, name this malware named for a crawling creature.|worm|computer worm|
+m|This US Navy rear admiral led the team that developed the first compiler and contributed to COBOL, a language for business. She worked on the Harvard Mark I and UNIVAC. A Navy destroyer was named for her. For 10 points, name this computer scientist known as "Amazing Grace."|Grace Hopper|Hopper|n
+B|m|Answer these questions about the history of computing.
+-|e|What company founded by Steve Jobs makes the iPhone?|Apple||
+-|m|What British woman is credited with writing the first algorithm for Babbage's Analytical Engine?|Ada Lovelace|Lovelace|n
+-|h|What 1940s computer at the University of Pennsylvania was one of the first general-purpose electronic digital computers?|ENIAC|Electronic Numerical Integrator and Computer|
+B|m|Answer these questions about data structures.
+-|e|What data structure stores items in numbered positions, accessed by index?|array|list|
+-|m|What data structure stores key-value pairs and uses a hash function to find them?|hash table|hash map;dictionary|
+-|h|What data structure is a collection of nodes where each points to the next, allowing efficient insertion?|linked list||
+B|m|Answer these questions about the Internet.
+-|e|What is the name for a program such as Safari or Firefox used to view web pages?|web browser|browser|
+-|m|What system translates domain names like example.com into numerical addresses?|Domain Name System|DNS|
+-|h|What kind of server sits between a user and the Internet, forwarding requests on the user's behalf?|proxy server|proxy|
+B|m|Answer these questions about programming concepts.
+-|e|What term names the data type for whole numbers, abbreviated int?|integer|int|
+-|m|What term describes a reusable block of code that can take inputs and return an output?|function|method;subroutine;procedure|
+-|h|What term describes a function's ability to be defined once and operate on many types, as in generics?|polymorphism|parametric polymorphism|
+B|m|Answer these questions about computer hardware.
+-|e|What permanent storage device was traditionally a spinning magnetic platter, abbreviated HDD?|hard drive|hard disk drive;hard disk;HDD|
+-|m|What small, fast memory inside or near the CPU stores frequently used data?|cache|CPU cache|
+-|h|What component, originally for rendering images, now often accelerates machine learning and is abbreviated GPU?|graphics processing unit|GPU|
+B|m|Answer these questions about number systems in computing.
+-|e|How many bits are in a byte?|8|eight|m
+-|m|What base-sixteen number system is used to write memory addresses and colors in web design?|hexadecimal|hex;base 16;base sixteen|
+-|h|What binary encoding scheme for characters assigns 7-bit codes to letters, abbreviated with five letters?|ASCII|American Standard Code for Information Interchange|
+B|m|Answer these questions about algorithms.
+-|e|What kind of algorithm puts a list into order?|sorting algorithm|sort;sorting|
+-|m|What measure, written with a capital O, describes how running time grows with input size?|Big O notation|big O;Big-O|
+-|h|What Dutch computer scientist created an algorithm for shortest paths in a graph?|Edsger Dijkstra|Dijkstra|n
+B|m|Answer these questions about cybersecurity.
+-|e|What kind of message tricks users into revealing passwords by pretending to be a trusted sender?|phishing||
+-|m|What type of malicious software demands payment to unlock a victim's files?|ransomware||
+-|h|What public-key cryptosystem, named for three MIT scientists, relies on the difficulty of factoring large numbers?|RSA|Rivest-Shamir-Adleman|
+B|m|Answer these questions about programming languages.
+-|e|What language, used to structure web pages, has tags like paragraph and heading?|HTML|HyperText Markup Language|
+-|m|What language is used to style web pages with colors and fonts, abbreviated by three letters?|CSS|Cascading Style Sheets|
+-|h|What language for querying relational databases has SELECT and WHERE clauses?|SQL|Structured Query Language|

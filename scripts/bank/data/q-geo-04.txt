@@ -1,0 +1,59 @@
+# quizbowl novice | Other Academic | Other Academic
+e|This is the base unit of length in the metric system. It is slightly longer than a yard, and one hundred centimeters make one of these. Track events like the one hundred dash are measured in it. For 10 points, name this unit of length.|meter|metre;meters
+m|This is the base unit of mass in the metric system. It is divided into one thousand grams. It was once defined by a platinum-iridium cylinder kept near Paris. For 10 points, name this unit of mass.|kilogram|kg;kilograms
+m|On this temperature scale, water freezes at zero degrees and boils at one hundred degrees at sea level. It is named for a Swedish astronomer. Most of the world uses it for weather reports. For 10 points, name this scale.|Celsius|centigrade;Celsius scale
+e|This word describes a group of twelve items. Eggs are often sold in this quantity in a carton. Half of it is six, and a baker's one is sometimes thirteen. For 10 points, name this unit.|dozen|a dozen
+e|This word describes a period of ten years. The 1990s and the 1920s are examples. It comes from the Greek word for ten, and it is shorter than a generation. For 10 points, name this unit of time.|decade|a decade
+e|This word describes a period of one hundred years. The twentieth one began in 1901 by strict counting. It comes from a Latin word for one hundred, and its adjective is also the name of a plant. For 10 points, name this unit of time.|century|a century
+m|This system of numerals uses letters such as I, V, X, L, C, D, and M. The letter L stands for fifty in it. It was used in ancient Rome. For 10 points, name this numbering system still seen on clock faces and movie credits.|Roman numerals|Roman numeral;Roman numeral system
+h|Melvil Dewey developed this library classification system in 1876. It assigns numbers from 000 to 999 to broad subject areas. Books are shelved by these numbers. For 10 points, name this system used in many school libraries.|Dewey Decimal System|Dewey Decimal Classification;Dewey Decimal;Dewey system
+m|Noah Webster published a famous American example of this type of book in 1828. It lists words alphabetically with their meanings, spellings, and pronunciations. The Oxford English one is another well-known example. For 10 points, name this reference work.|dictionary|a dictionary
+h|L. L. Zamenhof created this constructed language in 1887 as a neutral means of communication between nations. Its name means "one who hopes." It has regular grammar with no irregular verbs. For 10 points, name this artificial language.|Esperanto
+e|This ancient language of Rome gave English many roots, such as aqua and terra. It is the source of the Romance languages. Julius Caesar wrote in it. For 10 points, name this language.|Latin
+m|The first letter of this alphabet is alpha and the last is omega. Its letters are used in math and science and fraternity names. It was adapted from the Phoenician script. For 10 points, name this alphabet used in ancient Athens.|Greek alphabet|Greek
+m|This alphabet is used in Russian and Bulgarian and was named for a missionary saint. It includes letters like Ж and Я. It was developed from Greek in the ninth century. For 10 points, name this writing system.|Cyrillic alphabet|Cyrillic
+e|This word names a word with the same meaning as another, such as "big" and "large." The word is formed from Greek parts meaning "together" and "name." A thesaurus lists many of them. For 10 points, name this type of word.|synonym|synonyms
+e|This word names a word that means the opposite of another, such as "hot" and "cold." Its prefix comes from a Greek word meaning "against." A thesaurus often lists these along with synonyms. For 10 points, name this type of word.|antonym|antonyms
+m|This word names a word that reads the same forward and backward. Examples include "level," "radar," and "kayak." Some sentences, such as "Madam, I'm Adam," also have this property. For 10 points, name this kind of word.|palindrome|palindromes
+m|This literary term describes a word that imitates a sound, such as "buzz," "splash," or "meow." Its name comes from Greek roots meaning "name making." Comic books use them in bold letters. For 10 points, name this figure of speech.|onomatopoeia|onomatopoeias
+m|This is the study of the sounds, lengths, and stresses of speech. Linguists use a special alphabet to write them. Teachers of reading use it to explain how letters map to sounds. For 10 points, name the study of speech sounds.|phonetics|phonology
+e|This document of 1776, written chiefly by Thomas Jefferson, announced the thirteen colonies' separation from Britain. It begins "When in the Course of human events." For 10 points, name this document adopted on July 4.|Declaration of Independence|The Declaration of Independence
+m|King John of England was forced to seal this charter in 1215 at Runnymede. It limited royal power and promised the right to a lawful trial. Its name is Latin for "great charter." For 10 points, name this document.|Magna Carta|Magna Charta
+m|The first ten amendments to the United States Constitution make up this document. It protects freedoms of speech, religion, and the press. James Madison drafted it. For 10 points, name this set of amendments.|Bill of Rights|The Bill of Rights
+h|Abraham Lincoln delivered this very short speech at a Pennsylvania battlefield in November 1863. It begins "Four score and seven years ago." It ends with a "government of the people, by the people, for the people." For 10 points, name this speech.|Gettysburg Address|The Gettysburg Address
+m|People in many countries use this system of units, based on tens, that includes the liter, meter, and gram. It was developed in France during the Revolution. The United States uses a different customary system. For 10 points, name this system.|metric system|The metric system;SI;International System of Units
+m|On this temperature scale, water freezes at thirty-two degrees and boils at two hundred twelve degrees at sea level. It is named for a German physicist who also invented the mercury thermometer. The United States uses it for weather reports. For 10 points, name this scale.|Fahrenheit|Fahrenheit scale
+m|This kind of triangle has three sides of equal length and three angles of sixty degrees. Its name comes from Latin roots meaning "equal sides." Every equiangular triangle is also one of these. For 10 points, name this triangle.|equilateral triangle|equilateral
+m|This instrument measures atmospheric pressure and was invented by Evangelista Torricelli. Its name comes from Greek words for "weight" and "measure." Falling readings often predict a storm. For 10 points, name this weather instrument.|barometer|a barometer
+h|This device with a gnomon casts a shadow to tell time. Ancient Egyptians and Greeks used it. It cannot work at night or on cloudy days. For 10 points, name this timekeeping device.|sundial|a sundial
+e|This tool with a flat scale of inches or centimeters is used to measure and draw straight lines. Students keep one in a pencil case. Wooden, plastic, and metal ones are common, and a longer version is a yardstick. For 10 points, name this tool.|ruler|a ruler
+h|This instrument with a needle and a circular scale of degrees measures the angle of a line or arc. Students use it in geometry class. It is usually semicircular and made of clear plastic. For 10 points, name this tool.|protractor|a protractor
+m|This English word names a book of maps. Its name comes from a Titan of Greek myth who held up the sky. Gerardus Mercator popularized the name in the sixteenth century. For 10 points, name this reference book.|atlas|an atlas
+B|m|Answer these questions about units of measurement.
+-|e|How many inches are in one foot?|twelve|12|m
+-|m|Which unit of volume in the United States is divided into four quarts?|gallon|a gallon
+-|h|What unit measures the distance light travels in a year?|light-year|light year;a light-year
+B|m|Answer these questions about languages.
+-|e|What is the most widely spoken first language in China?|Mandarin|Mandarin Chinese
+-|m|Which language is the official language of Brazil?|Portuguese
+-|h|Which language is written with the Devanagari script and is widely spoken in India?|Hindi
+B|m|Answer these questions about words and grammar.
+-|e|What word describes a word with the same sound as another but a different meaning, such as "two" and "too"?|homophone|homophones
+-|m|What part of speech names a person, place, or thing?|noun|a noun
+-|h|What name is given to a word formed from the first letters of other words, such as NASA?|acronym|an acronym
+B|e|Answer these questions about important documents.
+-|e|Which document sets up the government of the United States and begins "We the People"?|Constitution|United States Constitution;the Constitution;U.S. Constitution
+-|m|Which document, issued on January 1, 1863, declared enslaved people in the Confederate states to be free?|Emancipation Proclamation|The Emancipation Proclamation
+-|h|Which French document of 1789 stated that men are born and remain free and equal in rights?|Declaration of the Rights of Man and of the Citizen|Declaration of the Rights of Man
+B|m|Answer these questions about numbers and counting.
+-|e|What is the name for a number divisible only by one and itself, such as 7?|prime number|prime;a prime number
+-|m|What system of numbers uses only the digits zero and one?|binary|binary system
+-|h|What term describes a number multiplied by itself, such as 25 from 5?|square|a square;perfect square
+B|h|Answer these questions about libraries and books.
+-|e|What term describes a book about a real person's life written by someone else?|biography|a biography
+-|m|What term describes a book of fiction that is typically a long story with chapters?|novel|a novel
+-|h|What term describes the list at the back of a book that names topics and their page numbers?|index|an index
+B|m|Answer these questions about maps and directions.
+-|e|On most maps, which compass direction is toward the top of the page?|north
+-|m|What name is given to imaginary east-west lines that measure distance from the equator?|latitude|lines of latitude;parallels
+-|h|What name is given to the explanatory box on a map that explains its symbols?|legend|key;map legend

@@ -1,0 +1,227 @@
+# ncal jv | Science | Biology 1
+e|What organelle is the site of protein synthesis in a cell?|ribosome;ribosomes
+e|What organelle packages and ships proteins out of the cell, and is also called the Golgi complex?|Golgi apparatus;Golgi body;Golgi complex
+e|What double-membraned organelle produces most of a eukaryotic cell's ATP?|mitochondrion;mitochondria
+e|What base pairs with adenine in DNA?|thymine
+e|What base pairs with guanine in DNA?|cytosine
+e|What is the shape of the DNA molecule?|double helix
+e|What type of biological molecule are most enzymes?|protein;proteins
+e|What is the term for the passive movement of water across a semipermeable membrane?|osmosis
+e|What is the term for the movement of particles from high concentration to low concentration?|diffusion
+e|What is the term for the type of cell division that produces gametes?|meiosis
+e|What is the term for the type of cell division that produces two identical diploid body cells?|mitosis
+e|What is the name for a cell that lacks a nucleus, such as a bacterium?|prokaryote;prokaryotic cell
+e|What are sex cells such as sperm and eggs called?|gametes;gamete
+e|What is the term for a gene form that is expressed even when only one copy is present?|dominant;dominant allele
+e|What term describes an organism with two different alleles for a trait?|heterozygous;heterozygote;hybrid
+e|What term describes an organism with two identical alleles for a trait?|homozygous;homozygote
+e|What diagram is used to predict the genotypes of offspring from a genetic cross?|Punnett square
+e|What is the name for the process by which a cell makes an RNA copy from a DNA template?|transcription
+e|What process builds a protein from an mRNA sequence?|translation
+e|What type of biomolecule is made of glycerol and fatty acids?|lipid;lipids;fat;fats
+e|What element is the backbone of all organic molecules?|carbon
+e|What is the term for maintaining a stable internal environment in an organism?|homeostasis
+e|What term names the study of the relationships between organisms and their environment?|ecology
+e|What kind of relationship exists when one organism benefits and another is harmed, like a tick on a dog?|parasitism;parasitic
+e|What is the highest level of biological classification, above kingdom?|domain
+e|What type of bond holds the two strands of DNA together?|hydrogen bond;hydrogen bonds
+e|What term describes the process in which the best-suited individuals in a population tend to survive and reproduce?|natural selection
+e|What large organelle in plant cells stores water?|vacuole;central vacuole
+e|What structure is found in plant and fungal cells but not in animal cells, outside the cell membrane?|cell wall
+e|What is the name for the fluid that fills a cell, outside the nucleus?|cytoplasm
+e|What is the term for a feature that helps an organism survive in its environment?|adaptation
+e|What type of cells make up the bodies of bacteria, which have a single circular chromosome and no nucleus?|prokaryotic;prokaryotes
+m|What organelle contains enzymes that break down worn-out cell parts and foreign material?|lysosome
+m|What network of membranes studded with ribosomes is involved in protein production?|rough endoplasmic reticulum;rough ER
+m|What stage of mitosis has chromosomes lining up along the middle of the cell?|metaphase
+m|What stage of mitosis has sister chromatids pulled apart?|anaphase
+m|What is the longest phase of the cell cycle, when the cell is not dividing?|interphase
+m|What stage of mitosis has the nuclear envelope reforming around two sets of chromosomes?|telophase
+m|What stage of mitosis has chromosomes condensing and becoming visible?|prophase
+m|What structure holds two sister chromatids together?|centromere
+m|What organelle in plant cells is where photosynthesis occurs?|chloroplast
+m|What sugar is the main product of photosynthesis?|glucose
+m|What cycle, also called the light-independent reactions, fixes carbon dioxide into sugar?|Calvin cycle;Calvin-Benson cycle
+m|What process breaks down glucose into pyruvate, without needing oxygen?|glycolysis
+m|What cycle in the mitochondrial matrix is also called the citric acid cycle?|Krebs cycle;citric acid cycle
+m|What type of RNA carries amino acids to the ribosome during translation?|tRNA;transfer RNA
+m|What three-nucleotide sequence on mRNA codes for an amino acid?|codon
+m|What enzyme builds new DNA strands during replication?|DNA polymerase
+m|What is the term for a change in the DNA sequence?|mutation
+m|What condition is caused by an extra copy of chromosome 21?|Down syndrome;trisomy 21
+m|What Austrian monk is known as the father of genetics?|Gregor Mendel;Mendel|n
+m|What American scientist, with Francis Crick, proposed the double helix structure of DNA in 1953?|James Watson;Watson|n
+m|What type of inheritance gives an intermediate phenotype because neither allele is completely dominant?|incomplete dominance
+m|What is the term for the physical expression of a gene, such as eye color?|phenotype
+m|What is the first trophic level of an ecosystem made of?|producers;autotrophs
+m|Approximately what percent of energy is passed from one trophic level to the next?|ten percent;10 percent;10%
+m|What is the term for the maximum population an environment can sustain?|carrying capacity
+m|What is the term for the gradual replacement of one community by another over time?|ecological succession;succession
+m|What nutrient cycle involves bacteria converting atmospheric gas into ammonia?|nitrogen cycle
+m|What term describes a close, long-term relationship between two species?|symbiosis
+m|What is the term for a relationship in which one species benefits and the other is neither helped nor harmed?|commensalism
+m|What system of the human body includes the thyroid, pituitary, and adrenal glands?|endocrine system
+m|What hormone made by the pancreas lowers blood glucose?|insulin
+m|What part of the brain controls balance and coordination?|cerebellum
+m|What is the functional unit of the kidney called?|nephron
+m|What is the largest part of the human brain, responsible for thought?|cerebrum
+m|What type of immune cell produces antibodies?|B cell;B lymphocyte
+m|What type of white blood cell engulfs and digests pathogens?|phagocyte;macrophage
+m|What is the name of the small gap between two neurons?|synapse
+m|What part of a neuron carries signals away from the cell body?|axon
+m|What chemicals carry signals across a synapse?|neurotransmitters;neurotransmitter
+m|What protein in red blood cells binds oxygen?|hemoglobin
+m|What chamber of the heart pumps oxygenated blood out to the body?|left ventricle
+m|What is the main artery leaving the left ventricle?|aorta
+m|What kind of tissue covers body surfaces and lines cavities?|epithelial tissue;epithelium
+m|What kingdom contains single-celled eukaryotes like amoebas and paramecia?|Protista;protists
+m|What term describes animals that maintain a constant internal body temperature?|endotherms;endothermic;warm-blooded
+m|What type of evolution produces similar traits in unrelated species living in similar environments?|convergent evolution
+m|What type of structures, such as the human arm and a bat wing, show common ancestry?|homologous structures
+m|On what island group did Darwin observe finches with different beak shapes?|Galapagos Islands;Galapagos
+m|What type of reproduction produces offspring genetically identical to one parent?|asexual reproduction
+m|What is the name of the organelle surrounded by a double membrane that holds the cell's DNA in eukaryotes?|nucleus
+h|What enzyme joins Okazaki fragments on the lagging strand?|DNA ligase;ligase
+h|What is the region of a gene where RNA polymerase binds?|promoter
+h|What noncoding segments are removed from pre-mRNA before translation?|introns;intron
+h|What five-carbon sugar is found in RNA?|ribose
+h|What nitrogenous base is found in RNA but not in DNA?|uracil
+h|What molecule is the final electron acceptor in aerobic respiration?|oxygen
+h|What is the net number of ATP produced by glycolysis from one molecule of glucose?|two;2
+h|What is the term for the pairing of homologous chromosomes in meiosis, which allows crossing over?|synapsis
+h|What type of transport moves substances against a concentration gradient and requires energy?|active transport
+h|What model describes the cell membrane as a mosaic of proteins within a phospholipid layer?|fluid mosaic model
+h|What term describes a solution with a lower solute concentration than the inside of a cell?|hypotonic
+h|What is the term for the shrinking of a plant cell's membrane away from the cell wall in salty water?|plasmolysis
+h|What is the term for the formation of new species from an ancestral species?|speciation
+h|What is the term for a random change in allele frequency in a small population?|genetic drift
+h|What X-linked disorder impairs blood clotting?|hemophilia
+h|What metal ion sits at the center of a chlorophyll molecule?|magnesium
+h|What polysaccharide forms the cell wall of plants?|cellulose
+h|What plant hormone causes fruit to ripen?|ethylene
+h|What plant hormone causes stems to bend toward light by promoting cell elongation?|auxin
+h|What is the term for a plant's growth toward light?|phototropism
+h|What type of vascular tissue carries water upward from roots to leaves?|xylem
+h|What organelle is the site of lipid synthesis and detoxification, lacking ribosomes?|smooth endoplasmic reticulum;smooth ER
+B|e|Answer these questions about cell organelles.
+-|e|What organelle makes ribosomal subunits inside the nucleus?|nucleolus
+-|m|What organelle packages and modifies proteins for export?|Golgi apparatus;Golgi body
+-|m|What organelle contains the cell's digestive enzymes?|lysosome
+B|m|Answer these questions about DNA structure.
+-|e|What group, along with sugar, forms the backbone of a DNA strand?|phosphate;phosphate group
+-|m|What sugar is part of the DNA nucleotide?|deoxyribose
+-|h|What scientist's X-ray diffraction photo 51 helped reveal the DNA structure?|Rosalind Franklin;Franklin|n
+B|m|Answer these questions about the stages of mitosis.
+-|e|What is the first stage of mitosis?|prophase
+-|m|In which stage do the chromosomes line up at the cell's equator?|metaphase
+-|m|In which stage does the cytoplasm divide into two cells, following telophase?|cytokinesis
+B|m|Answer these questions about photosynthesis.
+-|e|What pigment captures light energy in plants?|chlorophyll
+-|m|What region inside a chloroplast contains stacks of thylakoids?|grana;granum
+-|h|What enzyme fixes carbon dioxide in the Calvin cycle?|rubisco;RuBisCO
+B|m|Answer these questions about cellular respiration.
+-|e|What molecule is the main product of cellular respiration that cells use for energy?|ATP;adenosine triphosphate
+-|m|What organelle is the site of most of respiration?|mitochondrion;mitochondria
+-|m|What process in yeast produces ethanol and carbon dioxide?|alcoholic fermentation;fermentation
+B|m|Answer these questions about genetics vocabulary.
+-|e|What term names the failure of chromosomes to separate properly in meiosis?|nondisjunction
+-|m|What are different versions of the same gene called?|alleles;allele
+-|m|What term describes the allele that is masked in a heterozygote?|recessive
+B|h|Answer these questions about protein synthesis.
+-|e|What process makes mRNA from DNA?|transcription
+-|m|What organelle assembles amino acids into a protein?|ribosome
+-|h|What is the name of the three-base sequence on tRNA that pairs with a codon?|anticodon
+B|m|Answer these questions about ecology.
+-|e|What term describes all the populations in an area together?|community
+-|m|What is the term for the place where an organism lives?|habitat
+-|m|What is the term for the role of a species in its ecosystem?|niche
+B|m|Answer these questions about the human nervous system.
+-|e|What organ is the control center of the nervous system?|brain
+-|m|What is the name of the part of a neuron that receives signals?|dendrite;dendrites
+-|m|What is the fatty coating that insulates axons?|myelin;myelin sheath
+B|m|Answer these questions about the human circulatory system.
+-|e|What is the name of the vessels that carry blood away from the heart?|arteries;artery
+-|m|What is the name of the valve between the left atrium and left ventricle, which has two flaps?|bicuspid valve;mitral valve
+-|m|What fluid component of blood contains no cells?|plasma
+B|m|Answer these questions about the human immune system.
+-|e|What are tiny agents, such as viruses and bacteria, that cause disease called?|pathogens;pathogen
+-|m|What is the term for a substance that triggers an immune response?|antigen
+-|m|What type of cell, called killer or helper, matures in the thymus?|T cell;T lymphocyte
+B|m|Answer these questions about evolution.
+-|e|Who proposed the theory of evolution by natural selection?|Charles Darwin;Darwin|n
+-|m|What term describes remains of ancient organisms preserved in rock?|fossils;fossil
+-|m|What term names a trait like the human appendix that has lost its original function?|vestigial structure;vestigial
+B|m|Answer these questions about the digestive system.
+-|e|What organ produces bile for fat digestion?|liver
+-|m|What enzyme in saliva starts the digestion of starch?|amylase;salivary amylase
+-|m|What organ stores bile?|gallbladder
+B|m|Answer these questions about plant structure.
+-|e|What are the tiny openings on a leaf that regulate gas exchange?|stomata;stoma
+-|m|What pair of cells surrounds each stoma?|guard cells
+-|m|What tissue carries sugars through a plant?|phloem
+B|m|Answer these questions about biomolecules.
+-|e|What are the monomers of carbohydrates called, when single sugar units?|monosaccharides;monosaccharide
+-|m|What are the monomers of nucleic acids called?|nucleotides;nucleotide
+-|m|What type of bond links amino acids in a protein?|peptide bond;peptide
+B|m|Answer these questions about membranes and transport.
+-|e|What molecule forms the double layer of the cell membrane?|phospholipid;phospholipids
+-|m|What term describes a solution with a higher solute concentration than a cell?|hypertonic
+-|m|What is the term for the diffusion of a substance through a channel protein?|facilitated diffusion
+B|m|Answer these questions about meiosis.
+-|e|How many cells result from one cell undergoing meiosis?|four;4
+-|m|What process exchanges segments between homologous chromosomes in prophase I?|crossing over
+-|m|What is the term for a cell containing half the usual number of chromosomes?|haploid
+B|m|Answer these questions about Mendelian genetics.
+-|e|What kind of plant did Mendel study?|pea plant;pea;garden pea
+-|m|What is the expected phenotypic ratio from crossing two heterozygotes for a dominant trait?|three to one;3:1;3 to 1
+-|h|What is the term for Mendel's law that alleles separate during gamete formation?|law of segregation;segregation
+B|m|Answer these questions about microbes.
+-|e|What group of single-celled organisms lacks a nucleus and includes Escherichia coli?|bacteria
+-|m|What is the process by which two single-celled prokaryotes transfer DNA through a bridge between them?|conjugation
+-|m|What type of tiny particle needs a host cell to reproduce and is not made of cells?|virus
+B|m|Answer these questions about the endocrine system.
+-|e|What gland is called the master gland, located at the base of the brain?|pituitary gland;pituitary
+-|m|What gland in the neck controls metabolism?|thyroid gland;thyroid
+-|m|What hormone from the adrenal glands prepares the body for fight or flight?|adrenaline;epinephrine
+B|m|Answer these questions about biodiversity and conservation.
+-|e|What is the term for a species with no remaining living members?|extinct
+-|m|What term describes a species at risk of extinction across all of its range?|endangered species;endangered
+-|m|What term describes a species introduced to an area where it does not naturally live?|invasive species;introduced species
+B|m|Answer these questions about biochemistry.
+-|e|What are the catalysts of biological reactions called?|enzymes;enzyme
+-|m|What is the name of the part of an enzyme where the substrate binds?|active site
+-|m|What term describes an enzyme that has lost its shape due to heat or pH change?|denatured
+B|m|Answer these questions about taxonomy.
+-|e|What is the term for the first word in a binomial scientific name?|genus
+-|m|What are the three domains of life?|Bacteria, Archaea, and Eukarya
+-|m|What kingdom includes mushrooms and molds?|Fungi
+e|What type of molecule stores genetic information and includes DNA and RNA?|nucleic acid;nucleic acids
+e|What type of RNA carries the genetic message from the nucleus to the ribosome?|mRNA;messenger RNA
+m|What term describes cells containing a full set of paired chromosomes?|diploid
+m|What is the name of the thin tubes that form the spindle fibers in a dividing cell?|microtubules;microtubule
+m|What part of the cell is the site of the electron transport chain in aerobic respiration?|inner mitochondrial membrane;cristae
+m|What is the name of the compound, NADPH or NADH, that carries electrons?|electron carrier
+m|What term describes organisms that cannot make their own food, like animals?|heterotrophs;heterotroph
+h|What is the name of the enzyme that unzips the DNA double helix at the replication fork?|helicase
+h|What term describes the region at the ends of chromosomes that protects them from deterioration?|telomere;telomeres
+h|What is the name of the process in which a cell engulfs large particles by wrapping its membrane around them?|endocytosis;phagocytosis
+B|m|Answer these questions about animal tissues.
+-|e|What tissue type forms muscles?|muscle tissue
+-|m|What type of tissue includes bone, blood, and cartilage?|connective tissue
+-|m|What type of muscle is found in the heart?|cardiac muscle
+B|m|Answer these questions about the urinary system.
+-|e|What pair of organs filters waste from the blood to form urine?|kidneys;kidney
+-|m|What tube carries urine from the kidney to the bladder?|ureter
+-|m|What hormone from the pituitary helps the kidney retain water?|ADH;antidiuretic hormone
+B|m|Answer these questions about the human skeletal system.
+-|e|What kind of tissue cushions the ends of bones at joints?|cartilage
+-|m|What tough bands connect bone to bone?|ligaments;ligament
+-|m|What is the soft tissue inside bones where blood cells are made?|bone marrow;marrow
+B|m|Answer these questions about the respiratory system.
+-|e|What gas do humans exhale as a waste product of respiration?|carbon dioxide
+-|m|What flap of tissue covers the trachea while swallowing?|epiglottis
+-|m|What are the tiny air sacs where gas exchange occurs in human lungs?|alveoli;alveolus
+B|m|Answer these questions about the cell cycle.
+-|e|What term names the process by which the cytoplasm divides at the end of cell division?|cytokinesis
+-|m|What term describes a cell that has stopped dividing and is in a resting state called G zero?|G0;G zero
+-|h|What group of proteins regulates the cell cycle and is named for rising and falling in concentration?|cyclins;cyclin

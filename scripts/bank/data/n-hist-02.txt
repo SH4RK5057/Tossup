@@ -1,0 +1,138 @@
+# ncal novice | Social Science | World Cultures
+e|What is the name of the day on which Americans honor veterans, November 11?|Veterans Day
+m|Which Indian city is the center of the Bollywood film industry?|Mumbai|Bombay
+m|In which country is the sport of cricket most associated with its origins?|England
+m|Which South African leader became the first Black president after apartheid ended?|Nelson Mandela|Mandela
+m|Which language is the official language of Mexico's southern neighbor, Brazil's western neighbor Peru, and most of South America outside Brazil?|Spanish
+m|What is the main religion of Thailand?|Buddhism
+h|Which Hindu festival marks the victory of good over evil and celebrates the goddess Durga in autumn?|Navaratri|Dussehra;Durga Puja
+h|Which traditional Japanese theater uses masks and slow, stylized movement?|Noh|Noh theater
+h|Which Spanish sword-wielding performance involves a matador and a bull?|bullfighting|corrida
+e|Which religion's followers are called Muslims and read the Quran?|Islam
+e|Which religion's followers are called Christians and follow the teachings of Jesus?|Christianity
+e|Which religion's followers are called Jews and read the Torah?|Judaism
+e|Which religion is based on the teachings of Siddhartha Gautama, who became known as the Buddha?|Buddhism
+e|In which country did the Olympic Games originate in ancient times?|Greece
+e|In which country is the Taj Mahal located?|India
+e|What is the official language of Brazil?|Portuguese
+e|What is the most widely spoken first language in the world?|Mandarin Chinese|Mandarin;Chinese
+e|Which country is the origin of the food sushi?|Japan
+e|Which country is the origin of pizza and pasta?|Italy
+e|In which country is the Eiffel Tower located?|France
+e|Which Jewish holiday is called the Festival of Lights and is celebrated for eight days?|Hanukkah|Chanukah
+e|What is the traditional Japanese garment with wide sleeves, worn with a sash called an obi?|kimono
+e|What is the name of the Mexican celebration on May 5 that marks a victory over France at Puebla?|Cinco de Mayo
+e|What do Americans call the holiday celebrated on the fourth Thursday of November?|Thanksgiving
+e|Which holiday celebrates the birth of Jesus on December 25?|Christmas
+e|What is the name of the large stone circle in England that dates to prehistoric times?|Stonehenge
+e|What continent contains the country of Egypt?|Africa
+e|What is the name of the Christian holiday that celebrates the resurrection of Jesus?|Easter
+e|Which animal is considered sacred in Hinduism and roams freely in many Indian cities?|cow
+e|What is the traditional Scottish musical instrument that uses a bag and pipes?|bagpipes|bagpipe
+m|Which sacred river in India flows through Varanasi and is holy to Hindus?|Ganges|Ganga;Ganges River
+m|In which country is the Hindu festival of Holi, the festival of colors, most widely celebrated?|India
+m|What is the name of the place of worship for Muslims?|mosque
+m|What is the name of the place of worship for Jews?|synagogue
+m|What is the name of the Hindu place of worship?|temple|mandir
+m|What is the name of the Sikh place of worship?|gurdwara
+m|Which city in Saudi Arabia is the holiest city of Islam and the destination of the Hajj pilgrimage?|Mecca
+m|Which tiny independent city-state inside Rome is the home of the Pope?|Vatican City|Vatican
+m|What is the name of the Japanese art of folding paper into shapes like cranes?|origami
+m|What is the traditional Japanese tea ceremony drink made from powdered green tea?|matcha
+m|Which country hosts the annual Carnival festival in Rio de Janeiro?|Brazil
+m|What is the national dance of Argentina, which is danced by couples in a close embrace?|tango
+m|Which Spanish dance involves castanets, stomping, and flowing ruffled dresses?|flamenco
+m|What is the name of the Native American dwelling shaped like a cone and covered in animal skins?|tepee|teepee;tipi
+m|What is the Hawaiian dance that uses hand and hip movements to tell stories?|hula
+m|Which traditional Irish holiday on March 17 honors the country's patron saint?|Saint Patrick's Day|Saint Patricks Day
+m|Which country gave the Statue of Liberty to the United States?|France
+m|What is the name of the Chinese zodiac animal for the year that follows the Year of the Rat?|ox|Year of the Ox;Ox
+m|What is the traditional Indian women's garment that is a long cloth draped around the body?|sari|saree
+m|What is the name of the Indigenous people who built the city of Machu Picchu in Peru?|Inca|Incas
+m|Which ancient people of Mexico built the pyramid at Chichen Itza?|Maya|Mayan;Mayans
+m|What is the German word for "thank you"?|danke|f
+m|What is the name of the continent where the country of Kenya is located?|Africa
+m|What is the name of the traditional Mongolian round tent used by nomads?|yurt|ger;gher
+h|What is the Jewish day of rest that begins at sundown on Friday?|Sabbath|Shabbat
+h|What is the name of the Muslim fasting month that ends with the festival of Eid al-Fitr?|Ramadan
+h|Which Jewish holiday marks the New Year and is celebrated with the blowing of the shofar?|Rosh Hashanah
+h|What is the name of the festival in Munich, Germany, known for beer and held each autumn?|Oktoberfest
+h|What is the traditional Scottish skirt-like garment made of tartan wool?|kilt
+h|Which type of Japanese poem has three lines with five, seven, and five syllables?|haiku
+h|Which Indigenous Australian people have lived on the continent for tens of thousands of years, and are known for the didgeridoo?|Aboriginal Australians|Aboriginal;Aborigines
+h|What is the Maori war dance from New Zealand that is performed by rugby teams before matches?|haka
+h|What is the name of the Hindu god who is the remover of obstacles and has the head of an elephant?|Ganesha|Ganesh
+h|What is the name of the Spanish festival in Pamplona where people run before bulls?|Running of the Bulls|San Fermin
+h|What is the traditional Russian nesting doll set called?|matryoshka|Russian nesting doll
+h|What is the name of the Italian city famous for canals and gondolas?|Venice
+h|What is the name of the Chinese festival celebrated with lanterns on the fifteenth day of the first lunar month?|Lantern Festival
+h|What is the large drum used in Japanese festivals called?|taiko
+h|What name is given to the traditional African cloth woven in bright patterns by the Ashanti of Ghana?|kente|kente cloth
+B|e|Answer these questions about world religions.
+-|e|What is the name of the Christian place of worship led by a pastor or priest?|church
+-|m|What is the holy book of the Jewish religion, whose first five books are the Torah?|Tanakh|Hebrew Bible
+-|h|What is the name of the Hindu belief that a soul is reborn after death?|reincarnation|rebirth
+B|m|Answer these questions about holidays around the world.
+-|e|Which holiday is celebrated each year on January 1?|New Year's Day|New Years Day
+-|m|Which Muslim festival marks the end of Ramadan?|Eid al-Fitr|Eid
+-|h|Which Jewish holiday celebrates the exodus from Egypt with a special meal called a seder?|Passover
+B|e|Answer these questions about world foods.
+-|e|Which country is famous for tacos and burritos?|Mexico
+-|m|Which Asian country is famous for kimchi?|South Korea|Korea
+-|h|Which Middle Eastern food is made from mashed chickpeas and tahini?|hummus
+B|m|Answer these questions about traditional clothing.
+-|e|What kind of shoes are traditionally made of wood and worn in the Netherlands?|wooden shoes|clogs
+-|m|What is the name of the Mexican wide-brimmed hat?|sombrero
+-|h|What loose, brightly patterned dress is traditionally worn in Hawaii?|muumuu
+B|e|Answer these questions about world landmarks.
+-|e|Which tower in Pisa, Italy, is famous for leaning?|Leaning Tower of Pisa|Leaning Tower
+-|m|Which ancient amphitheater in Rome hosted gladiator fights?|Colosseum
+-|h|Which ancient temple on the Acropolis in Athens is dedicated to the goddess Athena?|Parthenon
+B|m|Answer these questions about languages.
+-|e|What language is spoken in most of Spain and Mexico?|Spanish
+-|m|What is the official language of Egypt?|Arabic
+-|h|What language is spoken by the people of Russia and uses the Cyrillic alphabet?|Russian
+B|e|Answer these questions about music and dance traditions.
+-|e|From which country does the dance called the waltz come, with Vienna as a famous center?|Austria
+-|m|Which country is the home of reggae music, with Bob Marley as its best-known artist?|Jamaica
+-|h|Which Brazilian martial art combines dance, acrobatics, and music?|capoeira
+B|m|Answer these questions about Indigenous cultures.
+-|e|What are the original peoples of North America often called?|Native Americans|American Indians;Indigenous peoples
+-|m|Which people of northern Canada, Alaska, and Greenland traditionally built igloos?|Inuit|Eskimo
+-|h|Which Native American nation had a written syllabary invented by Sequoyah?|Cherokee
+B|e|Answer these questions about Asian cultures.
+-|e|What is the Chinese tradition of giving red envelopes with money during Lunar New Year called?|red envelope|hongbao
+-|m|Which Japanese sport features large wrestlers who try to push each other out of a ring?|sumo|sumo wrestling
+-|h|What is the name of the Korean traditional dress with a high waist and a wide skirt?|hanbok
+B|m|Answer these questions about Africa.
+-|e|What is the name of the largest desert in Africa?|Sahara Desert|Sahara
+-|m|Which East African people are known for their red clothing and jumping dance?|Maasai|Masai
+-|h|Which ancient Egyptian writing system used pictures as symbols?|hieroglyphics|hieroglyphs
+B|e|Answer these questions about Europe.
+-|e|In which European country do people celebrate Oktoberfest?|Germany
+-|m|Which European country is home to flamenco dancing and bullfighting?|Spain
+-|h|Which Scandinavian country gave the world the Vikings and has Oslo as its capital?|Norway
+B|m|Answer these questions about the Americas.
+-|e|Which Indigenous civilization of Mexico built the city of Tenochtitlan?|Aztec|Aztecs;Mexica
+-|m|Which South American country is known for the Inca ruins of Machu Picchu?|Peru
+-|h|Which Canadian province is mainly French-speaking?|Quebec
+B|e|Answer these questions about holidays and celebrations.
+-|e|Which holiday celebrated on October 31 involves costumes and trick-or-treating?|Halloween
+-|m|Which Hindu festival of colors involves throwing colored powder?|Holi
+-|h|Which Christian season of forty days precedes Easter?|Lent
+B|m|Answer these questions about South America.
+-|e|Which South American country has the city of Rio de Janeiro?|Brazil
+-|m|Which South American country is known for gauchos and tango, with the capital Buenos Aires?|Argentina
+-|h|Which South American mountain range is home to the Inca civilization?|Andes|Andes Mountains
+B|e|Answer these questions about world cuisine.
+-|e|Which country is famous for the dish paella?|Spain
+-|m|Which Indian bread is cooked in a tandoor oven?|naan
+-|h|Which Italian dish is made from layers of pasta, meat sauce, and cheese?|lasagna
+B|m|Answer these questions about Asia.
+-|e|Which Asian country is home to the Great Wall?|China
+-|m|Which Asian country is known as the Land of the Rising Sun?|Japan
+-|h|Which Himalayan kingdom is known for its Buddhist monasteries and the Bhutanese national policy of Gross National Happiness?|Bhutan
+B|e|Answer these questions about the Middle East.
+-|e|Which city is holy to Jews, Christians, and Muslims and is the capital of Israel?|Jerusalem
+-|m|What is the large desert on the Arabian Peninsula's southern region called?|Rub al Khali|Empty Quarter
+-|h|What is the name of the pilgrimage to Mecca that every able Muslim should perform once?|Hajj

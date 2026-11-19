@@ -1,0 +1,69 @@
+# quizbowl jv | Social Science | Psychology
+m|Bluma Zeigarnik noticed that waiters remembered unpaid orders better than completed ones. That finding led to a namesake effect stating that people remember interrupted or incomplete tasks better than finished ones. Kurt Lewin was her advisor in Berlin. For 10 points, name this effect named for a Lithuanian-born psychologist.|Zeigarnik effect|Zeigarnik;the Zeigarnik effect|
+# quizbowl jv | Social Science | Sociology
+m|This thinker's study of suicide divided it into egoistic, altruistic, anomic and fatalistic types. He called society a reality distinct from individuals, made of "social facts." His books include The Division of Labor in Society and The Elementary Forms of Religious Life. For 10 points, name this French founder of functionalist sociology.|Emile Durkheim|Durkheim|n
+e|This German sociologist wrote The Protestant Ethic and the Spirit of Capitalism. He described the "iron cage" of rationalization and defined the state as holding a monopoly on legitimate violence. For 10 points, name this author of Economy and Society.|Max Weber|Weber|n
+e|This French thinker coined the word "sociology" and proposed the law of three stages: theological, metaphysical and positive. He founded positivism, which holds that society can be studied scientifically. For 10 points, name this man called the father of sociology.|Auguste Comte|Comte|n
+m|This word, from a Greek root meaning "lawlessness," was used by Durkheim for a condition of normlessness in which social rules break down. Robert Merton later borrowed it for his strain theory of deviance. For 10 points, name this state of social instability, often seen in rapid economic upheaval.|anomie|anomy|
+e|This theory, developed from the ideas of George Herbert Mead and Herbert Blumer, holds that people create meaning through everyday face-to-face interactions using symbols such as language. For 10 points, name this micro-level perspective in sociology.|symbolic interactionism|symbolic interactionist;interactionism|
+m|This American sociologist's book The Presentation of Self in Everyday Life compared social interaction to theater, with a "front stage" and "back stage." He also wrote Asylums and Stigma. For 10 points, name this scholar who developed the dramaturgical approach.|Erving Goffman|Goffman|n
+m|Charles Horton Cooley proposed this concept in which a person's self-image develops from imagining how others see and judge them. The term uses a piece of furniture found in a bathroom. For 10 points, name this "glass" concept of self.|looking-glass self|looking glass self|
+e|In this kind of institution, like prisons, boot camps and mental hospitals, inmates are cut off from society and live under formal rules. Erving Goffman gave this name to such places. For 10 points, what term describes an institution that controls all aspects of its residents' lives?|total institution|total institutions|
+m|Robert Merton distinguished two kinds of function: manifest functions, which are intended and recognized, and these, which are unintended and unrecognized. A university's role as a place to meet marriage partners is an example. For 10 points, name this counterpart to manifest functions.|latent functions|latent function;latent|
+e|This German thinker co-wrote The Communist Manifesto with Friedrich Engels. His conflict theory describes class struggle between the bourgeoisie and the proletariat. For 10 points, name this author of Das Kapital.|Karl Marx|Marx|n
+m|Marx used this term for the process by which workers in capitalism become estranged from the products of their labor, from the labor process, from other people and from themselves. For 10 points, name this concept, a word also used for feeling distant or cut off.|alienation|alienated labor|
+h|This sociologist wrote The Philadelphia Negro, an empirical study of a city's Black community. He coined the term "double consciousness" in The Souls of Black Folk and co-founded the NAACP. For 10 points, name this scholar who also edited the journal The Crisis.|W. E. B. Du Bois|Du Bois;DuBois;William Edward Burghardt Du Bois|n=Bois
+m|Howard Becker popularized this theory of deviance, which says that deviance is not an act itself but a label applied by society to a person. Edwin Lemert distinguished primary from secondary deviance within it. For 10 points, name this theory, which says that being tagged an outsider can fuel further deviance.|labeling theory|labelling theory;the labeling theory|
+e|Thorstein Veblen coined this phrase in The Theory of the Leisure Class for lavish spending on goods to display social status, such as luxury cars or designer watches. For 10 points, name this two-word term for showy buying.|conspicuous consumption|
+h|Ferdinand Tonnies contrasted Gemeinschaft with this term for impersonal, contract-based society typical of big cities. The first term means "community." For 10 points, name this German term meaning "society."|Gesellschaft|f
+e|This term refers to the ranking of people in a hierarchy based on wealth, power, and prestige. Caste and class systems are two examples. For 10 points, name this term, taken from the layers of rock in geology.|social stratification|stratification
+m|In a caste system, social position is determined this way, which means a person is born into a status and cannot change it through effort. For 10 points, what term, also used for status inherited from parents, describes such a "ascribed" system?|ascribed status|ascription|
+m|Pierre Bourdieu used this term for non-financial assets like education, taste and manners that help people gain status. He paired it with habitus in studying class reproduction. For 10 points, name this form of "capital," which includes knowing which fork to use at a formal dinner.|cultural capital|
+m|Robert Putnam's book Bowling Alone argued that this resource, consisting of networks, trust and civic participation, had declined in the United States. For 10 points, name this kind of "capital" provided by relationships among people.|social capital|
+m|This author argued in The Sociological Imagination that personal troubles must be linked to public issues and historical context. He also wrote The Power Elite. For 10 points, name this American sociologist, first name C. Wright.|C. Wright Mills|Mills;Charles Wright Mills|n
+e|This American social reformer co-founded Hull House in Chicago, a settlement house that aided immigrants. She shared the 1931 Nobel Peace Prize. For 10 points, name this woman, a pioneer of social work.|Jane Addams|Addams|n
+e|William Graham Sumner coined this word for the belief that one's own culture is superior and the standard for judging others. For 10 points, name this attitude, which differs from cultural relativism.|ethnocentrism|ethnocentric
+m|Sumner also distinguished two kinds of norms: these everyday customs, such as table manners, are not strictly enforced, while the second type has strong moral weight. For 10 points, name these casual customs, a counterpart to mores.|folkways|folkway|
+h|This sociologist's thesis, which holds that "if men define situations as real, they are real in their consequences," is named for him and his wife Dorothy. He co-wrote The Polish Peasant in Europe and America. For 10 points, name this Chicago sociologist, first name William I.|W. I. Thomas|William Isaac Thomas;Thomas|n
+m|George Ritzer applied Weber's idea of rationalization to the fast food industry and coined this term built on the name of a restaurant chain. It stresses efficiency, calculability, predictability and control. For 10 points, name this "process" named for the golden arches.|McDonaldization|McDonaldisation
+e|Edwin Sutherland proposed this theory, which says that people learn criminal behavior from others in intimate groups, along with attitudes favorable to breaking the law. For 10 points, name this theory about learning crime, whose name contrasts with isolation.|differential association|differential association theory
+h|This sociologist, a leader of the Chicago School, studied human ecology and the "marginal man." His collaborator Ernest Burgess proposed the concentric zone model of the city. For 10 points, name this man, first name Robert E.|Robert Park|Robert E. Park;Park|n
+B|m|Answer these questions about classical sociological theorists.
+-|e|Which French thinker wrote Suicide and The Division of Labor in Society?|Emile Durkheim|Durkheim|n
+-|m|Which German wrote The Protestant Ethic and the Spirit of Capitalism?|Max Weber|Weber|n
+-|h|Which German sociologist wrote the essay The Stranger and the book The Philosophy of Money?|Georg Simmel|Simmel|n
+B|m|Answer these questions about sociological concepts of the self.
+-|e|What term names the part of sociology that studies face-to-face interaction using symbols?|symbolic interactionism|interactionism|
+-|m|Which scholar proposed the looking-glass self?|Charles Horton Cooley|Cooley|n
+-|h|Which philosopher of Mind, Self, and Society distinguished the "I" from the "me"?|George Herbert Mead|Mead|n
+B|m|Answer these questions about breaking social norms.
+-|e|What word names behavior that violates the norms of a society?|deviance|deviant behavior|
+-|m|Which sociologist proposed strain theory in his essay Social Structure and Anomie?|Robert Merton|Merton|n
+-|h|Which scholar wrote Outsiders and popularized labeling theory?|Howard Becker|Becker|n
+B|m|Answer these questions about social inequality.
+-|e|What word names a rigid, inherited system of status, as in traditional India?|caste|caste system|
+-|m|Which kind of mobility describes a move up or down within the same generation's careers or class?|social mobility|mobility|
+-|h|Which sociologist coined "cultural capital"?|Pierre Bourdieu|Bourdieu|n
+B|m|Answer these questions about early American urban sociology.
+-|e|In which Illinois city was this early American school of sociology based?|Chicago|
+-|m|Which settlement house in that city was founded by Jane Addams?|Hull House|Hull-House|
+-|h|Which model of the city by Ernest Burgess divides it into rings around a central business district?|concentric zone model|concentric zones|
+B|m|Answer these questions about norms and culture.
+-|e|What belief that one's own culture is superior is called by this term?|ethnocentrism|
+-|m|What term names casually enforced customs, such as manners, in Sumner's classification?|folkways|
+-|h|What term names norms with strong moral significance, whose violation brings serious punishment?|mores|
+B|m|Answer these questions about Karl Marx.
+-|e|Which two economic classes did Marx say were in conflict under capitalism? Give either one.|bourgeoisie;proletariat|capitalists;workers
+-|m|What term names the Marxian concept of workers' estrangement from their labor?|alienation|
+-|h|What term did Marx use for the ownership of factories and tools?|means of production|the means of production|
+B|m|Answer these questions about founders of sociology.
+-|e|Who coined the word "sociology"?|Auguste Comte|Comte|n
+-|m|Which American scholar wrote Middletown with his wife Helen, a study of Muncie, Indiana?|Robert Lynd|Lynd|n
+-|h|Which sociologist wrote The Souls of Black Folk and coined "double consciousness"?|W. E. B. Du Bois|Du Bois;DuBois|n=Bois
+
+e|Max Weber, Karl Marx and Emile Durkheim are often called the three founders of this field. It studies human society, social relationships and institutions. For 10 points, name this social science, a word coined by Auguste Comte.|sociology|ok
+e|This term refers to the process by which people learn the norms, values and behaviors of their society, through family, schools and peers. For 10 points, name this lifelong process of social learning.|socialization|socialisation
+e|In this research method, a sociologist studies a group by living among its members and taking part in their activities. It is also widely used by anthropologists. For 10 points, name this method of fieldwork, called participant observation.|ethnography|participant observation;ethnographic fieldwork
+e|These groups, such as family and close friends, involve intimate, face-to-face relationships and strong emotional ties. Charles Horton Cooley named them. For 10 points, what term describes these small, intimate groups that contrast with secondary groups?|primary groups|primary group
+h|Georg Simmel wrote an essay about this figure, someone who arrives today and stays tomorrow, combining nearness and remoteness. He also wrote about the metropolis and mental life. For 10 points, name this outsider type who is both in and out of a group.|the stranger|stranger
+h|This author's Street Corner Society was a participant-observation study of Italian-American men in Boston's North End. He spent years living in the neighborhood he described. For 10 points, name this sociologist, first name William Foote.|William Foote Whyte|Whyte|n

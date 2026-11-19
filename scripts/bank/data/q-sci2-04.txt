@@ -1,0 +1,63 @@
+# quizbowl novice | Science | Computer Science
+e|This is a step-by-step set of instructions for solving a problem or completing a task. A recipe is a familiar everyday example of one. Programmers measure how efficient these are by how their running time grows with input size. For 10 points, name this term for a precise procedure, whose name derives from al-Khwarizmi.|Algorithm|Algorithms
+e|Place values in this number system are powers of two, so the decimal number 5 is written as 101. Logic gates in processors operate on its digits. Its two symbols are often represented as true and false. For 10 points, name this number system that uses only 0 and 1.|Binary|Binary number system;Base two;Base 2
+e|This is a group of eight bits. It is the usual unit for storing a single character of text. A kilo- version of this unit is about a thousand of them. For 10 points, name this unit of digital information.|Byte|Bytes
+e|This popular programming language was created by Guido van Rossum and named for a British comedy group. It is known for readable code that uses indentation to mark blocks. It is widely used in data science and teaching. For 10 points, name this language, not a snake.|Python
+e|This is the markup language used to structure web pages. It uses tags such as paragraph and heading elements. Cascading Style Sheets are used with it to control appearance. For 10 points, give the four-letter acronym for this language, written by Tim Berners-Lee for hypertext documents.|HTML|HyperText Markup Language
+e|This is the global network of networks that links billions of computers. It grew out of ARPANET, a project funded by the United States Department of Defense. Email and the World Wide Web both run on it. For 10 points, name this network.|Internet|The Internet
+e|In programming, this structure repeats a block of code until a condition is met or for a set number of times. For and while are common kinds. Without a way to stop it, one of these can run forever. For 10 points, name this structure.|Loop|Loops;For loop;While loop
+e|Often called the "brain" of the computer, this component executes program instructions. Its speed is measured in gigahertz, and Intel and AMD make many models. It carries out the fetch, decode, and execute cycle. For 10 points, name this component, abbreviated CPU.|CPU|Central processing unit;Processor;Central Processing Unit
+e|This is the temporary memory a computer uses to store data and programs currently in use. Its contents are lost when the power is turned off. Adding more of it can help a computer run multiple programs. For 10 points, name this kind of memory, abbreviated RAM.|RAM|Random access memory;Random Access Memory
+e|Windows, macOS, and Android are examples of this type of software. It manages hardware, runs applications, and provides a user interface. Without it, a computer cannot run programs like word processors. For 10 points, name this system software, abbreviated OS.|Operating system|OS;Operating systems
+e|This is the smallest controllable element of a picture on a digital screen. A typical image is made up of a grid of thousands or millions of them. The word is a blend of "picture" and "element." For 10 points, name this unit.|Pixel|Pixels
+e|Chrome, Firefox, and Safari are examples of this type of software. It retrieves web pages from servers and displays them. Users type addresses into its address bar. For 10 points, name this kind of program used to surf the web.|Web browser|Browser
+m|This English mathematician proposed the Turing machine and helped break the German Enigma code during World War II. A famous test of machine intelligence is named for him, and the Association for Computing Machinery's highest award bears his name. For 10 points, name this man.|Alan Turing|Turing|n
+m|This woman, a daughter of Lord Byron, wrote notes on Charles Babbage's Analytical Engine that include a method for calculating Bernoulli numbers. She is often called an early computer programmer. For 10 points, name this English mathematician.|Ada Lovelace|Lovelace;Augusta Ada King|n
+m|This British scientist invented the World Wide Web in 1989 while working at CERN. He wrote the first web browser and server. He proposed HTTP and URLs. For 10 points, name this computer scientist, whose name includes "Berners."|Tim Berners-Lee|Berners-Lee|n=Berners-Lee
+m|This American rear admiral and computer scientist developed the first compiler and helped create COBOL. She is associated with the story of a moth found in the Harvard Mark II. For 10 points, name this woman, nicknamed "Amazing Grace."|Grace Hopper|Hopper|n
+m|This English mathematician designed the Difference Engine and the Analytical Engine. He is sometimes called the "father of the computer" even though his machines were never completed in his lifetime. Ada Lovelace worked with him. For 10 points, name this inventor.|Charles Babbage|Babbage|n
+m|This is a free, open-source operating system kernel created by Linus Torvalds in 1991. It powers Android phones, most web servers, and supercomputers. Its mascot is a penguin named Tux. For 10 points, name this operating system kernel.|Linux
+m|This is a data structure that stores a collection of items in numbered positions. Most languages start counting positions at zero. Elements are accessed by their index. For 10 points, name this basic structure, a list of values of the same type.|Array|Arrays;List
+m|This type of program translates source code written in a language like C into machine code that a processor can run. Grace Hopper wrote an early one. It differs from an interpreter, which runs code line by line. For 10 points, name this program.|Compiler|Compilers
+m|This is an organized collection of structured data, typically managed with software and queried with SQL. Banks, libraries, and online stores use them to store records. For 10 points, name this system, where tables hold rows and columns.|Database|Databases;Relational database
+m|This is a type of harmful software designed to damage or gain unauthorized access to computers. Viruses, worms, ransomware, and spyware are all kinds. Antivirus programs try to detect it. For 10 points, name this category of software.|Malware|Malicious software
+m|This security system monitors and controls network traffic based on rules and can block unauthorized connections. It may be hardware or software. Its name comes from a wall that stops the spread of a blaze. For 10 points, name this protective system.|Firewall|Firewalls
+m|The scientist Douglas Engelbart demonstrated this pointing device in 1968 in a presentation later called "The Mother of All Demos." It moves a cursor on screen and has buttons that you click. For 10 points, name this input device whose name comes from a small rodent.|Computer mouse|Mouse
+h|This is a numeric label, such as 192.168.1.1, that identifies a device on a network. Versions 4 and 6 are the main formats. Routers use it to deliver packets. For 10 points, name this address.|IP address|Internet Protocol address;IP
+h|This is a data type with only two possible values, true and false. It is named for an English mathematician who developed a system of algebraic logic in 1854. AND, OR, and NOT are operations on it. For 10 points, give this term, named for a nineteenth-century mathematician from Lincoln, England.|Boolean|Boolean value;Boolean algebra;Boolean logic
+h|This standard assigns numbers to letters and symbols; for example, 65 stands for uppercase A. It uses 7 bits to represent 128 characters. Unicode extended it to cover many more scripts. For 10 points, name this character encoding standard.|ASCII|American Standard Code for Information Interchange
+h|This observation made by a co-founder of Intel in 1965 states that the number of transistors on a chip roughly doubles about every two years. It has guided the semiconductor industry for decades. For 10 points, name this "law" named for Gordon.|Moore's law|Moores law
+h|This technique has a function call itself on a smaller version of the same problem until reaching a base case. Computing a factorial and traversing a tree are standard examples. For 10 points, name this programming technique, a joke about which is that you must first understand it.|Recursion
+h|This model of computing delivers services like storage and software over the internet from remote data centers rather than from a local machine. Amazon Web Services and Microsoft Azure are major providers. For 10 points, name this model, symbolized by a fluffy weather feature.|Cloud computing|The cloud;Cloud
+B|e|Answer these questions about the parts of a computer.
+-|e|What permanent storage device inside many computers holds files on spinning platters or flash memory?|Hard drive|Hard disk drive;Hard disk;Solid-state drive
+-|m|What is the main circuit board that connects the CPU, memory, and other components?|Motherboard|Mainboard
+-|h|What does the abbreviation GPU stand for, a chip that is specialized for rendering images?|Graphics processing unit
+B|m|Answer these questions about programming languages.
+-|e|What block-based visual language, developed at MIT, is widely used to teach children to code?|Scratch
+-|m|What language, with a name that misleadingly suggests a coffee drink, adds interactivity to web pages?|JavaScript
+-|h|What object-oriented language, released by Sun Microsystems in 1995, is symbolized by a coffee cup?|Java
+B|e|Answer these questions about the web.
+-|e|What three-letter acronym names the address of a web page, such as one beginning with https?|Uniform Resource Locator|URL;Web address
+-|m|What symbol separates the username from the domain in an email address?|At sign|At symbol;Commercial at
+-|h|What protocol, abbreviated HTTPS, adds encryption to web traffic? Give the missing word that "S" represents.|Secure
+B|m|Answer these questions about data representation.
+-|e|How many bits are in one byte?|8|Eight|m
+-|m|What is the number base used in the binary system?|2|Two|m
+-|h|What number system, with digits 0 to 9 and letters A to F, is commonly used to write colors and memory addresses?|Hexadecimal|Base 16;Hex
+B|m|Answer these questions about technology companies and their founders.
+-|e|Which co-founder of Apple introduced the iPhone in 2007?|Steve Jobs|Jobs|n
+-|m|Which co-founder of Microsoft, with Paul Allen, started the company in 1975?|Bill Gates|Gates|n
+-|h|Which Harvard student co-founded Facebook in 2004?|Mark Zuckerberg|Zuckerberg|n
+B|e|Answer these questions about programming concepts.
+-|e|What name is given to a named container that stores a value in a program?|Variable
+-|m|What kind of statement runs code only if a condition is true, as in "if x is greater than 5"?|Conditional|If statement;Conditional statement;If
+-|h|What is the name for a reusable block of code that can be called by name and may return a value?|Function|Method;Subroutine;Procedure
+B|m|Answer these questions about computer security.
+-|e|What term describes fraudulent emails that trick people into giving up passwords?|Phishing
+-|m|What is the process of scrambling data so that only someone with a key can read it?|Encryption
+-|h|What type of malware secretly gathers information about a user's activity?|Spyware
+B|h|Answer these questions about the history of computing.
+-|e|What electronic computer, completed in 1945 at the University of Pennsylvania, was designed to compute artillery tables?|ENIAC
+-|m|What small semiconductor device replaced the vacuum tube in computers?|Transistor
+-|h|What early textile machine used punched cards to control weaving patterns, inspiring later computers?|Jacquard loom|Jacquard

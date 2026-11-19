@@ -1,0 +1,109 @@
+# ncal varsity | English | English Literature
+e|Who wrote "Great Expectations"?|Charles Dickens|Dickens|n
+e|In "Great Expectations," what is the name of the orphan who rises to the status of gentleman?|Pip|Philip Pirrip
+e|Who wrote "Jane Eyre"?|Charlotte Bronte|Brontë;Bronte|n
+e|Who wrote "Wuthering Heights"?|Emily Bronte|Brontë;Bronte|n=Bronte
+e|Who wrote "Frankenstein"?|Mary Shelley|Shelley|n
+e|Who wrote the novella about a London doctor and his evil alter ego, Hyde?|Robert Louis Stevenson|Stevenson|n
+e|Who wrote "Treasure Island"?|Robert Louis Stevenson|Stevenson|n
+e|Who wrote "A Christmas Carol"?|Charles Dickens|Dickens|n
+e|What is the first name of the miserly main character of "A Christmas Carol," whose last name is Scrooge?|Ebenezer
+e|Who wrote the play "Hamlet"?|William Shakespeare|Shakespeare|n
+e|Who wrote the play "Romeo and Juliet"?|William Shakespeare|Shakespeare|n
+e|Who wrote "Gulliver's Travels"?|Jonathan Swift|Swift|n
+e|Who wrote "Robinson Crusoe"?|Daniel Defoe|Defoe|n
+e|Who wrote "Paradise Lost"?|John Milton|Milton|n
+e|Who wrote "The Canterbury Tales"?|Geoffrey Chaucer|Chaucer|n
+e|Who wrote "Brave New World"?|Aldous Huxley|Huxley|n
+e|Who wrote "Lord of the Flies"?|William Golding|Golding|n
+e|Who wrote "The Hobbit"?|J. R. R. Tolkien|Tolkien|n
+e|Who wrote "Alice's Adventures in Wonderland"?|Lewis Carroll|Carroll;Charles Dodgson|n
+e|Who wrote "The Picture of Dorian Gray"?|Oscar Wilde|Wilde|n
+e|Who wrote "Dracula"?|Bram Stoker|Stoker|n
+e|Who wrote "The Importance of Being Earnest"?|Oscar Wilde|Wilde|n
+e|Who wrote "Sense and Sensibility"?|Jane Austen|Austen|n
+e|Who wrote "The Time Machine"?|H. G. Wells|Wells|n
+e|Who wrote "The War of the Worlds"?|H. G. Wells|Wells|n
+e|Who wrote "Peter Pan"?|J. M. Barrie|Barrie|n
+e|Who wrote "The Wind in the Willows"?|Kenneth Grahame|Grahame|n
+e|Who wrote the "Sherlock Holmes" stories?|Arthur Conan Doyle|Doyle;Conan Doyle|n=Doyle
+e|What is the name of the doctor who narrates most Sherlock Holmes stories?|Doctor Watson|Watson;John Watson|n
+e|In "Macbeth," which three characters make prophecies to Macbeth?|the witches|three witches;the weird sisters;weird sisters;witches
+e|Who wrote "Animal Farm"?|George Orwell|Orwell|n
+e|Who wrote "Tess of the d'Urbervilles"?|Thomas Hardy|Hardy|n
+e|Who wrote "Heart of Darkness"?|Joseph Conrad|Conrad|n
+e|Who wrote the novel about a single day in the life of Clarissa Dalloway?|Virginia Woolf|Woolf|n
+e|Who wrote "Beowulf"?|unknown|anonymous;Beowulf poet;the Beowulf poet;no one;unknown author
+e|Who wrote "Sir Gawain and the Green Knight"?|unknown|anonymous;the Pearl Poet;Pearl Poet;Gawain poet
+m|In "Pride and Prejudice," who is the proud wealthy man who proposes to Elizabeth Bennet?|Darcy|Fitzwilliam Darcy;Mister Darcy;Mr Darcy|n
+m|Which Austen novel features the matchmaking Emma Woodhouse?|Emma||ok
+m|Which Austen novel features Anne Elliot and Captain Wentworth?|Persuasion
+m|Which Austen novel is set partly in Bath and features the heroine Catherine Morland?|Northanger Abbey
+m|In "Jane Eyre," which house is the home of Edward Rochester?|Thornfield Hall|Thornfield
+m|In "Jane Eyre," what is secretly held in the attic of Thornfield Hall?|Rochester's first wife|Bertha Mason;Bertha;Rochester's mad wife
+m|In "Wuthering Heights," what is the name of the brooding foundling who loves Catherine Earnshaw?|Heathcliff|n
+m|In "Frankenstein," which character, a scientist, creates the monster?|Victor Frankenstein|Victor|part
+m|In "Frankenstein," what is the profession of Robert Walton, who narrates the frame story?|sea captain|ship captain;captain;explorer
+m|In "Oliver Twist," what is the name of the leader of the band of pickpockets?|Fagin|n
+m|In "Great Expectations," what is the name of the jilted woman who wears her wedding dress for decades?|Miss Havisham|Havisham|n
+m|In "Great Expectations," what is the name of the girl Miss Havisham raises?|Estella|n
+m|In "David Copperfield," which clerk is the perpetually "umble" villain?|Uriah Heep|Heep|n
+m|In "A Tale of Two Cities," which character sacrifices himself, saying it is a far, far better thing he does?|Sydney Carton|Carton|n
+m|In "Hamlet," what is the name of Hamlet's mother?|Gertrude|n
+m|In "Hamlet," which uncle kills the king and marries the queen?|Claudius|n
+m|In "Hamlet," which young woman goes mad and drowns?|Ophelia|n
+m|In "Macbeth," who urges her husband to kill King Duncan?|Lady Macbeth|n=Macbeth
+m|In "Romeo and Juliet," what is the name of Romeo's cousin and friend who is killed by Tybalt's rival?|Mercutio|n
+m|In "Othello," which villain schemes against the title character?|Iago|n
+m|In "King Lear," which of Lear's three daughters is faithful and refuses to flatter him?|Cordelia|n
+m|In "Julius Caesar," who delivers the speech that begins "Friends, Romans, countrymen"?|Mark Antony|Antony|n
+m|In "A Midsummer Night's Dream," which mischievous fairy puts a love potion in the lovers' eyes?|Puck|Robin Goodfellow
+m|In "The Tempest," what is the name of the island's rightful duke who uses magic?|Prospero|n
+m|In "The Merchant of Venice," which moneylender demands a pound of flesh?|Shylock|n
+m|Which Shakespeare play features the characters Beatrice and Benedick?|Much Ado About Nothing
+m|Which poet wrote "The Rime of the Ancient Mariner"?|Samuel Taylor Coleridge|Coleridge|n
+m|Which poet wrote "Ozymandias"?|Percy Bysshe Shelley|Shelley|n
+m|Which poet wrote "Ode to a Nightingale"?|John Keats|Keats|n
+m|Which poet wrote "I Wandered Lonely as a Cloud"?|William Wordsworth|Wordsworth|n
+m|Which poet wrote "Don Juan" and "Childe Harold's Pilgrimage"?|Lord Byron|Byron|n
+m|Which poet wrote "The Charge of the Light Brigade"?|Alfred Lord Tennyson|Tennyson|n
+m|Which poet wrote "My Last Duchess"?|Robert Browning|Browning|n
+m|Which Victorian poet wrote "Sonnets from the Portuguese"?|Elizabeth Barrett Browning|Barrett Browning|n=Browning
+m|Which poet wrote "The Waste Land"?|T. S. Eliot|Eliot|n
+m|Which poet wrote "Do not go gentle into that good night"?|Dylan Thomas|Thomas|n
+m|Which English poet wrote "Dulce et Decorum Est" about World War I?|Wilfred Owen|Owen|n
+m|Which poet wrote "The Rape of the Lock"?|Alexander Pope|Pope|n
+m|Which English poet wrote the sonnet "Death, be not proud"?|John Donne|Donne|n
+m|Which poet wrote the epic "The Faerie Queene"?|Edmund Spenser|Spenser|n
+m|Which poet wrote "Tyger Tyger, burning bright"?|William Blake|Blake|n
+m|Which Dickens novel features the Cratchit family, including Tiny Tim?|A Christmas Carol
+m|Which Thomas Hardy novel is set in the fictional region of Wessex and features Bathsheba Everdene?|Far from the Madding Crowd
+m|Which novel by George Eliot features the Dorothea Brooke?|Middlemarch
+m|Which novel by George Eliot features Maggie Tulliver?|The Mill on the Floss|Mill on the Floss
+m|Which novel by Daniel Defoe follows a prostitute turned thief, Moll?|Moll Flanders
+m|Which Victorian author created the character Becky Sharp in "Vanity Fair"?|William Makepeace Thackeray|Thackeray|n
+m|Which Joseph Conrad novel features the sailor Marlow traveling up the Congo?|Heart of Darkness
+m|Which novelist wrote "To the Lighthouse"?|Virginia Woolf|Woolf|n
+m|Which author wrote "A Passage to India"?|E. M. Forster|Forster|n
+m|Which author wrote "Brideshead Revisited"?|Evelyn Waugh|Waugh|n
+m|Which author wrote "Lord Jim"?|Joseph Conrad|Conrad|n
+m|Which novelist wrote "Howards End"?|E. M. Forster|Forster|n
+h|Which author wrote "Tristram Shandy"?|Laurence Sterne|Sterne|n
+h|Which author wrote "Tom Jones"?|Henry Fielding|Fielding|n
+h|Which author wrote "Pamela" and "Clarissa"?|Samuel Richardson|Richardson|n
+h|Which author wrote "Barchester Towers"?|Anthony Trollope|Trollope|n
+h|Which author wrote "The Moonstone," an early detective novel?|Wilkie Collins|Collins|n
+h|Which author wrote "The Woman in White"?|Wilkie Collins|Collins|n
+h|Which author wrote "Jude the Obscure"?|Thomas Hardy|Hardy|n
+h|Which author wrote "Mansfield Park"?|Jane Austen|Austen|n
+h|Which author wrote "Nineteen Eighty-Four" and "Homage to Catalonia"?|George Orwell|Orwell|n
+h|Which poet wrote "In Memoriam A. H. H."?|Alfred Lord Tennyson|Tennyson|n
+h|Which poet wrote "Dover Beach"?|Matthew Arnold|Arnold|n
+h|Which poet wrote "Goblin Market"?|Christina Rossetti|Rossetti|n
+h|Which poet wrote "Lycidas" and "Samson Agonistes"?|John Milton|Milton|n
+h|Which author wrote the novel "Lucky Jim"?|Kingsley Amis|Amis|n
+h|Which author wrote "The Remains of the Day"?|Kazuo Ishiguro|Ishiguro|n
+h|Which author wrote "Vanity Fair" subtitled "A Novel without a Hero"?|William Makepeace Thackeray|Thackeray|n
+h|Which author wrote "Pygmalion" and "Major Barbara"?|George Bernard Shaw|Shaw|n
+h|Which playwright wrote "Waiting for Godot"?|Samuel Beckett|Beckett|n
+h|Which playwright wrote "The Birthday Party" and "The Caretaker"?|Harold Pinter|Pinter|n

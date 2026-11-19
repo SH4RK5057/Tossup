@@ -1,0 +1,63 @@
+# quizbowl novice | Science | Chemistry
+e|This element has atomic number 1 and is the lightest and most abundant element in the universe. Two atoms of it bond with one of oxygen to form water. For 10 points, name this element with the symbol H.|hydrogen
+e|This noble gas is used to fill balloons because it is lighter than air and does not burn. It is the second lightest element and has atomic number 2. For 10 points, name this gas, which makes a person's voice squeaky when inhaled.|helium
+e|This scale runs from 0 to 14 and measures how acidic or basic a solution is. Pure water sits at 7 on it, lemon juice is far lower, and household bleach is far higher. Litmus paper and universal indicator are used to estimate readings on it. For 10 points, name this scale.|pH scale|pH
+e|The three states of matter most often seen on Earth are solid, liquid, and this one. Particles of it are far apart, move quickly, and fill any container. For 10 points, name this state of matter that includes air.|gas
+e|In this kind of bond, two atoms share pairs of electrons. Water molecules and methane molecules are held together by it. For 10 points, name this type of bond, contrasted with the ionic type.|covalent bond|covalent
+e|This is the smallest particle of an element that still has the properties of that element. It has a nucleus of protons and neutrons surrounded by electrons. For 10 points, name this basic unit of matter.|atom
+e|Table salt, whose formula is NaCl, is made of sodium and this other element. This yellow-green gas is a poisonous halogen with atomic number 17. It is added in small amounts to swimming pools and drinking water to kill germs. For 10 points, name this element.|chlorine
+e|This is the process in which a solid turns directly into a gas without becoming a liquid first. Dry ice does this at room temperature, and so does snow on a cold, dry, sunny day. The reverse process is called deposition. For 10 points, name this change of state.|sublimation
+e|This metal is liquid at room temperature and was once used in thermometers. Its symbol Hg comes from a Latin name meaning "liquid silver." For 10 points, name this element, also called quicksilver.|mercury
+e|This is the name for a substance made of two or more different elements chemically bonded in a fixed ratio. Water and carbon dioxide are examples. For 10 points, give this term, contrasted with a mixture.|compound
+e|Atoms of the same element that have different numbers of neutrons are called these. They have the same atomic number but different mass numbers. Carbon-12 and carbon-14 are examples, and the latter is used in dating ancient objects. For 10 points, name these variants of an element.|isotopes|isotope
+m|Dmitri Mendeleev arranged elements by increasing atomic mass in the first widely accepted version of this chart. He left gaps for elements that had not yet been discovered. For 10 points, name this chart whose columns are called groups.|periodic table
+m|This type of reaction gives off heat to its surroundings, making the surroundings warmer. Burning wood is an example. For 10 points, name this kind of reaction, the opposite of endothermic.|exothermic reaction|exothermic
+m|This number is the count of protons in the nucleus of an atom. It identifies the element and sets the order of the modern periodic table. For 10 points, name this number, symbolized Z.|atomic number
+m|The elements in Group 18 of the periodic table are known by this name. They have full outer electron shells, so they rarely react. Helium, neon, and argon belong to this group. For 10 points, give this name.|noble gases|inert gases;noble gas
+m|The compound with the formula H2SO4 is an example of this type of substance. Such substances taste sour, turn blue litmus paper red, and release hydrogen ions in water. For 10 points, name this type of substance, which reacts with bases.|acid|acids
+m|Positively charged ions of this type are formed when an atom loses electrons. Sodium becomes one by losing a single electron. For 10 points, name these ions, which are attracted to the cathode.|cations|cation
+m|This metal is the main component of steel and has the symbol Fe. It rusts when it reacts with oxygen and water. Hemoglobin in your blood contains atoms of this element at the center of its heme groups. For 10 points, name this element with atomic number 26.|iron
+m|In this type of mixture, one substance is evenly dissolved in another, such as salt in water. The dissolved substance is called the solute. For 10 points, name this kind of homogeneous mixture.|solution
+m|This number, about 6.02 times 10 to the 23rd, is the number of particles in one mole of a substance. It lets chemists convert between the mass of a sample and the count of its atoms or molecules. It is named for an Italian scientist. For 10 points, name this constant.|Avogadro's number|Avogadro's constant;Avogadro number;Avogadro constant;Avogadro
+m|This gas makes up about 78 percent of Earth's atmosphere. It has the symbol N2, and its two atoms are joined by a very strong triple bond. It is used to make fertilizers and ammonia, and liquefied forms of it are used as a coolant. For 10 points, name this element with atomic number 7.|nitrogen
+m|The Law of Conservation says that this quantity is neither created nor destroyed in a chemical reaction, so a balanced equation has the same total of it on both sides. Antoine Lavoisier established this law. It is measured in grams or kilograms. For 10 points, name this quantity, which is different from weight.|mass
+h|This scientist proposed a model of the atom in 1913 in which electrons orbit the nucleus in fixed energy levels. Later quantum models replaced it. For 10 points, name this Danish physicist.|Niels Bohr|Bohr|n
+h|This rule says that atoms tend to gain, lose, or share electrons until they have eight electrons in their outermost shell. It explains why sodium forms Na plus and chlorine forms Cl minus. For 10 points, name this rule.|octet rule|rule of eight
+h|These organic compounds, such as methane, ethane, and propane, contain only carbon and hydrogen. Fossil fuels such as natural gas are mostly made of them. For 10 points, name these compounds.|hydrocarbons|hydrocarbon
+h|This law relates the pressure and volume of a gas at constant temperature, showing that they are inversely proportional. It is named for an Anglo-Irish chemist. For 10 points, name this gas law.|Boyle's law|Boyle
+h|In 1869 this Russian chemist published a periodic table and predicted properties of undiscovered elements such as germanium. For 10 points, name this scientist who created a famous periodic table.|Dmitri Mendeleev|Mendeleev|n
+h|This process is used to separate the components of a liquid mixture by their different boiling points. The vapor is cooled and condensed in a condenser. For 10 points, name this separation technique used to purify water and refine crude oil.|distillation
+h|This is the term for the weighted average of the masses of an element's naturally occurring isotopes, measured in unified units. It appears under each element's symbol on the periodic table and is usually not a whole number. For 10 points, give this term.|average atomic mass|atomic weight;relative atomic mass
+h|A catalyst speeds up a reaction by lowering this quantity, the minimum energy that colliding particles need in order to react. On a reaction energy diagram it is the height of the hill between reactants and products. It is symbolized Ea. For 10 points, name this energy barrier.|activation energy
+B|m|Answer these questions about the periodic table.
+-|e|What element has the chemical symbol Ag and is used in jewelry and silverware?|silver
+-|m|What name is given to the Group 1 elements such as lithium, sodium, and potassium?|alkali metals|alkali metal
+-|h|What name is given to the Group 17 elements such as fluorine and iodine?|halogens|halogen
+B|m|Answer these questions about states of matter and changes of state.
+-|e|What is the term for the change from liquid to gas that happens at 100 degrees Celsius for pure water at sea level?|boiling|vaporization;evaporation
+-|m|What change of state occurs when a gas turns into a liquid?|condensation
+-|h|What fourth state of matter, made of ionized gas, makes up the Sun?|plasma
+B|m|Answer these questions about chemical bonds.
+-|e|What is the formula for water?|H2O
+-|m|What type of bond forms when electrons are transferred from a metal to a nonmetal?|ionic bond|ionic
+-|h|What type of bond, found in copper and iron, involves a sea of shared electrons?|metallic bond|metallic
+B|m|Answer these questions about acids and bases.
+-|e|What pH value is neutral?|7|seven|m
+-|m|What kind of indicator, made from lichens, turns red in acid and blue in base?|litmus|litmus paper
+-|h|What type of reaction occurs when an acid and base react to form a salt and water?|neutralization|neutralization reaction
+B|m|Answer these questions about the parts of the atom.
+-|e|What positively charged particles are found in the nucleus of an atom?|protons|proton
+-|m|What subatomic particles have no charge and are found in the nucleus?|neutrons|neutron
+-|h|What English physicist discovered the electron in 1897?|J. J. Thomson|Thomson;Joseph John Thomson|n
+B|m|Answer these questions about laboratory measurement and safety.
+-|e|What piece of glassware, marked in milliliters, is used to measure volume of a liquid?|graduated cylinder|cylinder
+-|m|What unit is used to measure the amount of a substance in chemistry?|mole|mol
+-|h|What lab burner, named for a German chemist, produces an adjustable gas flame?|Bunsen burner|burner
+B|m|Answer these questions about common compounds.
+-|e|What is the common name for the compound sodium chloride?|table salt|salt
+-|m|Which gas with two oxygen atoms bonded to one carbon is exhaled by humans and used by plants?|carbon dioxide|CO2
+-|h|What gas, with formula NH3, has a sharp smell and is used in cleaning products and fertilizers?|ammonia
+B|m|Answer these questions about chemical reactions.
+-|e|What term names the starting substances in a chemical reaction?|reactants|reactant
+-|m|What term names the substances formed in a chemical reaction?|products|product
+-|h|What name is given to a substance that speeds up a reaction without being consumed?|catalyst

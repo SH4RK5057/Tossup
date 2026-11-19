@@ -1,0 +1,63 @@
+# quizbowl varsity | Social Science | Political Science
+h|This American philosopher's A Theory of Justice proposed that principles of justice would be chosen by people behind a "veil of ignorance," not knowing their own place in society. His two principles include the difference principle. For 10 points, name this Harvard philosopher, first name John.|John Rawls|Rawls|n
+m|This Irish-born British statesman's Reflections on the Revolution in France criticized the French Revolution and defended tradition and gradual reform. He is often considered a founder of modern conservatism. For 10 points, name this man, first name Edmund.|Edmund Burke|Burke|n
+h|In his essay "Perpetual Peace," this German philosopher argued that republican constitutions, federations of free states and universal hospitality could end war. This idea inspired democratic peace theory. For 10 points, name this author of Critique of Pure Reason.|Immanuel Kant|Kant|n
+e|In this 1992 book, Francis Fukuyama argued that liberal democracy might be the endpoint of humanity's ideological evolution. It expanded an essay with a similar title. For 10 points, name this book, whose title also names a "last man."|The End of History and the Last Man|End of History
+h|Anthony Downs's An Economic Theory of Democracy popularized this theorem, which states that in a one-dimensional policy space, majority-rule outcomes converge on the preferences of the voter in the center. For 10 points, name this theorem about the typical voter.|median voter theorem|median voter
+h|This political scientist's The Logic of Collective Action argued that large groups face a free-rider problem and that small groups or selective incentives organize more easily. For 10 points, name this author, first name Mancur.|Mancur Olson|Olson|n
+h|Kenneth Waltz's Theory of International Politics founded this school, which argues that the structure of the international system, not human nature, explains state behavior. It is also called structural realism. For 10 points, name this theory.|neorealism|structural realism
+m|This University of Chicago professor's The Tragedy of Great Power Politics defended offensive realism, claiming that states maximize relative power. For 10 points, name this author, first name John.|John Mearsheimer|Mearsheimer|n
+h|This Yale political scientist coined the term "polyarchy" for real-world democracies in works such as Who Governs? and A Preface to Democratic Theory. He studied New Haven. For 10 points, name this author, first name Robert.|Robert Dahl|Dahl|n
+h|Arend Lijphart's work on this form of democracy, found in places such as Belgium and Switzerland, stresses power sharing among social segments through grand coalitions and mutual vetoes. For 10 points, name this type of power-sharing democracy.|consociational democracy|consociationalism;consociational
+m|This 1962 Supreme Court case, from Tennessee, held that federal courts could hear challenges to legislative malapportionment, leading to "one person, one vote." For 10 points, name this case against a Tennessee Secretary of State.|Baker v. Carr|Baker versus Carr
+m|In this 1964 Supreme Court case, Justice Hugo Black wrote that congressional districts must have roughly equal populations. For 10 points, name this case from Georgia, named for a man who sued over his district.|Wesberry v. Sanders|Wesberry versus Sanders
+m|Benedict Anderson's 1983 book argued that nations are "imagined communities" made possible by print capitalism, such as newspapers and novels in vernacular languages. For 10 points, name this book's two-word subject, a type of social group larger than a village.|Imagined Communities|imagined communities|ok
+h|This German jurist and political theorist wrote The Concept of the Political, defining politics as the distinction between friend and enemy. He also wrote that the sovereign is he who decides on the exception. For 10 points, name this man, first name Carl.|Carl Schmitt|Schmitt|n
+m|This Oxford philosopher's essay "Two Concepts of Liberty" distinguished negative liberty, freedom from interference, from positive liberty, freedom to be one's own master. For 10 points, name this Russian-born thinker, first name Isaiah.|Isaiah Berlin|Berlin|n
+e|This Prussian chancellor, who unified Germany in 1871 through wars with Denmark, Austria and France, practiced "realpolitik," putting pragmatic power politics ahead of ideology. For 10 points, name this man, first name Otto von.|Otto von Bismarck|Bismarck|n
+e|This Austrian foreign minister presided over the 1814 and 1815 Congress of Vienna and was the leading architect of the conservative Concert of Europe. For 10 points, name this man, first name Klemens von.|Klemens von Metternich|Metternich|n
+h|In this passage of Thucydides's History of the Peloponnesian War, Athenian envoys tell the people of a small island that "the strong do what they can and the weak suffer what they must." For 10 points, name this episode, named for the island of Melos.|Melian Dialogue|Melian dialogue
+m|This Greek historian argued in Book VI of his Histories that the Roman Republic was stable because it combined monarchy, aristocracy and democracy through consuls, Senate and assemblies. For 10 points, name this author, whose theory of mixed government influenced Montesquieu and the framers.|Polybius|
+m|This Harvard professor's 1996 book predicted that post-Cold War conflicts would occur along cultural fault lines among large civilizations, such as Western, Islamic and Sinic. For 10 points, name this author of The Clash of Civilizations, first name Samuel.|Samuel Huntington|Huntington|n
+m|This phenomenon, described by Robert Putnam in a 1988 article, models international negotiation as a game played at both the domestic and international levels. For 10 points, name this model, whose name includes two "levels."|two-level game|two-level games;two level game
+h|This eighteenth-century French marquis showed that majority rule can produce cycles in which A beats B, B beats C, and C beats A. For 10 points, name this paradox of voting named for a philosopher-mathematician, the Marquis de Condorcet.|Condorcet paradox|voting paradox;Condorcet cycle;paradox of voting
+e|This Roman statesman and orator's De Re Publica described the republic as the "thing of the people" and praised a mixed constitution. His Catilinarian orations denounced a conspirator. For 10 points, name this man, an opponent of Mark Antony.|Cicero|Marcus Tullius Cicero|n
+e|This 1919 treaty ended World War I with Germany, imposing reparations and a "war guilt" clause, and created the League of Nations. For 10 points, name this treaty signed in the Hall of Mirrors.|Treaty of Versailles|Versailles
+e|This 1803 land deal, negotiated in Paris by Robert Livingston and James Monroe, doubled the size of the United States and was agreed to by Napoleon for about fifteen million dollars. Thomas Jefferson worried about its constitutionality. For 10 points, name this purchase from France.|Louisiana Purchase|
+m|This 1973 law, passed over President Nixon's veto, requires the president to notify Congress within 48 hours of sending troops into hostilities and limits deployments to 60 days without approval. For 10 points, name this law about presidential military powers.|War Powers Resolution|War Powers Act
+m|Under this principle, found in the Supremacy Clause of Article VI, federal law prevails over conflicting state law. For 10 points, name this doctrine, established in McCulloch v. Maryland and Gibbons v. Ogden.|federal supremacy|preemption|supremacy clause
+e|In this 1966 Supreme Court case, Chief Justice Earl Warren's opinion required police to inform suspects of their right to remain silent and to an attorney before custodial questioning. For 10 points, name this case named for an Arizona man, which gave rise to a famous "warning."|Miranda v. Arizona|Miranda versus Arizona|Miranda
+e|This Chinese leader founded the People's Republic of China in 1949 after the Communist victory over the Nationalists. His writings are collected in the Little Red Book. For 10 points, name this chairman, first name Mao.|Mao Zedong|Mao Tse-tung|Mao|n=Zedong
+m|This 1951 book by an exiled German-born Jewish thinker analyzed Nazism and Stalinism as unprecedented regimes that use terror and ideology to dominate every part of life. For 10 points, name this work by Hannah Arendt, whose title names an "origins" of a form of total rule.|The Origins of Totalitarianism|Origins of Totalitarianism
+B|m|Answer these questions about theories of international relations.
+-|e|Which school holds that states pursue power and security in anarchy?|realism|
+-|m|Which scholar wrote Theory of International Politics and founded neorealism?|Kenneth Waltz|Waltz|n
+-|h|Which scholar, with Joseph Nye, wrote Power and Interdependence?|Robert Keohane|Keohane|n
+B|m|Answer these questions about political philosophers.
+-|e|Which thinker wrote that life in a state of nature is "nasty, brutish, and short"?|Thomas Hobbes|Hobbes|n
+-|m|Which philosopher wrote A Theory of Justice?|John Rawls|Rawls|n
+-|h|Which Harvard philosopher wrote Anarchy, State, and Utopia in reply to Rawls?|Robert Nozick|Nozick|n
+B|m|Answer these questions about Supreme Court cases on representation.
+-|e|Which 1962 case from Tennessee led to the principle of one person, one vote?|Baker v. Carr|Baker versus Carr
+-|m|Which 1964 case required equal populations in congressional districts?|Wesberry v. Sanders|Wesberry versus Sanders
+-|h|Which 1964 case applied one person, one vote to state legislatures in Alabama?|Reynolds v. Sims|Reynolds versus Sims
+B|m|Answer these questions about nationalism and the state.
+-|e|Which Prussian chancellor unified Germany?|Otto von Bismarck|Bismarck|n
+-|m|Which scholar wrote Imagined Communities?|Benedict Anderson|Anderson|n
+-|h|Which German sociologist defined the state as holding a monopoly of legitimate violence?|Max Weber|Weber|n
+B|m|Answer these questions about voting theory.
+-|e|What term names a vote system where voters rank candidates?|ranked-choice voting|ranked choice voting;instant-runoff voting
+-|m|Which French marquis described a paradox of cyclical majorities?|Marquis de Condorcet|Condorcet|n
+-|h|Which economist proved an impossibility theorem for ranked voting?|Kenneth Arrow|Arrow|n
+B|m|Answer these questions about ancient political thought.
+-|e|Which Athenian philosopher wrote The Republic?|Plato|
+-|m|Which Roman statesman wrote De Re Publica?|Cicero|
+-|h|Which Greek historian described the Melian Dialogue?|Thucydides|
+B|m|Answer these questions about democracy and comparative politics.
+-|e|What political scientist wrote Who Governs? about New Haven?|Robert Dahl|Dahl|n
+-|m|What word names democratic power-sharing as found in Belgium and Switzerland?|consociationalism|consociational democracy
+-|h|Which French thinker wrote Democracy in America?|Alexis de Tocqueville|Tocqueville|n
+B|m|Answer these questions about the American political system.
+-|e|Which 1973 law limits the president's use of troops without Congress?|War Powers Resolution|War Powers Act
+-|m|Which 1966 case produced warnings to arrested suspects?|Miranda v. Arizona|Miranda
+-|h|Which 1819 Supreme Court case upheld the Second Bank of the United States?|McCulloch v. Maryland|McCulloch versus Maryland

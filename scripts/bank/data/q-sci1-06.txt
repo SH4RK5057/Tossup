@@ -1,0 +1,63 @@
+# quizbowl jv | Science | Chemistry
+h|This principle states that when a system at equilibrium is disturbed by a change in concentration, pressure, or temperature, the system shifts to counteract the change. It explains why adding more nitrogen to the Haber process pushes the reaction toward more product. For 10 points, name this principle, named for a French chemist.|Le Chatelier's principle|Le Chatelier;Le Chateliers principle
+h|In 1909, Ernest Rutherford's students Hans Geiger and Ernest Marsden fired alpha particles at a thin foil of this metal. Most passed straight through, but a few bounced back, which showed that the atom has a tiny, dense, positive nucleus. For 10 points, name this metal used in the experiment, a precious metal with symbol Au.|gold|gold foil
+h|This quantity is symbolized by the letter S and measures the disorder or randomness of a system. The second law of thermodynamics says that it of the universe always increases in spontaneous processes. For 10 points, name this thermodynamic quantity.|entropy
+h|This type of reaction forms a new bond when a nucleophile attacks a carbon atom bearing a leaving group. It can proceed by a one-step mechanism with backside attack that inverts the configuration, called SN2. For 10 points, name this kind of organic reaction, where one group takes the place of another.|substitution reaction|nucleophilic substitution;substitution;SN2
+h|This theory predicts molecular shapes by assuming that electron pairs around a central atom repel each other and spread as far apart as possible. It predicts that methane is tetrahedral and water is bent. For 10 points, name this model abbreviated with five letters.|VSEPR theory|VSEPR;valence shell electron pair repulsion
+h|This rule says that electrons fill orbitals of the same energy singly, with parallel spins, before any orbital gets a second electron. It is named for a German physicist and explains why nitrogen has three unpaired 2p electrons. For 10 points, name this rule.|Hund's rule|Hund
+h|This is the name for the chemical reaction between an acid and an alcohol that forms an ester and water. Many fruits and perfumes get their smells from products of it. For 10 points, name this type of reaction.|esterification|Fischer esterification
+h|The Haber-Bosch process uses an iron catalyst at high temperature and pressure to combine hydrogen and nitrogen to make this compound. Fritz Haber won a Nobel Prize in Chemistry in 1918 for developing the synthesis. For 10 points, name this compound with formula NH3 that is used in fertilizer.|ammonia|NH3
+m|This is the term for the concentration of a solution measured as moles of solute per liter of solution. A two-molar solution of NaCl has two moles of salt in each liter. For 10 points, give this term, abbreviated M.|molarity|molar concentration
+m|This is the term for a laboratory technique in which a solution of known concentration is slowly added from a burette to a solution of unknown concentration until the endpoint is reached. Indicators like phenolphthalein show the color change. For 10 points, name this technique.|titration
+m|This property is a measure of how strongly an atom attracts shared electrons in a bond. Linus Pauling devised a scale for it on which fluorine is the highest at 4.0. For 10 points, name this periodic trend.|electronegativity
+m|This law states that the volume of a gas is directly proportional to its absolute temperature when pressure is constant. It is named for a French physicist who studied hot-air balloons. For 10 points, name this gas law.|Charles's law|Charles
+m|In this type of reaction, a species loses electrons. The mnemonic "LEO says GER" tells chemists that "loss of electrons" is this process. For 10 points, name this half-reaction, which always occurs together with reduction.|oxidation
+m|This equation, written as PV equals nRT, relates the pressure, volume, amount, and temperature of a gas. R is the gas constant. For 10 points, name this equation for an idealized gas.|ideal gas law|ideal gas equation
+m|These compounds contain a carbon-carbon double bond and have the general formula C n H 2n. Ethene is the simplest one, and it is used to make polyethylene. For 10 points, name this family of hydrocarbons.|alkenes|alkene
+m|This is the name for a solution that resists changes in pH when small amounts of acid or base are added. It consists of a weak acid and its conjugate base. For 10 points, name this kind of solution, such as one found in blood.|buffer|buffer solution
+m|The elements in this block of the periodic table are known as "transition elements" and include iron, copper, and zinc. They often form colored compounds and have multiple oxidation states. For 10 points, name these elements located in the middle groups of the table.|transition metals|transition elements;d-block elements;d-block
+m|This is the term for the reactant that is completely used up first in a chemical reaction, and it determines the maximum amount of product. For 10 points, name this reactant, whose name includes the idea of a restriction.|limiting reactant|limiting reagent
+m|This type of radioactive decay emits a particle made of two protons and two neutrons, identical to a helium-4 nucleus. It reduces the atomic number by two. For 10 points, name this decay.|alpha decay|alpha;alpha emission
+m|This is the term for the time required for half of a sample of a radioactive isotope to decay. Carbon-14 has a value of about 5,730 years, which makes it useful for dating organic remains. Uranium-238 has a far longer one. For 10 points, name this quantity.|half-life|half life
+m|This is the name for the energy needed to remove the outermost electron from a neutral gaseous atom. It generally increases across a period and decreases down a group. For 10 points, name this periodic trend.|ionization energy|first ionization energy;ionization potential
+e|This type of substance conducts electricity when dissolved in water because it breaks into ions. Table salt and strong acids are common examples, and sports drinks are named for them. For 10 points, name this kind of substance.|electrolyte|electrolytes
+e|This is the name for the family of hydrocarbons with only single bonds. Methane, ethane, and propane are the first three members of it. For 10 points, name this family, also called the paraffins.|alkanes|alkane
+e|This is the name for the type of reaction in which a compound breaks into simpler substances, such as water into hydrogen and oxygen by electrolysis. For 10 points, name this kind of reaction, the opposite of synthesis.|decomposition reaction|decomposition
+e|This is the name for the elements that are shiny, conduct heat and electricity, and are malleable. They are found on the left side of the periodic table. For 10 points, name this class of elements, which includes copper and sodium.|metals|metal
+e|This Frenchman carefully weighed reactants and products in sealed vessels and showed that matter is neither created nor destroyed in a chemical reaction. He also named oxygen and hydrogen and showed that combustion involves oxygen. For 10 points, name this scientist, often called the father of modern chemistry.|Antoine Lavoisier|Lavoisier|n
+e|This is the term for how many grams of a substance are in one mole of it. For carbon-12 it is 12 grams. For 10 points, name this quantity, which is numerically equal to the atomic mass on the periodic table.|molar mass
+e|This is the name of the type of mixture that has visibly different parts, such as sand and water or a salad. For 10 points, name this type of mixture, which is the opposite of homogeneous.|heterogeneous mixture|heterogeneous
+e|These are the horizontal rows of the periodic table, numbered 1 through 7. Elements in the same one have the same number of electron shells, and atomic radius generally shrinks across one. For 10 points, name these rows, contrasted with groups.|periods|period
+e|When two clear solutions are mixed and a cloudy solid suddenly appears, a reaction of this type has occurred. The solid that settles out is also called by this term. Mixing silver nitrate with sodium chloride produces white silver chloride this way. For 10 points, name this kind of reaction in which an insoluble solid forms from solution.|precipitation|precipitate;precipitation reaction
+B|m|Answer these questions about atomic structure.
+-|e|What are the negatively charged particles that orbit the nucleus?|electrons|electron
+-|m|What name is given to the outermost-shell particles that take part in bonding?|valence electrons|valence
+-|h|What principle, named for an Austrian physicist, says no two particles in an atom can share all four quantum numbers?|Pauli exclusion principle|Pauli principle;Pauli exclusion;exclusion principle
+B|m|Answer these questions about gas laws.
+-|e|What temperature scale, with absolute zero at its zero point, is used in gas law calculations?|Kelvin|Kelvin scale
+-|m|Which law says that the pressure of a gas is directly proportional to its absolute temperature at constant volume?|Gay-Lussac's law|Gay-Lussac;Amontons's law
+-|h|Which law says that equal volumes of gases at the same temperature and pressure contain the same number of molecules?|Avogadro's law|Avogadro
+B|m|Answer these questions about organic chemistry.
+-|e|What element is the basis of all organic compounds?|carbon
+-|m|What functional group, with the formula OH, is found in ethanol?|hydroxyl group|hydroxyl;alcohol group
+-|h|What functional group, COOH, is found in acetic acid?|carboxyl group|carboxylic acid group;carboxyl
+B|m|Answer these questions about heat in chemical reactions.
+-|e|What term names a reaction that absorbs heat from its surroundings?|endothermic|endothermic reaction
+-|m|What quantity, symbolized H, is the heat content of a system at constant pressure?|enthalpy
+-|h|What law states that the total heat change of a reaction is the same whether it occurs in one step or several?|Hess's law|Hess
+B|m|Answer these questions about the history of chemistry.
+-|e|Which English chemist proposed in the early 1800s that all atoms of an element are identical and that atoms combine in whole-number ratios?|John Dalton|Dalton|n
+-|m|Which British physicist discovered the nucleus in 1911?|Ernest Rutherford|Rutherford|n
+-|h|Which American physicist measured the charge of the electron in his oil drop experiment?|Robert Millikan|Millikan|n
+B|m|Answer these questions about pH and proton transfer.
+-|e|What name is given to a substance that produces hydroxide ions in water and has a pH above 7?|base|alkali
+-|m|What acid is found in the stomach and has the formula HCl?|hydrochloric acid
+-|h|What name is given to the theory, from a Danish and an English chemist, that defines an acid as a proton donor?|Bronsted-Lowry theory|Bronsted-Lowry;Bronsted Lowry
+B|m|Answer these questions about the periodic trends.
+-|e|Which element is the most electronegative one on the periodic table?|fluorine
+-|m|What happens to atomic radius as you move across a period from left to right?|it decreases|decreases;gets smaller;smaller
+-|h|What is the name for the group of elements 57 through 71 in the sixth period?|lanthanides|lanthanide series;rare earths
+B|m|Answer these questions about reactions and rates.
+-|e|What type of reaction combines two or more substances into one?|synthesis|synthesis reaction;combination reaction
+-|m|What name is given to the speed at which reactants are converted to products?|reaction rate|rate of reaction;rate
+-|h|What term names a reaction in which the products can react to re-form the reactants?|reversible reaction|reversible

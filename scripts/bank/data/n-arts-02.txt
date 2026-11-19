@@ -1,0 +1,143 @@
+# ncal novice | Fine Arts | Music Theory and Terms
+e|How many lines does a musical staff have?|five|5
+e|What is the name of the symbol, also called the G clef, that is used for higher notes and curls around the second line from the bottom?|treble clef|treble
+e|What is the name of the symbol, also called the F clef, that is used for lower notes?|bass clef|bass
+m|What clef, often used by the viola, has its center pointing to middle C?|alto clef|alto
+e|In four-four time, how many beats does a whole note last?|four|4
+e|In four-four time, how many beats does a half note last?|two|2
+e|What is the name for a pause or silence in music, shown by a special symbol?|rest
+e|The musical alphabet uses the letters A through which letter, before starting over at A?|G
+e|What Italian word means loud?|forte
+e|What Italian word means soft?|piano
+m|What term means to gradually get louder?|crescendo
+m|What Italian term means to gradually get softer?|diminuendo|decrescendo
+e|What Italian word names a fast, lively tempo?|allegro
+e|What Italian word names a slow tempo, often thought of as at ease?|adagio
+m|What Italian word names a moderate walking tempo?|andante
+m|What Italian term means to gradually slow down?|ritardando|rallentando;ritard
+m|What Italian term means to gradually speed up?|accelerando
+m|What symbol, shaped like an eye over a dot, tells a performer to hold a note longer than its value?|fermata|hold
+m|What symbol raises a note by one half step?|sharp
+m|What symbol lowers a note by one half step?|flat
+m|What symbol cancels a sharp or flat?|natural|natural sign
+e|In a time signature, what does the top number tell you?|beats per measure|number of beats;beats in a measure
+m|What is the name for each section of music between two bar lines?|measure|bar
+e|What is the name of the interval between two notes with the same letter name, eight notes apart?|octave
+m|In solfege, which syllable follows re?|mi
+e|In solfege, what is the first syllable of the major scale?|do
+m|What name is given to three or more notes played at the same time?|chord
+m|What name is given to a three-note chord built from stacked thirds?|triad
+e|What is the name for the main tune of a piece that you can hum or sing?|melody
+e|What is the name for the combination of notes sounded together to support a melody?|harmony
+e|What term describes the pattern of long and short sounds in music?|rhythm
+e|What is the name for the steady pulse that you tap your foot to in music?|beat
+e|What word names the speed of the beat in a piece of music?|tempo
+m|What word names the loudness and softness of music?|dynamics
+m|What word describes how high or low a note sounds?|pitch
+m|What word describes the unique quality of sound that distinguishes a flute from a trumpet playing the same note?|timbre|tone color
+m|What name is given to the group of sharps or flats at the beginning of a staff that tells which key a piece is in?|key signature
+m|How many sharps are in the key of G major?|one|1
+m|How many flats are in the key of B-flat major?|two|2
+h|What is the relative minor of C major?|A minor|ok
+h|Which major key has no sharps or flats?|C major
+m|What is the interval from C up to G called?|fifth|perfect fifth;a fifth
+m|What is the name for the first and most important note of a scale, which gives a key its name?|tonic
+h|What name is given to the fifth note of a scale?|dominant
+e|What section of the orchestra includes trumpets, trombones, and tubas?|brass|brass section
+e|What section of the orchestra includes flutes, clarinets, and oboes?|woodwinds|woodwind;woodwind section
+e|What section of the orchestra includes drums, cymbals, and triangles?|percussion|percussion section
+m|What name is given to a group of four musicians?|quartet
+e|What word describes music performed by one musician?|solo
+m|What name is given to a piece for two performers?|duet
+m|What term describes singing without instrumental accompaniment?|a cappella|acappella
+m|What name is given to the thin stick used by a conductor?|baton
+m|What Italian term means to play notes short and detached?|staccato
+m|What Italian term means to play notes smoothly connected?|legato
+m|What does a dot placed after a note do to its length?|adds half its value|lengthens it by half;increases it by half
+h|What term describes a rhythm that places emphasis on the weak beats or off the beat?|syncopation
+m|What name is given to a chord whose notes are played one after another instead of together?|arpeggio|broken chord
+h|What name is given to a short musical pattern that is repeated over and over?|ostinato
+m|What term names a song in which singers begin the same melody one after another at different times, such as Row, Row, Row Your Boat?|round|canon
+m|What term describes two or more musicians playing the same notes at the same pitch?|unison
+h|What name is given to a scale of five notes?|pentatonic scale|pentatonic
+h|What name is given to a scale made of twelve notes, each a half step apart?|chromatic scale|chromatic
+h|What Italian term means to return to the beginning and play again?|da capo|D.C.
+h|What name is given to the closing section of a piece of music?|coda
+m|What Italian term means very soft?|pianissimo
+m|What Italian term means very loud?|fortissimo
+h|What Italian term means moderately loud?|mezzo forte
+m|What name is given to a musical form with three parts, in which the first section returns at the end?|ternary form|ABA;ABA form
+h|What name is given to a musical form in which a main theme keeps returning between contrasting sections?|rondo
+h|What name is given to a musical form in which a theme is repeated and altered in different ways?|theme and variations|variations;variation
+h|What Latin word, meaning work, is used with a number to catalog a composer's compositions?|opus
+e|What name is given to a high-pitched singing voice, the highest female voice type, in a choir?|soprano
+m|What name is given to the interval of half a step?|semitone|half step;half-step
+h|What term describes two notes that sound the same but are written differently, such as F sharp and G flat?|enharmonic|enharmonic equivalents
+B|e|Answer these questions about string instruments in the orchestra.
+-|e|What is the smallest and highest-pitched of the orchestra's main bowed string instruments?|violin
+-|m|What instrument is played held between the knees and has a deeper tone than the viola?|cello|violoncello
+-|h|What is the largest and lowest-pitched bowed string instrument in the orchestra?|double bass|string bass;contrabass
+B|e|Answer these questions about woodwind instruments.
+-|e|What high-pitched woodwind is played by blowing across a hole near one end?|flute
+-|m|What double-reed woodwind plays the note that orchestras tune to?|oboe
+-|h|What large double-reed woodwind plays low notes and is longer than a clarinet?|bassoon
+B|e|Answer these questions about brass instruments.
+-|e|What brass instrument, with three valves, often plays fanfares?|trumpet
+-|m|What brass instrument changes pitch using a long U-shaped slide?|trombone
+-|h|What is the largest and lowest-pitched brass instrument in the orchestra?|tuba
+B|e|Answer these questions about percussion instruments.
+-|e|What drum has metal wires stretched across its bottom head and is played with sticks in a marching band?|snare drum|snare
+-|m|What percussion instrument has wooden bars arranged like a piano keyboard and played with mallets?|xylophone
+-|h|What large kettle-shaped drums, whose pitch can be changed with a pedal, are found in an orchestra?|timpani|kettledrums;kettledrum
+B|m|Answer these questions about tempo markings.
+-|e|What Italian term means very fast?|presto
+-|m|What Italian term means lively and brisk?|vivace
+-|h|What Italian term means at a moderate speed?|moderato
+B|m|Answer these questions about note values.
+-|e|What note lasts for one beat in four-four time?|quarter note
+-|m|How many half notes fit into one whole note?|two|2
+-|h|A dotted half note lasts how many beats in four-four time?|three|3
+B|m|Answer these questions about time signatures.
+-|e|In four-four time, how many beats are in each measure?|four|4
+-|m|What is the other name for four-four time, which uses the letter C?|common time
+-|h|In six-eight time, how many eighth notes are in each measure?|six|6
+B|m|Answer these questions about singing voices.
+-|e|What is the highest female singing voice?|soprano
+-|m|What is the highest common male singing voice?|tenor
+-|h|What male voice type has a range in the middle, below the highest and above the lowest?|baritone
+B|m|Answer these questions about parts of a song or piece.
+-|e|What name is given to the part of a song that repeats, usually with the same lyrics?|chorus|refrain
+-|m|What name is given to the contrasting middle section of many pop songs, between the choruses?|bridge
+-|h|What name is given to an elaborate solo passage in a concerto, played to show off the soloist's skill?|cadenza
+B|m|Answer these questions about reading music.
+-|e|What name is given to the set of five lines and four spaces where notes are written?|staff|stave
+-|m|What name is given to short extra lines used to write notes above or below the five main lines?|ledger lines|ledger line
+-|h|What name is given to the pair of staves joined by a brace, used for piano music?|grand staff|great stave
+B|m|Answer these questions about the piano.
+-|e|How many keys does a standard modern piano have?|88|eighty-eight|m
+-|m|What Italian inventor built the first pianos around 1700?|Bartolomeo Cristofori|Cristofori|n
+-|h|Which keys on a piano are grouped in sets of two and three?|black keys|the black keys
+B|e|Answer these questions about the guitar.
+-|e|How many strings does a standard guitar have?|six|6
+-|m|What name is given to the metal ridges along the neck of a guitar?|frets|fret
+-|h|What clamp placed across the neck of a guitar raises the pitch of all open strings?|capo
+B|m|Answer these questions about practicing and tuning.
+-|e|What device clicks or beeps at a steady speed to help musicians keep time?|metronome
+-|m|What two-pronged metal tool makes a pure note when struck?|tuning fork
+-|h|The note A above middle C is commonly tuned to how many vibrations per second?|440|four hundred forty|m
+B|m|Answer these questions about jazz.
+-|e|What term describes music that musicians make up on the spot rather than reading from the page?|improvisation|improvise
+-|m|What term describes a jazz style with a lilting rhythm, popular with big bands in the 1930s?|swing
+-|h|What vocal style in jazz uses nonsense syllables instead of words?|scat|scat singing
+B|m|Answer these questions about instruments from around the world.
+-|e|What wind instrument with a bag and drone pipes is associated with Scotland?|bagpipes|bagpipe
+-|m|What long-necked stringed instrument from India was played by Ravi Shankar?|sitar
+-|h|What goblet-shaped hand drum comes from West Africa?|djembe
+B|m|Answer these questions about solfege.
+-|e|What song from The Sound of Music teaches the syllables of the scale?|Do-Re-Mi|Do Re Mi
+-|m|What is the solfege syllable for the fifth note of the major scale?|sol|so|f
+-|h|Which syllable names the leading tone, the note just before the scale returns to do?|ti|te|f
+B|m|Answer these questions about musical groups.
+-|e|What name is given to a group of singers who perform together?|choir|chorus
+-|m|What type of ensemble has two violins, a viola, and a cello?|string quartet
+-|h|What name is given to classical music written for a small group without a conductor?|chamber music

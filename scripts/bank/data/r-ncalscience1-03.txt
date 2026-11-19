@@ -1,0 +1,105 @@
+# ncal varsity | Science | Physics
+B|m|Answer these questions about Newton's laws.
+-|e|What quantity does the letter m stand for in F equals m a?|mass|
+-|m|Which of Newton's laws describes forces that come in equal and opposite pairs?|third law|Newton's third law;the third law
+-|h|What acceleration, in meters per second squared, does a net force of 50 newtons give a 10-kilogram object?|5|5 meters per second squared|m
+B|m|Answer these questions about kinematics.
+-|e|How many meters does an object moving at a constant 15 meters per second travel in 8 seconds?|120|120 meters|m
+-|m|What is the speed in meters per second after 3 seconds of an object starting from rest with an acceleration of 2 meters per second squared?|6|m
+-|h|How many meters does that object travel in those 3 seconds?|9|9 meters|m
+B|m|Answer these questions about energy.
+-|e|What type of energy is stored in a stretched spring?|elastic potential energy|elastic energy;potential energy;spring potential energy
+-|m|What is the kinetic energy in joules of a 4-kilogram object moving at 5 meters per second?|50|50 joules|m
+-|h|By what factor does an object's kinetic energy change if its speed triples?|9|nine;multiplied by nine;9 times|m
+B|m|Answer these questions about circuits.
+-|e|What device is connected in series to measure electric current?|ammeter|
+-|m|What safety device melts and opens a circuit when the current becomes too high?|fuse|
+-|h|Two 10-ohm resistors are connected in series across a 20-volt battery. How many amperes flow through the circuit?|1|1 ampere;1 amp;one|m
+B|m|Answer these questions about waves.
+-|e|Light waves oscillate perpendicular to their direction of travel. What type of wave is this?|transverse|transverse wave
+-|m|In what type of wave does the medium vibrate parallel to the direction of travel, as in sound?|longitudinal|longitudinal wave
+-|h|What term describes the lowest frequency at which a string can form a standing wave?|fundamental frequency|fundamental;first harmonic
+B|m|Answer these questions about optics.
+-|e|What phenomenon separates white light into colors when it passes through a prism?|dispersion|
+-|m|What name is given to the principle that the angle of incidence equals the angle of reflection?|law of reflection|
+-|h|Which Dutch scientist is credited with the law relating angles of incidence and refraction?|Willebrord Snell|Snell;Snellius|n
+B|m|Answer these questions about thermodynamics.
+-|e|What instrument is used to measure temperature?|thermometer|
+-|m|What term describes the temperature of zero kelvin?|absolute zero|
+-|h|Which law of thermodynamics states that the entropy of an isolated system never decreases?|second law|second law of thermodynamics;the second law
+B|m|Answer these questions about electromagnetism.
+-|e|What term describes a coil of wire that acts as a magnet when current flows through it?|solenoid|electromagnet
+-|m|What device uses a magnetic field to convert electrical energy into mechanical energy?|electric motor|motor
+-|h|What device converts mechanical energy into electrical energy by rotating a coil in a magnetic field?|generator|electric generator;dynamo
+B|m|Answer these questions about the atom.
+-|e|What is the dense, positively charged center of an atom called?|nucleus|the nucleus
+-|m|Which two particles are the nucleons?|protons and neutrons|neutrons and protons
+-|h|What fundamental force, stronger than electromagnetism at very short range, binds quarks together?|strong nuclear force|strong force;strong interaction;nuclear force
+B|m|Answer these questions about gravity and orbits.
+-|e|What shape are the orbits of the planets around the Sun?|ellipse|elliptical;ellipses
+-|m|Which German astronomer described the three laws of planetary motion?|Johannes Kepler|Kepler|n
+-|h|If the distance between two masses doubles, by what factor does the gravitational force change?|one fourth|1/4;one quarter;divided by four;a quarter|m
+B|m|Answer these questions about rotation.
+-|e|What term describes the turning effect of a force?|torque|
+-|m|What is the product, in newton meters, of a 20-newton perpendicular force and its 0.5-meter distance from a pivot?|10|10 newton meters;10 newton-meters|m
+-|h|What is the rotational analog of linear momentum?|angular momentum|
+B|m|Answer these questions about fluids.
+-|e|What upward force does a fluid exert on a submerged object?|buoyant force|buoyancy;buoyant;upthrust
+-|m|As depth in a fluid increases, what happens to the pressure?|it increases|increases;gets larger;rises
+-|h|What pressure in pascals results from a 100-newton force spread over 5 square meters?|20|20 pascals|m
+B|m|Answer these questions about collisions.
+-|e|In what type of collision is kinetic energy conserved?|elastic collision|elastic
+-|m|What is the momentum in kilogram meters per second of a 10-kilogram cart moving at 3 meters per second?|30|m
+-|h|Impulse is the product of force and what other quantity?|time|time interval;duration
+B|m|Answer these questions about static electricity.
+-|e|What sign of charge does a proton carry?|positive|
+-|m|What instrument with thin metal leaves is used to detect electric charge?|electroscope|
+-|h|What is the SI unit of electric charge?|coulomb|coulombs
+B|m|Answer these questions about sound.
+-|e|When the frequency of a sound increases, does its pitch go up or down?|up|higher;rises;goes up;increases
+-|m|What term describes the overlapping of two waves to form a combined pattern?|interference|superposition
+-|h|What is the speed in meters per second of a wave with a frequency of 50 hertz and a wavelength of 4 meters?|200|m
+B|m|Answer these questions about scientists honored in SI units.
+-|e|The unit of power is named for which Scottish engineer?|James Watt|Watt|n
+-|m|The unit of frequency is named for which German physicist?|Heinrich Hertz|Hertz|n
+-|h|The unit of magnetic field strength is named for which Serbian-American inventor?|Nikola Tesla|Tesla|n
+B|m|Answer these questions about relativity.
+-|e|Which theory of Albert Einstein includes the equation relating energy to mass and the speed of light squared?|special relativity|relativity;the theory of relativity
+-|m|What term describes the slowing of clocks that move relative to an observer?|time dilation|
+-|h|What phenomenon, predicted by general relativity, occurs when a massive galaxy bends light from a distant object?|gravitational lensing|gravitational lens;lensing
+B|m|Answer these questions about electromagnetic waves.
+-|e|Which color of visible light is bent the most by a prism?|violet|purple
+-|m|What type of electromagnetic radiation is used to image bones?|X-rays|X rays;x-ray;X-ray
+-|h|A nanometer is 10 to the minus what power meters?|9|nine;minus nine;negative nine|m
+B|m|Answer these questions about work and power.
+-|e|Work is the product of force and what other quantity, when they are parallel?|distance|displacement
+-|m|How many watts of power are used by a machine that does 600 joules of work in 20 seconds?|30|30 watts|m
+-|h|A machine takes in 200 joules of energy and delivers 150 joules of useful work. What is its efficiency as a percent?|75|75 percent;seventy-five|m
+B|m|Answer these questions about heat.
+-|e|Which temperature scale sets the freezing point of ice at 32 degrees?|Fahrenheit|Fahrenheit scale
+-|m|Which common liquid has an unusually high specific heat of about 4200 joules per kilogram kelvin?|water|
+-|h|How many joules are needed to raise the temperature of 2 kilograms of a substance with specific heat 4000 joules per kilogram kelvin by 5 kelvin?|40000|40000 joules;40,000|m
+B|m|Answer these questions about projectile motion.
+-|e|Neglecting air resistance, what is the horizontal acceleration of a projectile?|zero|0;none|m
+-|m|At what launch angle, in degrees, does a projectile reach maximum range on level ground?|45|45 degrees;forty-five|m
+-|h|Using 10 meters per second squared for gravity, how many seconds does a ball thrown horizontally from a 20-meter cliff take to land?|2|2 seconds|m
+B|m|Answer these questions about springs and oscillation.
+-|e|Which law states that the force of a spring is proportional to its stretch?|Hooke's law|Hooke;Hookes law|n=Hooke
+-|m|A mass on a spring has a period of 2 seconds. What is its frequency in hertz?|0.5|1/2;one half;half|m
+-|h|At what position is the speed of a mass in simple harmonic motion greatest?|equilibrium position|equilibrium;center;the center;middle
+B|m|Answer these questions about sound waves in materials.
+-|e|Compared with air, in what state of matter does sound travel much faster because particles are closer together?|solids|solid
+-|m|What term describes a large-amplitude vibration produced when an object is driven at its natural frequency?|resonance|
+-|h|What is the beat frequency in hertz when tones of 440 hertz and 444 hertz sound together?|4|4 hertz|m
+B|m|Answer these questions about magnetism.
+-|e|What are the two ends of a magnet called?|poles|magnetic poles
+-|m|Iron, nickel, and cobalt are examples of what type of magnetic material?|ferromagnetic|ferromagnets;ferromagnetic materials
+-|h|Which Danish physicist discovered in 1820 that an electric current deflects a compass needle?|Hans Christian Oersted|Oersted;Orsted;Ørsted|n
+B|m|Answer these questions about household electricity.
+-|e|To the nearest ten, what is the standard household voltage in the United States, in volts?|120|120 volts|m
+-|m|How many kilowatt-hours of energy does a 1000-watt appliance use in 2 hours?|2|2 kilowatt-hours;two|m
+-|h|How many joules are in one kilowatt-hour?|3600000|3.6 million;3,600,000;3.6 million joules|m
+B|m|Answer these questions about lenses and mirrors.
+-|e|Which type of lens is used to correct nearsightedness?|concave lens|concave;diverging lens;diverging
+-|m|What type of image does a plane mirror form?|virtual image|virtual
+-|h|A lens has a focal length of 10 centimeters, and an object sits 20 centimeters from it. How many centimeters from the lens is the image?|20|20 centimeters|m

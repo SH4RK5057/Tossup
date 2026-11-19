@@ -1,0 +1,117 @@
+# ncal varsity | English | English Literature
+B|m|Answer these questions about Charles Dickens novels.
+-|e|Which Dickens character says "Please, sir, I want some more"?|Oliver Twist|Oliver|n
+-|m|Which Dickens novel features the convict Magwitch and the heroine Estella?|Great Expectations||
+-|h|In which Dickens novel does Sydney Carton sacrifice himself in Paris?|A Tale of Two Cities||
+B|h|Answer these questions about Jane Austen.
+-|e|Which Austen novel opens with the line about a single man in possession of a good fortune?|Pride and Prejudice||
+-|m|Which Austen novel is set largely in the town of Highbury and features a matchmaker heroine?|Emma||
+-|h|Which Austen novel parodies Gothic fiction through the heroine Catherine Morland?|Northanger Abbey||
+B|m|Answer these questions about William Shakespeare's tragedies.
+-|e|Which tragedy features the characters Iago and Desdemona?|Othello||
+-|m|Which tragedy includes the three witches and a character who sees a floating dagger?|Macbeth||
+-|h|Which tragedy begins with a king dividing his kingdom among his three daughters?|King Lear||
+B|e|Answer these questions about the Brontë sisters.
+-|e|Which Brontë sister wrote Shirley and Villette?|Charlotte Brontë|Charlotte;Bronte;Charlotte Bronte|part
+-|m|Which novel by Emily Brontë features Heathcliff and Catherine Earnshaw?|Wuthering Heights||
+-|h|Which Brontë sister wrote The Tenant of Wildfell Hall?|Anne Brontë|Anne;Anne Bronte|part
+B|m|Answer these questions about Mary Shelley's Frankenstein.
+-|e|What is the first name of the scientist who creates the monster?|Victor||
+-|m|What polar region frames the novel's story through Robert Walton's letters?|Arctic|North Pole;Arctic Ocean|
+-|h|Which Swiss city is the home of the scientist's family?|Geneva||
+B|h|Answer these questions about Romantic poets.
+-|e|Which Coleridge poem describes Xanadu and a stately pleasure-dome?|Kubla Khan||
+-|m|Which Romantic poet wrote the lyrical drama Prometheus Unbound?|Percy Bysshe Shelley|Shelley|n
+-|h|Which poet wrote "Ode on a Grecian Urn" and "To Autumn"?|John Keats|Keats|n
+B|e|Answer these questions about George Orwell.
+-|e|Which Orwell novel features the pigs Napoleon and Snowball?|Animal Farm||
+-|m|In Nineteen Eighty-Four, what is the name of the party's leader whose face is on posters?|Big Brother||
+-|h|Which Orwell memoir describes his time fighting in the Spanish Civil War?|Homage to Catalonia||
+B|m|Answer these questions about Victorian poetry.
+-|e|Which Victorian poet wrote "Porphyria's Lover"?|Robert Browning|Browning|n
+-|m|Which poet wrote "The Charge of the Light Brigade" and "Ulysses"?|Alfred Tennyson|Tennyson;Alfred Lord Tennyson|n
+-|h|Which Victorian poet wrote the verse novel Aurora Leigh?|Elizabeth Barrett Browning|Barrett Browning|n=Browning
+B|m|Answer these questions about Thomas Hardy.
+-|e|Which Hardy novel features a title character who is a country girl named Tess?|Tess of the d'Urbervilles||
+-|m|Which Hardy novel features Bathsheba Everdene and the shepherd Gabriel Oak?|Far from the Madding Crowd||
+-|h|Which fictional region of southwest England is the setting for Hardy's novels?|Wessex||
+B|e|Answer these questions about Joseph Conrad.
+-|e|Which Conrad novella follows Marlow up the Congo River in search of Kurtz?|Heart of Darkness||
+-|m|Which Conrad novel is set in the South American country of Costaguana?|Nostromo||
+-|h|Which Conrad novel is about the Patusan and the guilt of a sailor who jumped from the Patna?|Lord Jim||
+B|m|Answer these questions about John Milton.
+-|e|Which epic poem by Milton tells of Satan's fall and the fall of Adam and Eve?|Paradise Lost||
+-|m|Which Milton work is a pastoral elegy for his drowned friend Edward King?|Lycidas||
+-|h|Which Milton speech defends freedom of the press against licensing?|Areopagitica||
+B|h|Answer these questions about Geoffrey Chaucer.
+-|e|Which long poem by Chaucer is a collection of stories told by pilgrims?|The Canterbury Tales|Canterbury Tales|
+-|m|In which English cathedral city's shrine of Thomas Becket are the pilgrims headed?|Canterbury||ok
+-|h|Which Chaucer poem retells a love story set during the Trojan War?|Troilus and Criseyde||
+B|m|Answer these questions about modern British novels.
+-|e|Which William Golding novel is about English schoolboys stranded on an island?|Lord of the Flies||
+-|m|Which Virginia Woolf novel follows Clarissa and her party in a single day in London?|Mrs Dalloway|Mrs. Dalloway;Mistress Dalloway|
+-|h|Which Aldous Huxley novel depicts a future World State with a drug called soma?|Brave New World||
+B|e|Answer these questions about Oscar Wilde.
+-|e|Which Wilde novel features a man whose portrait ages while he stays young?|The Picture of Dorian Gray|Dorian Gray|
+-|m|Which Wilde play is subtitled "A Trivial Comedy for Serious People"?|The Importance of Being Earnest|Importance of Being Earnest|
+-|h|Which Wilde poem was written after his imprisonment in Reading Gaol?|The Ballad of Reading Gaol|Ballad of Reading Gaol|
+B|m|Answer these questions about Samuel Taylor Coleridge and William Wordsworth.
+-|e|Which collection of poems did the two publish together in 1798?|Lyrical Ballads||
+-|m|Which Wordsworth poem begins "I wandered lonely as a cloud"?|Daffodils|I Wandered Lonely as a Cloud|
+-|h|Which Wordsworth long autobiographical poem is subtitled "Growth of a Poet's Mind"?|The Prelude|Prelude|
+B|h|Answer these questions about the Gothic novel.
+-|e|Which Bram Stoker novel features a vampire count from Transylvania?|Dracula||
+-|m|Which Robert Louis Stevenson novella features a doctor and his violent alter ego?|Strange Case of Doctor Jekyll and Mister Hyde|Jekyll and Hyde;Doctor Jekyll and Mister Hyde|
+-|h|Which Horace Walpole novel from 1764 is considered the first Gothic novel?|The Castle of Otranto|Castle of Otranto|
+B|e|Answer these questions about Lewis Carroll and children's classics.
+-|e|Which Carroll book begins with a girl falling down a rabbit hole?|Alice's Adventures in Wonderland|Alice in Wonderland|
+-|m|Which sequel to the first Alice book features a chessboard landscape?|Through the Looking-Glass|Through the Looking Glass|
+-|h|Which nonsense poem by Carroll features the Jabberwock?|Jabberwocky||
+B|m|Answer these questions about a Victorian novelist.
+-|e|What pen name did Mary Ann Evans use?|George Eliot||
+-|m|Which novel by this author is set in the town of Middlemarch?|Middlemarch||ok
+-|h|Which novel by this author features the weaver Silas?|Silas Marner||
+B|m|Answer these questions about Restoration and eighteenth-century satire.
+-|e|Which Jonathan Swift work follows Lemuel Gulliver's voyages?|Gulliver's Travels||
+-|m|Which Swift essay satirically suggests that the poor sell their children as food?|A Modest Proposal|Modest Proposal|
+-|h|Which Alexander Pope mock-epic concerns a stolen lock of hair?|The Rape of the Lock|Rape of the Lock|
+B|e|Answer these questions about Daniel Defoe and early novels.
+-|e|Which Defoe novel features a shipwrecked sailor and his companion Friday?|Robinson Crusoe||
+-|m|Which Samuel Richardson novel is told in letters by a servant girl named Pamela?|Pamela||ok
+-|h|Which Henry Fielding novel follows a foundling raised by Squire Allworthy?|Tom Jones||
+B|m|Answer these questions about T. S. Eliot.
+-|e|Which Eliot poem begins "April is the cruellest month"?|The Waste Land|Waste Land|
+-|m|Which Eliot poem is spoken by a timid man who asks "Do I dare to eat a peach?"|The Love Song of J. Alfred Prufrock|Prufrock;J. Alfred Prufrock|
+-|h|Which Eliot book of light verse inspired the musical Cats?|Old Possum's Book of Practical Cats||
+B|h|Answer these questions about Arthurian literature.
+-|e|Which medieval English author compiled Le Morte d'Arthur?|Thomas Malory|Malory|n
+-|m|In Arthurian legend, what is the name of Arthur's sword in some tales, pulled from a stone in others?|Excalibur||
+-|h|Which Middle English poem tells of a knight who beheads a green challenger?|Sir Gawain and the Green Knight|Gawain and the Green Knight|
+B|m|Answer these questions about John Keats and Lord Byron.
+-|e|Which Byron long poem follows a Spanish nobleman and womanizer?|Don Juan||
+-|m|Which Byron poem follows a world-weary young traveler named Harold?|Childe Harold's Pilgrimage|Childe Harold|
+-|h|Which Keats poem begins "A thing of beauty is a joy for ever"?|Endymion||
+B|e|Answer these questions about Beowulf and Old English.
+-|e|Which monster does Beowulf defeat first?|Grendel||
+-|m|What kind of creature does Beowulf kill in the final battle of his life?|dragon||
+-|h|What is the name of the Danish king whose hall Heorot is attacked?|Hrothgar||
+B|m|Answer these questions about E. M. Forster and D. H. Lawrence.
+-|e|Which Forster novel is set in colonial India and involves a trip to the Marabar Caves?|A Passage to India|Passage to India|
+-|m|Which Forster novel features Lucy Honeychurch in Florence?|A Room with a View|Room with a View|
+-|h|Which D. H. Lawrence novel was banned for its portrayal of Constance and Mellors?|Lady Chatterley's Lover||
+B|h|Answer these questions about Shakespeare's comedies.
+-|e|In which comedy does Puck serve King Oberon in a forest?|A Midsummer Night's Dream|Midsummer Night's Dream|
+-|m|Which comedy features Portia and a pound of flesh?|The Merchant of Venice|Merchant of Venice|
+-|h|Which comedy features Viola disguised as Cesario?|Twelfth Night||
+B|e|Answer these questions about modern poetry.
+-|e|Which Irish poet wrote "Digging" and won the Nobel Prize in 1995?|Seamus Heaney|Heaney|n
+-|m|Which Dylan Thomas poem urges his father to rage against the dying of the light?|Do Not Go Gentle into That Good Night||
+-|h|Which Ted Hughes collection includes the poem "Hawk Roosting"?|Lupercal||
+B|m|Answer these questions about authors of detective fiction.
+-|e|Which Arthur Conan Doyle detective lives at 221B Baker Street?|Sherlock Holmes|Holmes|n
+-|m|Which Agatha Christie detective is a Belgian with a waxed mustache?|Hercule Poirot|Poirot|n
+-|h|Which Wilkie Collins novel about a stolen diamond is often called the first English detective novel?|The Moonstone|Moonstone|
+B|m|Answer these questions about Elizabethan drama beyond Shakespeare.
+-|e|Which playwright wrote Doctor Faustus?|Christopher Marlowe|Marlowe|n
+-|m|Which Marlowe play features the conqueror Tamburlaine?|Tamburlaine the Great|Tamburlaine|
+-|h|Which Ben Jonson comedy features a con man named Mosca?|Volpone||

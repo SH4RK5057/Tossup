@@ -1,0 +1,103 @@
+# ncal jv | English | American Literature
+e|Who wrote "The Adventures of Tom Sawyer"?|Mark Twain|Twain;Samuel Clemens|n
+e|In "Moby-Dick," what is the name of the narrator?|Ishmael
+e|Who wrote "To Kill a Mockingbird"?|Harper Lee|Lee|n
+e|Who wrote "Of Mice and Men"?|John Steinbeck|Steinbeck|n
+e|In "Of Mice and Men," which character is a large, strong man who loves soft things like rabbits?|Lennie|Lennie Small
+e|Who is the teenage narrator of "The Catcher in the Rye"?|Holden Caulfield|Caulfield|n
+e|In "Little Women," what is the name of the sister who loves writing and has short hair?|Jo|Jo March
+e|In "The Call of the Wild," what kind of animal is Buck?|dog|a dog;St. Bernard-Scotch shepherd mix
+e|Who wrote the novel "The Grapes of Wrath"?|John Steinbeck|Steinbeck|n
+e|Which family is forced to travel from Oklahoma to California in "The Grapes of Wrath"?|the Joad family|Joad;Joads;the Joads
+e|Who wrote "The Old Man and the Sea"?|Ernest Hemingway|Hemingway|n
+e|In "The Old Man and the Sea," what kind of creature does the old fisherman Santiago catch?|marlin|a marlin;giant marlin
+e|Who wrote "The Legend of Sleepy Hollow"?|Washington Irving|Irving|n
+e|Which character in "The Legend of Sleepy Hollow" is a schoolteacher chased by a headless horseman?|Ichabod Crane|Ichabod;Crane|part
+e|Who wrote the story "Rip Van Winkle"?|Washington Irving|Irving|n
+e|Who wrote "Walden"?|Henry David Thoreau|Thoreau|n
+e|Who wrote the poem "Paul Revere's Ride"?|Henry Wadsworth Longfellow|Longfellow|n
+e|Who wrote the collection of poems "Leaves of Grass"?|Walt Whitman|Whitman|n
+e|Who wrote the play "Our Town"?|Thornton Wilder|Wilder|n
+e|Who wrote the play "Death of a Salesman"?|Arthur Miller|Miller|n
+e|Who wrote the play "The Crucible," about the Salem witch trials?|Arthur Miller|Miller|n
+e|Who wrote the novel "Fahrenheit 451"?|Ray Bradbury|Bradbury|n
+e|In "Fahrenheit 451," what is the job of the main character, Guy Montag?|fireman|firefighter;a fireman
+e|Who wrote "A Raisin in the Sun"?|Lorraine Hansberry|Hansberry|n
+e|Who wrote the autobiography "I Know Why the Caged Bird Sings"?|Maya Angelou|Angelou|n
+e|Who wrote the novel "Their Eyes Were Watching God"?|Zora Neale Hurston|Hurston|n
+e|Who wrote the novel "Invisible Man"?|Ralph Ellison|Ellison|n
+e|Who wrote the novel "Beloved"?|Toni Morrison|Morrison|n
+e|Who wrote the novel "Native Son"?|Richard Wright|Wright|n
+e|Who wrote the novel "The Color Purple"?|Alice Walker|Walker|n
+e|Who wrote the novel "Uncle Tom's Cabin"?|Harriet Beecher Stowe|Stowe|n
+e|Who wrote the novel "The Red Badge of Courage"?|Stephen Crane|Crane|n
+e|Who wrote the novel "Ethan Frome"?|Edith Wharton|Wharton|n
+e|Who wrote the book "The Outsiders"?|S. E. Hinton|Hinton|n
+e|Who wrote the novel "The Giver"?|Lois Lowry|Lowry|n
+e|In "The Giver," what is the name of the boy chosen to receive the memories of the community?|Jonas
+e|Who wrote the novel "Charlotte's Web"?|E. B. White|White|n
+e|Who wrote "The Yearling"?|Marjorie Kinnan Rawlings|Rawlings|n
+e|Who wrote the novel "Where the Red Fern Grows"?|Wilson Rawls|Rawls|n
+e|Who wrote the novel "Hatchet," about a boy who survives in the Canadian wilderness?|Gary Paulsen|Paulsen|n
+m|Who wrote the poem "Hope is the thing with feathers"?|Emily Dickinson|Dickinson|n
+m|Who wrote the poem "I, Too"?|Langston Hughes|Hughes|n
+m|Who wrote the poem "Harlem," which asks what happens to a dream deferred?|Langston Hughes|Hughes|n
+m|Which Poe story features a narrator who insists he is not mad but kills an old man because of his "vulture eye"?|The Tell-Tale Heart|Tell-Tale Heart
+m|Which Poe poem ends with the repeated word "Nevermore"?|The Raven|Raven
+m|Pluto is the name of the pet cat that the narrator mutilates in which Poe story?|The Black Cat|Black Cat
+m|Who wrote the story "The Lottery"?|Shirley Jackson|Jackson|n
+m|Who wrote the story "The Gift of the Magi"?|O. Henry|Henry;William Sydney Porter|n=Henry
+m|Who wrote the short story "The Most Dangerous Game"?|Richard Connell|Connell|n
+m|In "The Most Dangerous Game," what is the name of the hunter who hunts people on his island?|General Zaroff|Zaroff
+m|In "Huckleberry Finn," what is the name of the enslaved man who travels down the river with Huck?|Jim
+m|Which river do Huck and Jim travel down on their raft?|Mississippi River|Mississippi
+m|Who wrote "The House of the Seven Gables"?|Nathaniel Hawthorne|Hawthorne|n
+m|In "The Scarlet Letter," what is the name of the main character who is forced to wear a scarlet "A"?|Hester Prynne|Hester;Prynne|part
+m|In "The Scarlet Letter," what is the name of Hester Prynne's daughter?|Pearl
+m|In "The Crucible," which girl leads the accusations of witchcraft against the people of Salem?|Abigail Williams|Abigail;Williams|part
+m|In "The Great Gatsby," what is the first name of the woman Gatsby loves?|Daisy|Daisy Buchanan
+m|In "The Great Gatsby," what color is the light at the end of Daisy's dock?|green
+m|In "To Kill a Mockingbird," what is the name of the reclusive neighbor who leaves gifts in a tree knothole?|Boo Radley|Radley;Boo|part
+m|In "To Kill a Mockingbird," which man does Atticus Finch defend in court?|Tom Robinson|Robinson;Tom|part
+m|In "Of Mice and Men," what is the name of the ranch worker who travels with Lennie?|George|George Milton
+m|In "The Outsiders," what is the first name of the narrator, whose last name is Curtis?|Ponyboy|Ponyboy Curtis
+m|In "The Outsiders," which gang is the rival of the Greasers?|the Socs|Socs
+m|Who wrote the novel "The Bell Jar"?|Sylvia Plath|Plath|n
+m|Who wrote the novel "A Separate Peace," set at Devon School?|John Knowles|Knowles|n
+m|Who wrote the novel "Animal Farm," a satire of the Russian Revolution?|George Orwell|Orwell|n
+m|Which American author wrote "The Sound and the Fury"?|William Faulkner|Faulkner|n
+m|What is the name of the Hemingway novel about an American ambulance driver in Italy in World War I?|A Farewell to Arms|Farewell to Arms
+m|Which Founding Father published "Poor Richard's Almanack" and wrote an unfinished autobiography?|Benjamin Franklin|Franklin|n
+m|Who wrote the essay "Civil Disobedience"?|Henry David Thoreau|Thoreau|n
+m|Which transcendentalist wrote the essays "Nature" and "Self-Reliance"?|Ralph Waldo Emerson|Emerson|n
+m|Which formerly enslaved abolitionist wrote an 1845 narrative of his own life?|Frederick Douglass|Douglass|n
+m|Who wrote the poem "O Captain! My Captain!" about the death of Abraham Lincoln?|Walt Whitman|Whitman|n
+m|Who wrote the poem "Stopping by Woods on a Snowy Evening"?|Robert Frost|Frost|n
+m|Who wrote the play "The Glass Menagerie"?|Tennessee Williams|Williams|n
+m|Who wrote the play "A Streetcar Named Desire"?|Tennessee Williams|Williams|n
+m|Who wrote the novel "Roots: The Saga of an American Family"?|Alex Haley|Haley|n
+m|Who wrote the novel "The Jungle," which exposed conditions in the meatpacking industry?|Upton Sinclair|Sinclair|n
+m|Who wrote the novel "Bless Me, Ultima"?|Rudolfo Anaya|Anaya|n
+m|Who wrote the novel "The House on Mango Street"?|Sandra Cisneros|Cisneros|n
+m|Who wrote the novel "Ender's Game"?|Orson Scott Card|Card|n
+m|Who wrote "The Phantom Tollbooth"?|Norton Juster|Juster|n
+h|Who wrote the novel "Catch-22"?|Joseph Heller|Heller|n
+h|Who wrote the novel "Slaughterhouse-Five"?|Kurt Vonnegut|Vonnegut|n
+h|Who wrote the novel "The Sun Also Rises"?|Ernest Hemingway|Hemingway|n
+h|Who wrote the novel "Babbitt"?|Sinclair Lewis|Lewis|n
+h|Who wrote the novel "My Antonia"?|Willa Cather|Cather|n
+h|Who wrote the novel "Sister Carrie"?|Theodore Dreiser|Dreiser|n
+h|Who wrote the novel "Light in August"?|William Faulkner|Faulkner|n
+h|Who wrote the poem "Howl"?|Allen Ginsberg|Ginsberg|n
+h|Who wrote the poem "The Love Song of J. Alfred Prufrock"?|T. S. Eliot|Eliot|n
+h|Who wrote the poem "The Red Wheelbarrow"?|William Carlos Williams|Williams|n=Williams
+h|Who wrote the poem "Because I could not stop for Death"?|Emily Dickinson|Dickinson|n
+h|Who wrote "The Autocrat of the Breakfast-Table"?|Oliver Wendell Holmes|Holmes|n
+h|Who wrote "The Last of the Mohicans"?|James Fenimore Cooper|Cooper|n
+h|Who wrote the novel "Little House on the Prairie"?|Laura Ingalls Wilder|Wilder|n
+h|Which character in "The Last of the Mohicans" is the scout also called Hawkeye?|Natty Bumppo|Bumppo;Hawkeye|n
+h|In "Moby-Dick," what is the name of the captain obsessed with the white whale?|Captain Ahab|Ahab|n
+h|What is the name of the ship in "Moby-Dick"?|the Pequod|Pequod
+h|Who wrote the novella "Billy Budd"?|Herman Melville|Melville|n
+h|Who wrote the story "Bartleby, the Scrivener"?|Herman Melville|Melville|n
+h|Who wrote "The Fall of the House of Usher"?|Edgar Allan Poe|Poe|n

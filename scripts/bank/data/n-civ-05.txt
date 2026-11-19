@@ -1,0 +1,135 @@
+# ncal varsity | Social Science | World Governments
+B|e|Answer these questions about types of government.
+-|e|What type of government is led by a hereditary ruler such as a king, queen, or emperor?|monarchy
+-|m|What term describes a system in which a few wealthy or powerful individuals hold the power?|oligarchy
+-|m|What term describes a government led by religious authorities?|theocracy
+-|h|What term, from Greek for "rule of the best," describes government by a privileged upper class?|aristocracy
+B|m|Answer these questions about the United Kingdom's government.
+-|e|Which street in London contains the official residence of the prime minister, at number 10?|Downing Street
+-|m|Which British prime minister of the 1980s was nicknamed the "Iron Lady"?|Margaret Thatcher|Thatcher|n
+-|m|Which British monarch's reign saw the defeat of the Spanish Armada in 1588?|Elizabeth I|Queen Elizabeth I;Elizabeth;n=Elizabeth
+-|h|Which 1689 revolution replaced James II with William and Mary without much bloodshed?|Glorious Revolution|Bloodless Revolution
+B|e|Answer these questions about international organizations.
+-|e|Which Geneva-based United Nations agency, abbreviated WHO, coordinates international public health?|World Health Organization|WHO
+-|m|Which organization, formed in 1948, promotes cooperation among the countries of North and South America?|Organization of American States|OAS
+-|m|Which Soviet-led military alliance was created in 1955 in response to the Western alliance?|Warsaw Pact
+-|h|Which group, abbreviated OPEC, coordinates oil policies of its member countries?|Organization of the Petroleum Exporting Countries|OPEC
+B|m|Answer these questions about the French Revolution.
+-|e|Which fortress in Paris was stormed on July 14, 1789?|Bastille|the Bastille
+-|m|Which general became emperor of the French in 1804?|Napoleon Bonaparte|Napoleon;n=Bonaparte
+-|m|Which French queen is supposed to have said "let them eat cake"?|Marie Antoinette|Antoinette|n
+-|h|Which 1789 pledge, taken in an indoor court at Versailles, vowed that delegates would not separate until France had a constitution?|Tennis Court Oath
+B|e|Answer these questions about communist states.
+-|e|Which Russian city was the capital of the Soviet Union?|Moscow
+-|m|What was the name of the Soviet secret police agency that was a forerunner of the KGB?|NKVD|Cheka
+-|m|What name was given to Stalin's economic plans, which set production goals for industry and agriculture?|Five-Year Plans|Five Year Plans
+-|h|Which Chinese campaign of 1958 to 1962 tried to rapidly industrialize but led to famine?|Great Leap Forward
+B|m|Answer these questions about Germany's history.
+-|e|Which German city was split into East and West after World War II?|Berlin
+-|m|What was the name of the democratic government of Germany between the wars, named for a city?|Weimar Republic|Weimar
+-|m|Which German kaiser abdicated at the end of World War I?|Wilhelm II|Kaiser Wilhelm II;Kaiser Wilhelm;n=II
+-|h|Which 1933 act gave Hitler's government the power to make laws without the parliament?|Enabling Act
+B|e|Answer these questions about world capitals and their governments.
+-|e|Which Italian city was the capital of the Roman Empire?|Rome
+-|m|Which city is the seat of the European Union's main institutions, including the Commission, in Belgium?|Brussels
+-|m|Which Dutch city is the seat of the International Court of Justice, and is not the capital?|The Hague|Hague
+-|h|Which Swiss city is home to the League of Nations's former headquarters, now a United Nations office?|Geneva
+B|m|Answer these questions about elections around the world.
+-|e|What is the name for the lawmaking body of a country, such as a parliament or a congress?|legislature
+-|m|What term names a person elected to speak for the voters of a district in a parliament or congress?|representative|legislator
+-|m|What term describes a government that demands strict obedience and limits personal freedoms?|authoritarian|authoritarianism
+-|h|In British politics, what name is given to an election held to fill a single vacant seat between general elections?|by-election
+B|e|Answer these questions about the Russian Revolution.
+-|e|Which Russian ruler was overthrown in the 1917 revolution and executed in 1918?|Nicholas II|Tsar Nicholas II;Czar Nicholas II;Nicholas;n=II
+-|m|What was the name of the radical group led by Lenin that took power in October 1917?|Bolsheviks|Bolshevik
+-|m|What name is given to the Russian councils of workers and soldiers that held power in 1917?|soviets|soviet
+-|h|Which peace treaty of 1918 took Russia out of World War I?|Treaty of Brest-Litovsk|Brest-Litovsk
+B|m|Answer these questions about India and its independence.
+-|e|Which country ruled India as a colony until 1947?|Great Britain|Britain;United Kingdom;England
+-|m|What is the name of the party that led the independence movement, abbreviated INC?|Indian National Congress|Congress Party
+-|m|Who was the first prime minister of independent India?|Jawaharlal Nehru|Nehru|n
+-|h|Which 1930 protest led by Gandhi opposed the British salt tax?|Salt March|Salt Satyagraha;Dandi March
+B|e|Answer these questions about the European Union.
+-|e|Which 1957 treaty created the European Economic Community, a forerunner of the EU?|Treaty of Rome
+-|m|What is the name of the EU's directly elected legislature?|European Parliament
+-|m|By what nickname is the United Kingdom's 2016 vote to leave the European Union commonly known?|Brexit
+-|h|What is the name of the zone of the EU members in which people can cross borders without passport checks, named for a village in Luxembourg?|Schengen Area|Schengen
+B|m|Answer these questions about ancient governments.
+-|e|Which Greek city-state is known for developing one of the earliest democracies?|Athens
+-|m|Which Greek city-state was ruled by two kings and was famous for its military training?|Sparta
+-|m|What body of Athenian male citizens voted directly on laws and war?|Assembly|Ecclesia;Ekklesia
+-|h|Which Roman leader was made dictator for life and assassinated in 44 BC?|Julius Caesar|Caesar|n
+B|e|Answer these questions about Latin American governments.
+-|e|Which Mexican city is the capital of Mexico?|Mexico City
+-|m|Which former slave led the Haitian Revolution that began in 1791?|Toussaint Louverture|Louverture;L'Ouverture;n=Louverture
+-|m|Which country, the largest in South America, was once ruled by an emperor before 1889?|Brazil
+-|h|Which Chilean president was overthrown in a 1973 military coup?|Salvador Allende|Allende|n
+B|m|Answer these questions about Africa.
+-|e|Which country's government under apartheid ended in 1994?|South Africa
+-|m|Which Ethiopian emperor was overthrown in 1974?|Haile Selassie|Selassie|n=Selassie
+-|m|Which 1884 meeting in Berlin set rules for the European colonization of Africa?|Berlin Conference
+-|h|Which Congolese leader was the first prime minister of his country after independence and was assassinated in 1961?|Patrice Lumumba|Lumumba|n
+B|e|Answer these questions about East Asia.
+-|e|Which Chinese dynasty, which ruled from 618 to 907, is remembered as a golden age?|Tang dynasty|Tang
+-|m|What title was held by the military rulers of Japan before 1868?|shogun|f
+-|m|Which period of Japanese history began in 1868 and modernized the nation under an emperor?|Meiji Restoration|Meiji
+-|h|Which Chinese leader, in 1978, began market-oriented reforms?|Deng Xiaoping|Deng;n=Deng
+B|m|Answer these questions about the Middle East.
+-|e|Which country was founded in 1948 after the British Mandate ended in Palestine?|Israel
+-|m|Which empire was based in Istanbul and collapsed after World War I?|Ottoman Empire|Ottoman
+-|m|Which 1917 British statement supported a Jewish homeland in Palestine?|Balfour Declaration
+-|h|Which agreement of 1916 secretly divided the Ottoman lands between Britain and France?|Sykes-Picot Agreement|Sykes-Picot
+B|e|Answer these questions about the superpower rivalry after 1945.
+-|e|Which two countries were the superpowers of the postwar era: the United States and what other nation?|Soviet Union|USSR;Russia
+-|m|Which phrase, popularized by Winston Churchill, described the division of Europe between East and West?|Iron Curtain
+-|m|What was the name for the U.S. policy of preventing the spread of communism?|containment
+-|h|What was the name for the program of American aid to rebuild Western Europe after World War II?|Marshall Plan
+B|m|Answer these questions about parliamentary systems.
+-|e|What is the title of the presiding officer of the British House of Commons?|Speaker|the Speaker
+-|m|What do we call the largest party not in the governing group of a parliament?|opposition|official opposition;opposition party
+-|m|What term describes the group of ministers who run government departments?|cabinet
+-|h|Which Canadian official represents the monarch as ceremonial head of state?|governor general|Governor General
+B|h|Answer these questions about historical empires.
+-|e|Which empire, centered in Rome, once controlled the Mediterranean?|Roman Empire|Roman
+-|m|Which Muslim dynasty ruled much of India from the sixteenth to the nineteenth centuries and built the Taj Mahal?|Mughal Empire|Mughal;Mughals;Moghul
+-|m|Which South American empire was ruled from Cusco and conquered by Pizarro?|Inca Empire|Inca;Incas
+-|h|Which Mexican empire, whose capital was Tenochtitlan, was conquered by Cortes?|Aztec Empire|Aztec;Aztecs
+B|e|Answer these questions about government and the individual.
+-|e|What is the term for protection that a country grants to someone fleeing persecution?|asylum
+-|m|What 1948 document of the United Nations states the basic rights of all people?|Universal Declaration of Human Rights
+-|m|What term describes a person who flees to another country to escape persecution?|refugee
+-|h|What name is given to the international agreements that set rules for humane treatment in war, signed in a Swiss city?|Geneva Conventions|Geneva Convention
+B|m|Answer these questions about colonialism.
+-|e|Which European country lost the Spanish-American War?|Spain
+-|m|Which island was the site of Napoleon's exile after Waterloo?|Saint Helena
+-|m|Which company, chartered in 1600, came to rule much of India for Britain?|East India Company|British East India Company
+-|h|Which war of 1839 to 1842 forced China to open ports to British trade?|First Opium War|Opium War
+B|e|Answer these questions about political ideologies.
+-|e|What political ideology stresses individual freedom and limited government?|liberalism|classical liberalism
+-|m|Which ideology rejects all government authority?|anarchism
+-|m|What ideology stresses preserving traditional institutions and gradual change?|conservatism
+-|h|What term describes an ideology that places devotion to one's own nation above other interests?|nationalism
+B|m|Answer these questions about the end of the Cold War.
+-|e|Which Soviet leader introduced reforms in the 1980s?|Mikhail Gorbachev|Gorbachev|n
+-|m|Which Russian leader stood on a tank in 1991 to oppose a coup against the Soviet government?|Boris Yeltsin|Yeltsin|n
+-|m|Which Polish labor movement led by Lech Walesa challenged communist rule?|Solidarity|Solidarnosc
+-|h|Which Czechoslovak 1989 peaceful uprising ended communist rule?|Velvet Revolution
+B|e|Answer these questions about the history of democracy.
+-|e|What is the name for the form of democracy in which citizens vote directly on laws instead of electing representatives?|direct democracy
+-|m|What Latin phrase, meaning "public thing," gave its name to the form of government of ancient Rome without a king?|res publica|republic|f
+-|h|Which French thinker wrote "Democracy in America" after visiting the United States?|Alexis de Tocqueville|Tocqueville|n
+B|m|Answer these questions about Chinese history.
+-|e|Which Chinese dynasty, founded by Liu Bang, followed the short-lived Qin?|Han dynasty|Han
+-|m|Which Chinese dynasty was overthrown in the revolution of 1911?|Qing dynasty|Qing;Manchu dynasty
+-|m|Which Chinese system of exams chose government officials by merit?|civil service examination|imperial examination
+-|h|Which Chinese leader led the 1911 revolution that overthrew the last imperial dynasty and became the first provisional president?|Sun Yat-sen|Sun Yixian|n=Sun
+B|e|Answer these questions about Canada's government.
+-|e|On which continent is Canada located?|North America
+-|m|Which 1867 act created the Dominion of Canada?|British North America Act|Constitution Act 1867
+-|m|Which Canadian province contains both Toronto and Ottawa?|Ontario
+-|h|Which 1982 act brought the Canadian constitution home from Britain and added a charter of rights?|Constitution Act 1982|Constitution Act
+B|m|Answer these questions about the Southern Hemisphere.
+-|e|Which country has Canberra as its capital?|Australia
+-|m|Which 1901 event joined six British colonies into one nation?|federation|Federation
+-|m|Which Pacific country has Wellington as its capital?|New Zealand
+-|h|Which treaty of 1840 was signed by Maori chiefs and the British Crown?|Treaty of Waitangi

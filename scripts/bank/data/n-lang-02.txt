@@ -1,0 +1,153 @@
+# ncal novice | Fine Arts | French 1
+e|What is the French word for "dog," including its article?|le chien|chien|f
+e|What is the French word for "house," including its article?|la maison|maison|f
+e|What French phrase means "good night"?|bonne nuit|f
+e|What is the French word for the color "red"?|rouge|f
+e|What is the French word for the color "blue"?|bleu|bleue|f
+e|What is the French word for the color "green"?|vert|verte|f
+e|What is the French word for "please" in a formal setting?|s'il vous plaît|s'il vous plait|f
+e|What does the French word "au revoir" mean in English?|goodbye|bye
+e|What is the French word for "no"?|non|f
+e|What is the French number for 1?|un|une|f
+e|What is the French number for 5?|cinq|f
+e|What is the French number for 10?|dix|f
+e|What is the French word for "mother"?|la mère|mère;maman|f
+e|What is the French word for "brother"?|le frère|frère|f
+e|What is the French word for "water," including its article?|l'eau|eau|f
+e|What is the French word for "bread," including its article?|le pain|pain|f
+e|What is the French word for "school" in the sense of a building where children study?|l'école|école;ecole|f
+e|What does the French word "livre" mean in English?|book|
+e|What does the French word "chat" mean in English?|cat|
+e|What does the French word "lundi" mean in English?|Monday|
+e|What does the French word "samedi" mean in English?|Saturday|
+e|What does the French word "pomme de terre" mean in English?|potato|
+e|What does the French word "grand" mean in English?|big|tall;large;great
+m|What does the French word "petit" mean in English?|small|little;short;tiny
+m|Which French infinitive, whose je form is "suis," means "to be"?|être|etre|f
+m|Give the French infinitive that translates "to go."|aller|f
+m|Which French verb, ending in -er, is used to say you eat?|manger|f
+m|What is the je form of the verb "parler" in the present tense?|parle|f
+m|What is the je form of the verb "avoir" in the present tense?|ai|j'ai|f
+m|What is the je form of the verb "être" in the present tense?|suis|je suis|f
+m|What is the French word for the number 15?|quinze|f
+m|What is the French word for the number 20?|vingt|f
+m|What is the French word for the number 12?|douze|f
+m|What is the French word for "Wednesday"?|mercredi|f
+m|What is the French word for "Thursday"?|jeudi|f
+m|What is the French word for the month of January?|janvier|f
+m|What is the French word for the month of February?|février|fevrier|f
+m|What is the French word for the season of summer, including its article?|l'été|été;ete|f
+m|What is the French word for the season of winter, including its article?|l'hiver|hiver|f
+m|What is the French word for "yesterday"?|hier|f
+m|What French question word means "where"?|où|ou|f
+m|What French question word means "why"?|pourquoi|f
+m|What French question word means "who"?|qui|f
+m|What is the French word for "breakfast," including its article?|le petit déjeuner|petit déjeuner;petit dejeuner|f
+m|What is the French word for "milk," including its article?|le lait|lait|f
+m|What is the French word for "cheese," including its article?|le fromage|fromage|f
+m|What is the French word for "boy"?|le garçon|garçon;garcon|f
+m|What is the French word for "girl"?|la fille|fille|f
+m|What is the French word for "friend" when the friend is a boy?|l'ami|ami|f
+m|What is the French word for "classroom"?|la salle de classe|salle de classe|f
+m|What is the French word for "pencil"?|le crayon|crayon|f
+m|What is the French word for "with"?|avec|f
+m|What is the French word for "and"?|et|f
+m|What is the French word for the plural definite article used before all plural nouns?|les|f
+h|What does the French word "fenêtre" mean in English?|window|
+h|What does the French word "devoirs" mean in English?|homework|
+h|What does the French word "anniversaire" mean in English?|birthday|
+h|What is the nous form of the verb "parler" in the present tense?|parlons|f
+h|What is the ils form of the verb "finir" in the present tense?|finissent|f
+h|What is the je form of the verb "aller" in the present tense?|vais|je vais|f
+h|What is the French word for "left," as in a direction?|gauche|à gauche|f
+h|What does the French expression "il fait chaud" mean in English?|it is hot|it's hot;it is warm
+h|What is the French word for "knee"?|le genou|genou|f
+h|What is the French word for "eyes"?|les yeux|yeux|f
+h|What is the French word for "to wear" or "to carry"?|porter|f
+h|What is the French word for "to like" or "to love"?|aimer|f
+h|What is the French word for "thirty"?|trente|f
+
+B|e|Answer these questions about French colors.
+-|e|What is the French word for "black"?|noir|noire|f
+-|e|What is the French word for "white"?|blanc|blanche|f
+-|m|What is the French word for "yellow"?|jaune|f
+B|e|Answer these questions about French family words.
+-|e|What is the French word for "father"?|le père|père;papa|f
+-|e|What is the French word for "sister"?|la soeur|la sœur;soeur;sœur|f
+-|m|What is the French word for "grandmother"?|la grand-mère|grand-mère;mamie|f
+-|h|What is the French word for "uncle"?|l'oncle|oncle|f
+B|m|Answer these questions about French numbers.
+-|e|What is the French word for 2?|deux|f
+-|e|What is the French word for 3?|trois|f
+-|m|What is the French word for 7?|sept|f
+-|m|What is the French word for 11?|onze|f
+-|h|What is the French word for 40?|quarante|f
+B|e|Answer these questions about days of the week in French.
+-|e|What does the French word "mardi" mean in English?|Tuesday|
+-|e|What does the French word "vendredi" mean in English?|Friday|
+-|m|What does the French word "dimanche" mean in English?|Sunday|
+B|m|Answer these questions about the French verbs avoir and être.
+-|e|What is the tu form of the verb "avoir"?|as|f
+-|m|What is the tu form of the verb "être"?|es|f
+-|m|What is the nous form of the verb "avoir"?|avons|f
+-|h|What is the vous form of the verb "être"?|êtes|etes|f
+B|e|Answer these questions about animals in French.
+-|e|What is the French word for "bird"?|l'oiseau|oiseau|f
+-|e|What is the French word for "horse"?|le cheval|cheval|f
+-|m|What is the French word for "fish" as a living animal?|le poisson|poisson|f
+-|h|What is the French word for "cow"?|la vache|vache|f
+B|m|Answer these questions about school subjects in French.
+-|e|What is the French word for "math," usually used in the plural?|les maths|maths;les mathématiques;mathématiques|f
+-|e|What is the French word for "English" the subject?|l'anglais|anglais|f
+-|m|What is the French word for "science" when referring to the subject?|les sciences|sciences;la science;science|f
+-|h|What is the French word for "history" as a school subject?|l'histoire|histoire|f
+B|e|Answer these questions about greetings in French.
+-|e|What does the French phrase "bonsoir" mean in English?|good evening|
+-|e|What does the French phrase "salut" mean when used informally to greet a friend?|hi|hello;bye
+-|m|What does the French question "Comment ça va?" mean in English?|how are you|how is it going
+-|h|What does the French phrase "enchanté" mean in English?|nice to meet you|pleased to meet you;delighted
+B|m|Answer these questions about food in French.
+-|e|What is the French word for "egg"?|l'oeuf|l'œuf;oeuf;œuf|f
+-|e|What is the French word for "chicken" as a food?|le poulet|poulet|f
+-|m|What is the French word for "rice"?|le riz|riz|f
+-|h|What is the French word for "lunch" in France?|le déjeuner|déjeuner;dejeuner|f
+B|m|Answer these questions about months in French.
+-|e|What is the French word for the month of March?|mars|f
+-|m|What is the French word for the month of June?|juin|f
+-|m|What is the French word for the month of July?|juillet|f
+-|h|What is the French word for the month of August?|août|aout|f
+B|e|Answer these questions about the weather in French.
+-|e|What does the French word "pluie" mean in English?|rain|
+-|m|What does the French expression "il fait froid" mean in English?|it is cold|it's cold
+-|m|What does the French word "neige" mean in English?|snow|
+-|h|What does the French word "vent" mean in English?|wind|
+B|m|Answer these questions about French subject pronouns.
+-|e|What French pronoun is the first-person singular subject, meaning "I"?|je|j'|f
+-|e|What French pronoun is the informal word for "you"?|tu|f
+-|m|What French pronoun means "we"?|nous|f
+-|h|What French pronoun means "they" for a group of boys or a mixed group?|ils|f
+B|h|Answer these questions about -er verb conjugations in the present tense.
+-|e|What is the je form of "chanter"?|chante|f
+-|m|What is the elle form of "danser"?|danse|f
+-|m|What is the ils form of "étudier"?|étudient|etudient|f
+-|h|What is the vous form of "marcher"?|marchez|f
+B|m|Answer these questions about body parts in French.
+-|e|What is the French word for "head"?|la tête|tête;tete|f
+-|e|What is the French word for "nose"?|le nez|nez|f
+-|m|What is the French word for "foot"?|le pied|pied|f
+-|h|What is the French word for "arm"?|le bras|bras|f
+B|e|Answer these questions about francophone countries and cities.
+-|e|Which European country has Paris as its capital?|France|
+-|e|Which North American country has Ottawa as its capital and French as an official language?|Canada|
+-|m|Which North African country has Rabat as its capital and widely uses French?|Morocco|Maroc
+-|h|Which Canadian province is home to the city of Montreal?|Quebec|Québec
+B|m|Answer these questions about clothing in French.
+-|e|What is the French word for "shirt"?|la chemise|chemise|f
+-|e|What is the French word for "shoes"?|les chaussures|chaussures|f
+-|m|What is the French word for "pants"?|le pantalon|pantalon|f
+-|h|What is the French word for "dress"?|la robe|robe|f
+B|m|Answer these questions about places in a French town.
+-|e|What is the French word for "store"?|le magasin|magasin|f
+-|e|What is the French word for "park"?|le parc|parc|f
+-|m|What is the French word for "church"?|l'église|église;eglise|f
+-|h|What is the French word for "library"?|la bibliothèque|bibliothèque;bibliotheque|f

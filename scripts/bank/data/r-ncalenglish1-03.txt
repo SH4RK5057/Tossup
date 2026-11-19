@@ -1,0 +1,105 @@
+# ncal varsity | English | World Literature
+B|e|Answer these questions about Homer's epics.
+-|e|Which epic follows the Greek siege of Troy?|Iliad|The Iliad|
+-|m|Which one-eyed giant does Odysseus blind?|Polyphemus|Cyclops|
+-|h|Which sorceress turns Odysseus's crew into pigs?|Circe||
+B|m|Answer these questions about Russian novels.
+-|e|Which Tolstoy novel follows the Rostov and Bolkonsky families during the Napoleonic Wars?|War and Peace||
+-|m|Which Dostoevsky novel features Prince Myshkin?|The Idiot|Idiot|
+-|h|Which Turgenev novel introduces the nihilist Bazarov?|Fathers and Sons||
+B|h|Answer these questions about Latin American writers.
+-|e|Which Gabriel García Márquez novel is set in the town of Macondo?|One Hundred Years of Solitude||
+-|m|Which Chilean author wrote The House of the Spirits?|Isabel Allende|Allende|n
+-|h|Which Uruguayan writer wrote Open Veins of Latin America?|Eduardo Galeano|Galeano|n
+B|m|Answer these questions about French literature.
+-|e|Which Victor Hugo novel features Quasimodo?|The Hunchback of Notre-Dame|Hunchback of Notre Dame;Notre-Dame de Paris|
+-|m|Which Camus novel is narrated by Meursault?|The Stranger|L'Étranger;Stranger|
+-|h|Which Jean-Paul Sartre play includes the line "Hell is other people"?|No Exit|Huis Clos|
+B|e|Answer these questions about Greek tragedy.
+-|e|Which Sophocles play is about a king who unknowingly kills his father?|Oedipus Rex|Oedipus the King;Oedipus Tyrannus|
+-|m|Which Euripides play is about women who follow the god Dionysus?|The Bacchae|Bacchae|
+-|h|Which Aeschylus play shows Prometheus chained to a rock?|Prometheus Bound||
+B|m|Answer these questions about Dante's Divine Comedy.
+-|e|What is the first of the three parts of the Divine Comedy?|Inferno|The Inferno|
+-|m|Which second part is set on a mountain with seven terraces?|Purgatorio|Purgatory|
+-|h|Into how many circles is Dante's Hell divided?|nine|9|m
+B|m|Answer these questions about Spanish-language literature.
+-|e|Which Spanish author created the squire Sancho Panza?|Miguel de Cervantes|Cervantes|n
+-|m|Which Argentine author wrote the story "The Garden of Forking Paths"?|Jorge Luis Borges|Borges|n
+-|h|Which Mexican author wrote The Death of Artemio Cruz?|Carlos Fuentes|Fuentes|n
+B|e|Answer these questions about German literature.
+-|e|Which Brothers Grimm tale features a girl who leaves a trail of pebbles and breadcrumbs?|Hansel and Gretel||
+-|m|Which Goethe character makes a pact with Mephistopheles?|Faust|Doctor Faust|
+-|h|Which Friedrich Schiller play features the Swiss folk hero who shoots an apple?|William Tell|Wilhelm Tell|
+B|m|Answer these questions about African literature.
+-|e|Which Achebe novel features the Igbo wrestler Okonkwo?|Things Fall Apart||
+-|m|Which South African writer wrote Cry, the Beloved Country?|Alan Paton|Paton|n
+-|h|Which Nigerian author wrote the novel Half of a Yellow Sun?|Chimamanda Ngozi Adichie|Adichie|n
+B|h|Answer these questions about Asian literature.
+-|e|Which Chinese novel follows the monk Tripitaka and Sun Wukong on a journey west?|Journey to the West||
+-|m|Which Japanese poetic form has three lines of five, seven, and five syllables?|haiku||
+-|h|Which Japanese poet wrote The Narrow Road to the Deep North?|Matsuo Bashō|Bashō;Basho;Matsuo Basho|n
+B|m|Answer these questions about Scandinavian literature.
+-|e|Which Ibsen play ends with Nora leaving her husband?|A Doll's House|Doll's House|
+-|m|Which Swedish author wrote Pippi Longstocking?|Astrid Lindgren|Lindgren|n
+-|h|Which Norwegian author wrote the novel Hunger?|Knut Hamsun|Hamsun|n
+B|m|Answer these questions about Roman literature.
+-|e|Which epic by Virgil follows a Trojan refugee who founds the line of Rome?|Aeneid|The Aeneid|
+-|m|Which Roman poet wrote the Odes and the Ars Poetica?|Horace|n
+-|h|Which Roman poet wrote the philosophical poem De Rerum Natura?|Lucretius|n
+B|e|Answer these questions about fairy tales and fables.
+-|e|Which author collected fables such as "The Tortoise and the Hare"?|Aesop|n
+-|m|Which French author wrote "Cinderella" and "Puss in Boots" in the 1690s?|Charles Perrault|Perrault|n
+-|h|Which French poet wrote Fables, including "The Cicada and the Ant"?|Jean de La Fontaine|La Fontaine|n=Fontaine
+B|m|Answer these questions about Russian poets and playwrights.
+-|e|Which Chekhov play is about a family that loses its estate with a famous orchard?|The Cherry Orchard|Cherry Orchard|
+-|m|Which Nikolai Gogol play is a satire about a mistaken identity involving a government inspector?|The Government Inspector|The Inspector General;Inspector General|ok
+-|h|Which Russian poet wrote the futurist poem "A Cloud in Trousers"?|Vladimir Mayakovsky|Mayakovsky|n
+B|m|Answer these questions about Indian literature.
+-|e|Which Indian epic features the prince Rama and his wife Sita?|Ramayana|The Ramayana|
+-|m|Which Salman Rushdie novel is narrated by Saleem Sinai?|Midnight's Children||
+-|h|Which Indian author wrote The Guide and created the town of Malgudi?|R. K. Narayan|Narayan;R K Narayan|n
+B|h|Answer these questions about Nobel Prize winners in literature.
+-|e|Which Colombian author won the Nobel Prize in 1982?|Gabriel García Márquez|García Márquez;Garcia Marquez;Marquez|n
+-|m|Which Italian playwright and satirist won the Nobel Prize in 1997?|Dario Fo|Fo|n
+-|h|Which Polish poet won the Nobel Prize in 1996 and wrote "The End and the Beginning"?|Wisława Szymborska|Szymborska|n
+B|m|Answer these questions about Middle Eastern literature.
+-|e|Which collection of tales is told by Scheherazade to a king?|One Thousand and One Nights|Arabian Nights;The Arabian Nights;Thousand and One Nights|
+-|m|Which Lebanese-American author wrote The Prophet?|Kahlil Gibran|Gibran;Khalil Gibran|n
+-|h|Which Persian poet wrote The Conference of the Birds?|Attar|Farid ud-Din Attar|n
+B|m|Answer these questions about Italian literature.
+-|e|Which Italian humanist wrote sonnets to Laura in his Canzoniere?|Petrarch|Francesco Petrarca;Petrarca|n
+-|m|Which Italian author wrote The Prince?|Niccolò Machiavelli|Machiavelli;Niccolo Machiavelli|n
+-|h|Which Italian poet wrote Orlando Furioso?|Ludovico Ariosto|Ariosto|n
+B|e|Answer these questions about Greek mythology in literature.
+-|e|Which Greek hero killed the Minotaur?|Theseus|n
+-|m|Which poet's Metamorphoses retells myths such as Daphne and Apollo?|Ovid|n
+-|h|Which Greek poet wrote Odes celebrating victors at the Olympic Games?|Pindar|n
+B|m|Answer these questions about Czech and Central European literature.
+-|e|Which Kafka novel features a man named Joseph K. who is arrested for an unspecified crime?|The Trial|Trial|
+-|m|Which Czech playwright coined the word "robot" in R.U.R.?|Karel Čapek|Čapek;Capek;Karel Capek|n
+-|h|Which Czech author wrote The Unbearable Lightness of Being?|Milan Kundera|Kundera|n
+B|m|Answer these questions about Existentialist writers.
+-|e|Which French author wrote the novel Nausea?|Jean-Paul Sartre|Sartre|n
+-|m|Which French author wrote The Second Sex?|Simone de Beauvoir|Beauvoir|n
+-|h|Which Camus essay compares human existence to a man pushing a boulder up a hill?|The Myth of Sisyphus|Myth of Sisyphus|
+B|e|Answer these questions about the Odyssey.
+-|e|What is the name of Odysseus's home island?|Ithaca||
+-|m|Which singers lure sailors with song and are resisted when Odysseus is tied to his mast?|Sirens||
+-|h|Which sea monster with six heads lives opposite the whirlpool Charybdis?|Scylla||
+B|m|Answer these questions about Tolstoy and Dostoevsky.
+-|e|Which Tolstoy novel's heroine throws herself under a train?|Anna Karenina||
+-|m|Which Tolstoy novella is about a judge who is dying of illness?|The Death of Ivan Ilyich|Death of Ivan Ilyich|
+-|h|Which Dostoevsky novel contains the chapter "The Grand Inquisitor"?|The Brothers Karamazov|Brothers Karamazov|
+B|m|Answer these questions about Spanish Golden Age drama.
+-|e|Which Spanish Golden Age playwright was nicknamed the "Phoenix of Wits"?|Lope de Vega|Vega|n
+-|m|Which play about a village revolt against a commander has a title meaning "The Sheep Well"?|Fuenteovejuna||f
+-|h|Which Calderón play is titled "Life Is a Dream" in English?|La vida es sueño|Vida es sueño|f
+B|m|Answer these questions about Ancient Greek authors.
+-|e|Which Greek historian wrote about the Persian Wars and is called the Father of History?|Herodotus|n
+-|m|Which Greek poet from Lesbos wrote lyric poems and is called the Tenth Muse?|Sappho|n
+-|h|Which Greek historian wrote about the Peloponnesian War?|Thucydides|n
+B|e|Answer these questions about the Arabian Nights and Persian tales.
+-|e|Which sailor of the Arabian Nights makes seven voyages?|Sinbad|Sindbad|
+-|m|In the Arabian Nights, what phrase opens the cave of the Forty Thieves?|Open Sesame|Open, Sesame|
+-|h|Which lamp-owning young man appears in an Arabian Nights tale with a genie?|Aladdin||

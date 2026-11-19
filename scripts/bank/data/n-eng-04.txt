@@ -1,0 +1,113 @@
+# ncal jv | English | Mythology 2
+B|m|Answer these questions about Norse mythology.
+-|e|Which Norse god of war lost his hand to the wolf Fenrir?|Tyr|Tiw;Tyr|n
+-|m|Which primordial frost giant's body was used to form the world?|Ymir|n
+-|h|Which Norse goddess kept the golden apples that kept the gods young?|Idun|Idunn;Iduna|n
+B|m|Answer these questions about Egyptian mythology.
+-|e|Which river was the center of ancient Egyptian life?|Nile River|Nile
+-|m|Which sun disk god was promoted by the pharaoh Akhenaten?|Aten|Aton|n
+-|h|Which sister of Isis was the wife of Set?|Nephthys|n
+B|m|Answer these questions about the labors of Heracles.
+-|e|Which stables full of dung did Heracles clean in a single day by diverting rivers?|the Augean stables|Augean stables;Stables of Augeas;Augean
+-|m|Which king of Tiryns and Mycenae assigned the labors?|Eurystheus|n
+-|h|Which creature with golden horns, sacred to Artemis, did Heracles capture alive?|Ceryneian Hind|Golden Hind;Ceryneian Deer
+B|m|Answer these questions about the Odyssey.
+-|e|To which island kingdom is Odysseus trying to return?|Ithaca|Ithaka
+-|m|Which faithful wife waits for Odysseus and weaves a shroud by day, unraveling it by night?|Penelope|n
+-|h|Which Phaeacian princess finds Odysseus washed up on the shore?|Nausicaa|n
+B|m|Answer these questions about the Trojan War.
+-|e|Which city did the Greeks besiege for ten years?|Troy
+-|m|Which aged king of that city was the father of Hector and Paris?|Priam|King Priam|n
+-|h|Which Greek warrior, called "the Greater," fought Hector in single combat to a draw?|Ajax|Great Ajax;Ajax the Greater
+B|m|Answer these questions about the "Aeneid."
+-|e|Which queen of Carthage falls in love with Aeneas?|Dido|n
+-|m|Which father does Aeneas carry on his back out of burning Troy?|Anchises|n
+-|h|Which Rutulian leader does Aeneas kill in the final scene?|Turnus|n
+B|e|Answer these questions about Roman names for Greek gods.
+-|e|What is the Roman name of Eros, the god of love?|Cupid|Amor|n
+-|m|What is the Roman name of Artemis?|Diana|n
+-|h|What is the Roman name of Hephaestus?|Vulcan|n
+B|m|Answer these questions about the Titans.
+-|e|Which Titan, the father of Zeus, swallowed his children?|Cronus|Kronos|n
+-|m|Which Titaness was the wife of that Titan and mother of Zeus?|Rhea|n
+-|h|Which Titaness of memory was the mother of the Muses?|Mnemosyne|n
+B|m|Answer these questions about the Muses.
+-|e|On which mountain do the gods of Greek myth live?|Mount Olympus|Olympus
+-|m|Which Muse of history shares a name with a modern awards ceremony for advertising?|Clio|n
+-|h|Which Muse of astronomy has a name that sounds like a planet?|Urania|n
+B|m|Answer these questions about destiny in Greek myth.
+-|e|What are the three goddesses who control human destiny called in English?|the Fates|Fates;Moirai;Moirae
+-|m|Which Fate spins the thread of life?|Clotho|n
+-|h|Which Fate cuts the thread of life?|Atropos|n
+B|m|Answer these questions about Perseus.
+-|e|Which princess did Perseus rescue from a sea monster?|Andromeda|n
+-|m|What was the name of the mother of Perseus?|Danae|n
+-|h|Which island king, who wanted to marry his mother, sent Perseus to fetch the head of Medusa?|Polydectes|n
+B|m|Answer these questions about Jason and the Argonauts.
+-|e|What was the name of Jason's ship?|the Argo|Argo
+-|m|Which sorceress princess of Colchis helped Jason win the Golden Fleece?|Medea|n
+-|h|Which king of Iolcus sent Jason on his quest?|Pelias|n
+B|m|Answer these questions about Theseus.
+-|e|Which princess of Crete gave Theseus a ball of thread to escape the Labyrinth?|Ariadne|n
+-|m|Which king of Athens, the father of Theseus, threw himself into the sea?|Aegeus|n
+-|h|Which sea is named for the king who fell into it?|Aegean Sea|Aegean
+B|m|Answer these questions about Hindu mythology.
+-|e|Which Hindu god is the preserver in the Trimurti?|Vishnu|n
+-|m|Which Sanskrit epic contains the Bhagavad Gita?|the Mahabharata|Mahabharata
+-|h|Which Sanskrit epic tells of Prince Rama and his wife Sita?|the Ramayana|Ramayana
+B|m|Answer these questions about Arthurian legend.
+-|e|Which king ruled from Camelot?|King Arthur|Arthur|n
+-|m|Which wizard advised Arthur?|Merlin|n
+-|h|Which knight, the son of Lancelot, achieves the quest for the Holy Grail?|Galahad|Sir Galahad|n
+B|m|Answer these questions about Mesopotamian mythology.
+-|e|Which Babylonian goddess of love and war is called Inanna in Sumerian?|Ishtar|n
+-|m|Which wild man, created by the gods, becomes the friend of Gilgamesh?|Enkidu|n
+-|h|Which survivor of the great flood is visited by Gilgamesh?|Utnapishtim|n
+B|m|Answer these questions about Aztec and Maya myth.
+-|e|What was the Aztec capital city, built on an island in a lake?|Tenochtitlan
+-|m|Which Aztec god of the sun and war was the patron of the Mexica?|Huitzilopochtli|n
+-|h|Which sacred Maya book tells of the Hero Twins?|Popol Vuh
+B|m|Answer these questions about Japanese mythology.
+-|e|What is the Shinto word for a god or spirit?|kami|f
+-|m|Which storm god is the brother of Amaterasu?|Susanoo|Susano-o;Susanowo|n
+-|h|Which goddess, wife of Izanagi, died giving birth to fire and went to the land of the dead?|Izanami|n
+B|m|Answer these questions about trickster figures.
+-|e|Which West African spider is a famous trickster in stories?|Anansi|Ananse|n
+-|m|Which Polynesian demigod pulled islands out of the sea with a fishhook?|Maui|n
+-|h|Which animal is the trickster in many Native American traditions of the Southwest and California?|coyote|Coyote
+B|m|Answer these questions about warrior women in Greek myth.
+-|e|What name is given to the legendary tribe of warrior women of Greek myth?|Amazons|the Amazons
+-|m|Which Amazon queen owned a girdle that Heracles was sent to retrieve?|Hippolyta|n
+-|h|Which Amazon queen fought Achilles in the Trojan War?|Penthesilea|n
+B|e|Answer these questions about sacred symbols of the gods.
+-|e|Which bird is sacred to Athena?|owl|the owl
+-|m|Which tree did Athena give to the people of Athens?|olive tree|olive
+-|h|Into which tree was the nymph Daphne turned while fleeing Apollo?|laurel|laurel tree;bay tree
+B|m|Answer these questions about the rivers of the Greek underworld.
+-|e|Which river do the dead cross with the ferryman Charon?|Styx|River Styx
+-|m|Which river of woe is one of the five rivers of the Greek underworld?|Acheron|n
+-|h|Which river of fire flows through Tartarus?|Phlegethon|Pyriphlegethon
+B|m|Answer these questions about Greek monsters.
+-|e|Which six-headed sea monster threatened ships in the Strait of Messina?|Scylla|n
+-|m|Which whirlpool lay opposite the other sea monster of the strait?|Charybdis|n
+-|h|Which hundred-headed monster challenged Zeus for control of the cosmos?|Typhon|Typhoeus|n
+B|m|Answer these questions about a famous Greek oracle.
+-|e|In which Greek town was the most famous oracle of Apollo?|Delphi
+-|m|What was the title of the priestess who delivered the oracle's prophecies?|the Pythia|Pythia
+-|h|Which serpent did Apollo slay at his shrine?|Python
+B|m|Answer these questions about early Rome.
+-|e|On which river is Rome located?|Tiber River|Tiber
+-|m|Which of Rome's seven hills is the traditional site where Romulus founded the city?|Palatine Hill|Palatine
+-|h|Which Roman historian wrote "Ab Urbe Condita," a history of Rome from its founding?|Livy|Titus Livius|n
+B|m|Answer these questions about Greek poets and dramatists.
+-|e|Which blind poet is traditionally credited with the "Iliad" and the "Odyssey"?|Homer|n
+-|m|Which poet wrote the "Theogony," an account of the origin of the gods?|Hesiod|n
+-|h|Which Greek playwright wrote the "Oresteia"?|Aeschylus|n
+B|m|Answer these questions about the sun and moon in Greek myth.
+-|e|Which Titan is the Greek god of the sun?|Helios|n
+-|m|Which goddess drives the moon's chariot across the sky?|Selene|n
+-|h|Which son of the sun god lost control of his father's chariot and was struck down by Zeus?|Phaethon|n
+B|m|Answer these questions about more Norse myths.
+-|e|What is the name of Odin's spear that never misses its target?|Gungnir
+-|m|Which wolf chases the sun across the sky in Norse myth?|Skoll|Sköll
+-|h|Which Norse god of fertility is the twin brother of Freya?|Freyr|Frey|n

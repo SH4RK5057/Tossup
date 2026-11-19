@@ -17,24 +17,27 @@ const rows: Record<string, unknown>[] = [];
 for (const f of mine) rows.push(...(parseBank(readFileSync(f, 'utf8'), f) as Record<string, unknown>[]));
 
 const existing = [...readJson('seed/questions.json'), ...readJson('batches/questions-batch-1.json')];
+const others: Record<string, unknown>[] = []; // other writers' rows, counted toward subject totals
 for (const name of readdirSync(dataDir).filter((n) => n.endsWith('.txt'))) {
   const path = resolve(new URL(name, dataDir).pathname.replace(/^\/([A-Za-z]:)/, '$1'));
   if (mine.has(path) || [...mine].some((m) => m.toLowerCase() === path.toLowerCase())) continue;
-  try { existing.push(...(parseBank(readFileSync(path, 'utf8'), name) as Record<string, unknown>[])); } catch { /* another writer's file is mid-edit: skip it */ }
+  try { const r = parseBank(readFileSync(path, 'utf8'), name) as Record<string, unknown>[]; existing.push(...r); others.push(...r); } catch { /* another writer's file is mid-edit: skip it */ }
 }
 
 const targets = JSON.parse(readFileSync(new URL('scripts/bank/targets.json', root), 'utf8')) as {
   rulesetId: string; level: string; category: string; subcategory: string; tossups: number; bonuses: number;
 }[];
 const have = new Map<string, { t: number; b: number }>();
-for (const r of rows) {
+const mineKeys = new Set(rows.map((r) => `${(r.rulesets as string[])[0]}|${r.level}|${r.subcategory}`));
+for (const r of [...rows, ...others]) {
   const k = `${(r.rulesets as string[])[0]}|${r.level}|${r.subcategory}`;
+  if (!mineKeys.has(k)) continue;
   const c = have.get(k) ?? { t: 0, b: 0 };
   if (r.type === 'tossup') c.t++; else c.b++;
   have.set(k, c);
 }
 console.log(`\n${rows.length} rows in ${mine.size} file(s)\n`);
-console.log('subject counts (have/target):');
+console.log('subject counts (have/target, including all writers files):');
 for (const t of targets) {
   const c = have.get(`${t.rulesetId}|${t.level}|${t.subcategory}`);
   if (!c) continue;

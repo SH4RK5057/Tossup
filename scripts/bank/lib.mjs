@@ -17,6 +17,15 @@ const OPT_TOKEN = /^(n|n=S.*|m|f|dup|part|ok|p=S.*)$/;
 /** A lone trailing field that is made only of option tokens is the opts field (alts omitted). */
 const looksLikeOpts = (s) => !!s && s.trim().split(/s+/).every((t) => OPT_TOKEN.test(t));
 
+/** Writers sometimes separate alternates with "|" instead of ";": fold any extra fields into alternates. */
+function tail(rest) {
+  const r = rest.map((x) => (x ?? '').trim());
+  while (r.length && r[r.length - 1] === '') r.pop();
+  let opts;
+  if (r.length >= 2 && looksLikeOpts(r[r.length - 1])) opts = r.pop();
+  return [r.filter(Boolean).join(';'), opts];
+}
+
 function spec(answer, alts, opts) {
   if (opts === undefined && looksLikeOpts(alts)) { opts = alts; alts = ''; }
   const s = {
@@ -67,11 +76,11 @@ export function parseBank(text, file = 'bank') {
     } else if (f[0] === '-') {
       if (!bonus) fail(n, 'bonus part without a bonus');
       if (f.length < 4 || !DIFF[f[1]]) fail(n, 'part line is -|d|text|answer|alts|opts');
-      try { bonus.parts.push({ text: f[2].trim(), part_difficulty: DIFF[f[1]], ...spec(f[3].trim(), f[4], f[5]) }); } catch (e) { fail(n, e.message); }
+      try { bonus.parts.push({ text: f[2].trim(), part_difficulty: DIFF[f[1]], ...spec(f[3].trim(), ...tail(f.slice(4))) }); } catch (e) { fail(n, e.message); }
     } else if (DIFF[f[0]]) {
       bonus = null;
       if (f.length < 3) fail(n, 'tossup line is d|text|answer|alts|opts');
-      try { rows.push({ type: 'tossup', ...base, difficulty: DIFF[f[0]], text: f[1].trim(), ...spec(f[2].trim(), f[3], f[4]) }); } catch (e) { fail(n, e.message); }
+      try { rows.push({ type: 'tossup', ...base, difficulty: DIFF[f[0]], text: f[1].trim(), ...spec(f[2].trim(), ...tail(f.slice(3))) }); } catch (e) { fail(n, e.message); }
     } else {
       fail(n, `unrecognized line start "${f[0]}"`);
     }

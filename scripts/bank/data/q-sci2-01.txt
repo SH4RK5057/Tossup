@@ -1,0 +1,63 @@
+# quizbowl novice | Science | Physics
+e|This quantity is the rate at which an object changes its position, and it includes a direction when treated as a vector. Its SI unit is the meter per second. Cars display its magnitude on a speedometer. For 10 points, name this quantity, which is distance divided by time.|Velocity|Speed
+e|This scientist formulated three laws of motion and a law of universal gravitation. He published the Principia in 1687. A unit of force is named for him. For 10 points, name this English physicist, who supposedly was inspired by a falling apple.|Isaac Newton|Newton|n
+e|This force opposes the relative motion of two surfaces in contact. It is the reason a sliding book eventually comes to rest on a table. It produces heat when you rub your hands together. For 10 points, name this force, which is reduced by lubricants like oil.|Friction
+e|This is the SI unit of energy and work, equal to one newton-meter. It is named for an English brewer who studied heat and mechanical equivalence. A watt is one of these per second. For 10 points, name this unit, abbreviated J.|Joule|Joules
+e|This is the tendency of an object to resist changes in its state of motion. Newton's first law is sometimes named for it. A passenger lurches forward when a car brakes suddenly because of it. For 10 points, name this property, which is greater for more massive objects.|Inertia
+e|This is the rate at which velocity changes with time. Near Earth's surface, falling objects have this value of about 9.8 meters per second squared when air resistance is ignored. Newton's second law relates force, mass, and this quantity. For 10 points, name this quantity.|Acceleration
+e|This type of energy is possessed by an object because of its motion. It equals one half mass times velocity squared. A roller coaster has the most of it at the bottom of a hill. For 10 points, name this form of energy, contrasted with potential energy.|Kinetic energy|kinetic
+e|This Italian scientist used a telescope to discover four large moons of Jupiter. Legend says he dropped objects from the Leaning Tower of Pisa. He was tried by the Inquisition for supporting heliocentrism. For 10 points, name this scientist.|Galileo Galilei|Galileo|n
+e|This is the bending of a light ray as it passes from one medium into another, such as from air into water. It makes a straw in a glass of water appear broken. Lenses work because of it. For 10 points, name this phenomenon, distinct from reflection.|Refraction
+e|This subatomic particle carries a negative charge and orbits the nucleus of an atom. It was discovered by J. J. Thomson in 1897. The flow of these particles through a wire makes up an electric current. For 10 points, name this particle.|Electron|Electrons
+e|This is the SI unit of power, equal to one joule per second. A common lightbulb is rated in units of this name. It honors the Scottish engineer who improved the steam engine. For 10 points, name this unit, abbreviated W.|Watt|Watts
+e|This quantity is the product of an object's mass and its velocity. It is conserved in collisions in an isolated system. A heavy truck moving slowly can have the same amount as a fast bullet. For 10 points, name this vector quantity.|Momentum
+m|This is the type of heat transfer in which warm fluid rises and cool fluid sinks, setting up a circulating current. It drives the movement of air in weather systems. It occurs in a pot of boiling water. For 10 points, name this process, distinct from conduction and radiation.|Convection
+m|This law states that the current through a conductor is proportional to the voltage across it when temperature is constant. It is often written V equals I times R. It was formulated by a German physicist in 1827. For 10 points, name this law relating voltage, current, and resistance.|Ohm's law|Ohms law
+m|This Greek scholar discovered that an object submerged in a fluid feels an upward force equal to the weight of the fluid displaced. According to legend, he shouted "Eureka" after having this insight in a bath. For 10 points, name this scholar, whose principle explains why ships float.|Archimedes||n
+m|This is the effect in which the observed frequency of a wave changes when the source and observer move relative to one another. It explains why an ambulance siren sounds higher as it approaches. It is used in radar speed guns. For 10 points, name this effect, named for an Austrian physicist.|Doppler effect|Doppler shift;Doppler
+m|This is the SI unit of frequency, equal to one cycle per second. It is named for a German physicist who first demonstrated radio waves. Radio stations are labeled in kilo- and mega- versions of it. For 10 points, name this unit.|Hertz|Hz
+m|This type of simple device consists of a mass hanging from a fixed point and swinging back and forth. Galileo noted that for small swings its period depends on its length rather than the size of the swing. Grandfather clocks use one. For 10 points, name this device.|Pendulum|simple pendulum
+m|This English scientist discovered electromagnetic induction in 1831 and invented an early electric motor. He gave public Christmas lectures at the Royal Institution, including one on the chemical history of a candle. For 10 points, name this scientist for whom a "cage" that blocks electric fields is named.|Michael Faraday|Faraday|n
+m|This is the SI unit of pressure, equal to one newton per square meter. It is named for a French mathematician and physicist who studied fluids and wrote Pensees. For 10 points, name this unit.|Pascal|Pascals;Pa
+m|Newton showed that a glass triangular object can split white light into a spectrum, a process called dispersion. For 10 points, name this transparent object that separates sunlight into colors, as in an album cover by Pink Floyd.|Prism|Glass prism
+m|In physics, this quantity is calculated as force times the distance moved in the direction of the force. Its units are joules. Lifting a box onto a shelf requires this to be done against gravity. For 10 points, name this quantity, which is transferred to an object when a force moves it.|Work
+m|This is the term for the lowest possible temperature, equal to zero kelvin. At this temperature particles have minimal thermal motion. It corresponds to about minus 273 degrees Celsius. For 10 points, name this temperature.|Absolute zero
+m|Light is made of tiny packets of energy called these. Albert Einstein used this concept to explain the photoelectric effect. Their energy is proportional to the frequency of the light. For 10 points, name these particles of light.|Photons|Photon
+m|This type of lens is thicker in the middle than at the edges and focuses parallel light rays to a point. Magnifying glasses and the lens in a camera are examples. The curved shape is called convex. For 10 points, name this kind of lens, which can form real images.|Converging lens|Convex lens;Magnifying glass;convex
+h|In this device, an alternating current in a primary coil induces a voltage in a secondary coil sharing an iron core. The ratio of turns in the coils determines whether voltage is stepped up or stepped down. Power companies use these to send electricity across long distances at high voltage. For 10 points, name this device.|Transformer
+h|This scientist's equation E equals m c squared relates mass and energy. He won the 1921 Nobel Prize in Physics for explaining the photoelectric effect. He also developed the theories of special and general relativity. For 10 points, name this German-born physicist.|Albert Einstein|Einstein|n
+h|This principle states that the pressure applied to an enclosed fluid is transmitted undiminished throughout it. Hydraulic lifts and car brakes make use of it. It is named for the same Frenchman as the SI unit of pressure. For 10 points, name this principle, a law of fluid statics.|Pascal's principle|Pascal's law;Pascals principle
+h|This property of a wave describes the maximum displacement from its rest position. For a sound wave, greater values correspond to louder sounds, and for light, to greater brightness. It is not the same as wavelength. For 10 points, name this property, half of the peak-to-peak height of a transverse wave.|Amplitude
+h|This is the name for the region around a magnet in which other magnets and magnetic materials feel a force. Iron filings sprinkled near a bar magnet trace out its lines. Earth has one that protects the planet from the solar wind. For 10 points, name this kind of field.|Magnetic field
+B|m|Answer these questions about units in physics.
+-|e|What is the SI unit of force, named for an English scientist?|Newton|Newtons;
+-|m|What SI unit, named for a French physicist and mathematician, measures electric current?|Ampere|Amp;Amps
+-|h|What SI unit of electric resistance is named for a German physicist?|Ohm|Ohms
+B|m|Answer these questions about the electromagnetic spectrum.
+-|e|Which type of electromagnetic wave from the Sun causes sunburn and is just beyond violet light?|Ultraviolet|Ultraviolet light;UV
+-|m|Which electromagnetic waves have the highest energy and are emitted by radioactive nuclei?|Gamma rays|Gamma
+-|h|Which electromagnetic waves, with wavelengths from about a millimeter to a meter, are used in ovens to heat food?|Microwaves|Microwave
+B|e|Answer these questions about simple machines.
+-|e|Which simple machine is a rigid bar that pivots on a fulcrum?|Lever
+-|m|Which simple machine is a sloped surface, like a ramp, that reduces the force needed to raise a load?|Inclined plane|Ramp
+-|h|Which simple machine is a grooved wheel with a rope running over it, used in a flagpole?|Pulley
+B|m|Answer these questions about the changes of state of matter.
+-|e|What is the term for the change from a solid to a liquid?|Melting
+-|m|What is the term for the direct change from a solid to a gas, as in dry ice?|Sublimation
+-|h|What is the fourth common state of matter, an ionized gas found in lightning and the Sun?|Plasma
+B|h|Answer these questions about pioneers of atomic physics.
+-|e|Which Polish-born scientist, the first person to win Nobel Prizes in two different sciences, studied radioactivity?|Marie Curie|Curie|n
+-|m|Which New Zealand-born physicist discovered the atomic nucleus using gold foil?|Ernest Rutherford|Rutherford|n
+-|h|Which Danish physicist proposed a model of the atom in which electrons orbit in discrete energy levels?|Niels Bohr|Bohr|n
+B|m|Answer these questions about electric circuits.
+-|e|In which kind of circuit is there only a single path for current to flow, so that removing one bulb breaks the whole circuit?|Series circuit|Series
+-|m|Which device in a circuit is used to measure current and is connected in series?|Ammeter
+-|h|Which kind of circuit has multiple branches so each component has the same voltage across it?|Parallel circuit|Parallel
+B|e|Answer these questions about energy.
+-|e|What type of energy is stored in an object because of its height above the ground?|Gravitational potential energy|Potential energy;potential
+-|m|What term describes the sum of an object's kinetic energy and potential energy?|Mechanical energy
+-|h|What is the name for the energy associated with the random motion of atoms in a substance?|Thermal energy|Heat energy;Internal energy
+B|m|Answer these questions about light and optics.
+-|e|What kind of mirror, curved inward like the inside of a spoon, can focus light to a point?|Concave mirror|Concave
+-|m|The angle of incidence equals the angle of this for a light ray bouncing off a flat mirror. Give the missing word.|Reflection|Angle of reflection
+-|h|Approximately how fast does light travel in a vacuum, in meters per second, to one significant figure and in scientific notation or full digits?|300000000|3 times 10 to the 8th;3 x 10^8|m

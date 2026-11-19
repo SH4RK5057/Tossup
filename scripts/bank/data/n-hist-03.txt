@@ -1,0 +1,225 @@
+# ncal jv | Social Science | World Geography
+e|What is the capital of France?|Paris
+e|What is the capital of Italy?|Rome
+e|What is the capital of Germany?|Berlin
+e|What is the capital of the United Kingdom?|London
+e|What is the capital of Russia?|Moscow
+e|What is the capital of China?|Beijing|Peking
+e|What is the capital of Egypt?|Cairo
+e|What is the capital of Mexico?|Mexico City
+e|What is the capital of Argentina?|Buenos Aires
+e|What is the capital of Greece?|Athens
+e|What is the capital of India?|New Delhi|Delhi
+e|Which is the largest country in the world by area?|Russia
+e|Which is the largest ocean on Earth?|Pacific Ocean|Pacific
+e|Which is the longest river in Africa, flowing north into the Mediterranean Sea?|Nile River|Nile
+e|Which continent is the coldest and is covered mostly by ice at the South Pole?|Antarctica
+e|Which imaginary line at zero degrees latitude divides Earth into the Northern and Southern Hemispheres?|Equator|the Equator
+e|Which imaginary line at zero degrees longitude passes through Greenwich, England?|Prime Meridian|prime meridian
+e|Which sea lies between Europe and Africa and has Italy and Egypt on its shores?|Mediterranean Sea|Mediterranean
+e|Which country has the largest population in South America and speaks Portuguese?|Brazil
+e|Which island country in the Pacific is made up of four main islands including Honshu?|Japan
+e|Which mountain range separates Europe from Asia in Russia?|Ural Mountains|Urals
+e|Which mountain range in Europe includes Mont Blanc and the Matterhorn?|Alps|Alps Mountains;the Alps
+e|Which is the smallest continent by land area?|Australia|Oceania
+e|Which African country has the largest population?|Nigeria
+e|Which two continents does Egypt's Sinai Peninsula connect?|Africa and Asia|Asia and Africa
+m|What is the capital of South Korea?|Seoul
+m|What is the capital of Thailand?|Bangkok
+m|What is the capital of Turkey?|Ankara
+m|What is the capital of Kenya?|Nairobi
+m|What is the capital of Peru?|Lima
+m|What is the capital of Chile?|Santiago
+m|What is the capital of Portugal?|Lisbon
+m|What is the capital of Poland?|Warsaw
+m|What is the capital of Sweden?|Stockholm
+m|What is the capital of Norway?|Oslo
+m|What is the capital of the Netherlands?|Amsterdam
+m|What is the capital of Austria?|Vienna
+m|What is the capital of Cuba?|Havana
+m|What is the capital of Vietnam?|Hanoi
+m|What is the capital of Indonesia?|Jakarta
+m|What is the capital of Pakistan?|Islamabad
+m|What is the capital of Iraq?|Baghdad
+m|What is the capital of Ireland?|Dublin
+m|What is the capital of Switzerland?|Bern
+m|Which river is the longest in Europe, flowing through Russia into the Caspian Sea?|Volga River|Volga
+m|Which river flows through Vienna, Budapest, and Belgrade on its way to the Black Sea?|Danube River|Danube
+m|Which river is the longest in China and flows through the Three Gorges?|Yangtze River|Yangtze;Chang Jiang
+m|Which river joined by the Brahmaputra forms a huge delta in Bangladesh?|Ganges River|Ganges
+m|Which sea, bordered by Russia, Iran, and Kazakhstan, is the largest inland body of water in the world?|Caspian Sea|Caspian
+m|Which desert covers much of Mongolia and northern China?|Gobi Desert|Gobi
+m|Which desert covers much of Namibia and runs along the Atlantic coast of southern Africa?|Namib Desert|Namib
+m|Which South American desert is one of the driest places on Earth and lies in northern Chile?|Atacama Desert|Atacama
+m|Which mountain range stretches along the entire western coast of South America?|Andes|Andes Mountains;the Andes
+m|Which mountain range separates India from Tibet and includes Everest's neighbors?|Himalayas|Himalaya;Himalayan Mountains
+m|Which large island, the world's largest island, is an autonomous territory of Denmark?|Greenland
+m|Which African lake is the largest in Africa by area and borders Uganda, Kenya, and Tanzania?|Lake Victoria|Victoria
+m|Which waterway links the Atlantic and Pacific Oceans across Central America?|Panama Canal|Panama
+m|Which waterway links the Mediterranean Sea to the Red Sea?|Suez Canal|Suez
+m|Which strait separates Asia from North America near Alaska and Russia?|Bering Strait|Bering
+m|Which country is made up of the islands of Luzon and Mindanao?|Philippines|the Philippines
+m|Which South American country is the home of the Galapagos Islands?|Ecuador
+m|Which sea lies between Europe and Asia and is bordered by Ukraine and Turkey?|Black Sea
+m|Which large peninsula is home to Spain and Portugal?|Iberian Peninsula|Iberia
+m|Which country is shaped like a boot and extends into the Mediterranean?|Italy
+m|Which country in Africa is the largest by area?|Algeria
+m|Which country is the world's largest island nation, made up of thousands of islands between Asia and Australia?|Indonesia
+m|Which country is split between Europe and Asia by the Bosporus strait?|Turkey
+m|Which European country has the cities of Barcelona and Seville?|Spain
+h|What is the capital of Ethiopia?|Addis Ababa
+h|What is the capital of Nigeria?|Abuja
+h|What is the capital of New Zealand?|Wellington
+h|What is the capital of Colombia?|Bogota|Bogotá
+h|What is the capital of Venezuela?|Caracas
+h|What is the capital of Morocco?|Rabat
+h|What is the capital of Saudi Arabia?|Riyadh
+h|What is the capital of Iran?|Tehran
+h|What is the capital of Finland?|Helsinki
+h|What is the capital of Hungary?|Budapest
+h|What is the capital of the Czech Republic?|Prague
+h|What is the capital of Bangladesh?|Dhaka
+h|What is the capital of Ghana?|Accra
+h|What is the capital of Ukraine?|Kyiv|Kiev
+h|What is the capital of Romania?|Bucharest
+h|What is the capital of Afghanistan?|Kabul
+h|Which is the highest waterfall in the world, located in Venezuela?|Angel Falls
+h|Which lake in Siberia is the deepest lake in the world?|Lake Baikal|Baikal
+h|Which salty sea between Israel and Jordan has the lowest land surface on Earth on its shore?|Dead Sea|The Dead Sea
+h|Which narrow strait separates the island of Sicily from mainland Italy?|Strait of Messina|Messina
+h|Which narrow channel separates Britain from France?|English Channel|The Channel
+h|Which body of water lies between the Arabian Peninsula and northeast Africa?|Red Sea
+h|Which African river flows through the Democratic Republic of the Congo and is the deepest in the world?|Congo River|Congo
+h|Which West African river flows in an arc through Mali and Niger and ends in a delta in Nigeria?|Niger River|Niger
+h|Which mountain in Tanzania is the highest in Africa?|Mount Kilimanjaro|Kilimanjaro
+h|Which Asian mountain is the second-highest in the world and also known as the Savage Mountain?|K2|Mount Godwin-Austen;Godwin-Austen
+h|Which island country lies off the southeast coast of Africa and is home to lemurs?|Madagascar
+h|Which landlocked country lies between India and China and has Kathmandu as its capital?|Nepal
+h|Which landlocked South American country has two capitals, La Paz and Sucre?|Bolivia
+h|Which small country is entirely surrounded by South Africa?|Lesotho
+h|Which Central Asian country, the largest landlocked country in the world, has Astana as its capital?|Kazakhstan
+h|Which sea, once the fourth-largest lake in the world, has shrunk drastically between Kazakhstan and Uzbekistan?|Aral Sea|Aral
+h|Which island nation lies south of India and has Colombo as its largest city?|Sri Lanka
+h|Which European country is divided into cantons and has four official languages?|Switzerland
+h|Which northern European country is called the Land of a Thousand Lakes?|Finland
+h|Which country lies between Spain and Italy along the Mediterranean and has the Pyrenees to its south?|France
+h|Which plateau in Asia is called the Roof of the World and lies largely in China?|Tibetan Plateau|Plateau of Tibet;Tibet
+h|Which grassland region of South America is found in Argentina and Uruguay?|Pampas|the Pampas
+h|Which grassland region of Africa is a savanna in Tanzania and Kenya, known for its wildlife migration?|Serengeti|Serengeti Plain
+B|e|Answer these questions about world capitals.
+-|e|What is the capital of Denmark?|Copenhagen
+-|m|What is the capital of Jamaica?|Kingston
+-|h|What is the capital of Myanmar?|Naypyidaw|Nay Pyi Taw
+B|m|Answer these questions about rivers of the world.
+-|e|Which river flows through Cairo?|Nile River|Nile
+-|m|Which river flows through Moscow?|Moskva River|Moskva
+-|h|Which river flows through Dresden and Hamburg on its way to the North Sea?|Elbe River|Elbe
+B|e|Answer these questions about oceans and seas.
+-|e|Which ocean lies between Africa and Australia and is named for a country in Asia?|Indian Ocean
+-|m|Which sea lies north of the Netherlands, Germany, and Denmark and west of Norway?|North Sea
+-|h|Which sea north of Norway and Russia is named for a Dutch explorer?|Barents Sea
+B|m|Answer these questions about mountains of the world.
+-|e|Which mountain on the border of France and Italy is the highest peak in the Alps?|Mont Blanc
+-|m|Which mountain range separates France from Spain?|Pyrenees|Pyrenees Mountains
+-|h|Which mountain in Japan is a famous snow-capped volcano near Tokyo?|Mount Fuji|Fuji
+B|e|Answer these questions about continents.
+-|e|Which continent is home to the Amazon rainforest?|South America
+-|m|Which continent is the largest in area?|Asia
+-|h|Which continent lies between the Atlantic and Indian Oceans and is home to the Sahara and the Congo rainforest?|Africa
+B|m|Answer these questions about countries and their neighbors.
+-|e|Which country lies directly south of the United States?|Mexico
+-|m|Which country lies directly west of Pakistan and north of the Persian Gulf region?|Iran
+-|h|Which country lies north of Zimbabwe, east of Angola, and is named for a river?|Zambia
+B|e|Answer these questions about deserts.
+-|e|Which hot desert covers most of the Arabian Peninsula?|Arabian Desert
+-|m|Which desert in the Tarim Basin of western China is crossed by the Silk Road?|Taklamakan Desert|Taklamakan;Takla Makan
+-|h|Which desert in southern Africa, mostly in Botswana, is known for its Okavango Delta?|Kalahari Desert|Kalahari
+B|m|Answer these questions about islands.
+-|e|Which island nation is located off the southeast coast of Africa?|Madagascar
+-|m|Which island nation lies in the Mediterranean and has Valletta as its capital?|Malta
+-|h|Which Caribbean island is shared by Haiti and the Dominican Republic?|Hispaniola
+B|e|Answer these questions about European geography.
+-|e|Which European country has the city of Amsterdam?|Netherlands|The Netherlands;Holland
+-|m|Which sea borders Sweden, Poland, Estonia, and Germany?|Baltic Sea|Baltic
+-|h|Which European country is made up of the larger island of Great Britain and Northern Ireland?|United Kingdom
+e|Which large country in North America lies north of the United States and has Ottawa as its capital?|Canada
+e|Which country has the city of Mumbai and the Himalayas on its northern border?|India
+e|Which African country has the city of Casablanca on its Atlantic coast?|Morocco
+m|What is the capital of Jordan?|Amman
+m|What is the capital of Lebanon?|Beirut
+B|m|Answer these questions about Asian capitals.
+-|e|What is the capital of Nepal?|Kathmandu
+-|m|What is the capital of Malaysia?|Kuala Lumpur
+-|h|What is the capital of Mongolia?|Ulaanbaatar|Ulan Bator
+B|e|Answer these questions about African capitals.
+-|e|What is the capital of South Africa's executive branch, located in the north of the country?|Pretoria
+-|m|What is the capital of Tanzania since the 1970s, located in the center of the country?|Dodoma
+-|h|What is the capital of Senegal?|Dakar
+B|m|Answer these questions about European capitals.
+-|e|What is the capital of Belgium?|Brussels
+-|m|What is the capital of Croatia?|Zagreb
+-|h|What is the capital of Slovakia?|Bratislava
+B|e|Answer these questions about Latin American capitals.
+-|e|What is the capital of Uruguay?|Montevideo
+-|m|What is the capital of Panama?|Panama City
+-|h|What is the capital of Paraguay?|Asuncion|Asunción
+B|m|Answer these questions about major lakes.
+-|e|Which lake is the largest of the Great Lakes by area and borders Canada and the United States?|Lake Superior|Superior
+-|m|Which lake on the border of Peru and Bolivia is the highest navigable lake in the world?|Lake Titicaca|Titicaca
+-|h|Which African lake is the second-deepest in the world and runs along the Great Rift Valley?|Lake Tanganyika|Tanganyika
+B|e|Answer these questions about straits and canals.
+-|e|Which strait passes through Istanbul and separates Turkey's European and Asian sides?|Bosporus|Bosphorus
+-|m|Which strait separates Denmark from Sweden?|Oresund|Oresund Strait;Øresund;The Sound
+-|h|Which strait lies between Malaysia and Indonesia's Sumatra and is a major shipping lane?|Strait of Malacca|Malacca;Straits of Malacca
+B|m|Answer these questions about Africa's physical geography.
+-|e|Which African country is home to the Great Pyramid and the city of Giza?|Egypt
+-|m|Which waterfall on the Zambezi River on the border of Zambia and Zimbabwe is called the smoke that thunders?|Victoria Falls
+-|h|Which rift valley runs through East Africa and holds many of its large lakes?|Great Rift Valley|Rift Valley;East African Rift
+B|e|Answer these questions about Asia's physical geography.
+-|e|Which country has the Great Wall and the Gobi Desert?|China
+-|m|Which river forms a delta in Vietnam and flows through Laos, Cambodia, and Thailand?|Mekong River|Mekong
+-|h|Which sea in Central Asia has shrunk because rivers feeding it were diverted for irrigation?|Aral Sea
+B|m|Answer these questions about the Middle East.
+-|e|Which sea borders Saudi Arabia on the west?|Red Sea
+-|m|Which strait connects the Persian Gulf to the Gulf of Oman?|Strait of Hormuz|Hormuz
+-|h|Which country lies between Iraq and Pakistan and has Tehran as its capital?|Iran
+B|e|Answer these questions about South America.
+-|e|Which is the longest mountain range in the world, located in South America?|Andes
+-|m|Which South American country has the capital Quito?|Ecuador
+-|h|Which strait at the southern tip of South America connects the Atlantic and Pacific?|Strait of Magellan|Magellan
+B|m|Answer these questions about Oceania.
+-|e|Which country's largest city is Auckland?|New Zealand
+-|m|Which large coral reef lies off the northeastern coast of Australia?|Great Barrier Reef
+-|h|Which island country in the South Pacific is made up of over 300 islands and has Suva as its capital?|Fiji
+B|e|Answer these questions about island nations.
+-|e|Which island country's capital is Reykjavik?|Iceland
+-|m|Which island nation in the Indian Ocean has Male as its capital?|Maldives
+-|h|Which island nation in the Caribbean has the capital Port-au-Prince?|Haiti
+B|m|Answer these questions about bodies of water in Europe.
+-|e|Which sea lies south of Italy, Greece, and Turkey?|Mediterranean Sea|Mediterranean
+-|m|Which river flows through Paris?|Seine
+-|h|Which river flows through Cologne and Rotterdam in Germany and the Netherlands?|Rhine River|Rhine
+B|m|Answer these questions about countries and their languages.
+-|e|Which language is the main language of Brazil?|Portuguese
+-|m|Which country is the largest Spanish-speaking country in South America by population?|Colombia
+-|h|Which African country has French as its official language and Kinshasa as its capital?|Democratic Republic of the Congo|Congo;DRC
+B|e|Answer these questions about hemispheres and lines of latitude.
+-|e|Which circle of latitude at about 66.5 degrees north marks the edge of the polar region?|Arctic Circle
+-|m|Which line of latitude lies at about 23.5 degrees north and passes through Mexico and India?|Tropic of Cancer
+-|h|Which line of latitude lies at about 23.5 degrees south and passes through Brazil and Australia?|Tropic of Capricorn
+B|e|Answer these questions about physical features of North America.
+-|e|Which Canadian mountain range lies west of the Great Plains and extends into the United States?|Rocky Mountains|Rockies
+-|m|Which large bay in northern Canada is named for an English explorer?|Hudson Bay
+-|h|Which Canadian province has the most people and has Toronto as its capital?|Ontario
+B|m|Answer these questions about Europe's rivers and mountains.
+-|e|Which river flows through Florence, Italy?|Arno|Arno River
+-|m|Which mountain range in Italy runs the length of the country like a spine?|Apennines|Apennine Mountains
+-|h|Which Eastern European mountain range arcs through Poland, Slovakia, and Romania?|Carpathian Mountains|Carpathians
+B|e|Answer these questions about Africa's countries.
+-|e|Which African country has Cape Town and Johannesburg?|South Africa
+-|m|Which African country is the home of the Serengeti and Mount Kilimanjaro?|Tanzania
+-|h|Which North African country has the capital Tunis?|Tunisia
+B|m|Answer these questions about world rivers and cities.
+-|e|Which river flows through Berlin?|Spree|Spree River
+-|m|Which river flows through Warsaw, the capital of Poland?|Vistula|Vistula River
+-|h|Which river flows through Lisbon, Portugal, and Toledo, Spain?|Tagus|Tagus River;Tajo

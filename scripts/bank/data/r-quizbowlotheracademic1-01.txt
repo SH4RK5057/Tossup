@@ -1,0 +1,64 @@
+# quizbowl jv | Other Academic | General Knowledge
+B|m|Answer these questions about trivia from around the world.
+-|e|What is the capital city of Australia?|Canberra|n
+-|m|The chemical symbol Au stands for which element?|gold
+-|h|In which Shakespeare play does the sorcerer Prospero live on an island with his daughter Miranda?|The Tempest|Tempest
+# quizbowl jv | Other Academic | Other Academic
+e|This object was found in 1799 near a port in the Nile Delta by soldiers of Napoleon's army. It bears a decree issued in 196 BC in three scripts, including Greek and Demotic. Jean-Francois Champollion used it to decipher Egyptian hieroglyphs. For 10 points, name this slab of granodiorite now in the British Museum.|Rosetta Stone|Rosetta
+e|In 1215, rebellious barons forced King John of England to seal this document at Runnymede. Its clause 39 promised that no free man would be imprisoned except by lawful judgment of his peers. It is often cited as a foundation of constitutional limits on rulers. For 10 points, name this "Great Charter."|Magna Carta|Magna Charta
+e|This man's best-known work, printed in Mainz in the 1450s, was a Bible with 42 lines per page. He combined a screw press with movable metal type cast in a hand mold. His workshop was financed by loans from Johann Fust. For 10 points, name this German printer.|Johannes Gutenberg|Gutenberg|n
+m|This constructed language was published in 1887 in a booklet called the Unua Libro. Its creator, a Polish ophthalmologist, wanted it to be a neutral second language for everyone. Its name comes from its creator's pseudonym, Doktoro, meaning "one who hopes." For 10 points, name this most widely spoken constructed language.|Esperanto
+e|This man lost his sight in a childhood accident in his father's leather workshop. At age 15 he adapted a military code called night writing, invented by Charles Barbier. The system he developed uses cells of six raised dots. For 10 points, name this Frenchman who created a reading system for the blind.|Louis Braille|Braille|n
+e|This inventor and painter was helped by Alfred Vail in refining his electromagnetic telegraph. In 1844 he sent the message "What hath God wrought" from the Capitol to Baltimore. His name is given to a code of dots and dashes. For 10 points, name this American.|Samuel Morse|Morse|n
+e|This man's assistant Thomas Watson heard the first sentence spoken over his device: "Come here, I want to see you." He received a patent for his invention in 1876. He was born in Edinburgh and taught speech to deaf students in Boston. For 10 points, name this inventor of the telephone.|Alexander Graham Bell|Bell|n
+e|One of these two siblings made the first powered flight on December 17, 1903, lasting twelve seconds. They tested gliders and built a wind tunnel in their Dayton bicycle shop. Their craft was the Flyer, flown at Kitty Hawk. For 10 points, name these brothers, Orville and Wilbur.|Wright brothers|Orville and Wilbur Wright;Wilbur and Orville Wright;the Wrights;Wright|n=Wright
+m|Its original definition came from a French expedition that surveyed the arc from Dunkirk to Barcelona. It was meant to equal one ten-millionth of the distance from the equator to the North Pole through Paris. It is the base unit of length in the metric system. For 10 points, name this unit, about 39 inches long.|meter|metre
+m|Originally, this man's temperature scale was inverted, with 100 as the freezing point of water and 0 as its boiling point. Carl Linnaeus helped reverse it after his death. He was an astronomer at Uppsala who also measured the shape of the Earth in Lapland. For 10 points, name this Swede who gives his name to a scale on which water freezes at zero.|Anders Celsius|Celsius|n
+m|On this scale, talc is rated 1 and gypsum is rated 2. Quartz is 7 and corundum is 9. A mineral that can scratch another has a higher number on it. For 10 points, name this scale of mineral hardness topped by diamond at 10.|Mohs scale|Mohs hardness scale|Mohs
+m|Created by an Irish-born officer of the Royal Navy, this scale originally described the effect of wind on a sailing ship's canvas. Its levels run from 0, "calm," up to 12. Force 12 is a hurricane. For 10 points, name this scale of wind speed.|Beaufort scale|Beaufort wind force scale|Beaufort
+m|Developed in 1935 by a seismologist at the California Institute of Technology, this logarithmic scale measures earthquake size. Each whole-number step means ground motion ten times greater. It has largely been replaced by moment magnitude. For 10 points, name this scale named for Charles Richter.|Richter scale|Richter magnitude scale|Richter
+e|Established by a bequest from a Hungarian-born newspaper publisher, this prize is administered by Columbia University. First awarded in 1917, its categories include journalism, letters, drama, and music. Winners get a certificate and a cash award. For 10 points, name this American prize that honors writers and journalists.|Pulitzer Prize|Pulitzer
+m|This system was devised in 1876 by a librarian at Amherst College. It divides knowledge into ten main classes, such as 500 for natural sciences and 800 for literature. Books on library shelves are arranged by its numbers. For 10 points, name this classification system created by Melvil Dewey.|Dewey Decimal System|Dewey Decimal Classification|Dewey Decimal
+m|This Swedish botanist's Systema Naturae first appeared in 1735. He standardized binomial nomenclature, giving each species a genus name and a species name. He called humans Homo sapiens. For 10 points, name this "father of taxonomy."|Carl Linnaeus|Linnaeus|Carl von Linne|n
+m|This man's first book, a speller with a blue cover, taught generations of American children to read. In 1828 he published a two-volume dictionary that simplified spellings such as "color" and "theater." He was a Connecticut-born lexicographer. For 10 points, name this author of An American Dictionary of the English Language.|Noah Webster|Webster|n
+m|A black basalt stele topped by a relief of the sun god Shamash records this ruler's laws. It was found at Susa in 1901 and is now in the Louvre. Its laws include "an eye for an eye" punishments. For 10 points, name this king of Babylon.|Hammurabi|Code of Hammurabi
+m|This alphabet is named for a Byzantine missionary, Saint Cyril, though his associate probably did not design it. It is used for writing Russian, Ukrainian, Bulgarian, and Serbian. Many of its letters, such as the one shaped like a backward N, derive from Greek. For 10 points, name this alphabet.|Cyrillic|Cyrillic alphabet
+m|This man, who was not literate in English, invented a syllabary for his people's language around 1821. Each of its symbols stands for a syllable rather than a single sound. Within a few years, thousands of his people had learned to read and write. For 10 points, name this Cherokee silversmith.|Sequoyah|n
+h|The Polish Cipher Bureau first broke early versions of this device. At Bletchley Park, Alan Turing and others read its messages with help from electromechanical bombes. It scrambled letters using rotors, a plugboard, and a reflector. For 10 points, name this cipher machine used by Nazi Germany.|Enigma|Enigma machine
+h|The notes to a paper translating a lecture by Luigi Menabrea include what is often called the first computer program. It was an algorithm to calculate Bernoulli numbers on Charles Babbage's Analytical Engine. The author was the only legitimate child of Lord Byron. For 10 points, name this woman, the Countess of Lovelace.|Ada Lovelace|Lovelace|Augusta Ada King|n
+h|In 1989, this British scientist working at CERN proposed a system of linked hypertext documents. He wrote the first web browser and server in 1990. He later founded the World Wide Web Consortium. For 10 points, name this inventor of the World Wide Web.|Tim Berners-Lee|Timothy Berners-Lee|Berners-Lee|n=Berners-Lee
+m|Introduced by a papal bull in 1582, this system dropped ten days that October. It was designed to fix drift in the date of Easter that the Julian system caused. Under its rule, a century year is a leap year only if divisible by 400. For 10 points, name this calendar used worldwide, named for Pope Gregory XIII.|Gregorian calendar|Gregorian
+h|An international conference in Washington in 1884 chose this English town's observatory as the zero of longitude. The prime meridian passes through the Royal Observatory there. Mean time at this location gives its name to a world time standard. For 10 points, name this London borough on the Thames.|Greenwich|Greenwich Observatory
+e|This Swedish chemist made a fortune from dynamite and other explosives. His will set aside money to honor achievements in physics, chemistry, medicine, literature, and peace. The first prizes were given in 1901. For 10 points, name this man who established an annual set of prizes.|Alfred Nobel|Nobel|n
+m|In 1901, this Italian engineer received a signal sent from Cornwall at his station on Signal Hill in Newfoundland. The signal was the letter S in Morse code. He shared the 1909 Nobel Prize in Physics for work on wireless telegraphy. For 10 points, name this inventor of a radio system.|Guglielmo Marconi|Marconi|n
+m|After graduating from Yale, this man built a machine at a Georgia plantation that separated cotton fibers from seeds. He patented it in 1794. Later he promoted the idea of interchangeable parts in making muskets for the government. For 10 points, name this American inventor of the cotton gin.|Eli Whitney|Whitney|n
+e|In 1913 at the Highland Park plant, this man's company introduced a moving assembly line. In 1914 he announced a wage of five dollars for an eight-hour day. His cheap Model T put millions of Americans on the road. For 10 points, name this founder of a Detroit car company.|Henry Ford|Ford|n
+h|This imaginary line mostly follows the 180th meridian, though it bends around island groups such as Fiji and Kiribati. A traveler crossing it heading west skips ahead one calendar day. It lies opposite the prime meridian. For 10 points, name this line where each new calendar day begins.|International Date Line|Date Line
+B|m|Answer these questions about founding documents of the United States.
+-|e|Who was the principal author of the Declaration of Independence?|Thomas Jefferson|Jefferson|n
+-|m|How many amendments make up the Bill of Rights?|ten|10|m
+-|h|Which Virginian wrote the 1776 Virginia Declaration of Rights, a model for the Bill of Rights?|George Mason|Mason|n
+B|m|Answer these questions about customary units of measure.
+-|e|How many feet are in a mile?|5280|5,280|m
+-|m|How many ounces are in a pound?|sixteen|16|m
+-|h|A fathom is a unit used for depth of water. How many feet long is one fathom?|six|6|m
+B|m|Answer these questions about writing systems.
+-|e|What is the last letter of the Greek alphabet?|omega|Omega
+-|m|What is the first letter of the Hebrew alphabet?|aleph|alef
+-|h|How many letters are in the Hebrew alphabet?|22|twenty-two|m
+B|m|Answer these questions about inventors.
+-|e|Which American invented the phonograph in 1877?|Thomas Edison|Edison|n
+-|m|Which Scottish engineer greatly improved the steam engine by adding a separate condenser?|James Watt|Watt|n
+-|h|Which Cornish-born chemist invented a safety lamp for coal miners in 1815?|Humphry Davy|Davy|n
+B|m|Answer these questions about languages.
+-|e|Hiragana and katakana are scripts used to write which language?|Japanese
+-|m|Which Romance language uses the word "obrigado" for "thank you"?|Portuguese
+-|h|English and German both belong to which branch of the Indo-European language family?|Germanic
+B|m|Answer these questions about awards.
+-|e|The Academy Awards statuette is nicknamed by what name?|Oscar
+-|m|The Tony Awards honor excellence in what performing art?|theater|theatre|Broadway theater
+-|h|The Newbery Medal is given for outstanding books written for what audience?|children|children's literature
+B|m|Answer these questions about calendars.
+-|e|How many days are in a leap year?|366|three hundred sixty-six|m
+-|m|Which Roman leader introduced the Julian calendar in 46 BC?|Julius Caesar|Caesar|n
+-|h|The month of August is named for which first Roman emperor?|Augustus|Octavian|n

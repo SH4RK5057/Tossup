@@ -1,0 +1,109 @@
+# ncal varsity | Social Science | World Governments
+e|What type of government is ruled by a king or queen whose power is passed down through a family?|monarchy
+e|What type of government has a single leader with complete power, with no limits?|dictatorship|autocracy
+e|What type of government is ruled by the people, either directly or through elected representatives?|democracy
+e|What term describes a monarchy in which the king or queen's power is limited by a constitution?|constitutional monarchy
+e|What term describes a government in which the monarch has absolute power?|absolute monarchy
+e|What term describes a government in which the people elect representatives to make decisions for them?|representative democracy|republic
+e|In a parliamentary system, what is the title of the head of government, usually the leader of the majority party?|prime minister
+e|What is the name of the British legislature?|Parliament|British Parliament
+e|What is the name of the lower house of the British Parliament, whose members are elected?|House of Commons|Commons
+e|What is the name of the unelected upper house of the British Parliament?|House of Lords|Lords
+e|Which international organization, headquartered in New York City, was founded in 1945 to promote peace?|United Nations|the United Nations;UN
+e|How many permanent members does the United Nations Security Council have?|five|5|m
+e|What is the name of the organization of European countries that share a common market and, for many, a common currency?|European Union|the European Union;EU
+e|What is the common currency used by many European Union countries?|euro|the euro
+e|What is the name of the military alliance of North American and European countries formed in 1949?|North Atlantic Treaty Organization|NATO
+e|What is the capital city of France?|Paris
+e|What is the capital of Canada, home of its Parliament?|Ottawa
+e|What is the title of the Japanese head of state, a mostly ceremonial monarch?|emperor|the emperor
+e|What is the name of the lower house of the German parliament?|Bundestag|f
+e|What is the name of the Israeli parliament?|Knesset|f
+e|What name is given to a system where one party controls the government and no others are allowed?|one-party state|single-party state;one-party system
+e|What term describes a government run by a small group of powerful people?|oligarchy
+e|What is the term for a country's basic law that sets up its government?|constitution
+e|What term describes a form of government where power is divided between a national and regional governments?|federal system|federalism;federation
+e|What is the term for a government in which all power is held by a central government?|unitary state|unitary system;unitary government
+m|Which document of 1215 forced King John of England to accept limits on his power?|Magna Carta
+m|Which English philosopher wrote Leviathan, arguing for a strong sovereign?|Thomas Hobbes|Hobbes|n
+m|Which French philosopher wrote The Social Contract?|Jean-Jacques Rousseau|Rousseau|n
+m|Which English document of 1689 limited the monarch and affirmed Parliament's rights after the Glorious Revolution?|English Bill of Rights|Bill of Rights
+m|Which French document of 1789 proclaimed natural rights during the Revolution?|Declaration of the Rights of Man and of the Citizen|Declaration of the Rights of Man
+m|Which French king was executed in 1793 during the French Revolution?|Louis XVI|Louis the Sixteenth
+m|What name is given to the period of the French Revolution when the Committee of Public Safety executed thousands?|Reign of Terror|the Terror
+m|Which Russian leader founded the Soviet state after the 1917 revolution?|Vladimir Lenin|Lenin|n
+m|Which Soviet leader ruled from the 1920s until his death in 1953?|Joseph Stalin|Stalin|n
+m|Which Chinese leader founded the People's Republic of China in 1949?|Mao Zedong|Mao;Mao Tse-tung;n=Mao
+m|Which political and economic system calls for collective ownership of the means of production and a classless society?|communism
+m|Which political system, led by Benito Mussolini, was founded in Italy in the 1920s?|fascism|Italian Fascism
+m|Which German leader headed the Nazi party and became chancellor in 1933?|Adolf Hitler|Hitler|n
+m|What term describes a country's separation of its people by race under law, which ended in South Africa in the early 1990s?|apartheid|f
+m|Who became South Africa's first Black president in 1994?|Nelson Mandela|Mandela|n
+m|What name is given to the loose association formed by most former Soviet republics after the Soviet collapse?|Commonwealth of Independent States
+m|What name is given to the wall that divided a German city until 1989?|Berlin Wall
+m|Which policy of "openness" was introduced by Soviet leader Mikhail Gorbachev?|glasnost|f
+m|Which policy of "restructuring" was introduced by Soviet leader Mikhail Gorbachev?|perestroika|f
+m|What is the name for the form of government in which a monarch rules but a prime minister governs, as in Britain and Canada?|parliamentary system|parliamentary monarchy;parliamentary democracy
+m|What is the term for a system in which the president is both head of state and head of government and is elected separately from the legislature?|presidential system
+m|Which country's legislature is called the Diet?|Japan
+m|Which country's legislature is called the Duma?|Russia
+m|Which country's lower house of parliament is called the Lok Sabha?|India
+m|Which country's legislature is the National People's Congress?|China
+m|Which country's legislature is called the Cortes Generales?|Spain
+m|Which country's constitution was written primarily by American occupation officials after World War II and includes a renunciation of war?|Japan
+m|What is the term for a vote in which an entire electorate decides on a single question?|referendum|plebiscite
+m|What is the term for a government formed by several parties because no one party has a majority?|coalition government|coalition
+m|What is the name for a parliamentary vote in which members can bring down the government by withdrawing their support?|vote of no confidence|no-confidence vote
+m|What is the term for the method of choosing legislators in which each party gets seats in proportion to its share of the vote?|proportional representation
+m|What is the term for the electoral system in which the candidate with the most votes in a district wins, as in the United Kingdom?|first past the post|plurality;single-member district plurality
+m|What term names the ceremonial representative of a country, such as a monarch or president, as opposed to the leader who runs the government?|head of state
+m|Which international organization, formed after World War I, was a forerunner of the United Nations?|League of Nations
+m|Which treaty of 1919 ended World War I between Germany and the Allies?|Treaty of Versailles|Versailles
+m|Which treaty of 1992 created the European Union?|Maastricht Treaty|Treaty of Maastricht;Treaty on European Union
+m|Which international body, based in the Hague, hears disputes between states?|International Court of Justice|World Court
+m|Which international trade body, based in Geneva, succeeded the General Agreement on Tariffs and Trade?|World Trade Organization|WTO
+m|Which Middle Eastern country's government is a monarchy led by the House of Saud?|Saudi Arabia
+m|Which country was led by Fidel Castro after a 1959 revolution?|Cuba
+m|Which country's leaders are called the Supreme Leader and the president, in a system set up after a 1979 revolution?|Iran
+m|Which country was divided at the 38th parallel after World War II?|Korea
+m|Which south Asian country was partitioned from India in 1947 to form a Muslim homeland?|Pakistan
+m|Which Indian leader led nonviolent resistance to British rule?|Mohandas Gandhi|Gandhi;Mahatma Gandhi|n
+h|Which philosopher wrote Two Treatises of Government, arguing that government rests on the consent of the governed?|John Locke|Locke|n
+h|Which French thinker wrote The Spirit of the Laws, arguing for separation of powers?|Montesquieu|Baron de Montesquieu|n
+h|Which Italian Renaissance writer authored The Prince?|Niccolo Machiavelli|Machiavelli|n
+h|Which Greek philosopher wrote The Republic, describing a state ruled by philosopher-kings?|Plato|n
+h|Which Greek philosopher wrote Politics and classified governments into types such as monarchy, aristocracy, and polity?|Aristotle|n
+h|Which Athenian leader presided over Athens's golden age and is associated with the democracy of the fifth century BC?|Pericles|n
+h|Which Athenian reformer is often credited with founding Athenian democracy in 508 BC?|Cleisthenes|n
+h|What was the name of the council of elders and magistrates that governed the Roman Republic, whose members were often former officials?|Senate|Roman Senate
+h|What were the two chief magistrates elected annually to lead the Roman Republic called?|consuls|consul
+h|Which Chinese philosophy, taught by a sage born around 551 BC, stresses ethical government and filial piety?|Confucianism
+h|What was the Chinese concept that rulers held power because of divine approval, which could be lost?|Mandate of Heaven
+h|Which dynasty first unified China in 221 BC under the emperor Qin Shi Huang?|Qin dynasty|Qin
+h|Which Mongol ruler founded the largest contiguous land empire in history?|Genghis Khan|Chinggis Khan|n
+h|Which Frankish king was crowned emperor by Pope Leo III in the year 800?|Charlemagne|n
+h|What was the medieval system, dominant in Europe, in which lords granted land to vassals in exchange for service?|feudalism|feudal system
+h|Which British prime minister led his country through much of World War II?|Winston Churchill|Churchill|n
+h|Which 1832 British law reformed the House of Commons by expanding the vote?|Great Reform Act|Reform Act of 1832;Reform Act
+h|Which European peace settlement of 1648 ended the Thirty Years' War and is associated with the concept of state sovereignty?|Peace of Westphalia|Treaty of Westphalia;Westphalia
+h|Which 1815 conference redrew Europe's map after Napoleon's defeat?|Congress of Vienna
+h|Which Russian dynasty ruled from 1613 until the revolution of 1917?|Romanov dynasty|Romanov;Romanovs|n
+h|Which German statesman unified Germany in 1871 under Prussian leadership?|Otto von Bismarck|Bismarck|n
+h|Which Italian leader and general led the Red Shirts in the unification of Italy?|Giuseppe Garibaldi|Garibaldi|n
+h|Which Prime Minister of Italy, known as the architect of unification, served under King Victor Emmanuel II?|Camillo di Cavour|Cavour|n
+h|What term refers to the Roman Catholic Church's city-state, located entirely within Rome?|Vatican City|Vatican;the Vatican
+h|What is the name for the chamber of the French parliament that is the lower house?|National Assembly|Assemblee nationale
+h|Which Latin American liberator led several South American countries to independence from Spain and is called "El Libertador"?|Simon Bolivar|Bolivar|n
+h|Which Mexican president of the 1860s, of Zapotec descent, led liberal reforms and resisted French rule?|Benito Juarez|Juarez|n
+h|Which Argentine president, whose wife Eva was famous, led a populist government in the 1940s and 1950s?|Juan Peron|Peron|n
+h|Which African leader led Ghana to independence from Britain in 1957?|Kwame Nkrumah|Nkrumah|n
+h|Which Kenyan leader became the first president of Kenya?|Jomo Kenyatta|Kenyatta|n
+h|Which Egyptian leader nationalized the Suez Canal in 1956?|Gamal Abdel Nasser|Nasser|n
+h|Which seventeenth-century conflict in England between Royalists and Parliamentarians led to the execution of King Charles I?|English Civil War|Civil War
+h|Which Puritan leader ruled England as Lord Protector after the execution of Charles I?|Oliver Cromwell|Cromwell|n
+m|Which country's upper house of parliament is called the Bundesrat, representing its states?|Germany
+m|Which 1949 document established the constitution of the Federal Republic of Germany and is known by a name meaning "fundamental law"?|Grundgesetz;Basic Law|f
+h|Which Ottoman sultan, called "the Magnificent," ruled at the empire's height in the sixteenth century?|Suleiman|Suleiman the Magnificent;Suleyman|n
+h|Which Turkish leader founded the Republic of Turkey in 1923 and abolished the sultanate?|Mustafa Kemal Ataturk|Ataturk;Kemal Ataturk;n=Ataturk
+h|Which Roman emperor divided the empire's administration among four rulers in a system called the Tetrarchy?|Diocletian|n
+h|Which treaty of 1494 divided newly discovered lands between Spain and Portugal?|Treaty of Tordesillas|Tordesillas

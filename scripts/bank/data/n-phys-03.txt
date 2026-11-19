@@ -1,0 +1,184 @@
+# ncal novice | Science | Physical Science
+e|What is the term for the smallest unit of an element that keeps the properties of that element?|atom
+e|What particle in the nucleus of an atom has a positive charge?|proton
+e|What particle in the nucleus of an atom has no charge?|neutron
+e|What negatively charged particle moves around the nucleus of an atom?|electron
+m|What do we call the number of protons in an atom's nucleus?|atomic number
+h|What term describes atoms of the same element with different numbers of neutrons?|isotopes|isotope
+e|What is a substance made of only one kind of atom?|element|an element
+e|What is a substance made of two or more different elements chemically combined?|compound|a compound
+e|What is a combination of substances that are not chemically bonded, such as salad or trail mix?|mixture|a mixture
+m|What type of mixture is evenly mixed throughout, such as salt dissolved in water?|solution|homogeneous mixture;a solution
+m|In a solution, what is the substance that does the dissolving called?|solvent
+m|In a solution, what is the substance that is dissolved called?|solute
+e|What is the chemical symbol for the element gold?|Au
+e|What is the chemical symbol for the element iron?|Fe
+m|What is the chemical symbol for the element silver?|Ag
+m|What is the chemical symbol for the element lead?|Pb
+m|What is the chemical symbol for the element potassium?|K
+m|What gas do plants take in from the air to make food?|carbon dioxide
+m|Which Russian chemist created the first widely recognized periodic table in 1869?|Dmitri Mendeleev|Mendeleev|n
+m|What group of unreactive gases, including helium, neon, and argon, are found in the last column of the periodic table?|noble gases|inert gases
+m|What name is given to the highly reactive metals in the first column of the periodic table, such as sodium and potassium?|alkali metals
+m|What group of reactive nonmetals, including fluorine and chlorine, is in the next-to-last column of the periodic table?|halogens
+m|What is the process by which a solid changes directly into a gas without becoming a liquid?|sublimation
+e|At what temperature, in degrees Celsius, does water freeze at standard pressure?|zero|0;0 degrees|m
+e|At what temperature, in degrees Celsius, does water boil at sea level?|100|one hundred;100 degrees|m
+m|What is the fourth state of matter, found in lightning and stars, made of charged particles?|plasma
+e|What state of matter has a definite volume but no definite shape?|liquid
+m|What term describes a change that alters the form of a substance but not its identity, such as tearing paper?|physical change
+m|What term describes a change that produces a new substance, such as burning wood?|chemical change
+m|What is the name for the rusting of iron, a reaction with oxygen?|oxidation
+h|What law states that matter is neither created nor destroyed in a chemical reaction?|law of conservation of mass|conservation of mass;the law of conservation of mass
+h|What type of substance speeds up a chemical reaction without being used up?|catalyst
+m|What is the pH of a neutral solution such as pure water?|seven|7|m
+m|What type of substance turns blue litmus paper red?|acid|an acid
+m|What quantity is found by dividing an object's mass by its volume?|density
+e|What is the term for a push or a pull?|force
+e|What is the force that opposes the motion of two surfaces sliding against each other?|friction
+m|Which scientist formulated three laws of motion and the law of universal gravitation?|Isaac Newton|Newton|n
+m|What is the rate of change of velocity called?|acceleration
+m|What quantity tells both the speed and the direction of motion?|velocity
+m|About what is the acceleration due to gravity near Earth's surface in meters per second squared?|9.8|9.8 meters per second squared;ten;10|m
+h|What is the SI unit of power, equal to one joule per second?|watt
+m|What law states that energy cannot be created or destroyed, only changed from one form to another?|law of conservation of energy|conservation of energy;first law of thermodynamics
+m|What is the transfer of heat by the movement of fluids called?|convection
+m|What is the transfer of heat by electromagnetic waves called?|radiation|thermal radiation
+h|What is the term for the measure of the average kinetic energy of the particles in a substance?|temperature
+e|What temperature scale is used by most of the world, with water freezing at 0 and boiling at 100?|Celsius|centigrade
+h|What is the lowest possible temperature, 0 on the Kelvin scale, called?|absolute zero
+h|What type of wave, such as sound, has particles moving back and forth in the same direction the wave travels?|longitudinal wave|compression wave;longitudinal
+h|What type of wave, such as light, has motion perpendicular to the direction the wave travels?|transverse wave|transverse
+e|What can sound NOT travel through: a solid, a liquid, or a vacuum?|a vacuum|vacuum|ok
+m|What is the unit of frequency, equal to one cycle per second?|hertz
+m|What is the term for a reflected sound that you hear after a delay?|echo
+m|What is the bending of light as it passes from one material to another?|refraction
+e|What are the seven colors of the visible spectrum, in order, often remembered as a name?|Roy G. Biv|ROYGBIV;red orange yellow green blue indigo violet
+m|What shape of lens is thicker in the middle and focuses light to a point?|convex lens|convex
+m|What type of lens is thinner in the middle and spreads light out?|concave lens|concave
+m|What is the term for materials that allow electric charge to flow easily, such as copper?|conductor|conductors
+m|What is the term for materials that block the flow of electric charge, such as rubber?|insulator|insulators
+m|What is the SI unit of electric potential difference?|volt|volts
+h|What law relates voltage, current, and resistance?|Ohm's law|Ohm's Law
+m|In what type of circuit is there only one path for the current?|series circuit|series
+m|In what type of circuit are there several paths for the current?|parallel circuit|parallel
+h|What device protects a circuit by melting when the current gets too high?|fuse
+m|What happens when you place the north poles of two magnets near each other: attract or repel?|repel|they repel|ok
+h|What device is created by coiling wire around an iron core and passing a current through it?|electromagnet
+h|What instrument has a magnetized needle that points to Earth's magnetic north?|compass
+h|What scientist discovered that moving a magnet through a coil of wire creates an electric current?|Michael Faraday|Faraday|n
+h|What Polish-born scientist discovered the elements polonium and radium?|Marie Curie|Curie|n part
+m|What is the term for the process in which an unstable nucleus releases energy and particles?|radioactive decay|radioactivity;radioactive
+m|What is the term for the joining of light nuclei into a heavier one?|nuclear fusion|fusion
+m|What is the process by which plants use sunlight to make sugar from water and carbon dioxide?|photosynthesis
+e|In an experiment, what is the factor that the scientist changes on purpose called?|independent variable|manipulated variable
+m|What is the name for the part of an experiment kept unchanged for comparison?|control|control group
+e|What is the name of the German-born physicist who developed the theory of relativity?|Albert Einstein|Einstein|n
+
+B|e|Answer these questions about the three common states of matter.
+-|e|What state of matter keeps its own shape and volume?|solid
+-|m|What state of matter takes the shape of its container but keeps its volume?|liquid
+-|m|What state of matter expands to fill any container?|gas
+-|h|What process makes dew form on a cold glass on a humid day?|condensation
+
+B|m|Answer these questions about the parts of an atom.
+-|e|What is the center of an atom, containing protons and neutrons, called?|nucleus
+-|m|What charge does an electron carry?|negative|a negative charge
+-|m|What are the energy levels where electrons are found around the center of an atom sometimes called?|shells|electron shells;energy levels
+-|h|What number tells you how many protons are in an atom?|atomic number
+
+B|e|Answer these questions about element symbols.
+-|e|What is the chemical symbol for oxygen?|O
+-|m|What is the chemical symbol for carbon?|C
+-|m|What is the chemical symbol for copper?|Cu
+-|h|What element has the chemical symbol W?|tungsten
+
+B|m|Answer these questions about compounds.
+-|e|What is the compound NaCl commonly called?|table salt|salt;sodium chloride
+-|m|What common name is given to the baking ingredient with formula NaHCO3?|baking soda|sodium bicarbonate
+-|m|What gas, with formula CH4, is the main component of natural gas?|methane
+-|h|What is the chemical formula of ammonia?|NH3
+
+B|e|Answer these questions about Newton's laws of motion.
+-|e|What term describes an object's resistance to changes in its motion?|inertia
+-|m|What is the equation of Newton's second law, relating force, mass, and acceleration?|F equals m a|F=ma;force equals mass times acceleration
+-|m|An object at rest stays at rest unless acted on by what?|an unbalanced force|force;net force;outside force
+-|h|Which of Newton's laws says that for every action there is an equal and opposite reaction?|third law|Newton's third law;third law of motion
+
+B|m|Answer these questions about energy.
+-|e|What kind of energy does a moving car have?|kinetic energy|kinetic
+-|m|What kind of energy is stored in a stretched rubber band?|elastic potential energy|potential energy;potential;elastic
+-|m|What kind of energy is released when fuel burns?|chemical energy|chemical
+-|h|What is the unit of energy, named for an English physicist who studied heat?|joule
+
+B|e|Answer these questions about simple machines.
+-|e|Which simple machine is a seesaw an example of?|lever
+-|m|Which simple machine is a ramp?|inclined plane
+-|m|Which simple machine is found on a flagpole to raise the flag?|pulley
+-|h|Which simple machine is a doorknob an example of?|wheel and axle
+
+B|m|Answer these questions about heat.
+-|e|What is the term for the transfer of heat by direct contact between objects?|conduction
+-|m|What kind of heat transfer carries warmth from the Sun to Earth through empty space?|radiation
+-|m|What is the name for a material that does not conduct heat well?|insulator
+-|h|What name is given to the amount of heat needed to raise one gram of water by one degree Celsius?|calorie|a calorie
+
+B|e|Answer these questions about sound.
+-|e|What do we call the highness or lowness of a sound?|pitch
+-|m|What is the property of a sound wave that determines how loud it is?|amplitude
+-|m|About how fast does sound travel in air at room temperature, in meters per second?|343||m
+-|h|What term describes sounds with frequencies higher than humans can hear?|ultrasound|ultrasonic
+
+B|m|Answer these questions about light.
+-|e|What is the term for light bouncing off a mirror?|reflection
+-|m|What do we call the bending of light through water that makes a straw look bent?|refraction
+-|m|What is the approximate speed of light in meters per second: 300 thousand or 300 million?|300 million|three hundred million;3 x 10^8|m
+-|h|What is the range of colors you see when white light passes through a prism called?|spectrum|visible spectrum
+
+B|e|Answer these questions about electricity.
+-|e|What is a closed path for electric charge called?|circuit
+-|m|What is the term for the flow of electric charge?|current|electric current
+-|m|What unit measures this flow of charge?|ampere|amp
+-|h|What scientist, born in Italy, invented the first electric battery, the voltaic pile?|Alessandro Volta|Volta|n
+
+B|m|Answer these questions about magnetism.
+-|e|What are the places on a magnet where its force is strongest called?|poles
+-|m|What kind of materials, such as iron and nickel, are strongly attracted to magnets?|magnetic materials|ferromagnetic;ferromagnetic materials
+-|m|What happens when you bring the opposite ends of two magnets together?|they attract|attract
+-|h|What is the region around a magnet where its force acts called?|magnetic field|field
+
+B|e|Answer these questions about acids and bases.
+-|e|What scale measures how acidic a substance is?|pH scale|pH
+-|m|What kind of substance, such as lemon juice or vinegar, tastes sour?|acid
+-|m|What kind of substance, such as baking soda, is slippery and bitter?|base
+-|h|What is the name for the reaction between substances at opposite ends of the acidity range that makes salt and water?|neutralization|neutralization reaction
+
+B|m|Answer these questions about the periodic table.
+-|e|What Russian scientist designed the first periodic table?|Dmitri Mendeleev|Mendeleev|n
+-|m|What are the rows of the periodic table called?|periods
+-|m|Which group on the periodic table contains helium, neon, and argon?|noble gases|group 18;inert gases
+-|h|What name is given to the elements on the left of the table that are shiny and conduct electricity?|metals
+
+B|e|Answer these questions about the scientific method.
+-|e|What term names a testable explanation or prediction?|hypothesis
+-|m|What do we call the facts and numbers collected during an experiment?|data
+-|m|What is the term for the group in an experiment that does not receive the treatment?|control group|control
+-|h|What is the factor that is measured as the result in an experiment called?|dependent variable|responding variable
+
+B|m|Answer these questions about measurement.
+-|e|What is the base metric unit of length?|meter|meters
+-|m|What metric unit of volume equals 1000 milliliters?|liter|liters
+-|m|What instrument is used to measure mass in a lab?|balance|triple beam balance
+-|h|What system of units, abbreviated SI, is used by scientists worldwide?|metric system|International System of Units;the metric system
+
+B|e|Answer these questions about waves.
+-|e|What is the high point of a wave called?|crest
+-|m|What is the number of waves per second called?|frequency
+-|m|What is the distance between two wave crests called?|wavelength
+-|h|What is the maximum displacement of a wave from its rest position called?|amplitude
+
+B|m|Answer these questions about chemical reactions.
+-|e|What kind of change produces a new substance with new properties?|chemical change|chemical reaction
+-|m|What name is given to the substances that result from a reaction?|products
+-|m|What word describes a reaction that releases heat, like a campfire?|exothermic|exothermic reaction
+-|h|What term refers to a substance that speeds a reaction without being consumed?|catalyst

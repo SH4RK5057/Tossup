@@ -1,0 +1,134 @@
+# quizbowl novice | Social Science | Sociology
+e|This word names the shared beliefs, customs, language, food, art, and values of a group of people. Sociologists distinguish its material objects from its nonmaterial ideas. Anthropologists also study it, and it is passed from one generation to the next. For 10 points, name this learned way of life of a group.|culture|
+e|This French sociologist wrote Suicide in 1897 and The Division of Labor in Society. He is considered one of the founders of the discipline and studied how social facts shape individual behavior. For 10 points, name this man who coined the term anomie.|Emile Durkheim|Durkheim;Émile Durkheim|n
+e|This German sociologist wrote The Protestant Ethic and the Spirit of Capitalism. He wrote about bureaucracy and defined the state as holding a monopoly on legitimate force. For 10 points, name this man.|Max Weber|Weber|n
+m|This is the lifelong process in which people learn the norms, values, and behaviors of their society. Families, schools, peer groups, and the media are agents of it. For 10 points, give this term for how individuals learn to function in society.|socialization|
+e|These are the unwritten rules about what behavior is expected in a given society or group. Examples include waiting in line, shaking hands on meeting, and not talking in a library. Folkways and mores are two types. For 10 points, name this term for standards of behavior.|norms|social norms;norm;social norm
+m|This French thinker coined the word sociology and is often called the father of the field. He proposed that societies pass through theological, metaphysical, and positive stages. For 10 points, name this founder of positivism.|Auguste Comte|Comte|n
+e|This term describes a person's position in the hierarchy of society based on wealth, education, and occupation. Common divisions include upper, middle, and working. For 10 points, name this concept, such as the middle one in the United States.|social class|class;socioeconomic status
+m|This English writer translated Auguste Comte into English and wrote Society in America after a trip to the United States. She is sometimes called the first woman sociologist. For 10 points, name this author of How to Observe Manners and Morals.|Harriet Martineau|Martineau|n
+h|This African American scholar wrote The Souls of Black Folk, in which he described double consciousness. He co-founded the N-A-A-C-P and wrote the first case study of an African American community, The Philadelphia Negro. For 10 points, name this sociologist.|W. E. B. Du Bois|Du Bois;DuBois;W. E. B. DuBois;William Edward Burghardt Du Bois|n
+m|In sociology, behavior that violates social norms is given this name. Robert Merton and Howard Becker wrote about it, and it can range from minor rule breaking to crime. For 10 points, name this term, which includes labeling theory.|deviance|deviant behavior
+e|This term is used for an oversimplified and often unfair belief about all members of a group. Examples include assuming that all teenagers are lazy. For 10 points, give this word for a fixed generalization about people.|stereotype|stereotypes
+m|This group is defined by sociologists as a category of people who face unequal treatment based on traits such as race, religion, or ethnicity, which is not necessarily smaller than the dominant group. Louis Wirth defined it. For 10 points, name this term.|minority group|minority
+e|This is the study of human populations, including their size, age, density, and distribution. A census collects such data. For 10 points, give this term, whose name sounds like it is about people and graphs.|demography|demographics
+e|This term refers to the movement of people from rural areas into cities and the growth of urban populations. It accompanied the Industrial Revolution. For 10 points, name this process.|urbanization|
+m|This is the phrase used by C. Wright Mills for the ability to see the link between personal troubles and larger social issues. It is also the title of his 1959 book. For 10 points, give this two-word phrase, which includes the faculty of picturing.|sociological imagination|the sociological imagination
+e|This type of family consists of two parents and their children living in a single household. It contrasts with the extended family that includes grandparents, aunts, and uncles. For 10 points, name this type of family.|nuclear family|
+m|This term refers to the set of behaviors expected of a person who holds a particular position, such as a teacher or a parent. People may experience conflict when they hold several. For 10 points, name this concept.|role|social role;roles
+m|This term describes a group of people of similar age and interests who influence one another, especially in adolescence. For 10 points, name this group that includes your friends and classmates.|peer group|peers
+h|Erving Goffman wrote a 1963 book about this term, meaning a mark of social disgrace that makes a person discredited. Examples include a criminal record or a visible illness. For 10 points, name this term.|stigma|
+e|This type of society is based on large-scale machine production and factories, and it replaced agricultural societies in the nineteenth century. For 10 points, name this kind of society, which emerged after a revolution in Britain.|industrial society|industrial;industrialization
+m|This term describes the ranking of people into layers or levels in society based on wealth, power, and prestige. Caste and class are two systems of it. For 10 points, name this term.|social stratification|stratification
+h|This rigid form of social stratification, long associated with India, assigns people by birth into hereditary groups such as Brahmins and Dalits. For 10 points, name this closed system.|caste system|caste
+e|This is an opinion or feeling about a person formed before knowing the facts, often negative and based on group membership. For 10 points, name this term, which includes racial and religious forms.|prejudice|
+m|This term refers to the unfair treatment of people based on group membership, such as being denied a job because of race. It is the behavioral counterpart to prejudice. For 10 points, name this term.|discrimination|
+e|This practice, ended by Brown versus Board of Education and the Civil Rights Act, involved the legally enforced separation of racial groups in schools and public places in the American South. For 10 points, name this system, enforced by Jim Crow laws.|segregation|racial segregation
+m|This group within a larger culture has its own distinct values, slang, and styles, such as punks, goths, or surfers. Members often share music and fashion that set them apart from the mainstream. For 10 points, give this word, which includes a prefix meaning below.|subculture|
+m|This term describes the cultural and social roles, behaviors, and identities associated with being male or female, as distinct from biological sex. Sociologists say these expectations are learned and differ between societies, and Judith Butler and Simone de Beauvoir wrote about them. For 10 points, give this term.|gender|
+h|This sociologist developed a theory called symbolic interactionism, building on the ideas of George Herbert Mead. His coined phrase is looking-glass self, describing how we see ourselves based on how others see us. For 10 points, name this American who wrote Human Nature and the Social Order.|Charles Horton Cooley|Cooley|n
+e|This is the process of moving into a new country in order to live there permanently. Ellis Island processed millions of people doing it. For 10 points, name this term, the opposite of emigration.|immigration|
+e|This term describes a pattern in which a person's own group is treated as the standard, so that other cultures are judged by its values. William Graham Sumner coined it. For 10 points, give this term, which combines a word for a group of people with a word meaning center.|ethnocentrism|
+B|e|Answer these questions about the founders of sociology.
+-|e|Which Frenchman coined the word sociology?|Auguste Comte|Comte|n
+-|m|Which German wrote about the iron cage of rationalization?|Max Weber|Weber|n
+-|h|Which Englishman wrote Principles of Sociology and coined the phrase survival of the fittest?|Herbert Spencer|Spencer|n
+B|m|Answer these questions about social groups.
+-|e|What term names the small, close group that raises children and provides care?|family|
+-|m|In sociology, what term describes a group to which you do not belong, as opposed to an in-group?|out-group|outgroup;out group
+-|h|Which sociologist distinguished between primary groups and secondary groups, with the former being intimate and personal?|Charles Horton Cooley|Cooley|n
+B|e|Answer these questions about population.
+-|e|What is the count of all people living in a country, taken in the United States every ten years?|census|
+-|m|What term names the number of births per thousand people in a population per year?|birth rate|crude birth rate
+-|h|Which English economist warned in 1798 that population grows faster than food supply?|Thomas Malthus|Malthus|n
+B|m|Answer these questions about research methods in sociology.
+-|e|What is the name for a set of questions given to many people to gather data about their opinions?|survey|questionnaire
+-|m|What research method involves a researcher living among the people being studied and watching what they do?|participant observation|ethnography
+-|h|What term for a small portion of a population is chosen to represent the whole group being studied?|sample|random sample
+B|e|Answer these questions about education and society.
+-|e|What institution is the main place where children learn skills and socialization outside the home in modern society?|school|
+-|m|What term refers to the unspoken lessons, such as obedience and punctuality, that students learn in classrooms?|hidden curriculum|
+-|h|What term describes the degree to which people move up or down the class ladder?|social mobility|mobility
+B|m|Answer these questions about race and ethnicity.
+-|e|What word describes people who share a cultural heritage, language, and ancestry?|ethnic group|ethnicity
+-|m|What term is used when a minority group is absorbed into the dominant culture and gives up its own?|assimilation|
+-|h|What term describes a society in which many cultures coexist, as in the idea that is often compared to a salad bowl?|multiculturalism|pluralism;multicultural society
+B|h|Answer these questions about theories in sociology.
+-|e|What is the name for the perspective of Karl Marx that focuses on class struggle?|conflict theory|conflict perspective
+-|m|Which perspective views society as a system of interdependent parts, like organs in a body, each performing a function?|functionalism|structural functionalism;functionalist perspective
+-|h|Which sociologist coined the term conspicuous consumption in The Theory of the Leisure Class?|Thorstein Veblen|Veblen|n
+B|m|Answer these questions about social problems.
+-|e|What term describes the state of lacking enough money for basic needs?|poverty|
+-|m|What term names the loss of a sense of social norms, a condition discussed by Durkheim?|anomie|
+-|h|What term describes the condition of lacking a permanent place to live, a social problem addressed by shelters?|homelessness|
+B|e|Answer these questions about the media and technology.
+-|e|What word describes channels such as television, newspapers, and the internet that reach large audiences?|mass media|media
+-|m|Which Canadian wrote that the medium is the message?|Marshall McLuhan|McLuhan|n
+-|h|What term, coined by McLuhan, describes the world connected by electronic media?|global village|
+# quizbowl novice | Social Science | Political Science
+e|This is a form of government in which power is held by the people, who either vote directly or elect representatives. Ancient Athens is an early example. For 10 points, name this system whose name comes from the Greek words for people and rule.|democracy|
+e|This is the supreme law of the United States, written in 1787 in Philadelphia and signed on September 17. It established three branches of government. For 10 points, name this founding document.|United States Constitution|Constitution;US Constitution;U.S. Constitution
+m|This French thinker wrote The Spirit of the Laws and argued that government power should be divided among separate branches. His ideas influenced the framers of the United States Constitution. For 10 points, name this Enlightenment philosopher.|Montesquieu|Baron de Montesquieu;Charles-Louis de Secondat|n
+m|This English philosopher wrote Two Treatises of Government and argued that people have natural rights to life, liberty, and property. Thomas Jefferson was influenced by him. For 10 points, name this man.|John Locke|Locke|n
+m|This English philosopher wrote Leviathan, which argued that life without government would be solitary, poor, nasty, brutish, and short. He supported a strong sovereign. For 10 points, name this man.|Thomas Hobbes|Hobbes|n
+h|This Swiss-born philosopher wrote The Social Contract, which begins with the line that man is born free but is everywhere in chains. His idea of the general will influenced the French Revolution. For 10 points, name this man.|Jean-Jacques Rousseau|Rousseau|n
+e|This idea divides the power of government into legislative, executive, and judicial branches. Each does a different job, such as making, enforcing, or interpreting the laws. For 10 points, name this principle, a major feature of the United States Constitution.|separation of powers|
+m|This system divides power between a national government and state or regional governments. The United States, Canada, Germany, and Australia are examples. For 10 points, name this system, whose Tenth Amendment reserves powers to the states.|federalism|federal system
+e|This system lets each branch of the United States government limit the powers of the others. An example is the President vetoing a bill passed by Congress. For 10 points, name this system, in which each branch restrains the others.|checks and balances|
+e|This is the power of a president to reject a bill passed by the legislature. In the United States, Congress can override it with a two-thirds vote in both houses. For 10 points, name this action.|veto|presidential veto
+h|In the United States Senate, this tactic is used to delay or block a vote by prolonged speaking, and ending it requires a three-fifths vote known as cloture. For 10 points, name this tactic, which Jimmy Stewart made famous in a movie about a senator named Smith.|filibuster|
+m|This is the process by which the United States elects its president. Each state has a number of votes equal to its senators and representatives, and 270 are needed to win. For 10 points, name this system.|Electoral College|electoral college
+e|This is the highest court in the United States, which has nine justices. Its decisions include Marbury v. Madison, which established judicial review. For 10 points, name this court.|Supreme Court|United States Supreme Court;US Supreme Court;U.S. Supreme Court
+m|The first ten changes to the United States Constitution, ratified in 1791, are known by this collective name. They guarantee freedoms of speech and religion. For 10 points, give this name.|Bill of Rights|the Bill of Rights
+e|This is a government in which a king or queen is the head of state. Britain, Spain, and Japan are modern examples, and many are constitutional. For 10 points, name this form of government.|monarchy|constitutional monarchy
+e|This is a form of government in which one leader holds complete power and often rules by force without free elections. Examples include Adolf Hitler and Joseph Stalin. For 10 points, name this form of government.|dictatorship|
+h|This word describes an authoritarian system that seeks to control every aspect of public and private life. Hannah Arendt wrote The Origins of this. For 10 points, name this system of Nazi Germany and the Soviet Union.|totalitarianism|
+e|This international organization was formed in 1945 after World War II. It has a Security Council with five permanent members and a General Assembly. Its headquarters are in New York City. For 10 points, name this organization.|United Nations|UN;U.N.
+m|This military alliance was founded in 1949 by the United States, Canada, and ten European nations. An attack on one member is considered an attack on all. For 10 points, name this alliance with headquarters in Brussels.|North Atlantic Treaty Organization|NATO
+m|This union of countries in Europe, created by the Maastricht Treaty, has a shared parliament and, for many members, a common currency, the euro. For 10 points, name this political and economic union.|European Union|EU
+e|This is the legislature in countries such as the United Kingdom, Canada, and India. In many such systems, the head of government is chosen from among its members. For 10 points, name this lawmaking body, whose House of Commons is an example.|parliament|
+m|In parliamentary systems, this official is the head of government, such as Winston Churchill or Justin Trudeau. For 10 points, name this position, whose title contains the word minister.|prime minister|
+e|This word describes a legislature with two chambers. The United States Congress is an example, with the House and the Senate. Most American state legislatures except Nebraska are also of this type. For 10 points, give this term for a legislature with two chambers, the opposite of unicameral.|bicameral|bicameral legislature
+m|This term describes efforts by groups to influence government officials to make decisions that favor their interests. It is protected by the First Amendment right to petition. For 10 points, name this practice.|lobbying|lobby
+e|This is an organized group of people who share similar goals and try to win elections. In the United States, the two major ones are the Democrats and Republicans. For 10 points, name this type of group.|political party|party
+m|This is a direct vote by citizens on a single proposal or issue. Examples include the 2016 British vote on leaving the European Union. In Switzerland, citizens use these often, and some American states use similar ballot measures. For 10 points, name this type of vote.|referendum|plebiscite
+m|This word describes the right to vote. The Nineteenth Amendment extended it to women, and the Fifteenth Amendment extended it to Black men. The Voting Rights Act of 1965 later enforced it. The Seneca Falls Convention of 1848 began the long movement for women to have it. For 10 points, name this right.|suffrage|right to vote
+h|This practice of drawing district boundaries to favor one party takes its name from a Massachusetts governor and a salamander-shaped district. Redistricting happens after each census, and maps drawn this way can pack or crack voters. For 10 points, name this practice.|gerrymandering|gerrymander
+h|This Italian Renaissance writer wrote The Prince, advising rulers that it is safer to be feared than loved. His name now describes cunning and ruthless politics. For 10 points, name this man from Florence.|Niccolo Machiavelli|Machiavelli;Niccolò Machiavelli|n
+m|This document, sealed by King John in 1215, limited the power of the English monarchy and is seen as an early step toward constitutional government. For 10 points, name this charter.|Magna Carta|Magna Charta
+B|e|Answer these questions about the three branches of the United States government.
+-|e|Which branch, consisting of the President and the departments, enforces the laws?|executive branch|executive
+-|m|Which branch, consisting of the Senate and the House, makes the laws?|legislative branch|legislative;Congress
+-|h|What power allows courts to declare laws unconstitutional?|judicial review|
+B|m|Answer these questions about political thinkers.
+-|e|Which Greek philosopher wrote The Republic and described the ideal city ruled by philosopher kings?|Plato|
+-|m|Which tutor of Alexander the Great wrote Politics and called man a political animal?|Aristotle|
+-|h|Which English thinker wrote On Liberty and The Subjection of Women?|John Stuart Mill|Mill|n
+B|e|Answer these questions about the United States Congress.
+-|e|How many senators does each state have?|two|2
+-|m|How many years is a term for a United States senator?|six|6;six years
+-|h|What name is given to the Senate leader who is the Vice President of the United States, who votes only to break ties?|President of the Senate|
+B|m|Answer these questions about elections.
+-|e|What is the name for a list of choices that voters mark in an election?|ballot|
+-|m|What name is given to an election within a party to choose its candidate for the general election?|primary|primary election
+-|h|What term describes the condition of an incumbent officer being limited to a number of terms, as the Twenty-Second Amendment did for presidents?|term limits|term limit
+B|e|Answer these questions about types of government.
+-|e|In what form of government do citizens elect leaders to represent them, as in the United States?|republic|
+-|m|What term describes rule by a small group of powerful people?|oligarchy|
+-|h|What term describes rule by religious leaders, as in Iran since 1979?|theocracy|
+B|m|Answer these questions about international relations.
+-|e|What word names an official representative of a country who lives abroad in another country?|ambassador|
+-|m|What term describes economic penalties placed on a country to pressure it to change its behavior?|sanctions|economic sanctions
+-|h|What 1648 agreements ended the Thirty Years' War and are often linked to the idea of state sovereignty?|Peace of Westphalia|Westphalia;Treaty of Westphalia
+B|h|Answer these questions about ideologies.
+-|e|What ideology, associated with Marx, calls for common ownership of property and the end of class divisions?|communism|
+-|m|What ideology emphasizes individual rights, freedom, and limited government, associated with Locke?|liberalism|classical liberalism
+-|h|What ideology, led by Benito Mussolini, emphasized extreme nationalism and a one-party state?|fascism|
+B|m|Answer these questions about the rights of citizens.
+-|e|Which amendment protects freedom of speech, religion, press, assembly, and petition?|First Amendment|First;1st Amendment
+-|m|Which 1803 Supreme Court case established judicial review?|Marbury v. Madison|Marbury versus Madison
+-|h|Which amendment abolished slavery in the United States?|Thirteenth Amendment|Thirteenth;13th Amendment
+B|e|Answer these questions about political terms.
+-|e|What is the word for a formal request signed by many people asking the government to take action?|petition|
+-|m|What term is used for a person who is running to win an election?|candidate|
+-|h|What term describes the legal principle that the government's authority rests on the consent of the governed?|popular sovereignty|

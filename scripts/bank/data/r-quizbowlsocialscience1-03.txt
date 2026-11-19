@@ -1,0 +1,122 @@
+# quizbowl jv | Social Science | Linguistics
+e|This American linguist's 1957 book Syntactic Structures introduced transformational grammar. He proposed that humans have an innate "universal grammar" and wrote the sentence "Colorless green ideas sleep furiously." For 10 points, name this MIT professor.|Noam Chomsky|Chomsky|n
+e|This term names the smallest unit of sound in a language that can distinguish one word from another, such as the difference between "bat" and "pat." For 10 points, name this unit of sound, a basic concept in phonology.|phoneme|phonemes
+m|This term names the smallest meaningful unit in a language. The word "unhappiness" contains three of them: un-, happy and -ness. For 10 points, name these units, studied in morphology.|morphemes|morpheme
+e|This branch of linguistics studies the rules by which words are combined into phrases and sentences. Word order, such as subject-verb-object, is one of its main concerns. For 10 points, name this field.|syntax|
+m|This Swiss linguist's posthumous Course in General Linguistics distinguished between langue and parole and described the sign as made of signifier and signified. For 10 points, name this founder of structural linguistics, first name Ferdinand.|Ferdinand de Saussure|Saussure|n
+h|This hypothesis, named for two American linguists, claims that the structure of a language shapes how its speakers perceive the world. It is also called linguistic relativity. For 10 points, name this idea associated with Edward Sapir and Benjamin Lee Whorf.|Sapir-Whorf hypothesis|linguistic relativity;Whorf hypothesis;Sapir Whorf
+m|This type of simplified contact language arises between groups with no common language, usually for trade, and has no native speakers. When children grow up speaking one, it becomes a creole. For 10 points, name this kind of language.|pidgin|pidgin language
+m|A language of this type develops when a pidgin becomes the native language of a community. Haitian and Jamaican Patois are examples. For 10 points, name this kind of fully developed language.|creole|creole language
+h|This hypothetical ancestor of English, Latin, Greek, Sanskrit and many other languages was reconstructed by comparing cognates. William Jones noted similarities among Sanskrit, Greek and Latin in 1786. For 10 points, name this reconstructed language, abbreviated PIE.|Proto-Indo-European|PIE|Indo-European
+h|This sound law, named for a German folklorist and linguist who also co-edited fairy tales, describes how Indo-European stops shifted in Germanic languages, as in Latin pater becoming English father. For 10 points, name this law named for Jacob.|Grimm's law|Grimm|
+e|This system, abbreviated IPA, uses a standard set of symbols for the sounds of all spoken languages. Linguists and language learners use it in dictionaries and textbooks to write pronunciations unambiguously. For 10 points, name this alphabet used in dictionaries to show pronunciation.|International Phonetic Alphabet|IPA|ok
+m|This unstressed vowel, written with an upside-down e, is the most common vowel sound in English, as in the first syllable of "about." It occurs in the final syllable of "sofa" and the first syllable of "banana." Reduced vowels in unstressed syllables often take this sound. For 10 points, name this mid-central vowel.|schwa|
+m|This type of vowel sound consists of two vowels in a single syllable, as in "boy," "out" and "ride." English words like "coin" and "cow" contain this. A single vowel sound, by contrast, is called a monophthong. For 10 points, name this gliding vowel, from Greek for "two sounds."|diphthong|
+e|This word names a variety of a language spoken in a region or by a social group, with its own vocabulary and grammar, such as Southern American English. For 10 points, name this term.|dialect|
+m|This practice involves alternating between two languages or varieties in a single conversation or even a sentence. Bilingual speakers of Spanish and English often do it. For 10 points, name this term.|code-switching|code switching;codeswitching
+e|This French scholar deciphered Egyptian hieroglyphs in 1822 using the Rosetta Stone, which carries the same text in three scripts. For 10 points, name this man, first name Jean-Francois.|Jean-Francois Champollion|Champollion|n
+m|This constructed language was created in 1887 by L. L. Zamenhof as a neutral international auxiliary language. Zamenhof was a Polish ophthalmologist who published it under a pen name meaning "Doctor Hopeful." It has no irregular verbs. For 10 points, name this language whose name means "one who hopes."|Esperanto|
+h|This language of northern Spain and southwestern France is a language isolate, unrelated to any other known language. It is spoken in a region whose people call themselves Euskaldunak. For 10 points, name this language.|Basque|Euskara
+m|This Korean alphabet was created by King Sejong the Great in the fifteenth century so that ordinary people could read and write. Its letters are arranged into syllable blocks. For 10 points, name this script.|Hangul|Hangeul
+h|This Cherokee silversmith invented a syllabary in the 1820s that allowed his people to become literate within a few years. For 10 points, name this man, whose name is also borne by giant trees.|Sequoyah|Sequoia
+m|This area in the left frontal lobe is involved in producing speech. Damage to it causes a type of aphasia in which patients understand language but speak haltingly. For 10 points, name this area named for a French physician.|Broca's area|Broca
+h|This English architect and cryptographer deciphered Linear B in 1952, showing it recorded an early form of Greek. He worked with John Chadwick. For 10 points, name this man, first name Michael.|Michael Ventris|Ventris|n
+m|This feature of Mandarin Chinese and Vietnamese is the use of pitch patterns on syllables to distinguish word meaning. The syllable "ma" can mean mother or horse depending on it. For 10 points, name this feature, such as in a "tonal language."|tone|tones;tonal
+m|Turkish and Japanese are examples of this type of language, in which words are built by stringing together many affixes, each with one meaning. For 10 points, name this morphological type whose name comes from the Latin for "glue together."|agglutinative|agglutinative language
+e|A word of this type is borrowed from one language into another, such as "tsunami" from Japanese or "pajamas" from Hindi. English has many from French, such as "restaurant," after the Norman Conquest. Linguists study how they are adapted to the sounds of the borrowing language. For 10 points, name this kind of word.|loanword|loan word;borrowed word
+e|In this branch of linguistics, scholars study how context contributes to meaning, such as how "Can you pass the salt?" is a request rather than a question about ability. For 10 points, name this field, which comes after semantics in the list.|pragmatics|
+m|This branch of linguistics studies the origins and historical development of words. The word "salary" comes from the Latin word for salt in it. For 10 points, name this field, which is not entomology.|etymology|
+h|This large group of more than five hundred languages includes Swahili, Zulu and Shona and is spoken across much of central and southern Africa. The word "ubuntu" belongs to it, and its own name means "people." For 10 points, name this language group.|Bantu|Bantu languages
+m|This California girl, found in 1970 after being locked in a room for her entire childhood, was studied by linguists to test the critical period hypothesis for language acquisition. For 10 points, give the pseudonym used for this girl.|Genie|
+e|These consonant sounds, such as p, t and k, are made by completely blocking the airflow in the vocal tract and then releasing it. English "b" and "d" are voiced examples. For 10 points, name this class of consonants, also called plosives.|stops|plosives;stop consonants;stop;plosive
+B|m|Answer these questions about the building blocks of language.
+-|e|What term names the smallest units of sound that distinguish words?|phoneme|phonemes
+-|m|What term names the smallest units of meaning?|morpheme|morphemes
+-|h|What branch of linguistics studies the meaning of words and sentences?|semantics|
+B|m|Answer these questions about historical linguistics.
+-|e|What language family includes English, Spanish and Hindi?|Indo-European|Indo European
+-|m|Which brother, a German folklorist, formulated a law of sound shifts?|Jacob Grimm|Grimm|n
+-|h|What are words in related languages that share a common origin, like Spanish noche and French nuit?|cognates|cognate
+B|m|Answer these questions about writing systems.
+-|e|Which ancient Egyptian pictorial writing was deciphered by Champollion?|hieroglyphs|hieroglyphics
+-|m|Which script was created by Saint Cyril and Saint Methodius's followers and is used for Russian?|Cyrillic|Cyrillic alphabet
+-|h|Which Mycenaean Greek script did Michael Ventris decipher in 1952?|Linear B|
+B|m|Answer these questions about linguistic theorists.
+-|e|Which MIT linguist proposed universal grammar?|Noam Chomsky|Chomsky|n
+-|m|Which Swiss linguist distinguished langue from parole?|Ferdinand de Saussure|Saussure|n
+-|h|Which American linguist, with Edward Sapir, names a hypothesis of linguistic relativity?|Benjamin Lee Whorf|Whorf|n
+B|m|Answer these questions about languages in contact.
+-|e|What term names a mixed contact language with no native speakers?|pidgin|
+-|m|What term names a contact language that has become a community's first language?|creole|
+-|h|What term names the practice of alternating languages within a conversation?|code-switching|code switching
+B|m|Answer these questions about the brain and language.
+-|e|What term names a language disorder, often after stroke?|aphasia|
+-|m|Which area of the brain, in the temporal lobe, is associated with understanding speech?|Wernicke's area|Wernicke
+-|h|Which hypothesis says that language is learned most easily during a limited window in childhood?|critical period hypothesis|critical period
+B|m|Answer these questions about constructed and invented scripts.
+-|e|What constructed language was created by Zamenhof?|Esperanto|
+-|m|Which Korean king commissioned Hangul?|Sejong|King Sejong|Sejong the Great
+-|h|Which Cherokee man invented a syllabary?|Sequoyah|
+# quizbowl varsity | Social Science | Economics
+e|This Austrian-born economist's The Road to Serfdom argued that central planning leads to tyranny. He criticized Keynes and shared the 1974 Nobel Prize with Gunnar Myrdal. For 10 points, name this author of The Use of Knowledge in Society, first name Friedrich.|Friedrich Hayek|Hayek|n
+e|This British economist's 1936 book The General Theory of Employment, Interest and Money argued that insufficient aggregate demand can cause prolonged unemployment, justifying government spending. For 10 points, name this economist.|John Maynard Keynes|Keynes|n
+e|This University of Chicago economist, author of Capitalism and Freedom, led the school of monetarism, arguing that inflation is "always and everywhere a monetary phenomenon." For 10 points, name this Nobel winner, first name Milton.|Milton Friedman|Friedman|n
+h|This curve, named for a New Zealand-born economist, plotted a historical inverse relationship between unemployment and wage inflation in Britain. Friedman and Phelps argued it breaks down in the long run. For 10 points, name this curve, named for A. W. Phillips.|Phillips curve|
+m|This curve plots the cumulative share of income against the cumulative share of population. The area between it and the line of perfect equality is used to compute the Gini coefficient. For 10 points, name this curve named for Max Lorenz.|Lorenz curve|
+m|The Laffer curve, popularized in the 1970s, suggests that there is a tax rate that maximizes this quantity, because a tax rate of 100 percent would collect none. For 10 points, name this item collected by governments.|tax revenue|government revenue;revenue
+h|This type of good, named for a Scottish economist, is an inferior good whose quantity demanded rises when its price rises, as in the case of staple foods among the very poor. For 10 points, name this paradoxical good.|Giffen good|Giffen
+h|This theorem, named for a Nobel winner at the University of Chicago, says that if transaction costs are low, parties can bargain to an efficient outcome regardless of the initial assignment of property rights. For 10 points, name this theorem named for Ronald.|Coase theorem|Coase
+h|This concept, named for an Italian engineer-economist, describes an allocation in which no one can be made better off without making someone else worse off. For 10 points, name this standard of efficiency.|Pareto efficiency|Pareto optimality;Pareto optimal;Pareto efficient;Pareto
+e|This English economist's 1817 book Principles of Political Economy and Taxation developed the theory of comparative advantage using the example of cloth and wine in England and Portugal. For 10 points, name this man, first name David.|David Ricardo|Ricardo|n
+h|In the 1970 paper "The Market for Lemons," this economist showed that asymmetric information can cause markets for used cars to collapse. He shared the 2001 Nobel Prize with Michael Spence and Joseph Stiglitz. For 10 points, name this man, first name George.|George Akerlof|Akerlof|n
+m|This term names a situation where one party in a transaction has more or better information than the other, and which leads insurers to attract riskier customers. Its counterpart in insurance is moral hazard. For 10 points, name this problem.|adverse selection|
+h|This Austrian-American economist's Capitalism, Socialism and Democracy described "creative destruction," the process by which innovation topples old industries. For 10 points, name this man, first name Joseph.|Joseph Schumpeter|Schumpeter|n
+e|This 1944 conference in New Hampshire created the International Monetary Fund and the World Bank and set up a system of fixed exchange rates pegged to the dollar. For 10 points, name this conference.|Bretton Woods|Bretton Woods conference
+e|This 1930 United States law raised tariffs on over twenty thousand imports and was followed by foreign retaliation, worsening the Great Depression. For 10 points, name this law named for a senator and a representative.|Smoot-Hawley Tariff Act|Smoot-Hawley;Smoot Hawley
+h|In macroeconomics, this empirical relationship, named for a Yale economist, says that a one-point rise in cyclical unemployment corresponds to a drop of about two points in GDP growth relative to potential. For 10 points, name this law named for Arthur.|Okun's law|Okun
+h|This model, developed by Robert Solow and Trevor Swan, explains economic growth through capital accumulation, labor growth and technological progress. It predicts convergence. For 10 points, name this growth model.|Solow model|Solow growth model;Solow-Swan model;Solow
+m|This rule, named for a Stanford economist, suggests that a central bank should set its interest rate based on inflation and the output gap. For 10 points, name this guideline named for John.|Taylor rule|Taylor
+m|This condition, named for Keynes, occurs when interest rates are near zero and monetary policy loses its ability to stimulate the economy, because people hoard cash. For 10 points, name this trap.|liquidity trap|
+h|This economist's theorem proved that no ranking system for three or more options can satisfy a small set of reasonable criteria simultaneously, such as non-dictatorship. For 10 points, name this Nobel laureate, first name Kenneth.|Kenneth Arrow|Arrow|n
+m|In this game theory concept, named for a mathematician portrayed in A Beautiful Mind, no player can improve their outcome by changing strategy alone. For 10 points, name this kind of equilibrium.|Nash equilibrium|Nash
+e|This game, popularized by Albert Tucker, involves two prisoners who each can cooperate or defect. The dominant strategy for each is to defect, even though both would be better off cooperating. For 10 points, name this classic game theory problem.|prisoner's dilemma|prisoners dilemma
+h|This hypothesis, developed by the Chicago economist Eugene Fama, says that asset prices fully reflect available information, so it is impossible to consistently beat the market. For 10 points, name this hypothesis, abbreviated EMH.|efficient market hypothesis|efficient markets hypothesis;EMH|ok
+h|Daniel Kahneman and Amos Tversky developed this theory in 1979, in which people evaluate gains and losses relative to a reference point and feel losses more strongly. For 10 points, name this behavioral alternative to expected utility theory.|prospect theory|
+m|This ecologist's 1968 essay describes a pasture open to all in which each herder adds animals until the resource is ruined. Elinor Ostrom later challenged the pessimistic conclusion. For 10 points, name this concept, a "tragedy of the" shared land.|tragedy of the commons|
+m|This 1933 United States law separated commercial banking from investment banking and created federal deposit insurance. It was largely repealed in 1999. For 10 points, name this law named for a senator and a representative.|Glass-Steagall Act|Glass-Steagall;Glass Steagall
+h|This term describes the damage to a country's manufacturing sector when a resource boom, like gas discoveries in the Netherlands in the 1960s, leads to currency appreciation. For 10 points, name this phenomenon, named for a Western European country.|Dutch disease|
+h|This Chicago economist's work on rational expectations argued that predictable policy changes will not affect real output, since people anticipate them. His critique is named for him. For 10 points, name this Nobel laureate, first name Robert.|Robert Lucas|Lucas|n
+e|This index, created by The Economist in 1986, compares prices of a burger around the world as an informal test of purchasing power parity. For 10 points, name this lighthearted index.|Big Mac Index|Big Mac
+e|This Scottish philosopher's 1776 book The Wealth of Nations introduced the metaphor of the "invisible hand" and described how the division of labor, illustrated by a pin factory, raises productivity. For 10 points, name this author, first name Adam.|Adam Smith|Smith|n
+B|m|Answer these questions about macroeconomic thinkers.
+-|e|Which economist wrote The General Theory?|John Maynard Keynes|Keynes|n
+-|m|Which economist led the Chicago school of monetarism?|Milton Friedman|Friedman|n
+-|h|Which Austrian economist and Keynes's rival wrote The Constitution of Liberty?|Friedrich Hayek|Hayek|n
+B|m|Answer these questions about information in markets.
+-|e|What term names a car with hidden defects, in a title by George Akerlof?|lemon|lemons|
+-|m|What term names the tendency of insured people to take more risk?|moral hazard|
+-|h|Which economist developed signaling theory and shared a Nobel with Akerlof and Stiglitz?|Michael Spence|Spence|n
+B|m|Answer these questions about game theory.
+-|e|Which game features two suspects deciding whether to confess?|prisoner's dilemma|prisoners dilemma
+-|m|Which mathematician gave his name to an equilibrium in which no player gains by deviating?|John Nash|Nash|n
+-|h|Which Hungarian-born mathematician co-wrote Theory of Games and Economic Behavior with Oskar Morgenstern?|John von Neumann|von Neumann;Neumann|n
+B|m|Answer these questions about trade.
+-|e|Which economist developed comparative advantage in 1817?|David Ricardo|Ricardo|n
+-|m|Which 1930 act raised tariffs?|Smoot-Hawley Tariff Act|Smoot-Hawley
+-|h|Which two Swedish economists are the namesakes of a model of trade based on factor endowments?|Heckscher and Ohlin|Heckscher-Ohlin;Eli Heckscher and Bertil Ohlin
+B|m|Answer these questions about behavioral economics.
+-|e|Which psychologist won the 2002 Nobel Prize in Economics for prospect theory?|Daniel Kahneman|Kahneman|n
+-|m|Which Kahneman collaborator died in 1996 before the prize?|Amos Tversky|Tversky|n
+-|h|Which Chicago economist wrote Nudge with Cass Sunstein and won the 2017 Nobel?|Richard Thaler|Thaler|n
+B|m|Answer these questions about economic measurement.
+-|e|What measure, abbreviated GDP, names total output of a country?|gross domestic product|GDP
+-|m|What coefficient, between 0 and 1, measures income inequality?|Gini coefficient|Gini
+-|h|What curve is used to compute that coefficient?|Lorenz curve|Lorenz
+B|m|Answer these questions about institutions and crises.
+-|e|Which 1929 market event began the Great Depression?|stock market crash|Wall Street Crash;crash of 1929
+-|m|Which 1944 conference created the International Monetary Fund?|Bretton Woods|Bretton Woods conference
+-|h|Which 1933 act separated commercial and investment banking?|Glass-Steagall Act|Glass-Steagall
+B|m|Answer these questions about growth and innovation.
+-|e|Which Austrian economist coined creative destruction?|Joseph Schumpeter|Schumpeter|n
+-|m|Which MIT economist's model explains growth through capital accumulation and technology?|Robert Solow|Solow|n
+-|h|What term, used by Paul Romer, describes growth driven by knowledge and ideas?|endogenous growth|endogenous growth theory

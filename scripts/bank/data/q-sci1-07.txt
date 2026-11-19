@@ -1,0 +1,67 @@
+# quizbowl jv | Science | Earth Science
+h|This process occurs at a convergent boundary where a dense oceanic plate slides beneath another plate and sinks into the mantle. It creates deep ocean trenches and a chain of volcanoes on the overriding plate, as in the Andes and the Cascades. For 10 points, name this process.|subduction
+h|This Scottish geologist, called the father of modern geology, noted in 1788 at Siccar Point that tilted rock layers lie beneath flat ones. He argued that Earth is extremely old and that the processes seen today also shaped the past. For 10 points, name this author of Theory of the Earth.|James Hutton|Hutton|n
+h|This is the term for a rock-forming idea stating that in an undisturbed sequence of sedimentary layers, the oldest layers are at the bottom and the youngest are at the top. Nicolas Steno proposed it. For 10 points, name this law used in relative dating.|law of superposition|superposition
+h|Harry Hess proposed this process at mid-ocean ridges. As magma rises and cools, new crust is added, and the magnetic stripes on either side of the ridge are symmetrical mirror images. It explains why the youngest ocean crust is at the ridge crest. For 10 points, name this process, in which the ocean floor grows outward from the middle of the Atlantic.|seafloor spreading|sea-floor spreading
+h|This type of fault, such as the San Andreas in California, forms where plates slide horizontally past each other. The motion is called strike-slip, and no crust is created or destroyed. For 10 points, name this type of plate boundary.|transform boundary|transform fault;transform;transform plate boundary
+h|This is the name of the effect, caused by Earth's rotation, that deflects moving air and ocean currents to the right in the Northern Hemisphere and to the left in the Southern. It makes hurricanes spin. For 10 points, name this effect named for a French mathematician.|Coriolis effect|Coriolis force;Coriolis
+h|This is the name of the mass extinction about 252 million years ago that ended the Permian period. It wiped out roughly 90 percent of marine species, including the trilobites. For 10 points, name this event, nicknamed "the Great Dying."|Permian extinction|Permian-Triassic extinction;end-Permian extinction;Great Dying;Permian-Triassic
+h|This is the name of the narrow, fast-flowing bands of air in the upper troposphere that blow from west to east. They steer storm systems and are strongest in winter. For 10 points, name these high-altitude winds.|jet stream|jet streams
+m|This is the name of a periodic warming of surface waters in the central and eastern Pacific Ocean that disrupts weather worldwide. Its name is Spanish for "the boy." For 10 points, name this climate pattern, the opposite phase of La Nina.|El Nino|El Nino Southern Oscillation;ENSO
+m|This is the name for a place where a plume of hot mantle material rises through a plate and produces volcanoes, such as those that formed the Hawaiian Islands. The plate moves over it, creating a chain of islands. For 10 points, name this feature.|hot spot|hotspot;mantle plume
+m|This is the name for the underground layer of porous rock or sediment that holds groundwater and can be tapped by wells. The top of the saturated zone above it is the water table. For 10 points, name this layer, such as the Ogallala.|aquifer
+m|This type of seismic wave arrives second after an earthquake and moves the ground side to side or up and down. It cannot travel through liquids, which helped scientists show that Earth's outer core is liquid. For 10 points, name this wave, designated S.|S wave|secondary wave;shear wave
+m|This German scientist proposed in 1912 that the continents once formed a single landmass and have since drifted apart. He cited the fit of South America and Africa and similar fossils across oceans. For 10 points, name this man whose theory was later supported by plate tectonics.|Alfred Wegener|Wegener|n
+m|This is the term for a gas in the atmosphere, including water vapor, carbon dioxide, and methane, that traps heat and warms the planet. For 10 points, name this kind of gas, which gives its name to an effect.|greenhouse gas|greenhouse gases
+m|This is the name for the fraction of incoming sunlight that a surface reflects back to space. Fresh snow and ice have a high value of it, while dark ocean water and forests have a low value. Melting ice lowers it, which speeds warming. For 10 points, give this term.|albedo
+m|This is the term for a ridge or pile of unsorted rock and sediment deposited by a glacier at its sides or end. Cape Cod and Long Island were formed from them. For 10 points, name this glacial landform.|moraine|terminal moraine
+m|This scale ranks hurricanes from Category 1 to Category 5 based on their maximum sustained wind speed. It is named for a civil engineer and a meteorologist who was director of the National Hurricane Center. A Category 3 or higher storm is called a major hurricane. For 10 points, name this scale.|Saffir-Simpson scale|Saffir-Simpson;Saffir Simpson
+m|This is the name of the large fan-shaped landform of sediment that forms where a river meets a body of standing water. The Mississippi and the Nile each have a famous one. For 10 points, name this landform.|delta|river delta
+m|This is the name of the geologic period that started about 541 million years ago and saw a rapid diversification of animal life. Trilobites flourished during it. For 10 points, name this first period of the Paleozoic era.|Cambrian|Cambrian period
+m|This is the term for the temperature at which air becomes saturated and water vapor begins to condense into liquid. For 10 points, name this temperature, which is also the temperature at which dew forms.|dew point
+m|This is the name for the continuous circulation of rock between igneous, sedimentary, and metamorphic types through melting, cooling, weathering, and pressure. For 10 points, name this cycle.|rock cycle
+e|This is the name of a violently rotating column of air that extends from a thunderstorm to the ground. It is rated on the Enhanced Fujita scale, and most of them in the United States occur in a region of the Great Plains known as an "Alley." For 10 points, name this storm, also called a twister.|tornado|tornadoes
+e|This instrument records the shaking of the ground during an earthquake. It has a heavy mass that stays still while the frame moves with the ground, and it produces a trace called a seismogram. For 10 points, name this device that detects seismic waves.|seismograph|seismometer
+e|This is the name of the molten rock beneath Earth's surface. It collects in chambers under volcanoes and forms igneous rocks such as granite when it cools slowly. When it erupts onto the surface it is instead called lava. For 10 points, name this hot liquid rock.|magma
+e|Water that falls from clouds to Earth as rain, snow, sleet, or hail is called this. It is the part of the water cycle that follows condensation. Meteorologists measure it with a rain gauge. For 10 points, name this term for water falling from the sky.|precipitation
+e|This was the single global ocean that surrounded the supercontinent Pangaea. Its name comes from Greek words meaning "all sea." The Pacific Ocean is considered its remnant, along with the Tethys Sea. For 10 points, give this name.|Panthalassa
+e|This is the name for the imaginary line at 0 degrees latitude that divides Earth into Northern and Southern Hemispheres. For 10 points, name this line, which also marks the region of the warmest tropical climates.|equator|the equator
+e|These are the huge masses of land ice that cover Antarctica and Greenland. They hold most of Earth's freshwater, and Antarctica's is up to several miles thick. Their melting would raise sea level. For 10 points, name these continental-scale glaciers.|ice sheets|ice sheet
+e|This is the name for the tiny pieces of rock and mineral, such as sand and silt, that are moved by wind and water and deposited. For 10 points, name this material that forms sedimentary rock.|sediment|sediments
+e|This is the day on which the Northern Hemisphere is tilted most toward the Sun, giving it the longest daylight of the year. It falls around June 21. The Southern Hemisphere has its shortest day then. For 10 points, name this day that marks the start of astronomical summer.|summer solstice|solstice;June solstice
+B|m|Answer these questions about plate tectonics.
+-|e|What name is given to the break in a rock along which blocks of crust have moved?|fault
+-|m|What type of plate boundary, such as the Himalayas, forms when two continental plates collide?|convergent boundary|convergent;continental collision
+-|h|What sea-floor feature, such as the Mariana, is the deepest part of the ocean?|trench|ocean trench;deep sea trench
+B|m|Answer these questions about the atmosphere.
+-|e|What is the lowest layer of the atmosphere, where weather occurs?|troposphere
+-|m|What layer of the atmosphere is where auroras occur and temperatures can be very high?|thermosphere
+-|h|What is the name of the layer of the atmosphere between the stratosphere and the uppermost layers, where most meteors burn up?|mesosphere
+B|m|Answer these questions about weather.
+-|e|What kind of measurement, given in percent, tells how much water vapor is in the air?|relative humidity|humidity
+-|m|What name is given to the area of low pressure where winds spiral in, often associated with storms?|cyclone|low-pressure system;low pressure
+-|h|What name is given to a cloud type that is flat and gray and covers the whole sky, producing steady rain?|nimbostratus|stratus
+B|m|Answer these questions about geologic time.
+-|e|What era, called the age of mammals, is the current one?|Cenozoic|Cenozoic era
+-|m|What geologic eon covers the first four billion years of Earth's history, before the Cambrian?|Precambrian|Precambrian time
+-|h|What name is given to the layer of clay that contains iridium and marks the end of the Cretaceous period?|K-Pg boundary|K-T boundary;Cretaceous-Paleogene boundary
+B|m|Answer these questions about minerals and rocks.
+-|e|What is a naturally occurring, inorganic solid with a definite chemical composition called?|mineral
+-|m|What test, which uses unglazed porcelain, finds the color of a mineral's powder?|streak test|streak
+-|h|What term describes the way minerals break along flat planes?|cleavage
+B|m|Answer these questions about surface processes.
+-|e|What is the name for the removal of soil and rock by wind and water?|erosion
+-|m|What name is given to wind-blown deposits of fine silt that make fertile soils in the Midwest?|loess
+-|h|What term names a landscape of caves and sinkholes formed by the dissolving of limestone?|karst|karst topography
+B|m|Answer these questions about the oceans.
+-|e|What is the largest ocean after the Pacific?|Atlantic Ocean|Atlantic
+-|m|What name is given to the area of shallow seafloor around a continent?|continental shelf
+-|h|What current pattern in ocean water, driven by the wind and the Coriolis effect, circles around an ocean basin?|gyre|ocean gyre
+B|m|Answer these questions about volcanoes and earthquakes.
+-|e|What name is given to a mountain formed from layers of ash and lava, such as Mount Fuji?|stratovolcano|composite volcano;composite
+-|m|What Washington State volcano erupted violently in May 1980?|Mount Saint Helens|Saint Helens;Mount Saint Helens
+-|h|What is the name of the 1883 eruption of an Indonesian island volcano heard thousands of miles away?|Krakatoa|Krakatau
+B|m|Answer these questions about climate and the environment.
+-|e|What layer of gases surrounds Earth and absorbs ultraviolet radiation?|ozone layer|ozone
+-|m|What term names a long period without rain?|drought
+-|h|What type of climate zone, near the equator, has warm temperatures and abundant rain all year?|tropical|tropical climate;tropical zone

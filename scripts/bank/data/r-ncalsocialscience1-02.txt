@@ -1,0 +1,161 @@
+# ncal jv | Social Science | World History
+B|m|Answer these questions about World War I.
+-|e|Which alliance included Germany and Austria-Hungary?|Central Powers|The Central Powers
+-|m|What type of fighting in dug-in lines of fortified ditches defined the Western Front?|trench warfare|Trench warfare
+-|h|Which British liner was sunk by a German submarine in 1915, killing many Americans?|Lusitania|RMS Lusitania
+B|m|Answer these questions about the Russian Revolution.
+-|e|Which tsar abdicated in 1917?|Nicholas II|Tsar Nicholas II
+-|m|What was the name of the party led by Lenin?|Bolsheviks|Bolshevik Party;Bolshevik
+-|h|Which Bolshevik leader organized the Red Army?|Leon Trotsky|Trotsky|n
+B|m|Answer these questions about Europe between the world wars.
+-|e|Which 1929 event in New York helped start the Great Depression?|Wall Street Crash|stock market crash;Stock Market Crash of 1929
+-|m|Which general won the Spanish Civil War and ruled Spain?|Francisco Franco|Franco|n
+-|h|What was the name of Germany's democratic republic from 1919 to 1933?|Weimar Republic|Weimar
+B|m|Answer these questions about World War II in Europe.
+-|e|What was the 1940 German air campaign against Britain called?|Battle of Britain|The Battle of Britain
+-|m|What was the name of the Allied invasion of Normandy on June 6, 1944?|D-Day|Operation Overlord;Normandy landings
+-|h|Which Soviet city's siege, ending in early 1943, was a turning point on the Eastern Front?|Stalingrad
+B|m|Answer these questions about World War II in the Pacific.
+-|e|Which Pacific island saw a famous 1945 flag raising on Mount Suribachi?|Iwo Jima
+-|m|Which June 1942 naval battle destroyed four Japanese carriers?|Battle of Midway|Midway
+-|h|Which Japanese emperor announced his country's surrender in 1945?|Hirohito|Emperor Hirohito
+B|m|Answer these questions about the early Cold War.
+-|e|What 1948 and 1949 operation supplied West Berlin by air?|Berlin Airlift|The Berlin Airlift
+-|m|Which Western military alliance was formed in 1949?|NATO|North Atlantic Treaty Organization
+-|h|Which Soviet-led military alliance was created in 1955?|Warsaw Pact
+B|m|Answer these questions about the later Cold War.
+-|e|Which parallel divided North and South Korea?|38th parallel|thirty-eighth parallel
+-|m|Which leader headed communist North Vietnam?|Ho Chi Minh|Ho|n=Minh
+-|h|Which Soviet leader introduced the policies of glasnost and perestroika?|Mikhail Gorbachev|Gorbachev|n
+B|m|Answer these questions about decolonization.
+-|e|Which country became independent from Britain in 1947 alongside Pakistan?|India
+-|m|Which 1954 battle ended French rule in Indochina?|Dien Bien Phu|Battle of Dien Bien Phu
+-|h|Which European country fought the Algerian War of Independence?|France
+B|m|Answer these questions about China.
+-|e|Which Chinese invention uses a magnetized needle for navigation?|compass|magnetic compass
+-|m|What overland trade network linked China with the Mediterranean world?|Silk Road|Silk Roads;The Silk Road
+-|h|Which dynasty fell in 1912 as China's last imperial dynasty?|Qing Dynasty|Qing;Manchu Dynasty
+B|m|Answer these questions about Japan.
+-|e|Which Japanese religion venerates spirits called kami?|Shinto
+-|m|Which American commodore arrived in Japan in 1853 to demand trade?|Matthew Perry|Perry|n
+-|h|Which 1904 and 1905 war ended with a surprising Japanese victory over a European power?|Russo-Japanese War
+B|m|Answer these questions about South Asia.
+-|e|Which religion has the most followers in India?|Hinduism|Hindu
+-|m|Which empire did Chandragupta Maurya found?|Mauryan Empire|Maurya Empire;Mauryan;Maurya
+-|h|Which trading company ruled much of India until 1858?|British East India Company|East India Company
+B|m|Answer these questions about Africa.
+-|e|Which African nation did Italy invade in 1935?|Ethiopia
+-|m|Which city in Mali was a center of Islamic learning and trade?|Timbuktu
+-|h|Which ancient kingdom, south of Egypt, had its capital at Meroe?|Kush|Kingdom of Kush;Nubia
+B|m|Answer these questions about the modern Middle East.
+-|e|Which empire, ruled from Istanbul, collapsed after World War I?|Ottoman Empire|Ottomans
+-|m|Which leader founded the Republic of Turkey in 1923?|Mustafa Kemal Ataturk|Ataturk;Atatürk;Mustafa Kemal|part
+-|h|Which 1917 British statement supported a Jewish national home in Palestine?|Balfour Declaration|The Balfour Declaration
+B|m|Answer these questions about ancient Mesopotamia.
+-|e|Mesopotamia lay between which two rivers?|Tigris and Euphrates|Euphrates and Tigris
+-|m|Which Babylonian king is traditionally linked with the Hanging Gardens?|Nebuchadnezzar II|Nebuchadnezzar
+-|h|Which Assyrian capital held the library of Ashurbanipal?|Nineveh
+# ncal varsity | Social Science | Economics
+e|What term describes the basic problem that wants are unlimited but resources are limited?|scarcity
+e|What term describes a cost already incurred that cannot be recovered?|sunk cost|sunk costs
+e|What term describes the quantity of a good that producers are willing to sell at various prices?|supply
+e|What term describes the quantity of a good that consumers are willing and able to buy at various prices?|demand
+e|What term refers to a general rise in the overall price level?|inflation
+e|What term refers to a general fall in the overall price level?|deflation
+e|What measure totals the market value of all final goods and services produced within a country in a year?|Gross Domestic Product|GDP
+e|What market structure has only one seller of a good with no close substitutes?|monopoly
+e|What market structure is dominated by a small number of large firms?|oligopoly
+e|What is a tax on imported goods called?|tariff|import duty
+e|What term is used for government payments that lower the cost of production for a business or industry?|subsidy
+e|What is the central bank of the United States?|Federal Reserve|The Federal Reserve;Fed
+e|What term describes government use of taxes and spending to influence the economy?|fiscal policy
+e|What term describes the control of the money supply and interest rates by a central bank?|monetary policy
+e|What is the price of borrowing money, expressed as a percentage, called?|interest rate|interest
+e|At what point do the supply and demand curves intersect?|equilibrium|market equilibrium
+e|What is a legal maximum price, such as in rent control, called?|price ceiling
+e|What is a legal minimum price, such as a minimum wage, called?|price floor
+e|What is the percentage of the labor force that is jobless but looking for work?|unemployment rate
+e|What principle says a country should specialize in goods it produces at a lower opportunity cost?|comparative advantage
+e|Which Scottish economist wrote "The Wealth of Nations"?|Adam Smith|Smith|n
+e|Which British economist advocated government spending to fight depressions?|John Maynard Keynes|Keynes|n
+e|What metaphor did Adam Smith use for self-interested individuals unintentionally promoting society's good?|invisible hand|the invisible hand
+e|What term describes imports exceeding exports?|trade deficit
+e|What do we call a situation where the quantity demanded exceeds the quantity supplied?|shortage
+e|At a price above equilibrium, what results when sellers offer more than buyers will purchase?|surplus
+e|What financial asset represents a share of ownership in a corporation?|stock|share;shares of stock
+e|What financial asset is a loan to a government or corporation that pays interest?|bond
+e|What term describes a person who starts a new business and takes on its risks?|entrepreneur
+e|Which factor of production includes machinery, tools, and buildings used to make goods?|capital|capital goods
+e|What kind of tax charges every taxpayer the same percentage of income?|flat tax|proportional tax
+e|What term describes trading goods directly for other goods without using money?|barter
+e|What is total revenue minus total costs called?|profit
+e|What kind of economy has government planning decide what is produced?|command economy|centrally planned economy;planned economy
+e|What kind of economy combines private markets with some government direction?|mixed economy
+e|What 1930s global downturn caused massive unemployment worldwide?|Great Depression|The Great Depression
+m|What term measures how sensitive quantity demanded is to a change in price?|price elasticity of demand|elasticity of demand;elasticity
+m|What law states that adding more of one input eventually yields smaller additional output?|law of diminishing marginal returns|diminishing returns;diminishing marginal returns
+m|What is the added cost of producing one more unit?|marginal cost
+m|What kind of cost does not change as output changes in the short run?|fixed cost|fixed costs
+m|What kind of cost rises and falls with the quantity produced?|variable cost|variable costs
+m|What term describes falling average costs as a firm increases its output?|economies of scale
+m|What market structure has many sellers, identical products, and easy entry?|perfect competition|pure competition
+m|What market structure has many sellers offering differentiated products?|monopolistic competition
+m|What is a group of producers that agree to limit output to raise prices?|cartel
+m|Which 1890 federal law, named for an Ohio senator, targeted monopolies?|Sherman Antitrust Act|Sherman Act
+m|What is the fraction of deposits that banks must hold rather than lend out?|reserve requirement|required reserves
+m|What is the interest rate the Federal Reserve charges commercial banks for loans?|discount rate
+m|What is the buying and selling of government securities by the Federal Reserve to adjust the money supply called?|open market operations|open market operation
+m|What term describes the situation in which government borrowing raises interest rates and reduces private investment?|crowding out
+m|What term describes high inflation combined with stagnant growth and high unemployment?|stagflation
+m|What curve shows the total demand for goods and services at different price levels?|aggregate demand|aggregate demand curve
+m|What curve shows total output firms will produce at different price levels?|aggregate supply|aggregate supply curve
+m|Which curve depicts an inverse relationship between inflation and unemployment?|Phillips curve
+m|Which curve, named for an economist, relates tax rates to government revenue?|Laffer curve
+m|Which curve graphs the cumulative share of income against the cumulative share of households?|Lorenz curve
+m|What index measures income inequality on a scale from zero to one?|Gini coefficient|Gini index|Gini
+m|Which Chicago School economist advocated monetarism?|Milton Friedman|Friedman|n
+m|Which Austrian economist wrote "The Road to Serfdom"?|Friedrich Hayek|Hayek|n
+m|Which philosopher co-wrote "The Communist Manifesto" and wrote "Das Kapital"?|Karl Marx|Marx|n
+m|Which British economist developed the theory of comparative advantage in 1817?|David Ricardo|Ricardo|n
+m|Which English cleric argued that population grows faster than food supply?|Thomas Malthus|Malthus|n
+m|What term describes a cost or benefit that spills over to a third party?|externality|externalities
+m|What kind of good is nonexcludable and nonrival, like national defense?|public good
+m|What problem arises when people benefit from a good without paying for it?|free rider problem|free-rider problem
+m|What term describes the overuse of a shared resource because no one owns it?|tragedy of the commons
+m|What term describes people taking greater risks because they are protected from the consequences?|moral hazard
+m|What term describes one party in a transaction having more information, leading to unbalanced selection of risks?|adverse selection
+m|What is the loss of total surplus caused by a market distortion such as a tax?|deadweight loss
+m|What is the difference between what consumers are willing to pay and what they actually pay?|consumer surplus
+m|What is the difference between the price a seller receives and the minimum price the seller would accept?|producer surplus
+m|What term describes GDP measured in current prices without adjusting for inflation?|nominal GDP|nominal gross domestic product
+m|What term describes GDP adjusted for changes in prices?|real GDP|real gross domestic product
+m|What record tracks all transactions between one country and the rest of the world?|balance of payments
+m|What is the price of one currency in terms of another?|exchange rate
+m|What is a fall in a currency's value under a floating exchange rate system called?|depreciation
+m|Which international organization, founded in 1995, oversees global trade rules?|World Trade Organization|WTO
+m|Which international organization, based in Washington, makes loans to countries with balance-of-payments problems?|International Monetary Fund|IMF
+m|What is the recurring pattern of expansion and contraction in an economy called?|business cycle
+m|What term describes a central bank buying large amounts of financial assets to stimulate the economy?|quantitative easing
+m|What term describes how easily an asset can be converted into cash?|liquidity
+h|Which index, based on market shares squared, measures market concentration?|Herfindahl-Hirschman Index|Herfindahl index;HHI
+h|What term describes an allocation where no one can be made better off without making someone worse off?|Pareto efficiency|Pareto optimality;Pareto optimal;Pareto efficient
+h|Which theorem says private bargaining can solve externalities when transaction costs are low?|Coase theorem|Coase Theorem
+h|What game theory outcome is one in which no player can gain by changing strategy alone?|Nash equilibrium
+h|In which game theory scenario do two rational players each choose betrayal even though cooperation would be better?|prisoner's dilemma|the prisoner's dilemma
+h|What term describes an inferior good whose demand rises when its price rises?|Giffen good
+h|What term describes a luxury good whose demand rises as its price rises because of prestige?|Veblen good
+h|Which law, often summarized as "bad money drives out good," is named for a Tudor financier?|Gresham's law|Gresham's Law
+h|Which law is often summarized as "supply creates its own demand"?|Say's law|Say's Law
+h|Which proposition says deficit-financed tax cuts are offset by increased private saving?|Ricardian equivalence
+h|Which equation links the nominal interest rate to the real rate and expected inflation?|Fisher equation
+h|Which economist developed a neoclassical growth model emphasizing technology and capital accumulation?|Robert Solow|Solow|n
+h|Which 1944 conference established the postwar fixed exchange rate system?|Bretton Woods|Bretton Woods Conference;Bretton Woods system
+h|Which 1930 tariff act raised duties on thousands of imports and deepened the Depression?|Smoot-Hawley Tariff Act|Smoot-Hawley;Hawley-Smoot Tariff
+h|Which 1933 banking act separated commercial and investment banking?|Glass-Steagall Act|Glass-Steagall;Banking Act of 1933
+h|Which committee of the Federal Reserve sets targets for the federal funds rate?|Federal Open Market Committee|FOMC
+h|What rule suggests how central banks should set interest rates based on inflation and output gaps?|Taylor rule|The Taylor Rule
+h|Which equation, expressed as MV equals PQ, underlies the quantity theory of money?|equation of exchange|quantity equation;quantity theory of money
+h|Which law links changes in unemployment to changes in output?|Okun's law|Okun's Law
+h|Which theory holds that exchange rates adjust so identical goods cost the same across countries?|purchasing power parity|PPP
+h|Which trade model predicts that countries export goods intensive in their abundant factors?|Heckscher-Ohlin model|Heckscher-Ohlin;Heckscher-Ohlin theory
+h|What condition describes monetary policy losing effectiveness because interest rates are near zero?|liquidity trap

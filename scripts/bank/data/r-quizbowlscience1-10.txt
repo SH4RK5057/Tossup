@@ -1,0 +1,64 @@
+# quizbowl varsity | Science | Computer Science
+h|This class of problems consists of decision problems whose solutions can be verified in polynomial time. Whether it equals the class P of problems solvable in polynomial time is one of the Millennium Prize Problems. Stephen Cook and Leonid Levin proved that the satisfiability problem is complete for it. For 10 points, name this complexity class abbreviated with two letters.|NP|nondeterministic polynomial time;NP class|
+h|This problem asks whether a program will finish running or loop forever for a given input. Alan Turing proved in 1936 that no general algorithm can decide it for all program-input pairs. The proof uses a diagonalization argument. For 10 points, name this undecidable problem.|halting problem|the halting problem|
+h|This graph traversal algorithm extends a shortest-path method by adding a heuristic estimate of the remaining distance to the goal, ordering nodes by the sum of cost so far and that estimate. It is optimal if the heuristic never overestimates. It was developed at the Stanford Research Institute for the robot Shakey. For 10 points, name this pathfinding algorithm commonly used in video games, whose name is a letter followed by a punctuation symbol.|A* search|A star;A-star;A* algorithm;A star search|
+m|This sorting algorithm repeatedly divides the list in half, sorts each half recursively, and then combines them in order. It is stable and always runs in n log n time, but needs extra memory. John von Neumann described it in 1945. For 10 points, name this divide-and-conquer sort.|merge sort|mergesort|
+e|This is the term for a program that translates human-readable source code into machine code for execution, as opposed to an interpreter. For 10 points, name this type of program that includes GCC and Clang.|compiler||
+m|This is the term for a self-balancing binary search tree named for two Soviet mathematicians, in which the heights of the two subtrees of any node differ by at most one. For 10 points, name this tree, the first self-balancing binary search tree, with names of its inventors.|AVL tree|AVL||
+h|This is the 1976 public-key scheme, named for two Stanford researchers, that allows two parties to establish a shared secret over a public channel using modular exponentiation. Its security rests on the discrete logarithm problem. For 10 points, name this key exchange.|Diffie-Hellman key exchange|Diffie-Hellman;Diffie Hellman|
+m|This is the architecture of most modern computers, described in 1945, where program instructions and data are stored in the same memory. It is named for a Hungarian-American mathematician. For 10 points, name this architecture.|von Neumann architecture|Von Neumann architecture;Princeton architecture|
+e|This is the language used for most programming on Apple's iOS devices after 2014, replacing Objective-C. Its name is also a fast bird. For 10 points, name this language created by Chris Lattner at Apple.|Swift||
+m|This is the term for the principle that a database transaction is all or nothing, one of the four ACID properties. The others are consistency, isolation, and durability. For 10 points, name this property.|atomicity|atomic|
+h|This 1936 mathematical model uses lambda abstraction and function application to express computation. It was developed by Alonzo Church and underlies functional programming languages like Lisp and Haskell. For 10 points, name this formal system.|lambda calculus|the lambda calculus|
+m|This is the concept in operating systems of a small unit of execution within a process that shares memory with other such units. Using several allows a program to do tasks concurrently. For 10 points, name this unit.|thread|threads|
+e|This is the term for unwanted messages sent in bulk by email, usually advertising or scams. Filters use machine learning to detect it, and laws regulate it. Its name comes from a canned meat in a Monty Python sketch. For 10 points, name this nuisance in inboxes.|spam|junk mail|
+m|This protocol, created at Netscape in the 1990s and later standardized as TLS, encrypts traffic between a web browser and a server. The padlock icon in a browser indicates it. For 10 points, name this protocol abbreviated SSL.|Secure Sockets Layer|SSL;Secure Socket Layer|
+h|This self-balancing tree data structure keeps data sorted and allows searches, insertions, and deletions in logarithmic time, with each node holding many keys and children. Rudolf Bayer and Edward McCreight invented it at Boeing in 1971. Databases and file systems use it to minimize disk reads. For 10 points, name this tree, whose name suggests letters rather than a number of branches.|B-tree|B tree|
+m|This is the term for a technique where a function's results for given inputs are stored to avoid recomputation, speeding up the recursive Fibonacci algorithm. It is related to dynamic programming. For 10 points, name this technique.|memoization|memoisation|
+e|This is the logic gate that outputs true only if both of its inputs are true. Its truth table has a single row with output one, when both inputs are one. In circuit diagrams it is drawn with a flat input side and a rounded output side. For 10 points, name this basic gate, often paired with OR and NOT.|AND gate|AND|
+m|This is the neural network type that uses layers of filters sliding over inputs and is widely used for image recognition. AlexNet won the ImageNet competition in 2012 using one. For 10 points, name this kind of network, abbreviated CNN.|convolutional neural network|CNN;convolutional network|
+h|This is the 1950 test proposed by Alan Turing in which a human judge converses with a machine and a human and tries to tell which is which. For 10 points, give the other name for the "imitation game."|Turing test|imitation game|
+m|This is the term for an attack in which malicious SQL code is inserted into a form field to manipulate a database query. Parameterized queries prevent it. For 10 points, name this attack, abbreviated with a three-letter language name and a word for putting something in.|SQL injection|SQL injection attack|
+e|This is the term for a unit of digital information equal to 1,024 bytes in some conventions, or 1,000 in SI. The next larger unit is the megabyte. For 10 points, name this unit, prefixed by a metric word for thousand.|kilobyte|KB|
+m|This is the file format that is a lossy image compression standard named for the Joint Photographic Experts Group. Digital cameras commonly save photos in it. For 10 points, give this format's name, which also has a three-letter extension.|JPEG|JPG;Joint Photographic Experts Group|
+h|This Finnish software engineer released the first version of a free Unix-like operating system kernel in 1991 as a hobby, and later created a distributed version control system. For 10 points, name this person, whose kernel runs on Android phones and most web servers.|Linus Torvalds|Torvalds|n
+B|m|Answer these questions about algorithms.
+-|e|What kind of search checks each element of a list in order?|linear search|sequential search|
+-|m|What technique solves problems by breaking them into overlapping subproblems and storing answers?|dynamic programming||
+-|h|What algorithm, named for a Greek mathematician, finds the greatest common divisor of two numbers?|Euclidean algorithm|Euclid's algorithm|
+B|m|Answer these questions about programming languages.
+-|e|What language, developed at Mozilla and known for memory safety without a garbage collector, is named for a type of corrosion?|Rust||
+-|m|What language, created by John McCarthy in 1958, is known for lists written inside parentheses?|Lisp|LISP|
+-|h|What lazy, statically typed functional language is named for the logician Curry?|Haskell|
+B|m|Answer these questions about computer architecture.
+-|e|What component performs arithmetic and logic operations in a CPU, abbreviated ALU?|arithmetic logic unit|ALU|
+-|m|What small, fast storage locations inside the CPU hold operands during execution?|registers|register|
+-|h|What technique overlaps the stages of instruction execution to improve throughput?|pipelining|instruction pipelining;pipeline|
+B|m|Answer these questions about networking.
+-|e|What is the unique numerical label assigned to a device on a network, such as 192.168.1.1?|IP address|Internet Protocol address|
+-|m|What device forwards data packets between networks?|router||
+-|h|What protocol assigns IP addresses automatically to devices on a network, abbreviated DHCP?|Dynamic Host Configuration Protocol|DHCP|
+B|m|Answer these questions about computer scientists.
+-|e|Which Microsoft co-founder wrote BASIC for the Altair?|Bill Gates|Gates|n
+-|m|Which British scientist invented the World Wide Web?|Tim Berners-Lee|Berners-Lee|n
+-|h|Which American computer scientist wrote The Art of Computer Programming?|Donald Knuth|Knuth|n
+B|m|Answer these questions about data structures.
+-|e|What is the topmost node of a tree called?|root|root node|
+-|m|What tree-based structure keeps the smallest or largest element at the top and is used for priority queues?|heap|binary heap|
+-|h|What structure consists of vertices connected by edges and is used to model networks?|graph||
+B|m|Answer these questions about artificial intelligence.
+-|e|What term describes computers learning from data without explicit programming?|machine learning||
+-|m|What algorithm adjusts weights in a neural network by propagating errors backward?|backpropagation|backward propagation|
+-|h|What 2017 neural network architecture, introduced in the paper "Attention Is All You Need," underlies modern large language models?|transformer|Transformer|
+B|m|Answer these questions about software engineering.
+-|e|What term describes finding and fixing errors in code?|debugging||
+-|m|What system, created by Linus Torvalds, tracks changes in source code?|Git|git|
+-|h|What term describes restructuring code without changing its external behavior?|refactoring|refactor|
+e|This networking technology was developed at Xerox PARC in the 1970s by Robert Metcalfe. It connects computers in a local area network using cables with twisted pairs or fiber, and sends data in frames. Its name comes from a discredited substance once thought to carry light waves. For 10 points, name this wired networking standard.|Ethernet||
+m|This design philosophy for processors uses a small set of simple instructions that each execute in about one cycle. David Patterson helped popularize it, and ARM chips are based on it. It contrasts with CISC designs like x86. For 10 points, name this approach, abbreviated by four letters.|RISC|reduced instruction set computing|reduced instruction set computer|
+m|This is the term for a synchronization primitive that ensures only one thread at a time enters a critical section of code. A thread must acquire it before accessing shared data, and releases it afterward. Its name is a contraction of "mutual exclusion." For 10 points, name this lock.|mutex|mutual exclusion|mutex lock|
+e|This is the smallest controllable element of a digital image, arranged in a grid on a screen. A display's resolution is given by the number of them across and down, such as 1920 by 1080. Its name contracts "picture element." For 10 points, name this unit of an image.|pixel|pixels|
+h|This lossless compression method, developed by an MIT student in 1952, assigns shorter binary codes to more frequent symbols by building a tree from the bottom up. The resulting codes are prefix-free, so no code is the start of another. It is used in file formats like ZIP and JPEG. For 10 points, name this coding scheme named for its inventor.|Huffman coding|Huffman code;Huffman encoding;Huffman|
+h|Kruskal's and Prim's algorithms both find this subgraph of a connected weighted graph. It touches every vertex, contains no cycles, and has the smallest possible total edge weight. It is used in designing efficient networks of cables. For 10 points, name this kind of subgraph, abbreviated MST.|minimum spanning tree|MST|
+m|This automatic memory management process, introduced for Lisp by John McCarthy, reclaims memory occupied by objects that a program can no longer reach. Java and Python both use it. Mark-and-sweep is one technique for doing it. For 10 points, name this process.|garbage collection|garbage collector|
+e|This is a network security system that monitors and filters incoming and outgoing traffic according to rules. It sits between a trusted internal network and untrusted networks like the Internet. Its name comes from a wall that stops the spread of flames in a building. For 10 points, name this system.|firewall|firewalls|

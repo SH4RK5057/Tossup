@@ -1,0 +1,63 @@
+# quizbowl jv | Science | Other Science
+m|This scientist's three laws describe motion, and he also formulated universal gravitation. His book Principia was published in 1687. A unit of force is named for him. For 10 points, name this English physicist who supposedly was inspired by a falling apple.|Isaac Newton|Newton|n
+e|This property of a material describes how much mass it has per unit volume. It is measured in grams per cubic centimeter, and water has a value of one. An object floats if it has less of this than the fluid it is in. For 10 points, name this quantity found by dividing mass by volume.|density||
+e|This is the SI unit of force, equal to a kilogram meter per second squared. It is named for a physicist who wrote a famous book called the Principia and formulated three laws of motion. A medium apple weighs roughly one of these. For 10 points, name this unit, abbreviated N.|newton|newtons|
+m|The scientific method begins with a testable guess called this, which an experiment then supports or refutes. It is a proposed explanation for an observation. For 10 points, name this term, often described as an "educated guess."|hypothesis||
+e|This scientist developed the theory of evolution by natural selection after traveling on the HMS Beagle. He wrote On the Origin of Species in 1859. For 10 points, name this English naturalist.|Charles Darwin|Darwin|n
+h|This French chemist and biologist developed pasteurization and a vaccine for rabies. His swan-neck flask experiments disproved spontaneous generation. For 10 points, name this scientist who is a founder of germ theory.|Louis Pasteur|Pasteur|n
+m|Zero on this SI base temperature scale is absolute zero, and water freezes at 273.15 on it. It is named for a Scottish-Irish physicist, William Thomson, who became a baron and worked on thermodynamics. For 10 points, name this unit, abbreviated K.|kelvin|kelvins|
+e|These instruments, invented in the Netherlands around 1608 and improved by Galileo, make distant objects appear closer. Hubble is a famous orbiting one. For 10 points, name this instrument used by astronomers.|telescope|telescopes|
+m|This type of variable in an experiment is the one that the experimenter deliberately changes to see its effect. The measured outcome is the dependent one. For 10 points, name this variable, whose name begins with a word meaning "free from control."|independent variable|independent|
+h|This English chemist at King's College London produced Photograph 51, an X-ray diffraction image of DNA. Her data were used by Watson and Crick, who later won a Nobel Prize. She also studied coal and the tobacco mosaic virus. For 10 points, name this scientist.|Rosalind Franklin|Franklin|n
+m|This prefix indicates a factor of one thousand in the metric system. It is used in the unit of distance often used for road trips outside the United States, and in the unit of mass equal to about 2.2 pounds. For 10 points, name this prefix abbreviated k.|kilo|kilo-|
+e|This quantity, measured in grams or kilograms, describes how much matter is in an object. It stays the same on the Moon, whereas the related quantity weight changes with gravity. It is measured with a balance. For 10 points, name this quantity, symbol m.|mass||
+m|This Austrian monk grew thousands of pea plants in a monastery garden in Brno. He observed that traits like seed shape appear in predictable ratios, such as three to one, in the second generation. He discovered dominant and recessive traits. For 10 points, name this father of genetics.|Gregor Mendel|Mendel|n
+h|This German physicist developed the theories of special and general relativity and the photoelectric effect explanation. He won the 1921 Nobel Prize in Physics. For 10 points, name this scientist famous for E equals m c squared.|Albert Einstein|Einstein|n
+e|This device measures temperature and is found in many medicine cabinets. Common ones use a thin column of mercury or colored alcohol in a glass tube that rises as it gets warmer. A person with a fever has a reading above about 38 degrees Celsius. For 10 points, name this instrument.|thermometer||
+m|This field studies rocks, minerals, fossils, and the structure of the Earth. Charles Lyell wrote the Principles of this science and argued for gradual change over long times, an idea called uniformitarianism. James Hutton is called its father. For 10 points, name this Earth science.|geology|geologist|
+e|This term describes a substance made of only one type of atom, such as gold or oxygen. There are 118 known types listed on the periodic table. For 10 points, name this basic substance, which cannot be broken down chemically.|element|chemical element|
+m|This unit of energy is named for an English brewer and physicist who measured the mechanical equivalent of heat. One of these equals a newton meter, and a watt is one of them per second. For 10 points, name this SI unit of energy.|joule|joules|
+h|This Greek scientist, from Syracuse, is credited with a principle about buoyancy and with the cry "Eureka." He also described the lever. For 10 points, name this ancient scientist.|Archimedes|Archimedes of Syracuse|n
+e|This process takes place in chloroplasts using the green pigment chlorophyll. Plants convert sunlight, carbon dioxide, and water into glucose and release oxygen as a byproduct. The Calvin cycle is part of it. For 10 points, name this process by which plants make their own food.|photosynthesis||
+m|This law states that for a given amount of gas at constant temperature, pressure is inversely proportional to volume. It is named for an Anglo-Irish chemist. For 10 points, name this gas law.|Boyle's law|Boyle's Law|
+e|This scale, from 0 to 14, measures how acidic or basic a solution is. Lemon juice is low on it, pure water is at seven, and bleach is high. Litmus paper and universal indicator give a rough reading. For 10 points, name this scale, whose abbreviation has a lowercase p.|pH scale|pH|
+m|This Italian scientist used a telescope to discover four moons of Jupiter, the phases of Venus, and mountains on the Moon. He supported the Copernican model and wrote the Dialogue Concerning the Two Chief World Systems. He was tried by the Inquisition. For 10 points, name this scientist.|Galileo Galilei|Galileo|n=Galilei
+h|This Russian chemist created a periodic table in 1869 that arranged elements by atomic weight and left gaps for undiscovered elements. He predicted the properties of eka-aluminium, later found as gallium. Element 101 is named for him. For 10 points, name this scientist.|Dmitri Mendeleev|Mendeleev|n
+e|This is the layer of gases surrounding Earth, held in place by gravity. It is composed of about 78 percent nitrogen and 21 percent oxygen. Its lowest layer, the troposphere, is where weather occurs, and above it lies the stratosphere. For 10 points, name this layer.|atmosphere||
+m|This scientist, the first woman to win a Nobel Prize, shared the 1903 physics prize with her husband and Henri Becquerel. For 10 points, give the term for the emission of particles by unstable nuclei that they studied.|radioactivity|radioactive decay|
+e|This type of energy is stored in an object because of its position, such as a book on a high shelf. It converts to kinetic energy when the object falls. For 10 points, name this energy.|potential energy|gravitational potential energy;potential|
+m|This unit, equal to about 3.26 light-years, is used by astronomers for distances to stars. It is the distance at which a star shows a parallax angle of one arcsecond. Its name combines two words, parallax and second. For 10 points, name this unit.|parsec|parsecs|
+h|This scientist's namesake principle states that it is impossible to know both the position and momentum of a particle exactly. He was a German physicist who helped develop quantum mechanics. For 10 points, name him.|Werner Heisenberg|Heisenberg|n
+m|This is the study of weather, which includes forecasting by tracking pressure systems and fronts. Practitioners use satellites, radar, and balloons to measure the atmosphere. Despite the name, it has nothing to do with meteors. For 10 points, name this atmospheric science.|meteorology|meteorologist|
+B|m|Answer these questions about the scientific method.
+-|e|What is the name for a repeatable test to check a hypothesis?|experiment||
+-|m|What group in a study does not receive the treatment and is used for comparison?|control group|control|
+-|h|What term describes a study in which neither participants nor researchers know who gets the treatment?|double-blind|double-blind study;double blind|
+B|m|Answer these questions about famous scientists.
+-|e|Who developed the theory of relativity?|Albert Einstein|Einstein|n
+-|m|Which scientist discovered penicillin in 1928?|Alexander Fleming|Fleming|n
+-|h|Which British scientist discovered the electron in 1897?|J. J. Thomson|Thomson;Joseph John Thomson|n
+B|m|Answer these questions about metric units.
+-|e|What unit of length is the base SI unit?|meter|metre|
+-|m|What unit of electric current is named for a French physicist?|ampere|amp;amperes|
+-|h|What unit of radioactivity is named for the French discoverer of it?|becquerel|becquerels|
+B|m|Answer these questions about the history of medicine.
+-|e|Who developed the first smallpox vaccine?|Edward Jenner|Jenner|n
+-|m|Which Greek physician is called the father of medicine?|Hippocrates|Hippocrates of Kos|n
+-|h|Who discovered a vaccine for polio, tested in 1954?|Jonas Salk|Salk|n
+B|m|Answer these questions about scientific instruments.
+-|e|What instrument is used to see very small objects like cells?|microscope||
+-|m|What instrument measures atmospheric pressure?|barometer||
+-|h|What instrument, invented by Hans Geiger, detects ionizing radiation?|Geiger counter|Geiger-Muller counter;Geiger Muller counter|
+B|m|Answer these questions about the periodic table.
+-|e|What element has atomic number 6 and is the basis of organic chemistry?|carbon||
+-|m|What noble gas, symbol He, is used in balloons?|helium||
+-|h|What is the only metal that is liquid at room temperature, symbol Hg?|mercury||
+B|m|Answer these questions about forces and motion.
+-|e|What term describes the rate of change of velocity?|acceleration||
+-|m|What property of an object resists changes in its motion, described by Newton's first law?|inertia||
+-|h|What type of force opposes motion between two surfaces in contact?|friction|frictional force|
+B|m|Answer these questions about Earth and space.
+-|e|What natural satellite orbits the Earth?|Moon|the Moon|
+-|m|What boundary lies between the Earth's crust and mantle, named for a Croatian seismologist?|Mohorovicic discontinuity|Moho;Mohorovičić discontinuity|
+-|h|What scale, named for a German-born American seismologist, measures earthquake magnitude?|Richter scale|Richter|

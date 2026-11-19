@@ -1,0 +1,62 @@
+# quizbowl novice | Science | Astronomy
+e|This object contains about 99.8 percent of the mass of the solar system. Its energy comes from nuclear fusion of hydrogen into helium in its core. Sunspots and solar flares are features of its surface and atmosphere. For 10 points, name this star at the center of the solar system.|The Sun|Sun
+e|This is the largest planet in the solar system. It has a Great Red Spot, a storm larger than Earth, and dozens of moons including Io and Europa. It is a gas giant between Mars and Saturn in distance from the Sun. For 10 points, name this planet.|Jupiter
+e|This planet is known for a spectacular system of rings made mostly of ice particles. It is a gas giant with a large moon named Titan. Galileo first saw the rings through a telescope but could not tell what they were. For 10 points, name this sixth planet from the Sun.|Saturn
+e|This planet is called the "Red Planet" because of iron oxide on its surface. It has two small moons, Phobos and Deimos, and the largest volcano in the solar system. Rovers like Curiosity and Perseverance have explored it. For 10 points, name this fourth planet from the Sun.|Mars
+e|This planet is the hottest in the solar system because a thick carbon dioxide atmosphere traps heat. It rotates backward compared with most planets and is often called Earth's twin due to its similar size. It is the brightest planet in the evening and morning sky. For 10 points, name this second planet from the Sun.|Venus
+e|This is the smallest planet in the solar system and the closest to the Sun. It has almost no atmosphere and extreme temperature swings between day and night. It is named for the Roman messenger god. For 10 points, name this planet.|Mercury
+e|This planet is the farthest from the Sun among the eight planets. It was discovered in 1846 after its position was predicted from irregularities in the orbit of Uranus. It is a blue ice giant with the moon Triton. For 10 points, name this planet.|Neptune
+e|This kind of event occurs when the Moon passes between Earth and the Sun and blocks the Sun's light. During a total one, the corona becomes visible. Viewers must wear special glasses to watch the partial phases. For 10 points, name this event.|Solar eclipse|Eclipse of the Sun
+e|This is the distance that light travels in one year, roughly nine and a half trillion kilometers. Astronomers use it to describe distances between stars. Despite its name, it measures distance rather than time. For 10 points, name this unit.|Light-year|Light year;Lightyear
+e|This is a small icy body that develops a glowing tail when it nears the Sun. Its nucleus is often described as a dirty snowball. Halley's is the most famous periodic example. For 10 points, name this object, whose tail always points away from the Sun.|Comet|Comets
+e|This is the galaxy that contains the Sun and the solar system. It is a barred spiral galaxy with a dense center and several arms. From Earth, it appears as a hazy band of light across the night sky. For 10 points, name this galaxy.|Milky Way|The Milky Way
+e|Humans use this instrument to magnify distant objects in the sky. Galileo used an early version in 1609 and 1610, and the Hubble is a famous orbiting one. Refracting and reflecting types use lenses and mirrors, respectively. For 10 points, name this instrument.|Telescope|Telescopes
+m|This region of the solar system lies mostly between the orbits of Mars and Jupiter. It contains millions of rocky bodies, including the dwarf planet Ceres, which is its largest member. The gravity of Jupiter kept them from forming a planet. For 10 points, name this region.|Asteroid belt|Main asteroid belt;Asteroid field
+m|This star is almost directly above Earth's north pole, so it appears to stay still while others circle it. It is the end of the handle of the Little Dipper. Navigators have used it to find north. For 10 points, name this star, also called the North Star.|Polaris|North Star
+m|This kind of event occurs when Earth passes between the Sun and the Moon and the Moon moves into Earth's shadow. The Moon may look reddish during totality. It can only happen at full moon. For 10 points, name this event.|Lunar eclipse|Eclipse of the Moon
+m|This is a pattern of stars as seen from Earth that cultures have named after figures like hunters and animals. Orion and Ursa Major are examples. The International Astronomical Union recognizes 88 of them. For 10 points, name this term for such a star grouping.|Constellation|Constellations
+m|This event is the explosion that ends the life of a massive star, briefly outshining its entire galaxy. Tycho Brahe observed one in 1572. The Crab Nebula is the remnant of one seen in 1054. For 10 points, name this kind of stellar explosion.|Supernova|Supernovae
+m|This is a region of space where gravity is so strong that nothing, not even light, can escape beyond its event horizon. Many form when massive stars collapse. A supermassive one lies at the center of the Milky Way. For 10 points, name this object.|Black hole|Black holes
+m|This is an object that was reclassified as a dwarf planet by the International Astronomical Union in 2006. Clyde Tombaugh discovered it in 1930. The New Horizons spacecraft flew past it in 2015. For 10 points, name this world, once the ninth planet.|Pluto
+m|This is the name of the streak of light seen when a small piece of space debris burns up in Earth's atmosphere. People often call it a shooting star. If the object reaches the ground, it is called a meteorite. For 10 points, name this phenomenon.|Meteor|Meteors;Shooting star
+m|This American astronaut commanded Apollo 11 and was the first person to walk on the Moon in 1969. He said the words "one small step for man." He was a Navy pilot before joining NASA. For 10 points, name this astronaut.|Neil Armstrong|Armstrong|n
+m|This Polish astronomer proposed in De revolutionibus orbium coelestium that the Earth and other planets revolve around the Sun. His heliocentric model challenged the older Ptolemaic system. For 10 points, name this scientist, who published his book in 1543.|Nicolaus Copernicus|Copernicus|n
+m|These are periodic rises and falls of sea level on Earth caused mainly by the gravitational pull of the Moon. Most coasts have two high ones per day. They are strongest during spring ones at new and full moon. For 10 points, name this phenomenon.|Tides|Tide;Ocean tides
+h|This large orbiting laboratory is operated by several space agencies, including those of the United States, Russia, Europe, Japan, and Canada. It has been continuously occupied by crews since 2000. It orbits Earth about every 90 minutes. For 10 points, name this station.|International Space Station|ISS
+h|This 1957 satellite launched by the Soviet Union was the first artificial object to orbit Earth. Its beeping radio signals could be heard by amateur radio operators. Its launch began the space race. For 10 points, name this satellite, whose name means "traveling companion."|Sputnik 1|Sputnik
+h|This orbiting observatory, launched from the space shuttle Discovery in 1990, was named for the astronomer who showed that other galaxies exist. A flaw in its mirror was fixed in 1993. For 10 points, name this space telescope.|Hubble Space Telescope|Hubble
+h|This storm on Jupiter has been observed for centuries and is a giant anticyclone. It is larger than Earth in diameter. It is located in the planet's southern hemisphere. For 10 points, name this feature, whose color gives it its name.|Great Red Spot|Red Spot
+h|These are colorful lights that appear in the sky near the polar regions when charged particles from the Sun hit gases in the atmosphere. In the north they are called the northern lights. For 10 points, name this phenomenon, named for the Roman goddess of dawn.|Aurora|Aurorae;Northern lights;Aurora borealis
+h|This planet was discovered by William Herschel in 1781. It has an axis of rotation tilted about 98 degrees, so it rotates nearly on its side. Its moons are named for characters in works by Shakespeare and Pope. For 10 points, name this seventh planet from the Sun.|Uranus
+B|e|Answer these questions about the layers of the Sun.
+-|e|What is the visible surface of the Sun called?|Photosphere
+-|m|What is the Sun's hot outer atmosphere, visible during a total solar eclipse, called?|Corona
+-|h|What is the most abundant element in the Sun, making up about three quarters of its mass?|Hydrogen
+B|m|Answer these questions about moons in the solar system.
+-|e|What is the largest moon of Saturn, which has a thick atmosphere?|Titan
+-|m|Which moon of Jupiter is thought to have a liquid water ocean beneath an icy crust?|Europa
+-|h|What is the larger of the two moons of Mars, whose name means fear?|Phobos
+B|m|Answer these questions about space exploration.
+-|e|Which Soviet cosmonaut was the first human in space, in 1961?|Yuri Gagarin|Gagarin|n
+-|m|Which astronaut was the second person to walk on the Moon?|Buzz Aldrin|Aldrin|n
+-|h|Which NASA spacecraft, launched in 1977, is the only one to have visited both Uranus and Neptune?|Voyager 2|Voyager
+B|m|Answer these questions about the life cycle of stars.
+-|e|What kind of cloud of gas and dust is the birthplace of stars?|Nebula
+-|m|What is the swollen, cool stage that a star like the Sun enters after exhausting its core hydrogen?|Red giant
+-|h|What small, dense stellar remnant is left after a Sun-like star sheds its outer layers?|White dwarf
+B|m|Answer these questions about astronomers.
+-|e|Which Italian scientist discovered the four largest moons of Jupiter?|Galileo Galilei|Galileo|n
+-|m|Which German astronomer discovered that planets move in elliptical orbits?|Johannes Kepler|Kepler|n
+-|h|Which American astronomer wrote the book Cosmos and hosted a television series of the same name?|Carl Sagan|Sagan|n
+B|e|Answer these questions about the Earth and its motions.
+-|e|What term describes Earth's spinning on its axis once a day?|Rotation
+-|m|What is the name for the days when day and night have nearly equal length, in March and September?|Equinox|Equinoxes
+-|h|What is the name for the longest or shortest day of the year, in June and December?|Solstice|Solstices
+B|m|Answer these questions about small bodies of the solar system.
+-|e|What general term describes a rocky body, smaller than a planet, that orbits the Sun?|Asteroid
+-|m|What disk-shaped region of icy bodies lies beyond the orbit of Neptune?|Kuiper Belt
+-|h|What hypothetical spherical cloud of comets is thought to surround the solar system far far beyond the orbit of Neptune?|Oort Cloud
+B|e|Answer these questions about galaxies.
+-|e|What is the nearest large galaxy to the Milky Way, which is expected to merge with it in billions of years?|Andromeda|Andromeda Galaxy
+-|m|What term describes the shape of the Milky Way, which has curving arms around a central bulge?|Spiral
+-|h|What event about 13.8 billion years ago is thought to have started the expansion of the universe?|Big Bang|The Big Bang

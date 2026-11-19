@@ -1,0 +1,60 @@
+# quizbowl novice | Geography | World Geography
+m|This river flows north through Uganda, Sudan, and Egypt and empties into the Mediterranean Sea through a large delta. The Blue Nile and White Nile join at Khartoum. The Aswan High Dam is on it. For 10 points, name this river of ancient Egypt.|Nile River|Nile
+e|This river in South America carries more water than any other river and flows through Brazil and Peru. Manaus lies on it. Its basin holds the largest tropical rainforest. For 10 points, name this river.|Amazon River|Amazon
+e|This is the largest hot desert in the world, covering much of northern Africa. Camels carry travelers across its dunes. It stretches from the Atlantic Ocean to the Red Sea. For 10 points, name this desert.|Sahara Desert|Sahara
+e|Edmund Hillary and Tenzing Norgay first climbed this mountain in 1953. It lies on the border of Nepal and China. It is the highest mountain above sea level. For 10 points, name this peak in the Himalayas.|Mount Everest|Everest
+e|This country is both a continent and a nation. Its capital is Canberra, and its largest city is Sydney. Kangaroos and koalas live there. For 10 points, name this country in the Southern Hemisphere.|Australia
+e|This island country in East Asia is made up of four main islands, including Honshu and Hokkaido. Its capital is Tokyo. Mount Fuji is its highest peak. For 10 points, name this country.|Japan
+e|This country is the largest in South America and the only one where Portuguese is the main language. Its capital is Brasilia. Rio de Janeiro is its famous coastal city. For 10 points, name this country.|Brazil
+e|This country in northeastern Africa is home to the pyramids at Giza and the city of Cairo. The Suez Canal crosses it. Its ancient pharaohs ruled along the Nile. For 10 points, name this country.|Egypt
+e|This South Asian country has New Delhi as its capital and the Ganges as a sacred river. Its cities include Mumbai and Kolkata. The Taj Mahal is in Agra. For 10 points, name this country.|India
+m|This mountain range separates the Indian subcontinent from the Tibetan Plateau. It includes Kangchenjunga. Nepal and Bhutan lie within it. For 10 points, name this range, home to the world's highest peaks.|Himalayas|Himalaya;Himalayan Mountains
+e|This is the largest and deepest ocean, covering about a third of the Earth's surface. It contains the Mariana Trench and the Ring of Fire. It borders Asia and the Americas. For 10 points, name this ocean.|Pacific Ocean|Pacific
+e|This continent around the South Pole is covered by a thick ice sheet and has no permanent residents. Penguins live on its coasts. Scientists staff research stations there. For 10 points, name this southernmost continent.|Antarctica
+e|This country is the second largest in the world by area and has Ottawa as its capital. It has ten provinces and three territories. Toronto and Vancouver are its large cities. For 10 points, name this country north of the United States.|Canada
+e|This country to the south of the United States has a capital built on the ruins of Tenochtitlan. Its language is Spanish. The Yucatan Peninsula is in it. For 10 points, name this country.|Mexico
+e|This country spans eleven time zones and is the largest in the world by area. Its cities include Saint Petersburg and Vladivostok. Moscow is its capital. The Trans-Siberian Railway crosses it. For 10 points, name this country.|Russia
+e|This country's shape resembles a boot, and its capital is Rome. It contains the cities of Venice and Florence. Mount Vesuvius is near Naples. For 10 points, name this country in southern Europe.|Italy
+m|This mountain range runs along the western edge of South America and is the longest continental mountain range. Machu Picchu was built in it. Aconcagua is its highest peak. For 10 points, name this range.|Andes|Andes Mountains
+h|This coral system lies off the northeast coast of Queensland, Australia. It is made up of thousands of individual reefs. It can be seen from space. For 10 points, name this largest coral reef system.|Great Barrier Reef
+m|This imaginary line circles the Earth at zero degrees latitude, dividing the Northern and Southern Hemispheres. Ecuador is named for it. It passes through Kenya and Indonesia. For 10 points, name this line.|Equator|The Equator
+h|This is the largest island in the world that is not a continent. It is an autonomous territory of Denmark, and most of it is covered by ice. Nuuk is its capital. For 10 points, name this island northeast of Canada.|Greenland
+h|This island nation off the southeast coast of Africa is home to lemurs. Its capital is Antananarivo. It is the fourth largest island in the world. For 10 points, name this country in the Indian Ocean.|Madagascar
+m|This waterway cuts across a narrow isthmus and links the Atlantic and Pacific Oceans. It uses locks and opened in 1914. Ships pass through Gatun Lake. For 10 points, name this canal in Central America.|Panama Canal|Panama
+m|This sea is bordered by Spain, Italy, Greece, Turkey, Egypt, and Morocco. It connects to the Atlantic through the Strait of Gibraltar. Crete and Sicily are islands in it. For 10 points, name this sea.|Mediterranean Sea|Mediterranean
+m|This European mountain range includes Mont Blanc and the Matterhorn. It stretches across Switzerland, France, Italy, and Austria. Hannibal crossed it with elephants. For 10 points, name this range.|Alps|The Alps;Alpine mountains
+e|This capital of Egypt sits on the Nile near its delta. The Giza Pyramids are just outside it. Its Tahrir Square is famous, and its old district has the Khan el-Khalili bazaar. For 10 points, name this city.|Cairo
+e|This capital of Japan was once called Edo. The Imperial Palace is in it. The Shibuya crossing and the Sumida River are located there, and the Olympics were held there in 1964. For 10 points, name this city.|Tokyo
+h|This city straddles Europe and Asia across the Bosphorus. It was once called Constantinople. The Hagia Sophia and the Blue Mosque stand there. A bridge across the strait connects its European and Asian sides. For 10 points, name this largest city in Turkey.|Istanbul
+m|This landlocked country in the Alps is known for its neutrality and chocolate. Its cities include Zurich, Geneva, and Bern. Its flag is a white cross on red. For 10 points, name this country.|Switzerland
+m|This mountain in Tanzania is the highest in Africa. It is a dormant volcano with snow near its top, and it has three volcanic cones named Kibo, Mawenzi, and Shira. Hikers climb it from towns like Moshi. For 10 points, name this peak.|Mount Kilimanjaro|Kilimanjaro
+h|This river is the longest in Asia and flows from the Tibetan Plateau through Chongqing and Wuhan to Shanghai. The Three Gorges Dam is on it. For 10 points, name this Chinese river.|Yangtze River|Yangtze;Chang Jiang
+h|This desert in Mongolia and northern China is cold and rocky. Genghis Khan's empire arose nearby, and dinosaur fossils have been found there. For 10 points, name this Asian desert.|Gobi Desert|Gobi
+B|m|Answer these questions about Africa.
+-|e|Which African country has Nairobi as its capital?|Kenya
+-|m|Which West African country has Lagos as a major city and Abuja as its capital?|Nigeria
+-|h|Which strait separates Spain from Morocco at the entrance to the Mediterranean?|Strait of Gibraltar|Gibraltar
+B|m|Answer these questions about Asia.
+-|e|Which country has Beijing as its capital?|China
+-|m|Which country has Seoul as its capital?|South Korea|Korea
+-|h|Which Southeast Asian river flows through Laos, Cambodia, and Vietnam to the sea at its delta in southern Vietnam?|Mekong River|Mekong
+B|m|Answer these questions about Europe.
+-|e|What city is the capital of France?|Paris
+-|m|Which river flows through Rome?|Tiber River|Tiber;River Tiber
+-|h|Which sea lies between Sweden and the countries of Estonia, Latvia, and Lithuania?|Baltic Sea|Baltic
+B|e|Answer these questions about the Americas.
+-|e|Which country has Buenos Aires as its capital?|Argentina
+-|m|Which South American country has Quito as its capital?|Ecuador
+-|h|Which Caribbean island country has Havana as its capital?|Cuba
+B|m|Answer these questions about oceans and seas.
+-|e|Which ocean lies between Africa and Australia?|Indian Ocean
+-|m|Which ocean lies between Europe and North America?|Atlantic Ocean|Atlantic
+-|h|Which ocean borders Russia, Greenland, and Alaska and is mostly covered by sea ice in winter?|Arctic Ocean|Arctic
+B|m|Answer these questions about island countries.
+-|e|Which island nation lies off the southeast coast of Australia and has Wellington as its capital?|New Zealand
+-|m|Which island nation, including Java and Sumatra, has Jakarta as its capital?|Indonesia
+-|h|Which island country south of India has Colombo as its largest city?|Sri Lanka
+B|h|Answer these questions about physical geography.
+-|e|What term describes a body of land smaller than a continent and surrounded by water?|island|an island
+-|m|What name is given to the line of zero degrees longitude that runs through Greenwich, England?|prime meridian|Prime Meridian;the prime meridian
+-|h|What name is given to the large area of Siberian forest that covers northern Russia?|taiga|boreal forest

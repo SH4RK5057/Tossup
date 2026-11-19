@@ -1,0 +1,130 @@
+# ncal jv | Social Science | U.S. History
+e|Which U.S. president was the only one to serve more than two terms, winning four elections?|Franklin Roosevelt|Franklin D. Roosevelt;FDR|n dup
+e|Which president served as the nation's first Vice President and then its second President?|John Adams|Adams|n dup
+e|Which Native American confederacy in New York was made up of the Mohawk, Oneida, Onondaga, Cayuga, and Seneca?|Iroquois Confederacy|Iroquois;Haudenosaunee
+e|Which city was the first capital under the Constitution in 1789?|New York City|New York
+e|Which holiday honors those who died serving in the military and falls on the last Monday of May?|Memorial Day
+e|Which 1960s leader of the civil rights movement was assassinated in Memphis in 1968?|Martin Luther King Jr.|Martin Luther King;King|n
+m|Which Plains tribe's leader Sitting Bull helped defeat Custer at the Battle of the Little Bighorn?|Lakota Sioux|Sioux;Lakota
+m|Which Apache leader surrendered in 1886?|Geronimo
+m|Which 1862 Union naval battle featured the ironclad ships Monitor and Virginia?|Battle of Hampton Roads|Monitor and Merrimack
+m|Which woman became a leader of the women's suffrage movement and was arrested for voting in 1872?|Susan B. Anthony|Anthony|n
+m|Which 1963 march drew more than 200,000 people to the Lincoln Memorial?|March on Washington
+m|Which Black leader in the 1960s, a minister in the Nation of Islam, was known for the phrase by any means necessary?|Malcolm X|Malcolm
+m|Which president announced the Great Society programs?|Lyndon Johnson|Lyndon B. Johnson;LBJ|n
+m|Which trial in 1692 in Massachusetts led to the execution of accused witches?|Salem witch trials|Salem
+m|Which 1867 purchase from Russia, arranged by Secretary of State William Seward, added a huge northwestern territory to the United States?|Alaska Purchase|Alaska
+m|Which 1890s unrest saw a strike by railroad workers led by Eugene Debs?|Pullman Strike
+m|Which steel magnate gave away much of his fortune to build libraries?|Andrew Carnegie|Carnegie|n
+m|Which oil magnate founded Standard Oil?|John D. Rockefeller|Rockefeller|n
+m|Which immigration station in New York Harbor processed millions of immigrants from 1892 to 1954?|Ellis Island
+m|Which 1913 amendment created the federal income tax?|Sixteenth Amendment|16th Amendment
+h|Which British general surrendered at Yorktown to Washington and Rochambeau?|Charles Cornwallis|Cornwallis|n
+h|Which 1786 to 1787 uprising of Massachusetts farmers led by Daniel Shays prompted calls for a stronger government?|Shays' Rebellion
+h|Which 1798 laws made it a crime to criticize the government and targeted immigrants?|Alien and Sedition Acts
+h|Which 1832 crisis involved South Carolina's refusal to enforce a federal tariff?|Nullification Crisis
+h|Which 1836 battle ended with the deaths of Davy Crockett and others at a mission in San Antonio?|Battle of the Alamo|Alamo
+h|Which president's 1901 assassination at Buffalo made Theodore Roosevelt president?|William McKinley|McKinley|n
+h|Which 1963 book by Betty Friedan helped start second-wave feminism?|The Feminine Mystique
+h|Which Supreme Court chief justice led the Court that decided Brown versus Board of Education?|Earl Warren|Warren|n
+e|Who wrote most of the Declaration of Independence?|Thomas Jefferson|Jefferson|n
+e|In what year did Columbus first reach the Americas?|1492
+e|Which Virginia colony, founded in 1607, was the first permanent English settlement in North America?|Jamestown
+e|Which war was fought between the Northern states and the Southern states from 1861 to 1865?|Civil War|American Civil War
+e|Which president is shown on the five-dollar bill?|Abraham Lincoln|Lincoln|n
+e|Which Founding Father is shown on the hundred-dollar bill and flew a kite in a storm?|Benjamin Franklin|Franklin|n
+e|On what date is Independence Day celebrated in the United States?|July 4|July Fourth;the Fourth of July;July 4th
+e|Which 1773 protest saw colonists dump chests of British cargo into a harbor in Massachusetts?|Boston Tea Party
+e|Which country did the American colonies fight to win independence?|Great Britain|Britain;England
+e|Which attack on December 7, 1941, brought the United States into World War II?|attack on Pearl Harbor|Pearl Harbor
+e|Which president led the United States through the Great Depression and most of World War II?|Franklin Roosevelt|Franklin D. Roosevelt;FDR|n dup
+e|Which 1929 event began the Great Depression?|stock market crash|Stock Market Crash of 1929;Wall Street Crash
+e|Which explorers led the Corps of Discovery to the Pacific Ocean from 1804 to 1806?|Lewis and Clark|Meriwether Lewis and William Clark
+e|Which Shoshone woman helped guide Lewis and Clark?|Sacagawea
+e|Which document begins with the words "We the People"?|Constitution|U.S. Constitution;Constitution of the United States
+e|Which woman is known as the founder of the American Red Cross?|Clara Barton|Barton|n
+e|Which president is shown on Mount Rushmore alongside Washington, Jefferson, and Lincoln?|Theodore Roosevelt|Teddy Roosevelt|n dup
+e|Which U.S. president resigned in 1974 after the Watergate scandal?|Richard Nixon|Nixon|n
+e|Which U.S. president was assassinated in Dallas, Texas, in 1963?|John F. Kennedy|Kennedy;John Kennedy;JFK|n
+e|Which event of September 11, 2001, led the United States to launch a war in Afghanistan?|September 11 attacks|terrorist attacks;9/11
+e|Which transcontinental railroad was completed in 1869 at Promontory Summit, Utah?|First Transcontinental Railroad|transcontinental railroad
+e|Which inventor is credited with the lightbulb and phonograph?|Thomas Edison|Edison|n
+e|Which brothers made the first powered airplane flight at Kitty Hawk in 1903?|Wright brothers|the Wright Brothers;Orville and Wilbur Wright
+m|Which 1787 gathering in Philadelphia wrote the Constitution?|Constitutional Convention
+m|Which Founding Father wrote the Federalist Papers along with John Jay and James Madison?|Alexander Hamilton|Hamilton|n
+m|Which president signed the Indian Removal Act of 1830?|Andrew Jackson|Jackson|n
+m|Which forced march of Cherokee people in 1838 and 1839 led to thousands of deaths?|Trail of Tears
+m|Which war between 1846 and 1848 added California and much of the Southwest to the United States?|Mexican-American War|Mexican War
+m|Which 1849 event brought hundreds of thousands of people to California after gold was found?|California Gold Rush|Gold Rush
+m|Which 1857 Supreme Court decision ruled that Black people could not be citizens?|Dred Scott decision|Dred Scott versus Sandford;Dred Scott
+m|Which book by Harriet Beecher Stowe, published in 1852, increased Northern opposition to slavery?|Uncle Tom's Cabin
+m|Which network of people and safe houses helped enslaved people escape to freedom?|Underground Railroad
+m|Which woman, a former slave, led many enslaved people to freedom on the Underground Railroad?|Harriet Tubman|Tubman|n
+m|Which 1820 agreement admitted Missouri as a slave state and Maine as a free state?|Missouri Compromise
+m|Which battle in July 1863 in Pennsylvania was the turning point of the Civil War?|Battle of Gettysburg
+m|Which Union general commanded the Union armies and later became president?|Ulysses Grant|Ulysses S. Grant;Grant|n
+m|Which Confederate general led the Army of Northern Virginia?|Robert E. Lee|Lee|n
+m|Which man assassinated Abraham Lincoln at Ford's Theatre?|John Wilkes Booth|Booth|n
+m|Which period after the Civil War focused on rebuilding the South and extending rights to freed people?|Reconstruction
+m|Which amendment to the Constitution gave women the right to vote?|Nineteenth Amendment|19th Amendment
+m|Which amendment to the Constitution granted citizenship to all people born in the United States?|Fourteenth Amendment|14th Amendment
+m|Which 1898 war ended with the United States gaining Puerto Rico, Guam, and the Philippines?|Spanish-American War
+m|Which 1920s era saw a flowering of Black art and culture in New York City?|Harlem Renaissance
+m|Which 1920s law banned the production and sale of alcohol?|Prohibition|Eighteenth Amendment
+m|Which project during World War II developed the first atomic bombs?|Manhattan Project
+m|Which president ordered the use of atomic bombs on Japan in 1945?|Harry Truman|Truman|n
+m|Which plan, announced in 1947, provided aid to rebuild Western Europe after World War II?|Marshall Plan
+m|Which 1962 confrontation between the United States and Soviet Union involved missiles in Cuba?|Cuban Missile Crisis
+m|Which 1964 law banned discrimination based on race, color, religion, sex, or national origin?|Civil Rights Act of 1964|Civil Rights Act
+m|Which war in Southeast Asia divided Americans in the 1960s and early 1970s?|Vietnam War
+m|Which president signed the Voting Rights Act of 1965?|Lyndon Johnson|Lyndon B. Johnson;LBJ;Johnson|n
+m|Which former slave and abolitionist edited the newspaper The North Star?|Frederick Douglass|Douglass|n
+m|Which president took the nation through World War I and proposed the Fourteen Points?|Woodrow Wilson|Wilson|n
+m|Which astronaut was the first person to walk on the Moon in 1969?|Neil Armstrong|Armstrong|n
+e|Which Wampanoag man taught the Pilgrims to plant corn?|Squanto|Tisquantum
+m|Which Spanish explorer landed in Florida in 1513 and gave it its name?|Juan Ponce de Leon|Ponce de Leon;Ponce de León|n=Leon
+m|Which colony was founded by William Penn as a haven for Quakers?|Pennsylvania
+m|Which colony was founded by Roger Williams after he was banished from Massachusetts?|Rhode Island
+m|Which religious group led by William Bradford settled Plymouth Colony?|Pilgrims|the Pilgrims
+m|Which 1754 to 1763 conflict between Britain and France in North America led to British debts and new taxes?|French and Indian War|Seven Years' War
+m|Which 1765 British law taxed printed materials in the colonies?|Stamp Act
+m|Which 1770 event saw British soldiers kill five colonists in Boston?|Boston Massacre
+m|Which battles in 1775 began the American Revolutionary War?|Lexington and Concord|Battles of Lexington and Concord
+m|Which pamphlet by Thomas Paine urged American independence in 1776?|Common Sense
+m|Which Revolutionary War battle in 1777 in New York was a turning point that brought French support?|Battle of Saratoga|Saratoga
+m|Which 1783 treaty officially ended the Revolutionary War?|Treaty of Paris|Treaty of Paris of 1783
+m|Which first constitution of the United States was too weak and was replaced in 1787?|Articles of Confederation
+m|Which war from 1812 to 1815 saw the White House burned by British forces?|War of 1812
+m|Which 1823 policy warned European nations not to colonize the Americas?|Monroe Doctrine
+m|Which canal opened in 1825 and connected the Hudson River to Lake Erie?|Erie Canal
+h|Which 1848 convention in New York began the organized women's rights movement in the United States?|Seneca Falls Convention|Seneca Falls
+h|Which document written at Seneca Falls was modeled on the Declaration of Independence?|Declaration of Sentiments
+h|Which 1850 law required citizens to help capture escaped enslaved people?|Fugitive Slave Act|Fugitive Slave Act of 1850
+h|Which 1854 law allowed settlers in Kansas and Nebraska to decide on slavery for themselves?|Kansas-Nebraska Act
+h|Which 1859 raid at Harpers Ferry was led by the abolitionist John Brown?|raid on Harpers Ferry|Harpers Ferry
+h|Which 1862 act granted 160 acres of western land to settlers who farmed it for five years?|Homestead Act|Homestead Act of 1862
+h|Which battle in 1862 was the bloodiest single day of the Civil War?|Battle of Antietam|Antietam;Sharpsburg
+h|Which Union general led the March to the Sea through Georgia in 1864?|William Tecumseh Sherman|Sherman|n
+h|Which 1877 compromise ended Reconstruction by withdrawing federal troops from the South?|Compromise of 1877
+h|Which 1896 Supreme Court case upheld segregation under the idea of separate but equal?|Plessy versus Ferguson|Plessy v. Ferguson;Plessy
+h|Which journalist wrote The Jungle, exposing conditions in the meatpacking industry?|Upton Sinclair|Sinclair|n
+h|Which muckraking era movement from about 1890 to 1920 sought to reform politics and business?|Progressive Era|Progressivism;Progressive Movement
+h|Which 1911 fire in New York City killed 146 garment workers and led to safety reforms?|Triangle Shirtwaist Factory fire|Triangle Shirtwaist fire
+h|Which 1919 treaty ending World War I was not ratified by the U.S. Senate?|Treaty of Versailles|Versailles
+h|Which 1925 trial in Tennessee challenged a law banning the teaching of evolution?|Scopes Trial|Scopes Monkey Trial
+h|Which environmental disaster in the 1930s turned parts of the Great Plains into barren land?|Dust Bowl
+h|Which Supreme Court case in 1944 upheld the internment of Japanese Americans?|Korematsu versus United States|Korematsu v. United States;Korematsu
+h|Which 1947 policy promised to support countries resisting communism?|Truman Doctrine
+h|Which 1948 operation delivered supplies to West Berlin by air?|Berlin Airlift
+h|Which 1955 event began when Rosa Parks was arrested and lasted over a year?|Montgomery Bus Boycott
+h|Which 1957 crisis involved nine Black students entering a Little Rock, Arkansas, high school?|Little Rock Nine|Little Rock Crisis
+h|Which activist wrote Silent Spring, a book about pesticides?|Rachel Carson|Carson|n
+h|Which 1973 Supreme Court case legalized abortion nationwide?|Roe versus Wade|Roe v. Wade
+h|Which 1979 to 1981 crisis saw Americans held hostage in Tehran?|Iran hostage crisis
+h|Which president called on Soviet leader Mikhail Gorbachev to tear down the Berlin Wall in 1987?|Ronald Reagan|Reagan|n
+h|Which barrier dividing a German city fell in 1989?|Berlin Wall
+h|Which treaty in 1848 ended the Mexican-American War?|Treaty of Guadalupe Hidalgo
+B|e|Answer these questions about the American Revolution.
+-|e|Which 1776 document announced that the colonies were free from Great Britain?|Declaration of Independence
+-|m|Which Patriot group, led by Samuel Adams, organized colonial protests against British taxes?|Sons of Liberty
+-|h|Which general betrayed the American cause by plotting to surrender West Point?|Benedict Arnold|Arnold|n

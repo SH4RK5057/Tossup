@@ -1,0 +1,152 @@
+# ncal novice | Fine Arts | Spanish 1
+e|What is the Spanish word for "cat," including its article?|el gato|gato|f
+e|How do you say "house" in Spanish, including the article?|la casa|casa|f
+e|What is the Spanish word for "yellow"?|amarillo|amarilla|f
+e|What is the Spanish word for "thank you"?|gracias|f
+e|What is the Spanish word for "please"?|por favor|f
+e|What does the Spanish greeting "buenos días" mean in English?|good morning|good day|
+e|What is the Spanish word for "water," including its article?|el agua|agua|f
+e|What is the Spanish number for 5?|cinco|f
+e|What is the Spanish number for 10?|diez|f
+e|What is the Spanish word for the number 8?|ocho|f
+e|What is the Spanish word for "mother"?|la madre|madre;mamá|f
+e|What is the Spanish word for "brother"?|el hermano|hermano|f
+e|What is the Spanish word for "friend" when the friend is a girl?|la amiga|amiga|f
+e|What is the Spanish word for "school," including the article?|la escuela|escuela|f
+e|What day of the week is "lunes" in English?|Monday|
+e|What day of the week is "sábado" in English?|Saturday|
+e|What does the Spanish word "grande" mean in English?|big|large;great|
+m|What does the Spanish word "pequeño" mean in English?|small|little;tiny|
+m|What is the Spanish word for "to be" used for permanent traits such as nationality?|ser|f
+m|What is the Spanish verb "to have"?|tener|f
+m|What is the yo form of the verb "hablar" in the present tense?|hablo|f
+m|What is the yo form of the verb "vivir" in the present tense?|vivo|f
+m|What is the Spanish word for the number 15?|quince|f
+m|What is the Spanish word for the number 20?|veinte|f
+m|What is the Spanish word for the number 30?|treinta|f
+m|What is the Spanish word for the number 100?|cien|ciento|f
+m|What is the Spanish word for "Wednesday"?|miércoles|miercoles|f
+m|What is the Spanish word for "Thursday"?|jueves|f
+m|What is the Spanish word for the month of January?|enero|f
+m|What is the Spanish word for the season of summer, including the article?|el verano|verano|f
+m|What is the Spanish word for "winter," including the article?|el invierno|invierno|f
+m|What is the Spanish word for "yesterday"?|ayer|f
+m|What Spanish question word means "where"?|dónde|donde|f
+m|What Spanish question word means "why"?|por qué|porque|f
+m|What Spanish question word means "who"?|quién|quien|f
+m|What is the Spanish word for "breakfast," including the article?|el desayuno|desayuno|f
+m|What is the Spanish word for "chicken" as a food, including the article?|el pollo|pollo|f
+m|What is the Spanish word for "milk," including the article?|la leche|leche|f
+m|What is the Spanish word for "apple," including the article?|la manzana|manzana|f
+m|What Spanish verb means "to go"?|ir|f
+m|What is the Spanish word for the plural of "el libro"?|los libros|libros|f
+m|What is the plural definite article used with feminine nouns in Spanish?|las|f
+m|What Spanish word means "with"?|con|f
+m|What is the Spanish word for "classroom"?|la clase|clase;el salón de clase;salón de clase|f
+m|What is the Spanish word for "backpack"?|la mochila|mochila|f
+h|What is the Spanish word for "I am hungry," using the verb tener?|tengo hambre|f
+h|What is the Spanish phrase meaning "I am thirsty," using the verb tener?|tengo sed|f
+h|What is the nosotros form of the verb "hablar" in the present tense?|hablamos|f
+h|What is the ellos form of the verb "escribir" in the present tense?|escriben|f
+h|What is the yo form of the verb "ir" in the present tense?|voy|f
+h|What is the yo form of the verb "tener" in the present tense?|tengo|f
+h|What is the Spanish word for "eyes"?|los ojos|ojos|f
+h|What is the Spanish word for "knee," including the article?|la rodilla|rodilla|f
+h|What does the Spanish word "pared" mean in English?|wall|
+h|What does the Spanish word "tarea" mean in English?|homework|task;assignment|
+h|What does the Spanish word "cumpleaños" mean in English?|birthday|
+h|What is the Spanish word for "left," as in a direction?|izquierda|f
+h|What does the Spanish expression "hace calor" mean in English?|it is hot|it's hot|
+
+B|e|Answer these questions about Spanish colors.
+-|e|What is the Spanish word for "black"?|negro|negra|f
+-|e|What is the Spanish word for "white"?|blanco|blanca|f
+-|m|What is the Spanish word for "orange" the color?|anaranjado|naranja|f
+B|e|Answer these questions about Spanish family words.
+-|e|What is the Spanish word for "father"?|el padre|padre;papá|f
+-|e|What is the Spanish word for "sister"?|la hermana|hermana|f
+-|m|What is the Spanish word for "grandmother"?|la abuela|abuela|f
+-|h|What is the Spanish word for "uncle"?|el tío|tío|f
+B|m|Answer these questions about Spanish numbers.
+-|e|What is the Spanish word for 2?|dos|f
+-|e|What is the Spanish word for 3?|tres|f
+-|m|What is the Spanish word for 7?|siete|f
+-|m|What is the Spanish word for 12?|doce|f
+-|h|What is the Spanish word for 40?|cuarenta|f
+B|e|Answer these questions about days of the week in Spanish.
+-|e|What day of the week is "martes" in English?|Tuesday|
+-|e|What day of the week is "viernes" in English?|Friday|
+-|m|What day of the week is "domingo" in English?|Sunday|
+B|m|Answer these questions about the Spanish verbs ser and estar.
+-|e|What is the yo form of the verb "ser"?|soy|f
+-|m|What is the yo form of the verb "estar"?|estoy|f
+-|m|What is the ella form of the verb "ser"?|es|f
+-|h|What is the nosotros form of the verb "estar"?|estamos|f
+B|e|Answer these questions about animals in Spanish.
+-|e|What is the Spanish word for "bird"?|el pájaro|pájaro;ave|f
+-|e|What is the Spanish word for "horse"?|el caballo|caballo|f
+-|m|What is the Spanish word for "fish" as a living animal?|el pez|pez|f
+-|h|What is the Spanish word for "cow"?|la vaca|vaca|f
+B|m|Answer these questions about school subjects in Spanish.
+-|e|What is the Spanish word for "math"?|las matemáticas|matemáticas|f
+-|e|What is the Spanish word for "English" the subject?|el inglés|inglés|f
+-|m|What is the Spanish word for "science"?|la ciencia|ciencia;las ciencias;ciencias|f
+-|h|What is the Spanish word for "history"?|la historia|historia|f
+B|e|Answer these questions about greetings in Spanish.
+-|e|What does the Spanish word "adiós" mean in English?|goodbye|bye|
+-|e|What does the Spanish phrase "buenas noches" mean in English?|good night|good evening|
+-|m|What does the Spanish phrase "¿Cómo estás?" mean in English?|how are you|
+-|h|What does the Spanish phrase "mucho gusto" mean in English?|nice to meet you|pleased to meet you|
+B|m|Answer these questions about food in Spanish.
+-|e|What is the Spanish word for "bread," including the article?|el pan|pan|f
+-|e|What is the Spanish word for "cheese," including the article?|el queso|queso|f
+-|m|What is the Spanish word for "rice," including the article?|el arroz|arroz|f
+-|h|What is the Spanish word for "lunch" in most Spanish-speaking countries?|el almuerzo|almuerzo|f
+B|m|Answer these questions about months in Spanish.
+-|e|What is the Spanish word for the month of March?|marzo|f
+-|m|What is the Spanish word for the month of June?|junio|f
+-|m|What is the Spanish word for the month of August?|agosto|f
+-|h|What is the Spanish word for the month of September?|septiembre|setiembre|f
+B|e|Answer these questions about the weather in Spanish.
+-|e|What does the Spanish word "lluvia" mean in English?|rain|
+-|m|What does the Spanish expression "hace frío" mean in English?|it is cold|it's cold|
+-|m|What does the Spanish word "nieve" mean in English?|snow|
+-|h|What does the Spanish word "viento" mean in English?|wind|
+B|m|Answer these questions about Spanish pronouns.
+-|e|What Spanish pronoun is the first-person singular subject, meaning "I"?|yo|f
+-|e|What Spanish pronoun is the informal word for "you"?|tú|tu|f
+-|m|Which Spanish pronoun refers to a group including the speaker, meaning "we"?|nosotros|nosotras|f
+-|h|What Spanish pronoun means "you all" in Latin America?|ustedes|f
+B|h|Answer these questions about -ar verb conjugations in the present tense.
+-|e|What is the yo form of "cantar"?|canto|f
+-|m|What is the ella form of "bailar"?|baila|f
+-|m|What is the ustedes form of "estudiar"?|estudian|f
+-|h|What is the nosotros form of "caminar"?|caminamos|f
+B|m|Answer these questions about body parts in Spanish.
+-|e|What is the Spanish word for "head"?|la cabeza|cabeza|f
+-|e|What is the Spanish word for "nose"?|la nariz|nariz|f
+-|m|What is the Spanish word for "foot"?|el pie|pie|f
+-|h|What is the Spanish word for "arm"?|el brazo|brazo|f
+B|e|Answer these questions about Spanish-speaking countries.
+-|e|Which country's capital is Madrid?|Spain|España|
+-|e|Which large Spanish-speaking country borders the southern United States?|Mexico|México|
+-|m|Which South American country has its capital at Buenos Aires?|Argentina|
+-|h|Which Caribbean country's capital is Havana?|Cuba|
+B|m|Answer these questions about clothing in Spanish.
+-|e|What is the Spanish word for "shirt"?|la camisa|camisa|f
+-|e|What is the Spanish word for "shoes"?|los zapatos|zapatos|f
+-|m|What is the Spanish word for "pants"?|los pantalones|pantalones|f
+-|h|What is the Spanish word for "dress"?|el vestido|vestido|f
+e|What is the Spanish word for "pencil"?|el lápiz|lápiz|f
+e|What is the Spanish word for "table," including the article?|la mesa|mesa|f
+e|What does the Spanish word "feliz" mean in English?|happy|
+m|What is the tú form of the verb "comer" in the present tense?|comes|f
+m|What is the Spanish word for "boy"?|el chico|chico;el niño;niño;el muchacho|f
+m|What is the Spanish word for "night," including the article?|la noche|noche|f
+m|What does the Spanish word "triste" mean in English?|sad|
+h|What is the Spanish word for "nephew"?|el sobrino|sobrino|f
+B|m|Answer these questions about places in a Spanish-speaking town.
+-|e|What is the Spanish word for "store"?|la tienda|tienda|f
+-|e|What is the Spanish word for "park"?|el parque|parque|f
+-|m|What is the Spanish word for "church"?|la iglesia|iglesia|f
+-|h|What is the Spanish word for "library"?|la biblioteca|biblioteca|f

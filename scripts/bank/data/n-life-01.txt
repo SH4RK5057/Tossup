@@ -1,0 +1,142 @@
+# ncal novice | Science | Life Science
+e|What is the basic unit of structure and function in all living things?|cell
+e|What organelle is known as the powerhouse of the cell?|mitochondria|mitochondrion
+e|What green pigment in plants captures light energy for photosynthesis?|chlorophyll
+e|What gas do plants take in from the air for photosynthesis?|carbon dioxide
+e|What gas do plants release as a product of photosynthesis?|oxygen
+e|What term describes an organism that makes its own food, such as a plant?|producer|autotroph
+e|What term describes an organism that must eat other organisms for energy?|consumer|heterotroph
+e|What is the name for an animal that eats only plants?|herbivore
+e|What is the name for an animal that eats only other animals?|carnivore
+e|What is the name for an animal that eats both plants and animals?|omnivore
+e|What organ in the human body is the main center of the nervous system, located in the skull?|brain
+e|What is the name of the process by which a caterpillar becomes a butterfly?|metamorphosis
+e|What part of a plant absorbs water and minerals from the soil?|root|roots
+e|What part of a flower develops into a fruit?|ovary
+e|What are the tiny pores on the underside of a leaf that let gases in and out?|stomata|stoma
+e|What is the term for the variety of living things in an ecosystem?|biodiversity
+e|What is the term for a group of the same species living in one area?|population
+e|What is the term for a living thing, such as a plant, animal, or fungus?|organism
+e|What is the term for an animal with a backbone?|vertebrate
+e|What is the term for an animal without a backbone?|invertebrate
+e|What class of vertebrates has fur or hair and feeds its young with milk?|mammals|mammal
+e|What type of blood vessel carries blood away from the heart?|artery|arteries
+e|What are the hard structures that make up the human skeleton?|bones|bone
+m|What is the term for the release of energy from food in the cells of living things?|cellular respiration|respiration
+m|What molecule carries genetic information in the nucleus of a cell, shaped like a double helix?|DNA|deoxyribonucleic acid
+m|What organelle contains the cell's DNA and acts as its control center?|nucleus
+m|What rigid outer layer surrounds plant cells but not animal cells?|cell wall
+m|What flexible outer boundary surrounds all cells and controls what enters and leaves?|cell membrane|plasma membrane
+m|What cell organelles in plants contain chlorophyll?|chloroplasts|chloroplast
+m|What is the term for a trait that is passed from parents to offspring?|inherited trait|heritable trait;inheritance
+m|What process explains how organisms with helpful traits are more likely to survive and reproduce?|natural selection
+m|What scientist wrote On the Origin of Species?|Charles Darwin|Darwin|n
+m|What is the term for all the living and nonliving things interacting in an area?|ecosystem
+m|What is the term for the role an organism plays in its ecosystem, including what it eats and where it lives?|niche
+m|What type of organism breaks down dead material and returns nutrients to the soil, such as fungi?|decomposer
+m|What is the term for a diagram showing who eats whom in a single path of energy?|food chain
+m|What is the term for a model of many overlapping food chains in an ecosystem?|food web
+m|What is the term for an animal that hunts and kills other animals for food?|predator
+m|What is the term for a close relationship between two species in which both benefit?|mutualism
+m|What term describes animals that are active at night?|nocturnal
+m|What is the term for the seasonal movement of animals from one region to another?|migration
+m|What is the first stage of a butterfly's life cycle?|egg
+m|What is the name of the male reproductive part of a flower that produces pollen?|stamen
+m|What is the process by which pollen moves from one flower part to another?|pollination
+m|What is the name of the tiny structure inside a seed that grows into a new plant?|embryo
+m|What is the term for the scientific classification group that contains similar species, ranking just above species?|genus
+m|What is the system for naming organisms with a genus and a species called?|binomial nomenclature
+m|What is the term for the smallest of the seven main levels of classification, a group that can interbreed?|species
+m|What is the name of the muscle that separates the chest from the abdomen and helps you breathe?|diaphragm
+m|What is the name of the protective tube through which air passes from the throat to the lungs?|trachea|windpipe
+m|What part of the blood carries oxygen using hemoglobin?|red blood cells|red blood cell;erythrocytes
+m|What small structures in blood help it clot?|platelets|platelet
+h|What type of tissue connects the muscles to bones?|tendon|tendons
+h|What is the term for an organism's physical appearance or observable traits?|phenotype
+h|What is the term for the genetic makeup of an organism?|genotype
+h|What is the name of the process in which a cell divides to produce two identical daughter cells?|mitosis
+h|What are the different forms of a gene called?|alleles|allele
+h|What is the name of the sugar produced by photosynthesis?|glucose
+h|What is the name of the outermost layer of human skin?|epidermis
+h|What is the name of the process by which plants lose water vapor through their leaves?|transpiration
+h|What is the name of the kingdom of organisms that includes mushrooms and yeast?|fungi|fungus
+h|What is the term for the group of organs that work together to digest food?|digestive system
+h|What are the chemical messengers produced by glands and carried in the blood called?|hormones|hormone
+B|e|Answer these questions about the human body.
+-|e|What organ is used for seeing?|eye|eyes
+-|e|What organ is used for hearing?|ear|ears
+-|m|What part of the eye controls how much light enters the pupil?|iris
+B|m|Answer these questions about the skeleton and muscles.
+-|e|What are the bones in the spinal column called?|vertebrae|vertebra
+-|m|What kind of joint is the shoulder?|ball-and-socket joint|ball and socket
+-|m|What structures attach muscle to bone?|tendons|tendon
+B|m|Answer these questions about the circulatory system.
+-|e|What type of blood vessel carries blood back to the heart?|vein|veins
+-|m|What are the tiniest blood vessels, where gases are exchanged?|capillaries|capillary
+-|m|What fluid part of blood carries cells and nutrients?|plasma
+B|m|Answer these questions about the human digestive system.
+-|e|What organ stores food and mixes it with acid after swallowing?|stomach
+-|m|What organ absorbs most nutrients from food?|small intestine
+-|m|What organ makes bile?|liver
+B|m|Answer these questions about the life cycles of animals.
+-|e|What is the stage of a butterfly in which it is wrapped in a chrysalis?|pupa
+-|m|What is a young frog with gills and a tail called?|tadpole
+-|m|What is the first stage of a mosquito's life cycle, laid on the surface of water?|egg
+B|m|Answer these questions about classification.
+-|e|What is the most general level of classification, such as animals or plants?|kingdom
+-|m|What group of vertebrates includes snakes, lizards, and turtles?|reptiles|reptile
+-|h|What Swedish botanist created the system of two-part scientific names?|Carl Linnaeus|Linnaeus|n
+B|m|Answer these questions about vertebrate groups.
+-|e|What group of vertebrates includes frogs and salamanders?|amphibians|amphibian
+-|m|What group of vertebrates has feathers?|birds|bird
+-|m|What group of vertebrates has gills and fins and lives in water?|fish
+B|m|Answer these questions about genetics.
+-|e|What 19th-century monk studied inheritance in pea plants?|Gregor Mendel|Mendel|n
+-|m|What type of square is used to predict the results of a genetic cross?|Punnett square
+-|m|What term describes a gene form that is hidden when a dominant form is present?|recessive
+B|e|Answer these questions about plants.
+-|e|What colorful part of a flower attracts pollinators?|petals|petal
+-|m|What tissue carries water up from the roots of a plant?|xylem
+-|m|What tissue carries sugar down from the leaves of a plant?|phloem
+B|m|Answer these questions about ecosystems.
+-|e|What is a biome with very little rainfall called?|desert
+-|m|What is the term for a biome of cold, treeless land with frozen soil?|tundra
+-|m|What type of forest near the equator receives heavy rainfall all year?|tropical rain forest|rainforest;rain forest
+B|m|Answer these questions about cells.
+-|e|What device do scientists use to see cells?|microscope
+-|m|What organelle in animal cells contains digestive enzymes?|lysosome|lysosomes
+-|h|What organelle is the site of protein building in a cell?|ribosome|ribosomes
+B|m|Answer these questions about animal behavior.
+-|e|What term describes an animal that sleeps during the day and is awake at night?|nocturnal
+-|m|What is the term for an animal passing the winter in a sleep-like state?|hibernation
+-|m|What is the term for animals traveling long distances each season?|migration
+B|m|Answer these questions about microorganisms.
+-|e|What kind of tiny organism, such as Escherichia coli, has no nucleus and is single-celled?|bacteria|bacterium
+-|m|What is the name of the Dutch scientist who first observed living microbes with a microscope?|Antonie van Leeuwenhoek|Leeuwenhoek|n
+-|m|What type of tiny infectious particle needs a host cell to reproduce?|virus
+e|What is the name for the process by which a cell takes in water through its membrane from an area of high water concentration?|osmosis
+m|What type of tissue in the human body carries signals using neurons?|nervous tissue|nerve tissue
+m|What is the term for a plant that lives for only one growing season?|annual
+e|What is the name of the hard outer covering of a crab or lobster?|exoskeleton
+m|What is the name of the pigment that gives human skin and hair their color?|melanin
+e|What is the name of a baby kangaroo?|joey
+B|e|Answer these questions about the five senses.
+-|e|What sense organ allows you to smell?|nose
+-|e|What sense organ detects taste?|tongue
+-|m|What part of the ear contains three tiny bones and is called the hammer, anvil, and stirrup?|middle ear
+B|m|Answer these questions about the respiratory system.
+-|e|What organs are the main organs of breathing?|lungs|lung
+-|m|What tiny air sacs exchange gases with the blood?|alveoli|alveolus
+-|m|What muscle at the bottom of the chest cavity contracts to pull air in during breathing?|diaphragm
+B|m|Answer these questions about the nervous system.
+-|e|What organ controls the body from inside the skull?|brain
+-|m|What long bundle of nerves runs down the back inside the vertebrae?|spinal cord
+-|m|What is the name of a nerve cell?|neuron|neurons
+B|m|Answer these questions about reproduction in plants.
+-|e|What structure in a plant holds seeds, such as an apple or a tomato?|fruit
+-|m|What is the female reproductive part of a flower called?|pistil|carpel
+-|m|What moves pollen from flower to flower, such as bees or the wind?|pollinators|pollinator
+B|m|Answer these questions about energy in ecosystems.
+-|e|What is the main source of energy for most ecosystems on Earth?|sun|the sun;sunlight
+-|m|What kind of organism eats producers, such as a rabbit eating grass?|primary consumer
+-|m|What is the term for an organism that feeds on dead animals, such as a vulture?|scavenger

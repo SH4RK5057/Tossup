@@ -1,0 +1,124 @@
+# ncal jv | Fine Arts | Spanish 2
+e|What is the yo form of the verb "hablar" in the preterite tense?|hablé|f
+e|What is the yo form of the verb "comer" in the preterite tense?|comí|f
+e|What is the yo form of the verb "vivir" in the preterite tense?|viví|f
+e|What is the Spanish word for "kitchen"?|la cocina|cocina|f
+e|What is the Spanish word for "bedroom"?|el dormitorio|dormitorio;la habitación;habitación;la recámara;el cuarto|f
+e|What is the Spanish word for "bathroom"?|el baño|baño|f
+e|What is the Spanish word for "window"?|la ventana|ventana|f
+e|What is the Spanish word for "door"?|la puerta|puerta|f
+e|What is the Spanish word for "city," including its article?|la ciudad|ciudad|f
+e|What is the Spanish word for "car"?|el coche|coche;el carro;carro;el auto;auto;el automóvil|f
+e|What is the Spanish word for "airport," including its article?|el aeropuerto|aeropuerto|f
+e|What is the Spanish word for "train," including its article?|el tren|tren|f
+e|What is the Spanish word for "ticket" used for travel?|el boleto|boleto;el billete;billete;el pasaje|f
+e|What is the Spanish word for "suitcase"?|la maleta|maleta|f
+e|What is the Spanish word for "beach"?|la playa|playa|f
+e|What is the Spanish word for "to play" a sport, which changes its stem from u to ue?|jugar|f
+e|What is the Spanish word for "to sleep," which changes its stem from o to ue?|dormir|f
+e|What is the Spanish word for "to want," which changes its stem from e to ie?|querer|f
+e|What does the Spanish verb "beber" mean in English?|to drink|drink
+e|What does the Spanish verb "escribir" mean in English?|to write|write
+e|What does the Spanish verb "correr" mean in English?|to run|run
+e|What does the Spanish verb "trabajar" mean in English?|to work|work
+e|What does the Spanish verb "abrir" mean in English?|to open|open
+e|What does the Spanish verb "ayudar" mean in English?|to help|help
+e|What does the Spanish verb "leer" mean in English?|to read|read
+e|What does the Spanish noun "regalo" mean in English?|gift|present
+e|What does the Spanish word "siempre" mean in English?|always|
+e|What does the Spanish word "nunca" mean in English?|never|
+e|What does the Spanish word "temprano" mean in English?|early|
+e|What does the Spanish word "tarde" mean as an adverb?|late|
+e|What does the Spanish word "cerca" mean in English?|near|close;nearby
+e|What does the Spanish word "lejos" mean in English?|far|far away
+e|What does the Spanish word "sucio" mean in English?|dirty|
+e|What does the Spanish word "limpio" mean in English?|clean|
+e|What does the Spanish word "caro" mean in English?|expensive|
+e|What does the Spanish word "barato" mean in English?|cheap|inexpensive
+e|What Spanish word means "also" or "too"?|también|tambien|f
+e|What Spanish verb means "to like" or "to be pleasing to"?|gustar|f
+m|In the preterite tense, what is the tú form of "hablar"?|hablaste|f
+m|What is the nosotros form of the verb "comer" in the preterite tense?|comimos|f
+m|What is the yo form of the verb "ir" in the preterite tense?|fui|f
+m|What is the yo form of the verb "hacer" in the preterite tense?|hice|f
+m|In the preterite tense, what is the él form of "hacer"?|hizo|f
+m|What is the yo form of the verb "tener" in the preterite tense?|tuve|f
+m|What is the yo form of the verb "ver" in the preterite tense?|vi|f
+m|What is the ella form of the verb "decir" in the preterite tense?|dijo|f
+m|What is the yo form of the verb "empezar" in the preterite tense, with the spelling change?|empecé|f
+m|What is the yo form of the verb "buscar" in the preterite tense, with the spelling change?|busqué|f
+m|What is the yo form of the verb "llegar" in the preterite tense, with the spelling change?|llegué|f
+m|What is the yo form of the verb "hacer" in the present tense?|hago|f
+m|What is the yo form of the verb "poner" in the present tense?|pongo|f
+m|What is the yo form of the verb "salir" in the present tense?|salgo|f
+m|What is the yo form of the verb "conocer" in the present tense?|conozco|f
+m|What is the yo form of the verb "saber" in the present tense?|sé|se|f
+m|What is the yo form of the verb "traer" in the present tense?|traigo|f
+m|What is the yo form of the verb "dar" in the present tense?|doy|f
+m|What is the yo form of the verb "querer" in the present tense?|quiero|f
+m|What is the yo form of the verb "dormir" in the present tense?|duermo|f
+m|What is the yo form of the verb "pedir" in the present tense?|pido|f
+m|What is the ellos form of the verb "jugar" in the present tense?|juegan|f
+m|What is the nosotros form of the verb "pensar" in the present tense?|pensamos|f
+m|What is the yo form of the verb "hablar" in the imperfect tense?|hablaba|f
+m|What is the yo form of the verb "comer" in the imperfect tense?|comía|f
+m|What is the imperfect form of "ir" for yo?|iba|f
+m|What is the singular informal command form of "hablar"?|habla|f
+m|What is the reflexive pronoun used with yo, as in "me levanto"?|me|f
+m|What reflexive verb means "to wake up"?|despertarse|f
+m|What reflexive verb means "to get dressed"?|vestirse|f
+m|What reflexive verb means "to take a shower"?|ducharse|f
+m|What is the Spanish word for "toothbrush"?|el cepillo de dientes|cepillo de dientes|f
+m|What is the Spanish word for "soap," including its article?|el jabón|jabón|f
+m|What is the Spanish word for "towel"?|la toalla|toalla|f
+m|What is the Spanish word for "stomach"?|el estómago|estómago|f
+m|What is the Spanish word for "throat"?|la garganta|garganta|f
+m|What is the Spanish word for "headache" using the noun dolor?|el dolor de cabeza|dolor de cabeza|f
+m|What is the Spanish word for "doctor" when the doctor is a woman?|la doctora|doctora;la médica|f
+m|What is the Spanish word for "pharmacy"?|la farmacia|farmacia|f
+m|What is the Spanish word for "hospital"?|el hospital|hospital|f
+m|What is the Spanish word for "bank," as a building where you keep money?|el banco|banco|f
+m|What is the Spanish word for "post office"?|el correo|correo|f
+m|What is the Spanish word for "stamp" for a letter?|el sello|sello;la estampilla;el timbre|f
+m|What is the Spanish word for "neighborhood"?|el barrio|barrio|f
+m|What is the Spanish word for "corner" of a street?|la esquina|esquina|f
+m|What is the Spanish word for "to turn" when giving directions?|doblar|girar;virar|f
+m|What is the Spanish word for "straight ahead"?|derecho|todo recto;recto|f
+m|What is the Spanish word for "to the right"?|a la derecha|derecha|f
+m|What does the Spanish word "pronto" mean in English?|soon|quickly
+m|What does the Spanish word "a veces" mean in English?|sometimes|at times
+m|What does the Spanish word "todavía" mean in English?|still|yet
+m|What does the Spanish word "demasiado" mean in English?|too much|too
+m|What does the Spanish word "mejor" mean in English?|better|best
+m|What does the Spanish word "peor" mean in English?|worse|worst
+m|What Spanish word means "more" in comparisons such as "más alto que"?|más|mas|f
+m|What Spanish word means "than" in comparisons such as "más alto que"?|que|f
+m|What is the Spanish word for the number 50?|cincuenta|f
+m|What is the Spanish word for the number 90?|noventa|f
+m|What is the Spanish word for the number 1000?|mil|f
+m|What is the Spanish word for the ordinal "first"?|primero|primer;primera|f
+m|What does the Spanish verb "recordar" mean in English?|to remember|remember
+h|What is the yo form of the verb "tener" in the imperfect tense?|tenía|f
+h|What is the nosotros form of the verb "ir" in the imperfect tense?|íbamos|f
+h|What is the yo form of the verb "ser" in the imperfect tense?|era|f
+h|What is the ellos form of the verb "poder" in the preterite tense?|pudieron|f
+h|What is the ellos form of the verb "leer" in the preterite tense?|leyeron|f
+h|What is the él form of the verb "dormir" in the preterite tense?|durmió|f
+h|What is the ella form of the verb "pedir" in the preterite tense?|pidió|f
+h|What is the yo form of the verb "venir" in the preterite tense?|vine|f
+h|What is the nosotros form of the verb "estar" in the preterite tense?|estuvimos|f
+h|What is the ellos form of the verb "traer" in the preterite tense?|trajeron|f
+h|What is the usted command form of "comer"?|coma|f
+h|What is the usted command form of "hablar"?|hable|f
+h|What is the tú command form of "poner" in the affirmative?|pon|f
+h|What is the tú command form of "salir" in the affirmative?|sal|f
+h|What is the tú command form of "ir" in the affirmative?|ve|f
+h|What is the present participle of "hablar," used in the present progressive?|hablando|f
+h|What is the present participle of "comer"?|comiendo|f
+h|What is the past participle of "escribir," which is irregular?|escrito|f
+h|What is the past participle of "ver"?|visto|f
+h|What is the past participle of "romper"?|roto|f
+h|What does the Spanish word "sin" mean in English?|without|
+h|What is the Spanish word for "lawn" or "grass"?|el césped|césped;la hierba;hierba;el pasto;pasto|f
+h|What is the Spanish word for "sidewalk"?|la acera|acera;la banqueta|f
+h|What is the Spanish word for "stairs"?|la escalera|escalera;las escaleras;escaleras|f

@@ -1,0 +1,63 @@
+# quizbowl novice | Science | Earth Science
+e|This type of rock forms when magma or lava cools and hardens. Granite forms slowly underground, while basalt forms quickly at the surface. Obsidian is a glassy example of it. For 10 points, name this rock type, which is different from sedimentary and metamorphic rock.|igneous rock|igneous
+e|This type of rock forms when layers of sand, mud, and shell fragments are pressed and cemented together over time. Sandstone, limestone, and shale are examples, and fossils are usually found in it. For 10 points, name this rock type.|sedimentary rock|sedimentary
+e|This is the name of the innermost region of the Earth, made mostly of iron and nickel. It is divided into a liquid outer part and a solid inner part, and it is hotter than the surface of the Sun. For 10 points, name this layer at the center of the planet, below the mantle.|core|outer core;inner core
+e|The movement of this kind of large, slowly moving piece of Earth's lithosphere causes earthquakes and mountain building. Examples include the Pacific and North American ones. For 10 points, name these rigid pieces of the crust and upper mantle.|tectonic plates|plates;lithospheric plates;tectonic plate
+e|This is the name for a giant ocean wave caused by an underwater earthquake or landslide. It can travel across an entire ocean and flood coastlines. For 10 points, name this kind of wave, often called a "tidal wave" in error.|tsunami
+e|This process of water moving continuously between oceans, air, and land involves evaporation, condensation, and precipitation. For 10 points, name this cycle that moves Earth's water.|water cycle|hydrologic cycle
+e|These visible masses are made of countless tiny water droplets or ice crystals that formed when water vapor condensed. Cumulus, stratus, and cirrus are types of them. For 10 points, name these white or gray features of the sky that can produce rain and snow.|clouds|cloud
+e|The Earth is tilted on its axis by about 23.5 degrees, which is the cause of these four periods of the year. Spring, summer, autumn, and winter are examples. For 10 points, name these periods of changing weather and daylight.|seasons|season
+e|This is the name for the layer of gases surrounding Earth that is mostly nitrogen and oxygen. It includes the troposphere, where weather happens. For 10 points, name this envelope of gases.|atmosphere
+e|This scale from 1 to 10 ranks the hardness of minerals by whether one can scratch another. Talc is 1 and diamond is 10. For 10 points, name this scale named for a German mineralogist.|Mohs scale|Mohs hardness scale;Mohs;Mohs' scale
+e|This kind of fuel formed from the remains of ancient plants and animals that were buried and heated for millions of years. Coal, oil, and natural gas are examples. For 10 points, name this kind of nonrenewable fuel.|fossil fuels|fossil fuel
+m|Volcanoes in the Ring of Fire are found around the edge of this largest ocean. The Mariana Trench lies beneath this ocean. For 10 points, name this ocean that lies between Asia and the Americas.|Pacific Ocean|Pacific
+m|This type of seismic wave is the first to arrive at a seismograph after an earthquake. It is a compressional wave that can travel through solids and liquids. For 10 points, name this wave, designated by the letter P.|primary wave|P wave;primary waves;P waves
+m|This is the name of the process in which rock is broken down into smaller pieces by wind, water, ice, or plants. It differs from erosion because the pieces are not moved away. For 10 points, name this process.|weathering
+m|This scale ranks the strength of earthquakes by the energy they release. Each whole number increase means about 32 times more energy. For 10 points, name this scale, used today in place of the older Richter scale.|moment magnitude scale|magnitude scale;moment magnitude
+m|This is the name of the supercontinent that existed about 250 million years ago and later broke apart. Alfred Wegener used its fit as evidence for continental drift. For 10 points, name this landmass whose name means "all land."|Pangaea|Pangea
+m|Stalactites and stalagmites form in these underground chambers, which are often found in limestone. Carlsbad in New Mexico and Mammoth in Kentucky are famous ones. For 10 points, name these natural underground spaces.|caves|cave;caverns
+m|This is the name of the point on Earth's surface directly above the place underground where an earthquake starts. Seismologists find it by comparing the arrival times of waves at three or more stations. It is located right above the focus. For 10 points, give this term.|epicenter
+m|This is the name of the boundary between the crust and the mantle. It is named for a Croatian seismologist who discovered it in 1909. For 10 points, give this name, often shortened to the Moho.|Mohorovicic discontinuity|Moho
+m|Warm, moist air rising along a boundary where it meets cooler air forms these kinds of boundaries between air masses. They bring clouds and rain and are drawn on weather maps with colored lines. For 10 points, name these boundaries.|fronts|front;weather fronts;cold front;warm front
+m|This is the term for the preserved remains or traces of ancient organisms, such as bones, shells, or footprints. They are most often found in sedimentary rock. For 10 points, name these relics of past life.|fossils|fossil
+m|The Colorado River carved this enormous canyon in northern Arizona. It is about 277 miles long and exposes nearly two billion years of rock layers, and it is a national park visited by millions each year. For 10 points, name this canyon.|Grand Canyon
+h|This is the name of the soil layer, also called the A horizon, that is rich in humus and supports plant growth. It lies above the subsoil. For 10 points, name this uppermost layer of soil.|topsoil
+h|This is the name of the movement of sediment by a river, glacier, or wind from one place to another. It differs from weathering because rock pieces are carried away. For 10 points, name this process that wears down Earth's surface.|erosion
+h|This is the name of the layer of the atmosphere between about 12 and 50 kilometers up that contains the ozone layer. Weather balloons and airliners often reach its lower part. For 10 points, name this layer above the troposphere.|stratosphere
+h|The Mid-Atlantic Ridge is an example of this type of plate boundary, where plates move apart and new crust forms. For 10 points, name this type of boundary, the opposite of convergent.|divergent boundary|divergent;divergent plate boundary
+h|The mineral calcite is the main component of these two rocks, which are used in building and sculpture. One of them is metamorphic and made from the other, which is sedimentary. For 10 points, name the sedimentary one, found in many caves.|limestone
+h|This type of volcano has gently sloping sides built up from runny lava flows. Mauna Loa in Hawaii is an example. For 10 points, name this broad type of volcano that is named for a protective plate of armor.|shield volcano|shield
+h|This is the name of the global ocean current that warms Western Europe. It flows north from the Gulf of Mexico along the east coast of the United States. For 10 points, name this current.|Gulf Stream
+B|m|Answer these questions about types of rock.
+-|e|What kind of rock forms from cooled lava or magma?|igneous rock|igneous
+-|m|What kind of rock forms when heat and pressure change existing rock, such as marble from limestone?|metamorphic rock|metamorphic
+-|h|What term names the process in which sediment is pressed and cemented into rock?|lithification|compaction
+B|m|Answer these questions about volcanoes.
+-|e|What name is given to molten rock after it erupts onto Earth's surface?|lava
+-|m|What name is given to the bowl-shaped opening at the top of a volcano?|crater|caldera
+-|h|What Italian volcano buried Pompeii in 79 CE?|Mount Vesuvius|Vesuvius
+B|m|Answer these questions about weather.
+-|e|What instrument measures air temperature?|thermometer
+-|m|What weather tool, invented by Evangelista Torricelli, reads atmospheric pressure from a column of mercury?|barometer
+-|h|What instrument measures wind speed?|anemometer
+B|m|Answer these questions about the layers of the Earth.
+-|e|What is the thin, rocky, outermost layer of the Earth called?|crust
+-|m|What thick, mostly solid layer of hot rock lies below the surface layer and above the iron center?|mantle
+-|h|What name is given to the rigid outer shell of the Earth that is broken into tectonic plates?|lithosphere
+B|m|Answer these questions about oceans and water.
+-|e|What term describes the salty water that covers most of Earth's surface?|seawater|ocean water;salt water
+-|m|What daily rise and fall of sea level is caused mainly by the gravitational pull of the Moon?|tides|tide
+-|h|What is the name for the dissolved salt content of water?|salinity
+B|m|Answer these questions about geologic time.
+-|e|What are the preserved remains of ancient living things called?|fossils|fossil
+-|m|What era, called the age of reptiles, included the Triassic, Jurassic, and Cretaceous periods?|Mesozoic|Mesozoic era
+-|h|What type of dating uses the decay of isotopes like carbon-14 to find the age of a sample?|radiometric dating|radioactive dating;radiocarbon dating
+B|m|Answer these questions about minerals.
+-|e|What is the hardest known natural mineral?|diamond
+-|m|What common mineral, with the formula SiO2, is the main component of sand?|quartz|silica
+-|h|What name is given to a rock that contains enough metal to be mined profitably?|ore
+B|m|Answer these questions about Earth's resources and the environment.
+-|e|What gas, released by burning fossil fuels, is the main cause of global warming?|carbon dioxide|CO2
+-|m|What term names energy sources such as sunlight and wind that are naturally replenished?|renewable energy|renewable resources;renewable
+-|h|What process of cutting down large areas of forest is called?|deforestation
+e|This is the name for a huge, slow-moving mass of ice that forms on land from compacted snow. Valleys in places such as Yosemite were carved by these, and Greenland holds an enormous ice sheet of this kind. For 10 points, name this river of ice.|glacier|glaciers
