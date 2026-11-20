@@ -1,5 +1,4 @@
 import { useEffect, useMemo, useState } from 'react';
-import { normalizeText } from '../core/normalize';
 import { RULESETS } from '../core/rulesets';
 import { DIFFICULTIES, DIFFICULTY_LABEL, LEVELS, LEVEL_LABEL, RULESET_IDS, statusSchema, type Question } from '../core/types';
 import { useApp } from '../ui/context';
@@ -12,18 +11,36 @@ export function QuestionBrowser() {
   const [activating, setActivating] = useState(false);
   const [all, setAll] = useState<Question[] | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [f, setF] = useState({ status: '', ruleset: '', level: '', difficulty: '', category: '', source: '', minReports: 0, search: '' });
+  const [f, setF] = useState({ status: '', ruleset: '', level: '', difficulty: '', category: '', source: '', minReports: 0, search: '', store: '' });
+  const [hideDupes, setHideDupes] = useState(true);
+  const [baked, setBaked] = useState<Question[]>([]);
+  const [bakedState, setBakedState] = useState<'loading' | 'ok' | 'none'>('loading');
 
   useEffect(() => {
     repo.listQuestions().then(setAll, (e) => setError(String(e)));
   }, [repo]);
 
-  const categories = useMemo(() => [...new Set((all ?? []).map((q) => q.category))].sort(), [all]);
-  const sources = useMemo(() => [...new Set((all ?? []).map((q) => q.source))].sort(), [all]);
+  // The baked-in bank (public/bank/*.json): what players actually practice with. Read-only here.
+  useEffect(() => {
+    const base = import.meta.env.BASE_URL;
+    Promise.all(RULESET_IDS.flatMap((r) => LEVELS.map((l) => fetch(`${base}bank/${r}-${l}.json`).then((x) => (x.ok ? (x.json() as Promise<Question[]>) : [])))))
+      .then((lists) => { const flat = lists.flat(); setBaked(flat); setBakedState(flat.length ? 'ok' : 'none'); })
+      .catch(() => setBakedState('none'));
+  }, []);
+
+  const bakedIds = useMemo(() => new Set(baked.map((q) => q.id)), [baked]);
+  const bakedTexts = useMemo(() => new Set(baked.map((q) => textOf(q).toLowerCase())), [baked]);
+  const view = useMemo(() => {
+    const fs = (all ?? []).filter((q) => !(hideDupes && bakedTexts.has(textOf(q).toLowerCase())));
+    return f.store === 'baked' ? baked : f.store === 'firestore' ? (all ?? []) : [...fs, ...baked];
+  }, [all, baked, bakedTexts, hideDupes, f.store]);
+
+  const categories = useMemo(() => [...new Set(view.map((q) => q.category))].sort(), [view]);
+  const sources = useMemo(() => [...new Set(view.map((q) => q.source))].sort(), [view]);
 
   const rows = useMemo(() => {
-    const needle = normalizeText(f.search);
-    return (all ?? []).filter((q) =>
+    const needle = f.search.trim().toLowerCase();
+    return view.filter((q) =>
       (!f.status || q.status === f.status) &&
       (!f.ruleset || q.rulesets.includes(f.ruleset as 'ncal')) &&
       (!f.level || q.level === f.level) &&
@@ -31,9 +48,10 @@ export function QuestionBrowser() {
       (!f.category || q.category === f.category) &&
       (!f.source || q.source === f.source) &&
       q.report_count >= f.minReports &&
-      (!needle || normalizeText(`${textOf(q)} ${answerOf(q)}`).includes(needle)),
+      (!needle || `${textOf(q)} ${answerOf(q)}`.toLowerCase().includes(needle)),
     );
-  }, [all, f]);
+  }, [view, f]);
+  const editableRows = useMemo(() => rows.filter((q) => !bakedIds.has(q.id)), [rows, bakedIds]);
 
   const pending = (all ?? []).filter((q) => q.status === 'pending');
   const activateAll = async () => {
@@ -69,7 +87,7 @@ export function QuestionBrowser() {
     setAnchor(index);
     setSelected(next);
   };
-  const allMatchingSelected = rows.length > 0 && rows.every((q) => selected.has(q.id));
+  const allMatchingSelected = editableRows.length > 0 && editableRows.every((q) => selected.has(q.id));
 
   const runBulk = async (label: string, fn: (ids: string[]) => Promise<void>) => {
     const ids = [...selected];
@@ -116,6 +134,9 @@ export function QuestionBrowser() {
             <option value="">Any category</option>{categories.map((c) => <option key={c}>{c}</option>)}</select>
           <select style={{ width: 150 }} value={f.source} onChange={(e) => set({ source: e.target.value })}>
             <option value="">Any source</option>{sources.map((c) => <option key={c}>{c}</option>)}</select>
+          <select style={{ width: 150 }} value={f.store} onChange={(e) => set({ store: e.target.value })}>
+            <option value="">Baked + Firestore</option><option value="baked">Baked only</option><option value="firestore">Firestore only</option></select>
+          <label className="inline-check small"><input type="checkbox" checked={hideDupes} onChange={(e) => setHideDupes(e.target.checked)} />Hide Firestore copies of baked questions</label>
           <label className="inline-check small">Reports ≥
             <input type="number" min={0} style={{ width: 70 }} value={f.minReports} onChange={(e) => set({ minReports: Math.max(0, Number(e.target.value) || 0) })} /></label>
         </div>
@@ -138,18 +159,20 @@ export function QuestionBrowser() {
       {all === null && !error && <p className="muted">Loading…</p>}
       {all && (
         <>
-          <p className="muted small">{rows.length} of {all.length} questions{rows.length > 200 ? ' (showing the first 200; the header checkbox selects all matching)' : ''}. Shift-click to select a range.</p>
+          <p className="muted small">{rows.length} of {view.length} questions ({baked.length} baked, {(all ?? []).length} in Firestore{bakedState === 'none' ? '; baked bank not found, run npm run bank' : ''}; baked questions are read-only){rows.length > 200 ? ' (showing the first 200; the header checkbox selects all matching)' : ''}. Shift-click to select a range.</p>
           <div className="table-wrap panel">
             <table>
               <thead><tr><th style={{ width: 28 }}><input type="checkbox" aria-label="Select all matching" checked={allMatchingSelected}
-                onChange={() => setSelected(allMatchingSelected ? new Set() : new Set(rows.map((q) => q.id)))} /></th><th>Type</th><th>Question</th><th>Answer</th><th>Status</th><th>Level</th><th>Difficulty</th><th>Source</th><th>Reports</th></tr></thead>
+                onChange={() => setSelected(allMatchingSelected ? new Set() : new Set(editableRows.map((q) => q.id)))} /></th><th>Type</th><th>Question</th><th>Answer</th><th>Status</th><th>Level</th><th>Difficulty</th><th>Source</th><th>Reports</th></tr></thead>
               <tbody>
                 {shown.map((q, i) => (
                   <tr key={q.id} style={selected.has(q.id) ? { background: 'var(--surface-2)' } : undefined}>
-                    <td><input type="checkbox" aria-label="Select" checked={selected.has(q.id)} readOnly
+                    <td><input type="checkbox" aria-label="Select" disabled={bakedIds.has(q.id)} checked={selected.has(q.id)} readOnly
                       onClick={(e) => toggle(i, e.shiftKey)} /></td>
                     <td>{q.type}</td>
-                    <td><a href={`#/admin/edit/${encodeURIComponent(q.id)}`}>{textOf(q).slice(0, 90)}{textOf(q).length > 90 ? '…' : ''}</a>
+                    <td>{bakedIds.has(q.id)
+                      ? <span title="Baked into the site: edit scripts/bank/data and rebuild">{textOf(q).slice(0, 90)}{textOf(q).length > 90 ? '…' : ''} <span className="badge">baked</span></span>
+                      : <a href={`#/admin/edit/${encodeURIComponent(q.id)}`}>{textOf(q).slice(0, 90)}{textOf(q).length > 90 ? '…' : ''}</a>}
                       <div className="muted small">{q.category} · {q.subcategory}</div></td>
                     <td className="small">{answerOf(q)}</td>
                     <td>{q.status}</td><td>{LEVEL_LABEL[q.level]}</td><td>{DIFFICULTY_LABEL[q.difficulty]}</td><td className="small">{q.source}</td><td>{q.report_count}</td>
