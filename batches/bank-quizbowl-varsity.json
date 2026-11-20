@@ -12,15 +12,14 @@
   "difficulty": "medium",
   "text": "This Venezuelan wrote the Jamaica Letter and delivered the Angostura Address. He won the Battle of Boyacá in 1819 and helped found Gran Colombia. Known as \"El Libertador,\" he helped liberate Venezuela, Colombia, Ecuador, Peru, and Bolivia. For 10 points, name this South American revolutionary.",
   "answer": "Simón Bolívar",
-  "required": null,
+  "required": "Bolívar",
   "alternates": [
    "Simon Bolivar",
    "Bolívar",
-   "Bolivar",
-   "n=Bolívar"
+   "Bolivar"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -37,14 +36,13 @@
   "difficulty": "medium",
   "text": "This ruler's lavish pilgrimage to Mecca in 1324 reportedly depressed the price of gold in Cairo. He ruled over the empire of Mali and sponsored the building of the Djinguereber Mosque in Timbuktu. For 10 points, name this wealthy West African emperor.",
   "answer": "Mansa Musa",
-  "required": null,
+  "required": "Musa",
   "alternates": [
    "Musa",
-   "Kankan Musa",
-   "n=Musa"
+   "Kankan Musa"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -129,13 +127,12 @@
   "difficulty": "hard",
   "text": "After winning the Battle of Sekigahara in 1600, this man was named shogun in 1603 and founded a dynasty that ruled Japan for over 250 years. He ruled from Edo and built a system that required daimyo to spend alternate years in the capital. For 10 points, name this first Tokugawa shogun.",
   "answer": "Tokugawa Ieyasu",
-  "required": null,
+  "required": "Ieyasu",
   "alternates": [
-   "Ieyasu",
-   "n=Ieyasu"
+   "Ieyasu"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -243,13 +240,12 @@
   "difficulty": "medium",
   "text": "This Korean admiral used armored \"turtle ships\" to defeat Japanese fleets during the Imjin War. In 1597 he won the Battle of Myeongnyang with only a dozen ships against hundreds. For 10 points, name this naval hero of the Joseon dynasty.",
   "answer": "Yi Sun-sin",
-  "required": null,
+  "required": "Yi",
   "alternates": [
-   "Yi Sunsin",
-   "n=Yi"
+   "Yi Sunsin"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -497,14 +493,13 @@
   "difficulty": "easy",
   "text": "The Berlin Conference of 1884 and 1885 recognized this man's personal control over a territory in central Africa. Millions died under a brutal rubber-collecting regime, and he was a king of Belgium. For 10 points, name this ruler of the Congo Free State.",
   "answer": "Leopold II",
-  "required": null,
+  "required": "Leopold",
   "alternates": [
    "King Leopold II",
-   "Leopold",
-   "n=Leopold"
+   "Leopold"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -613,13 +608,12 @@
   "difficulty": "hard",
   "text": "The Han emperor Wudi sent this explorer west to seek allies against the Xiongnu. He was held captive for about a decade, and his reports opened up what became the Silk Road. For 10 points, name this Chinese envoy to Central Asia.",
   "answer": "Zhang Qian",
-  "required": null,
+  "required": "Qian",
   "alternates": [
-   "Chang Ch'ien",
-   "n=Qian"
+   "Chang Ch'ien"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -708,14 +702,13 @@
     "text": "Which Argentine general led an army across the Andes in 1817 to liberate Chile?",
     "part_difficulty": "easy",
     "answer": "José de San Martín",
-    "required": null,
+    "required": "Martín",
     "alternates": [
      "San Martin",
-     "Jose de San Martin",
-     "n=Martín"
+     "Jose de San Martin"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -954,15 +947,14 @@
     "text": "Which Turkish leader founded the Republic of Turkey in 1923?",
     "part_difficulty": "easy",
     "answer": "Mustafa Kemal Atatürk",
-    "required": null,
+    "required": "Atatürk",
     "alternates": [
      "Ataturk",
      "Mustafa Kemal",
-     "Kemal Ataturk",
-     "n=Atatürk"
+     "Kemal Ataturk"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -998,14 +990,13 @@
     "text": "Which Argentine president, married to Eva, founded a populist movement named for him?",
     "part_difficulty": "medium",
     "answer": "Juan Perón",
-    "required": null,
+    "required": "Perón",
     "alternates": [
      "Peron",
-     "Juan Peron",
-     "n=Perón"
+     "Juan Peron"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -1057,14 +1048,13 @@
     "text": "Which Portuguese navigator first reached India by sea in 1498?",
     "part_difficulty": "medium",
     "answer": "Vasco da Gama",
-    "required": null,
+    "required": "Gama",
     "alternates": [
      "da Gama",
-     "Gama",
-     "n=Gama"
+     "Gama"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -1101,14 +1091,13 @@
     "text": "Which ruler unified the Hawaiian Islands under one kingdom in 1810?",
     "part_difficulty": "medium",
     "answer": "Kamehameha I",
-    "required": null,
+    "required": "Kamehameha",
     "alternates": [
      "Kamehameha",
-     "Kamehameha the Great",
-     "n=Kamehameha"
+     "Kamehameha the Great"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -1157,14 +1146,13 @@
     "text": "Which Chinese Communist leader proclaimed the People's Republic of China in 1949?",
     "part_difficulty": "medium",
     "answer": "Mao Zedong",
-    "required": null,
+    "required": "Mao",
     "alternates": [
      "Mao Tse-tung",
-     "Mao",
-     "n=Mao"
+     "Mao"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -1172,14 +1160,13 @@
     "text": "Which Japanese emperor's reign, beginning in 1868, gave its name to a period of rapid modernization?",
     "part_difficulty": "medium",
     "answer": "Emperor Meiji",
-    "required": null,
+    "required": "Meiji",
     "alternates": [
      "Meiji",
-     "Mutsuhito",
-     "n=Meiji"
+     "Mutsuhito"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -9722,15 +9709,14 @@
     "text": "Which president defeated Alf Landon in 1936?",
     "part_difficulty": "easy",
     "answer": "Franklin Roosevelt",
-    "required": null,
+    "required": "Roosevelt",
     "alternates": [
      "Franklin D. Roosevelt",
      "FDR",
-     "Roosevelt",
-     "n=Roosevelt"
+     "Roosevelt"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -10474,13 +10460,12 @@
     "text": "Which pope called the First Crusade at Clermont in 1095?",
     "part_difficulty": "medium",
     "answer": "Urban II",
-    "required": null,
+    "required": "II",
     "alternates": [
-     "Pope Urban II",
-     "n=II"
+     "Pope Urban II"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -10488,13 +10473,12 @@
     "text": "Which Capetian king led the Third Crusade with Richard the Lionheart?",
     "part_difficulty": "hard",
     "answer": "Philip II",
-    "required": null,
+    "required": "II",
     "alternates": [
-     "Philip Augustus",
-     "n=II"
+     "Philip Augustus"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -10517,13 +10501,12 @@
     "text": "Which pope excommunicated Martin Luther in 1521?",
     "part_difficulty": "easy",
     "answer": "Leo X",
-    "required": null,
+    "required": "X",
     "alternates": [
-     "Pope Leo X",
-     "n=X"
+     "Pope Leo X"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -10736,14 +10719,13 @@
     "text": "Which German ruler abdicated in November 1918?",
     "part_difficulty": "easy",
     "answer": "Kaiser Wilhelm II",
-    "required": null,
+    "required": "II",
     "alternates": [
      "Wilhelm II",
-     "Kaiser Wilhelm",
-     "n=II"
+     "Kaiser Wilhelm"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -10868,13 +10850,12 @@
     "text": "Which Prussian king, called \"the Great,\" promoted enlightened absolutism and won Silesia?",
     "part_difficulty": "hard",
     "answer": "Frederick the Great",
-    "required": null,
+    "required": "Great",
     "alternates": [
-     "Frederick II",
-     "n=Great"
+     "Frederick II"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -11073,13 +11054,12 @@
   "difficulty": "medium",
   "text": "In 338 BC this king of Macedon defeated Athens and Thebes at Chaeronea. He had reformed the army with the long pike called the sarissa. He was assassinated in 336 by one of his bodyguards. For 10 points, name this father of Alexander.",
   "answer": "Philip II",
-  "required": null,
+  "required": "II",
   "alternates": [
-   "Philip of Macedon",
-   "n=II"
+   "Philip of Macedon"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -11447,13 +11427,12 @@
   "difficulty": "medium",
   "text": "This Chinese general and strategist, said to have served the state of Wu, wrote a treatise on war containing the line \"all warfare is based on deception.\" For 10 points, name this author of The Art of War.",
   "answer": "Sun Tzu",
-  "required": null,
+  "required": "Tzu",
   "alternates": [
-   "Sunzi",
-   "n=Tzu"
+   "Sunzi"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -11516,13 +11495,12 @@
   "difficulty": "hard",
   "text": "This founder of the Mauryan Empire took power around 321 BC after the Nanda dynasty. He later became a Jain monk. His adviser Kautilya wrote the Arthashastra. For 10 points, name this emperor, grandfather of Ashoka.",
   "answer": "Chandragupta Maurya",
-  "required": null,
+  "required": "Maurya",
   "alternates": [
-   "Chandragupta",
-   "n=Maurya"
+   "Chandragupta"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -11640,13 +11618,12 @@
     "text": "Which tribunician reformer proposed agrarian laws and was killed in 133 BC?",
     "part_difficulty": "hard",
     "answer": "Tiberius Gracchus",
-    "required": null,
+    "required": "Gracchus",
     "alternates": [
-     "Tiberius",
-     "n=Gracchus"
+     "Tiberius"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -11780,13 +11757,12 @@
     "text": "Which Roman general destroyed that city in 146 BC?",
     "part_difficulty": "medium",
     "answer": "Scipio Aemilianus",
-    "required": null,
+    "required": "Aemilianus",
     "alternates": [
-     "Scipio",
-     "n=Aemilianus"
+     "Scipio"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12016,13 +11992,12 @@
   "difficulty": "hard",
   "text": "In 755 this general rebelled against the Tang court at the capital of Chang'an, nearly toppling the dynasty. He had been a favorite of Emperor Xuanzong and Yang Guifei. For 10 points, name this rebel, whose name is An.",
   "answer": "An Lushan",
-  "required": null,
+  "required": "Lushan",
   "alternates": [
-   "An Lu-shan",
-   "n=Lushan"
+   "An Lu-shan"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12039,13 +12014,12 @@
   "difficulty": "medium",
   "text": "This Song dynasty chancellor, who served Emperor Shenzong, tried to reform government with measures like the Green Sprouts law. Conservatives under Sima Guang opposed him. For 10 points, name this statesman.",
   "answer": "Wang Anshi",
-  "required": null,
+  "required": "Anshi",
   "alternates": [
-   "Wang An-shih",
-   "n=Anshi"
+   "Wang An-shih"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12085,14 +12059,13 @@
   "difficulty": "hard",
   "text": "In 1185 this man of the Minamoto clan defeated the Taira at Dan-no-ura and became the first shogun in 1192 of the Kamakura shogunate. His wife was Hojo Masako. For 10 points, name this man.",
   "answer": "Minamoto no Yoritomo",
-  "required": null,
+  "required": "Yoritomo",
   "alternates": [
    "Yoritomo",
-   "Minamoto Yoritomo",
-   "n=Yoritomo"
+   "Minamoto Yoritomo"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12199,14 +12172,13 @@
   "difficulty": "hard",
   "text": "This Safavid shah, who ruled from 1588 to 1629, moved the capital to Isfahan and defeated the Uzbeks and Ottomans. He is called \"the Great.\" He used English adventurers like Robert Sherley to modernize his army with artillery. He also settled Armenian merchants in New Julfa near his new capital. For 10 points, name this ruler.",
   "answer": "Shah Abbas I",
-  "required": null,
+  "required": "Abbas",
   "alternates": [
    "Abbas the Great",
-   "Abbas I",
-   "n=Abbas"
+   "Abbas I"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12596,12 +12568,10 @@
   "difficulty": "hard",
   "text": "This Cambodian Communist leader, born Saloth Sar, ruled from 1975 to 1979 and emptied cities. About two million died. He studied in Paris and led a regime that replaced money with forced labor on farms. Vietnam invaded to overthrow it in late 1978. For 10 points, name this leader of the Khmer Rouge.",
   "answer": "Pol Pot",
-  "required": null,
-  "alternates": [
-   "n=Pot"
-  ],
+  "required": "Pot",
+  "alternates": [],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12684,13 +12654,12 @@
     "text": "Which Mongol ruler founded the empire in 1206?",
     "part_difficulty": "easy",
     "answer": "Genghis Khan",
-    "required": null,
+    "required": "Khan",
     "alternates": [
-     "Temujin",
-     "n=Khan"
+     "Temujin"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12698,13 +12667,12 @@
     "text": "Which Mongol khan led the 1241 invasion of Europe?",
     "part_difficulty": "medium",
     "answer": "Batu Khan",
-    "required": null,
+    "required": "Khan",
     "alternates": [
-     "Batu",
-     "n=Khan"
+     "Batu"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12740,13 +12708,12 @@
     "text": "Which Ottoman sultan conquered Constantinople in 1453?",
     "part_difficulty": "easy",
     "answer": "Mehmed II",
-    "required": null,
+    "required": "II",
     "alternates": [
-     "Mehmed the Conqueror",
-     "n=II"
+     "Mehmed the Conqueror"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12848,13 +12815,12 @@
     "text": "Which communist leader founded the People's Republic of China?",
     "part_difficulty": "easy",
     "answer": "Mao Zedong",
-    "required": null,
+    "required": "Zedong",
     "alternates": [
-     "Mao",
-     "n=Zedong"
+     "Mao"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12862,13 +12828,12 @@
     "text": "Which Nationalist leader fled to Taiwan in 1949?",
     "part_difficulty": "medium",
     "answer": "Chiang Kai-shek",
-    "required": null,
+    "required": "Chiang",
     "alternates": [
-     "Chiang",
-     "n=Chiang"
+     "Chiang"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12905,13 +12870,12 @@
     "text": "Which Mughal emperor, son of Jahangir, was deposed by his son Aurangzeb?",
     "part_difficulty": "easy",
     "answer": "Shah Jahan",
-    "required": null,
+    "required": "Jahan",
     "alternates": [
-     "Shahjahan",
-     "n=Jahan"
+     "Shahjahan"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12919,13 +12883,12 @@
     "text": "Which Burmese pro-democracy leader won the 1991 Nobel Peace Prize?",
     "part_difficulty": "medium",
     "answer": "Aung San Suu Kyi",
-    "required": null,
+    "required": "Kyi",
     "alternates": [
-     "Suu Kyi",
-     "n=Kyi"
+     "Suu Kyi"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -12933,13 +12896,12 @@
     "text": "Which Vietnamese Communist military leader won at Dien Bien Phu?",
     "part_difficulty": "hard",
     "answer": "Vo Nguyen Giap",
-    "required": null,
+    "required": "Giap",
     "alternates": [
-     "Giap",
-     "n=Giap"
+     "Giap"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -14457,15 +14419,14 @@
   "difficulty": "medium",
   "text": "This Poet Laureate wrote an elegy for his friend Arthur Hallam titled \"In Memoriam A. H. H.\" He also wrote \"The Charge of the Light Brigade\" and a cycle of poems based on the legends of Camelot. For 10 points, name this Victorian poet.",
   "answer": "Alfred Tennyson",
-  "required": null,
+  "required": "Tennyson",
   "alternates": [
    "Alfred, Lord Tennyson",
    "Lord Tennyson",
-   "Tennyson",
-   "n=Tennyson"
+   "Tennyson"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -16533,13 +16494,12 @@
   "difficulty": "medium",
   "text": "This author gave up medicine after seeing a slide of a Chinese man about to be executed. He wrote \"A Madman's Diary\" and \"The True Story of Ah Q.\" His collection Call to Arms helped begin modern Chinese literature. For 10 points, name this author.",
   "answer": "Lu Xun",
-  "required": null,
+  "required": "Xun",
   "alternates": [
-   "Lu Hsun",
-   "n=Xun"
+   "Lu Hsun"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -16579,13 +16539,12 @@
   "difficulty": "medium",
   "text": "This author set many of his novels in the fictional South Indian town of Malgudi. His works include Swami and Friends, The Guide, and The Financial Expert. For 10 points, name this Indian author, whose brother R. K. Laxman drew the cartoons.",
   "answer": "R. K. Narayan",
-  "required": null,
+  "required": "Narayan",
   "alternates": [
-   "Narayan",
-   "n=Narayan"
+   "Narayan"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -17019,13 +16978,12 @@
   "difficulty": "hard",
   "text": "This Tang dynasty poet lived through the An Lushan Rebellion and wrote of the line \"The nation is broken, yet mountains and rivers remain.\" He was a friend of Li Bai and is often called the \"poet-historian.\" For 10 points, name this Chinese poet.",
   "answer": "Du Fu",
-  "required": null,
+  "required": "Fu",
   "alternates": [
-   "Tu Fu",
-   "n=Fu"
+   "Tu Fu"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -17046,13 +17004,12 @@
     "text": "Which author wrote the novel Kitchen?",
     "part_difficulty": "easy",
     "answer": "Banana Yoshimoto",
-    "required": null,
+    "required": "Yoshimoto",
     "alternates": [
-     "Yoshimoto",
-     "n=Yoshimoto"
+     "Yoshimoto"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -17101,13 +17058,12 @@
     "text": "Which Tang poet is nicknamed the \"Poet Immortal\"?",
     "part_difficulty": "easy",
     "answer": "Li Bai",
-    "required": null,
+    "required": "Bai",
     "alternates": [
-     "Li Po",
-     "n=Bai"
+     "Li Po"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -17115,13 +17071,12 @@
     "text": "Which Chinese author won the 2012 Nobel Prize and wrote Red Sorghum?",
     "part_difficulty": "medium",
     "answer": "Mo Yan",
-    "required": null,
+    "required": "Yan",
     "alternates": [
-     "Yan",
-     "n=Yan"
+     "Yan"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -17224,13 +17179,12 @@
     "text": "Which Brazilian author wrote Dom Casmurro?",
     "part_difficulty": "medium",
     "answer": "Machado de Assis",
-    "required": null,
+    "required": "Assis",
     "alternates": [
-     "Assis",
-     "n=Assis"
+     "Assis"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -17398,13 +17352,12 @@
     "text": "Which fourteenth-century historian wrote the Muqaddimah?",
     "part_difficulty": "hard",
     "answer": "Ibn Khaldun",
-    "required": null,
+    "required": "Khaldun",
     "alternates": [
-     "Khaldun",
-     "n=Khaldun"
+     "Khaldun"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -23562,13 +23515,12 @@
   "difficulty": "easy",
   "text": "This student of Parmenides devised arguments against plurality and motion, including one in which a swift runner can never overtake a slow tortoise with a head start. Another says that an arrow in flight is always at rest at each instant. Plato depicts him in a dialogue with the elderly Parmenides. For 10 points, name this Eleatic philosopher of paradoxes.",
   "answer": "Zeno of Elea",
-  "required": null,
+  "required": "Elea",
   "alternates": [
-   "Zeno",
-   "n=Elea"
+   "Zeno"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -23711,13 +23663,12 @@
   "difficulty": "medium",
   "text": "The Outlines of Pyrrhonism and Against the Mathematicians are by this physician and skeptic of the second century AD. His works are the main surviving source for ancient skepticism, including the Ten Modes of Aenesidemus. He argued that suspension of judgment leads to tranquility. For 10 points, name this author of the Outlines of Pyrrhonism.",
   "answer": "Sextus Empiricus",
-  "required": null,
+  "required": "Empiricus",
   "alternates": [
-   "Sextus",
-   "n=Empiricus"
+   "Sextus"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -23778,14 +23729,13 @@
   "difficulty": "medium",
   "text": "This Jewish thinker from Egypt applied allegorical readings to the Torah and described the Logos as an intermediary between God and creation. He led a delegation of Alexandrian Jews to the emperor Caligula. He wrote On the Creation of the World and Allegorical Interpretation. For 10 points, name this first-century philosopher who blended Platonism with Judaism.",
   "answer": "Philo of Alexandria",
-  "required": null,
+  "required": "Alexandria",
   "alternates": [
    "Philo",
-   "Philo Judaeus",
-   "n=Alexandria"
+   "Philo Judaeus"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -23936,14 +23886,13 @@
   "difficulty": "hard",
   "text": "This Chinese Legalist, a student of Xunzi, argued that a ruler should combine fa, or law, shu, or technique, and shi, or positional power. The King of Qin admired his writings, but he died in prison after being slandered by Li Si. His work includes parables such as the man who waited by a stump for another rabbit. For 10 points, name this author of a book that bears his name.",
   "answer": "Han Feizi",
-  "required": null,
+  "required": "Feizi",
   "alternates": [
    "Han Fei",
-   "Han Fei Tzu",
-   "n=Feizi"
+   "Han Fei Tzu"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -24958,13 +24907,12 @@
   "difficulty": "easy",
   "text": "This American wrote The Varieties of Religious Experience and a pioneering textbook, The Principles of Psychology. He popularized the term \"stream of consciousness\" and defended the \"will to believe.\" His brother was the novelist Henry. For 10 points, name this Harvard pragmatist.",
   "answer": "William James",
-  "required": null,
+  "required": "James",
   "alternates": [
-   "James",
-   "n=James"
+   "James"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -25026,15 +24974,14 @@
   "difficulty": "medium",
   "text": "This Cambridge philosopher's Principia Ethica argued that \"good\" is a simple, indefinable property. He called attempts to define it in natural terms the \"naturalistic fallacy\" and posed the \"open question\" argument. In \"Proof of an External World,\" he held up his hands as evidence. For 10 points, name this British analytic philosopher.",
   "answer": "G. E. Moore",
-  "required": null,
+  "required": "Moore",
   "alternates": [
    "Moore",
    "George Edward Moore",
-   "George Moore",
-   "n=Moore"
+   "George Moore"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -25473,14 +25420,13 @@
     "text": "Which anthropologist wrote Tristes Tropiques and The Savage Mind?",
     "part_difficulty": "medium",
     "answer": "Claude Levi-Strauss",
-    "required": null,
+    "required": "Strauss",
     "alternates": [
      "Levi-Strauss",
-     "Lévi-Strauss",
-     "n=Strauss"
+     "Lévi-Strauss"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -25751,15 +25697,14 @@
   "difficulty": "easy",
   "text": "This Franciscan friar from a village in Surrey was summoned to Avignon in 1324 and fled to the court of Louis of Bavaria in Munich. He wrote the Summa Logicae and defended the view that universals are only names, not real things. He also argued against the pope in the poverty controversy. For 10 points, name this English scholastic philosopher.",
   "answer": "William of Ockham",
-  "required": null,
+  "required": "Ockham",
   "alternates": [
    "William of Occam",
    "Ockham",
-   "Occam",
-   "n=Ockham"
+   "Occam"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -25888,15 +25833,14 @@
   "difficulty": "medium",
   "text": "This Persian thinker, whose crisis of faith around 1095 led him to leave a teaching post at the Nizamiyya in Baghdad, attacked the Aristotelians in The Incoherence of the Philosophers. His Revival of the Religious Sciences defends Sufism within Sunni orthodoxy. He argued that causes are not necessary connections. For 10 points, name this Muslim theologian whose critic was Averroes.",
   "answer": "Al-Ghazali",
-  "required": null,
+  "required": "Ghazali",
   "alternates": [
    "Ghazali",
    "Abu Hamid al-Ghazali",
-   "al-Ghazzali",
-   "n=Ghazali"
+   "al-Ghazzali"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26101,14 +26045,13 @@
   "difficulty": "medium",
   "text": "This Italian wrote a Latin Oration that begins with the idea that human beings have no fixed nature and may shape themselves. At age twenty-three, he proposed nine hundred theses for public debate in Rome in 1486. The Church condemned some of his theses. For 10 points, name this Florentine author of the Oration on the Dignity of Man.",
   "answer": "Pico della Mirandola",
-  "required": null,
+  "required": "Mirandola",
   "alternates": [
    "Giovanni Pico della Mirandola",
-   "Pico",
-   "n=Mirandola"
+   "Pico"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26145,14 +26088,13 @@
   "difficulty": "hard",
   "text": "This Franciscan from Scotland, called the Subtle Doctor, argued that individuality comes from \"haecceity,\" or thisness. He held that being is univocal when applied to God and creatures and emphasized the primacy of the will. Fidelity to the Immaculate Conception is associated with him. For 10 points, name this scholastic whose name gives us the word \"dunce.\"",
   "answer": "Duns Scotus",
-  "required": null,
+  "required": "Scotus",
   "alternates": [
    "John Duns Scotus",
-   "Scotus",
-   "n=Scotus"
+   "Scotus"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26191,15 +26133,14 @@
   "difficulty": "hard",
   "text": "This cardinal from Kues wrote De docta ignorantia, or On Learned Ignorance, which says that human knowledge of God can only be conjecture. He taught the \"coincidence of opposites\" in the infinite and described the universe as having no fixed center. For 10 points, name this fifteenth-century German philosopher.",
   "answer": "Nicholas of Cusa",
-  "required": null,
+  "required": "Cusa",
   "alternates": [
    "Nicolaus Cusanus",
    "Nicholas Cusanus",
-   "Cusanus",
-   "n=Cusa"
+   "Cusanus"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26332,13 +26273,12 @@
   "difficulty": "hard",
   "text": "This twelfth-century Neo-Confucian of the Song dynasty selected the Four Books as the core of Confucian education. He taught that all things are composed of li, or principle, and qi, or material force. His method of \"investigation of things\" influenced East Asian thought for centuries. For 10 points, name this scholar whose commentaries became the basis of civil service examinations.",
   "answer": "Zhu Xi",
-  "required": null,
+  "required": "Xi",
   "alternates": [
-   "Chu Hsi",
-   "n=Xi"
+   "Chu Hsi"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26355,14 +26295,13 @@
   "difficulty": "hard",
   "text": "This Ming dynasty Neo-Confucian is said to have achieved enlightenment while in exile at Longchang. He taught the unity of knowledge and action and held that \"innate knowing,\" or liangzhi, is within the mind. His School of Mind opposed Zhu Xi's view. For 10 points, name this Chinese thinker.",
   "answer": "Wang Yangming",
-  "required": null,
+  "required": "Yangming",
   "alternates": [
    "Wang Shouren",
-   "Wang Yang-ming",
-   "n=Yangming"
+   "Wang Yang-ming"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26379,14 +26318,13 @@
   "difficulty": "hard",
   "text": "This Japanese philosopher founded the Kyoto School and wrote An Inquiry into the Good, which develops the idea of \"pure experience.\" He later developed a \"logic of place.\" He walked daily along a canal path that now bears his name. For 10 points, name this philosopher who combined Zen with Western thought.",
   "answer": "Nishida Kitaro",
-  "required": null,
+  "required": "Nishida",
   "alternates": [
    "Kitaro Nishida",
-   "Nishida",
-   "n=Nishida"
+   "Nishida"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26880,14 +26818,13 @@
   "difficulty": "medium",
   "text": "This Dominican friar's five ways attempt to prove God's existence from motion, causation, contingency, degrees of perfection, and design. He adapted Aristotle in a work left unfinished after a mystical experience in 1273. For 10 points, name this scholastic author of the Summa Theologica.",
   "answer": "Thomas Aquinas",
-  "required": null,
+  "required": "Aquinas",
   "alternates": [
    "Saint Thomas Aquinas",
-   "Aquinas",
-   "n=Aquinas"
+   "Aquinas"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27168,15 +27105,14 @@
   "difficulty": "medium",
   "text": "This Pharisee, born in Tarsus, was struck blind on the road to Damascus after a vision. His letters to the Romans, Galatians, and Corinthians make up a large part of the New Testament. For 10 points, name this apostle to the Gentiles.",
   "answer": "Paul",
-  "required": null,
+  "required": "Paul",
   "alternates": [
    "Saint Paul",
    "Paul the Apostle",
-   "Saul of Tarsus",
-   "n=Paul"
+   "Saul of Tarsus"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27417,14 +27353,13 @@
   "difficulty": "medium",
   "text": "This Swiss reformer of Zurich, a contemporary of Luther, held that the Eucharist is purely symbolic. He died fighting at the Battle of Kappel in 1531. For 10 points, name this priest who began the Reformation in Switzerland.",
   "answer": "Huldrych Zwingli",
-  "required": null,
+  "required": "Zwingli",
   "alternates": [
    "Ulrich Zwingli",
-   "Zwingli",
-   "n=Zwingli"
+   "Zwingli"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27535,14 +27470,13 @@
     "text": "Which Roman emperor called the Council of Nicaea in 325?",
     "part_difficulty": "easy",
     "answer": "Constantine",
-    "required": null,
+    "required": "Constantine",
     "alternates": [
      "Constantine the Great",
-     "Constantine I",
-     "n=Constantine"
+     "Constantine I"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -27550,13 +27484,12 @@
     "text": "Which bishop of Alexandria opposed Arius at Nicaea?",
     "part_difficulty": "medium",
     "answer": "Athanasius",
-    "required": null,
+    "required": "Athanasius",
     "alternates": [
-     "Athanasius of Alexandria",
-     "n=Athanasius"
+     "Athanasius of Alexandria"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -27603,13 +27536,12 @@
     "text": "Which Dutch humanist published a Greek New Testament in 1516 and wrote In Praise of Folly?",
     "part_difficulty": "medium",
     "answer": "Desiderius Erasmus",
-    "required": null,
+    "required": "Erasmus",
     "alternates": [
-     "Erasmus",
-     "n=Erasmus"
+     "Erasmus"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -27699,12 +27631,10 @@
     "text": "Which gospel writer was a tax collector, according to tradition?",
     "part_difficulty": "easy",
     "answer": "Matthew",
-    "required": null,
-    "alternates": [
-     "n=Matthew"
-    ],
+    "required": "Matthew",
+    "alternates": [],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -28074,14 +28004,13 @@
   "difficulty": "medium",
   "text": "Born Israel ben Eliezer in the eighteenth century in Podolia, this healer was known as \"Master of the Good Name.\" He taught joyful prayer and the presence of God in all things. For 10 points, name this founder of Hasidism.",
   "answer": "Baal Shem Tov",
-  "required": null,
+  "required": "Tov",
   "alternates": [
    "Besht",
-   "Israel ben Eliezer",
-   "n=Tov"
+   "Israel ben Eliezer"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -28469,14 +28398,13 @@
   "difficulty": "hard",
   "text": "This Hasidic rebbe, a great-grandson of the Baal Shem Tov, told allegorical stories such as the tale of the seven beggars. He taught that it is a great mitzvah to always be happy and that one should speak to God in one's own words. His followers still gather at his grave in Uman for Rosh Hashanah. For 10 points, name this founder of the Breslov movement.",
   "answer": "Nachman of Breslov",
-  "required": null,
+  "required": "Nachman",
   "alternates": [
    "Rebbe Nachman",
-   "Nachman",
-   "n=Nachman"
+   "Nachman"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -28817,13 +28745,12 @@
     "text": "Which Jewish philosopher of Alexandria blended Plato with scripture?",
     "part_difficulty": "hard",
     "answer": "Philo",
-    "required": null,
+    "required": "Philo",
     "alternates": [
-     "Philo of Alexandria",
-     "n=Philo"
+     "Philo of Alexandria"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -29016,13 +28943,12 @@
     "text": "Which Polish-born American rabbi wrote The Sabbath and led civil rights marches with King?",
     "part_difficulty": "medium",
     "answer": "Abraham Joshua Heschel",
-    "required": null,
+    "required": "Heschel",
     "alternates": [
-     "Heschel",
-     "n=Heschel"
+     "Heschel"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -29077,13 +29003,12 @@
   "difficulty": "medium",
   "text": "This Andalusian judge from Cordoba wrote the Incoherence of the Incoherence in reply to al-Ghazali. His commentaries on Aristotle made him known in Latin Europe as \"the Commentator.\" For 10 points, name this philosopher, also called Ibn Rushd.",
   "answer": "Averroes",
-  "required": null,
+  "required": "Rushd",
   "alternates": [
-   "Ibn Rushd",
-   "n=Rushd"
+   "Ibn Rushd"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29100,15 +29025,14 @@
   "difficulty": "medium",
   "text": "This Persian scholar left a teaching post in Baghdad after a spiritual crisis and wrote a work that attacked the philosophers on twenty points. His Revival of the Religious Sciences links law and mysticism. For 10 points, name this author of The Incoherence of the Philosophers.",
   "answer": "al-Ghazali",
-  "required": null,
+  "required": "Ghazali",
   "alternates": [
    "Ghazali",
    "Al-Ghazali",
-   "Algazel",
-   "n=Ghazali"
+   "Algazel"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29125,13 +29049,12 @@
   "difficulty": "hard",
   "text": "This fourteenth-century scholar from Tunis wrote the Muqaddimah, an introduction to history. He discussed asabiyyah, or group solidarity, as a force that rises and declines in dynasties. For 10 points, name this historian.",
   "answer": "Ibn Khaldun",
-  "required": null,
+  "required": "Khaldun",
   "alternates": [
-   "Khaldun",
-   "n=Khaldun"
+   "Khaldun"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29148,13 +29071,12 @@
   "difficulty": "easy",
   "text": "This Moroccan traveler of the fourteenth century journeyed for nearly thirty years across Africa, Asia, and the Middle East. He dictated an account called the Rihla and visited Mali and China. For 10 points, name this man.",
   "answer": "Ibn Battuta",
-  "required": null,
+  "required": "Battuta",
   "alternates": [
-   "Battuta",
-   "n=Battuta"
+   "Battuta"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29375,14 +29297,13 @@
   "difficulty": "easy",
   "text": "This eighteenth-century reformer from the Najd preached strict monotheism and attacked tomb veneration. He allied with Muhammad ibn Saud in 1744. For 10 points, name this figure whose followers are called Wahhabis.",
   "answer": "Muhammad ibn Abd al-Wahhab",
-  "required": null,
+  "required": "Wahhab",
   "alternates": [
    "Ibn Abd al-Wahhab",
-   "Abd al-Wahhab",
-   "n=Wahhab"
+   "Abd al-Wahhab"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29399,13 +29320,12 @@
   "difficulty": "medium",
   "text": "This Hanbali jurist, born in Harran in 1263, wrote fatwas against the Mongols and the excesses of Sufism. His ideas influenced later reformers. For 10 points, name this scholar of Damascus.",
   "answer": "Ibn Taymiyya",
-  "required": null,
+  "required": "Taymiyya",
   "alternates": [
-   "Ibn Taymiyyah",
-   "n=Taymiyya"
+   "Ibn Taymiyyah"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29582,13 +29502,12 @@
   "difficulty": "hard",
   "text": "This former Ethiopian slave, a companion of Muhammad, became the first muezzin. According to tradition he was tortured in Mecca, with a heavy rock laid on his chest in the heat, for refusing to renounce his faith. He was freed by Abu Bakr and was known for his beautiful voice. For 10 points, name this man.",
   "answer": "Bilal",
-  "required": null,
+  "required": "Bilal",
   "alternates": [
-   "Bilal ibn Rabah",
-   "n=Bilal"
+   "Bilal ibn Rabah"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29629,14 +29548,13 @@
   "difficulty": "medium",
   "text": "This Sufi mystic of Baghdad, executed in 922, proclaimed \"I am the Truth.\" He was accused of heresy and crucified. He studied under Junayd, wrote the Kitab al-Tawasin, and traveled widely before his trial. For 10 points, name this man.",
   "answer": "al-Hallaj",
-  "required": null,
+  "required": "Hallaj",
   "alternates": [
    "Mansur al-Hallaj",
-   "Hallaj",
-   "n=Hallaj"
+   "Hallaj"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29653,13 +29571,12 @@
   "difficulty": "medium",
   "text": "This Andalusian mystic, called \"the greatest master,\" wrote the Meccan Revelations. His doctrine of the unity of being influenced later Sufis. For 10 points, name this author of Bezels of Wisdom.",
   "answer": "Ibn Arabi",
-  "required": null,
+  "required": "Arabi",
   "alternates": [
-   "Ibn al-Arabi",
-   "n=Arabi"
+   "Ibn al-Arabi"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29676,14 +29593,13 @@
   "difficulty": "easy",
   "text": "This wife of Muhammad, daughter of Abu Bakr, was said to have been nine at her marriage. She narrated many hadith and led forces at the Battle of the Camel in 656. For 10 points, name this woman.",
   "answer": "Aisha",
-  "required": null,
+  "required": "Aisha",
   "alternates": [
    "Ayesha",
-   "A'isha",
-   "n=Aisha"
+   "A'isha"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29737,13 +29653,12 @@
     "text": "Which philosopher of Baghdad, called the \"philosopher of the Arabs,\" wrote on the intellect and arithmetic?",
     "part_difficulty": "medium",
     "answer": "al-Kindi",
-    "required": null,
+    "required": "Kindi",
     "alternates": [
-     "Kindi",
-     "n=Kindi"
+     "Kindi"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -29751,13 +29666,12 @@
     "text": "Which tenth-century philosopher, called the \"Second Teacher,\" wrote The Virtuous City?",
     "part_difficulty": "hard",
     "answer": "al-Farabi",
-    "required": null,
+    "required": "Farabi",
     "alternates": [
-     "Farabi",
-     "n=Farabi"
+     "Farabi"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -29891,12 +29805,10 @@
     "text": "Which close friend of Muhammad became the first caliph?",
     "part_difficulty": "easy",
     "answer": "Abu Bakr",
-    "required": null,
-    "alternates": [
-     "n=Bakr"
-    ],
+    "required": "Bakr",
+    "alternates": [],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -29904,13 +29816,12 @@
     "text": "Which general, known as the \"Sword of God,\" led conquests under the first two caliphs?",
     "part_difficulty": "medium",
     "answer": "Khalid ibn al-Walid",
-    "required": null,
+    "required": "Walid",
     "alternates": [
-     "Khalid",
-     "n=Walid"
+     "Khalid"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -29918,13 +29829,12 @@
     "text": "Which companion, a Persian, suggested digging a trench at the 627 Battle of the Trench?",
     "part_difficulty": "hard",
     "answer": "Salman the Persian",
-    "required": null,
+    "required": "Persian",
     "alternates": [
-     "Salman al-Farisi",
-     "n=Persian"
+     "Salman al-Farisi"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -30105,14 +30015,13 @@
     "text": "Which sultan conquered Constantinople in 1453?",
     "part_difficulty": "easy",
     "answer": "Mehmed II",
-    "required": null,
+    "required": "Mehmed",
     "alternates": [
      "Mehmed the Conqueror",
-     "Mehmet II",
-     "n=Mehmed"
+     "Mehmet II"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -30793,13 +30702,12 @@
   "difficulty": "hard",
   "text": "This fifth Sikh guru compiled the Adi Granth and built the Harmandir Sahib at Amritsar. According to tradition he invited the Muslim saint Mian Mir to lay the temple's foundation. He was executed by the Mughal emperor Jahangir. For 10 points, name this first Sikh martyr.",
   "answer": "Guru Arjan",
-  "required": null,
+  "required": "Arjan",
   "alternates": [
-   "Arjan Dev",
-   "n=Arjan"
+   "Arjan Dev"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -30953,13 +30861,12 @@
     "text": "Which Brahmo Samaj founder, called the father of modern India, opposed sati?",
     "part_difficulty": "hard",
     "answer": "Ram Mohan Roy",
-    "required": null,
+    "required": "Roy",
     "alternates": [
-     "Rammohan Roy",
-     "n=Roy"
+     "Rammohan Roy"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -31166,13 +31073,12 @@
     "text": "Which Sikh guru was executed by Aurangzeb in 1675 for defending Hindu Kashmiri Pandits?",
     "part_difficulty": "hard",
     "answer": "Guru Tegh Bahadur",
-    "required": null,
+    "required": "Bahadur",
     "alternates": [
-     "Tegh Bahadur",
-     "n=Bahadur"
+     "Tegh Bahadur"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -31330,14 +31236,13 @@
   "difficulty": "hard",
   "text": "This twelfth-century merchant of Lyon gave away his wealth to preach in poverty and had his teachings condemned in 1184. His followers, who rejected purgatory, later joined the Protestant churches. For 10 points, name this namesake of a movement.",
   "answer": "Peter Waldo",
-  "required": null,
+  "required": "Waldo",
   "alternates": [
    "Valdes",
-   "Waldo",
-   "n=Waldo"
+   "Waldo"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -31857,14 +31762,13 @@
   "difficulty": "easy",
   "text": "This Bengali teacher, born Abhay Charan De, founded the International Society for Krishna Consciousness in New York in 1966. He translated the Bhagavad Gita with commentary. For 10 points, name this swami.",
   "answer": "A. C. Bhaktivedanta Swami Prabhupada",
-  "required": null,
+  "required": "Prabhupada",
   "alternates": [
    "Prabhupada",
-   "Bhaktivedanta",
-   "n=Prabhupada"
+   "Bhaktivedanta"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -32029,13 +31933,12 @@
     "text": "Which German pietist leader founded the Harmony Society in Pennsylvania?",
     "part_difficulty": "hard",
     "answer": "George Rapp",
-    "required": null,
+    "required": "Rapp",
     "alternates": [
-     "Johann Georg Rapp",
-     "n=Rapp"
+     "Johann Georg Rapp"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -32286,14 +32189,13 @@
     "text": "Which British author of Sherlock Holmes stories became a prominent Spiritualist?",
     "part_difficulty": "medium",
     "answer": "Arthur Conan Doyle",
-    "required": null,
+    "required": "Doyle",
     "alternates": [
      "Conan Doyle",
-     "Doyle",
-     "n=Doyle"
+     "Doyle"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -32329,14 +32231,13 @@
     "text": "Which pharaoh's tomb was discovered by Howard Carter in 1922?",
     "part_difficulty": "easy",
     "answer": "Tutankhamun",
-    "required": null,
+    "required": "Tutankhamun",
     "alternates": [
      "Tutankhamen",
-     "King Tut",
-     "n=Tutankhamun"
+     "King Tut"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -35637,13 +35538,12 @@
     "text": "Which Italian scientist is known for dropping objects and for observing Jupiter's moons?",
     "part_difficulty": "easy",
     "answer": "Galileo Galilei",
-    "required": null,
+    "required": "Galilei",
     "alternates": [
-     "Galileo",
-     "n=Galilei"
+     "Galileo"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -37652,13 +37552,12 @@
     "text": "Which Italian astronomer observed the moons of Jupiter with a telescope?",
     "part_difficulty": "easy",
     "answer": "Galileo Galilei",
-    "required": null,
+    "required": "Galilei",
     "alternates": [
-     "Galileo",
-     "n=Galilei"
+     "Galileo"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -40311,15 +40210,14 @@
   "difficulty": "hard",
   "text": "This Spanish scientist used the Golgi stain to show that the nervous system is made of discrete cells, establishing the neuron doctrine. He shared the 1906 Nobel Prize in Physiology or Medicine with Camillo Golgi. For 10 points, name this father of modern neuroscience, whose drawings of neurons are famous.",
   "answer": "Santiago Ramon y Cajal",
-  "required": null,
+  "required": "Cajal",
   "alternates": [
    "Ramon y Cajal",
    "Cajal",
-   "Santiago Ramón y Cajal",
-   "n=Cajal"
+   "Santiago Ramón y Cajal"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -40604,15 +40502,14 @@
   "difficulty": "medium",
   "text": "This Dutch scientist, using hand-made microscopes with a single lens, was the first to observe bacteria and protozoa, which he called \"animalcules.\" He also observed red blood cells and spermatozoa. For 10 points, name this \"father of microbiology.\"",
   "answer": "Antonie van Leeuwenhoek",
-  "required": null,
+  "required": "Leeuwenhoek",
   "alternates": [
    "Leeuwenhoek",
    "van Leeuwenhoek",
-   "Anton van Leeuwenhoek",
-   "n=Leeuwenhoek"
+   "Anton van Leeuwenhoek"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -40886,13 +40783,12 @@
     "text": "Which scientist is the only person to win Nobel Prizes in two different sciences, along with her husband sharing a physics prize?",
     "part_difficulty": "easy",
     "answer": "Marie Curie",
-    "required": null,
+    "required": "Curie",
     "alternates": [
-     "Curie",
-     "n=Curie"
+     "Curie"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -45095,14 +44991,13 @@
   "difficulty": "easy",
   "text": "This Chinese leader founded the People's Republic of China in 1949 after the Communist victory over the Nationalists. His writings are collected in the Little Red Book. For 10 points, name this chairman, first name Mao.",
   "answer": "Mao Zedong",
-  "required": null,
+  "required": "Zedong",
   "alternates": [
    "Mao Tse-tung",
-   "Mao",
-   "n=Zedong"
+   "Mao"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -45566,13 +45461,12 @@
   "difficulty": "hard",
   "text": "This British anthropologist's Witchcraft, Oracles and Magic among the Azande showed that beliefs in witchcraft form a coherent system of explanation. He also studied the Nuer of Sudan and wrote about their segmentary lineage system. For 10 points, name this Oxford scholar, first name E. E.",
   "answer": "E. E. Evans-Pritchard",
-  "required": null,
+  "required": "Evans-Pritchard",
   "alternates": [
-   "Evans-Pritchard",
-   "n=Evans-Pritchard"
+   "Evans-Pritchard"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -46263,13 +46157,12 @@
     "text": "Which anthropologist studied the Azande and the Nuer?",
     "part_difficulty": "easy",
     "answer": "E. E. Evans-Pritchard",
-    "required": null,
+    "required": "Evans-Pritchard",
     "alternates": [
-     "Evans-Pritchard",
-     "n=Evans-Pritchard"
+     "Evans-Pritchard"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },

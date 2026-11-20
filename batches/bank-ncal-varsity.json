@@ -9126,14 +9126,13 @@
   "difficulty": "medium",
   "text": "Which Supreme Court justice was the first African American to serve on the Court?",
   "answer": "Thurgood Marshall",
-  "required": null,
+  "required": "Marshall",
   "alternates": [
-   "Marshall",
-   "n dup"
+   "Marshall"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -9171,14 +9170,13 @@
   "difficulty": "medium",
   "text": "Which Chief Justice wrote the opinion in Marbury versus Madison?",
   "answer": "John Marshall",
-  "required": null,
+  "required": "Marshall",
   "alternates": [
-   "Marshall",
-   "n dup"
+   "Marshall"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -10751,14 +10749,13 @@
     "text": "Which second president was the first to occupy the official presidential residence, in 1800?",
     "part_difficulty": "hard",
     "answer": "John Adams",
-    "required": null,
+    "required": "Adams",
     "alternates": [
-     "Adams",
-     "n dup"
+     "Adams"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    }
   ]
@@ -11106,14 +11103,13 @@
     "text": "Which president was the first to be impeached by the House of Representatives?",
     "part_difficulty": "easy",
     "answer": "Andrew Johnson",
-    "required": null,
+    "required": "Johnson",
     "alternates": [
-     "Johnson",
-     "n dup"
+     "Johnson"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    },
    {
@@ -11290,14 +11286,13 @@
     "text": "Which president, nicknamed \"Old Hickory,\" fought against the Second Bank of the United States?",
     "part_difficulty": "easy",
     "answer": "Andrew Jackson",
-    "required": null,
+    "required": "Jackson",
     "alternates": [
-     "Jackson",
-     "n dup"
+     "Jackson"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    },
    {
@@ -14518,13 +14513,12 @@
     "text": "Which Ethiopian emperor was overthrown in 1974?",
     "part_difficulty": "medium",
     "answer": "Haile Selassie",
-    "required": null,
+    "required": "Selassie",
     "alternates": [
-     "Selassie",
-     "n=Selassie"
+     "Selassie"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -15456,14 +15450,13 @@
   "difficulty": "easy",
   "text": "Who wrote \"Wuthering Heights\"?",
   "answer": "Emily Bronte",
-  "required": null,
+  "required": "Bronte",
   "alternates": [
    "Brontë",
-   "Bronte",
-   "n=Bronte"
+   "Bronte"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -15985,14 +15978,13 @@
   "difficulty": "easy",
   "text": "Who wrote the \"Sherlock Holmes\" stories?",
   "answer": "Arthur Conan Doyle",
-  "required": null,
+  "required": "Doyle",
   "alternates": [
    "Doyle",
-   "Conan Doyle",
-   "n=Doyle"
+   "Conan Doyle"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -16560,12 +16552,10 @@
   "difficulty": "medium",
   "text": "In \"Macbeth,\" who urges her husband to kill King Duncan?",
   "answer": "Lady Macbeth",
-  "required": null,
-  "alternates": [
-   "n=Macbeth"
-  ],
+  "required": "Macbeth",
+  "alternates": [],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -16900,13 +16890,12 @@
   "difficulty": "medium",
   "text": "Which Victorian poet wrote \"Sonnets from the Portuguese\"?",
   "answer": "Elizabeth Barrett Browning",
-  "required": null,
+  "required": "Browning",
   "alternates": [
-   "Barrett Browning",
-   "n=Browning"
+   "Barrett Browning"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -24333,13 +24322,12 @@
     "text": "Which Victorian poet wrote the verse novel Aurora Leigh?",
     "part_difficulty": "hard",
     "answer": "Elizabeth Barrett Browning",
-    "required": null,
+    "required": "Browning",
     "alternates": [
-     "Barrett Browning",
-     "n=Browning"
+     "Barrett Browning"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -26493,14 +26481,13 @@
   "difficulty": "medium",
   "text": "Which Peruvian author wrote The Time of the Hero and won the 2010 Nobel Prize?",
   "answer": "Mario Vargas Llosa",
-  "required": null,
+  "required": "Llosa",
   "alternates": [
    "Vargas Llosa",
-   "Llosa",
-   "n=Llosa"
+   "Llosa"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26673,13 +26660,12 @@
   "difficulty": "medium",
   "text": "Which Chinese author wrote Dream of the Red Chamber?",
   "answer": "Cao Xueqin",
-  "required": null,
+  "required": "Xueqin",
   "alternates": [
-   "Cao",
-   "n=Xueqin"
+   "Cao"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -26696,13 +26682,12 @@
   "difficulty": "medium",
   "text": "Which Chinese author wrote The Real Story of Ah Q and \"Diary of a Madman\"?",
   "answer": "Lu Xun",
-  "required": null,
+  "required": "Xun",
   "alternates": [
-   "Lu",
-   "n=Xun"
+   "Lu"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27072,14 +27057,13 @@
   "difficulty": "hard",
   "text": "Which Brazilian author wrote The Posthumous Memoirs of Brás Cubas?",
   "answer": "Machado de Assis",
-  "required": null,
+  "required": "Assis",
   "alternates": [
    "Assis",
-   "Joaquim Maria Machado de Assis",
-   "n=Assis"
+   "Joaquim Maria Machado de Assis"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27478,14 +27462,13 @@
   "difficulty": "hard",
   "text": "Which Cuban author wrote Three Trapped Tigers?",
   "answer": "Guillermo Cabrera Infante",
-  "required": null,
+  "required": "Infante",
   "alternates": [
    "Cabrera Infante",
-   "Infante",
-   "n=Infante"
+   "Infante"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27526,14 +27509,13 @@
   "difficulty": "hard",
   "text": "Which Kenyan author wrote A Grain of Wheat and Petals of Blood?",
   "answer": "Ngũgĩ wa Thiong'o",
-  "required": null,
+  "required": "Thiong'o",
   "alternates": [
    "Ngugi wa Thiong'o",
-   "Ngugi",
-   "n=Thiong'o"
+   "Ngugi"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -28495,13 +28477,12 @@
     "text": "Which French poet wrote Fables, including \"The Cicada and the Ant\"?",
     "part_difficulty": "hard",
     "answer": "Jean de La Fontaine",
-    "required": null,
+    "required": "Fontaine",
     "alternates": [
-     "La Fontaine",
-     "n=Fontaine"
+     "La Fontaine"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -30161,13 +30142,12 @@
   "difficulty": "medium",
   "text": "Which Swiss-French architect designed the Villa Savoye and the Unité d'Habitation?",
   "answer": "Le Corbusier",
-  "required": null,
+  "required": "Corbusier",
   "alternates": [
-   "Corbusier",
-   "n=Corbusier"
+   "Corbusier"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -30184,14 +30164,13 @@
   "difficulty": "medium",
   "text": "Which German-American architect, famous for \"less is more,\" designed the Seagram Building?",
   "answer": "Ludwig Mies van der Rohe",
-  "required": null,
+  "required": "Rohe",
   "alternates": [
    "Mies van der Rohe",
-   "Mies",
-   "n=Rohe"
+   "Mies"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -30272,13 +30251,12 @@
   "difficulty": "medium",
   "text": "Which English architect introduced Palladian style to England with the Banqueting House in London?",
   "answer": "Inigo Jones",
-  "required": null,
+  "required": "Jones",
   "alternates": [
-   "Jones",
-   "n=Jones"
+   "Jones"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -30422,13 +30400,12 @@
   "difficulty": "medium",
   "text": "Which Byzantine emperor ordered the construction of the Hagia Sophia?",
   "answer": "Justinian",
-  "required": null,
+  "required": "Justinian",
   "alternates": [
-   "Justinian I",
-   "n=Justinian"
+   "Justinian I"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -31131,13 +31108,12 @@
   "difficulty": "hard",
   "text": "Which architect designed the Chrysler Building?",
   "answer": "William Van Alen",
-  "required": null,
+  "required": "Alen",
   "alternates": [
-   "Van Alen",
-   "n=Alen"
+   "Van Alen"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -31792,13 +31768,12 @@
     "text": "The Taj Mahal was built as a tomb for which empress?",
     "part_difficulty": "medium",
     "answer": "Mumtaz Mahal",
-    "required": null,
+    "required": "Mahal",
     "alternates": [
-     "Mumtaz",
-     "n=Mahal"
+     "Mumtaz"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -32171,14 +32146,13 @@
     "text": "Which tsar, known as \"the Terrible,\" commissioned Saint Basil's Cathedral?",
     "part_difficulty": "medium",
     "answer": "Ivan IV",
-    "required": null,
+    "required": "IV",
     "alternates": [
      "Ivan the Terrible",
-     "Ivan the Fourth",
-     "n=IV"
+     "Ivan the Fourth"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -32292,15 +32266,14 @@
     "text": "Which first emperor of a unified realm joined earlier walls into one defense?",
     "part_difficulty": "hard",
     "answer": "Qin Shi Huang",
-    "required": null,
+    "required": "Huang",
     "alternates": [
      "Shi Huangdi",
      "Qin Shihuang",
-     "Shi Huang Di",
-     "n=Huang"
+     "Shi Huang Di"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -32681,15 +32654,14 @@
     "text": "The temples of Abu Simbel were carved to honor which pharaoh?",
     "part_difficulty": "easy",
     "answer": "Ramses II",
-    "required": null,
+    "required": "II",
     "alternates": [
      "Ramesses II",
      "Ramses the Great",
-     "Ramses the Second",
-     "n=II"
+     "Ramses the Second"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -33385,14 +33357,13 @@
   "difficulty": "easy",
   "text": "In \"Phantom of the Opera,\" which young soprano does the Phantom love?",
   "answer": "Christine Daaé",
-  "required": null,
+  "required": "Daae",
   "alternates": [
    "Christine",
-   "Christine Daae",
-   "n=Daae"
+   "Christine Daae"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -34543,14 +34514,13 @@
   "difficulty": "hard",
   "text": "Which Austrian composer of waltzes wrote the operetta \"Die Fledermaus\"?",
   "answer": "Johann Strauss II",
-  "required": null,
+  "required": "II",
   "alternates": [
    "Johann Strauss",
-   "Strauss",
-   "n=II"
+   "Strauss"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -35925,13 +35895,12 @@
   "difficulty": "hard",
   "text": "Which American composer wrote the opera \"Nixon in China\"?",
   "answer": "John Adams",
-  "required": null,
+  "required": "Adams",
   "alternates": [
-   "Adams",
-   "n=Adams"
+   "Adams"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -37044,14 +37013,13 @@
   "difficulty": "easy",
   "text": "Which French king, known as the Sun King, ruled for 72 years?",
   "answer": "Louis XIV",
-  "required": null,
+  "required": "XIV",
   "alternates": [
    "Louis the Fourteenth",
-   "Louis 14",
-   "n=XIV"
+   "Louis 14"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -37352,14 +37320,13 @@
   "difficulty": "medium",
   "text": "Which French king was beheaded by guillotine in 1793?",
   "answer": "Louis XVI",
-  "required": null,
+  "required": "XVI",
   "alternates": [
    "Louis the Sixteenth",
-   "Louis 16",
-   "n=XVI"
+   "Louis 16"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -38207,13 +38174,12 @@
   "difficulty": "hard",
   "text": "Which seventeenth-century French writer is famous for his animal fables?",
   "answer": "Jean de La Fontaine",
-  "required": null,
+  "required": "Fontaine",
   "alternates": [
-   "La Fontaine",
-   "n=Fontaine"
+   "La Fontaine"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -39229,15 +39195,14 @@
     "text": "Which French prince did she help to be crowned at Reims?",
     "part_difficulty": "hard",
     "answer": "Charles VII",
-    "required": null,
+    "required": "VII",
     "alternates": [
      "The Dauphin",
      "Charles the Seventh",
-     "Charles",
-     "n=VII"
+     "Charles"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -40260,13 +40225,12 @@
     "text": "Which farmer serves as the knight's squire?",
     "part_difficulty": "medium",
     "answer": "Sancho Panza",
-    "required": null,
+    "required": "Panza",
     "alternates": [
-     "Sancho",
-     "n=Panza"
+     "Sancho"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -40330,15 +40294,14 @@
     "text": "Which Aztec emperor was ruling when the Spanish arrived?",
     "part_difficulty": "hard",
     "answer": "Moctezuma II",
-    "required": null,
+    "required": "II",
     "alternates": [
      "Montezuma II",
      "Moctezuma",
-     "Montezuma",
-     "n=II"
+     "Montezuma"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -42435,14 +42398,13 @@
   "difficulty": "medium",
   "text": "Which principle states that pressure applied to an enclosed fluid is transmitted equally throughout the fluid?",
   "answer": "Pascal's principle",
-  "required": null,
+  "required": "Pascal",
   "alternates": [
    "Pascal's law",
-   "Pascal",
-   "n=Pascal"
+   "Pascal"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -42459,14 +42421,13 @@
   "difficulty": "medium",
   "text": "Which principle states that the buoyant force on an object equals the weight of the fluid it displaces?",
   "answer": "Archimedes' principle",
-  "required": null,
+  "required": "Archimedes",
   "alternates": [
    "Archimedes",
-   "Archimedes's principle",
-   "n=Archimedes"
+   "Archimedes's principle"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -44828,14 +44789,13 @@
     "text": "Which law states that the force of a spring is proportional to its stretch?",
     "part_difficulty": "easy",
     "answer": "Hooke's law",
-    "required": null,
+    "required": "Hooke",
     "alternates": [
      "Hooke",
-     "Hookes law",
-     "n=Hooke"
+     "Hookes law"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },

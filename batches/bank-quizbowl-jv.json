@@ -173,15 +173,14 @@
   "difficulty": "hard",
   "text": "This Flemish painter used oil glazes to produce intensely detailed pictures. His Ghent Altarpiece was made with his brother Hubert. A convex mirror in the background of his Arnolfini Portrait reflects the room. For 10 points, name this Early Netherlandish painter.",
   "answer": "Jan van Eyck",
-  "required": null,
+  "required": "Eyck",
   "alternates": [
    "Van Eyck",
    "Jan Van Eyck",
-   "Eyck",
-   "n=Eyck"
+   "Eyck"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -265,15 +264,14 @@
   "difficulty": "medium",
   "text": "This French painter depicted the murdered revolutionary Jean-Paul Marat in his bath. His Oath of the Horatii is a prime example of Neoclassicism, and he later served as Napoleon's court painter. For 10 points, name this artist of The Death of Marat.",
   "answer": "Jacques-Louis David",
-  "required": null,
+  "required": "David",
   "alternates": [
    "David",
-   "Jacques Louis David",
-   "n dup"
+   "Jacques Louis David"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -489,16 +487,15 @@
   "difficulty": "hard",
   "text": "This English Romantic painter showed a warship being towed to its last berth in The Fighting Temeraire. His Rain, Steam and Speed depicts a train on a bridge. His later paintings dissolve forms in light. For 10 points, name this artist.",
   "answer": "J. M. W. Turner",
-  "required": null,
+  "required": "Turner",
   "alternates": [
    "Turner",
    "Joseph Mallord William Turner",
-   "William Turner",
-   "n dup"
+   "William Turner"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -991,14 +988,13 @@
     "text": "Which American modernist painted Lucky Strike and Hot Still-Scape for Six Colors?",
     "part_difficulty": "hard",
     "answer": "Stuart Davis",
-    "required": null,
+    "required": "Davis",
     "alternates": [
-     "Davis",
-     "n dup"
+     "Davis"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    }
   ]
@@ -1087,15 +1083,14 @@
     "text": "Which Romanian sculptor made Bird in Space?",
     "part_difficulty": "medium",
     "answer": "Constantin Brâncuși",
-    "required": null,
+    "required": "Brâncuși",
     "alternates": [
      "Brancusi",
      "Constantin Brancusi",
-     "Brâncuși",
-     "n=Brâncuși"
+     "Brâncuși"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -1422,15 +1417,14 @@
   "difficulty": "medium",
   "text": "This French composer wrote a suite for chamber orchestra that includes movements on the elephant, the swan, and fossils. His Symphony No. 3 has a part for organ. For 10 points, name this composer of Danse macabre and Carnival of the Animals.",
   "answer": "Camille Saint-Saëns",
-  "required": null,
+  "required": "Saint-Saëns",
   "alternates": [
    "Saint-Saens",
    "Camille Saint-Saens",
-   "Saint-Saëns",
-   "n=Saint-Saëns"
+   "Saint-Saëns"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -1515,14 +1509,13 @@
   "difficulty": "medium",
   "text": "This trumpeter led a quintet that made Kind of Blue in 1959, with John Coltrane on saxophone. He pioneered cool jazz and later electric jazz fusion with Bitches Brew. For 10 points, name this jazz musician.",
   "answer": "Miles Davis",
-  "required": null,
+  "required": "Davis",
   "alternates": [
-   "Davis",
-   "n dup"
+   "Davis"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -1734,16 +1727,15 @@
   "difficulty": "medium",
   "text": "This Viennese composer was called the \"Waltz King.\" He wrote the Blue Danube and the operetta Die Fledermaus. His father, who wrote the Radetzky March, shared his name. For 10 points, name this composer.",
   "answer": "Johann Strauss II",
-  "required": null,
+  "required": "II",
   "alternates": [
    "Johann Strauss",
    "Strauss",
-   "Johann Strauss the Younger",
-   "n dup"
+   "Johann Strauss the Younger"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -1849,14 +1841,13 @@
     "text": "Which saxophonist, nicknamed Bird, was a leader of bebop?",
     "part_difficulty": "medium",
     "answer": "Charlie Parker",
-    "required": null,
+    "required": "Parker",
     "alternates": [
-     "Parker",
-     "n dup"
+     "Parker"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    },
    {
@@ -1965,14 +1956,13 @@
     "text": "Which Mississippi blues guitarist recorded \"Cross Road Blues\" and died in 1938?",
     "part_difficulty": "hard",
     "answer": "Robert Johnson",
-    "required": null,
+    "required": "Johnson",
     "alternates": [
-     "Johnson",
-     "n dup"
+     "Johnson"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    }
   ]
@@ -4423,14 +4413,13 @@
   "difficulty": "medium",
   "text": "This British scientist at CERN proposed a system of linked hypertext documents in 1989. He wrote the first web browser and server. He created HTML and HTTP. For 10 points, name this inventor of the World Wide Web.",
   "answer": "Tim Berners-Lee",
-  "required": null,
+  "required": "Berners-Lee",
   "alternates": [
    "Berners-Lee",
-   "Timothy Berners-Lee",
-   "n=Berners-Lee"
+   "Timothy Berners-Lee"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -4776,13 +4765,12 @@
   "difficulty": "medium",
   "text": "This Albanian-born nun founded the Missionaries of Charity in Calcutta. She worked among the poor and dying and received the Nobel Peace Prize in 1979. The Catholic Church canonized her in 2016. For 10 points, name this woman.",
   "answer": "Mother Teresa",
-  "required": null,
+  "required": "Teresa",
   "alternates": [
-   "Teresa",
-   "n=Teresa"
+   "Teresa"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -5163,16 +5151,15 @@
   "difficulty": "medium",
   "text": "This North African bishop wrote a spiritual autobiography after a conversion in a garden in Milan, where he heard a child's voice say take up and read. His mother Monica prayed for him, and he had earlier followed the Manichaeans. He also wrote The City of God after the sack of Rome in 410. For 10 points, name this bishop of Hippo, author of the Confessions.",
   "answer": "Augustine of Hippo",
-  "required": null,
+  "required": "Augustine",
   "alternates": [
    "Saint Augustine",
-   "Augustine",
-   "n=Augustine part"
+   "Augustine"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -5302,13 +5289,12 @@
   "difficulty": "medium",
   "text": "This English clergyman and his brother Charles formed a Holy Club at Oxford, whose members were mocked as Methodists for their disciplined habits. After a heartwarming experience at Aldersgate in 1738, he began preaching outdoors to miners and workers. For 10 points, name this founder of Methodism.",
   "answer": "John Wesley",
-  "required": null,
+  "required": "Wesley",
   "alternates": [
-   "Wesley",
-   "n=Wesley"
+   "Wesley"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -5552,14 +5538,13 @@
   "difficulty": "hard",
   "text": "This sixth-century Italian monk founded a monastery at Monte Cassino and wrote a Rule for the monks that stressed prayer, work, and obedience. His twin sister was Scholastica. Monks following the Rule are known by his name. For 10 points, name this saint, the founder of Western monasticism.",
   "answer": "Benedict of Nursia",
-  "required": null,
+  "required": "Benedict",
   "alternates": [
    "Saint Benedict",
-   "Benedict",
-   "n=Benedict"
+   "Benedict"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -5576,16 +5561,15 @@
   "difficulty": "hard",
   "text": "This Basque nobleman was wounded by a cannonball at Pamplona in 1521, and while recovering he read about the lives of the saints. He wrote the Spiritual Exercises and founded the Society of Jesus in 1534. For 10 points, name this saint, the first superior general of the Jesuits.",
   "answer": "Ignatius of Loyola",
-  "required": null,
+  "required": "Loyola",
   "alternates": [
    "Saint Ignatius of Loyola",
-   "Ignatius",
-   "n=Loyola part"
+   "Ignatius"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -5807,14 +5791,13 @@
   "difficulty": "medium",
   "text": "This Archbishop of Canterbury was killed by four knights in his cathedral in 1170 after a quarrel with King Henry II. The king reportedly asked who would rid him of a turbulent priest. Pilgrims in Chaucer's tale travel to his shrine. For 10 points, name this man, later declared a saint.",
   "answer": "Thomas Becket",
-  "required": null,
+  "required": "Becket",
   "alternates": [
    "Becket",
-   "Saint Thomas Becket",
-   "n=Becket"
+   "Saint Thomas Becket"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -5945,14 +5928,13 @@
     "text": "Which Swiss reformer led the Reformation in Zurich?",
     "part_difficulty": "easy",
     "answer": "Huldrych Zwingli",
-    "required": null,
+    "required": "Zwingli",
     "alternates": [
      "Ulrich Zwingli",
-     "Zwingli",
-     "n=Zwingli"
+     "Zwingli"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -5973,16 +5955,15 @@
     "text": "Which Dutch priest gave his name to the Mennonites?",
     "part_difficulty": "hard",
     "answer": "Menno Simons",
-    "required": null,
+    "required": "Simons",
     "alternates": [
      "Simons",
-     "Menno",
-     "n=Simons part"
+     "Menno"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    }
   ]
  },
@@ -6003,13 +5984,12 @@
     "text": "Which Italian artist painted the ceiling of the Sistine Chapel?",
     "part_difficulty": "easy",
     "answer": "Michelangelo",
-    "required": null,
+    "required": "Michelangelo",
     "alternates": [
-     "Michelangelo Buonarroti",
-     "n=Michelangelo"
+     "Michelangelo Buonarroti"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -6170,13 +6150,12 @@
     "text": "Which daughter of Henry VIII and Anne Boleyn restored Protestantism after her half-sister's reign and ruled for forty-four years?",
     "part_difficulty": "easy",
     "answer": "Elizabeth I",
-    "required": null,
+    "required": "Elizabeth",
     "alternates": [
-     "Elizabeth",
-     "n=Elizabeth"
+     "Elizabeth"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -6184,14 +6163,13 @@
     "text": "Which daughter of Henry VIII and Catherine of Aragon restored Catholicism and earned the nickname Bloody?",
     "part_difficulty": "medium",
     "answer": "Mary I",
-    "required": null,
+    "required": "Mary",
     "alternates": [
      "Mary Tudor",
-     "Bloody Mary",
-     "n=Mary"
+     "Bloody Mary"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -6553,14 +6531,13 @@
   "difficulty": "medium",
   "text": "The Persian king who conquered Babylon in 539 BCE let the exiled Jews return to Jerusalem and rebuild the Temple. The Book of Isaiah calls him the Lord's anointed. A clay barrel inscribed with his decree is on display in the British Museum. For 10 points, name this Persian ruler, founder of the Achaemenid Empire.",
   "answer": "Cyrus the Great",
-  "required": null,
+  "required": "Cyrus",
   "alternates": [
    "Cyrus",
-   "Cyrus II",
-   "n=Cyrus"
+   "Cyrus II"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -7035,14 +7012,13 @@
     "text": "Who served as the first prime minister of Israel?",
     "part_difficulty": "medium",
     "answer": "David Ben-Gurion",
-    "required": null,
+    "required": "Ben-Gurion",
     "alternates": [
      "Ben-Gurion",
-     "Ben Gurion",
-     "n=Ben-Gurion"
+     "Ben Gurion"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -7078,13 +7054,12 @@
     "text": "Which Jewish girl hid with her family in an Amsterdam annex and left behind a famous diary?",
     "part_difficulty": "easy",
     "answer": "Anne Frank",
-    "required": null,
+    "required": "Frank",
     "alternates": [
-     "Frank",
-     "n=Frank"
+     "Frank"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -11937,14 +11912,13 @@
   "difficulty": "medium",
   "text": "This Danish nobleman made the most accurate naked-eye measurements of planetary positions from his observatory Uraniborg. He recorded the supernova of 1572 and lost part of his nose in a duel. His assistant Johannes Kepler used his data. For 10 points, name this astronomer.",
   "answer": "Tycho Brahe",
-  "required": null,
+  "required": "Brahe",
   "alternates": [
    "Brahe",
-   "Tycho",
-   "n=Brahe"
+   "Tycho"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12507,15 +12481,14 @@
     "text": "Which British-American astronomer showed in her 1925 thesis that stars are made mostly of hydrogen and helium?",
     "part_difficulty": "medium",
     "answer": "Cecilia Payne",
-    "required": null,
+    "required": "Payne",
     "alternates": [
      "Cecilia Payne-Gaposchkin",
      "Payne-Gaposchkin",
-     "Payne",
-     "n=Payne"
+     "Payne"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -18784,15 +18757,14 @@
     "text": "Which Confederate general earned a famous nickname at the First Battle of Bull Run?",
     "part_difficulty": "hard",
     "answer": "Stonewall Jackson",
-    "required": null,
+    "required": "Jackson",
     "alternates": [
      "Thomas Jackson",
-     "Thomas J. Jackson",
-     "n dup"
+     "Thomas J. Jackson"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    }
   ]
@@ -19123,13 +19095,12 @@
   "difficulty": "medium",
   "text": "This teenage peasant girl heard voices she believed came from saints and led French troops to lift the siege of Orleans in 1429. She helped Charles VII reach Reims for his coronation. English-allied judges convicted her of heresy and burned her at Rouen. For 10 points, name this French heroine.",
   "answer": "Joan of Arc",
-  "required": null,
+  "required": "Arc",
   "alternates": [
-   "Jeanne d'Arc",
-   "n=Arc"
+   "Jeanne d'Arc"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -19318,13 +19289,12 @@
   "difficulty": "medium",
   "text": "This Russian tsar traveled incognito to Western Europe and then built a new capital on the Baltic Sea. He defeated Charles XII of Sweden at Poltava. He forced his nobles to shave their beards. For 10 points, name this tsar called \"the Great.\"",
   "answer": "Peter the Great",
-  "required": null,
+  "required": "Great",
   "alternates": [
-   "Peter I",
-   "n=Great"
+   "Peter I"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -19341,13 +19311,12 @@
   "difficulty": "medium",
   "text": "This German-born empress seized power from her husband Peter III in a coup in 1762. She corresponded with Voltaire and expanded Russia's borders into Crimea and Poland. She was called an enlightened despot. For 10 points, name this Russian ruler.",
   "answer": "Catherine the Great",
-  "required": null,
+  "required": "Great",
   "alternates": [
-   "Catherine II",
-   "n=Great"
+   "Catherine II"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -19406,14 +19375,13 @@
   "difficulty": "easy",
   "text": "This Corsican general crowned himself Emperor of the French in 1804. He won at Austerlitz but lost most of his army during an invasion of Russia in 1812. He was exiled to Elba and then to Saint Helena. For 10 points, name this man.",
   "answer": "Napoleon Bonaparte",
-  "required": null,
+  "required": "Bonaparte",
   "alternates": [
    "Napoleon",
-   "Napoleon I",
-   "n=Bonaparte"
+   "Napoleon I"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -20277,15 +20245,14 @@
   "difficulty": "hard",
   "text": "This pharaoh of the Nineteenth Dynasty fought the Hittites at Kadesh and built the temples at Abu Simbel. He ruled for about sixty-six years and had many children. For 10 points, name this Egyptian king called \"the Great.\"",
   "answer": "Ramses II",
-  "required": null,
+  "required": "II",
   "alternates": [
    "Ramesses II",
    "Ramses the Great",
-   "Rameses II",
-   "n=II"
+   "Rameses II"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -20513,13 +20480,12 @@
   "difficulty": "easy",
   "text": "This king of Macedon, tutored by Aristotle, conquered the Persian Empire after winning at Issus and Gaugamela. He founded Alexandria in Egypt and died in Babylon at 32. For 10 points, name this conqueror.",
   "answer": "Alexander the Great",
-  "required": null,
+  "required": "Great",
   "alternates": [
-   "Alexander III of Macedon",
-   "n=Great"
+   "Alexander III of Macedon"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -20558,14 +20524,13 @@
   "difficulty": "medium",
   "text": "This founder of the Achaemenid Persian Empire conquered Babylon in 539 BC and allowed Jews to return to Jerusalem. The Cyrus Cylinder records his policies. For 10 points, name this king, whose title was \"the Great.\"",
   "answer": "Cyrus the Great",
-  "required": null,
+  "required": "Great",
   "alternates": [
    "Cyrus II",
-   "Cyrus",
-   "n=Great"
+   "Cyrus"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -20732,14 +20697,13 @@
   "difficulty": "medium",
   "text": "This first emperor of unified China took the throne in 221 BC. He standardized weights and measures and was buried with a terracotta army. For 10 points, name this ruler of the Qin dynasty.",
   "answer": "Qin Shi Huang",
-  "required": null,
+  "required": "Huang",
   "alternates": [
    "Shi Huangdi",
-   "Qin Shihuang",
-   "n=Huang"
+   "Qin Shihuang"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21189,13 +21153,12 @@
   "difficulty": "medium",
   "text": "This Chinese poet of the Tang dynasty is known for drinking, nature poems, and Quiet Night Thought. His friend Du Fu is also a major Tang poet. Tradition says he drowned trying to embrace the moon. For 10 points, name this poet.",
   "answer": "Li Bai",
-  "required": null,
+  "required": "Bai",
   "alternates": [
-   "Li Po",
-   "n=Bai"
+   "Li Po"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21234,14 +21197,13 @@
   "difficulty": "easy",
   "text": "This Mongol leader united the steppe tribes in 1206 and took a title that means \"universal ruler.\" His armies conquered Central Asia and northern China. He died in 1227. For 10 points, name this founder of the Mongol Empire.",
   "answer": "Genghis Khan",
-  "required": null,
+  "required": "Khan",
   "alternates": [
    "Chinggis Khan",
-   "Temujin",
-   "n=Khan"
+   "Temujin"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21258,13 +21220,12 @@
   "difficulty": "easy",
   "text": "This grandson of Genghis Khan completed the Mongol conquest of China and founded the Yuan dynasty. He moved his capital to what is now Beijing. Marco Polo claimed to have visited his court. For 10 points, name this Mongol ruler.",
   "answer": "Kublai Khan",
-  "required": null,
+  "required": "Khan",
   "alternates": [
-   "Kublai",
-   "n=Khan"
+   "Kublai"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21303,13 +21264,12 @@
   "difficulty": "medium",
   "text": "This ruler of the Mali Empire made a pilgrimage to Mecca in 1324 and gave out so much gold that its price dropped in Cairo. He built a mosque in Timbuktu. For 10 points, name this king.",
   "answer": "Mansa Musa",
-  "required": null,
+  "required": "Musa",
   "alternates": [
-   "Musa",
-   "n=Musa"
+   "Musa"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21349,15 +21309,14 @@
   "difficulty": "easy",
   "text": "This Ottoman sultan, called \"the Magnificent,\" took Belgrade and Rhodes and besieged Vienna in 1529. He codified laws and was known in his own country as \"the Lawgiver.\" The Ottoman Empire reached its height under him. For 10 points, name this sultan.",
   "answer": "Suleiman the Magnificent",
-  "required": null,
+  "required": "Magnificent",
   "alternates": [
    "Suleiman I",
    "Suleyman",
-   "Suleiman",
-   "n=Magnificent"
+   "Suleiman"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21573,14 +21532,13 @@
   "difficulty": "medium",
   "text": "This leader proclaimed the People's Republic of China in 1949 after winning the civil war against the Nationalists. He led the Long March and later began the Cultural Revolution. For 10 points, name this Communist leader.",
   "answer": "Mao Zedong",
-  "required": null,
+  "required": "Zedong",
   "alternates": [
    "Mao Tse-tung",
-   "Mao",
-   "n=Zedong"
+   "Mao"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22033,13 +21991,12 @@
     "text": "Which Japanese warlord unified much of the country before his death in 1598 and invaded Korea?",
     "part_difficulty": "medium",
     "answer": "Toyotomi Hideyoshi",
-    "required": null,
+    "required": "Hideyoshi",
     "alternates": [
-     "Hideyoshi",
-     "n=Hideyoshi"
+     "Hideyoshi"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -22141,13 +22098,12 @@
     "text": "Which Vietnamese Communist leader declared independence in 1945?",
     "part_difficulty": "medium",
     "answer": "Ho Chi Minh",
-    "required": null,
+    "required": "Minh",
     "alternates": [
-     "Ho",
-     "n=Minh"
+     "Ho"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -22254,13 +22210,12 @@
     "text": "Which Moroccan traveler wrote a 14th-century account of the Muslim world?",
     "part_difficulty": "medium",
     "answer": "Ibn Battuta",
-    "required": null,
+    "required": "Battuta",
     "alternates": [
-     "Battuta",
-     "n=Battuta"
+     "Battuta"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -22361,14 +22316,13 @@
   "difficulty": "medium",
   "text": "This Mexican general and president lost Texas after being captured at San Jacinto in 1836. He had earlier led the siege of the Alamo. He lost the Mexican-American War and was exiled several times. For 10 points, name this man who held the presidency eleven times.",
   "answer": "Antonio Lopez de Santa Anna",
-  "required": null,
+  "required": "Anna",
   "alternates": [
    "Santa Anna",
-   "Antonio López de Santa Anna",
-   "n=Anna"
+   "Antonio López de Santa Anna"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22385,14 +22339,13 @@
   "difficulty": "easy",
   "text": "This woman was the wife of Argentine president Juan Peron and led a foundation for the poor. She campaigned for women's suffrage, which passed in 1947. She died of cancer in 1952 at age thirty-three. For 10 points, name this woman, whose nickname was \"Evita.\"",
   "answer": "Eva Peron",
-  "required": null,
+  "required": "Peron",
   "alternates": [
    "Evita",
-   "Eva Duarte",
-   "n=Peron"
+   "Eva Duarte"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22632,14 +22585,13 @@
   "difficulty": "hard",
   "text": "In 1845 two ships named Erebus and Terror left England to find the Northwest Passage and disappeared. The commander was a Royal Navy officer, and search parties later found evidence of cannibalism. For 10 points, name this lost expedition led by Sir John.",
   "answer": "Franklin expedition",
-  "required": null,
+  "required": "Franklin",
   "alternates": [
    "Lost Franklin Expedition",
-   "John Franklin",
-   "n=Franklin"
+   "John Franklin"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22926,14 +22878,13 @@
     "text": "Which Aztec emperor welcomed Cortes in 1519?",
     "part_difficulty": "easy",
     "answer": "Montezuma II",
-    "required": null,
+    "required": "Montezuma",
     "alternates": [
      "Montezuma",
-     "Moctezuma",
-     "n=Montezuma"
+     "Moctezuma"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -24827,14 +24778,13 @@
   "difficulty": "medium",
   "text": "This author created a detective who lives at 221B Baker Street and is assisted by Doctor Watson. His villain Professor Moriarty fought the detective at the Reichenbach Falls. For 10 points, name this author of The Hound of the Baskervilles.",
   "answer": "Arthur Conan Doyle",
-  "required": null,
+  "required": "Doyle",
   "alternates": [
    "Conan Doyle",
-   "Doyle",
-   "n=Doyle"
+   "Doyle"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27800,15 +27750,14 @@
   "difficulty": "easy",
   "text": "This author wrote about a mischievous feline in a tall striped hat and about a Grinch who steals Christmas. His real name was Theodor Geisel, and he also wrote Green Eggs and Ham. For 10 points, name this children's author.",
   "answer": "Doctor Seuss",
-  "required": null,
+  "required": "Seuss",
   "alternates": [
    "Dr. Seuss",
    "Theodor Geisel",
-   "Seuss",
-   "n=Seuss"
+   "Seuss"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -28574,15 +28523,14 @@
     "text": "Which author wrote The Cat in the Hat?",
     "part_difficulty": "easy",
     "answer": "Doctor Seuss",
-    "required": null,
+    "required": "Seuss",
     "alternates": [
      "Dr. Seuss",
      "Theodor Geisel",
-     "Seuss",
-     "n=Seuss"
+     "Seuss"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -32040,16 +31988,15 @@
   "difficulty": "easy",
   "text": "One of these two siblings made the first powered flight on December 17, 1903, lasting twelve seconds. They tested gliders and built a wind tunnel in their Dayton bicycle shop. Their craft was the Flyer, flown at Kitty Hawk. For 10 points, name these brothers, Orville and Wilbur.",
   "answer": "Wright brothers",
-  "required": null,
+  "required": "Wright",
   "alternates": [
    "Orville and Wilbur Wright",
    "Wilbur and Orville Wright",
    "the Wrights",
-   "Wright",
-   "n=Wright"
+   "Wright"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -32378,14 +32325,13 @@
   "difficulty": "hard",
   "text": "In 1989, this British scientist working at CERN proposed a system of linked hypertext documents. He wrote the first web browser and server in 1990. He later founded the World Wide Web Consortium. For 10 points, name this inventor of the World Wide Web.",
   "answer": "Tim Berners-Lee",
-  "required": null,
+  "required": "Berners-Lee",
   "alternates": [
    "Timothy Berners-Lee",
-   "Berners-Lee",
-   "n=Berners-Lee"
+   "Berners-Lee"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -32987,14 +32933,13 @@
   "difficulty": "easy",
   "text": "This thinker from Citium on Cyprus came to Athens, where he taught at a painted porch. He founded a school whose members taught that virtue is sufficient for happiness and that the universe is governed by divine reason. A shipwreck is said to have turned him toward philosophy, after which he studied with the Cynic Crates. For 10 points, name this founder of Stoicism, who shares a first name with a paradox-maker from Elea.",
   "answer": "Zeno of Citium",
-  "required": null,
+  "required": "Citium",
   "alternates": [
    "Zeno",
-   "Zeno the Stoic",
-   "n=Citium"
+   "Zeno the Stoic"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -33240,12 +33185,10 @@
   "difficulty": "easy",
   "text": "This author of a series of private notes called the Meditations was the last of the Five Good Emperors of Rome. He wrote in Greek, reminding himself to accept fate and focus on his own character. He ruled from 161 to 180 and died campaigning on the Danube. For 10 points, name this Stoic emperor.",
   "answer": "Marcus Aurelius",
-  "required": null,
-  "alternates": [
-   "n=Aurelius"
-  ],
+  "required": "Aurelius",
+  "alternates": [],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -33992,14 +33935,13 @@
   "difficulty": "easy",
   "text": "This thinker imagined a malicious demon who deceives him about everything. In Meditations on First Philosophy, he decides that the one thing he cannot doubt is his own existence as a thinking thing. He also invented analytic geometry, in which Cartesian coordinates are used. For 10 points, name this French philosopher who said \"I think, therefore I am.\"",
   "answer": "Rene Descartes",
-  "required": null,
+  "required": "Descartes",
   "alternates": [
    "Descartes",
-   "Renatus Cartesius",
-   "n=Descartes"
+   "Renatus Cartesius"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -35070,13 +35012,12 @@
     "text": "Mill credited which wife, whom he married in 1851, with major influence on his work?",
     "part_difficulty": "hard",
     "answer": "Harriet Taylor",
-    "required": null,
+    "required": "Taylor",
     "alternates": [
-     "Harriet Taylor Mill",
-     "n=Taylor"
+     "Harriet Taylor Mill"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -35252,14 +35193,13 @@
   "difficulty": "easy",
   "text": "This Dominican friar of the thirteenth century wrote the Summa Theologica, which contains the \"Five Ways,\" arguments for God's existence. He united Christian doctrine with the philosophy of Aristotle and is called the \"Angelic Doctor.\" He was born in Aquino. For 10 points, name this medieval Italian scholastic.",
   "answer": "Thomas Aquinas",
-  "required": null,
+  "required": "Aquinas",
   "alternates": [
    "Aquinas",
-   "Saint Thomas Aquinas",
-   "n=Aquinas"
+   "Saint Thomas Aquinas"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -36445,13 +36385,12 @@
   "difficulty": "medium",
   "text": "This man was Muhammad's close friend and father of his wife Aisha. After the Prophet's death he became the first of the Rashidun, or \"rightly guided,\" caliphs. His short reign saw the Ridda Wars against tribes that broke away. For 10 points, name this first caliph, whose surname means \"father of the virgin.\"",
   "answer": "Abu Bakr",
-  "required": null,
+  "required": "Bakr",
   "alternates": [
-   "Abu Bakr al-Siddiq",
-   "n=Bakr"
+   "Abu Bakr al-Siddiq"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -36468,14 +36407,13 @@
   "difficulty": "hard",
   "text": "This caliph, the second of the Rashidun, ruled from 634 to 644 and oversaw conquests of Syria, Egypt, and Persia. He is credited with starting the Hijri calendar and with entering Jerusalem peacefully. He was assassinated by a Persian slave named Abu Lulu. For 10 points, name this successor of Abu Bakr.",
   "answer": "Umar",
-  "required": null,
+  "required": "Umar",
   "alternates": [
    "Umar ibn al-Khattab",
-   "Omar",
-   "n=Umar"
+   "Omar"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -36492,14 +36430,13 @@
   "difficulty": "hard",
   "text": "This third caliph oversaw the compilation of a standard written version of the Quran. He belonged to the Umayyad clan and was married to two of Muhammad's daughters in turn. His murder in 656 led to the First Fitna, or civil war. For 10 points, name this Rashidun caliph, successor to Umar.",
   "answer": "Uthman",
-  "required": null,
+  "required": "Uthman",
   "alternates": [
    "Uthman ibn Affan",
-   "Othman",
-   "n=Uthman"
+   "Othman"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -36516,13 +36453,12 @@
   "difficulty": "medium",
   "text": "This man was Muhammad's cousin and son-in-law, and he became the fourth caliph in 656. His supporters, the party of this man, gave the Shia branch its name. He moved the capital to Kufa and was killed there in 661. For 10 points, name this figure who is regarded as the first imam by Shia Muslims.",
   "answer": "Ali",
-  "required": null,
+  "required": "Ali",
   "alternates": [
-   "Ali ibn Abi Talib",
-   "n=Ali"
+   "Ali ibn Abi Talib"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -37073,13 +37009,12 @@
     "text": "Which caliph ruled first after Muhammad's death?",
     "part_difficulty": "easy",
     "answer": "Abu Bakr",
-    "required": null,
+    "required": "Bakr",
     "alternates": [
-     "Abu Bakr al-Siddiq",
-     "n=Bakr"
+     "Abu Bakr al-Siddiq"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -37087,13 +37022,12 @@
     "text": "Which fourth caliph was assassinated in Kufa in 661?",
     "part_difficulty": "medium",
     "answer": "Ali",
-    "required": null,
+    "required": "Ali",
     "alternates": [
-     "Ali ibn Abi Talib",
-     "n=Ali"
+     "Ali ibn Abi Talib"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -37101,14 +37035,13 @@
     "text": "Which Umayyad founder fought Ali at the Battle of Siffin?",
     "part_difficulty": "hard",
     "answer": "Muawiya",
-    "required": null,
+    "required": "Muawiya",
     "alternates": [
      "Muawiyah",
-     "Muawiya ibn Abi Sufyan",
-     "n=Muawiya"
+     "Muawiya ibn Abi Sufyan"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -37186,13 +37119,12 @@
     "text": "Muhammad's first wife, who supported his early mission, had which name?",
     "part_difficulty": "easy",
     "answer": "Khadijah",
-    "required": null,
+    "required": "Khadijah",
     "alternates": [
-     "Khadija",
-     "n=Khadijah"
+     "Khadija"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -37354,13 +37286,12 @@
     "text": "Which Mughal emperor built the Taj Mahal as a tomb for his wife?",
     "part_difficulty": "easy",
     "answer": "Shah Jahan",
-    "required": null,
+    "required": "Jahan",
     "alternates": [
-     "Jahan",
-     "n=Jahan"
+     "Jahan"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -37368,13 +37299,12 @@
     "text": "Which Mughal empress is buried in the Taj Mahal?",
     "part_difficulty": "medium",
     "answer": "Mumtaz Mahal",
-    "required": null,
+    "required": "Mahal",
     "alternates": [
-     "Mumtaz",
-     "n=Mahal"
+     "Mumtaz"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -38122,13 +38052,12 @@
     "text": "Which Mauryan emperor converted to Buddhism after the Kalinga War and spread it with edicts?",
     "part_difficulty": "hard",
     "answer": "Ashoka",
-    "required": null,
+    "required": "Ashoka",
     "alternates": [
-     "Asoka",
-     "n=Ashoka"
+     "Asoka"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -38496,12 +38425,10 @@
     "text": "Which Pandava archer is advised by Krishna?",
     "part_difficulty": "hard",
     "answer": "Arjuna",
-    "required": null,
-    "alternates": [
-     "n=Arjuna"
-    ],
+    "required": "Arjuna",
+    "alternates": [],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -38566,13 +38493,12 @@
   "difficulty": "hard",
   "text": "In Zoroastrian belief, this evil spirit, also called Ahriman, opposes creation through lies, disease, and death. Its name means \"destructive spirit,\" and it is contrasted with Spenta Mainyu. At the end of time the Saoshyant is expected to defeat it. For 10 points, give this adversary of Ahura Mazda.",
   "answer": "Angra Mainyu",
-  "required": null,
+  "required": "Mainyu",
   "alternates": [
-   "Ahriman",
-   "n=Mainyu"
+   "Ahriman"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -38699,14 +38625,13 @@
   "difficulty": "hard",
   "text": "This Persian nobleman, born Mirza Husayn-Ali, declared himself a manifestation of God in 1863. He was exiled to Acre and wrote the Kitab-i-Aqdas. For 10 points, name this founder of the Baha'i Faith, whose name means \"Glory of God.\"",
   "answer": "Baha'u'llah",
-  "required": null,
+  "required": "Baha'u'llah",
   "alternates": [
    "Bahaullah",
-   "Bahá'u'lláh",
-   "n=Baha'u'llah"
+   "Bahá'u'lláh"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -39084,13 +39009,12 @@
   "difficulty": "hard",
   "text": "This Ethiopian emperor, born Tafari Makonnen, is revered as the returned Messiah by Rastafari. He ruled from 1930 until he was deposed in 1974, with a break during the Italian occupation. He addressed the League of Nations in 1936 after Mussolini's invasion, and he gave Jamaica's Rastas their name for him. For 10 points, name this man.",
   "answer": "Haile Selassie",
-  "required": null,
+  "required": "Selassie",
   "alternates": [
-   "Selassie",
-   "n=Selassie"
+   "Selassie"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -39384,14 +39308,13 @@
     "text": "Which Haitian leader, a former slave and general, led the revolution that began in 1791?",
     "part_difficulty": "hard",
     "answer": "Toussaint Louverture",
-    "required": null,
+    "required": "Louverture",
     "alternates": [
      "Louverture",
-     "Toussaint L'Ouverture",
-     "n=Louverture"
+     "Toussaint L'Ouverture"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -39427,13 +39350,12 @@
     "text": "Which Dutch Anabaptist leader gave his name to a group related to the Amish?",
     "part_difficulty": "medium",
     "answer": "Menno Simons",
-    "required": null,
+    "required": "Simons",
     "alternates": [
-     "Mennonite",
-     "n=Simons"
+     "Mennonite"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -42310,13 +42232,12 @@
   "difficulty": "medium",
   "text": "This Italian scientist used a telescope to discover four moons of Jupiter, the phases of Venus, and mountains on the Moon. He supported the Copernican model and wrote the Dialogue Concerning the Two Chief World Systems. He was tried by the Inquisition. For 10 points, name this scientist.",
   "answer": "Galileo Galilei",
-  "required": null,
+  "required": "Galilei",
   "alternates": [
-   "Galileo",
-   "n=Galilei"
+   "Galileo"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -43174,15 +43095,14 @@
   "difficulty": "hard",
   "text": "This sociologist wrote The Philadelphia Negro, an empirical study of a city's Black community. He coined the term \"double consciousness\" in The Souls of Black Folk and co-founded the NAACP. For 10 points, name this scholar who also edited the journal The Crisis.",
   "answer": "W. E. B. Du Bois",
-  "required": null,
+  "required": "Bois",
   "alternates": [
    "Du Bois",
    "DuBois",
-   "William Edward Burghardt Du Bois",
-   "n=Bois"
+   "William Edward Burghardt Du Bois"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -43927,14 +43847,13 @@
     "text": "Which sociologist wrote The Souls of Black Folk and coined \"double consciousness\"?",
     "part_difficulty": "hard",
     "answer": "W. E. B. Du Bois",
-    "required": null,
+    "required": "Bois",
     "alternates": [
      "Du Bois",
-     "DuBois",
-     "n=Bois"
+     "DuBois"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -45264,14 +45183,13 @@
   "difficulty": "hard",
   "text": "This French anthropologist founded structuralism in anthropology with works such as The Elementary Structures of Kinship and Tristes Tropiques. He analyzed myths through binary oppositions like raw and cooked. For 10 points, name this scholar, first name Claude.",
   "answer": "Claude Levi-Strauss",
-  "required": null,
+  "required": "Strauss",
   "alternates": [
    "Levi-Strauss",
-   "Strauss",
-   "n=Strauss"
+   "Strauss"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -46102,13 +46020,12 @@
     "text": "Which French anthropologist wrote The Raw and the Cooked?",
     "part_difficulty": "medium",
     "answer": "Claude Levi-Strauss",
-    "required": null,
+    "required": "Strauss",
     "alternates": [
-     "Levi-Strauss",
-     "n=Strauss"
+     "Levi-Strauss"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },

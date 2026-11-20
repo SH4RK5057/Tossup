@@ -8959,13 +8959,12 @@
   "difficulty": "hard",
   "text": "Which Flemish painter created the Arnolfini Portrait?",
   "answer": "Jan van Eyck",
-  "required": null,
+  "required": "Eyck",
   "alternates": [
-   "Van Eyck",
-   "n=Eyck"
+   "Van Eyck"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -8982,15 +8981,14 @@
   "difficulty": "medium",
   "text": "Which Flemish painter created Hunters in the Snow and The Peasant Wedding?",
   "answer": "Pieter Bruegel the Elder",
-  "required": null,
+  "required": "Bruegel",
   "alternates": [
    "Bruegel",
    "Brueghel",
-   "Pieter Bruegel",
-   "n=Bruegel"
+   "Pieter Bruegel"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -9254,14 +9252,13 @@
   "difficulty": "medium",
   "text": "Which American painter created The Gulf Stream and Snap the Whip?",
   "answer": "Winslow Homer",
-  "required": null,
+  "required": "Homer",
   "alternates": [
-   "Homer",
-   "dup n"
+   "Homer"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -10556,14 +10553,13 @@
   "difficulty": "medium",
   "text": "Who wrote the story \"The Gift of the Magi\"?",
   "answer": "O. Henry",
-  "required": null,
+  "required": "Henry",
   "alternates": [
    "Henry",
-   "William Sydney Porter",
-   "n=Henry"
+   "William Sydney Porter"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -11524,13 +11520,12 @@
   "difficulty": "hard",
   "text": "Who wrote the poem \"The Red Wheelbarrow\"?",
   "answer": "William Carlos Williams",
-  "required": null,
+  "required": "Williams",
   "alternates": [
-   "Williams",
-   "n=Williams"
+   "Williams"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -12128,14 +12123,13 @@
     "text": "Poe's only finished novel follows which narrator?",
     "part_difficulty": "hard",
     "answer": "Arthur Gordon Pym",
-    "required": null,
+    "required": "Pym",
     "alternates": [
      "Pym",
-     "Arthur Pym",
-     "n=Pym"
+     "Arthur Pym"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -12474,15 +12468,14 @@
     "text": "Who wrote \"The Cat in the Hat\"?",
     "part_difficulty": "easy",
     "answer": "Dr. Seuss",
-    "required": null,
+    "required": "Seuss",
     "alternates": [
      "Seuss",
      "Theodor Geisel",
-     "Doctor Seuss",
-     "n=Seuss"
+     "Doctor Seuss"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -21051,15 +21044,14 @@
   "difficulty": "easy",
   "text": "Which U.S. president was the only one to serve more than two terms, winning four elections?",
   "answer": "Franklin Roosevelt",
-  "required": null,
+  "required": "Roosevelt",
   "alternates": [
    "Franklin D. Roosevelt",
-   "FDR",
-   "n dup"
+   "FDR"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -21075,14 +21067,13 @@
   "difficulty": "easy",
   "text": "Which president served as the nation's first Vice President and then its second President?",
   "answer": "John Adams",
-  "required": null,
+  "required": "Adams",
   "alternates": [
-   "Adams",
-   "n dup"
+   "Adams"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -21873,15 +21864,14 @@
   "difficulty": "easy",
   "text": "Which president led the United States through the Great Depression and most of World War II?",
   "answer": "Franklin Roosevelt",
-  "required": null,
+  "required": "Roosevelt",
   "alternates": [
    "Franklin D. Roosevelt",
-   "FDR",
-   "n dup"
+   "FDR"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -22007,14 +21997,13 @@
   "difficulty": "easy",
   "text": "Which president is shown on Mount Rushmore alongside Washington, Jefferson, and Lincoln?",
   "answer": "Theodore Roosevelt",
-  "required": null,
+  "required": "Roosevelt",
   "alternates": [
-   "Teddy Roosevelt",
-   "n dup"
+   "Teddy Roosevelt"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -22850,14 +22839,13 @@
   "difficulty": "medium",
   "text": "Which Spanish explorer landed in Florida in 1513 and gave it its name?",
   "answer": "Juan Ponce de Leon",
-  "required": null,
+  "required": "Leon",
   "alternates": [
    "Ponce de Leon",
-   "Ponce de León",
-   "n=Leon"
+   "Ponce de León"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -24610,14 +24598,13 @@
     "text": "Which president was impeached in 1868 but acquitted by one vote in the Senate?",
     "part_difficulty": "hard",
     "answer": "Andrew Johnson",
-    "required": null,
+    "required": "Johnson",
     "alternates": [
-     "Johnson",
-     "n dup"
+     "Johnson"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    }
   ]
@@ -24905,14 +24892,13 @@
     "text": "Which First Lady of Franklin Roosevelt was a UN delegate and a human rights advocate?",
     "part_difficulty": "easy",
     "answer": "Eleanor Roosevelt",
-    "required": null,
+    "required": "Roosevelt",
     "alternates": [
-     "Eleanor",
-     "n dup"
+     "Eleanor"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    },
    {
@@ -25011,14 +24997,13 @@
     "text": "Which president was known as a trust buster and a Rough Rider?",
     "part_difficulty": "easy",
     "answer": "Theodore Roosevelt",
-    "required": null,
+    "required": "Roosevelt",
     "alternates": [
-     "Roosevelt",
-     "n dup"
+     "Roosevelt"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    },
    {
@@ -40830,14 +40815,13 @@
   "difficulty": "hard",
   "text": "Which Flemish painter created \"The Descent from the Cross\" now in the Prado and studied under Robert Campin?",
   "answer": "Rogier van der Weyden",
-  "required": null,
+  "required": "Weyden",
   "alternates": [
    "van der Weyden",
-   "Weyden",
-   "n=Weyden"
+   "Weyden"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -40854,14 +40838,13 @@
   "difficulty": "easy",
   "text": "Which German Renaissance painter of Wittenberg created portraits of Martin Luther?",
   "answer": "Lucas Cranach the Elder",
-  "required": null,
+  "required": "Elder",
   "alternates": [
    "Cranach",
-   "Lucas Cranach",
-   "n=Elder"
+   "Lucas Cranach"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -42030,15 +42013,14 @@
     "text": "Which French portraitist painted Queen Marie Antoinette?",
     "part_difficulty": "hard",
     "answer": "Élisabeth Vigée Le Brun",
-    "required": null,
+    "required": "Brun",
     "alternates": [
      "Vigée Le Brun",
      "Elisabeth Vigee Le Brun",
-     "Vigee Le Brun",
-     "n=Brun"
+     "Vigee Le Brun"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -44449,14 +44431,13 @@
   "difficulty": "easy",
   "text": "Which Mongol leader founded the Mongol Empire in the early 1200s?",
   "answer": "Genghis Khan",
-  "required": null,
+  "required": "Khan",
   "alternates": [
    "Chinggis Khan",
-   "Genghis",
-   "n=Khan"
+   "Genghis"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -44518,13 +44499,12 @@
   "difficulty": "easy",
   "text": "Which English king was forced to sign the Magna Carta in 1215?",
   "answer": "King John",
-  "required": null,
+  "required": "John",
   "alternates": [
-   "John",
-   "n=John"
+   "John"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -44717,14 +44697,13 @@
   "difficulty": "easy",
   "text": "Whose 1914 assassination in Sarajevo helped trigger World War I?",
   "answer": "Archduke Franz Ferdinand",
-  "required": null,
+  "required": "Ferdinand",
   "alternates": [
    "Franz Ferdinand",
-   "Franz Ferdinand of Austria",
-   "n=Ferdinand"
+   "Franz Ferdinand of Austria"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -44828,14 +44807,13 @@
   "difficulty": "easy",
   "text": "Which Roman general defeated Hannibal at Zama in 202 BCE?",
   "answer": "Scipio Africanus",
-  "required": null,
+  "required": "Africanus",
   "alternates": [
    "Scipio",
-   "Scipio the Elder",
-   "n=Africanus"
+   "Scipio the Elder"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -45032,14 +45010,13 @@
   "difficulty": "easy",
   "text": "Which Portuguese explorer sailed around Africa to reach India in 1498?",
   "answer": "Vasco da Gama",
-  "required": null,
+  "required": "Gama",
   "alternates": [
    "da Gama",
-   "Gama",
-   "n=Gama"
+   "Gama"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -46396,12 +46373,10 @@
   "difficulty": "hard",
   "text": "Which Roman emperor, last of the Five Good Emperors, wrote the \"Meditations\"?",
   "answer": "Marcus Aurelius",
-  "required": null,
-  "alternates": [
-   "n=Aurelius"
-  ],
+  "required": "Aurelius",
+  "alternates": [],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -47843,13 +47818,12 @@
     "text": "Which leader headed communist North Vietnam?",
     "part_difficulty": "medium",
     "answer": "Ho Chi Minh",
-    "required": null,
+    "required": "Minh",
     "alternates": [
-     "Ho",
-     "n=Minh"
+     "Ho"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -48272,14 +48246,13 @@
   "difficulty": "medium",
   "text": "Which king of Macedon was the father of Alexander the Great?",
   "answer": "Philip II",
-  "required": null,
+  "required": "II",
   "alternates": [
    "Philip II of Macedon",
-   "Philip of Macedon",
-   "n=II"
+   "Philip of Macedon"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  }

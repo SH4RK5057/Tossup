@@ -13,9 +13,9 @@
 export const SOURCE = 'ai-claude-bank';
 const DIFF = { e: 'easy', m: 'medium', h: 'hard' };
 
-const OPT_TOKEN = /^(n|n=S.*|m|f|dup|part|ok|p=S.*)$/;
+const OPT_TOKEN = /^(n|n=\S.*|m|f|dup|part|ok|x=\d{4}-\d{2}-\d{2}|p=\S.*)$/;
 /** A lone trailing field that is made only of option tokens is the opts field (alts omitted). */
-const looksLikeOpts = (s) => !!s && s.trim().split(/s+/).every((t) => OPT_TOKEN.test(t));
+const looksLikeOpts = (s) => !!s && s.trim().split(/\s+/).every((t) => OPT_TOKEN.test(t));
 
 /** Writers sometimes separate alternates with "|" instead of ";": fold any extra fields into alternates. */
 function tail(rest) {
@@ -46,6 +46,10 @@ function spec(answer, alts, opts) {
     else if (o === 'dup') s.duplicate_name = true;
     else if (o === 'part') s.accepts_partial_name = true;
     else if (o === 'ok') s._leakOk = true; // the answer legitimately appears in the question (e.g. "which word is the verb?")
+    else if (o.startsWith('x=')) { // expiry date: the question stops being served on this day (time-sensitive facts)
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(o.slice(2))) throw new Error(`bad expiry "${o}" (use x=YYYY-MM-DD)`);
+      s._expires = `${o.slice(2)}T00:00:00.000Z`;
+    }
     else if (o.startsWith('p=')) s.prompt_on = o.slice(2).split(';').map((x) => x.trim()).filter(Boolean);
     else throw new Error(`unknown option "${o}"`);
   }
@@ -82,11 +86,18 @@ export function parseBank(text, file = 'bank') {
     } else if (f[0] === '-') {
       if (!bonus) fail(n, 'bonus part without a bonus');
       if (f.length < 4 || !DIFF[f[1]]) fail(n, 'part line is -|d|text|answer|alts|opts');
-      try { bonus.parts.push({ text: f[2].trim(), part_difficulty: DIFF[f[1]], ...spec(f[3].trim(), ...tail(f.slice(4))) }); } catch (e) { fail(n, e.message); }
+      try {
+        const { _expires, ...part } = spec(f[3].trim(), ...tail(f.slice(4)));
+        if (_expires) bonus.expires_at = _expires; // a bonus expires as a whole
+        bonus.parts.push({ text: f[2].trim(), part_difficulty: DIFF[f[1]], ...part });
+      } catch (e) { fail(n, e.message); }
     } else if (DIFF[f[0]]) {
       bonus = null;
       if (f.length < 3) fail(n, 'tossup line is d|text|answer|alts|opts');
-      try { rows.push({ type: 'tossup', ...base, difficulty: DIFF[f[0]], text: f[1].trim(), ...spec(f[2].trim(), ...tail(f.slice(3))) }); } catch (e) { fail(n, e.message); }
+      try {
+        const { _expires, ...s } = spec(f[2].trim(), ...tail(f.slice(3)));
+        rows.push({ type: 'tossup', ...base, ...(_expires ? { expires_at: _expires } : {}), difficulty: DIFF[f[0]], text: f[1].trim(), ...s });
+      } catch (e) { fail(n, e.message); }
     } else {
       fail(n, `unrecognized line start "${f[0]}"`);
     }

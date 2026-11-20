@@ -6,12 +6,23 @@ import { useApp } from '../ui/context';
 const textOf = (q: Question) => (q.type === 'tossup' ? q.text : q.leadin);
 const answerOf = (q: Question) => (q.type === 'tossup' ? q.answer : q.parts.map((p) => p.answer).join(' / '));
 
+/** Expiry filter: '' any, 'expired', 'soon' (within 30 days), 'dated' (has an expiry date). */
+function expiryMatch(expires: string | null | undefined, mode: string): boolean {
+  if (!mode) return true;
+  if (!expires) return false;
+  const now = Date.now();
+  const t = Date.parse(expires);
+  if (mode === 'expired') return t <= now;
+  if (mode === 'soon') return t > now && t <= now + 30 * 86400_000;
+  return true;
+}
+
 export function QuestionBrowser() {
   const { repo, user } = useApp();
   const [activating, setActivating] = useState(false);
   const [all, setAll] = useState<Question[] | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [f, setF] = useState({ status: '', ruleset: '', level: '', difficulty: '', category: '', source: '', minReports: 0, search: '', store: '' });
+  const [f, setF] = useState({ status: '', ruleset: '', level: '', difficulty: '', category: '', source: '', minReports: 0, search: '', store: '', expiry: '' });
   const [hideDupes, setHideDupes] = useState(true);
   const [baked, setBaked] = useState<Question[]>([]);
   const [bakedState, setBakedState] = useState<'loading' | 'ok' | 'none'>('loading');
@@ -48,6 +59,7 @@ export function QuestionBrowser() {
       (!f.category || q.category === f.category) &&
       (!f.source || q.source === f.source) &&
       q.report_count >= f.minReports &&
+      expiryMatch(q.expires_at, f.expiry) &&
       (!needle || `${textOf(q)} ${answerOf(q)}`.toLowerCase().includes(needle)),
     );
   }, [view, f]);
@@ -134,6 +146,9 @@ export function QuestionBrowser() {
             <option value="">Any category</option>{categories.map((c) => <option key={c}>{c}</option>)}</select>
           <select style={{ width: 150 }} value={f.source} onChange={(e) => set({ source: e.target.value })}>
             <option value="">Any source</option>{sources.map((c) => <option key={c}>{c}</option>)}</select>
+          <select style={{ width: 170 }} value={f.expiry} onChange={(e) => set({ expiry: e.target.value })}>
+            <option value="">Any expiry</option><option value="expired">Expired</option>
+            <option value="soon">Expiring in 30 days</option><option value="dated">Has an expiry date</option></select>
           <select style={{ width: 150 }} value={f.store} onChange={(e) => set({ store: e.target.value })}>
             <option value="">Baked + Firestore</option><option value="baked">Baked only</option><option value="firestore">Firestore only</option></select>
           <label className="inline-check small"><input type="checkbox" checked={hideDupes} onChange={(e) => setHideDupes(e.target.checked)} />Hide Firestore copies of baked questions</label>
@@ -175,7 +190,8 @@ export function QuestionBrowser() {
                       : <a href={`#/admin/edit/${encodeURIComponent(q.id)}`}>{textOf(q).slice(0, 90)}{textOf(q).length > 90 ? '…' : ''}</a>}
                       <div className="muted small">{q.category} · {q.subcategory}</div></td>
                     <td className="small">{answerOf(q)}</td>
-                    <td>{q.status}</td><td>{LEVEL_LABEL[q.level]}</td><td>{DIFFICULTY_LABEL[q.difficulty]}</td><td className="small">{q.source}</td><td>{q.report_count}</td>
+                    <td>{q.status}{q.expires_at && (
+                      <div className="small muted" title="Not served after this date">{q.expires_at <= new Date().toISOString() ? 'expired' : 'expires'} {q.expires_at.slice(0, 10)}</div>)}</td><td>{LEVEL_LABEL[q.level]}</td><td>{DIFFICULTY_LABEL[q.difficulty]}</td><td className="small">{q.source}</td><td>{q.report_count}</td>
                   </tr>
                 ))}
               </tbody>

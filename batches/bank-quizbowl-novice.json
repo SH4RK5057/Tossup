@@ -1150,15 +1150,14 @@
   "difficulty": "easy",
   "text": "This composer worked as a church musician in Leipzig. He wrote six Brandenburg Concertos and The Well-Tempered Clavier. He was a master of the fugue and had many musical children. For 10 points, name this German Baroque composer.",
   "answer": "Johann Sebastian Bach",
-  "required": null,
+  "required": "Bach",
   "alternates": [
    "Bach",
-   "J. S. Bach",
-   "n dup"
+   "J. S. Bach"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -3102,14 +3101,13 @@
     "text": "Which composer wrote the music for Jaws, Star Wars, and Indiana Jones?",
     "part_difficulty": "medium",
     "answer": "John Williams",
-    "required": null,
+    "required": "Williams",
     "alternates": [
-     "Williams",
-     "n dup"
+     "Williams"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    },
    {
@@ -3533,14 +3531,13 @@
   "difficulty": "hard",
   "text": "This German-American architect said \"Less is more\" and designed the Seagram Building in New York City. His steel-and-glass buildings include Crown Hall and the Barcelona Pavilion. For 10 points, name this Bauhaus director.",
   "answer": "Ludwig Mies van der Rohe",
-  "required": null,
+  "required": "Mies",
   "alternates": [
    "Mies van der Rohe",
-   "Mies",
-   "n=Mies"
+   "Mies"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -4356,14 +4353,13 @@
   "difficulty": "easy",
   "text": "This American photographer made black-and-white pictures of Yosemite Valley and the American West. He cofounded Group f/64 and developed the Zone System for controlling exposure. For 10 points, name this photographer of Moonrise, Hernandez, New Mexico.",
   "answer": "Ansel Adams",
-  "required": null,
+  "required": "Adams",
   "alternates": [
-   "Adams",
-   "n dup"
+   "Adams"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -4918,14 +4914,13 @@
   "difficulty": "hard",
   "text": "This French photographer, a cofounder of Magnum Photos, wrote about the \"decisive moment\" in photography. He photographed Paris street scenes with a small Leica camera. For 10 points, name this man.",
   "answer": "Henri Cartier-Bresson",
-  "required": null,
+  "required": "Cartier-Bresson",
   "alternates": [
    "Cartier-Bresson",
-   "Bresson",
-   "n=Cartier-Bresson"
+   "Bresson"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -7980,16 +7975,15 @@
   "difficulty": "hard",
   "text": "This painter, sculptor, and inventor drew the Vitruvian Man and sketched flying machines. He painted The Last Supper and was born in the town of Vinci. His notebooks are written in mirror writing. For 10 points, name this Italian Renaissance polymath.",
   "answer": "Leonardo da Vinci",
-  "required": null,
+  "required": "Vinci",
   "alternates": [
    "da Vinci",
-   "Leonardo",
-   "n=Vinci part"
+   "Leonardo"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -9698,16 +9692,15 @@
   "difficulty": "easy",
   "text": "This man led the 1963 March on Washington, where he gave his \"I Have a Dream\" speech on the steps of the Lincoln Memorial. He earned the Nobel Peace Prize in 1964 for his use of nonviolent protest. He was assassinated in Memphis in 1968. For 10 points, name this Baptist minister and civil rights leader.",
   "answer": "Martin Luther King Jr.",
-  "required": null,
+  "required": "King",
   "alternates": [
    "Martin Luther King",
    "King",
    "Dr. King",
-   "Doctor King",
-   "n=King"
+   "Doctor King"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -9724,15 +9717,14 @@
   "difficulty": "medium",
   "text": "This president led the country through the Great Depression and most of World War II. He was elected four times and used radio \"fireside chats\" to speak directly to the public. His New Deal created programs such as Social Security and the Civilian Conservation Corps. For 10 points, name this president who served from 1933 to 1945.",
   "answer": "Franklin Roosevelt",
-  "required": null,
+  "required": "Roosevelt",
   "alternates": [
    "Franklin Delano Roosevelt",
-   "Franklin D. Roosevelt",
-   "n dup"
+   "Franklin D. Roosevelt"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -10052,14 +10044,13 @@
   "difficulty": "medium",
   "text": "This president led the Rough Riders up San Juan Hill in the Spanish-American War. As president, he broke up trusts, created national parks, and began building the Panama Canal. His motto was to \"speak softly and carry a big stick.\" For 10 points, name this man who served from 1901 to 1909.",
   "answer": "Theodore Roosevelt",
-  "required": null,
+  "required": "Roosevelt",
   "alternates": [
-   "Teddy Roosevelt",
-   "n dup"
+   "Teddy Roosevelt"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -10578,14 +10569,13 @@
     "text": "Which president, known as Old Hickory, was nominated by the Democratic Party and fought the Second Bank of the United States?",
     "part_difficulty": "hard",
     "answer": "Andrew Jackson",
-    "required": null,
+    "required": "Jackson",
     "alternates": [
-     "Jackson",
-     "n dup"
+     "Jackson"
     ],
     "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
+    "answer_type": "name",
+    "duplicate_name": true,
     "accepts_partial_name": false
    }
   ]
@@ -10671,14 +10661,13 @@
   "difficulty": "easy",
   "text": "This Corsican-born general crowned himself emperor of the French in 1804 in Notre-Dame Cathedral. He won victories across Europe and then lost most of his army in a disastrous winter retreat from Moscow. His legal reforms are known as the Civil Code. For 10 points, name this French ruler.",
   "answer": "Napoleon Bonaparte",
-  "required": null,
+  "required": "Bonaparte",
   "alternates": [
    "Napoleon",
-   "Napoleon I",
-   "n=Bonaparte"
+   "Napoleon I"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13024,15 +13013,14 @@
   "difficulty": "easy",
   "text": "Born with the name Temujin, this leader united the Mongol tribes in 1206 and took a new title meaning \"universal ruler.\" His cavalry conquered much of Central Asia and northern China. His descendants went on to build the largest contiguous land empire in history. For 10 points, name this Mongol leader who died in 1227.",
   "answer": "Genghis Khan",
-  "required": null,
+  "required": "Khan",
   "alternates": [
    "Chinggis Khan",
    "Genghis",
-   "Temujin",
-   "n=Khan"
+   "Temujin"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13049,14 +13037,13 @@
   "difficulty": "medium",
   "text": "This grandson of Genghis Khan completed the conquest of China and founded the Yuan dynasty in 1271. The Venetian traveler Marco Polo claimed to have served at his court. His attempts to invade Japan failed when storms destroyed his fleets. For 10 points, name this Mongol emperor.",
   "answer": "Kublai Khan",
-  "required": null,
+  "required": "Khan",
   "alternates": [
    "Kubilai Khan",
-   "Kublai",
-   "n=Khan"
+   "Kublai"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13073,14 +13060,13 @@
   "difficulty": "medium",
   "text": "This ruler of the Mali Empire made a pilgrimage to Mecca in 1324 and gave away so much gold that its price fell in Cairo. His reign made the city of Timbuktu a center of learning. For 10 points, name this wealthy West African king.",
   "answer": "Mansa Musa",
-  "required": null,
+  "required": "Musa",
   "alternates": [
    "Musa",
-   "Musa I of Mali",
-   "n=Musa"
+   "Musa I of Mali"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13231,15 +13217,14 @@
   "difficulty": "easy",
   "text": "This Indian leader used nonviolent civil disobedience, called satyagraha, to resist British rule. He was often called Mahatma, or \"great soul.\" He was assassinated in New Delhi in January 1948. For 10 points, name this leader of the Indian independence movement.",
   "answer": "Mohandas Gandhi",
-  "required": null,
+  "required": "Gandhi",
   "alternates": [
    "Mahatma Gandhi",
    "Gandhi",
-   "Mohandas Karamchand Gandhi",
-   "n=Gandhi"
+   "Mohandas Karamchand Gandhi"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13344,14 +13329,13 @@
   "difficulty": "easy",
   "text": "This man's Long March of 1934 to 1935 took Communist forces to Shaanxi province. He proclaimed the People's Republic of China in 1949. His Great Leap Forward and Cultural Revolution caused enormous suffering. For 10 points, name this Communist leader of China.",
   "answer": "Mao Zedong",
-  "required": null,
+  "required": "Mao",
   "alternates": [
    "Mao Tse-tung",
-   "Mao",
-   "n=Mao"
+   "Mao"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13438,15 +13422,14 @@
   "difficulty": "hard",
   "text": "In May 1453, this young Ottoman sultan captured Constantinople after a siege in which huge cannons broke the city walls. He converted the Hagia Sophia into a mosque. His victory ended the Byzantine Empire. For 10 points, name this sultan nicknamed \"the Conqueror.\"",
   "answer": "Mehmed II",
-  "required": null,
+  "required": "Mehmed",
   "alternates": [
    "Mehmed the Conqueror",
    "Mehmet II",
-   "Mehmed",
-   "n=Mehmed"
+   "Mehmed"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13643,14 +13626,13 @@
   "difficulty": "medium",
   "text": "This former enslaved man led the Haitian Revolution against French rule. He was captured by Napoleon's forces in 1802 and died in a French prison. His general Jean-Jacques Dessalines declared Haiti independent in 1804. For 10 points, name this Haitian leader.",
   "answer": "Toussaint Louverture",
-  "required": null,
+  "required": "Louverture",
   "alternates": [
    "Toussaint L'Ouverture",
-   "Louverture",
-   "n=Louverture"
+   "Louverture"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13667,14 +13649,13 @@
   "difficulty": "easy",
   "text": "This revolutionary overthrew Cuban dictator Fulgencio Batista in 1959. His government repelled the Bay of Pigs invasion in 1961 and allied with the Soviet Union. He ruled Cuba for decades. For 10 points, name this Cuban leader.",
   "answer": "Fidel Castro",
-  "required": null,
+  "required": "Castro",
   "alternates": [
-   "Castro",
-   "n dup"
+   "Castro"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -13710,15 +13691,14 @@
   "difficulty": "medium",
   "text": "In 1853, this American naval officer sailed four \"black ships\" into Edo Bay and demanded that Japan open to trade. The next year he signed the Treaty of Kanagawa. For 10 points, name this commodore who ended Japan's isolation.",
   "answer": "Matthew Perry",
-  "required": null,
+  "required": "Perry",
   "alternates": [
    "Commodore Perry",
-   "Matthew C. Perry",
-   "n dup"
+   "Matthew C. Perry"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -13801,13 +13781,12 @@
   "difficulty": "medium",
   "text": "Between 1405 and 1433, this Chinese admiral commanded huge treasure fleets that sailed to India, Arabia, and East Africa. He served the Ming dynasty under the Yongle Emperor. For 10 points, name this eunuch and explorer.",
   "answer": "Zheng He",
-  "required": null,
+  "required": "He",
   "alternates": [
-   "Cheng Ho",
-   "n=He"
+   "Cheng Ho"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -13908,13 +13887,12 @@
     "text": "Which priest began the Mexican independence movement with the Cry of Dolores in 1810?",
     "part_difficulty": "hard",
     "answer": "Miguel Hidalgo",
-    "required": null,
+    "required": "Hidalgo",
     "alternates": [
-     "Hidalgo",
-     "n=Hidalgo"
+     "Hidalgo"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -14056,13 +14034,12 @@
     "text": "Which leader declared Vietnam's independence in 1945 and led the Viet Minh?",
     "part_difficulty": "medium",
     "answer": "Ho Chi Minh",
-    "required": null,
+    "required": "Minh",
     "alternates": [
-     "Ho",
-     "n=Minh"
+     "Ho"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -16065,14 +16042,13 @@
     "text": "George Eliot was the pen name of this woman.",
     "part_difficulty": "easy",
     "answer": "Mary Ann Evans",
-    "required": null,
+    "required": "Evans",
     "alternates": [
      "Marian Evans",
-     "Mary Anne Evans",
-     "n=Evans"
+     "Mary Anne Evans"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -17639,14 +17615,13 @@
   "difficulty": "medium",
   "text": "This thirteenth-century Persian poet founded the Mevlevi order, whose followers whirl in a ritual dance. He wrote the Masnavi and lived in Konya. For 10 points, name this mystic poet whose verses are widely read in English translation.",
   "answer": "Rumi",
-  "required": null,
+  "required": "Rumi",
   "alternates": [
    "Jalal ad-Din Rumi",
-   "Jalaluddin Rumi",
-   "n=Rumi"
+   "Jalaluddin Rumi"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -17833,15 +17808,14 @@
   "difficulty": "hard",
   "text": "This seventeenth-century Japanese poet perfected the haiku and wrote a travel diary called The Narrow Road to the Deep North. His most famous poem describes a frog jumping into an old pond. For 10 points, name this poet.",
   "answer": "Matsuo Bashō",
-  "required": null,
+  "required": "Basho",
   "alternates": [
    "Basho",
    "Matsuo Basho",
-   "Bashō",
-   "n=Basho"
+   "Bashō"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -18084,14 +18058,13 @@
     "text": "This Kenyan author wrote Weep Not, Child and A Grain of Wheat, and for years wrote in the Gikuyu language.",
     "part_difficulty": "hard",
     "answer": "Ngũgĩ wa Thiong'o",
-    "required": null,
+    "required": "Thiong'o",
     "alternates": [
      "Ngugi wa Thiong'o",
-     "Ngugi",
-     "n=Thiong'o"
+     "Ngugi"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -18114,15 +18087,14 @@
     "text": "This Colombian author wrote One Hundred Years of Solitude, set in the town of Macondo.",
     "part_difficulty": "easy",
     "answer": "Gabriel García Márquez",
-    "required": null,
+    "required": "Márquez",
     "alternates": [
      "García Márquez",
      "Garcia Marquez",
-     "Gabriel Garcia Marquez",
-     "n=Márquez"
+     "Gabriel Garcia Marquez"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -22912,13 +22884,12 @@
   "difficulty": "hard",
   "text": "This student of Parmenides argued that motion is impossible through paradoxes. In one, a swift runner can never overtake a slow tortoise. For 10 points, name this Eleatic philosopher.",
   "answer": "Zeno of Elea",
-  "required": null,
+  "required": "Zeno",
   "alternates": [
-   "Zeno",
-   "n=Zeno"
+   "Zeno"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -23382,13 +23353,12 @@
     "text": "Which philosopher from Cyprus founded the Stoic school in Athens?",
     "part_difficulty": "easy",
     "answer": "Zeno of Citium",
-    "required": null,
+    "required": "Zeno",
     "alternates": [
-     "Zeno",
-     "n=Zeno"
+     "Zeno"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -24612,16 +24582,15 @@
   "difficulty": "easy",
   "text": "This disciple is said to have betrayed Jesus to the authorities for thirty pieces of silver. He identified Jesus by greeting him with a kiss in the Garden of Gethsemane. Later he is said to have died by hanging himself. For 10 points, name this apostle whose last name probably refers to a place or group, and whose name has become a synonym for traitor.",
   "answer": "Judas Iscariot",
-  "required": null,
+  "required": "Judas",
   "alternates": [
    "Judas",
-   "Iscariot",
-   "n=Judas part"
+   "Iscariot"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -24917,14 +24886,13 @@
   "difficulty": "medium",
   "text": "This French teenager said she heard the voices of saints telling her to help the crown prince reach the throne. She led an army to lift the siege of Orleans during the Hundred Years War. She was captured, tried for heresy, and burned at the stake in 1431. For 10 points, name this saint, known as the Maid of Orleans.",
   "answer": "Joan of Arc",
-  "required": null,
+  "required": "Arc",
   "alternates": [
    "Jeanne d'Arc",
-   "Maid of Orleans",
-   "n=Arc"
+   "Maid of Orleans"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -24941,14 +24909,13 @@
   "difficulty": "easy",
   "text": "This Catholic nun, born in what is now North Macedonia, founded the Missionaries of Charity in Calcutta, India. She spent decades caring for the poor, sick, and dying, and she won the 1979 Nobel Peace Prize. She was canonized as a saint in 2016. For 10 points, name this nun known for her service to the poor.",
   "answer": "Mother Teresa",
-  "required": null,
+  "required": "Teresa",
   "alternates": [
    "Teresa of Calcutta",
-   "Saint Teresa of Calcutta",
-   "n=Teresa"
+   "Saint Teresa of Calcutta"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -25561,14 +25528,13 @@
     "text": "Which Italian Dominican friar and saint wrote the Summa Theologica?",
     "part_difficulty": "hard",
     "answer": "Thomas Aquinas",
-    "required": null,
+    "required": "Aquinas",
     "alternates": [
      "Aquinas",
-     "Saint Thomas Aquinas",
-     "n=Aquinas"
+     "Saint Thomas Aquinas"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -27157,13 +27123,12 @@
   "difficulty": "hard",
   "text": "This close friend of Muhammad and father of his wife Aisha became the first caliph in 632. He put down rebellions in Arabia and had the Quran gathered into written form. For 10 points, name this first of the rightly guided caliphs.",
   "answer": "Abu Bakr",
-  "required": null,
+  "required": "Bakr",
   "alternates": [
-   "Abu Bakr al-Siddiq",
-   "n=Bakr"
+   "Abu Bakr al-Siddiq"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -27714,13 +27679,12 @@
     "text": "Which Moroccan traveler of the fourteenth century wrote a famous account of his journeys across the Muslim world?",
     "part_difficulty": "easy",
     "answer": "Ibn Battuta",
-    "required": null,
+    "required": "Battuta",
     "alternates": [
-     "Battuta",
-     "n=Battuta"
+     "Battuta"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -27818,19 +27782,18 @@
   "difficulty": "easy",
   "text": "This prince was born in Lumbini, in what is now Nepal, and grew up in a palace shielded from suffering. After seeing an old man, a sick man, and a corpse, he gave up his wealth to seek enlightenment. He attained it beneath a fig tree after long meditation. For 10 points, name this founder of Buddhism, known by a title meaning the awakened one.",
   "answer": "Siddhartha Gautama",
-  "required": null,
+  "required": "Gautama",
   "alternates": [
    "Buddha",
    "the Buddha",
    "Gautama Buddha",
    "Gautama",
-   "Siddhartha",
-   "n=Gautama part"
+   "Siddhartha"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -28968,13 +28931,12 @@
   "difficulty": "easy",
   "text": "This man was the first of the ten Sikh gurus. Born in the Punjab in 1469, he taught that there is one God and that all people are equal. He traveled widely, spreading his message through songs and poems. For 10 points, name this founder of Sikhism.",
   "answer": "Guru Nanak",
-  "required": null,
+  "required": "Nanak",
   "alternates": [
-   "Nanak",
-   "n=Nanak"
+   "Nanak"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -37778,13 +37740,12 @@
   "difficulty": "medium",
   "text": "This British scientist invented the World Wide Web in 1989 while working at CERN. He wrote the first web browser and server. He proposed HTTP and URLs. For 10 points, name this computer scientist, whose name includes \"Berners.\"",
   "answer": "Tim Berners-Lee",
-  "required": null,
+  "required": "Berners-Lee",
   "alternates": [
-   "Berners-Lee",
-   "n=Berners-Lee"
+   "Berners-Lee"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -45897,14 +45858,13 @@
     "text": "Which Portuguese explorer was the first European to sail around Africa to India in 1498?",
     "part_difficulty": "medium",
     "answer": "Vasco da Gama",
-    "required": null,
+    "required": "Gama",
     "alternates": [
      "da Gama",
-     "Gama",
-     "n=Gama"
+     "Gama"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -45955,14 +45915,13 @@
     "text": "Which Argentine general crossed the Andes in 1817 to help free Chile and Peru?",
     "part_difficulty": "medium",
     "answer": "Jose de San Martin",
-    "required": null,
+    "required": "Martin",
     "alternates": [
      "San Martin",
-     "José de San Martín",
-     "n=Martin"
+     "José de San Martín"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -46173,15 +46132,14 @@
     "text": "Which Aztec emperor was ruling when Cortes arrived?",
     "part_difficulty": "medium",
     "answer": "Montezuma II",
-    "required": null,
+    "required": "Montezuma",
     "alternates": [
      "Montezuma",
      "Moctezuma",
-     "Moctezuma II",
-     "n=Montezuma"
+     "Moctezuma II"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },

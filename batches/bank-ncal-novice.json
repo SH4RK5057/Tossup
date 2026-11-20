@@ -13306,14 +13306,13 @@
   "difficulty": "easy",
   "text": "Which American film composer wrote the scores for Star Wars, Jaws, and the Harry Potter movies?",
   "answer": "John Williams",
-  "required": null,
+  "required": "Williams",
   "alternates": [
-   "Williams",
-   "dup n"
+   "Williams"
   ],
   "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
+  "answer_type": "name",
+  "duplicate_name": true,
   "accepts_partial_name": false
  },
  {
@@ -14235,14 +14234,13 @@
     "text": "With which French novelist did Chopin have a long relationship, who wrote under the name George Sand?",
     "part_difficulty": "hard",
     "answer": "Aurore Dupin",
-    "required": null,
+    "required": "Dupin",
     "alternates": [
      "Amantine Dupin",
-     "Madame Dudevant",
-     "n=Dupin"
+     "Madame Dudevant"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -14320,10 +14318,11 @@
     "required": null,
     "alternates": [
      "United States of America",
-     "America",
-     "p=U.S."
+     "America"
     ],
-    "prompt_on": [],
+    "prompt_on": [
+     "U.S."
+    ],
     "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
@@ -19746,15 +19745,14 @@
     "text": "What is the name of the dwarf leader of the company, who is called \"Oakenshield\"?",
     "part_difficulty": "hard",
     "answer": "Thorin Oakenshield",
-    "required": null,
+    "required": "Oakenshield",
     "alternates": [
-     "Thorin",
-     "n=Oakenshield part"
+     "Thorin"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    }
   ]
  },
@@ -19879,29 +19877,27 @@
     "text": "What is the name of the Greaser who narrates the story?",
     "part_difficulty": "easy",
     "answer": "Ponyboy Curtis",
-    "required": null,
+    "required": "Curtis",
     "alternates": [
-     "Ponyboy",
-     "n=Curtis part"
+     "Ponyboy"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "Which Greaser kills a Soc named Bob to protect Ponyboy?",
     "part_difficulty": "medium",
     "answer": "Johnny Cade",
-    "required": null,
+    "required": "Cade",
     "alternates": [
-     "Johnny",
-     "n=Cade part"
+     "Johnny"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "Which poet wrote \"Nothing Gold Can Stay,\" a poem Ponyboy recites?",
@@ -19935,15 +19931,14 @@
     "text": "What is the name of the boy who is sent to Camp Green Lake after being wrongly accused of theft?",
     "part_difficulty": "easy",
     "answer": "Stanley Yelnats",
-    "required": null,
+    "required": "Yelnats",
     "alternates": [
-     "Stanley",
-     "n=Yelnats part"
+     "Stanley"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "What is the nickname of Stanley's friend Hector, who digs holes beside him and cannot read at first?",
@@ -19962,16 +19957,15 @@
     "text": "What is the outlaw name of the former schoolteacher Kate Barlow?",
     "part_difficulty": "hard",
     "answer": "Kissin' Kate Barlow",
-    "required": null,
+    "required": "Barlow",
     "alternates": [
      "Kate Barlow",
-     "Kissin' Kate",
-     "n=Barlow part"
+     "Kissin' Kate"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    }
   ]
  },
@@ -20097,15 +20091,14 @@
     "text": "Which Pevensie child is the first to discover Narnia through the wardrobe?",
     "part_difficulty": "easy",
     "answer": "Lucy Pevensie",
-    "required": null,
+    "required": "Pevensie",
     "alternates": [
-     "Lucy",
-     "n=Pevensie part"
+     "Lucy"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "Which faun does Lucy meet near a lamppost in Narnia?",
@@ -20163,15 +20156,14 @@
     "text": "What is the name of Peter's fairy companion?",
     "part_difficulty": "medium",
     "answer": "Tinker Bell",
-    "required": null,
+    "required": "Bell",
     "alternates": [
-     "Tinkerbell",
-     "n=Bell part"
+     "Tinkerbell"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "What is the name of the Darling children's dog, who serves as their nurse?",
@@ -20203,15 +20195,14 @@
     "text": "What is the name of the boy who narrates the story?",
     "part_difficulty": "easy",
     "answer": "Jim Hawkins",
-    "required": null,
+    "required": "Hawkins",
     "alternates": [
-     "Jim",
-     "n=Hawkins part"
+     "Jim"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "What is the name of the inn run by Jim's parents?",
@@ -20336,15 +20327,14 @@
     "text": "What is the name of the judge's daughter on whom Tom has a crush?",
     "part_difficulty": "hard",
     "answer": "Becky Thatcher",
-    "required": null,
+    "required": "Thatcher",
     "alternates": [
-     "Becky",
-     "n=Thatcher part"
+     "Becky"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    }
   ]
  },
@@ -20365,29 +20355,27 @@
     "text": "What is the first name of the girl at the center of the story, whose last name is Murry?",
     "part_difficulty": "easy",
     "answer": "Meg",
-    "required": null,
+    "required": "Murry",
     "alternates": [
-     "Meg Murry",
-     "n=Murry part"
+     "Meg Murry"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "What is the name of Meg's gifted young brother?",
     "part_difficulty": "medium",
     "answer": "Charles Wallace",
-    "required": null,
+    "required": "Murry",
     "alternates": [
-     "Charles Wallace Murry",
-     "n=Murry part"
+     "Charles Wallace Murry"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "What is the name of the planet where Meg and her friends find IT?",
@@ -20419,15 +20407,14 @@
     "text": "What is the name of the boy who becomes best friends with Leslie?",
     "part_difficulty": "easy",
     "answer": "Jess Aarons",
-    "required": null,
+    "required": "Aarons",
     "alternates": [
-     "Jess",
-     "n=Aarons part"
+     "Jess"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
-    "accepts_partial_name": false
+    "accepts_partial_name": true
    },
    {
     "text": "What is the last name of Jess's friend Leslie?",
@@ -20485,15 +20472,14 @@
     "text": "Which friar marries Romeo and Juliet in secret?",
     "part_difficulty": "medium",
     "answer": "Friar Laurence",
-    "required": null,
+    "required": "Laurence",
     "alternates": [
      "Friar Lawrence",
      "Laurence",
-     "Lawrence",
-     "n=Laurence"
+     "Lawrence"
     ],
     "prompt_on": [],
-    "answer_type": "general",
+    "answer_type": "name",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
@@ -34189,16 +34175,15 @@
   "difficulty": "hard",
   "text": "Which British astronomer discovered the first pulsars in 1967?",
   "answer": "Jocelyn Bell Burnell",
-  "required": null,
+  "required": "Burnell",
   "alternates": [
    "Bell Burnell",
-   "Jocelyn Bell",
-   "n=Burnell part"
+   "Jocelyn Bell"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -40075,15 +40060,14 @@
   "difficulty": "hard",
   "text": "What Polish-born scientist discovered the elements polonium and radium?",
   "answer": "Marie Curie",
-  "required": null,
+  "required": "Curie",
   "alternates": [
-   "Curie",
-   "n part"
+   "Curie"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -45614,13 +45598,12 @@
   "difficulty": "easy",
   "text": "Which author wrote the fantasy novel \"The Hobbit\"?",
   "answer": "J. R. R. Tolkien",
-  "required": null,
+  "required": "Tolkien",
   "alternates": [
-   "Tolkien",
-   "n=Tolkien"
+   "Tolkien"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -45637,15 +45620,14 @@
   "difficulty": "easy",
   "text": "Which character in \"The Hobbit\" is the hobbit who goes on an adventure with dwarves and a wizard?",
   "answer": "Bilbo Baggins",
-  "required": null,
+  "required": "Baggins",
   "alternates": [
-   "Bilbo",
-   "n=Baggins part"
+   "Bilbo"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",
@@ -45855,13 +45837,12 @@
   "difficulty": "medium",
   "text": "Which author wrote the novel \"A Wrinkle in Time\"?",
   "answer": "Madeleine L'Engle",
-  "required": null,
+  "required": "L'Engle",
   "alternates": [
-   "L'Engle",
-   "n=L'Engle"
+   "L'Engle"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -46274,13 +46255,12 @@
   "difficulty": "medium",
   "text": "In \"Little Women,\" what is the name of the March sister who wants to be a writer?",
   "answer": "Jo",
-  "required": null,
+  "required": "Jo",
   "alternates": [
-   "Jo March",
-   "n=Jo"
+   "Jo March"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -46297,13 +46277,12 @@
   "difficulty": "hard",
   "text": "In \"Little Women,\" which March sister is the youngest?",
   "answer": "Amy",
-  "required": null,
+  "required": "Amy",
   "alternates": [
-   "Amy March",
-   "n=Amy"
+   "Amy March"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -46408,15 +46387,14 @@
   "difficulty": "medium",
   "text": "In \"The Hunger Games,\" what is the name of the girl who volunteers to take her sister's place?",
   "answer": "Katniss Everdeen",
-  "required": null,
+  "required": "Everdeen",
   "alternates": [
-   "Katniss",
-   "n=Everdeen part"
+   "Katniss"
   ],
   "prompt_on": [],
-  "answer_type": "general",
+  "answer_type": "name",
   "duplicate_name": false,
-  "accepts_partial_name": false
+  "accepts_partial_name": true
  },
  {
   "type": "tossup",

@@ -44,6 +44,11 @@ export function runBankChecks(rows: Raw[], existing: Raw[] = [], limit = 25): Ch
   });
   add('schema and subject tree', schema);
 
+  // Current events go stale: each needs an expiry date so the site stops serving it (x=YYYY-MM-DD in the bank format).
+  add('current-events questions carry an expiry date', parsed.flatMap((r, i) =>
+    r.category === 'Current Events' && !r.expires_at
+      ? [`row ${i}: ${(r.type === 'tossup' ? r.text : r.leadin).slice(0, 60)}`] : []));
+
   // 2. checker accepts every key and alternate
   const keys: string[] = [];
   valid.forEach((raw, i) => {
