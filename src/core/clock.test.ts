@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { PACE_MULTIPLIER, scaledTossupSeconds, type ClockQuestion } from './clock';
+import { PACE_MULTIPLIER, scaledBonusSeconds, scaledTossupSeconds, type ClockQuestion } from './clock';
 import { activeClockSeconds, createSession } from './session';
 import type { Question } from './types';
 
@@ -52,5 +52,22 @@ describe('session clock', () => {
   });
   it('stays untimed when untimed, even with a pace', () => {
     expect(activeClockSeconds(make({ tossupSeconds: null, tossupPace: 1 }))).toBeNull();
+  });
+});
+
+describe('scaledBonusSeconds', () => {
+  const bonus = (words: number, answers: string[]) => ({
+    leadin: words ? Array.from({ length: words }, () => 'w').join(' ') : '',
+    parts: answers.map((a) => ({ text: '', answer: a, answer_type: 'general' as const })),
+  });
+  it('adds reading, the 20 second confer window and typing', () => {
+    // 40 words / 4 = 10, + 20 confer, + 30 chars / 3.3 = 9.09 -> 39.09 -> 40
+    expect(scaledBonusSeconds(bonus(40, ['aaaaaaaaaa', 'bbbbbbbbbb', 'cccccccccc']), 1)).toBe(40);
+  });
+  it('always allows at least 5 seconds of answering', () => {
+    expect(scaledBonusSeconds(bonus(0, ['a']), 1)).toBe(25);
+  });
+  it('scales with pace', () => {
+    expect(scaledBonusSeconds(bonus(40, ['aaaaaaaaaa']), 1.6)).toBeGreaterThan(scaledBonusSeconds(bonus(40, ['aaaaaaaaaa']), 1));
   });
 });

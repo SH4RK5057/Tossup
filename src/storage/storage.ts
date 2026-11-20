@@ -54,6 +54,8 @@ export const settingsSchema = z.object({
   tossupPace: z.enum(PACES).default('official'),
   tossupSeconds: z.number().min(3).max(300).default(ncalDefaults.tossupSeconds),
   tossupUntimed: z.boolean().default(false),
+  /** Bonuses shown all at once: 'scaled' follows the bonus length and `tossupPace`; 'fixed' is the flat `bonusSeconds`. */
+  bonusTiming: z.enum(['scaled', 'fixed']).default('scaled'),
   bonusSeconds: z.number().min(3).max(600).default(ncalDefaults.bonus.defaultSeconds),
   bonusUntimed: z.boolean().default(false),
   bonusesOn: z.boolean().default(true),

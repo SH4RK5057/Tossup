@@ -85,6 +85,7 @@ function Main({ services }: { services: Services }) {
           tossupSeconds: settings.tossupUntimed ? null : settings.tossupSeconds,
           ...(settings.tossupTiming === 'scaled' ? { tossupPace: PACE_MULTIPLIER[settings.tossupPace] } : {}),
           bonusSeconds: settings.bonusUntimed ? null : settings.bonusSeconds,
+          ...(settings.bonusTiming === 'scaled' ? { bonusPace: PACE_MULTIPLIER[settings.tossupPace] } : {}),
           bonusesOn: settings.bonusesOn,
         },
         length: kind !== 'sim' ? { kind: 'all' } : settings.simLength === 'match' ? { kind: 'match' } : { kind: 'count', n: settings.simCount },

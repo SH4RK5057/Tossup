@@ -135,10 +135,32 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
 
           <div className="field">
             <span className="lbl">
-              Bonus time (seconds {rs.bonus.timing === 'together' ? 'for all parts' : 'per part'})
+              Bonus time{rs.bonus.timing === 'together' ? '' : ' (seconds per part)'}
             </span>
+            {rs.bonus.timing === 'together' && (
+              <>
+                <div className="row">
+                  <label className="inline-check">
+                    <input type="radio" name="bonusTiming" disabled={settings.bonusUntimed} checked={settings.bonusTiming === 'scaled'}
+                      onChange={() => set({ bonusTiming: 'scaled' })} />
+                    Scaled to bonus length (uses the pace above)
+                  </label>
+                </div>
+                {settings.bonusTiming === 'scaled' && !settings.bonusUntimed && (
+                  <p className="hint">Reading time + 20 s to confer + typing time for the answers (at least 5 s). All parts share one clock.</p>
+                )}
+              </>
+            )}
             <div className="row">
-              <input type="number" min={3} max={600} style={{ width: 100 }} disabled={settings.bonusUntimed}
+              {rs.bonus.timing === 'together' && (
+                <label className="inline-check">
+                  <input type="radio" name="bonusTiming" disabled={settings.bonusUntimed} checked={settings.bonusTiming === 'fixed'}
+                    onChange={() => set({ bonusTiming: 'fixed' })} />
+                  Flat
+                </label>
+              )}
+              <input type="number" min={3} max={600} style={{ width: 100 }} aria-label="Flat bonus seconds"
+                disabled={settings.bonusUntimed || (rs.bonus.timing === 'together' && settings.bonusTiming !== 'fixed')}
                 value={settings.bonusSeconds}
                 onChange={(e) => set({ bonusSeconds: Math.max(3, Number(e.target.value) || rs.bonus.defaultSeconds) })} />
               <label className="inline-check">

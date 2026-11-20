@@ -2,7 +2,7 @@
 // Timers live in the UI layer and dispatch `timeout` / `clockExpired`.
 
 import { check } from './checker';
-import { scaledTossupSeconds } from './clock';
+import { scaledBonusSeconds, scaledTossupSeconds } from './clock';
 import { buildBonusSequence, buildTossupSequence, type PoolFilter } from './pool';
 import { getRuleset } from './rulesets';
 import type { Ruleset } from './rulesets/types';
@@ -20,6 +20,8 @@ export interface SessionSettings {
   tossupPace?: number;
   /** NCAL: seconds for the whole bonus. Quizbowl: seconds per part. null = untimed. */
   bonusSeconds: number | null;
+  /** Like `tossupPace`, for bonuses shown all at once (NCAL). Sequential bonuses always use the flat clock. */
+  bonusPace?: number;
   bonusesOn: boolean;
 }
 
@@ -202,7 +204,11 @@ export function activeClockSeconds(s: SessionState): number | null {
     // The "More specific?" follow-up has no reading to do.
     return scaledTossupSeconds(q, s.settings.tossupPace, s.phase === 'tossup');
   }
-  if (s.phase === 'bonus') return s.settings.bonusSeconds;
+  if (s.phase === 'bonus') {
+    const b = currentBonus(s);
+    if (s.settings.bonusSeconds === null || !s.settings.bonusPace || !b || !bonusIsTogether(s)) return s.settings.bonusSeconds;
+    return scaledBonusSeconds(b, s.settings.bonusPace);
+  }
   return null;
 }
 

@@ -23,6 +23,12 @@ export const MIN_TYPING_SECONDS = 3;
 export const MIN_CLOCK_SECONDS = 5;
 export const MAX_CLOCK_SECONDS = 60;
 
+/** Official bonus: 20 seconds to confer after the bonus is read. */
+export const BONUS_CONFER_SECONDS = 20;
+/** Official bonus: about 5 seconds to give the answers; typing is never allowed less. */
+export const BONUS_MIN_ANSWER_SECONDS = 5;
+export const MAX_BONUS_CLOCK_SECONDS = 180;
+
 export interface ClockQuestion {
   text: string;
   answer: string;
@@ -41,4 +47,23 @@ export function scaledTossupSeconds(q: ClockQuestion, multiplier: number, includ
   const extra = q.answer_type === 'math' ? 3 : q.answer_type === 'foreign_language' ? 2 : 0;
   const total = (reading + THINK_SECONDS + typing + extra) * multiplier;
   return Math.min(MAX_CLOCK_SECONDS, Math.max(MIN_CLOCK_SECONDS, Math.ceil(total)));
+}
+
+export interface ClockBonus {
+  leadin: string;
+  parts: { text: string; answer: string; answer_type: ClockQuestion['answer_type'] }[];
+}
+
+/**
+ * Seconds for a bonus whose parts are all shown at once: reading the lead-in and every part, the 20 seconds
+ * to confer, then typing all the answers (at least the ~5 seconds you would have had to say them).
+ */
+export function scaledBonusSeconds(b: ClockBonus, multiplier: number): number {
+  const words = [b.leadin, ...b.parts.map((p) => p.text)].join(' ').split(/\s+/).filter(Boolean).length;
+  const reading = words / READ_WORDS_PER_SECOND;
+  const chars = b.parts.reduce((n, p) => n + p.answer.length, 0);
+  const typing = Math.max(BONUS_MIN_ANSWER_SECONDS, chars / TYPE_CHARS_PER_SECOND);
+  const extra = b.parts.reduce((n, p) => n + (p.answer_type === 'math' ? 3 : p.answer_type === 'foreign_language' ? 2 : 0), 0);
+  const total = (reading + BONUS_CONFER_SECONDS + typing + extra) * multiplier;
+  return Math.min(MAX_BONUS_CLOCK_SECONDS, Math.max(MIN_CLOCK_SECONDS, Math.ceil(total)));
 }
