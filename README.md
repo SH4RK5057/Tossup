@@ -73,3 +73,9 @@ All are in `src/core/rulesets/ncal.ts`:
 `batches/questions-batch-1.json` holds 283 tossups and 61 bonuses (NCAL and quizbowl, all levels) in importer format, `source: "ai-claude-batch1"`. Import it from Admin → Import & verify, then verify or activate. Rebuild it from `scripts/batch1/*.mjs` with `node scripts/batch1/build.mjs`; `src/admin/batch1.test.ts` enforces the quality gates (schema, subject tree, no duplicates, checker accepts every key, no answer leaks).
 
 `batches/master-import.json` is the seed plus all batches (422 questions) as clean importer rows; import this single file. Rebuild it with `node scripts/build-master.mjs`.
+
+## Baked-in question bank (no database reads for practice)
+
+Practice questions are baked into the site: `npm run dev` and `npm run build` first run `scripts/export-site-bank.mjs`, which writes `public/bank/<ruleset>-<level>.json` from `batches/master-import.json` (generated, git-ignored). The browser fetches only the file(s) for the chosen ruleset and level and draws questions at random from all of them, so there are no Firestore reads or quotas. Firestore is still used for reports and the admin tools if configured.
+
+To change the bank: edit the files in `scripts/bank/data/` (or `patches.json`), then `node scripts/bank/build.mjs && node scripts/build-master.mjs`, commit, and push; the deploy rebuilds the site. Admin edits made in the app change Firestore only, not the baked bank.

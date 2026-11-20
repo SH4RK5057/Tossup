@@ -1,4 +1,5 @@
 import { createDevAuth, noAuth, SeedRepository } from './seedRepository';
+import { StaticPoolRepository } from './staticRepository';
 import type { AuthService, QuestionRepository } from './repository';
 
 export interface Services {
@@ -17,8 +18,9 @@ const devAdmin = import.meta.env.DEV && import.meta.env.VITE_DEV_ADMIN === '1';
 export async function loadServices(): Promise<Services> {
   if (firebaseConfigured) {
     const { createFirebase } = await import('./firestoreRepository');
-    return createFirebase();
+    const fb = createFirebase();
+    return { ...fb, repo: new StaticPoolRepository(fb.repo) };
   }
-  if (devAdmin) return { repo: new SeedRepository(undefined, true), auth: createDevAuth() };
-  return { repo: new SeedRepository(), auth: noAuth };
+  if (devAdmin) return { repo: new StaticPoolRepository(new SeedRepository(undefined, true)), auth: createDevAuth() };
+  return { repo: new StaticPoolRepository(new SeedRepository()), auth: noAuth };
 }

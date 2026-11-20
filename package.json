@@ -4,7 +4,10 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "bank": "node scripts/export-site-bank.mjs",
+    "predev": "node scripts/export-site-bank.mjs",
     "dev": "vite",
+    "prebuild": "node scripts/export-site-bank.mjs",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
