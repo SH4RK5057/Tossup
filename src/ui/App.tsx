@@ -1,4 +1,5 @@
 import { lazy, Suspense, useCallback, useEffect, useRef, useState } from 'react';
+import { PACE_MULTIPLIER } from '../core/clock';
 import { levelsForPool } from '../core/pool';
 import { getRuleset } from '../core/rulesets';
 import { createSession, reduce, type Action, type SessionKind, type SessionState } from '../core/session';
@@ -82,6 +83,7 @@ function Main({ services }: { services: Services }) {
         filter: { subjects: settings.subjects, fullDistribution: settings.fullDistribution, difficulties: settings.difficulties },
         settings: {
           tossupSeconds: settings.tossupUntimed ? null : settings.tossupSeconds,
+          ...(settings.tossupTiming === 'scaled' ? { tossupPace: PACE_MULTIPLIER[settings.tossupPace] } : {}),
           bonusSeconds: settings.bonusUntimed ? null : settings.bonusSeconds,
           bonusesOn: settings.bonusesOn,
         },

@@ -1,3 +1,4 @@
+import { PACE_LABEL, PACES } from '../core/clock';
 import { getRuleset, RULESETS } from '../core/rulesets';
 import { subjectKey } from '../core/pool';
 import type { SessionKind } from '../core/session';
@@ -99,16 +100,37 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
           </div>
 
           <div className="field">
-            <span className="lbl">Tossup answer time (seconds)</span>
+            <span className="lbl">Tossup answer time</span>
             <div className="row">
-              <input type="number" min={3} max={300} style={{ width: 100 }} disabled={settings.tossupUntimed}
+              <label className="inline-check">
+                <input type="radio" name="tossupTiming" disabled={settings.tossupUntimed} checked={settings.tossupTiming === 'scaled'}
+                  onChange={() => set({ tossupTiming: 'scaled' })} />
+                Scaled to question length
+              </label>
+              <select style={{ width: 170 }} aria-label="Pace" disabled={settings.tossupUntimed || settings.tossupTiming !== 'scaled'}
+                value={settings.tossupPace} onChange={(e) => set({ tossupPace: e.target.value as Settings['tossupPace'] })}>
+                {PACES.map((p) => <option key={p} value={p}>{PACE_LABEL[p]}</option>)}
+              </select>
+            </div>
+            <div className="row">
+              <label className="inline-check">
+                <input type="radio" name="tossupTiming" disabled={settings.tossupUntimed} checked={settings.tossupTiming === 'fixed'}
+                  onChange={() => set({ tossupTiming: 'fixed' })} />
+                Flat
+              </label>
+              <input type="number" min={3} max={300} style={{ width: 100 }} aria-label="Flat seconds"
+                disabled={settings.tossupUntimed || settings.tossupTiming !== 'fixed'}
                 value={settings.tossupSeconds}
                 onChange={(e) => set({ tossupSeconds: Math.max(3, Number(e.target.value) || rs.tossupSeconds) })} />
+              <span className="small muted">seconds</span>
               <label className="inline-check">
                 <input type="checkbox" checked={settings.tossupUntimed} onChange={(e) => set({ tossupUntimed: e.target.checked })} />
                 Untimed
               </label>
             </div>
+            {settings.tossupTiming === 'scaled' && !settings.tossupUntimed && (
+              <p className="hint">Reading time + 5 s to start answering + typing time (at least 3 s), mirroring the official 5 s to buzz and 3 s to answer.</p>
+            )}
           </div>
 
           <div className="field">

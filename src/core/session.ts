@@ -2,6 +2,7 @@
 // Timers live in the UI layer and dispatch `timeout` / `clockExpired`.
 
 import { check } from './checker';
+import { scaledTossupSeconds } from './clock';
 import { buildBonusSequence, buildTossupSequence, type PoolFilter } from './pool';
 import { getRuleset } from './rulesets';
 import type { Ruleset } from './rulesets/types';
@@ -10,8 +11,13 @@ import type { AnswerSpec, Bonus, Level, PartDifficulty, Question, RulesetId, Tos
 export type SessionKind = 'tossup' | 'bonus' | 'sim';
 
 export interface SessionSettings {
-  /** Seconds to answer a tossup; null = untimed. */
+  /** Flat seconds to answer a tossup; null = untimed. */
   tossupSeconds: number | null;
+  /**
+   * When set (and the tossup is timed), the clock is scaled to the question's length (see clock.ts) and this
+   * is the pace multiplier; `tossupSeconds` is then only the untimed flag. Omit for the flat clock.
+   */
+  tossupPace?: number;
   /** NCAL: seconds for the whole bonus. Quizbowl: seconds per part. null = untimed. */
   bonusSeconds: number | null;
   bonusesOn: boolean;
@@ -190,7 +196,12 @@ export const bonusIsTogether = (s: SessionState) => ruleOf(s).bonus.timing === '
 
 /** Seconds on the clock for the current phase, or null if untimed / no clock. */
 export function activeClockSeconds(s: SessionState): number | null {
-  if (s.phase === 'tossup' || s.phase === 'tossup_prompt') return s.settings.tossupSeconds;
+  if (s.phase === 'tossup' || s.phase === 'tossup_prompt') {
+    const q = currentTossup(s);
+    if (s.settings.tossupSeconds === null || !s.settings.tossupPace || !q) return s.settings.tossupSeconds;
+    // The "More specific?" follow-up has no reading to do.
+    return scaledTossupSeconds(q, s.settings.tossupPace, s.phase === 'tossup');
+  }
   if (s.phase === 'bonus') return s.settings.bonusSeconds;
   return null;
 }

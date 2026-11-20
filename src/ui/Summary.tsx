@@ -71,6 +71,9 @@ interface Props {
 /** End-of-session screen: the only place (with the stats page) that shows streaks and stats. */
 export function Summary({ summary: s, onAgain, onHome }: Props) {
   const rs = getRuleset(s.rulesetId);
+  // Every tossup and bonus part answered this session.
+  const overall = Object.values(s.bySubject).reduce<Tally>(
+    (a, t) => ({ seen: a.seen + t.seen, correct: a.correct + t.correct }), { seen: 0, correct: 0 });
   const ppb = s.bonuses.played ? s.bonuses.points / s.bonuses.played : null;
   return (
     <div className="page stack">
@@ -84,7 +87,9 @@ export function Summary({ summary: s, onAgain, onHome }: Props) {
       </div>
       <div className="stat-tiles">
         <div className="tile"><small>Final score</small><b>{s.score}</b></div>
-        {s.kind !== 'bonus' && <div className="tile"><small>Tossups correct</small><b>{s.tossups.correct}/{s.tossups.seen}</b></div>}
+        <div className="tile"><small>Correct ({overall.correct}/{overall.seen})</small><b>{formatPercent(accuracy(overall))}</b></div>
+        {s.kind !== 'bonus' && <div className="tile"><small>Tossups correct</small><b>{s.tossups.correct}/{s.tossups.seen}</b>
+          <small>{formatPercent(accuracy(s.tossups))}</small></div>}
         {s.kind !== 'bonus' && <div className="tile"><small>Best streak</small><b>{s.bestStreak}</b></div>}
         {s.bonuses.played > 0 && <div className="tile"><small>Points per bonus</small><b>{ppb?.toFixed(1)}</b></div>}
       </div>

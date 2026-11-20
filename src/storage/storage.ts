@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { PACES } from '../core/clock';
 import { DEFAULT_RULESET, getRuleset } from '../core/rulesets';
 import type { SessionSummary } from '../core/stats';
 import { levelSchema, partDifficultySchema, rulesetIdSchema } from '../core/types';
@@ -48,6 +49,9 @@ export const settingsSchema = z.object({
   level: levelSchema.default('novice'),
   /** Which difficulties to practice (multi-select, at least one). */
   difficulties: z.array(partDifficultySchema).min(1).default(['easy', 'medium', 'hard']),
+  /** 'scaled': clock follows question length and `tossupPace`; 'fixed': flat `tossupSeconds`. */
+  tossupTiming: z.enum(['scaled', 'fixed']).default('scaled'),
+  tossupPace: z.enum(PACES).default('official'),
   tossupSeconds: z.number().min(3).max(300).default(ncalDefaults.tossupSeconds),
   tossupUntimed: z.boolean().default(false),
   bonusSeconds: z.number().min(3).max(600).default(ncalDefaults.bonus.defaultSeconds),
