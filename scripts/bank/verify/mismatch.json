@@ -1,0 +1,1365 @@
+[
+ {
+  "id": "ncal-jv:446",
+  "text": "Who wrote \"The Autocrat of the Breakfast-Table\"?",
+  "parts": [
+   {
+    "key": "Oliver Wendell Holmes",
+    "cold": "Oliver Wendell Holmes Sr.",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:878",
+  "text": "Which 1859 raid at Harpers Ferry was led by the abolitionist John Brown?",
+  "parts": [
+   {
+    "key": "raid on Harpers Ferry",
+    "cold": "John Brown's raid",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:914",
+  "text": "Answer these questions about the Cold War. || Which country was the main rival of the United States in the Cold War? || Which divided country was invaded by communist North Korea in 1950? || Which 1961 failed invasion of Cuba was backed by the CIA?",
+  "parts": [
+   {
+    "key": "Soviet Union",
+    "cold": "Soviet Union",
+    "ok": true
+   },
+   {
+    "key": "South Korea",
+    "cold": "Korea",
+    "ok": false
+   },
+   {
+    "key": "Bay of Pigs invasion",
+    "cold": "Bay of Pigs",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1068",
+  "text": "Answer these questions about the Spanish alphabet and pronunciation. || What mark placed above the letter \"n\" gives Spanish its special letter, as in \"año\"? || What is the name of the Spanish letter \"ñ\"? || What mark is used to show stress on a vowel, as in \"café\"? || What is the Spanish name for the letter \"w\"?",
+  "parts": [
+   {
+    "key": "tilde",
+    "cold": "tilde",
+    "ok": true
+   },
+   {
+    "key": "eñe",
+    "cold": "eñe",
+    "ok": true
+   },
+   {
+    "key": "accent mark",
+    "cold": "acento",
+    "ok": false
+   },
+   {
+    "key": "doble ve",
+    "cold": "doble ve",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1156",
+  "text": "What is the French phrase for \"headache,\" using \"mal\"?",
+  "parts": [
+   {
+    "key": "le mal de tête",
+    "cold": "mal à la tête",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1218",
+  "text": "Answer these questions about household chores in French. || What does the French phrase \"faire la vaisselle\" mean? Name what is washed. || What French verb means \"to sweep\"? || What French verb means \"to cook\"? || What French verb means \"to set\" a table, as in \"___ la table\"?",
+  "parts": [
+   {
+    "key": "dishes",
+    "cold": "wash the dishes",
+    "ok": false
+   },
+   {
+    "key": "balayer",
+    "cold": "balayer",
+    "ok": true
+   },
+   {
+    "key": "cuisiner",
+    "cold": "cuisiner",
+    "ok": true
+   },
+   {
+    "key": "mettre",
+    "cold": "mettre",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1220",
+  "text": "Answer these questions about French words of quantity and the partitive. || What French preposition is used for \"of\" in a phrase such as \"beaucoup ___ livres\"? || What is the partitive article used with a masculine noun, as in \"Je mange ___ pain\"? || What is the partitive article used with a feminine noun, as in \"Je bois ___ eau\"? || What is the partitive article used with a plural noun, as in \"Je mange ___ légumes\"?",
+  "parts": [
+   {
+    "key": "de",
+    "cold": "de",
+    "ok": true
+   },
+   {
+    "key": "du",
+    "cold": "du",
+    "ok": true
+   },
+   {
+    "key": "de la",
+    "cold": "de l'",
+    "ok": false
+   },
+   {
+    "key": "des",
+    "cold": "des",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1224",
+  "text": "Answer these questions about French music and arts words. || What is the French word for \"painting\" as a work of art? || What does the French verb \"chanter\" mean in English? || What is the French word for \"guitar\"? || What is the French word for \"song\"?",
+  "parts": [
+   {
+    "key": "la peinture",
+    "cold": "le tableau",
+    "ok": false
+   },
+   {
+    "key": "to sing",
+    "cold": "to sing",
+    "ok": true
+   },
+   {
+    "key": "la guitare",
+    "cold": "la guitare",
+    "ok": true
+   },
+   {
+    "key": "la chanson",
+    "cold": "la chanson",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1334",
+  "text": "Answer these questions about photosynthesis. || What pigment captures light energy in plants? || What region inside a chloroplast contains stacks of thylakoids? || What enzyme fixes carbon dioxide in the Calvin cycle?",
+  "parts": [
+   {
+    "key": "chlorophyll",
+    "cold": "chlorophyll",
+    "ok": true
+   },
+   {
+    "key": "grana",
+    "cold": "stroma",
+    "ok": false
+   },
+   {
+    "key": "rubisco",
+    "cold": "RuBisCO",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1353",
+  "text": "Answer these questions about taxonomy. || What is the term for the first word in a binomial scientific name? || What are the three domains of life? || What kingdom includes mushrooms and molds?",
+  "parts": [
+   {
+    "key": "genus",
+    "cold": "genus",
+    "ok": true
+   },
+   {
+    "key": "Bacteria, Archaea, and Eukarya",
+    "cold": "Bacteria, Archaea, Eukarya",
+    "ok": false
+   },
+   {
+    "key": "Fungi",
+    "cold": "Fungi",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1359",
+  "text": "What is the name of the compound, NADPH or NADH, that carries electrons?",
+  "parts": [
+   {
+    "key": "electron carrier",
+    "cold": "NADH",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1368",
+  "text": "Answer these questions about the cell cycle. || What term names the process by which the cytoplasm divides at the end of cell division? || What term describes a cell that has stopped dividing and is in a resting state called G zero? || What group of proteins regulates the cell cycle and is named for rising and falling in concentration?",
+  "parts": [
+   {
+    "key": "cytokinesis",
+    "cold": "cytokinesis",
+    "ok": true
+   },
+   {
+    "key": "G0",
+    "cold": "quiescent",
+    "ok": false
+   },
+   {
+    "key": "cyclins",
+    "cold": "cyclins",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-jv:1555",
+  "text": "Answer these questions about Art Nouveau. || Alphonse Mucha, known for decorative posters, came from which present-day country whose capital is Prague? || Louis Comfort Tiffany was famous for lamps and windows made from what material? || Which Spanish architect of Barcelona designed the Park Güell in an Art Nouveau-related style?",
+  "parts": [
+   {
+    "key": "Czech Republic",
+    "cold": "Czech Republic",
+    "ok": true
+   },
+   {
+    "key": "stained glass",
+    "cold": "glass",
+    "ok": false
+   },
+   {
+    "key": "Antoni Gaudí",
+    "cold": "Antoni Gaudí",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:348",
+  "text": "Answer these questions about creating depth in a picture. || When one object partly covers another in a picture, it creates the feeling of depth. What is this called? || What kind of perspective makes distant objects look paler, bluer, and less detailed? || In what kind of perspective do all lines recede to a single vanishing point?",
+  "parts": [
+   {
+    "key": "overlapping",
+    "cold": "overlapping",
+    "ok": true
+   },
+   {
+    "key": "atmospheric perspective",
+    "cold": "atmospheric perspective",
+    "ok": true
+   },
+   {
+    "key": "one-point perspective",
+    "cold": "linear perspective",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:353",
+  "text": "Answer these questions about monuments and sculpture bases. || What term describes a sculpture of a person that stands freely, such as Lady Liberty in New York Harbor? || What name is given to the base that a sculpture stands on? || What term describes a sculpture carved so that it projects only slightly from a flat background?",
+  "parts": [
+   {
+    "key": "statue",
+    "cold": "statue",
+    "ok": true
+   },
+   {
+    "key": "pedestal",
+    "cold": "pedestal",
+    "ok": true
+   },
+   {
+    "key": "bas-relief",
+    "cold": "relief",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:375",
+  "text": "In a time signature, what does the top number tell you?",
+  "parts": [
+   {
+    "key": "beats per measure",
+    "cold": "number of beats per measure",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:428",
+  "text": "Answer these questions about string instruments in the orchestra. || What is the smallest and highest-pitched of the orchestra's main bowed string instruments? || What instrument is played held between the knees and has a deeper tone than the viola? || What is the largest and lowest-pitched bowed string instrument in the orchestra?",
+  "parts": [
+   {
+    "key": "violin",
+    "cold": "violin",
+    "ok": true
+   },
+   {
+    "key": "cello",
+    "cold": "viola",
+    "ok": false
+   },
+   {
+    "key": "double bass",
+    "cold": "double bass",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:432",
+  "text": "Answer these questions about tempo markings. || What Italian term means very fast? || What Italian term means lively and brisk? || What Italian term means at a moderate speed?",
+  "parts": [
+   {
+    "key": "presto",
+    "cold": "presto",
+    "ok": true
+   },
+   {
+    "key": "vivace",
+    "cold": "allegro",
+    "ok": false
+   },
+   {
+    "key": "moderato",
+    "cold": "moderato",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:616",
+  "text": "Answer these questions about the physical world and people. || What is the name for the long-term pattern of weather in a place? || What is the name for the very dry region, such as the Sahara, that receives little rainfall? || What term names the study of how people use and change the environment, which geographers call the interaction of people and place?",
+  "parts": [
+   {
+    "key": "climate",
+    "cold": "climate",
+    "ok": true
+   },
+   {
+    "key": "desert",
+    "cold": "desert",
+    "ok": true
+   },
+   {
+    "key": "human geography",
+    "cold": "human-environment interaction",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:622",
+  "text": "Answer these questions about verb tenses. || What verb tense is used in the sentence \"She danced all night\"? || \"She has danced all night\" is written in which tense that uses \"has\" plus a past participle? || What tense uses \"had\" plus a past participle, as in \"She had danced all night\"?",
+  "parts": [
+   {
+    "key": "past tense",
+    "cold": "simple past",
+    "ok": false
+   },
+   {
+    "key": "present perfect",
+    "cold": "present perfect",
+    "ok": true
+   },
+   {
+    "key": "past perfect",
+    "cold": "past perfect",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:779",
+  "text": "Answer these questions about U.S. regions. || In which region of the United States are Maine and Vermont found? || Which region of the United States includes Texas, Arizona, and New Mexico? || Which broad grassland region, including Nebraska and Kansas, is known for flat prairies and farming?",
+  "parts": [
+   {
+    "key": "New England",
+    "cold": "Northeast",
+    "ok": false
+   },
+   {
+    "key": "Southwest",
+    "cold": "Southwest",
+    "ok": true
+   },
+   {
+    "key": "Great Plains",
+    "cold": "Great Plains",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:787",
+  "text": "Answer these questions about states and their borders. || Which state lies directly south of Minnesota? || Which state lies directly north of Florida and west of South Carolina? || Which four states meet at a single point in the Southwest, called the Four Corners?",
+  "parts": [
+   {
+    "key": "Iowa",
+    "cold": "Iowa",
+    "ok": true
+   },
+   {
+    "key": "Georgia",
+    "cold": "Georgia",
+    "ok": true
+   },
+   {
+    "key": "Utah, Colorado, Arizona, and New Mexico",
+    "cold": "Arizona, Colorado, New Mexico, Utah",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:922",
+  "text": "What is the Spanish word for \"classroom\"?",
+  "parts": [
+   {
+    "key": "la clase",
+    "cold": "el salon de clases",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:1282",
+  "text": "About how many years old is Earth?",
+  "parts": [
+   {
+    "key": "4.6 billion years",
+    "cold": "4.5 billion",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:1295",
+  "text": "Answer these questions about weathering and erosion. || What natural force can carve valleys by moving rock along the ground as a slow river of ice? || What type of weathering involves a change in the chemical makeup of rock, such as rusting? || What fine-grained sedimentary rock forms from compressed mud and clay? || What term describes dissolving of limestone to make caves and sinkholes?",
+  "parts": [
+   {
+    "key": "glacier",
+    "cold": "glacier",
+    "ok": true
+   },
+   {
+    "key": "chemical weathering",
+    "cold": "chemical",
+    "ok": false
+   },
+   {
+    "key": "shale",
+    "cold": "shale",
+    "ok": true
+   },
+   {
+    "key": "karst",
+    "cold": "dissolution",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:1317",
+  "text": "What type of mixture is evenly mixed throughout, such as salt dissolved in water?",
+  "parts": [
+   {
+    "key": "solution",
+    "cold": "homogeneous",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:1394",
+  "text": "Answer these questions about magnetism. || What are the places on a magnet where its force is strongest called? || What kind of materials, such as iron and nickel, are strongly attracted to magnets? || What happens when you bring the opposite ends of two magnets together? || What is the region around a magnet where its force acts called?",
+  "parts": [
+   {
+    "key": "poles",
+    "cold": "poles",
+    "ok": true
+   },
+   {
+    "key": "magnetic materials",
+    "cold": "magnetic",
+    "ok": false
+   },
+   {
+    "key": "they attract",
+    "cold": "attract",
+    "ok": true
+   },
+   {
+    "key": "magnetic field",
+    "cold": "magnetic field",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-novice:1553",
+  "text": "What term names the steady beat of stressed and unstressed syllables in a poem?",
+  "parts": [
+   {
+    "key": "rhythm",
+    "cold": "meter",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:345",
+  "text": "Which 1935 Supreme Court case struck down parts of the National Industrial Recovery Act and is called the \"sick chicken\" case?",
+  "parts": [
+   {
+    "key": "Schechter Poultry Corporation versus United States",
+    "cold": "Schechter Poultry Corp. v. United States",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:350",
+  "text": "Which Federalist Paper, written by James Madison, discusses the dangers of factions?",
+  "parts": [
+   {
+    "key": "Federalist Number 10",
+    "cold": "Federalist No. 10",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:351",
+  "text": "Which Federalist Paper, also by Madison, explains checks and balances with the line \"ambition must be made to counteract ambition\"?",
+  "parts": [
+   {
+    "key": "Federalist Number 51",
+    "cold": "Federalist No. 51",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:352",
+  "text": "Which Federalist Paper, written by Alexander Hamilton, defends the judiciary as the \"least dangerous\" branch?",
+  "parts": [
+   {
+    "key": "Federalist Number 78",
+    "cold": "Federalist No. 78",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:372",
+  "text": "Answer these questions about federalism. || What name is given to powers held only by the national government, such as coining money? || What name is given to powers shared by national and state governments, such as taxation? || What name is given to powers that states hold, such as running schools and issuing licenses, which come from the Tenth Amendment? || What clause in Article IV requires states to recognize legal documents and court decisions from other states?",
+  "parts": [
+   {
+    "key": "delegated powers",
+    "cold": "exclusive powers",
+    "ok": false
+   },
+   {
+    "key": "concurrent powers",
+    "cold": "concurrent powers",
+    "ok": true
+   },
+   {
+    "key": "reserved powers",
+    "cold": "reserved powers",
+    "ok": true
+   },
+   {
+    "key": "Full Faith and Credit Clause",
+    "cold": "Full Faith and Credit Clause",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:436",
+  "text": "What is the name for the form of government in which a monarch rules but a prime minister governs, as in Britain and Canada?",
+  "parts": [
+   {
+    "key": "parliamentary system",
+    "cold": "constitutional monarchy",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:555",
+  "text": "What is the name of the doctor who narrates most Sherlock Holmes stories?",
+  "parts": [
+   {
+    "key": "Doctor Watson",
+    "cold": "Dr. John Watson",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:712",
+  "text": "What is the Spanish word for \"although\" or \"even though\" beginning with \"a\" and ending in \"-que\"? Do not answer \"aunque.\"",
+  "parts": [
+   {
+    "key": "a pesar de que",
+    "cold": "aun cuando",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:850",
+  "text": "What are the three primary germ layers of the embryo?",
+  "parts": [
+   {
+    "key": "ectoderm, mesoderm, and endoderm",
+    "cold": "ectoderm, mesoderm, endoderm",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:863",
+  "text": "Answer these questions about speciation. || What is the term for speciation caused by geographic separation? || What is the term for speciation in a shared area without geographic separation? || What type of speciation can occur in a single generation in plants through doubled chromosome sets?",
+  "parts": [
+   {
+    "key": "allopatric speciation",
+    "cold": "allopatric",
+    "ok": false
+   },
+   {
+    "key": "sympatric speciation",
+    "cold": "sympatric",
+    "ok": false
+   },
+   {
+    "key": "polyploidy",
+    "cold": "polyploidy",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:871",
+  "text": "Answer these questions about evolution evidence. || What organs, like the whale pelvis, are reduced and unused? || What type of similar structure, like bird and insect wings, have different origins? || What British naturalist co-discovered natural selection with Darwin?",
+  "parts": [
+   {
+    "key": "vestigial structures",
+    "cold": "vestigial",
+    "ok": false
+   },
+   {
+    "key": "analogous structures",
+    "cold": "analogous",
+    "ok": false
+   },
+   {
+    "key": "Alfred Russel Wallace",
+    "cold": "Alfred Russel Wallace",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1314",
+  "text": "Answer these questions about Oliver! || What does Oliver ask for more of at the workhouse? || Which leader of the pickpockets teaches Oliver the trade? || Which girl sings \"As Long as He Loves Me\"?",
+  "parts": [
+   {
+    "key": "gruel",
+    "cold": "more food",
+    "ok": false
+   },
+   {
+    "key": "Fagin",
+    "cold": "Fagin",
+    "ok": true
+   },
+   {
+    "key": "Nancy",
+    "cold": "Nancy",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1336",
+  "text": "What are the three colors of the French flag?",
+  "parts": [
+   {
+    "key": "blue, white, and red",
+    "cold": "blue, white, red",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1384",
+  "text": "Which former Paris railway station now houses a museum of Impressionist art?",
+  "parts": [
+   {
+    "key": "Musée d'Orsay",
+    "cold": "Gare d'Orsay",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1439",
+  "text": "Answer these questions about French accent marks. || What is the name of the mark under the c in \"français\"? || Which accent slants up to the right, as in \"été\"? || Which accent, shaped like a small roof, is found in \"forêt\"?",
+  "parts": [
+   {
+    "key": "cedilla",
+    "cold": "cedilla",
+    "ok": true
+   },
+   {
+    "key": "acute accent",
+    "cold": "acute",
+    "ok": false
+   },
+   {
+    "key": "circumflex",
+    "cold": "circumflex",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1587",
+  "text": "Answer these questions about gravity and orbits. || What shape are the orbits of the planets around the Sun? || Which German astronomer described the three laws of planetary motion? || If the distance between two masses doubles, by what factor does the gravitational force change?",
+  "parts": [
+   {
+    "key": "ellipse",
+    "cold": "ellipse",
+    "ok": true
+   },
+   {
+    "key": "Johannes Kepler",
+    "cold": "Johannes Kepler",
+    "ok": true
+   },
+   {
+    "key": "one fourth",
+    "cold": "one-fourth",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1726",
+  "text": "Answer these questions about economic indicators. || What term describes the share of working-age people who are employed or looking for work? || What term describes the difference between actual output and potential output? || What is the term for a stock index's tracking of a sample of firms' prices as a gauge of the market?",
+  "parts": [
+   {
+    "key": "labor force participation rate",
+    "cold": "labor force participation rate",
+    "ok": true
+   },
+   {
+    "key": "output gap",
+    "cold": "output gap",
+    "ok": true
+   },
+   {
+    "key": "stock market index",
+    "cold": "stock index",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "ncal-varsity:1729",
+  "text": "Answer these questions about currencies. || What term describes a currency rising in value relative to another? || What system lets exchange rates move with supply and demand? || What term describes a government setting its currency's value against another?",
+  "parts": [
+   {
+    "key": "appreciation",
+    "cold": "appreciation",
+    "ok": true
+   },
+   {
+    "key": "floating exchange rate",
+    "cold": "floating exchange rate",
+    "ok": true
+   },
+   {
+    "key": "fixed exchange rate",
+    "cold": "pegged exchange rate",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:181",
+  "text": "Answer these questions about inventors. || Which American inventor patented the sewing machine in 1846, as Elias Howe did? Give the first name of the man who invented the vulcanization of rubber. || Which American inventor developed the revolver and the Colt Paterson? || Which Wright brothers' bicycle shop was in this Ohio city?",
+  "parts": [
+   {
+    "key": "Charles Goodyear",
+    "cold": "Charles",
+    "ok": false
+   },
+   {
+    "key": "Samuel Colt",
+    "cold": "Samuel Colt",
+    "ok": true
+   },
+   {
+    "key": "Dayton",
+    "cold": "Dayton",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:375",
+  "text": "Answer these questions about climate and the environment. || What layer of gases surrounds Earth and absorbs ultraviolet radiation? || What term names a long period without rain? || What type of climate zone, near the equator, has warm temperatures and abundant rain all year?",
+  "parts": [
+   {
+    "key": "ozone layer",
+    "cold": "ozone layer",
+    "ok": true
+   },
+   {
+    "key": "drought",
+    "cold": "drought",
+    "ok": true
+   },
+   {
+    "key": "tropical",
+    "cold": "tropical rainforest",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:751",
+  "text": "Answer these questions about the Hellenistic world. || Which Greek general's empire split among his generals after 323 BC? || Which Egyptian city had a famous lighthouse and library? || Which Ptolemy's dynasty ruled Egypt until Cleopatra?",
+  "parts": [
+   {
+    "key": "Alexander the Great",
+    "cold": "Alexander the Great",
+    "ok": true
+   },
+   {
+    "key": "Alexandria",
+    "cold": "Alexandria",
+    "ok": true
+   },
+   {
+    "key": "Ptolemaic dynasty",
+    "cold": "Ptolemy I",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:825",
+  "text": "Answer these questions about the voyages of discovery. || Which English captain's ships were named Endeavour and Resolution? || Which Portuguese prince sponsored voyages down the African coast in the fifteenth century? || Which Portuguese navigator rounded the Cape of Good Hope in 1488?",
+  "parts": [
+   {
+    "key": "James Cook",
+    "cold": "James Cook",
+    "ok": true
+   },
+   {
+    "key": "Henry the Navigator",
+    "cold": "Prince Henry the Navigator",
+    "ok": false
+   },
+   {
+    "key": "Bartolomeu Dias",
+    "cold": "Bartolomeu Dias",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1132",
+  "text": "Answer these questions about Celtic myth. || This Irish king of the Fianna was the leader of Finn's band of warriors, of which Oisin was a member. || This Irish warrior goddess of battle often appeared as a crow. || These supernatural people of Irish myth, the Tuatha De Danann, retreated into mounds and became these figures of folklore.",
+  "parts": [
+   {
+    "key": "the Fianna",
+    "cold": "Fionn mac Cumhaill",
+    "ok": false
+   },
+   {
+    "key": "Morrigan",
+    "cold": "Morrigan",
+    "ok": true
+   },
+   {
+    "key": "aos si",
+    "cold": "Fairies",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1382",
+  "text": "This Christian denomination, founded after the Great Disappointment of 1844, observes Saturday as the Sabbath. It emphasizes health and was shaped by Ellen G. White. For 10 points, name this denomination, which runs Loma Linda University.",
+  "parts": [
+   {
+    "key": "Seventh-day Adventist",
+    "cold": "Seventh-day Adventist Church",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1438",
+  "text": "Answer these questions about sets and logic. || What word describes a set with no elements? || What operation on two sets gives all elements in both sets? || What laws state that the complement of a union equals the common part of the complements of each set?",
+  "parts": [
+   {
+    "key": "empty set",
+    "cold": "Empty set",
+    "ok": true
+   },
+   {
+    "key": "intersection",
+    "cold": "Union",
+    "ok": false
+   },
+   {
+    "key": "De Morgan's laws",
+    "cold": "De Morgan's laws",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1471",
+  "text": "A hash of a password is usually stored rather than the password itself because this property of the function makes it infeasible to recover the input. Algorithms like SHA-256 are examples. For 10 points, name this type of function mapping data of arbitrary size to a fixed-size value.",
+  "parts": [
+   {
+    "key": "hash function",
+    "cold": "Cryptographic hash function",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1552",
+  "text": "Answer these questions about social inequality. || What word names a rigid, inherited system of status, as in traditional India? || Which kind of mobility describes a move up or down within the same generation's careers or class? || Which sociologist coined \"cultural capital\"?",
+  "parts": [
+   {
+    "key": "caste",
+    "cold": "Caste",
+    "ok": true
+   },
+   {
+    "key": "social mobility",
+    "cold": "Intragenerational mobility",
+    "ok": false
+   },
+   {
+    "key": "Pierre Bourdieu",
+    "cold": "Pierre Bourdieu",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1555",
+  "text": "Answer these questions about Karl Marx. || Which two economic classes did Marx say were in conflict under capitalism? Give either one. || What term names the Marxian concept of workers' estrangement from their labor? || What term did Marx use for the ownership of factories and tools?",
+  "parts": [
+   {
+    "key": "bourgeoisie",
+    "cold": "Bourgeoisie",
+    "ok": true
+   },
+   {
+    "key": "alienation",
+    "cold": "Alienation",
+    "ok": true
+   },
+   {
+    "key": "means of production",
+    "cold": "Capital",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1590",
+  "text": "Answer these questions about the legislative branch of the United States. || What is the name of the chamber with two members per state? || What term names the process of redrawing seats among states after each census? || What kind of rule, adopted in 1917, allows debate to be ended with cloture?",
+  "parts": [
+   {
+    "key": "Senate",
+    "cold": "Senate",
+    "ok": true
+   },
+   {
+    "key": "reapportionment",
+    "cold": "Reapportionment",
+    "ok": true
+   },
+   {
+    "key": "Rule 22",
+    "cold": "Cloture rule",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1629",
+  "text": "These societies, like the !Kung of the Kalahari, rely on foraging wild plants and hunting animals, and are typically nomadic and egalitarian. For 10 points, name this type of society.",
+  "parts": [
+   {
+    "key": "hunter-gatherer",
+    "cold": "Hunter-gatherer societies",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-jv:1671",
+  "text": "Answer these questions about writing systems. || Which ancient Egyptian pictorial writing was deciphered by Champollion? || Which script was created by Saint Cyril and Saint Methodius's followers and is used for Russian? || Which Mycenaean Greek script did Michael Ventris decipher in 1952?",
+  "parts": [
+   {
+    "key": "hieroglyphs",
+    "cold": "Egyptian hieroglyphs",
+    "ok": false
+   },
+   {
+    "key": "Cyrillic",
+    "cold": "Cyrillic",
+    "ok": true
+   },
+   {
+    "key": "Linear B",
+    "cold": "Linear B",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:207",
+  "text": "The highest mountain in North America, formerly named for a president, is found in this state. It lies in the Alaska Range. For 10 points, name this mountain, whose Native name means \"the high one.\"",
+  "parts": [
+   {
+    "key": "Denali",
+    "cold": "Alaska",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:264",
+  "text": "Answer these questions about physical geography. || What term describes a body of land smaller than a continent and surrounded by water? || What name is given to the line of zero degrees longitude that runs through Greenwich, England? || What name is given to the large area of Siberian forest that covers northern Russia?",
+  "parts": [
+   {
+    "key": "island",
+    "cold": "Peninsula",
+    "ok": false
+   },
+   {
+    "key": "prime meridian",
+    "cold": "Prime meridian",
+    "ok": true
+   },
+   {
+    "key": "taiga",
+    "cold": "Taiga",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:448",
+  "text": "Held every four years in honor of Zeus, these athletic contests were traditionally first held in 776 BCE. They took place at a sanctuary in the Peloponnese. A modern revival began in Athens in 1896. For 10 points, name this athletic festival.",
+  "parts": [
+   {
+    "key": "Olympic Games",
+    "cold": "Ancient Olympic Games",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:1139",
+  "text": "This is the term for the weighted average of the masses of an element's naturally occurring isotopes, measured in unified units. It appears under each element's symbol on the periodic table and is usually not a whole number. For 10 points, give this term.",
+  "parts": [
+   {
+    "key": "average atomic mass",
+    "cold": "atomic mass",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:1224",
+  "text": "Answer these questions about units and tools in the laboratory. || What unit of length is equal to one thousand meters? || What laboratory tool, a glass tube with markings, is used to dispense precise amounts of liquid in titrations? || What type of balance device measures mass using a pair of pans and known masses?",
+  "parts": [
+   {
+    "key": "kilometer",
+    "cold": "kilometer",
+    "ok": true
+   },
+   {
+    "key": "burette",
+    "cold": "burette",
+    "ok": true
+   },
+   {
+    "key": "triple beam balance",
+    "cold": "equal-arm balance",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:1370",
+  "text": "Answer these questions about the web. || What three-letter acronym names the address of a web page, such as one beginning with https? || What symbol separates the username from the domain in an email address? || What protocol, abbreviated HTTPS, adds encryption to web traffic? Give the missing word that \"S\" represents.",
+  "parts": [
+   {
+    "key": "Uniform Resource Locator",
+    "cold": "URL",
+    "ok": true
+   },
+   {
+    "key": "At sign",
+    "cold": "@",
+    "ok": false
+   },
+   {
+    "key": "Secure",
+    "cold": "Secure",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:1605",
+  "text": "Answer these questions about writing systems. || What kind of writing system uses pictures, as in ancient Egypt? || What Mesopotamian writing system used wedge-shaped marks pressed into clay? || Which Greek-derived alphabet is used to write Russian?",
+  "parts": [
+   {
+    "key": "hieroglyphics",
+    "cold": "pictographic",
+    "ok": false
+   },
+   {
+    "key": "cuneiform",
+    "cold": "cuneiform",
+    "ok": true
+   },
+   {
+    "key": "Cyrillic",
+    "cold": "Cyrillic",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-novice:1683",
+  "text": "Answer these questions about philosophy of religion. || The question of why a good and all-powerful God allows suffering is called the problem of what? || What medieval archbishop of Canterbury proposed the ontological argument, which says that God is the greatest conceivable being? || The argument that everything has a cause and so a first cause must exist is named for what branch of study of the universe?",
+  "parts": [
+   {
+    "key": "evil",
+    "cold": "evil",
+    "ok": true
+   },
+   {
+    "key": "Anselm",
+    "cold": "Anselm",
+    "ok": true
+   },
+   {
+    "key": "cosmological argument",
+    "cold": "cosmology",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:77",
+  "text": "In this work's scherzo, timpani play a prominent role, and the finale begins with a recitative for cellos and basses that rejects earlier themes. The finale sets lines by Friedrich Schiller for four vocal soloists and chorus. It premiered in Vienna in 1824, with its deaf composer on stage. For 10 points, name this symphony in D minor whose \"Ode to Joy\" became the anthem of the European Union.",
+  "parts": [
+   {
+    "key": "Symphony No. 9",
+    "cold": "Beethoven's Symphony No. 9",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:964",
+  "text": "Lutherans teach that Christ is present in, with, and under the bread and wine, a view often called by this term. Zwingli instead argued for a purely symbolic meaning at the 1529 Marburg Colloquy. For 10 points, give this Latin-based term for the Lord's Supper, also called Communion.",
+  "parts": [
+   {
+    "key": "Eucharist",
+    "cold": "Real Presence",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1051",
+  "text": "This building is known for its horseshoe arches and a forest of columns in a city in Andalusia. It was begun by Abd al-Rahman I and later turned into a cathedral. For 10 points, name this Andalusian mosque-cathedral.",
+  "parts": [
+   {
+    "key": "Mezquita",
+    "cold": "Mezquita of Cordoba",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1098",
+  "text": "Answer these questions about Daoism. || Which concept means \"the Way\"? || Which principle of \"non-action\" is central to Daoism? || Which Daoist immortals are known as the Eight what?",
+  "parts": [
+   {
+    "key": "Dao",
+    "cold": "Dao",
+    "ok": true
+   },
+   {
+    "key": "wu wei",
+    "cold": "Wu wei",
+    "ok": true
+   },
+   {
+    "key": "Eight Immortals",
+    "cold": "Immortals",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1140",
+  "text": "Answer these questions about Spiritualism and Theosophy. || What term describes communication with spirits of the dead? || Which British author of Sherlock Holmes stories became a prominent Spiritualist? || Which colonel cofounded the Theosophical Society with her in New York in 1875?",
+  "parts": [
+   {
+    "key": "seance",
+    "cold": "Mediumship",
+    "ok": false
+   },
+   {
+    "key": "Arthur Conan Doyle",
+    "cold": "Arthur Conan Doyle",
+    "ok": true
+   },
+   {
+    "key": "Henry Steel Olcott",
+    "cold": "Henry Steel Olcott",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1152",
+  "text": "This signaling molecule's cyclic form, abbreviated cAMP, was discovered by Earl Sutherland as a second messenger. It is produced from ATP by adenylyl cyclase after a G protein-coupled receptor is activated. For 10 points, name this second messenger that activates protein kinase A.",
+  "parts": [
+   {
+    "key": "cyclic adenosine monophosphate",
+    "cold": "Adenosine monophosphate",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1291",
+  "text": "Answer these questions about the oceans. || What natural force from the Sun and Moon causes ocean bulges? || What warm current in the Atlantic carries tropical water toward Europe? || What term describes the layer in the ocean where temperature drops rapidly with depth?",
+  "parts": [
+   {
+    "key": "gravity",
+    "cold": "Tides",
+    "ok": false
+   },
+   {
+    "key": "Gulf Stream",
+    "cold": "Gulf Stream",
+    "ok": true
+   },
+   {
+    "key": "thermocline",
+    "cold": "Thermocline",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1364",
+  "text": "Answer these questions about probability. || What is the probability of getting two heads in two fair coin tosses? || What term describes the expected number of successes in repeated independent trials, named for a Swiss family? || What distribution gives the number of events in a fixed interval at constant average rate, named for a French mathematician?",
+  "parts": [
+   {
+    "key": "1/4",
+    "cold": "1/4",
+    "ok": true
+   },
+   {
+    "key": "binomial distribution",
+    "cold": "Bernoulli",
+    "ok": false
+   },
+   {
+    "key": "Poisson distribution",
+    "cold": "Poisson",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1374",
+  "text": "This graph traversal algorithm extends a shortest-path method by adding a heuristic estimate of the remaining distance to the goal, ordering nodes by the sum of cost so far and that estimate. It is optimal if the heuristic never overestimates. It was developed at the Stanford Research Institute for the robot Shakey. For 10 points, name this pathfinding algorithm commonly used in video games, whose name is a letter followed by a punctuation symbol.",
+  "parts": [
+   {
+    "key": "A* search",
+    "cold": "A*",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1485",
+  "text": "Answer these questions about institutions and crises. || Which 1929 market event began the Great Depression? || Which 1944 conference created the International Monetary Fund? || Which 1933 act separated commercial and investment banking?",
+  "parts": [
+   {
+    "key": "stock market crash",
+    "cold": "Stock market crash of 1929",
+    "ok": false
+   },
+   {
+    "key": "Bretton Woods",
+    "cold": "Bretton Woods",
+    "ok": true
+   },
+   {
+    "key": "Glass-Steagall Act",
+    "cold": "Glass-Steagall Act",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "id": "quizbowl-varsity:1531",
+  "text": "In a 1973 paper, this Stanford sociologist argued that acquaintances may be more useful than close friends for finding jobs, because they provide new information. For 10 points, name this paper \"The Strength of Weak Ties\" by Mark Granovetter.",
+  "parts": [
+   {
+    "key": "The Strength of Weak Ties",
+    "cold": "Mark Granovetter",
+    "ok": false
+   }
+  ]
+ }
+]

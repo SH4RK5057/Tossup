@@ -66,14 +66,14 @@ export function runBankChecks(rows: Raw[], existing: Raw[] = [], limit = 25): Ch
       if (spec.answer_type === 'math' || leakOk) return;
       const ans = normalizeText(spec.answer);
       if (ans.length < 4) return;
-      if (` ${normalizeText(text)} `.includes(` ${ans} `)) leaks.push(`answer appears in its own question: ${label.slice(0, 60)} -> ${spec.answer}`);
+      if (` ${normalizeText(text)} `.includes(` ${ans} `)) leaks.push(`[row ${i}] answer appears in its own question: ${label.slice(0, 60)} -> ${spec.answer}`);
     });
     if (r.type === 'bonus') {
       r.parts.forEach((p, j) => {
         const ans = normalizeText(p.answer);
         if (ans.length < 4 || p.answer_type === 'math' || parts[j].leakOk) return;
         const others = ` ${normalizeText([r.leadin, ...r.parts.filter((_, k) => k !== j).map((x) => x.text)].join(' '))} `;
-        if (others.includes(` ${ans} `)) leaks.push(`bonus part gives away another: ${r.leadin} part ${j + 1}: ${p.answer}`);
+        if (others.includes(` ${ans} `)) leaks.push(`[row ${i}] bonus part gives away another: ${r.leadin} part ${j + 1}: ${p.answer}`);
       });
     }
   });

@@ -116,6 +116,7 @@ describe('master import file', () => {
     const res = validateImport(master, [], opts);
     const bad = res.rows.filter((r) => r.status !== 'valid').map((r) => `${r.index}: ${r.status} ${r.preview} ${r.errors.join('; ')}`);
     expect(bad).toEqual([]);
-    expect(res.rows.length).toBe(78 + rows.length);
+    const bank = Object.values(import.meta.glob('../../batches/bank-*.json', { eager: true, import: 'default' }) as Record<string, unknown[]>).flat();
+    expect(res.rows.length).toBe(78 + rows.length + bank.length);
   });
 });

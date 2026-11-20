@@ -65,6 +65,24 @@ describe('abbreviations', () => {
   });
 });
 
+describe('shortened answers', () => {
+  it('accepts the key without its generic head noun', () => {
+    expect(check('Louisiana', spec({ answer: 'Louisiana Purchase' }), ncal)).toBe('correct');
+    expect(check('third', spec({ answer: 'third law' }), ncal)).toBe('correct');
+    expect(check('Ninth', spec({ answer: 'Ninth Symphony' }), ncal)).toBe('correct');
+    expect(check('Gettysburg', spec({ answer: 'Battle of Gettysburg' }), ncal)).toBe('correct');
+    expect(check('Everest', spec({ answer: 'Mount Everest' }), ncal)).toBe('correct');
+    expect(check('Michigan', spec({ answer: 'Lake Michigan' }), quizbowl)).toBe('correct');
+    expect(check('Ming', spec({ answer: 'Ming dynasty' }), ncal)).toBe('correct');
+  });
+  it('does not accept only the generic noun, or a different head', () => {
+    expect(check('war', spec({ answer: 'Cold War' }), ncal)).toBe('incorrect');
+    expect(check('purchase', spec({ answer: 'Louisiana Purchase' }), ncal)).toBe('incorrect');
+    expect(check('Alaska', spec({ answer: 'Louisiana Purchase' }), ncal)).toBe('incorrect');
+    expect(check('World War', spec({ answer: 'World War II' }), ncal)).toBe('incorrect');
+  });
+});
+
 describe('general answers', () => {
   it('matches exact, required, and alternates', () => {
     const a = spec({ answer: 'mitochondria', alternates: ['mitochondrion'] });

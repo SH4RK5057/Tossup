@@ -12371,7 +12371,9 @@
   "required": null,
   "alternates": [
    "Olympics",
-   "the Olympic Games"
+   "the Olympic Games",
+   "Ancient Olympic Games",
+   "the Olympics"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -20086,54 +20088,6 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "medium",
-  "leadin": "Answer these questions about the Trojan War.",
-  "parts": [
-   {
-    "text": "Which Trojan prince's abduction of Helen began the war?",
-    "part_difficulty": "easy",
-    "answer": "Paris",
-    "required": "Paris",
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which Trojan prince was killed in single combat by Achilles?",
-    "part_difficulty": "medium",
-    "answer": "Hector",
-    "required": "Hector",
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which king of Mycenae led the Greek forces against Troy?",
-    "part_difficulty": "hard",
-    "answer": "Agamemnon",
-    "required": "Agamemnon",
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "novice",
-  "category": "Mythology",
-  "subcategory": "Greco-Roman Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
   "leadin": "Answer these questions about monsters of Greek myth.",
   "parts": [
    {
@@ -20557,28 +20511,6 @@
   "answer": "Fenrir",
   "required": "Fenrir",
   "alternates": [],
-  "prompt_on": [],
-  "answer_type": "name",
-  "duplicate_name": false,
-  "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "novice",
-  "category": "Mythology",
-  "subcategory": "Norse Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "easy",
-  "text": "This Vanir goddess rides in a chariot pulled by cats and owns a necklace called Brisingamen. She receives half of the warriors who die in battle. Her brother is Freyr. For 10 points, name this Norse goddess of love and beauty.",
-  "answer": "Freya",
-  "required": "Freya",
-  "alternates": [
-   "Freyja"
-  ],
   "prompt_on": [],
   "answer_type": "name",
   "duplicate_name": false,
@@ -21623,29 +21555,6 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "easy",
-  "text": "This Japanese goddess hid in a cave after being insulted by her brother, plunging the world into darkness. The other gods lured her out with a mirror and a raucous dance. The imperial family claimed descent from her. For 10 points, name this Shinto sun goddess.",
-  "answer": "Amaterasu",
-  "required": "Amaterasu",
-  "alternates": [
-   "Amaterasu Omikami",
-   "Amaterasu-omikami"
-  ],
-  "prompt_on": [],
-  "answer_type": "name",
-  "duplicate_name": false,
-  "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "novice",
-  "category": "Mythology",
-  "subcategory": "World Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "easy",
   "text": "This hero of Chinese myth was born from a stone egg and gained magical powers, including seventy-two transformations. He wields a staff that can change its size and rides a cloud. He accompanies the monk Tripitaka to India. For 10 points, name this Monkey King of Journey to the West.",
   "answer": "Sun Wukong",
   "required": null,
@@ -22334,62 +22243,6 @@
     "alternates": [],
     "prompt_on": [],
     "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "novice",
-  "category": "Mythology",
-  "subcategory": "World Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about Irish myth.",
-  "parts": [
-   {
-    "text": "Which tiny shoemaker of Irish folklore is said to guard a pot of gold at the end of the rainbow?",
-    "part_difficulty": "easy",
-    "answer": "leprechaun",
-    "required": null,
-    "alternates": [
-     "the leprechaun"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which supernatural race of Irish gods, whose name means the people of the goddess Danu, were defeated by the Milesians?",
-    "part_difficulty": "medium",
-    "answer": "Tuatha De Danann",
-    "required": null,
-    "alternates": [
-     "Tuatha Dé Danann",
-     "the Tuatha De Danann"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which Irish goddess of war and fate often appeared as a crow?",
-    "part_difficulty": "hard",
-    "answer": "the Morrigan",
-    "required": null,
-    "alternates": [
-     "Morrigan",
-     "Morrigu"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -31857,7 +31710,8 @@
   "required": null,
   "alternates": [
    "atomic weight",
-   "relative atomic mass"
+   "relative atomic mass",
+   "atomic mass"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -34420,11 +34274,14 @@
    {
     "text": "What type of balance device measures mass using a pair of pans and known masses?",
     "part_difficulty": "hard",
-    "answer": "triple beam balance",
+    "answer": "two-pan balance",
     "required": null,
     "alternates": [
+     "triple beam balance",
      "balance",
-     "beam balance"
+     "beam balance",
+     "equal-arm balance",
+     "pan balance"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -38399,7 +38256,9 @@
     "required": null,
     "alternates": [
      "At symbol",
-     "Commercial at"
+     "Commercial at",
+     "at symbol",
+     "at sign"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -45127,7 +44986,10 @@
     "answer": "hieroglyphics",
     "required": null,
     "alternates": [
-     "hieroglyphs"
+     "hieroglyphs",
+     "pictographic",
+     "pictographs",
+     "pictograms"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -47305,59 +47167,6 @@
     "text": "What term names the virtue of respect and care for one's parents and ancestors?",
     "part_difficulty": "medium",
     "answer": "filial piety",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "novice",
-  "category": "Philosophy",
-  "subcategory": "Other Philosophy",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about philosophy of religion.",
-  "parts": [
-   {
-    "text": "The question of why a good and all-powerful God allows suffering is called the problem of what?",
-    "part_difficulty": "easy",
-    "answer": "evil",
-    "required": null,
-    "alternates": [
-     "the problem of evil"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What medieval archbishop of Canterbury proposed the ontological argument, which says that God is the greatest conceivable being?",
-    "part_difficulty": "medium",
-    "answer": "Anselm",
-    "required": "Anselm",
-    "alternates": [
-     "Saint Anselm",
-     "Anselm of Canterbury"
-    ],
-    "prompt_on": [],
-    "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "The argument that everything has a cause and so a first cause must exist is named for what branch of study of the universe?",
-    "part_difficulty": "hard",
-    "answer": "cosmological argument",
     "required": null,
     "alternates": [],
     "prompt_on": [],

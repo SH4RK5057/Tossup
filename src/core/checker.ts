@@ -51,11 +51,41 @@ function fuzzyEq(typed: string, key: string): boolean {
   return editDistance(typed, key) <= typoTolerance(key.length);
 }
 
+/** Generic head nouns players naturally drop: "Louisiana" for "Louisiana Purchase", "third" for "third law". */
+const GENERIC_TAIL = new Set([
+  'purchase', 'law', 'laws', 'act', 'war', 'battle', 'treaty', 'empire', 'dynasty', 'theory', 'principle', 'cycle', 'revolution',
+  'river', 'mountains', 'mountain', 'range', 'ocean', 'sea', 'lake', 'island', 'islands', 'canal', 'desert', 'doctrine',
+  'amendment', 'rebellion', 'crisis', 'effect', 'theorem', 'rule', 'process', 'reaction', 'period', 'era', 'movement',
+  'republic', 'kingdom', 'symphony', 'concerto', 'sonata', 'equation', 'constant', 'force', 'energy', 'bond', 'layer', 'plate',
+  'wave', 'field', 'scale', 'experiment', 'conference', 'convention', 'compromise', 'proclamation', 'declaration', 'plan', 'pact',
+  'accord', 'agreement', 'syndrome', 'disease', 'disorder', 'method', 'model', 'reflex', 'gland', 'acid', 'gas', 'peninsula',
+  'valley', 'plateau', 'strait', 'gulf', 'bay', 'canyon', 'falls', 'campaign', 'invasion', 'uprising', 'incident', 'affair',
+]);
+const GENERIC_LEAD = [['battle', 'of'], ['treaty', 'of'], ['siege', 'of'], ['declaration', 'of'], ['gulf', 'of'], ['strait', 'of'],
+  ['fall', 'of'], ['war', 'of'], ['mount'], ['lake'], ['river']];
+
+/** Shortened forms of an answer that should also count: the key without its generic head noun or leading "Battle of". */
+export function partialForms(key: string): string[] {
+  const t = key.split(' ').filter(Boolean);
+  const bases: string[][] = [t];
+  for (const lead of GENERIC_LEAD) {
+    if (t.length > lead.length && lead.every((w, i) => t[i] === w)) bases.push(t.slice(lead.length));
+  }
+  const out = new Set<string>();
+  for (const b of bases) {
+    out.add(b.join(' '));
+    if (b.length > 1 && GENERIC_TAIL.has(b[b.length - 1])) out.add(b.slice(0, -1).join(' '));
+  }
+  out.delete(key);
+  return [...out].filter((f) => (f.length >= 3 || /^\d+$/.test(f)) && !GENERIC_TAIL.has(f));
+}
+
 function checkGeneral(typedRaw: string, spec: AnswerSpec): CheckResult {
   const t = normalizeText(typedRaw);
   if (!t) return 'incorrect';
   const keys = candidates(spec).map((c) => normalizeText(c));
   if (keys.includes(t)) return 'correct';
+  if (keys.some((k) => partialForms(k).includes(t))) return 'correct';
   if (promptMatches(t, spec, normalizeText)) return 'prompt';
   if (keys.some((k) => fuzzyEq(t, k))) return 'correct';
   return 'incorrect';

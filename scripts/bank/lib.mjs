@@ -27,6 +27,12 @@ function tail(rest) {
 }
 
 function spec(answer, alts, opts) {
+  // Answers never contain ";": a writer who wrote "ribosome;ribosomes" meant answer plus alternate.
+  if (answer.includes(';')) {
+    const [first, ...rest] = answer.split(';').map((x) => x.trim()).filter(Boolean);
+    answer = first;
+    alts = [alts, ...rest].filter(Boolean).join(';');
+  }
   if (opts === undefined && looksLikeOpts(alts)) { opts = alts; alts = ''; }
   const s = {
     answer, required: null, alternates: alts ? alts.split(';').map((x) => x.trim()).filter(Boolean) : [],

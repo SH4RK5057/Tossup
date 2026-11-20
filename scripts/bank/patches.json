@@ -1,0 +1,679 @@
+[
+ {
+  "match": "Who wrote \"The Autocrat of the Breakfast-Table\"?",
+  "addAlt": [
+   "Oliver Wendell Holmes Sr.",
+   "Oliver Wendell Holmes Senior"
+  ]
+ },
+ {
+  "match": "Which battle in July 1863 in Pennsylvania was the turning point of the Civil War?",
+  "addAlt": [
+   "Gettysburg"
+  ]
+ },
+ {
+  "match": "Which 1859 raid at Harpers Ferry was led by the abolitionist John Brown?",
+  "addAlt": [
+   "John Brown's raid",
+   "Harpers Ferry"
+  ]
+ },
+ {
+  "match": "Which divided country was invaded by communist North Korea in 1950?",
+  "part": 1,
+  "addAlt": [
+   "the Republic of Korea"
+  ]
+ },
+ {
+  "match": "What is the French phrase for \"headache,\" using \"mal\"?",
+  "addAlt": [
+   "mal à la tête",
+   "un mal de tête",
+   "mal de tête"
+  ]
+ },
+ {
+  "match": "What does the French phrase \"faire la vaisselle\" mean? Name what is washed.",
+  "part": 0,
+  "addAlt": [
+   "the dishes",
+   "wash the dishes",
+   "washing dishes"
+  ]
+ },
+ {
+  "match": "What is the partitive article used with a feminine noun, as in \"Je bois ___ eau\"?",
+  "part": 2,
+  "drop": true
+ },
+ {
+  "match": "What is the French word for \"painting\" as a work of art?",
+  "part": 0,
+  "addAlt": [
+   "le tableau",
+   "peinture",
+   "tableau"
+  ]
+ },
+ {
+  "match": "What are the three domains of life?",
+  "part": 1,
+  "addAlt": [
+   "Bacteria, Archaea, Eukarya"
+  ]
+ },
+ {
+  "match": "What is the name of the compound, NADPH or NADH, that carries electrons?",
+  "drop": true
+ },
+ {
+  "match": "What term describes a cell that has stopped dividing and is in a resting state called G ze",
+  "part": 1,
+  "addAlt": [
+   "quiescent",
+   "quiescence",
+   "G zero"
+  ]
+ },
+ {
+  "match": "Louis Comfort Tiffany was famous for lamps and windows made from what material?",
+  "part": 1,
+  "addAlt": [
+   "glass"
+  ]
+ },
+ {
+  "match": "In what kind of perspective do all lines recede to a single vanishing point?",
+  "part": 2,
+  "addAlt": [
+   "linear perspective"
+  ]
+ },
+ {
+  "match": "What term describes a sculpture carved so that it projects only slightly from a flat backg",
+  "part": 2,
+  "addAlt": [
+   "relief",
+   "low relief"
+  ]
+ },
+ {
+  "match": "In a time signature, what does the top number tell you?",
+  "addAlt": [
+   "number of beats per measure",
+   "how many beats in a measure"
+  ]
+ },
+ {
+  "match": "What Italian term means lively and brisk?",
+  "part": 1,
+  "addAlt": [
+   "allegro"
+  ]
+ },
+ {
+  "match": "The choral finale known as Ode to Joy appears in which numbered symphony by Beethoven?",
+  "addAlt": [
+   "Ninth"
+  ]
+ },
+ {
+  "match": "Which numbered Beethoven symphony is nicknamed the Pastoral?",
+  "addAlt": [
+   "Sixth"
+  ]
+ },
+ {
+  "match": "What term names the study of how people use and change the environment, which geographers ",
+  "part": 2,
+  "drop": true
+ },
+ {
+  "match": "What verb tense is used in the sentence \"She danced all night\"?",
+  "part": 0,
+  "addAlt": [
+   "simple past",
+   "simple past tense",
+   "past"
+  ]
+ },
+ {
+  "match": "In which region of the United States are Maine and Vermont found?",
+  "part": 0,
+  "addAlt": [
+   "Northeast"
+  ]
+ },
+ {
+  "match": "Which four states meet at a single point in the Southwest, called the Four Corners?",
+  "part": 2,
+  "addAlt": [
+   "Arizona, Colorado, New Mexico, Utah",
+   "Utah, Colorado, Arizona, New Mexico"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"classroom\"?",
+  "addAlt": [
+   "el salón de clases",
+   "el aula"
+  ]
+ },
+ {
+  "match": "About how many years old is Earth?",
+  "addAlt": [
+   "4.5 billion years",
+   "4.5 billion",
+   "4.54 billion years"
+  ]
+ },
+ {
+  "match": "What type of weathering involves a change in the chemical makeup of rock, such as rusting?",
+  "part": 1,
+  "addAlt": [
+   "chemical"
+  ]
+ },
+ {
+  "match": "What term describes dissolving of limestone to make caves and sinkholes?",
+  "part": 3,
+  "addAlt": [
+   "dissolution",
+   "karst topography"
+  ]
+ },
+ {
+  "match": "What type of mixture is evenly mixed throughout, such as salt dissolved in water?",
+  "addAlt": [
+   "homogeneous",
+   "homogeneous mixture"
+  ]
+ },
+ {
+  "match": "What kind of energy is stored in a stretched rubber band?",
+  "part": 1,
+  "addAlt": [
+   "elastic potential"
+  ]
+ },
+ {
+  "match": "What kind of materials, such as iron and nickel, are strongly attracted to magnets?",
+  "part": 1,
+  "addAlt": [
+   "magnetic",
+   "ferromagnetic materials"
+  ]
+ },
+ {
+  "match": "What term names the steady beat of stressed and unstressed syllables in a poem?",
+  "addAlt": [
+   "meter"
+  ]
+ },
+ {
+  "match": "Which 1935 Supreme Court case struck down parts of the National Industrial Recovery Act an",
+  "addAlt": [
+   "Schechter Poultry Corp. v. United States",
+   "Schechter Poultry",
+   "Schechter"
+  ]
+ },
+ {
+  "match": "Which Federalist Paper, written by James Madison, discusses the dangers of factions?",
+  "addAlt": [
+   "Federalist No. 10",
+   "Federalist 10",
+   "Federalist Paper 10",
+   "Federalist Paper No. 10"
+  ]
+ },
+ {
+  "match": "Which Federalist Paper, also by Madison, explains checks and balances with the line \"ambit",
+  "addAlt": [
+   "Federalist No. 51",
+   "Federalist 51",
+   "Federalist Paper 51",
+   "Federalist Paper No. 51"
+  ]
+ },
+ {
+  "match": "Which Federalist Paper, written by Alexander Hamilton, defends the judiciary as the \"least",
+  "addAlt": [
+   "Federalist No. 78",
+   "Federalist 78",
+   "Federalist Paper 78",
+   "Federalist Paper No. 78"
+  ]
+ },
+ {
+  "match": "What name is given to powers held only by the national government, such as coining money?",
+  "part": 0,
+  "addAlt": [
+   "exclusive powers",
+   "enumerated powers",
+   "expressed powers"
+  ]
+ },
+ {
+  "match": "What is the name for the form of government in which a monarch rules but a prime minister ",
+  "addAlt": [
+   "constitutional monarchy",
+   "parliamentary monarchy"
+  ]
+ },
+ {
+  "match": "What is the name of the doctor who narrates most Sherlock Holmes stories?",
+  "addAlt": [
+   "Dr. John Watson",
+   "John Watson",
+   "Watson"
+  ]
+ },
+ {
+  "match": "What are the three primary germ layers of the embryo?",
+  "addAlt": [
+   "ectoderm, mesoderm, endoderm"
+  ]
+ },
+ {
+  "match": "What is the term for speciation caused by geographic separation?",
+  "part": 0,
+  "addAlt": [
+   "allopatric"
+  ]
+ },
+ {
+  "match": "What is the term for speciation in a shared area without geographic separation?",
+  "part": 1,
+  "addAlt": [
+   "sympatric"
+  ]
+ },
+ {
+  "match": "What organs, like the whale pelvis, are reduced and unused?",
+  "part": 0,
+  "addAlt": [
+   "vestigial",
+   "vestigial organs"
+  ]
+ },
+ {
+  "match": "What type of similar structure, like bird and insect wings, have different origins?",
+  "part": 1,
+  "addAlt": [
+   "analogous"
+  ]
+ },
+ {
+  "match": "What does Oliver ask for more of at the workhouse?",
+  "part": 0,
+  "addAlt": [
+   "more food",
+   "food",
+   "porridge"
+  ]
+ },
+ {
+  "match": "What are the three colors of the French flag?",
+  "addAlt": [
+   "blue, white, red"
+  ]
+ },
+ {
+  "match": "Which former Paris railway station now houses a museum of Impressionist art?",
+  "addAlt": [
+   "Gare d'Orsay",
+   "Orsay"
+  ]
+ },
+ {
+  "match": "Which accent slants up to the right, as in \"été\"?",
+  "part": 1,
+  "addAlt": [
+   "acute"
+  ]
+ },
+ {
+  "match": "If the distance between two masses doubles, by what factor does the gravitational force ch",
+  "part": 2,
+  "addAlt": [
+   "one-fourth",
+   "1/4",
+   "one quarter"
+  ]
+ },
+ {
+  "match": "Which 1930 tariff act raised duties on thousands of imports and deepened the Depression?",
+  "addAlt": [
+   "Smoot-Hawley Tariff",
+   "Smoot-Hawley",
+   "Hawley-Smoot Tariff Act"
+  ]
+ },
+ {
+  "match": "What is the term for a stock index's tracking of a sample of firms' prices as a gauge of t",
+  "part": 2,
+  "addAlt": [
+   "stock index"
+  ]
+ },
+ {
+  "match": "What term describes a government setting its currency's value against another?",
+  "part": 2,
+  "addAlt": [
+   "pegged exchange rate",
+   "peg",
+   "currency peg",
+   "pegged"
+  ]
+ },
+ {
+  "match": "Which American inventor patented the sewing machine in 1846, as Elias Howe did? Give the f",
+  "part": 0,
+  "drop": true
+ },
+ {
+  "match": "What type of climate zone, near the equator, has warm temperatures and abundant rain all y",
+  "part": 2,
+  "addAlt": [
+   "tropical rainforest",
+   "tropical climate"
+  ]
+ },
+ {
+  "match": "Which Ptolemy's dynasty ruled Egypt until Cleopatra?",
+  "part": 2,
+  "drop": true
+ },
+ {
+  "match": "Which Portuguese prince sponsored voyages down the African coast in the fifteenth century?",
+  "part": 1,
+  "addAlt": [
+   "Prince Henry the Navigator",
+   "Prince Henry"
+  ]
+ },
+ {
+  "match": "This Irish king of the Fianna was the leader of Finn's band of warriors, of which Oisin wa",
+  "part": 0,
+  "setAnswer": "Fionn mac Cumhaill",
+  "addAlt": [
+   "Finn McCool",
+   "Fionn",
+   "Finn mac Cumhaill"
+  ]
+ },
+ {
+  "match": "These supernatural people of Irish myth, the Tuatha De Danann, retreated into mounds and b",
+  "part": 2,
+  "addAlt": [
+   "fairies",
+   "the fair folk",
+   "sidhe",
+   "aos sí"
+  ]
+ },
+ {
+  "match": "This Christian denomination, founded after the Great Disappointment of 1844, observes Satu",
+  "addAlt": [
+   "Seventh-day Adventist Church",
+   "Adventists",
+   "Seventh-day Adventists"
+  ]
+ },
+ {
+  "match": "What operation on two sets gives all elements in both sets?",
+  "part": 1,
+  "drop": true
+ },
+ {
+  "match": "A hash of a password is usually stored rather than the password itself because this proper",
+  "addAlt": [
+   "cryptographic hash function",
+   "hash",
+   "hashing"
+  ]
+ },
+ {
+  "match": "Which kind of mobility describes a move up or down within the same generation's careers or",
+  "part": 1,
+  "setAnswer": "intragenerational mobility",
+  "addAlt": [
+   "social mobility"
+  ]
+ },
+ {
+  "match": "What term did Marx use for the ownership of factories and tools?",
+  "part": 2,
+  "addAlt": [
+   "capital"
+  ]
+ },
+ {
+  "match": "What kind of rule, adopted in 1917, allows debate to be ended with cloture?",
+  "part": 2,
+  "addAlt": [
+   "cloture rule",
+   "Rule XXII",
+   "Senate Rule 22"
+  ]
+ },
+ {
+  "match": "These societies, like the !Kung of the Kalahari, rely on foraging wild plants and hunting ",
+  "addAlt": [
+   "hunter-gatherer societies",
+   "hunter-gatherers",
+   "foragers"
+  ]
+ },
+ {
+  "match": "Which ancient Egyptian pictorial writing was deciphered by Champollion?",
+  "part": 0,
+  "addAlt": [
+   "Egyptian hieroglyphs",
+   "hieroglyphics"
+  ]
+ },
+ {
+  "match": "Held every four years in honor of Zeus, these athletic contests were traditionally first h",
+  "addAlt": [
+   "Ancient Olympic Games",
+   "Olympics",
+   "the Olympics"
+  ]
+ },
+ {
+  "match": "This is the term for the weighted average of the masses of an element's naturally occurrin",
+  "addAlt": [
+   "atomic mass",
+   "relative atomic mass",
+   "atomic weight"
+  ]
+ },
+ {
+  "match": "What type of balance device measures mass using a pair of pans and known masses?",
+  "part": 2,
+  "setAnswer": "two-pan balance",
+  "addAlt": [
+   "equal-arm balance",
+   "beam balance",
+   "pan balance",
+   "balance"
+  ]
+ },
+ {
+  "match": "What symbol separates the username from the domain in an email address?",
+  "part": 1,
+  "addAlt": [
+   "at symbol",
+   "at sign"
+  ]
+ },
+ {
+  "match": "What kind of writing system uses pictures, as in ancient Egypt?",
+  "part": 0,
+  "addAlt": [
+   "pictographic",
+   "pictographs",
+   "pictograms",
+   "hieroglyphs"
+  ]
+ },
+ {
+  "match": "The argument that everything has a cause and so a first cause must exist is named for what",
+  "part": 2,
+  "drop": true
+ },
+ {
+  "match": "In this work's scherzo, timpani play a prominent role, and the finale begins with a recita",
+  "addAlt": [
+   "Beethoven's Symphony No. 9",
+   "Ninth Symphony",
+   "Choral Symphony",
+   "Beethoven's Ninth",
+   "Ninth"
+  ]
+ },
+ {
+  "match": "This building is known for its horseshoe arches and a forest of columns in a city in Andal",
+  "addAlt": [
+   "Mezquita of Cordoba",
+   "Mosque-Cathedral of Cordoba",
+   "Great Mosque of Cordoba"
+  ]
+ },
+ {
+  "match": "Which Daoist immortals are known as the Eight what?",
+  "part": 2,
+  "addAlt": [
+   "Immortals"
+  ]
+ },
+ {
+  "match": "What term describes communication with spirits of the dead?",
+  "part": 0,
+  "addAlt": [
+   "mediumship",
+   "spiritualism",
+   "seances"
+  ]
+ },
+ {
+  "match": "This signaling molecule's cyclic form, abbreviated cAMP, was discovered by Earl Sutherland",
+  "addAlt": [
+   "cAMP",
+   "cyclic AMP"
+  ]
+ },
+ {
+  "match": "What theory predicts molecular shapes by electron pair repulsion, abbreviated VSEPR?",
+  "part": 1,
+  "addAlt": [
+   "valence shell electron pair repulsion",
+   "VSEPR",
+   "VSEPR theory"
+  ]
+ },
+ {
+  "match": "What natural force from the Sun and Moon causes ocean bulges?",
+  "part": 0,
+  "addAlt": [
+   "gravitational force",
+   "tidal force",
+   "gravitation"
+  ]
+ },
+ {
+  "match": "What term describes the expected number of successes in repeated independent trials, named",
+  "part": 1,
+  "drop": true
+ },
+ {
+  "match": "This graph traversal algorithm extends a shortest-path method by adding a heuristic estima",
+  "addAlt": [
+   "A star",
+   "A star search",
+   "A*"
+  ]
+ },
+ {
+  "match": "This 1930 United States law raised tariffs on over twenty thousand imports and was followe",
+  "addAlt": [
+   "Smoot-Hawley Tariff",
+   "Smoot-Hawley",
+   "Hawley-Smoot Tariff Act"
+  ]
+ },
+ {
+  "match": "Which 1929 market event began the Great Depression?",
+  "part": 0,
+  "addAlt": [
+   "stock market crash of 1929",
+   "crash of 1929",
+   "Black Tuesday",
+   "the crash"
+  ]
+ },
+ {
+  "match": "In a 1973 paper, this Stanford sociologist argued that acquaintances may be more useful th",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about money and its history. || What is the name for the coins and bills a country uses for payme",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about elections. || What is the minimum age to vote in federal elections? || What is the name for",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about the court system. || What kind of federal courts hold trials in the United States, with at ",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about Norse figures in the story of Baldr. || This god was killed by a mistletoe dart. || This bl",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about the Theban cycle. || This woman was both mother and wife of Oedipus. || This brother of Joc",
+  "drop": true
+ },
+ {
+  "match": "One of these two wolves chases the sun and the other chases the moon. When they catch their prey at Ragnarok, the heaven",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about Thor's journey to Utgard. || Thor and his companions traveled through this land of the gian",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about the Kalevala. || Elias Lonnrot compiled this Finnish national epic. || This magic mill prod",
+  "drop": true
+ },
+ {
+  "match": "What organelle is the site of protein synthesis in a cell?",
+  "drop": true
+ },
+ {
+  "match": "This hero was driven mad by Hera and killed his own family, so he performed penance by completing a series of labors for",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about the Trojan War. || Which Trojan prince's abduction of Helen began the war? || Which Trojan ",
+  "drop": true
+ },
+ {
+  "match": "This Vanir goddess rides in a chariot pulled by cats and owns a necklace called Brisingamen. She receives half of the wa",
+  "drop": true
+ },
+ {
+  "match": "This Japanese goddess hid in a cave after being insulted by her brother, plunging the world into darkness. The other god",
+  "drop": true
+ },
+ {
+  "match": "Answer these questions about Irish myth. || Which tiny shoemaker of Irish folklore is said to guard a pot of gold at the",
+  "drop": true
+ }
+]

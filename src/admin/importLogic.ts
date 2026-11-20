@@ -39,6 +39,8 @@ export interface ImportOptions {
   nowIso: string;
   makeId: (index: number) => string;
   random: () => number;
+  /** Status for saved rows. Defaults to pending; use active for rows that were already verified. */
+  status?: 'pending' | 'active';
 }
 
 /** Normalized text used to detect duplicates. */
@@ -90,7 +92,7 @@ export function validateImport(raw: unknown, existing: Question[], opts: ImportO
     const question: Question = {
       ...row,
       id: opts.makeId(index),
-      status: 'pending',
+      status: opts.status ?? 'pending',
       random: opts.random(),
       report_count: 0,
       created_at: opts.nowIso,

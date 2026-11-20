@@ -10,7 +10,7 @@ import { questionSchema, type Question, type Status, type StoredReport } from '.
 import type { AdminUser, AuthService, PoolRequest, QuestionRepository, QuestionVersion } from './repository';
 
 /** Upper bound per question type per pool load; bounds Spark-tier reads. */
-const POOL_LIMIT = 300;
+const POOL_LIMIT: Record<'tossup' | 'bonus', number> = { tossup: 120, bonus: 40 };
 
 const toIso = (v: unknown): string | null => {
   if (v instanceof Timestamp) return v.toDate().toISOString();
@@ -89,11 +89,11 @@ export class FirestoreRepository implements QuestionRepository {
         where('rulesets', 'array-contains', req.rulesetId),
         where('level', 'in', req.levels),
       ];
-      const first = await getDocs(query(this.questions(), ...base, orderBy('random'), startAt(start), limit(POOL_LIMIT)));
+      const first = await getDocs(query(this.questions(), ...base, orderBy('random'), startAt(start), limit(POOL_LIMIT[type])));
       const docs = [...first.docs];
-      if (docs.length < POOL_LIMIT) {
+      if (docs.length < POOL_LIMIT[type]) {
         const wrap = await getDocs(
-          query(this.questions(), ...base, orderBy('random'), endBefore(start), limit(POOL_LIMIT - docs.length)),
+          query(this.questions(), ...base, orderBy('random'), endBefore(start), limit(POOL_LIMIT[type] - docs.length)),
         );
         docs.push(...wrap.docs);
       }

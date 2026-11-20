@@ -9670,7 +9670,8 @@
     "answer": "one-point perspective",
     "required": null,
     "alternates": [
-     "one point perspective"
+     "one point perspective",
+     "linear perspective"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -9925,7 +9926,8 @@
     "required": null,
     "alternates": [
      "bas relief",
-     "low relief"
+     "low relief",
+     "relief"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -10391,7 +10393,9 @@
   "required": null,
   "alternates": [
    "number of beats",
-   "beats in a measure"
+   "beats in a measure",
+   "number of beats per measure",
+   "how many beats in a measure"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -11714,7 +11718,9 @@
     "part_difficulty": "medium",
     "answer": "vivace",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "allegro"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -12413,7 +12419,8 @@
    "Symphony No. 9",
    "9th Symphony",
    "Symphony Number 9",
-   "Symphony 9"
+   "Symphony 9",
+   "Ninth"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -13735,7 +13742,8 @@
    "Symphony No. 6",
    "6th Symphony",
    "Symphony Number 6",
-   "Symphony 6"
+   "Symphony 6",
+   "Sixth"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -16380,9 +16388,11 @@
    {
     "text": "What do we call a card or plan that lets you buy now and pay a bill later?",
     "part_difficulty": "medium",
-    "answer": "credit;credit card",
+    "answer": "credit",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "credit card"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -16870,56 +16880,6 @@
   "subcategory": "General",
   "source": "ai-claude-bank",
   "expires_at": null,
-  "difficulty": "hard",
-  "leadin": "Answer these questions about money and its history.",
-  "parts": [
-   {
-    "text": "What is the name for the coins and bills a country uses for payment?",
-    "part_difficulty": "easy",
-    "answer": "money;currency",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What system of trade involves exchanging goods directly without money?",
-    "part_difficulty": "medium",
-    "answer": "barter",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What term describes money that has value because a government declares it, rather than because it is made of valuable metal?",
-    "part_difficulty": "hard",
-    "answer": "fiat money",
-    "required": null,
-    "alternates": [
-     "fiat currency"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "ncal"
-  ],
-  "level": "novice",
-  "category": "Social Science",
-  "subcategory": "General",
-  "source": "ai-claude-bank",
-  "expires_at": null,
   "difficulty": "medium",
   "leadin": "Answer these questions about government and society.",
   "parts": [
@@ -16996,57 +16956,11 @@
    {
     "text": "What term names a payment by the government to help people in need, such as for housing or food?",
     "part_difficulty": "medium",
-    "answer": "welfare;public assistance",
+    "answer": "welfare",
     "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "ncal"
-  ],
-  "level": "novice",
-  "category": "Social Science",
-  "subcategory": "General",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about the physical world and people.",
-  "parts": [
-   {
-    "text": "What is the name for the long-term pattern of weather in a place?",
-    "part_difficulty": "easy",
-    "answer": "climate",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What is the name for the very dry region, such as the Sahara, that receives little rainfall?",
-    "part_difficulty": "medium",
-    "answer": "desert",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What term names the study of how people use and change the environment, which geographers call the interaction of people and place?",
-    "part_difficulty": "hard",
-    "answer": "human geography",
-    "required": null,
-    "alternates": [],
+    "alternates": [
+     "public assistance"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -17322,7 +17236,9 @@
     "answer": "past tense",
     "required": null,
     "alternates": [
-     "past"
+     "past",
+     "simple past",
+     "simple past tense"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -23118,7 +23034,9 @@
     "part_difficulty": "easy",
     "answer": "New England",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Northeast"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23545,7 +23463,9 @@
     "answer": "Utah, Colorado, Arizona, and New Mexico",
     "required": null,
     "alternates": [
-     "Four Corners"
+     "Four Corners",
+     "Arizona, Colorado, New Mexico, Utah",
+     "Utah, Colorado, Arizona, New Mexico"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -27012,7 +26932,9 @@
   "alternates": [
    "clase",
    "el salón de clase",
-   "salón de clase"
+   "salón de clase",
+   "el salón de clases",
+   "el aula"
   ],
   "prompt_on": [],
   "answer_type": "foreign_language",
@@ -37374,7 +37296,9 @@
   "required": null,
   "alternates": [
    "4.6 billion",
-   "4.5 billion years"
+   "4.5 billion years",
+   "4.5 billion",
+   "4.54 billion years"
   ],
   "prompt_on": [],
   "answer_type": "math",
@@ -37886,7 +37810,9 @@
     "part_difficulty": "medium",
     "answer": "chemical weathering",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "chemical"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37909,7 +37835,8 @@
     "answer": "karst",
     "required": null,
     "alternates": [
-     "karst topography"
+     "karst topography",
+     "dissolution"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -38905,7 +38832,8 @@
   "required": null,
   "alternates": [
    "homogeneous mixture",
-   "a solution"
+   "a solution",
+   "homogeneous"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -40637,7 +40565,8 @@
     "alternates": [
      "potential energy",
      "potential",
-     "elastic"
+     "elastic",
+     "elastic potential"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -41011,7 +40940,8 @@
     "required": null,
     "alternates": [
      "ferromagnetic",
-     "ferromagnetic materials"
+     "ferromagnetic materials",
+     "magnetic"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -44566,7 +44496,9 @@
   "text": "What term names the steady beat of stressed and unstressed syllables in a poem?",
   "answer": "rhythm",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "meter"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,

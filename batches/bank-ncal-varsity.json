@@ -9333,7 +9333,8 @@
   "required": null,
   "alternates": [
    "Schechter Poultry",
-   "Schechter"
+   "Schechter",
+   "Schechter Poultry Corp. v. United States"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -9442,7 +9443,9 @@
   "required": null,
   "alternates": [
    "Federalist 10",
-   "Federalist Paper 10"
+   "Federalist Paper 10",
+   "Federalist No. 10",
+   "Federalist Paper No. 10"
   ],
   "prompt_on": [],
   "answer_type": "math",
@@ -9465,7 +9468,9 @@
   "required": null,
   "alternates": [
    "Federalist 51",
-   "Federalist Paper 51"
+   "Federalist Paper 51",
+   "Federalist No. 51",
+   "Federalist Paper No. 51"
   ],
   "prompt_on": [],
   "answer_type": "math",
@@ -9488,7 +9493,9 @@
   "required": null,
   "alternates": [
    "Federalist 78",
-   "Federalist Paper 78"
+   "Federalist Paper 78",
+   "Federalist No. 78",
+   "Federalist Paper No. 78"
   ],
   "prompt_on": [],
   "answer_type": "math",
@@ -9993,69 +10000,6 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "medium",
-  "leadin": "Answer these questions about elections.",
-  "parts": [
-   {
-    "text": "What is the minimum age to vote in federal elections?",
-    "part_difficulty": "easy",
-    "answer": "eighteen",
-    "required": null,
-    "alternates": [
-     "18"
-    ],
-    "prompt_on": [],
-    "answer_type": "math",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What is the name for an election in which voters choose between candidates from several parties for an office, held in November?",
-    "part_difficulty": "medium",
-    "answer": "general election",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What name is given to the votes cast by the members of the body that formally chooses the president?",
-    "part_difficulty": "medium",
-    "answer": "electoral votes;electors",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "How many electoral votes does a candidate need to win the presidency?",
-    "part_difficulty": "hard",
-    "answer": "270",
-    "required": null,
-    "alternates": [
-     "two hundred seventy"
-    ],
-    "prompt_on": [],
-    "answer_type": "math",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "ncal"
-  ],
-  "level": "varsity",
-  "category": "Social Science",
-  "subcategory": "U.S. Government",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
   "leadin": "Answer these questions about the Bill of Rights.",
   "parts": [
    {
@@ -10180,7 +10124,8 @@
     "alternates": [
      "enumerated powers",
      "expressed powers",
-     "delegated"
+     "delegated",
+     "exclusive powers"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -10556,9 +10501,11 @@
    {
     "text": "Which congressional power, called the power of the \"purse,\" lets Congress decide how federal money is spent?",
     "part_difficulty": "hard",
-    "answer": "appropriations;spending power",
+    "answer": "appropriations",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "spending power"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -10686,71 +10633,6 @@
     "required": null,
     "alternates": [
      "Farewell Address"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "ncal"
-  ],
-  "level": "varsity",
-  "category": "Social Science",
-  "subcategory": "U.S. Government",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "hard",
-  "leadin": "Answer these questions about the court system.",
-  "parts": [
-   {
-    "text": "What kind of federal courts hold trials in the United States, with at least one in each state?",
-    "part_difficulty": "easy",
-    "answer": "district courts;United States district courts;district court",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What are the federal courts called that hear appeals from district courts?",
-    "part_difficulty": "medium",
-    "answer": "courts of appeals",
-    "required": null,
-    "alternates": [
-     "circuit courts",
-     "appeals courts",
-     "circuit courts of appeals"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What is the term for the right of a court to hear a case, based on the type of case or the location?",
-    "part_difficulty": "medium",
-    "answer": "jurisdiction",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What name is given to the kind of law that deals with disputes between private parties, rather than crimes?",
-    "part_difficulty": "hard",
-    "answer": "civil law",
-    "required": null,
-    "alternates": [
-     "civil"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -12414,7 +12296,8 @@
   "required": null,
   "alternates": [
    "parliamentary monarchy",
-   "parliamentary democracy"
+   "parliamentary democracy",
+   "constitutional monarchy"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -13668,11 +13551,14 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "Which 1949 document established the constitution of the Federal Republic of Germany and is known by a name meaning \"fundamental law\"?",
-  "answer": "Grundgesetz;Basic Law",
+  "answer": "Grundgesetz",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "f",
+   "Basic Law"
+  ],
   "prompt_on": [],
-  "answer_type": "foreign_language",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -16126,7 +16012,8 @@
   "required": "Watson",
   "alternates": [
    "Watson",
-   "John Watson"
+   "John Watson",
+   "Dr. John Watson"
   ],
   "prompt_on": [],
   "answer_type": "name",
@@ -20600,9 +20487,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What RNA molecule, together with proteins, makes up the ribosome?",
-  "answer": "rRNA;ribosomal RNA",
+  "answer": "rRNA",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "ribosomal RNA"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20640,9 +20529,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What term describes the study of the genes of an entire organism?",
-  "answer": "genomics;genome",
+  "answer": "genomics",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "genome"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20660,9 +20551,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What technique uses repeated heating and cooling cycles to amplify a DNA segment?",
-  "answer": "polymerase chain reaction;PCR",
+  "answer": "polymerase chain reaction",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "PCR"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20700,9 +20593,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What bacterial enzymes cut DNA at specific sequences?",
-  "answer": "restriction enzymes;restriction endonucleases;restriction enzyme",
+  "answer": "restriction enzymes",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "restriction endonucleases",
+   "restriction enzyme"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20720,9 +20616,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What term describes an organism that carries DNA from another species?",
-  "answer": "transgenic;genetically modified organism;GMO",
+  "answer": "transgenic",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "genetically modified organism",
+   "GMO"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20760,9 +20659,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What is the name for the passing of traits from parent to offspring?",
-  "answer": "heredity;inheritance",
+  "answer": "heredity",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "inheritance"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20820,9 +20721,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What is the term for the variety of species in an ecosystem?",
-  "answer": "species diversity;biodiversity",
+  "answer": "species diversity",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "biodiversity"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20880,9 +20783,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What is the name for the physical barrier that separates populations and can lead to allopatric speciation?",
-  "answer": "geographic barrier;geographic isolation",
+  "answer": "geographic barrier",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "geographic isolation"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20940,9 +20845,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of immunity results from vaccination, producing memory cells?",
-  "answer": "active immunity;acquired immunity",
+  "answer": "active immunity",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "acquired immunity"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21060,9 +20967,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What law states that gene pairs separate independently of other gene pairs during gamete formation?",
-  "answer": "law of independent assortment;independent assortment",
+  "answer": "law of independent assortment",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "independent assortment"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21080,9 +20989,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What equation describes allele frequencies in a population that is not evolving?",
-  "answer": "Hardy-Weinberg equation;Hardy-Weinberg",
+  "answer": "Hardy-Weinberg equation",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hardy-Weinberg"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21100,11 +21011,15 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "In the Hardy-Weinberg equation, if q squared is 0.09, what is the value of q?",
-  "answer": "0.3;three tenths;3/10",
+  "answer": "0.3",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "m",
+   "three tenths",
+   "3/10"
+  ],
   "prompt_on": [],
-  "answer_type": "math",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21160,9 +21075,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What is the name of the short RNA piece that primes DNA synthesis?",
-  "answer": "RNA primer;primer",
+  "answer": "RNA primer",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "primer"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21220,9 +21137,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What process removes introns and joins exons?",
-  "answer": "RNA splicing;splicing",
+  "answer": "RNA splicing",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "splicing"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21260,11 +21179,14 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What scientist's experiments with Streptococcus pneumoniae demonstrated bacterial transformation in 1928?",
-  "answer": "Frederick Griffith;Griffith",
-  "required": "Griffith;Griffith",
-  "alternates": [],
+  "answer": "Frederick Griffith",
+  "required": null,
+  "alternates": [
+   "n",
+   "Griffith"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -21360,9 +21282,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What stage of the immune response involves memory cells and a faster response upon second exposure?",
-  "answer": "secondary response;secondary immune response",
+  "answer": "secondary response",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "secondary immune response"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21420,9 +21344,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What protein complexes present antigens on cell surfaces to T cells?",
-  "answer": "MHC;major histocompatibility complex",
+  "answer": "MHC",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "major histocompatibility complex"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21500,9 +21426,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What is the term for a species strategy of many offspring with little parental care?",
-  "answer": "r-selected;r-selection",
+  "answer": "r-selected",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "r-selection"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21520,9 +21448,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What term describes the amount of organic matter produced by autotrophs in an ecosystem?",
-  "answer": "primary productivity;biomass",
+  "answer": "primary productivity",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "biomass"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21560,9 +21490,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What term describes increasing concentration of toxins at higher trophic levels?",
-  "answer": "biomagnification;bioaccumulation",
+  "answer": "biomagnification",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "bioaccumulation"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21680,9 +21612,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What is the term for genes that are inherited together because they are close on the same chromosome?",
-  "answer": "linked genes;genetic linkage;linkage",
+  "answer": "linked genes",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "genetic linkage",
+   "linkage"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21700,9 +21635,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What type of inheritance involves traits controlled by multiple genes, like human height?",
-  "answer": "polygenic inheritance;polygenic",
+  "answer": "polygenic inheritance",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "polygenic"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21780,9 +21717,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What disease is caused by a recessive allele and results in a defective enzyme for phenylalanine?",
-  "answer": "phenylketonuria;PKU",
+  "answer": "phenylketonuria",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "PKU"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21880,9 +21819,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What ion is released from the sarcoplasmic reticulum to trigger muscle contraction?",
-  "answer": "calcium;calcium ion",
+  "answer": "calcium",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "calcium ion"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21940,9 +21881,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What ion rushes into a neuron during depolarization?",
-  "answer": "sodium;sodium ion",
+  "answer": "sodium",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "sodium ion"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21980,9 +21923,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the structure formed when a ribosome translates mRNA, consisting of multiple ribosomes on one strand?",
-  "answer": "polysome;polyribosome",
+  "answer": "polysome",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "polyribosome"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22040,9 +21985,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What type of plants, such as corn and sugarcane, use PEP carboxylase to minimize photorespiration?",
-  "answer": "C4 plants;C4",
+  "answer": "C4 plants",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "C4"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22060,9 +22007,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What type of plants open stomata at night and use crassulacean acid metabolism?",
-  "answer": "CAM plants;CAM",
+  "answer": "CAM plants",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "CAM"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22100,9 +22049,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the theory that explains ATP synthesis through a proton gradient across a membrane?",
-  "answer": "chemiosmosis;chemiosmotic theory",
+  "answer": "chemiosmosis",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "chemiosmotic theory"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22120,11 +22071,14 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the British scientist who proposed chemiosmosis?",
-  "answer": "Peter Mitchell;Mitchell",
-  "required": "Mitchell;Mitchell",
-  "alternates": [],
+  "answer": "Peter Mitchell",
+  "required": null,
+  "alternates": [
+   "n",
+   "Mitchell"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22140,9 +22094,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the theory that mitochondria and chloroplasts arose from engulfed prokaryotes?",
-  "answer": "endosymbiotic theory;endosymbiosis",
+  "answer": "endosymbiotic theory",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "endosymbiosis"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22160,11 +22116,14 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What American biologist championed the endosymbiotic theory in the 1960s?",
-  "answer": "Lynn Margulis;Margulis",
-  "required": "Margulis;Margulis",
-  "alternates": [],
+  "answer": "Lynn Margulis",
+  "required": null,
+  "alternates": [
+   "n",
+   "Margulis"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22200,9 +22159,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the protein around which DNA is wrapped to form nucleosomes?",
-  "answer": "histones;histone",
+  "answer": "histones",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "histone"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22220,11 +22181,14 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What scientist discovered transposable elements in maize?",
-  "answer": "Barbara McClintock;McClintock",
-  "required": "McClintock;McClintock",
-  "alternates": [],
+  "answer": "Barbara McClintock",
+  "required": null,
+  "alternates": [
+   "n",
+   "McClintock"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -22240,9 +22204,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the term for the hormone that triggers ovulation, produced by the pituitary?",
-  "answer": "luteinizing hormone;LH",
+  "answer": "luteinizing hormone",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "LH"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22260,9 +22226,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the term for the cluster of cells that forms in an early embryo, a hollow ball after the morula?",
-  "answer": "blastocyst;blastula",
+  "answer": "blastocyst",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "blastula"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22282,7 +22250,9 @@
   "text": "What are the three primary germ layers of the embryo?",
   "answer": "ectoderm, mesoderm, and endoderm",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "ectoderm, mesoderm, endoderm"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22320,9 +22290,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What gene family controls the body plan in animals, with a conserved homeobox?",
-  "answer": "Hox genes;Hox",
+  "answer": "Hox genes",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hox"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22400,9 +22372,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What type of flowering plant has two seed leaves, called cotyledons?",
-  "answer": "dicot;dicotyledon",
+  "answer": "dicot",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "dicotyledon"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -22483,9 +22457,11 @@
    {
     "text": "What type of RNA brings amino acids to the ribosome?",
     "part_difficulty": "medium",
-    "answer": "tRNA;transfer RNA",
+    "answer": "tRNA",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "transfer RNA"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22520,9 +22496,11 @@
    {
     "text": "What technique amplifies DNA?",
     "part_difficulty": "easy",
-    "answer": "polymerase chain reaction;PCR",
+    "answer": "polymerase chain reaction",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "PCR"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22542,9 +22520,11 @@
    {
     "text": "What system from bacteria is used to edit genes with guide RNA and the Cas9 protein?",
     "part_difficulty": "hard",
-    "answer": "CRISPR;CRISPR-Cas9",
+    "answer": "CRISPR",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "CRISPR-Cas9"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22579,9 +22559,11 @@
    {
     "text": "What six-carbon molecule is formed first in the Krebs cycle?",
     "part_difficulty": "medium",
-    "answer": "citrate;citric acid",
+    "answer": "citrate",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "citric acid"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22616,9 +22598,11 @@
    {
     "text": "Where do the light reactions take place in a chloroplast?",
     "part_difficulty": "easy",
-    "answer": "thylakoid membrane;thylakoids",
+    "answer": "thylakoid membrane",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "thylakoids"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22638,9 +22622,11 @@
    {
     "text": "What molecule is the final electron acceptor in photosystem I, producing NADPH?",
     "part_difficulty": "hard",
-    "answer": "NADP+;NADP",
+    "answer": "NADP+",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "NADP"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22664,9 +22650,12 @@
    {
     "text": "What term describes a sudden drop in a population's size that reduces genetic variation?",
     "part_difficulty": "easy",
-    "answer": "bottleneck effect;population bottleneck;bottleneck",
+    "answer": "bottleneck effect",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "population bottleneck",
+     "bottleneck"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22714,7 +22703,9 @@
     "part_difficulty": "easy",
     "answer": "allopatric speciation",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "allopatric"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22725,7 +22716,9 @@
     "part_difficulty": "medium",
     "answer": "sympatric speciation",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "sympatric"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22760,9 +22753,11 @@
    {
     "text": "What type of white blood cell makes antibodies?",
     "part_difficulty": "easy",
-    "answer": "B cell;B lymphocyte",
+    "answer": "B cell",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "B lymphocyte"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22771,9 +22766,11 @@
    {
     "text": "What type of cell kills infected body cells, a type of T cell?",
     "part_difficulty": "medium",
-    "answer": "cytotoxic T cell;killer T cell",
+    "answer": "cytotoxic T cell",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "killer T cell"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22782,9 +22779,11 @@
    {
     "text": "What virus attacks helper T cells, causing AIDS?",
     "part_difficulty": "hard",
-    "answer": "HIV;human immunodeficiency virus",
+    "answer": "HIV",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "human immunodeficiency virus"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22830,11 +22829,14 @@
    {
     "text": "What ecologist's competitive exclusion principle states that two species cannot share the same niche indefinitely?",
     "part_difficulty": "hard",
-    "answer": "Gause;Georgy Gause",
-    "required": "Gause",
-    "alternates": [],
+    "answer": "Gause",
+    "required": null,
+    "alternates": [
+     "n",
+     "Georgy Gause"
+    ],
     "prompt_on": [],
-    "answer_type": "name",
+    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -22926,9 +22928,11 @@
    {
     "text": "What plant hormone promotes seed dormancy and stomatal closure?",
     "part_difficulty": "hard",
-    "answer": "abscisic acid;ABA",
+    "answer": "abscisic acid",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "ABA"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -22974,9 +22978,11 @@
    {
     "text": "What condition occurs when cells no longer respond properly to insulin?",
     "part_difficulty": "hard",
-    "answer": "type 2 diabetes;insulin resistance",
+    "answer": "type 2 diabetes",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "insulin resistance"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23000,9 +23006,11 @@
    {
     "text": "What type of neuron carries signals from sensory receptors to the central nervous system?",
     "part_difficulty": "easy",
-    "answer": "sensory neuron;afferent neuron",
+    "answer": "sensory neuron",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "afferent neuron"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23022,9 +23030,11 @@
    {
     "text": "What type of glial cell forms the myelin sheath in the central nervous system?",
     "part_difficulty": "hard",
-    "answer": "oligodendrocytes;oligodendrocyte",
+    "answer": "oligodendrocytes",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "oligodendrocyte"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23096,9 +23106,12 @@
    {
     "text": "What organs, like the whale pelvis, are reduced and unused?",
     "part_difficulty": "easy",
-    "answer": "vestigial structures;vestigial organs",
+    "answer": "vestigial structures",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "vestigial organs",
+     "vestigial"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23109,7 +23122,9 @@
     "part_difficulty": "medium",
     "answer": "analogous structures",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "analogous"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23118,11 +23133,14 @@
    {
     "text": "What British naturalist co-discovered natural selection with Darwin?",
     "part_difficulty": "hard",
-    "answer": "Alfred Russel Wallace;Wallace",
-    "required": "Wallace;Wallace",
-    "alternates": [],
+    "answer": "Alfred Russel Wallace",
+    "required": null,
+    "alternates": [
+     "n",
+     "Wallace"
+    ],
     "prompt_on": [],
-    "answer_type": "name",
+    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -23166,9 +23184,11 @@
    {
     "text": "What is the name of the model in which the enzyme changes shape to fit its target molecule?",
     "part_difficulty": "hard",
-    "answer": "induced fit model;induced fit",
+    "answer": "induced fit model",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "induced fit"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23192,9 +23212,11 @@
    {
     "text": "What are the molecules that bind to receptors to trigger a cell response?",
     "part_difficulty": "easy",
-    "answer": "ligands;ligand",
+    "answer": "ligands",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "ligand"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23214,9 +23236,11 @@
    {
     "text": "What class of membrane receptors activates a G protein inside the cell?",
     "part_difficulty": "hard",
-    "answer": "G protein-coupled receptors;GPCR",
+    "answer": "G protein-coupled receptors",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "GPCR"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23384,9 +23408,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the term for the proteins that bind to DNA to promote or reduce transcription of a gene?",
-  "answer": "transcription factors;transcription factor",
+  "answer": "transcription factors",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "transcription factor"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -23408,20 +23434,25 @@
    {
     "text": "What scientist's 1928 experiment with pneumonia bacteria in mice showed transformation?",
     "part_difficulty": "easy",
-    "answer": "Frederick Griffith;Griffith",
-    "required": "Griffith;Griffith",
-    "alternates": [],
+    "answer": "Frederick Griffith",
+    "required": null,
+    "alternates": [
+     "n",
+     "Griffith"
+    ],
     "prompt_on": [],
-    "answer_type": "name",
+    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
    {
     "text": "What scientists in 1952 used radioactive sulfur and phosphorus labeling in viruses?",
     "part_difficulty": "medium",
-    "answer": "Hershey and Chase;Alfred Hershey and Martha Chase",
+    "answer": "Hershey and Chase",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Alfred Hershey and Martha Chase"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23430,11 +23461,14 @@
    {
     "text": "What scientist's rules say that the amount of adenine equals the amount of thymine in DNA?",
     "part_difficulty": "hard",
-    "answer": "Erwin Chargaff;Chargaff",
-    "required": "Chargaff;Chargaff",
-    "alternates": [],
+    "answer": "Erwin Chargaff",
+    "required": null,
+    "alternates": [
+     "n",
+     "Chargaff"
+    ],
     "prompt_on": [],
-    "answer_type": "name",
+    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -23467,9 +23501,11 @@
    {
     "text": "What hormone promotes stem elongation and seed germination, discovered in rice?",
     "part_difficulty": "medium",
-    "answer": "gibberellin;gibberellins",
+    "answer": "gibberellin",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "gibberellins"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23478,9 +23514,11 @@
    {
     "text": "What hormone promotes cell division and is made in the roots?",
     "part_difficulty": "hard",
-    "answer": "cytokinin;cytokinins",
+    "answer": "cytokinin",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "cytokinins"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23515,9 +23553,11 @@
    {
     "text": "What group of cells in the right atrium is called the natural pacemaker?",
     "part_difficulty": "medium",
-    "answer": "sinoatrial node;SA node",
+    "answer": "sinoatrial node",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "SA node"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23526,9 +23566,11 @@
    {
     "text": "What valve prevents backflow from the aorta into the left ventricle?",
     "part_difficulty": "medium",
-    "answer": "aortic valve;aortic semilunar valve",
+    "answer": "aortic valve",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "aortic semilunar valve"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23622,9 +23664,11 @@
    {
     "text": "What is the name of the finger-like projections lining the small intestine?",
     "part_difficulty": "medium",
-    "answer": "villi;villus",
+    "answer": "villi",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "villus"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23648,9 +23692,11 @@
    {
     "text": "What phylum contains animals with a notochord at some stage of life?",
     "part_difficulty": "easy",
-    "answer": "Chordata;chordates",
+    "answer": "Chordata",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "chordates"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23659,9 +23705,11 @@
    {
     "text": "What phylum includes insects, spiders, and crustaceans?",
     "part_difficulty": "medium",
-    "answer": "Arthropoda;arthropods",
+    "answer": "Arthropoda",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "arthropods"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23670,9 +23718,12 @@
    {
     "text": "What phylum includes snails, clams, and octopuses?",
     "part_difficulty": "hard",
-    "answer": "Mollusca;mollusks;molluscs",
+    "answer": "Mollusca",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "mollusks",
+     "molluscs"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23718,9 +23769,11 @@
    {
     "text": "What structure of four chromatids is formed when homologous chromosomes pair up?",
     "part_difficulty": "hard",
-    "answer": "tetrad;bivalent",
+    "answer": "tetrad",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "bivalent"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23740,9 +23793,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What is the term for a mutation in which a nucleotide is added or deleted, shifting the reading frame?",
-  "answer": "frameshift mutation;frameshift",
+  "answer": "frameshift mutation",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "frameshift"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -23800,9 +23855,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the process in which tRNA is loaded with its specific amino acid by an enzyme?",
-  "answer": "aminoacylation;tRNA charging",
+  "answer": "aminoacylation",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "tRNA charging"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -23844,9 +23901,11 @@
    {
     "text": "What cell fragments help blood to clot?",
     "part_difficulty": "easy",
-    "answer": "platelets;platelet",
+    "answer": "platelets",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "platelet"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -23866,9 +23925,11 @@
    {
     "text": "What disease results from a recessive mutation in the beta globin gene that distorts red blood cells?",
     "part_difficulty": "hard",
-    "answer": "sickle cell disease;sickle cell anemia",
+    "answer": "sickle cell disease",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "sickle cell anemia"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36201,7 +36262,9 @@
     "answer": "gruel",
     "required": null,
     "alternates": [
-     "porridge"
+     "porridge",
+     "more food",
+     "food"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -36741,7 +36804,8 @@
   "alternates": [
    "bleu, blanc et rouge",
    "red, white, and blue",
-   "le tricolore"
+   "le tricolore",
+   "blue, white, red"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -37789,7 +37853,8 @@
   "alternates": [
    "Orsay",
    "Musee d'Orsay",
-   "Orsay Museum"
+   "Orsay Museum",
+   "Gare d'Orsay"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -39638,7 +39703,8 @@
     "answer": "acute accent",
     "required": null,
     "alternates": [
-     "accent aigu"
+     "accent aigu",
+     "acute"
     ],
     "prompt_on": [],
     "answer_type": "foreign_language",
@@ -44138,7 +44204,8 @@
      "1/4",
      "one quarter",
      "divided by four",
-     "a quarter"
+     "a quarter",
+     "one-fourth"
     ],
     "prompt_on": [],
     "answer_type": "math",
@@ -47021,7 +47088,9 @@
   "required": null,
   "alternates": [
    "Smoot-Hawley",
-   "Hawley-Smoot Tariff"
+   "Hawley-Smoot Tariff",
+   "Smoot-Hawley Tariff",
+   "Hawley-Smoot Tariff Act"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -48227,7 +48296,8 @@
     "answer": "stock market index",
     "required": null,
     "alternates": [
-     "market index"
+     "market index",
+     "stock index"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -48382,7 +48452,9 @@
     "required": null,
     "alternates": [
      "peg",
-     "currency peg"
+     "currency peg",
+     "pegged exchange rate",
+     "pegged"
     ],
     "prompt_on": [],
     "answer_type": "general",

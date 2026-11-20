@@ -2316,7 +2316,9 @@
    "Beethoven's Ninth",
    "Ninth Symphony",
    "Choral Symphony",
-   "Symphony No. 9 in D minor"
+   "Symphony No. 9 in D minor",
+   "Beethoven's Symphony No. 9",
+   "Ninth"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -7135,9 +7137,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "Marjory Stoneman Douglas called this wetland a \"river of grass.\" Sawgrass marshes and mangroves here are home to alligators and the Florida panther. It lies southwest of Miami and shares a region with Big Cypress. For 10 points, name this Florida national park.",
-  "answer": "Everglades;Everglades National Park",
+  "answer": "Everglades",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Everglades National Park"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18537,9 +18541,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This Titan was tricked into swallowing a stone wrapped in swaddling clothes in place of his youngest son. He had earlier castrated his own father with a sickle given to him by his mother. He was later overthrown by his son and imprisoned in Tartarus or sent to the Isles of the Blessed, depending on the source. For 10 points, name this Titan, the father of Zeus and the Roman Saturn's counterpart.",
-  "answer": "Cronus;Kronos;Cronos",
+  "answer": "Cronus",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Kronos",
+   "Cronos"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18557,9 +18564,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "In Hesiod's Theogony, this goddess arose after Chaos and bore Uranus without a mate. She helped her son Cronus castrate Uranus and later sheltered Zeus from his father. She was also the mother of Typhon. For 10 points, name this primordial Greek personification of the earth.",
-  "answer": "Gaia;Gaea;Ge",
+  "answer": "Gaia",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Gaea",
+   "Ge"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18577,9 +18587,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This monster had a hundred serpent heads that flashed fire from their eyes and produced the voices of many animals. He and Echidna were the parents of Cerberus, the Chimera, and the Hydra. Zeus defeated him with thunderbolts and buried him beneath Mount Etna. For 10 points, name this monster, the last challenger to Zeus's rule.",
-  "answer": "Typhon;Typhoeus",
+  "answer": "Typhon",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Typhoeus"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18597,9 +18609,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "Hesiod says this goddess received honors from Zeus above all others, and she was a daughter of the Titan Perses and Asteria. She carries torches and is associated with crossroads, dogs, and witchcraft. She heard the cries of Persephone and helped Demeter search for her. For 10 points, name this triple-formed goddess of magic.",
-  "answer": "Hecate;Hekate",
+  "answer": "Hecate",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hekate"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18617,9 +18631,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This hunter was changed into a stag after he accidentally saw a goddess bathing in a stream. His own hounds failed to recognize him and tore him apart. His teacher, the centaur Chiron, later mourned him with a statue. For 10 points, name this grandson of Cadmus.",
-  "answer": "Actaeon;Aktaion",
+  "answer": "Actaeon",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Aktaion"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18757,9 +18773,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This queen of Mycenae killed her husband in his bath after his return from Troy, citing the sacrifice of their daughter. She ruled with her lover Aegisthus, and was killed by her own son. She was the sister of Helen. For 10 points, name this wife of Agamemnon.",
-  "answer": "Clytemnestra;Klytaimnestra",
+  "answer": "Clytemnestra",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Klytaimnestra"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18817,9 +18835,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This priest of Apollo warned the Trojans not to bring the wooden horse into the city and hurled a spear at it. Two sea serpents then crushed him and his sons. For 10 points, name this priest, whose agony is shown in a famous Hellenistic sculpture.",
-  "answer": "Laocoon;Laocoön",
+  "answer": "Laocoon",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Laocoön"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18857,9 +18877,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This blind prophet of Thebes was changed into a woman for seven years after striking two snakes. He told Odysseus how to get home when the hero consulted him in the Underworld. Hera blinded him for siding with Zeus in an argument. For 10 points, name this seer.",
-  "answer": "Tiresias;Teiresias",
+  "answer": "Tiresias",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Teiresias"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -18937,9 +18959,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This son of Helios begged his father to let him drive the sun chariot for a day. He lost control of the horses, scorching the earth, until Zeus killed him with a thunderbolt. He fell into the river Eridanus, and his sisters became poplar trees. For 10 points, name this hubristic youth.",
-  "answer": "Phaethon;Phaeton",
+  "answer": "Phaethon",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Phaeton"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19017,9 +19041,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "Zeus and Hermes, disguised as travelers, were turned away from a thousand homes before being welcomed by this elderly Phrygian couple. The gods flooded the countryside but spared them, and they were turned into intertwining trees. For 10 points, name this couple, famous for hospitality.",
-  "answer": "Baucis and Philemon;Philemon and Baucis",
+  "answer": "Baucis and Philemon",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Philemon and Baucis"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19077,9 +19103,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This queen of Troy was given as a slave to Odysseus after the war. In Euripides's play, she blinded the Thracian king Polymestor in revenge for the murder of her youngest son. For 10 points, name this wife of Priam.",
-  "answer": "Hecuba;Hekabe",
+  "answer": "Hecuba",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hekabe"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19163,9 +19191,12 @@
    {
     "text": "At the end of the trilogy, these avenging spirits become benevolent after Athena persuades them to accept a new home in Athens.",
     "part_difficulty": "hard",
-    "answer": "Furies;Erinyes;Eumenides",
+    "answer": "Furies",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Erinyes",
+     "Eumenides"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -19248,9 +19279,12 @@
    {
     "text": "This prophetess guided Aeneas into the Underworld.",
     "part_difficulty": "medium",
-    "answer": "Cumaean Sibyl;Sibyl of Cumae;Sibyl",
+    "answer": "Cumaean Sibyl",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Sibyl of Cumae",
+     "Sibyl"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -19260,54 +19294,6 @@
     "text": "Aeneas married this daughter of King Latinus.",
     "part_difficulty": "hard",
     "answer": "Lavinia",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "varsity",
-  "category": "Mythology",
-  "subcategory": "Greco-Roman Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about the Theban cycle.",
-  "parts": [
-   {
-    "text": "This woman was both mother and wife of Oedipus.",
-    "part_difficulty": "easy",
-    "answer": "Jocasta;Iocaste",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This brother of Jocasta became king of Thebes after Oedipus's fall.",
-    "part_difficulty": "medium",
-    "answer": "Creon",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This son of Oedipus refused to share the throne with his brother and killed him in single combat before the walls of Thebes.",
-    "part_difficulty": "hard",
-    "answer": "Eteocles",
     "required": null,
     "alternates": [],
     "prompt_on": [],
@@ -19381,9 +19367,11 @@
    {
     "text": "This wise centaur taught Achilles, Jason, and Asclepius.",
     "part_difficulty": "easy",
-    "answer": "Chiron;Cheiron",
+    "answer": "Chiron",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Cheiron"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -19521,9 +19509,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "After her father Thjazi was killed by the gods, this giantess armed herself and went to Asgard to seek compensation. The gods let her choose a husband by looking only at their feet, and she picked Njord thinking he was Baldr. She is said to have placed a venomous snake over the head of the bound Loki. For 10 points, name this Norse goddess of winter and the hunt.",
-  "answer": "Skadi;Skathi",
+  "answer": "Skadi",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Skathi"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19581,9 +19571,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This silent son of Odin and the giantess Grid is the god of vengeance. At Ragnarok, he avenges his father by placing a thick shoe on the lower jaw of Fenrir and tearing it apart. He survives the destruction to rule in the new world. For 10 points, name this god.",
-  "answer": "Vidar;Vidarr;Vithar",
+  "answer": "Vidar",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Vidarr",
+   "Vithar"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19601,9 +19594,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This son of Odin and Rind was born for one purpose: to avenge the death of Baldr. He grew to full size in a single day and killed the god who threw the mistletoe, without washing his hands or combing his hair until he did so. For 10 points, name this god.",
-  "answer": "Vali;Váli",
+  "answer": "Vali",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Váli"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19621,9 +19616,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This stepson of Thor is the god of archery, skiing, and winter. He is a skilled hunter and used a bone as a ski, according to Saxo. His name means glory. For 10 points, name this god, a son of Sif.",
-  "answer": "Ull;Ullr",
+  "answer": "Ull",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ullr"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19641,9 +19638,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This sea giant hosts the gods at a feast in the poem Lokasenna, where Loki insults all the guests. He and his wife Ran gather drowned sailors in a net. The gods needed a large cauldron to brew ale for his feast. For 10 points, name this Norse personification of the sea.",
-  "answer": "Aegir;Ægir",
+  "answer": "Aegir",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ægir"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19681,9 +19680,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This giantess was seen by Freyr from Odin's seat, and he fell so deeply in love that he stopped eating. His servant Skirnir won her over with threats and gifts, including the golden apples. She finally agreed to meet him after nine nights. For 10 points, name this giantess.",
-  "answer": "Gerd;Gerðr",
+  "answer": "Gerd",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Gerðr"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19701,9 +19702,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This dwarf lived in a waterfall in the form of a pike until he was caught by Loki. He gave up his gold hoard and ring, but he laid a curse on them. The curse affected Fafnir and Sigurd. For 10 points, name this dwarf, owner of the ring Andvaranaut.",
-  "answer": "Andvari;Alberich",
+  "answer": "Andvari",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Alberich"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19721,9 +19724,12 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "After her husband Sigurd's murder, this woman was married to Atli, the king of the Huns. She killed the two sons she bore him and served them to their father, then killed Atli. For 10 points, name this Burgundian princess, whose brothers Gunnar and Hogni were involved in her first husband's death.",
-  "answer": "Gudrun;Gudrún;Kriemhild",
+  "answer": "Gudrun",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Gudrún",
+   "Kriemhild"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19801,9 +19807,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "Odin spent three nights with this giantess to gain three drinks of the mead of poetry. Her father Suttung had hidden the mead inside a mountain and set her to guard it. For 10 points, name this giantess.",
-  "answer": "Gunnlod;Gunnlöð",
+  "answer": "Gunnlod",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Gunnlöð"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19821,9 +19829,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "A giant disguised as a builder offered to rebuild Asgard's wall in a single winter, aided by this stallion, who hauled the stones with amazing strength. The gods forced Loki to stop him, and Loki then gave birth to a famous horse. For 10 points, name this stallion.",
-  "answer": "Svadilfari;Svaðilfari",
+  "answer": "Svadilfari",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Svaðilfari"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19841,29 +19851,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "These three women live by a well at the roots of Yggdrasil and decide the fates of all beings. Their names are Urd, Verdandi, and Skuld. For 10 points, name these Norse equivalents of the Fates.",
-  "answer": "Norns;the Norns",
+  "answer": "Norns",
   "required": null,
-  "alternates": [],
-  "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
-  "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "quizbowl"
+  "alternates": [
+   "the Norns"
   ],
-  "level": "varsity",
-  "category": "Mythology",
-  "subcategory": "Norse Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "hard",
-  "text": "One of these two wolves chases the sun and the other chases the moon. When they catch their prey at Ragnarok, the heavens will go dark. They were born of a giantess in the Iron Wood. For 10 points, name these two wolves, Skoll and Hati.",
-  "answer": "Skoll and Hati;Sköll and Hati;Hati and Skoll",
-  "required": null,
-  "alternates": [],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19921,9 +19913,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "Thor went to this giant's home without his hammer, belt, or gloves, borrowing the belt and iron gloves and a staff from the giantess Grid. The giant threw a molten iron bar at Thor, who caught it. For 10 points, name this giant, who was killed by Thor.",
-  "answer": "Geirrod;Geirröd",
+  "answer": "Geirrod",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Geirröd"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19941,9 +19935,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "In this poem of the Poetic Edda, a seeress recounts the creation of the world to Odin and foretells its end. She describes the death of Baldr and the events of Ragnarok. For 10 points, name this poem whose title means prophecy of the seeress.",
-  "answer": "Voluspa;Völuspá",
+  "answer": "Voluspa",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Völuspá"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19961,9 +19957,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This Icelandic author of the thirteenth century wrote the Prose Edda, which preserves much of what we know of Norse myth. He also compiled Heimskringla, a history of Norwegian kings. For 10 points, name this historian and politician.",
-  "answer": "Snorri Sturluson;Snorri",
+  "answer": "Snorri Sturluson",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Snorri"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -19981,9 +19979,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "Odin describes hanging for nine nights on a windswept tree, stabbed with a spear, in this poem of the Poetic Edda. It consists mostly of proverbs and advice to travelers. For 10 points, name this poem whose title means sayings of the High One.",
-  "answer": "Havamal;Hávamál",
+  "answer": "Havamal",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hávamál"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20041,9 +20041,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This son of Odin rode Sleipnir for nine days and nights through dark valleys to the realm of the dead. There he pleaded with the ruler for the release of Baldr, and he brought back gifts such as the ring Draupnir. For 10 points, name this messenger god.",
-  "answer": "Hermod;Hermóðr",
+  "answer": "Hermod",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hermóðr"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20101,61 +20103,15 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "In a contest of wits with Odin, who traveled in disguise, this wise giant asked riddles about the world's beginning. He lost when Odin asked what he had whispered in his son's ear. For 10 points, name this giant.",
-  "answer": "Vafthrudnir;Vafþrúðnir",
+  "answer": "Vafthrudnir",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Vafþrúðnir"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "varsity",
-  "category": "Mythology",
-  "subcategory": "Norse Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about Thor's journey to Utgard.",
-  "parts": [
-   {
-    "text": "Thor and his companions traveled through this land of the giants.",
-    "part_difficulty": "easy",
-    "answer": "Jotunheim;Jotunheimr",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This swift human servant, who raced Hugi, traveled with Thor.",
-    "part_difficulty": "medium",
-    "answer": "Thialfi;Þjálfi",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This human girl, the sister of Thialfi, also traveled with Thor and was given to him as a servant after her father's fault with the goat.",
-    "part_difficulty": "hard",
-    "answer": "Roskva",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
  },
  {
   "type": "bonus",
@@ -20173,9 +20129,11 @@
    {
     "text": "This three-year winter will precede the end of the world.",
     "part_difficulty": "easy",
-    "answer": "Fimbulwinter;Fimbulvetr",
+    "answer": "Fimbulwinter",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Fimbulvetr"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20184,9 +20142,11 @@
    {
     "text": "The final battlefield will be this plain.",
     "part_difficulty": "medium",
-    "answer": "Vigrid;Vígríðr",
+    "answer": "Vigrid",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Vígríðr"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20195,9 +20155,11 @@
    {
     "text": "These two humans will survive Ragnarok by hiding in Hoddmimir's wood and repopulate the world.",
     "part_difficulty": "hard",
-    "answer": "Lif and Lifthrasir;Líf and Lífþrasir",
+    "answer": "Lif and Lifthrasir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Líf and Lífþrasir"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20280,9 +20242,11 @@
    {
     "text": "This work by Snorri includes Gylfaginning.",
     "part_difficulty": "medium",
-    "answer": "Prose Edda;Younger Edda",
+    "answer": "Prose Edda",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Younger Edda"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20328,9 +20292,11 @@
    {
     "text": "This smith raised Sigurd and urged him to kill the dragon.",
     "part_difficulty": "medium",
-    "answer": "Regin;Reginn",
+    "answer": "Regin",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Reginn"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20339,9 +20305,11 @@
    {
     "text": "This dwarf king was killed by his sons over the gold paid as compensation for the death of his son Otr.",
     "part_difficulty": "hard",
-    "answer": "Hreidmar;Hreiðmarr",
+    "answer": "Hreidmar",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Hreiðmarr"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20365,9 +20333,11 @@
    {
     "text": "Odin sat on this high seat, from which he could see all worlds.",
     "part_difficulty": "easy",
-    "answer": "Hlidskjalf;Hliðskjálf",
+    "answer": "Hlidskjalf",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Hliðskjálf"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20376,9 +20346,11 @@
    {
     "text": "This is the name of Thor's hall.",
     "part_difficulty": "medium",
-    "answer": "Bilskirnir;Bilskírnir",
+    "answer": "Bilskirnir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Bilskírnir"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20387,9 +20359,11 @@
    {
     "text": "This is the field where Freya receives half of those slain in battle.",
     "part_difficulty": "hard",
-    "answer": "Folkvangr;Fólkvangr",
+    "answer": "Folkvangr",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Fólkvangr"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20413,9 +20387,11 @@
    {
     "text": "This giant demanded Freya as his bride in exchange for Thor's stolen hammer.",
     "part_difficulty": "easy",
-    "answer": "Thrym;Þrymr",
+    "answer": "Thrym",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Þrymr"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20424,9 +20400,11 @@
    {
     "text": "This giant took the form of an eagle and abducted Idun.",
     "part_difficulty": "medium",
-    "answer": "Thjazi;Þjazi",
+    "answer": "Thjazi",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Þjazi"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20435,9 +20413,11 @@
    {
     "text": "Thor met this giant on his journey to Utgard. He was actually Utgard-Loki in disguise.",
     "part_difficulty": "hard",
-    "answer": "Skrymir;Skrýmir",
+    "answer": "Skrymir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Skrýmir"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20472,9 +20452,11 @@
    {
     "text": "This magical boar is cooked and eaten each day and is whole again the next.",
     "part_difficulty": "medium",
-    "answer": "Saehrimnir;Sæhrímnir",
+    "answer": "Saehrimnir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Sæhrímnir"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20483,9 +20465,11 @@
    {
     "text": "This goat on the roof of Valhalla provides mead.",
     "part_difficulty": "hard",
-    "answer": "Heidrun;Heiðrún",
+    "answer": "Heidrun",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Heiðrún"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -20505,9 +20489,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Mesopotamian goddess ruled the land of the dead, Irkalla, and had her sister's corpse hung on a hook after she arrived at the seventh gate. Her vizier Namtar served her, and her husband was Nergal in later tradition. For 10 points, name this queen of the Underworld, the sister of Inanna.",
-  "answer": "Ereshkigal;Ereshkigel",
+  "answer": "Ereshkigal",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ereshkigel"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20545,9 +20531,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Sumerian god of fresh water lived in the Abzu beneath the city of Eridu. According to one myth he helped create humans from clay, and in another he warned the flood hero by speaking to a reed wall. For 10 points, name this god, called Ea by the Akkadians.",
-  "answer": "Enki;Ea",
+  "answer": "Enki",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ea"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20565,9 +20553,12 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "In one myth, this shepherd god, the husband of Inanna, was dragged to the Underworld by demons after he failed to mourn his wife. He spends half the year there, and his sister Geshtinanna takes his place for the other half. For 10 points, name this Mesopotamian dying-and-rising god, known as Tammuz in later periods.",
-  "answer": "Dumuzid;Dumuzi;Tammuz",
+  "answer": "Dumuzid",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Dumuzi",
+   "Tammuz"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20585,9 +20576,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This sky goddess arches over the earth with her body covered in stars. Each evening she swallows the sun and gives birth to it at dawn. She was held apart from her husband Geb by their father Shu. For 10 points, name this Egyptian mother of Osiris and Isis.",
-  "answer": "Nut;Nuit",
+  "answer": "Nut",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Nuit"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20625,9 +20618,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "The heart of the dead was weighed against the feather of this Egyptian goddess, the personification of truth and cosmic order. She is often depicted with an ostrich feather on her head. For 10 points, name this goddess.",
-  "answer": "Maat;Ma'at;Mayet",
+  "answer": "Maat",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ma'at",
+   "Mayet"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20745,9 +20741,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This demon king obtained a boon from Brahma that he could not be killed by man or beast, indoors or outdoors, or by day or night. Vishnu defeated him at twilight on a threshold in the form of a half-man, half-lion. For 10 points, name this father of Prahlada.",
-  "answer": "Hiranyakashipu;Hiranyakasipu",
+  "answer": "Hiranyakashipu",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hiranyakasipu"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20765,9 +20763,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This god was nicknamed Samildanach, meaning skilled in many arts, when he persuaded the doorkeeper of Tara to admit him. He killed his grandfather Balor in the Second Battle of Mag Tuired. For 10 points, name this Irish god, the father of Cu Chulainn.",
-  "answer": "Lugh;Lug",
+  "answer": "Lugh",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Lug"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20845,9 +20845,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This queen of Connacht launched the Cattle Raid of Cooley to acquire the brown bull of Cooley, because her husband Ailill owned a bull that matched her wealth. She was opposed by Cu Chulainn. For 10 points, name this queen.",
-  "answer": "Medb;Maeve",
+  "answer": "Medb",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Maeve"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20905,9 +20907,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This Chinese woman swallowed the elixir of immortality that her husband Hou Yi had received and floated up to the moon. A rabbit and a toad accompany her there. For 10 points, name this goddess honored in the Mid-Autumn Festival.",
-  "answer": "Chang'e;Change;Chang E",
+  "answer": "Chang'e",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Change",
+   "Chang E"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20925,9 +20930,12 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This legendary ruler spent thirteen years controlling a great flood by dredging channels, unlike his father Gun, who had tried to dam it and failed. He is said to have passed his own door three times without entering. For 10 points, name this founder of the Xia dynasty.",
-  "answer": "Yu the Great;Yu;Da Yu",
+  "answer": "Yu the Great",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Yu",
+   "Da Yu"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -20985,9 +20993,12 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "In the Popol Vuh, these two brothers beat the lords of Xibalba in a ballgame and tricked them to avenge their father and uncle. They later rose into the sky, one becoming the sun and the other the moon. For 10 points, name these Maya Hero Twins.",
-  "answer": "Hunahpu and Xbalanque;Hero Twins;Xbalanque and Hunahpu",
+  "answer": "Hunahpu and Xbalanque",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Hero Twins",
+   "Xbalanque and Hunahpu"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21005,9 +21016,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This Yoruba god was sent by Olodumare to create the solid earth using a chain, a bag of sand, and a hen. He later made humans from clay but got drunk on palm wine and made some deformed. For 10 points, name this orisha, who wears white.",
-  "answer": "Obatala;Orisha-nla",
+  "answer": "Obatala",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Orisha-nla"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21025,9 +21038,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Yoruba thunder god wields a double-headed axe and was said to have been an early king of the city of Oyo. His wives include the river goddess Oshun and the storm goddess Oya, and his followers wear red. For 10 points, name this orisha of storms and lightning.",
-  "answer": "Shango;Sango",
+  "answer": "Shango",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Sango"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21045,9 +21060,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This old magician of Finnish myth was born from Ilmatar after spending hundreds of years in her womb. He fashioned the kantele from the jawbone of a pike and sang with his magic. For 10 points, name this hero of the Kalevala.",
-  "answer": "Vainamoinen;Väinämöinen",
+  "answer": "Vainamoinen",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Väinämöinen"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21085,9 +21102,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This Persian hero of the Shahnameh rode the horse Rakhsh and completed seven labors. He unwittingly killed his own son Sohrab in single combat. For 10 points, name this son of Zal.",
-  "answer": "Rostam;Rustam",
+  "answer": "Rostam",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Rustam"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -21120,9 +21139,11 @@
    {
     "text": "The pair killed this guardian of the Cedar Forest.",
     "part_difficulty": "medium",
-    "answer": "Humbaba;Huwawa",
+    "answer": "Humbaba",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Huwawa"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -21360,9 +21381,11 @@
    {
     "text": "This grandson of Amaterasu descended from heaven to rule Japan.",
     "part_difficulty": "medium",
-    "answer": "Ninigi;Ninigi-no-Mikoto",
+    "answer": "Ninigi",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Ninigi-no-Mikoto"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -21397,9 +21420,12 @@
    {
     "text": "This trickster orisha is a messenger between humans and gods.",
     "part_difficulty": "easy",
-    "answer": "Eshu;Elegba;Esu",
+    "answer": "Eshu",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Elegba",
+     "Esu"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -21408,9 +21434,11 @@
    {
     "text": "This river orisha is the goddess of love and fresh water.",
     "part_difficulty": "medium",
-    "answer": "Oshun;Osun",
+    "answer": "Oshun",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Osun"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -21420,54 +21448,6 @@
     "text": "This orisha of iron and warfare is a smith and hunter.",
     "part_difficulty": "hard",
     "answer": "Ogun",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "varsity",
-  "category": "Mythology",
-  "subcategory": "World Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about the Kalevala.",
-  "parts": [
-   {
-    "text": "Elias Lonnrot compiled this Finnish national epic.",
-    "part_difficulty": "easy",
-    "answer": "Kalevala;The Kalevala",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This magic mill produced salt, grain, and money.",
-    "part_difficulty": "medium",
-    "answer": "Sampo",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This witch queen of Pohjola was the mother of the maidens courted by the Kalevala heroes.",
-    "part_difficulty": "hard",
-    "answer": "Louhi",
     "required": null,
     "alternates": [],
     "prompt_on": [],
@@ -29628,7 +29608,8 @@
   "required": null,
   "alternates": [
    "Great Mosque of Cordoba",
-   "Mosque-Cathedral of Cordoba"
+   "Mosque-Cathedral of Cordoba",
+   "Mezquita of Cordoba"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -31084,7 +31065,8 @@
     "answer": "Eight Immortals",
     "required": null,
     "alternates": [
-     "Baxian"
+     "Baxian",
+     "Immortals"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -32290,7 +32272,10 @@
     "answer": "seance",
     "required": null,
     "alternates": [
-     "séance"
+     "séance",
+     "mediumship",
+     "spiritualism",
+     "seances"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -34393,7 +34378,8 @@
     "required": null,
     "alternates": [
      "VSEPR",
-     "VSEPR theory"
+     "VSEPR theory",
+     "valence shell electron pair repulsion"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -36654,7 +36640,10 @@
     "answer": "gravity",
     "required": null,
     "alternates": [
-     "gravitational pull"
+     "gravitational pull",
+     "gravitational force",
+     "tidal force",
+     "gravitation"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -38715,61 +38704,6 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "medium",
-  "leadin": "Answer these questions about probability.",
-  "parts": [
-   {
-    "text": "What is the probability of getting two heads in two fair coin tosses?",
-    "part_difficulty": "easy",
-    "answer": "1/4",
-    "required": null,
-    "alternates": [
-     "one fourth",
-     "one quarter"
-    ],
-    "prompt_on": [],
-    "answer_type": "math",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What term describes the expected number of successes in repeated independent trials, named for a Swiss family?",
-    "part_difficulty": "medium",
-    "answer": "binomial distribution",
-    "required": null,
-    "alternates": [
-     "binomial"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What distribution gives the number of events in a fixed interval at constant average rate, named for a French mathematician?",
-    "part_difficulty": "hard",
-    "answer": "Poisson distribution",
-    "required": null,
-    "alternates": [
-     "Poisson"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "varsity",
-  "category": "Science",
-  "subcategory": "Math",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
   "leadin": "Answer these questions about famous mathematicians.",
   "parts": [
    {
@@ -39074,7 +39008,8 @@
    "A star",
    "A-star",
    "A* algorithm",
-   "A star search"
+   "A star search",
+   "A*"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -41548,7 +41483,9 @@
   "required": null,
   "alternates": [
    "Smoot-Hawley",
-   "Smoot Hawley"
+   "Smoot Hawley",
+   "Smoot-Hawley Tariff",
+   "Hawley-Smoot Tariff Act"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -42226,7 +42163,10 @@
     "required": null,
     "alternates": [
      "Wall Street Crash",
-     "crash of 1929"
+     "crash of 1929",
+     "stock market crash of 1929",
+     "Black Tuesday",
+     "the crash"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -43542,30 +43482,6 @@
   "answer_type": "name",
   "duplicate_name": false,
   "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "varsity",
-  "category": "Social Science",
-  "subcategory": "Sociology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "hard",
-  "text": "In a 1973 paper, this Stanford sociologist argued that acquaintances may be more useful than close friends for finding jobs, because they provide new information. For 10 points, name this paper \"The Strength of Weak Ties\" by Mark Granovetter.",
-  "answer": "The Strength of Weak Ties",
-  "required": null,
-  "alternates": [
-   "strength of weak ties",
-   "weak ties"
-  ],
-  "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
-  "accepts_partial_name": false,
-  "_leakOk": true
  },
  {
   "type": "tossup",

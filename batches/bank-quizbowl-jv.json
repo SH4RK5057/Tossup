@@ -4920,58 +4920,6 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "medium",
-  "leadin": "Answer these questions about inventors.",
-  "parts": [
-   {
-    "text": "Which American inventor patented the sewing machine in 1846, as Elias Howe did? Give the first name of the man who invented the vulcanization of rubber.",
-    "part_difficulty": "easy",
-    "answer": "Charles Goodyear",
-    "required": "Goodyear",
-    "alternates": [
-     "Goodyear"
-    ],
-    "prompt_on": [],
-    "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which American inventor developed the revolver and the Colt Paterson?",
-    "part_difficulty": "medium",
-    "answer": "Samuel Colt",
-    "required": "Colt",
-    "alternates": [
-     "Colt"
-    ],
-    "prompt_on": [],
-    "answer_type": "name",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which Wright brothers' bicycle shop was in this Ohio city?",
-    "part_difficulty": "hard",
-    "answer": "Dayton",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "jv",
-  "category": "Other Academic",
-  "subcategory": "General Knowledge",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
   "leadin": "Answer these questions about American women.",
   "parts": [
    {
@@ -10671,7 +10619,8 @@
     "required": null,
     "alternates": [
      "tropical climate",
-     "tropical zone"
+     "tropical zone",
+     "tropical rainforest"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -21206,60 +21155,6 @@
   ]
  },
  {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "jv",
-  "category": "History",
-  "subcategory": "Ancient History",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about the Hellenistic world.",
-  "parts": [
-   {
-    "text": "Which Greek general's empire split among his generals after 323 BC?",
-    "part_difficulty": "easy",
-    "answer": "Alexander the Great",
-    "required": null,
-    "alternates": [
-     "Alexander",
-     "n=Great"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which Egyptian city had a famous lighthouse and library?",
-    "part_difficulty": "medium",
-    "answer": "Alexandria",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "Which Ptolemy's dynasty ruled Egypt until Cleopatra?",
-    "part_difficulty": "hard",
-    "answer": "Ptolemaic dynasty",
-    "required": null,
-    "alternates": [
-     "Ptolemies",
-     "Ptolemy"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
   "type": "tossup",
   "rulesets": [
    "quizbowl"
@@ -23371,7 +23266,8 @@
     "required": null,
     "alternates": [
      "Prince Henry",
-     "Infante Henrique"
+     "Infante Henrique",
+     "Prince Henry the Navigator"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -29053,33 +28949,16 @@
   "subcategory": "Greco-Roman Mythology",
   "source": "ai-claude-bank",
   "expires_at": null,
-  "difficulty": "easy",
-  "text": "This hero was driven mad by Hera and killed his own family, so he performed penance by completing a series of labors for King Eurystheus. His tasks included capturing the Erymanthian boar and cleaning the Augean stables. For 10 points, name this son of Zeus and Alcmene, known as Hercules to the Romans.",
-  "answer": "Heracles;Hercules",
-  "required": null,
-  "alternates": [],
-  "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
-  "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "jv",
-  "category": "Mythology",
-  "subcategory": "Greco-Roman Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
   "difficulty": "medium",
   "text": "This king of Ithaca came up with the idea of the Trojan Horse. After the war he spent ten years trying to get home, blinding the Cyclops Polyphemus on the way. His wife Penelope waited for him. For 10 points, name this hero of an epic by Homer.",
-  "answer": "Odysseus;Ulysses",
-  "required": "Odysseus;Ulysses",
-  "alternates": [],
+  "answer": "Odysseus",
+  "required": null,
+  "alternates": [
+   "n",
+   "Ulysses"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -29155,9 +29034,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This goddess of wisdom and war sprang fully grown from the head of Zeus. Her symbols include the owl and the olive tree, and she won the contest to be patron of a city that took her name. For 10 points, name this goddess associated with the Parthenon.",
-  "answer": "Athena;Athene;Minerva",
+  "answer": "Athena",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Athene",
+   "Minerva"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29195,9 +29077,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This god of the sea carried a trident and caused earthquakes. He lost a contest with Athena over the patronage of Athens and was the father of Polyphemus. For 10 points, name this brother of Zeus and Hades, called Neptune by the Romans.",
-  "answer": "Poseidon;Neptune",
+  "answer": "Poseidon",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Neptune"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29215,9 +29099,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This messenger god wore winged sandals and carried a caduceus. He was the son of Zeus and Maia and was the guide of souls to the Underworld. For 10 points, name this god who was called Mercury in Rome.",
-  "answer": "Hermes;Mercury",
+  "answer": "Hermes",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Mercury"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29235,9 +29121,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This god of wine and revelry was born from the thigh of Zeus after his mother Semele died. He was accompanied by satyrs and Maenads and carried a staff topped with a pine cone called a thyrsus. For 10 points, name this god known as Bacchus in Rome.",
-  "answer": "Dionysus;Bacchus",
+  "answer": "Dionysus",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Bacchus"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29275,9 +29163,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This goddess of love was said to have risen from the sea foam near Cyprus. She was married to Hephaestus but had an affair with Ares, and she was the mother of Eros. For 10 points, name this goddess called Venus by the Romans.",
-  "answer": "Aphrodite;Venus",
+  "answer": "Aphrodite",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Venus"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29499,9 +29389,11 @@
    {
     "text": "Heracles had to kill this many-headed water serpent that regrew heads when cut off.",
     "part_difficulty": "easy",
-    "answer": "Hydra;Lernaean Hydra",
+    "answer": "Hydra",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Lernaean Hydra"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29510,9 +29402,11 @@
    {
     "text": "This beast with an impenetrable pelt was strangled by Heracles, who then wore its skin.",
     "part_difficulty": "medium",
-    "answer": "Nemean Lion;lion of Nemea",
+    "answer": "Nemean Lion",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "lion of Nemea"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29521,9 +29415,11 @@
    {
     "text": "Heracles had to retrieve the golden apples guarded by these nymphs, daughters of Atlas or Nyx.",
     "part_difficulty": "hard",
-    "answer": "the Hesperides;Hesperides",
+    "answer": "the Hesperides",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Hesperides"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29569,9 +29465,11 @@
    {
     "text": "This goddess of the hearth was one of the first Olympians and tended the sacred fire.",
     "part_difficulty": "hard",
-    "answer": "Hestia;Vesta",
+    "answer": "Hestia",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Vesta"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29595,9 +29493,11 @@
    {
     "text": "This Trojan prince's abduction of Helen set off the war.",
     "part_difficulty": "easy",
-    "answer": "Paris;Alexander",
+    "answer": "Paris",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Alexander"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29691,9 +29591,12 @@
    {
     "text": "These one-eyed giants forged thunderbolts for Zeus and were freed by him from Tartarus.",
     "part_difficulty": "easy",
-    "answer": "Cyclopes;Cyclops;the Cyclopes",
+    "answer": "Cyclopes",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Cyclops",
+     "the Cyclopes"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29702,9 +29605,11 @@
    {
     "text": "These bird-women lured sailors to their deaths with beautiful singing; Odysseus had his men plug their ears with wax.",
     "part_difficulty": "medium",
-    "answer": "Sirens;the Sirens",
+    "answer": "Sirens",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "the Sirens"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29835,9 +29740,11 @@
    {
     "text": "Jason sailed on this ship, named for its builder.",
     "part_difficulty": "easy",
-    "answer": "Argo;the Argo",
+    "answer": "Argo",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "the Argo"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -29942,9 +29849,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This god was killed by an arrow made of mistletoe, thrown by his blind brother Hodr at the urging of Loki. His death was mourned by all of creation except one giantess. For 10 points, name this beautiful son of Odin and Frigg.",
-  "answer": "Baldr;Balder;Baldur",
+  "answer": "Baldr",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Balder",
+   "Baldur"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29962,9 +29872,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This god of war put his hand in the mouth of the wolf Fenrir as a pledge and lost it when the wolf realized he was being tricked. He is associated with justice and single combat. For 10 points, name this one-handed Norse god.",
-  "answer": "Tyr;Tiw",
+  "answer": "Tyr",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Tiw"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -29982,9 +29894,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This watchman of the gods lives at the end of the rainbow bridge and has such keen senses that he can hear grass grow. He will blow the horn Gjallarhorn at the start of the final battle. For 10 points, name this guardian god.",
-  "answer": "Heimdall;Heimdallr",
+  "answer": "Heimdall",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Heimdallr"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30002,9 +29916,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This wife of Odin was the goddess of marriage and foresight. She tried to make all things swear not to harm her son Baldr but overlooked the mistletoe. For 10 points, name this Norse queen of the gods.",
-  "answer": "Frigg;Frigga",
+  "answer": "Frigg",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Frigga"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30062,9 +29978,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "In this prophesied battle, Surtr will set the world aflame, Odin will be swallowed by Fenrir, and Thor will die after killing the world serpent. Afterward, the world will rise again from the sea. For 10 points, name this Norse end of the world.",
-  "answer": "Ragnarok;Ragnarök",
+  "answer": "Ragnarok",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ragnarök"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30082,9 +30000,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This giant wolf, a son of Loki, was raised among the gods, but only Tyr dared feed him. The gods bound him with the ribbon Gleipnir after he broke two other chains. He is fated to break free at Ragnarok and swallow Odin. For 10 points, name this monstrous wolf.",
-  "answer": "Fenrir;Fenris",
+  "answer": "Fenrir",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Fenris"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30102,11 +30022,15 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This sea serpent grew so large that it encircled the world and bit its own tail. Thor once tried to catch it while fishing and will fight it at Ragnarok. For 10 points, name this child of Loki, also called the Midgard Serpent.",
-  "answer": "Jormungandr;Jörmungandr;Midgard Serpent",
-  "required": "Serpent",
-  "alternates": [],
+  "answer": "Jormungandr",
+  "required": null,
+  "alternates": [
+   "n",
+   "Jörmungandr",
+   "Midgard Serpent"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -30122,9 +30046,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "The dwarves Brokkr and Sindri forged this weapon, which has a short handle because Loki interfered during its making. It always returns to its owner. For 10 points, name this weapon of Thor.",
-  "answer": "Mjolnir;Mjölnir",
+  "answer": "Mjolnir",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Mjölnir"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30162,9 +30088,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This burning rainbow bridge connects Midgard to Asgard and is guarded by the watchman Heimdall. Thor must wade through rivers instead of crossing it, since his weight and fire would break it. For 10 points, name this bridge in Norse myth.",
-  "answer": "Bifrost;Bifröst",
+  "answer": "Bifrost",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Bifröst"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30202,9 +30130,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "These female figures, whose name means choosers of the slain, ride into battle and bring the dead to Valhalla, where they serve mead to the warriors. Brynhild is a famous example of one. For 10 points, name these warrior maidens in the service of Odin.",
-  "answer": "Valkyries;Valkyrie",
+  "answer": "Valkyries",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Valkyrie"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30242,9 +30172,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This goddess guarded the apples that keep the gods young. She was kidnapped by the giant Thjazi after Loki, who had been threatened, tricked her into leaving Asgard. For 10 points, name this wife of the poet Bragi.",
-  "answer": "Idun;Iduna;Iðunn",
+  "answer": "Idun",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Iduna",
+   "Iðunn"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30262,9 +30195,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This god of the Vanir is the twin brother of Freya and the father of Freyr. He is the god of the sea and ships and was sent to live among the Aesir as a hostage. For 10 points, name this Norse sea god, who was married to Skadi.",
-  "answer": "Njord;Njörd;Njordr",
+  "answer": "Njord",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Njörd",
+   "Njordr"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30282,9 +30218,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This god of the Vanir owns the ship Skidbladnir and a sword that fights by itself, which he gave up to win the giantess Gerd. For 10 points, name this Norse god of fertility, the brother of Freya.",
-  "answer": "Freyr;Frey",
+  "answer": "Freyr",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Frey"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30302,9 +30240,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This goddess of love and beauty owns the necklace Brisingamen and drives a chariot pulled by cats. She is the sister of Freyr, and she receives half of those slain in battle in her hall Folkvangr. For 10 points, name this Norse goddess.",
-  "answer": "Freya;Freyja",
+  "answer": "Freya",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Freyja"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30342,9 +30282,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This primeval cow licked the salty ice of Ginnungagap, freeing Buri, an ancestor of the gods. She fed the giant Ymir with her milk, and her name means something like hornless cow of the void. For 10 points, name this cow in Norse cosmology.",
-  "answer": "Audhumla;Auðumbla",
+  "answer": "Audhumla",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Auðumbla"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30362,9 +30304,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This severed head was consulted by Odin for advice. He was killed by the Vanir during an exchange of hostages and is known for his wisdom. For 10 points, name this guardian of a well of knowledge beneath Yggdrasil.",
-  "answer": "Mimir;Mímir",
+  "answer": "Mimir",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Mímir"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30402,9 +30346,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This hero killed the dragon Fafnir and bathed in its blood. He was later betrayed and killed by Gunnar's family, and his wife was Gudrun. For 10 points, name this hero of the Volsunga saga.",
-  "answer": "Sigurd;Siegfried",
+  "answer": "Sigurd",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Siegfried"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30442,9 +30388,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This dragon gnaws at the roots of Yggdrasil along with many other serpents. It also chews on the corpses of oath-breakers and murderers in the realm of the dead. For 10 points, name this Norse dragon.",
-  "answer": "Nidhogg;Níðhöggr",
+  "answer": "Nidhogg",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Níðhöggr"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30462,9 +30410,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This fire giant will come from Muspelheim with a flaming sword to burn the world at Ragnarok. He is said to guard that southern realm of fire from the beginning of time. For 10 points, name this giant, whose name means black.",
-  "answer": "Surtr;Surt",
+  "answer": "Surtr",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Surt"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -30577,62 +30527,16 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "medium",
-  "leadin": "Answer these questions about Norse figures in the story of Baldr.",
-  "parts": [
-   {
-    "text": "This god was killed by a mistletoe dart.",
-    "part_difficulty": "easy",
-    "answer": "Baldr;Balder;Baldur",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This blind god threw the fatal dart.",
-    "part_difficulty": "medium",
-    "answer": "Hodr;Hod;Höðr",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "This giantess, possibly Loki in disguise, refused to weep for Baldr, so he stayed in Hel.",
-    "part_difficulty": "hard",
-    "answer": "Thokk;Þökk",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "jv",
-  "category": "Mythology",
-  "subcategory": "Norse Mythology",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
   "leadin": "Answer these questions about the children of Loki.",
   "parts": [
    {
     "text": "This wolf will swallow Odin at Ragnarok.",
     "part_difficulty": "easy",
-    "answer": "Fenrir;Fenris",
+    "answer": "Fenrir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Fenris"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30652,9 +30556,12 @@
    {
     "text": "This serpent is thrown into the sea by Odin and grows to encircle Midgard.",
     "part_difficulty": "hard",
-    "answer": "Jormungandr;Jörmungandr;Midgard Serpent",
+    "answer": "Jormungandr",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Jörmungandr",
+     "Midgard Serpent"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30689,9 +30596,11 @@
    {
     "text": "These craftsmen beings, such as Brokkr and Sindri, forged the treasures of the gods.",
     "part_difficulty": "medium",
-    "answer": "dwarves;dwarfs",
+    "answer": "dwarves",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "dwarfs"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30700,9 +30609,12 @@
    {
     "text": "These beings were the lords of Alfheim, whose name literally means elves of light.",
     "part_difficulty": "hard",
-    "answer": "Light Elves;Ljosalfar;Ljósálfar",
+    "answer": "Light Elves",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Ljosalfar",
+     "Ljósálfar"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30726,9 +30638,11 @@
    {
     "text": "The clan of gods including Odin and Thor.",
     "part_difficulty": "easy",
-    "answer": "Aesir;Æsir",
+    "answer": "Aesir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Æsir"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30748,9 +30662,11 @@
    {
     "text": "These two ravens, whose names mean thought and memory, fly around the world each day.",
     "part_difficulty": "hard",
-    "answer": "Huginn and Muninn;Hugin and Munin",
+    "answer": "Huginn and Muninn",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Hugin and Munin"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30785,9 +30701,11 @@
    {
     "text": "This valkyrie slept on a mountain ringed with fire until Sigurd woke her.",
     "part_difficulty": "medium",
-    "answer": "Brynhild;Brunhilde",
+    "answer": "Brynhild",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Brunhilde"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30796,9 +30714,11 @@
    {
     "text": "This dwarf, Fafnir's brother, taught Sigurd the smith's art and urged him to kill the dragon.",
     "part_difficulty": "hard",
-    "answer": "Regin;Reginn",
+    "answer": "Regin",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Reginn"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30822,9 +30742,11 @@
    {
     "text": "Thor's hammer is called this.",
     "part_difficulty": "easy",
-    "answer": "Mjolnir;Mjölnir",
+    "answer": "Mjolnir",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Mjölnir"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30833,9 +30755,11 @@
    {
     "text": "This giant, king of Utgard, tricked Thor with illusions in a series of contests.",
     "part_difficulty": "medium",
-    "answer": "Utgard-Loki;Utgardaloki",
+    "answer": "Utgard-Loki",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Utgardaloki"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30844,9 +30768,11 @@
    {
     "text": "Thor and Loki visited this giant, who stole the hammer and demanded Freya's hand in marriage.",
     "part_difficulty": "hard",
-    "answer": "Thrym;Þrymr",
+    "answer": "Thrym",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Þrymr"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -30866,11 +30792,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This god was said to sail across the sky in a solar barque each day and through the Underworld each night, where he fought the serpent Apep. He was often shown with the head of a falcon topped by a sun disk. For 10 points, name this Egyptian sun god.",
-  "answer": "Ra;Re",
+  "answer": "Ra",
   "required": null,
   "alternates": [
    "Amun-Ra",
-   "Amun Ra"
+   "Amun Ra",
+   "Re"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -30949,9 +30876,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This god of chaos, storms, and the desert killed his brother Osiris and fought a long contest with his nephew for the throne. He is often shown with an animal head of uncertain type. For 10 points, name this Egyptian god.",
-  "answer": "Set;Seth",
+  "answer": "Set",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Seth"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31069,9 +30998,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This Sumerian goddess descended through seven gates to the Underworld, losing an item of clothing at each. Her sister Ereshkigal killed her, but she was revived. For 10 points, name this goddess of love and war, whom the Akkadians called Ishtar.",
-  "answer": "Inanna;Ishtar",
+  "answer": "Inanna",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ishtar"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31169,9 +31100,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Hindu god of destruction and transformation is depicted with a third eye and a crescent moon in his hair. He performs the cosmic dance of the Nataraja. For 10 points, name this god whose consort is Parvati.",
-  "answer": "Shiva;Siva",
+  "answer": "Shiva",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Siva"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31189,9 +31122,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This elephant-headed Hindu god is the remover of obstacles and the patron of scribes. He is the son of Shiva and Parvati and rides a mouse. For 10 points, name this god whose broken tusk he used to write the Mahabharata.",
-  "answer": "Ganesha;Ganesh;Ganapati",
+  "answer": "Ganesha",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ganesh",
+   "Ganapati"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31269,9 +31205,12 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This Irish hero's real name was Setanta, but he got his new name after killing the smith's hound and offering to take its place. He single-handedly defended Ulster during the Cattle Raid of Cooley. For 10 points, name this warrior of the Ulster Cycle.",
-  "answer": "Cuchulainn;Cu Chulainn;Cú Chulainn",
+  "answer": "Cuchulainn",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Cu Chulainn",
+   "Cú Chulainn"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31289,9 +31228,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Irish hero gained knowledge by burning his thumb on the Salmon of Knowledge. He led the Fianna and was the father of the poet Oisin. For 10 points, name this legendary warrior.",
-  "answer": "Fionn mac Cumhaill;Finn McCool;Fionn mac Cumhail",
+  "answer": "Fionn mac Cumhaill",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Finn McCool",
+   "Fionn mac Cumhail"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31309,9 +31251,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This Japanese goddess of the sun hid in a cave after her brother Susanoo's misbehavior, plunging the world into darkness. The other gods lured her out with a mirror and a dance. For 10 points, name this ancestor of the imperial family.",
-  "answer": "Amaterasu;Amaterasu Omikami",
+  "answer": "Amaterasu",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Amaterasu Omikami"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31329,9 +31273,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Japanese storm god, the brother of Amaterasu, was exiled from heaven. He slew the eight-headed serpent Yamata no Orochi and found the sword Kusanagi in its tail. For 10 points, name this god.",
-  "answer": "Susanoo;Susano-o",
+  "answer": "Susanoo",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Susano-o"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31349,9 +31295,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "This Chinese Monkey King studied under a Taoist master, gained a staff that could change size, and caused chaos in heaven. He later escorted the monk Xuanzang on a journey in the novel Journey to the West. For 10 points, name this trickster.",
-  "answer": "Sun Wukong;Monkey King",
+  "answer": "Sun Wukong",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Monkey King"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31409,9 +31357,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "This West African trickster takes the form of a spider and won all the world's stories from the sky god Nyame. For 10 points, name this folktale hero who traveled to the Caribbean with enslaved Africans.",
-  "answer": "Anansi;Ananse",
+  "answer": "Anansi",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Ananse"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31449,9 +31399,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "This creator god of the Inca rose from Lake Titicaca and fashioned the sun, the moon, and the stars. He made the first people from stone and later wandered the land disguised as a beggar. For 10 points, name this Andean deity.",
-  "answer": "Viracocha;Wiracocha",
+  "answer": "Viracocha",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Wiracocha"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -31495,9 +31447,11 @@
    {
     "text": "This serpent, the enemy of Ra, was defeated every night as the sun boat traveled through the Underworld.",
     "part_difficulty": "hard",
-    "answer": "Apep;Apophis",
+    "answer": "Apep",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Apophis"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31580,9 +31534,11 @@
    {
     "text": "This brother of the demon king Ravana defected to Rama and was crowned king of Lanka after the war.",
     "part_difficulty": "medium",
-    "answer": "Vibhishana;Vibhisana",
+    "answer": "Vibhishana",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Vibhisana"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31591,9 +31547,11 @@
    {
     "text": "This brother of Rama accompanied him into exile and stayed beside him throughout.",
     "part_difficulty": "hard",
-    "answer": "Lakshmana;Lakshman",
+    "answer": "Lakshmana",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Lakshman"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31687,9 +31645,11 @@
    {
     "text": "This Maya feathered serpent god is the counterpart of the Aztec Quetzalcoatl.",
     "part_difficulty": "hard",
-    "answer": "Kukulkan;Kukulcan",
+    "answer": "Kukulkan",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Kukulcan"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31713,9 +31673,15 @@
    {
     "text": "This Irish king of the Fianna was the leader of Finn's band of warriors, of which Oisin was a member.",
     "part_difficulty": "easy",
-    "answer": "the Fianna;Fianna",
+    "answer": "Fionn mac Cumhaill",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "the Fianna",
+     "Fianna",
+     "Finn McCool",
+     "Fionn",
+     "Finn mac Cumhaill"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31724,9 +31690,11 @@
    {
     "text": "This Irish warrior goddess of battle often appeared as a crow.",
     "part_difficulty": "medium",
-    "answer": "Morrigan;The Morrigan",
+    "answer": "Morrigan",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "The Morrigan"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31735,9 +31703,15 @@
    {
     "text": "These supernatural people of Irish myth, the Tuatha De Danann, retreated into mounds and became these figures of folklore.",
     "part_difficulty": "hard",
-    "answer": "aos si;sidhe;Aos Sí",
+    "answer": "aos si",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "sidhe",
+     "Aos Sí",
+     "fairies",
+     "the fair folk",
+     "aos sí"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31761,9 +31735,11 @@
    {
     "text": "In Chinese myth, this giant separated heaven from earth with an axe and became the world after dying.",
     "part_difficulty": "easy",
-    "answer": "Pangu;P'an-ku",
+    "answer": "Pangu",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "P'an-ku"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31772,9 +31748,11 @@
    {
     "text": "This Chinese goddess molded the first humans from yellow clay and repaired the broken sky.",
     "part_difficulty": "medium",
-    "answer": "Nuwa;Nüwa",
+    "answer": "Nuwa",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Nüwa"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31783,9 +31761,11 @@
    {
     "text": "In Japanese myth, these two gods stirred the sea with a jeweled spear to make the first land.",
     "part_difficulty": "hard",
-    "answer": "Izanagi and Izanami;Izanami and Izanagi",
+    "answer": "Izanagi and Izanami",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Izanami and Izanagi"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31809,9 +31789,11 @@
    {
     "text": "This Maori god of the forest separated his parents, sky and earth.",
     "part_difficulty": "easy",
-    "answer": "Tane;Tāne",
+    "answer": "Tane",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Tāne"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31831,9 +31813,11 @@
    {
     "text": "This Maori earth mother, wife of Ranginui, was held tightly against him until their children separated them.",
     "part_difficulty": "hard",
-    "answer": "Papatuanuku;Papa",
+    "answer": "Papatuanuku",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Papa"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -38878,7 +38862,9 @@
   "alternates": [
    "Adventist",
    "Seventh-day Adventists",
-   "Seventh Day Adventist"
+   "Seventh Day Adventist",
+   "Seventh-day Adventist Church",
+   "Adventists"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -40446,60 +40432,6 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "medium",
-  "leadin": "Answer these questions about sets and logic.",
-  "parts": [
-   {
-    "text": "What word describes a set with no elements?",
-    "part_difficulty": "easy",
-    "answer": "empty set",
-    "required": null,
-    "alternates": [
-     "null set",
-     "empty"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What operation on two sets gives all elements in both sets?",
-    "part_difficulty": "medium",
-    "answer": "intersection",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What laws state that the complement of a union equals the common part of the complements of each set?",
-    "part_difficulty": "hard",
-    "answer": "De Morgan's laws",
-    "required": null,
-    "alternates": [
-     "De Morgan's law",
-     "De Morgan"
-    ],
-    "prompt_on": [],
-    "answer_type": "general",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "quizbowl"
-  ],
-  "level": "jv",
-  "category": "Science",
-  "subcategory": "Math",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
   "leadin": "Answer these questions about trigonometry.",
   "parts": [
    {
@@ -41352,7 +41284,8 @@
   "required": null,
   "alternates": [
    "hashing",
-   "hash"
+   "hash",
+   "cryptographic hash function"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -43770,9 +43703,10 @@
    {
     "text": "Which kind of mobility describes a move up or down within the same generation's careers or class?",
     "part_difficulty": "medium",
-    "answer": "social mobility",
+    "answer": "intragenerational mobility",
     "required": null,
     "alternates": [
+     "social mobility",
      "mobility"
     ],
     "prompt_on": [],
@@ -43911,11 +43845,12 @@
    {
     "text": "Which two economic classes did Marx say were in conflict under capitalism? Give either one.",
     "part_difficulty": "easy",
-    "answer": "bourgeoisie;proletariat",
+    "answer": "bourgeoisie",
     "required": null,
     "alternates": [
      "capitalists",
-     "workers"
+     "workers",
+     "proletariat"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -43939,7 +43874,8 @@
     "answer": "means of production",
     "required": null,
     "alternates": [
-     "the means of production"
+     "the means of production",
+     "capital"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -44812,7 +44748,10 @@
     "answer": "Rule 22",
     "required": null,
     "alternates": [
-     "rule twenty-two"
+     "rule twenty-two",
+     "cloture rule",
+     "Rule XXII",
+     "Senate Rule 22"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -45861,7 +45800,8 @@
   "alternates": [
    "hunter-gatherers",
    "foragers",
-   "hunting and gathering"
+   "hunting and gathering",
+   "hunter-gatherer societies"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -47088,7 +47028,8 @@
     "answer": "hieroglyphs",
     "required": null,
     "alternates": [
-     "hieroglyphics"
+     "hieroglyphics",
+     "Egyptian hieroglyphs"
     ],
     "prompt_on": [],
     "answer_type": "general",

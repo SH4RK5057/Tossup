@@ -11571,7 +11571,9 @@
   "answer": "Oliver Wendell Holmes",
   "required": "Holmes",
   "alternates": [
-   "Holmes"
+   "Holmes",
+   "Oliver Wendell Holmes Sr.",
+   "Oliver Wendell Holmes Senior"
   ],
   "prompt_on": [],
   "answer_type": "name",
@@ -22398,7 +22400,9 @@
   "text": "Which battle in July 1863 in Pennsylvania was the turning point of the Civil War?",
   "answer": "Battle of Gettysburg",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Gettysburg"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -23246,7 +23250,8 @@
   "answer": "raid on Harpers Ferry",
   "required": null,
   "alternates": [
-   "Harpers Ferry"
+   "Harpers Ferry",
+   "John Brown's raid"
   ],
   "prompt_on": [],
   "answer_type": "general",
@@ -24432,7 +24437,9 @@
     "part_difficulty": "medium",
     "answer": "South Korea",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "the Republic of Korea"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -31142,7 +31149,9 @@
   "answer": "le mal de tête",
   "required": null,
   "alternates": [
-   "mal de tête"
+   "mal de tête",
+   "mal à la tête",
+   "un mal de tête"
   ],
   "prompt_on": [],
   "answer_type": "foreign_language",
@@ -33329,7 +33338,9 @@
     "answer": "dishes",
     "required": null,
     "alternates": [
-     "the dishes"
+     "the dishes",
+     "wash the dishes",
+     "washing dishes"
     ],
     "prompt_on": [],
     "answer_type": "general",
@@ -33435,67 +33446,6 @@
      "le fleuve",
      "fleuve"
     ],
-    "prompt_on": [],
-    "answer_type": "foreign_language",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   }
-  ]
- },
- {
-  "type": "bonus",
-  "rulesets": [
-   "ncal"
-  ],
-  "level": "jv",
-  "category": "Fine Arts",
-  "subcategory": "French 2",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "leadin": "Answer these questions about French words of quantity and the partitive.",
-  "parts": [
-   {
-    "text": "What French preposition is used for \"of\" in a phrase such as \"beaucoup ___ livres\"?",
-    "part_difficulty": "easy",
-    "answer": "de",
-    "required": null,
-    "alternates": [
-     "d'"
-    ],
-    "prompt_on": [],
-    "answer_type": "foreign_language",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What is the partitive article used with a masculine noun, as in \"Je mange ___ pain\"?",
-    "part_difficulty": "medium",
-    "answer": "du",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "foreign_language",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What is the partitive article used with a feminine noun, as in \"Je bois ___ eau\"?",
-    "part_difficulty": "medium",
-    "answer": "de la",
-    "required": null,
-    "alternates": [],
-    "prompt_on": [],
-    "answer_type": "foreign_language",
-    "duplicate_name": false,
-    "accepts_partial_name": false
-   },
-   {
-    "text": "What is the partitive article used with a plural noun, as in \"Je mange ___ légumes\"?",
-    "part_difficulty": "hard",
-    "answer": "des",
-    "required": null,
-    "alternates": [],
     "prompt_on": [],
     "answer_type": "foreign_language",
     "duplicate_name": false,
@@ -33711,7 +33661,9 @@
     "answer": "la peinture",
     "required": null,
     "alternates": [
-     "peinture"
+     "peinture",
+     "le tableau",
+     "tableau"
     ],
     "prompt_on": [],
     "answer_type": "foreign_language",
@@ -33896,30 +33848,13 @@
   "source": "ai-claude-bank",
   "expires_at": null,
   "difficulty": "easy",
-  "text": "What organelle is the site of protein synthesis in a cell?",
-  "answer": "ribosome;ribosomes",
-  "required": null,
-  "alternates": [],
-  "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
-  "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "ncal"
-  ],
-  "level": "jv",
-  "category": "Science",
-  "subcategory": "Biology 1",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "easy",
   "text": "What organelle packages and ships proteins out of the cell, and is also called the Golgi complex?",
-  "answer": "Golgi apparatus;Golgi body;Golgi complex",
+  "answer": "Golgi apparatus",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Golgi body",
+   "Golgi complex"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -33937,9 +33872,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What double-membraned organelle produces most of a eukaryotic cell's ATP?",
-  "answer": "mitochondrion;mitochondria",
+  "answer": "mitochondrion",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "mitochondria"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34017,9 +33954,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of biological molecule are most enzymes?",
-  "answer": "protein;proteins",
+  "answer": "protein",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "proteins"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34117,9 +34056,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What is the name for a cell that lacks a nucleus, such as a bacterium?",
-  "answer": "prokaryote;prokaryotic cell",
+  "answer": "prokaryote",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "prokaryotic cell"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34137,9 +34078,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What are sex cells such as sperm and eggs called?",
-  "answer": "gametes;gamete",
+  "answer": "gametes",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "gamete"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34157,9 +34100,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What is the term for a gene form that is expressed even when only one copy is present?",
-  "answer": "dominant;dominant allele",
+  "answer": "dominant",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "dominant allele"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34177,9 +34122,12 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What term describes an organism with two different alleles for a trait?",
-  "answer": "heterozygous;heterozygote;hybrid",
+  "answer": "heterozygous",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "heterozygote",
+   "hybrid"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34197,9 +34145,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What term describes an organism with two identical alleles for a trait?",
-  "answer": "homozygous;homozygote",
+  "answer": "homozygous",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "homozygote"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34277,9 +34227,13 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of biomolecule is made of glycerol and fatty acids?",
-  "answer": "lipid;lipids;fat;fats",
+  "answer": "lipid",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "lipids",
+   "fat",
+   "fats"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34357,9 +34311,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What kind of relationship exists when one organism benefits and another is harmed, like a tick on a dog?",
-  "answer": "parasitism;parasitic",
+  "answer": "parasitism",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "parasitic"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34397,9 +34353,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of bond holds the two strands of DNA together?",
-  "answer": "hydrogen bond;hydrogen bonds",
+  "answer": "hydrogen bond",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "hydrogen bonds"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34437,9 +34395,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What large organelle in plant cells stores water?",
-  "answer": "vacuole;central vacuole",
+  "answer": "vacuole",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "central vacuole"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34517,9 +34477,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of cells make up the bodies of bacteria, which have a single circular chromosome and no nucleus?",
-  "answer": "prokaryotic;prokaryotes",
+  "answer": "prokaryotic",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "prokaryotes"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34557,9 +34519,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What network of membranes studded with ribosomes is involved in protein production?",
-  "answer": "rough endoplasmic reticulum;rough ER",
+  "answer": "rough endoplasmic reticulum",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "rough ER"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34737,9 +34701,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What cycle, also called the light-independent reactions, fixes carbon dioxide into sugar?",
-  "answer": "Calvin cycle;Calvin-Benson cycle",
+  "answer": "Calvin cycle",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Calvin-Benson cycle"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34777,9 +34743,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What cycle in the mitochondrial matrix is also called the citric acid cycle?",
-  "answer": "Krebs cycle;citric acid cycle",
+  "answer": "Krebs cycle",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "citric acid cycle"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34797,9 +34765,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What type of RNA carries amino acids to the ribosome during translation?",
-  "answer": "tRNA;transfer RNA",
+  "answer": "tRNA",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "transfer RNA"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34877,9 +34847,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What condition is caused by an extra copy of chromosome 21?",
-  "answer": "Down syndrome;trisomy 21",
+  "answer": "Down syndrome",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "trisomy 21"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34897,11 +34869,14 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What Austrian monk is known as the father of genetics?",
-  "answer": "Gregor Mendel;Mendel",
-  "required": "Mendel;Mendel",
-  "alternates": [],
+  "answer": "Gregor Mendel",
+  "required": null,
+  "alternates": [
+   "n",
+   "Mendel"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -34917,11 +34892,14 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What American scientist, with Francis Crick, proposed the double helix structure of DNA in 1953?",
-  "answer": "James Watson;Watson",
-  "required": "Watson;Watson",
-  "alternates": [],
+  "answer": "James Watson",
+  "required": null,
+  "alternates": [
+   "n",
+   "Watson"
+  ],
   "prompt_on": [],
-  "answer_type": "name",
+  "answer_type": "general",
   "duplicate_name": false,
   "accepts_partial_name": false
  },
@@ -34977,9 +34955,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What is the first trophic level of an ecosystem made of?",
-  "answer": "producers;autotrophs",
+  "answer": "producers",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "autotrophs"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -34997,9 +34977,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "Approximately what percent of energy is passed from one trophic level to the next?",
-  "answer": "ten percent;10 percent;10%",
+  "answer": "ten percent",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "10 percent",
+   "10%"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35037,9 +35020,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What is the term for the gradual replacement of one community by another over time?",
-  "answer": "ecological succession;succession",
+  "answer": "ecological succession",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "succession"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35217,9 +35202,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What type of immune cell produces antibodies?",
-  "answer": "B cell;B lymphocyte",
+  "answer": "B cell",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "B lymphocyte"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35237,9 +35224,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What type of white blood cell engulfs and digests pathogens?",
-  "answer": "phagocyte;macrophage",
+  "answer": "phagocyte",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "macrophage"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35297,9 +35286,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What chemicals carry signals across a synapse?",
-  "answer": "neurotransmitters;neurotransmitter",
+  "answer": "neurotransmitters",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "neurotransmitter"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35377,9 +35368,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What kind of tissue covers body surfaces and lines cavities?",
-  "answer": "epithelial tissue;epithelium",
+  "answer": "epithelial tissue",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "epithelium"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35397,9 +35390,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What kingdom contains single-celled eukaryotes like amoebas and paramecia?",
-  "answer": "Protista;protists",
+  "answer": "Protista",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "protists"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35417,9 +35412,12 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What term describes animals that maintain a constant internal body temperature?",
-  "answer": "endotherms;endothermic;warm-blooded",
+  "answer": "endotherms",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "endothermic",
+   "warm-blooded"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35477,9 +35475,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "On what island group did Darwin observe finches with different beak shapes?",
-  "answer": "Galapagos Islands;Galapagos",
+  "answer": "Galapagos Islands",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "Galapagos"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35537,9 +35537,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What enzyme joins Okazaki fragments on the lagging strand?",
-  "answer": "DNA ligase;ligase",
+  "answer": "DNA ligase",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "ligase"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35577,9 +35579,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What noncoding segments are removed from pre-mRNA before translation?",
-  "answer": "introns;intron",
+  "answer": "introns",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "intron"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35657,9 +35661,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the net number of ATP produced by glycolysis from one molecule of glucose?",
-  "answer": "two;2",
+  "answer": "two",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "2"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35957,9 +35963,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What organelle is the site of lipid synthesis and detoxification, lacking ribosomes?",
-  "answer": "smooth endoplasmic reticulum;smooth ER",
+  "answer": "smooth endoplasmic reticulum",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "smooth ER"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -35992,9 +36000,11 @@
    {
     "text": "What organelle packages and modifies proteins for export?",
     "part_difficulty": "medium",
-    "answer": "Golgi apparatus;Golgi body",
+    "answer": "Golgi apparatus",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Golgi body"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36029,9 +36039,11 @@
    {
     "text": "What group, along with sugar, forms the backbone of a DNA strand?",
     "part_difficulty": "easy",
-    "answer": "phosphate;phosphate group",
+    "answer": "phosphate",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "phosphate group"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36051,11 +36063,14 @@
    {
     "text": "What scientist's X-ray diffraction photo 51 helped reveal the DNA structure?",
     "part_difficulty": "hard",
-    "answer": "Rosalind Franklin;Franklin",
-    "required": "Franklin;Franklin",
-    "alternates": [],
+    "answer": "Rosalind Franklin",
+    "required": null,
+    "alternates": [
+     "n",
+     "Franklin"
+    ],
     "prompt_on": [],
-    "answer_type": "name",
+    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    }
@@ -36136,9 +36151,11 @@
    {
     "text": "What region inside a chloroplast contains stacks of thylakoids?",
     "part_difficulty": "medium",
-    "answer": "grana;granum",
+    "answer": "grana",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "granum"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36147,9 +36164,11 @@
    {
     "text": "What enzyme fixes carbon dioxide in the Calvin cycle?",
     "part_difficulty": "hard",
-    "answer": "rubisco;RuBisCO",
+    "answer": "rubisco",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "RuBisCO"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36173,9 +36192,11 @@
    {
     "text": "What molecule is the main product of cellular respiration that cells use for energy?",
     "part_difficulty": "easy",
-    "answer": "ATP;adenosine triphosphate",
+    "answer": "ATP",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "adenosine triphosphate"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36184,9 +36205,11 @@
    {
     "text": "What organelle is the site of most of respiration?",
     "part_difficulty": "medium",
-    "answer": "mitochondrion;mitochondria",
+    "answer": "mitochondrion",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "mitochondria"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36195,9 +36218,11 @@
    {
     "text": "What process in yeast produces ethanol and carbon dioxide?",
     "part_difficulty": "medium",
-    "answer": "alcoholic fermentation;fermentation",
+    "answer": "alcoholic fermentation",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "fermentation"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36232,9 +36257,11 @@
    {
     "text": "What are different versions of the same gene called?",
     "part_difficulty": "medium",
-    "answer": "alleles;allele",
+    "answer": "alleles",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "allele"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36376,9 +36403,11 @@
    {
     "text": "What is the name of the part of a neuron that receives signals?",
     "part_difficulty": "medium",
-    "answer": "dendrite;dendrites",
+    "answer": "dendrite",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "dendrites"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36387,9 +36416,11 @@
    {
     "text": "What is the fatty coating that insulates axons?",
     "part_difficulty": "medium",
-    "answer": "myelin;myelin sheath",
+    "answer": "myelin",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "myelin sheath"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36413,9 +36444,11 @@
    {
     "text": "What is the name of the vessels that carry blood away from the heart?",
     "part_difficulty": "easy",
-    "answer": "arteries;artery",
+    "answer": "arteries",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "artery"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36424,9 +36457,11 @@
    {
     "text": "What is the name of the valve between the left atrium and left ventricle, which has two flaps?",
     "part_difficulty": "medium",
-    "answer": "bicuspid valve;mitral valve",
+    "answer": "bicuspid valve",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "mitral valve"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36461,9 +36496,11 @@
    {
     "text": "What are tiny agents, such as viruses and bacteria, that cause disease called?",
     "part_difficulty": "easy",
-    "answer": "pathogens;pathogen",
+    "answer": "pathogens",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "pathogen"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36483,9 +36520,11 @@
    {
     "text": "What type of cell, called killer or helper, matures in the thymus?",
     "part_difficulty": "medium",
-    "answer": "T cell;T lymphocyte",
+    "answer": "T cell",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "T lymphocyte"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36509,20 +36548,25 @@
    {
     "text": "Who proposed the theory of evolution by natural selection?",
     "part_difficulty": "easy",
-    "answer": "Charles Darwin;Darwin",
-    "required": "Darwin;Darwin",
-    "alternates": [],
+    "answer": "Charles Darwin",
+    "required": null,
+    "alternates": [
+     "n",
+     "Darwin"
+    ],
     "prompt_on": [],
-    "answer_type": "name",
+    "answer_type": "general",
     "duplicate_name": false,
     "accepts_partial_name": false
    },
    {
     "text": "What term describes remains of ancient organisms preserved in rock?",
     "part_difficulty": "medium",
-    "answer": "fossils;fossil",
+    "answer": "fossils",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "fossil"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36531,9 +36575,11 @@
    {
     "text": "What term names a trait like the human appendix that has lost its original function?",
     "part_difficulty": "medium",
-    "answer": "vestigial structure;vestigial",
+    "answer": "vestigial structure",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "vestigial"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36568,9 +36614,11 @@
    {
     "text": "What enzyme in saliva starts the digestion of starch?",
     "part_difficulty": "medium",
-    "answer": "amylase;salivary amylase",
+    "answer": "amylase",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "salivary amylase"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36605,9 +36653,11 @@
    {
     "text": "What are the tiny openings on a leaf that regulate gas exchange?",
     "part_difficulty": "easy",
-    "answer": "stomata;stoma",
+    "answer": "stomata",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "stoma"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36653,9 +36703,11 @@
    {
     "text": "What are the monomers of carbohydrates called, when single sugar units?",
     "part_difficulty": "easy",
-    "answer": "monosaccharides;monosaccharide",
+    "answer": "monosaccharides",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "monosaccharide"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36664,9 +36716,11 @@
    {
     "text": "What are the monomers of nucleic acids called?",
     "part_difficulty": "medium",
-    "answer": "nucleotides;nucleotide",
+    "answer": "nucleotides",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "nucleotide"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36675,9 +36729,11 @@
    {
     "text": "What type of bond links amino acids in a protein?",
     "part_difficulty": "medium",
-    "answer": "peptide bond;peptide",
+    "answer": "peptide bond",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "peptide"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36701,9 +36757,11 @@
    {
     "text": "What molecule forms the double layer of the cell membrane?",
     "part_difficulty": "easy",
-    "answer": "phospholipid;phospholipids",
+    "answer": "phospholipid",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "phospholipids"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36749,9 +36807,11 @@
    {
     "text": "How many cells result from one cell undergoing meiosis?",
     "part_difficulty": "easy",
-    "answer": "four;4",
+    "answer": "four",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "4"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36797,9 +36857,12 @@
    {
     "text": "What kind of plant did Mendel study?",
     "part_difficulty": "easy",
-    "answer": "pea plant;pea;garden pea",
+    "answer": "pea plant",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "pea",
+     "garden pea"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36808,9 +36871,12 @@
    {
     "text": "What is the expected phenotypic ratio from crossing two heterozygotes for a dominant trait?",
     "part_difficulty": "medium",
-    "answer": "three to one;3:1;3 to 1",
+    "answer": "three to one",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "3:1",
+     "3 to 1"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36819,9 +36885,11 @@
    {
     "text": "What is the term for Mendel's law that alleles separate during gamete formation?",
     "part_difficulty": "hard",
-    "answer": "law of segregation;segregation",
+    "answer": "law of segregation",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "segregation"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36893,9 +36961,11 @@
    {
     "text": "What gland is called the master gland, located at the base of the brain?",
     "part_difficulty": "easy",
-    "answer": "pituitary gland;pituitary",
+    "answer": "pituitary gland",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "pituitary"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36904,9 +36974,11 @@
    {
     "text": "What gland in the neck controls metabolism?",
     "part_difficulty": "medium",
-    "answer": "thyroid gland;thyroid",
+    "answer": "thyroid gland",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "thyroid"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36915,9 +36987,11 @@
    {
     "text": "What hormone from the adrenal glands prepares the body for fight or flight?",
     "part_difficulty": "medium",
-    "answer": "adrenaline;epinephrine",
+    "answer": "adrenaline",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "epinephrine"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36952,9 +37026,11 @@
    {
     "text": "What term describes a species at risk of extinction across all of its range?",
     "part_difficulty": "medium",
-    "answer": "endangered species;endangered",
+    "answer": "endangered species",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "endangered"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36963,9 +37039,11 @@
    {
     "text": "What term describes a species introduced to an area where it does not naturally live?",
     "part_difficulty": "medium",
-    "answer": "invasive species;introduced species",
+    "answer": "invasive species",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "introduced species"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -36989,9 +37067,11 @@
    {
     "text": "What are the catalysts of biological reactions called?",
     "part_difficulty": "easy",
-    "answer": "enzymes;enzyme",
+    "answer": "enzymes",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "enzyme"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37050,7 +37130,9 @@
     "part_difficulty": "medium",
     "answer": "Bacteria, Archaea, and Eukarya",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "Bacteria, Archaea, Eukarya"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37081,9 +37163,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of molecule stores genetic information and includes DNA and RNA?",
-  "answer": "nucleic acid;nucleic acids",
+  "answer": "nucleic acid",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "nucleic acids"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37101,9 +37185,11 @@
   "expires_at": null,
   "difficulty": "easy",
   "text": "What type of RNA carries the genetic message from the nucleus to the ribosome?",
-  "answer": "mRNA;messenger RNA",
+  "answer": "mRNA",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "messenger RNA"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37141,9 +37227,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What is the name of the thin tubes that form the spindle fibers in a dividing cell?",
-  "answer": "microtubules;microtubule",
+  "answer": "microtubules",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "microtubule"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37161,29 +37249,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What part of the cell is the site of the electron transport chain in aerobic respiration?",
-  "answer": "inner mitochondrial membrane;cristae",
+  "answer": "inner mitochondrial membrane",
   "required": null,
-  "alternates": [],
-  "prompt_on": [],
-  "answer_type": "general",
-  "duplicate_name": false,
-  "accepts_partial_name": false
- },
- {
-  "type": "tossup",
-  "rulesets": [
-   "ncal"
+  "alternates": [
+   "cristae"
   ],
-  "level": "jv",
-  "category": "Science",
-  "subcategory": "Biology 1",
-  "source": "ai-claude-bank",
-  "expires_at": null,
-  "difficulty": "medium",
-  "text": "What is the name of the compound, NADPH or NADH, that carries electrons?",
-  "answer": "electron carrier",
-  "required": null,
-  "alternates": [],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37201,9 +37271,11 @@
   "expires_at": null,
   "difficulty": "medium",
   "text": "What term describes organisms that cannot make their own food, like animals?",
-  "answer": "heterotrophs;heterotroph",
+  "answer": "heterotrophs",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "heterotroph"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37241,9 +37313,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What term describes the region at the ends of chromosomes that protects them from deterioration?",
-  "answer": "telomere;telomeres",
+  "answer": "telomere",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "telomeres"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37261,9 +37335,11 @@
   "expires_at": null,
   "difficulty": "hard",
   "text": "What is the name of the process in which a cell engulfs large particles by wrapping its membrane around them?",
-  "answer": "endocytosis;phagocytosis",
+  "answer": "endocytosis",
   "required": null,
-  "alternates": [],
+  "alternates": [
+   "phagocytosis"
+  ],
   "prompt_on": [],
   "answer_type": "general",
   "duplicate_name": false,
@@ -37333,9 +37409,11 @@
    {
     "text": "What pair of organs filters waste from the blood to form urine?",
     "part_difficulty": "easy",
-    "answer": "kidneys;kidney",
+    "answer": "kidneys",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "kidney"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37355,9 +37433,11 @@
    {
     "text": "What hormone from the pituitary helps the kidney retain water?",
     "part_difficulty": "medium",
-    "answer": "ADH;antidiuretic hormone",
+    "answer": "ADH",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "antidiuretic hormone"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37392,9 +37472,11 @@
    {
     "text": "What tough bands connect bone to bone?",
     "part_difficulty": "medium",
-    "answer": "ligaments;ligament",
+    "answer": "ligaments",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "ligament"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37403,9 +37485,11 @@
    {
     "text": "What is the soft tissue inside bones where blood cells are made?",
     "part_difficulty": "medium",
-    "answer": "bone marrow;marrow",
+    "answer": "bone marrow",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "marrow"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37451,9 +37535,11 @@
    {
     "text": "What are the tiny air sacs where gas exchange occurs in human lungs?",
     "part_difficulty": "medium",
-    "answer": "alveoli;alveolus",
+    "answer": "alveoli",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "alveolus"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37488,9 +37574,13 @@
    {
     "text": "What term describes a cell that has stopped dividing and is in a resting state called G zero?",
     "part_difficulty": "medium",
-    "answer": "G0;G zero",
+    "answer": "G0",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "G zero",
+     "quiescent",
+     "quiescence"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -37499,9 +37589,11 @@
    {
     "text": "What group of proteins regulates the cell cycle and is named for rising and falling in concentration?",
     "part_difficulty": "hard",
-    "answer": "cyclins;cyclin",
+    "answer": "cyclins",
     "required": null,
-    "alternates": [],
+    "alternates": [
+     "cyclin"
+    ],
     "prompt_on": [],
     "answer_type": "general",
     "duplicate_name": false,
@@ -42088,7 +42180,8 @@
     "answer": "stained glass",
     "required": null,
     "alternates": [
-     "colored glass"
+     "colored glass",
+     "glass"
     ],
     "prompt_on": [],
     "answer_type": "general",

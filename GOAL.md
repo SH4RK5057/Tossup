@@ -29,3 +29,10 @@ See the output of `node scripts/bank/build.mjs`. Nothing here is imported or ver
 - 16 parallel writer agents each own a disjoint set of subjects (`scripts/bank/assignments.json`, instructions in `scripts/bank/WRITERS.md`, files `scripts/bank/data/<tag>-NN.txt`). They check with `npx vite-node scripts/bank/check.ts <files>` (gates + duplicate check against the seed, batch 1, and every other writer's files).
 - The coordinator (me) writes NCAL novice English by hand (`ncal-novice-01/02.txt`) and generates the NCAL math subjects with `scripts/bank/gen-math.mjs` (computed answers).
 - After writing: compile (`node scripts/bank/build.mjs`), run all gates (`npx vitest run`), then an independent cold-answer verification pass (verifier agents answer the questions without seeing keys; mismatches are reviewed and fixed or removed), then a final duplicate check against the questions already in the live app (export from the admin page and run `findDuplicates` in `src/admin/dupes.ts`).
+
+## Status (2026-11-19)
+
+- 10,231 new questions compiled (`batches/bank-*.json`), plus the seed (78) and batch 1 (344): `batches/master-import.json` has all 10,653 as clean importer rows. All gates pass.
+- Independent cold-answer check done on 9,443 (not the computed math): ~0.9% disagreed; reviewed and patched (`scripts/bank/patches.json`, built by `make-patches.mjs` and `prune.ts`; applied by `build.mjs`).
+- Remaining: duplicate check against the live app's existing questions (export from the admin page, run `findDuplicates` in `src/admin/dupes.ts`), then import (Admin -> Import & verify, "Save as active").
+- Free-tier note: the admin Questions tab reads every question (10k+ reads per load of the 50k/day Spark quota); practice sessions read at most 160 docs.

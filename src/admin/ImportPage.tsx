@@ -30,6 +30,7 @@ export function ImportPage() {
   // ---- import
   const [importText, setImportText] = useState('');
   const [rows, setRows] = useState<RowResult[] | null>(null);
+  const [asActive, setAsActive] = useState(false);
   const [importMsg, setImportMsg] = useState<{ kind: 'error' | 'ok'; text: string } | null>(null);
 
   const validate = async () => {
@@ -38,7 +39,7 @@ export function ImportPage() {
     if (p.error) { setRows(null); setImportMsg({ kind: 'error', text: p.error }); return; }
     try {
       const existing = await repo.listQuestions();
-      const res = validateImport(p.value, existing, { nowIso: new Date().toISOString(), makeId: () => randomId(), random: Math.random });
+      const res = validateImport(p.value, existing, { nowIso: new Date().toISOString(), makeId: () => randomId(), random: Math.random, status: asActive ? 'active' : 'pending' });
       if (res.fatal) { setRows(null); setImportMsg({ kind: 'error', text: res.fatal }); return; }
       setRows(res.rows);
     } catch (e) {
@@ -50,7 +51,7 @@ export function ImportPage() {
   const saveValid = async () => {
     try {
       await repo.createQuestions(validRows.map((r) => r.question!));
-      setImportMsg({ kind: 'ok', text: `Saved ${validRows.length} question(s) as pending. Run verification next.` });
+      setImportMsg({ kind: 'ok', text: `Saved ${validRows.length} question(s) as ${asActive ? 'active' : 'pending'}.${asActive ? '' : ' Run verification next.'}` });
       setRows(null);
       setImportText('');
     } catch (e) {
@@ -110,6 +111,7 @@ export function ImportPage() {
           Paste or upload a JSON array of questions. Each row is validated, duplicates (by normalized text) are skipped, and valid rows are saved as <strong>pending</strong>.
         </p>
         <JsonInput label="Questions JSON" value={importText} onChange={setImportText} placeholder='[{"type":"tossup","rulesets":["ncal"],"level":"novice","category":"Math","subcategory":"Geometry","text":"...","answer":"..."}]' />
+        <label className="inline-check small"><input type="checkbox" checked={asActive} onChange={(e) => setAsActive(e.target.checked)} />Save as active (these were already verified). Skips the activation step, which would use two Firestore writes per question.</label>
         <div className="row"><button className="primary" disabled={!importText.trim()} onClick={validate}>Validate</button></div>
         {importMsg && <div className={`notice ${importMsg.kind}`}>{importMsg.text}</div>}
         {rows && (
@@ -128,7 +130,7 @@ export function ImportPage() {
                 ))}</tbody>
               </table>
             </div>
-            <div><button className="primary" disabled={validRows.length === 0} onClick={saveValid}>Save {validRows.length} valid row(s) as pending</button></div>
+            <div><button className="primary" disabled={validRows.length === 0} onClick={saveValid}>Save {validRows.length} valid row(s) as {asActive ? 'active' : 'pending'}</button></div>
           </>
         )}
       </section>
