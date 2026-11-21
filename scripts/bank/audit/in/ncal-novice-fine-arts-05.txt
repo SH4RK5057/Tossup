@@ -1,0 +1,133 @@
+ncal-novice:884 | e | Spanish 1 | What is the Spanish number for 5? => cinco
+ncal-novice:885 | e | Spanish 1 | What is the Spanish number for 10? => diez
+ncal-novice:886 | e | Spanish 1 | What is the Spanish word for the number 8? => ocho
+ncal-novice:887 | e | Spanish 1 | What is the Spanish word for "mother"? => la madre ; madre ; mamá
+ncal-novice:888 | e | Spanish 1 | What is the Spanish word for "brother"? => el hermano ; hermano
+ncal-novice:889 | e | Spanish 1 | What is the Spanish word for "friend" when the friend is a girl? => la amiga ; amiga
+ncal-novice:890 | e | Spanish 1 | What is the Spanish word for "school," including the article? => la escuela ; escuela
+ncal-novice:891 | e | Spanish 1 | What day of the week is "lunes" in English? => Monday
+ncal-novice:892 | e | Spanish 1 | What day of the week is "sábado" in English? => Saturday
+ncal-novice:893 | e | Spanish 1 | What does the Spanish word "grande" mean in English? => big ; large ; great
+ncal-novice:894 | m | Spanish 1 | What does the Spanish word "pequeño" mean in English? => small ; little ; tiny
+ncal-novice:895 | m | Spanish 1 | What is the Spanish word for "to be" used for permanent traits such as nationality? => ser
+ncal-novice:896 | m | Spanish 1 | What is the Spanish verb "to have"? => tener
+ncal-novice:897 | m | Spanish 1 | What is the yo form of the verb "hablar" in the present tense? => hablo
+ncal-novice:898 | m | Spanish 1 | What is the yo form of the verb "vivir" in the present tense? => vivo
+ncal-novice:899 | m | Spanish 1 | What is the Spanish word for the number 15? => quince
+ncal-novice:900 | m | Spanish 1 | What is the Spanish word for the number 20? => veinte
+ncal-novice:901 | m | Spanish 1 | What is the Spanish word for the number 30? => treinta
+ncal-novice:902 | m | Spanish 1 | What is the Spanish word for the number 100? => cien ; ciento
+ncal-novice:903 | m | Spanish 1 | What is the Spanish word for "Wednesday"? => miércoles ; miercoles
+ncal-novice:904 | m | Spanish 1 | What is the Spanish word for "Thursday"? => jueves
+ncal-novice:905 | m | Spanish 1 | What is the Spanish word for the month of January? => enero
+ncal-novice:906 | m | Spanish 1 | What is the Spanish word for the season of summer, including the article? => el verano ; verano
+ncal-novice:907 | m | Spanish 1 | What is the Spanish word for "winter," including the article? => el invierno ; invierno
+ncal-novice:908 | m | Spanish 1 | What is the Spanish word for "yesterday"? => ayer
+ncal-novice:909 | m | Spanish 1 | What Spanish question word means "where"? => dónde ; donde
+ncal-novice:910 | m | Spanish 1 | What Spanish question word means "why"? => por qué ; porque
+ncal-novice:911 | m | Spanish 1 | What Spanish question word means "who"? => quién ; quien
+ncal-novice:912 | m | Spanish 1 | What is the Spanish word for "breakfast," including the article? => el desayuno ; desayuno
+ncal-novice:913 | m | Spanish 1 | What is the Spanish word for "chicken" as a food, including the article? => el pollo ; pollo
+ncal-novice:914 | m | Spanish 1 | What is the Spanish word for "milk," including the article? => la leche ; leche
+ncal-novice:915 | m | Spanish 1 | What is the Spanish word for "apple," including the article? => la manzana ; manzana
+ncal-novice:916 | m | Spanish 1 | What Spanish verb means "to go"? => ir
+ncal-novice:917 | m | Spanish 1 | What is the Spanish word for the plural of "el libro"? => los libros ; libros
+ncal-novice:918 | m | Spanish 1 | What is the plural definite article used with feminine nouns in Spanish? => las
+ncal-novice:919 | m | Spanish 1 | What Spanish word means "with"? => con
+ncal-novice:920 | m | Spanish 1 | What is the Spanish word for "classroom"? => la clase ; clase ; el salón de clase ; salón de clase ; el salón de clases ; el aula
+ncal-novice:921 | m | Spanish 1 | What is the Spanish word for "backpack"? => la mochila ; mochila
+ncal-novice:922 | h | Spanish 1 | What is the Spanish word for "I am hungry," using the verb tener? => tengo hambre
+ncal-novice:923 | h | Spanish 1 | What is the Spanish phrase meaning "I am thirsty," using the verb tener? => tengo sed
+ncal-novice:924 | h | Spanish 1 | What is the nosotros form of the verb "hablar" in the present tense? => hablamos
+ncal-novice:925 | h | Spanish 1 | What is the ellos form of the verb "escribir" in the present tense? => escriben
+ncal-novice:926 | h | Spanish 1 | What is the yo form of the verb "ir" in the present tense? => voy
+ncal-novice:927 | h | Spanish 1 | What is the yo form of the verb "tener" in the present tense? => tengo
+ncal-novice:928 | h | Spanish 1 | What is the Spanish word for "eyes"? => los ojos ; ojos
+ncal-novice:929 | h | Spanish 1 | What is the Spanish word for "knee," including the article? => la rodilla ; rodilla
+ncal-novice:930 | h | Spanish 1 | What does the Spanish word "pared" mean in English? => wall
+ncal-novice:931 | h | Spanish 1 | What does the Spanish word "tarea" mean in English? => homework ; task ; assignment
+ncal-novice:932 | h | Spanish 1 | What does the Spanish word "cumpleaños" mean in English? => birthday
+ncal-novice:933 | h | Spanish 1 | What is the Spanish word for "left," as in a direction? => izquierda
+ncal-novice:934 | h | Spanish 1 | What does the Spanish expression "hace calor" mean in English? => it is hot ; it's hot
+ncal-novice:935 | BONUS e | Spanish 1 | Answer these questions about Spanish colors.
+    ncal-novice:935.0 | e | What is the Spanish word for "black"? => negro ; negra
+    ncal-novice:935.1 | e | What is the Spanish word for "white"? => blanco ; blanca
+    ncal-novice:935.2 | m | What is the Spanish word for "orange" the color? => anaranjado ; naranja
+ncal-novice:936 | BONUS e | Spanish 1 | Answer these questions about Spanish family words.
+    ncal-novice:936.0 | e | What is the Spanish word for "father"? => el padre ; padre ; papá
+    ncal-novice:936.1 | e | What is the Spanish word for "sister"? => la hermana ; hermana
+    ncal-novice:936.2 | m | What is the Spanish word for "grandmother"? => la abuela ; abuela
+    ncal-novice:936.3 | h | What is the Spanish word for "uncle"? => el tío ; tío
+ncal-novice:937 | BONUS m | Spanish 1 | Answer these questions about Spanish numbers.
+    ncal-novice:937.0 | e | What is the Spanish word for 2? => dos
+    ncal-novice:937.1 | e | What is the Spanish word for 3? => tres
+    ncal-novice:937.2 | m | What is the Spanish word for 7? => siete
+    ncal-novice:937.3 | m | What is the Spanish word for 12? => doce
+    ncal-novice:937.4 | h | What is the Spanish word for 40? => cuarenta
+ncal-novice:938 | BONUS e | Spanish 1 | Answer these questions about days of the week in Spanish.
+    ncal-novice:938.0 | e | What day of the week is "martes" in English? => Tuesday
+    ncal-novice:938.1 | e | What day of the week is "viernes" in English? => Friday
+    ncal-novice:938.2 | m | What day of the week is "domingo" in English? => Sunday
+ncal-novice:939 | BONUS m | Spanish 1 | Answer these questions about the Spanish verbs ser and estar.
+    ncal-novice:939.0 | e | What is the yo form of the verb "ser"? => soy
+    ncal-novice:939.1 | m | What is the yo form of the verb "estar"? => estoy
+    ncal-novice:939.2 | m | What is the ella form of the verb "ser"? => es
+    ncal-novice:939.3 | h | What is the nosotros form of the verb "estar"? => estamos
+ncal-novice:940 | BONUS e | Spanish 1 | Answer these questions about animals in Spanish.
+    ncal-novice:940.0 | e | What is the Spanish word for "bird"? => el pájaro ; pájaro ; ave
+    ncal-novice:940.1 | e | What is the Spanish word for "horse"? => el caballo ; caballo
+    ncal-novice:940.2 | m | What is the Spanish word for "fish" as a living animal? => el pez ; pez
+    ncal-novice:940.3 | h | What is the Spanish word for "cow"? => la vaca ; vaca
+ncal-novice:941 | BONUS m | Spanish 1 | Answer these questions about school subjects in Spanish.
+    ncal-novice:941.0 | e | What is the Spanish word for "math"? => las matemáticas ; matemáticas
+    ncal-novice:941.1 | e | What is the Spanish word for "English" the subject? => el inglés ; inglés
+    ncal-novice:941.2 | m | What is the Spanish word for "science"? => la ciencia ; ciencia ; las ciencias ; ciencias
+    ncal-novice:941.3 | h | What is the Spanish word for "history"? => la historia ; historia
+ncal-novice:942 | BONUS e | Spanish 1 | Answer these questions about greetings in Spanish.
+    ncal-novice:942.0 | e | What does the Spanish word "adiós" mean in English? => goodbye ; bye
+    ncal-novice:942.1 | e | What does the Spanish phrase "buenas noches" mean in English? => good night ; good evening
+    ncal-novice:942.2 | m | What does the Spanish phrase "¿Cómo estás?" mean in English? => how are you
+    ncal-novice:942.3 | h | What does the Spanish phrase "mucho gusto" mean in English? => nice to meet you ; pleased to meet you
+ncal-novice:943 | BONUS m | Spanish 1 | Answer these questions about food in Spanish.
+    ncal-novice:943.0 | e | What is the Spanish word for "bread," including the article? => el pan ; pan
+    ncal-novice:943.1 | e | What is the Spanish word for "cheese," including the article? => el queso ; queso
+    ncal-novice:943.2 | m | What is the Spanish word for "rice," including the article? => el arroz ; arroz
+    ncal-novice:943.3 | h | What is the Spanish word for "lunch" in most Spanish-speaking countries? => el almuerzo ; almuerzo
+ncal-novice:944 | BONUS m | Spanish 1 | Answer these questions about months in Spanish.
+    ncal-novice:944.0 | e | What is the Spanish word for the month of March? => marzo
+    ncal-novice:944.1 | m | What is the Spanish word for the month of June? => junio
+    ncal-novice:944.2 | m | What is the Spanish word for the month of August? => agosto
+    ncal-novice:944.3 | h | What is the Spanish word for the month of September? => septiembre ; setiembre
+ncal-novice:945 | BONUS e | Spanish 1 | Answer these questions about the weather in Spanish.
+    ncal-novice:945.0 | e | What does the Spanish word "lluvia" mean in English? => rain
+    ncal-novice:945.1 | m | What does the Spanish expression "hace frío" mean in English? => it is cold ; it's cold
+    ncal-novice:945.2 | m | What does the Spanish word "nieve" mean in English? => snow
+    ncal-novice:945.3 | h | What does the Spanish word "viento" mean in English? => wind
+ncal-novice:946 | BONUS m | Spanish 1 | Answer these questions about Spanish pronouns.
+    ncal-novice:946.0 | e | What Spanish pronoun is the first-person singular subject, meaning "I"? => yo
+    ncal-novice:946.1 | e | What Spanish pronoun is the informal word for "you"? => tú ; tu
+    ncal-novice:946.2 | m | Which Spanish pronoun refers to a group including the speaker, meaning "we"? => nosotros ; nosotras
+    ncal-novice:946.3 | h | What Spanish pronoun means "you all" in Latin America? => ustedes
+ncal-novice:947 | BONUS h | Spanish 1 | Answer these questions about -ar verb conjugations in the present tense.
+    ncal-novice:947.0 | e | What is the yo form of "cantar"? => canto
+    ncal-novice:947.1 | m | What is the ella form of "bailar"? => baila
+    ncal-novice:947.2 | m | What is the ustedes form of "estudiar"? => estudian
+    ncal-novice:947.3 | h | What is the nosotros form of "caminar"? => caminamos
+ncal-novice:948 | BONUS m | Spanish 1 | Answer these questions about body parts in Spanish.
+    ncal-novice:948.0 | e | What is the Spanish word for "head"? => la cabeza ; cabeza
+    ncal-novice:948.1 | e | What is the Spanish word for "nose"? => la nariz ; nariz
+    ncal-novice:948.2 | m | What is the Spanish word for "foot"? => el pie ; pie
+    ncal-novice:948.3 | h | What is the Spanish word for "arm"? => el brazo ; brazo
+ncal-novice:949 | BONUS e | Spanish 1 | Answer these questions about Spanish-speaking countries.
+    ncal-novice:949.0 | e | Which country's capital is Madrid? => Spain ; España
+    ncal-novice:949.1 | e | Which large Spanish-speaking country borders the southern United States? => Mexico ; México
+    ncal-novice:949.2 | m | Which South American country has its capital at Buenos Aires? => Argentina
+    ncal-novice:949.3 | h | Which Caribbean country's capital is Havana? => Cuba
+ncal-novice:950 | BONUS m | Spanish 1 | Answer these questions about clothing in Spanish.
+    ncal-novice:950.0 | e | What is the Spanish word for "shirt"? => la camisa ; camisa
+    ncal-novice:950.1 | e | What is the Spanish word for "shoes"? => los zapatos ; zapatos
+    ncal-novice:950.2 | m | What is the Spanish word for "pants"? => los pantalones ; pantalones
+    ncal-novice:950.3 | h | What is the Spanish word for "dress"? => el vestido ; vestido
+ncal-novice:951 | e | Spanish 1 | What is the Spanish word for "pencil"? => el lápiz ; lápiz
+ncal-novice:952 | e | Spanish 1 | What is the Spanish word for "table," including the article? => la mesa ; mesa
+ncal-novice:953 | e | Spanish 1 | What does the Spanish word "feliz" mean in English? => happy

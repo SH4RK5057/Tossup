@@ -1,0 +1,17 @@
+[
+{"id":"ncal-novice:1135","difficulty":"medium"},
+{"id":"ncal-novice:1136","difficulty":"hard"},
+{"id":"ncal-novice:1141","difficulty":"medium"},
+{"id":"ncal-novice:1096","difficulty":"medium"},
+{"id":"ncal-novice:1101","difficulty":"medium"},
+{"id":"ncal-novice:1105","difficulty":"medium"},
+{"id":"ncal-novice:1106","difficulty":"medium"},
+{"id":"ncal-novice:1090","difficulty":"hard"},
+{"id":"ncal-novice:1120","difficulty":"medium"},
+{"id":"ncal-novice:1139","difficulty":"hard"},
+{"id":"ncal-novice:1108.1","addAlt":["ball and socket joint"]},
+{"id":"ncal-novice:1118.0","drop":"dup of ncal-novice:1083"},
+{"id":"ncal-novice:1118.2","drop":"dup of ncal-novice:1084"},
+{"id":"ncal-novice:1119.1","difficulty":"hard"},
+{"id":"ncal-novice:1130.1","addAlt":["herbivore"]}
+]

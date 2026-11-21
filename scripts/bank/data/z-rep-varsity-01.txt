@@ -1,0 +1,66 @@
+# ncal varsity | Fine Arts | Architecture
+m|Which architect designed the Chrysler Building, a New York skyscraper topped by a stainless steel spire?|William Van Alen|Van Alen|n
+m|Which German-born architect, who directed the Bauhaus and designed the Seagram Building, popularized the phrase "less is more"?|Ludwig Mies van der Rohe|Mies van der Rohe;Mies|n=Rohe part
+m|Which British gardener and architect designed the Crystal Palace for the Great Exhibition of 1851?|Joseph Paxton|Paxton|n
+e|Which artist and designer created the Vietnam Veterans Memorial in Washington, D.C., while still an undergraduate?|Maya Lin|Lin|n
+m|Which Roman structures, often built with tiers of arches like the Pont du Gard, carried water into cities?|aqueducts|aqueduct|
+e|In which country is the huge temple complex of Angkor Wat?|Cambodia|
+m|Which Spanish city is home to the Alhambra, a palace and fortress built by Moorish rulers?|Granada|
+h|What term names the horizontal beam that rests on the columns of a Greek temple?|entablature|
+B|m|Answer these questions about European cathedrals.
+-|e|Which style of medieval architecture is known for pointed arches, rib vaults, and stained glass windows?|Gothic|
+-|m|Which cathedral on an island in the Seine in Paris has gargoyles and was damaged by fire in 2019?|Notre-Dame|Notre Dame;Notre-Dame de Paris|
+-|h|What term names the cross-shaped floor plan of many cathedrals, with a long nave crossed by a transept?|cruciform|Latin cross;cross-shaped|
+B|m|Answer these questions about architecture around the world.
+-|e|Which ancient Mayan or Aztec-style stepped structure is called El Castillo at Chichen Itza?|pyramid|step pyramid|
+-|m|Which Asian country is home to the Forbidden City, the former imperial palace in Beijing?|China|
+-|h|Which Spanish architect designed the Casa Mila and the Park Guell in Barcelona?|Antoni Gaudi|Gaudi;Gaudí;Antoni Gaudí|n
+# ncal varsity | Fine Arts | Operas and Musicals
+B|m|Answer these questions about opera.
+-|e|Which opera by Rossini is about a clever barber who helps Count Almaviva win Rosina?|The Barber of Seville|Barber of Seville;Il Barbiere di Siviglia|
+-|m|Which Puccini opera set in Rome ends with the heroine leaping from the walls of a castle?|Tosca|
+-|h|Which opera by Leoncavallo is about a clown whose wife betrays him in a traveling troupe?|Pagliacci|I Pagliacci|
+B|m|Answer these questions about musicals.
+-|e|Which Rodgers and Hammerstein musical is about a governess and the von Trapp family in Austria?|The Sound of Music|Sound of Music|
+-|m|Which musical about a Jewish milkman named Tevye is set in the village of Anatevka?|Fiddler on the Roof|
+-|h|Which musical adapts Victor Hugo's novel about Jean Valjean and is set in nineteenth-century France?|Les Miserables|Les Misérables;Les Mis|
+B|m|Answer these questions about opera and musical theater.
+-|e|Which musical tells the story of Elphaba and Glinda, the witches of Oz?|Wicked|
+-|m|Which Mozart opera features a count, a countess, and the title servant who is about to marry Susanna?|The Marriage of Figaro|Marriage of Figaro;Le nozze di Figaro|
+-|h|Which Gershwin opera is set in Catfish Row in Charleston and features the song "Summertime"?|Porgy and Bess|
+# ncal varsity | Fine Arts | Spanish 3+
+B|m|Answer these questions about Spanish vocabulary.
+-|e|What is the Spanish word for "fork"?|el tenedor|tenedor|f
+-|m|What is the Spanish word for "cloud"?|la nube|nube|f
+-|m|What is the Spanish word for "to learn"?|aprender|f
+-|h|What is the Spanish word for "ceiling"?|el techo|techo|f
+# ncal varsity | Fine Arts | French 3+
+B|m|Answer these questions about French vocabulary.
+-|e|What is the French word for "fork"?|la fourchette|fourchette|f
+-|m|What is the French word for "cloud"?|le nuage|nuage|f
+-|m|What is the French word for "to learn"?|apprendre|f
+-|h|What is the French word for "ceiling"?|le plafond|plafond|f
+# ncal varsity | Science | Biology 2
+m|Which type of RNA is made from a DNA template during transcription and carries the code to ribosomes?|messenger RNA|mRNA|
+# ncal varsity | Social Science | U.S. Government
+m|Which constitutional amendment allows Congress to collect an income tax?|Sixteenth Amendment|16th Amendment;Sixteenth;16th|
+B|m|Answer these questions about the Bill of Rights.
+-|e|Which amendment includes the "double jeopardy" protection against being tried twice for the same crime?|Fifth Amendment|Fifth;5th Amendment|
+-|m|Which amendment guarantees the right to a speedy trial and a lawyer in criminal cases?|Sixth Amendment|Sixth;6th Amendment|
+-|h|Which amendment guarantees due process and equal protection of the laws to all persons in the states?|Fourteenth Amendment|Fourteenth;14th Amendment|
+B|m|Answer these questions about the structure of government.
+-|e|Who presides over the Senate, voting only to break a tie?|Vice President|the vice president|
+-|m|How many members does the House of Representatives have?|435|four hundred thirty-five|m
+-|h|What is the name of the clause that lets Congress make all laws "necessary and proper" to carry out its powers?|elastic clause|necessary and proper clause|
+# ncal varsity | Social Science | Economics
+m|What term describes a fall in the general level of prices?|deflation|
+m|What term describes a period of declining economic activity, often defined as two straight quarters of falling GDP?|recession|
+e|What term describes a payment a company makes to its shareholders out of its profits?|dividend|
+m|Which American economist led the Chicago school and championed monetarism and free markets?|Milton Friedman|Friedman|n
+h|What principle states that countries should specialize in producing what they make at the lowest opportunity cost?|comparative advantage|
+m|What term describes a government payment that lowers the cost of producing a good?|subsidy|
+m|What term describes a market dominated by a few large sellers, such as airlines?|oligopoly|
+B|m|Answer these questions about money and markets.
+-|e|What term describes a business that is owned by shareholders and legally separate from its owners?|corporation|
+-|m|What term describes the total income a business earns from sales before costs are subtracted?|revenue|total revenue;sales revenue
+-|h|What term names a tax whose rate rises as the taxpayer's income rises?|progressive tax|progressive income tax;graduated tax|

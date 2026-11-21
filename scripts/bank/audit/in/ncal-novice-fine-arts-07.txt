@@ -1,0 +1,87 @@
+ncal-novice:1024 | h | French 1 | What is the French word for "to wear" or "to carry"? => porter
+ncal-novice:1025 | h | French 1 | What is the French word for "to like" or "to love"? => aimer
+ncal-novice:1026 | h | French 1 | What is the French word for "thirty"? => trente
+ncal-novice:1027 | BONUS e | French 1 | Answer these questions about French colors.
+    ncal-novice:1027.0 | e | What is the French word for "black"? => noir ; noire
+    ncal-novice:1027.1 | e | What is the French word for "white"? => blanc ; blanche
+    ncal-novice:1027.2 | m | What is the French word for "yellow"? => jaune
+ncal-novice:1028 | BONUS e | French 1 | Answer these questions about French family words.
+    ncal-novice:1028.0 | e | What is the French word for "father"? => le père ; père ; papa
+    ncal-novice:1028.1 | e | What is the French word for "sister"? => la soeur ; la sœur ; soeur ; sœur
+    ncal-novice:1028.2 | m | What is the French word for "grandmother"? => la grand-mère ; grand-mère ; mamie
+    ncal-novice:1028.3 | h | What is the French word for "uncle"? => l'oncle ; oncle
+ncal-novice:1029 | BONUS m | French 1 | Answer these questions about French numbers.
+    ncal-novice:1029.0 | e | What is the French word for 2? => deux
+    ncal-novice:1029.1 | e | What is the French word for 3? => trois
+    ncal-novice:1029.2 | m | What is the French word for 7? => sept
+    ncal-novice:1029.3 | m | What is the French word for 11? => onze
+    ncal-novice:1029.4 | h | What is the French word for 40? => quarante
+ncal-novice:1030 | BONUS e | French 1 | Answer these questions about days of the week in French.
+    ncal-novice:1030.0 | e | What does the French word "mardi" mean in English? => Tuesday
+    ncal-novice:1030.1 | e | What does the French word "vendredi" mean in English? => Friday
+    ncal-novice:1030.2 | m | What does the French word "dimanche" mean in English? => Sunday
+ncal-novice:1031 | BONUS m | French 1 | Answer these questions about the French verbs avoir and être.
+    ncal-novice:1031.0 | e | What is the tu form of the verb "avoir"? => as
+    ncal-novice:1031.1 | m | What is the tu form of the verb "être"? => es
+    ncal-novice:1031.2 | m | What is the nous form of the verb "avoir"? => avons
+    ncal-novice:1031.3 | h | What is the vous form of the verb "être"? => êtes ; etes
+ncal-novice:1032 | BONUS e | French 1 | Answer these questions about animals in French.
+    ncal-novice:1032.0 | e | What is the French word for "bird"? => l'oiseau ; oiseau
+    ncal-novice:1032.1 | e | What is the French word for "horse"? => le cheval ; cheval
+    ncal-novice:1032.2 | m | What is the French word for "fish" as a living animal? => le poisson ; poisson
+    ncal-novice:1032.3 | h | What is the French word for "cow"? => la vache ; vache
+ncal-novice:1033 | BONUS m | French 1 | Answer these questions about school subjects in French.
+    ncal-novice:1033.0 | e | What is the French word for "math," usually used in the plural? => les maths ; maths ; les mathématiques ; mathématiques
+    ncal-novice:1033.1 | e | What is the French word for "English" the subject? => l'anglais ; anglais
+    ncal-novice:1033.2 | m | What is the French word for "science" when referring to the subject? => les sciences ; sciences ; la science ; science
+    ncal-novice:1033.3 | h | What is the French word for "history" as a school subject? => l'histoire ; histoire
+ncal-novice:1034 | BONUS e | French 1 | Answer these questions about greetings in French.
+    ncal-novice:1034.0 | e | What does the French phrase "bonsoir" mean in English? => good evening
+    ncal-novice:1034.1 | e | What does the French phrase "salut" mean when used informally to greet a friend? => hi ; hello ; bye
+    ncal-novice:1034.2 | m | What does the French question "Comment ça va?" mean in English? => how are you ; how is it going
+    ncal-novice:1034.3 | h | What does the French phrase "enchanté" mean in English? => nice to meet you ; pleased to meet you ; delighted
+ncal-novice:1035 | BONUS m | French 1 | Answer these questions about food in French.
+    ncal-novice:1035.0 | e | What is the French word for "egg"? => l'oeuf ; l'œuf ; oeuf ; œuf
+    ncal-novice:1035.1 | e | What is the French word for "chicken" as a food? => le poulet ; poulet
+    ncal-novice:1035.2 | m | What is the French word for "rice"? => le riz ; riz
+    ncal-novice:1035.3 | h | What is the French word for "lunch" in France? => le déjeuner ; déjeuner ; dejeuner
+ncal-novice:1036 | BONUS m | French 1 | Answer these questions about months in French.
+    ncal-novice:1036.0 | e | What is the French word for the month of March? => mars
+    ncal-novice:1036.1 | m | What is the French word for the month of June? => juin
+    ncal-novice:1036.2 | m | What is the French word for the month of July? => juillet
+    ncal-novice:1036.3 | h | What is the French word for the month of August? => août ; aout
+ncal-novice:1037 | BONUS e | French 1 | Answer these questions about the weather in French.
+    ncal-novice:1037.0 | e | What does the French word "pluie" mean in English? => rain
+    ncal-novice:1037.1 | m | What does the French expression "il fait froid" mean in English? => it is cold ; it's cold
+    ncal-novice:1037.2 | m | What does the French word "neige" mean in English? => snow
+    ncal-novice:1037.3 | h | What does the French word "vent" mean in English? => wind
+ncal-novice:1038 | BONUS m | French 1 | Answer these questions about French subject pronouns.
+    ncal-novice:1038.0 | e | What French pronoun is the first-person singular subject, meaning "I"? => je ; j'
+    ncal-novice:1038.1 | e | What French pronoun is the informal word for "you"? => tu
+    ncal-novice:1038.2 | m | What French pronoun means "we"? => nous
+    ncal-novice:1038.3 | h | What French pronoun means "they" for a group of boys or a mixed group? => ils
+ncal-novice:1039 | BONUS h | French 1 | Answer these questions about -er verb conjugations in the present tense.
+    ncal-novice:1039.0 | e | What is the je form of "chanter"? => chante
+    ncal-novice:1039.1 | m | What is the elle form of "danser"? => danse
+    ncal-novice:1039.2 | m | What is the ils form of "étudier"? => étudient ; etudient
+    ncal-novice:1039.3 | h | What is the vous form of "marcher"? => marchez
+ncal-novice:1040 | BONUS m | French 1 | Answer these questions about body parts in French.
+    ncal-novice:1040.0 | e | What is the French word for "head"? => la tête ; tête ; tete
+    ncal-novice:1040.1 | e | What is the French word for "nose"? => le nez ; nez
+    ncal-novice:1040.2 | m | What is the French word for "foot"? => le pied ; pied
+    ncal-novice:1040.3 | h | What is the French word for "arm"? => le bras ; bras
+ncal-novice:1041 | BONUS e | French 1 | Answer these questions about francophone countries and cities.
+    ncal-novice:1041.0 | e | Which European country has Paris as its capital? => France
+    ncal-novice:1041.1 | e | Which North American country has Ottawa as its capital and French as an official language? => Canada
+    ncal-novice:1041.2 | m | Which North African country has Rabat as its capital and widely uses French? => Morocco ; Maroc
+    ncal-novice:1041.3 | h | Which Canadian province is home to the city of Montreal? => Quebec ; Québec
+ncal-novice:1042 | BONUS m | French 1 | Answer these questions about clothing in French.
+    ncal-novice:1042.0 | e | What is the French word for "shirt"? => la chemise ; chemise
+    ncal-novice:1042.1 | e | What is the French word for "shoes"? => les chaussures ; chaussures
+    ncal-novice:1042.2 | m | What is the French word for "pants"? => le pantalon ; pantalon
+    ncal-novice:1042.3 | h | What is the French word for "dress"? => la robe ; robe
+ncal-novice:1043 | BONUS m | French 1 | Answer these questions about places in a French town.
+    ncal-novice:1043.0 | e | What is the French word for "store"? => le magasin ; magasin
+    ncal-novice:1043.1 | e | What is the French word for "park"? => le parc ; parc
+    ncal-novice:1043.2 | m | What is the French word for "church"? => l'église ; église ; eglise
+    ncal-novice:1043.3 | h | What is the French word for "library"? => la bibliothèque ; bibliothèque ; bibliotheque

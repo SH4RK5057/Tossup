@@ -1,0 +1,12 @@
+ncal-jv:633 | BONUS m | Mythology 2 | Answer these questions about Greek poets and dramatists.
+    ncal-jv:633.0 | e | Which blind poet is traditionally credited with the "Iliad" and the "Odyssey"? => Homer
+    ncal-jv:633.1 | m | Which poet wrote the "Theogony," an account of the origin of the gods? => Hesiod
+    ncal-jv:633.2 | h | Which Greek playwright wrote the "Oresteia"? => Aeschylus
+ncal-jv:634 | BONUS m | Mythology 2 | Answer these questions about the sun and moon in Greek myth.
+    ncal-jv:634.0 | e | Which Titan is the Greek god of the sun? => Helios
+    ncal-jv:634.1 | m | Which goddess drives the moon's chariot across the sky? => Selene
+    ncal-jv:634.2 | h | Which son of the sun god lost control of his father's chariot and was struck down by Zeus? => Phaethon
+ncal-jv:635 | BONUS m | Mythology 2 | Answer these questions about more Norse myths.
+    ncal-jv:635.0 | e | What is the name of Odin's spear that never misses its target? => Gungnir
+    ncal-jv:635.1 | m | Which wolf chases the sun across the sky in Norse myth? => Skoll ; Sköll
+    ncal-jv:635.2 | h | Which Norse god of fertility is the twin brother of Freya? => Freyr ; Frey

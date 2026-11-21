@@ -1,0 +1,23 @@
+[
+{"id":"ncal-varsity:1137","drop":"obscure architect; specialist trivia"},
+{"id":"ncal-varsity:1144","drop":"obscure architect; specialist trivia"},
+{"id":"ncal-varsity:1152","drop":"minor local building and architect"},
+{"id":"ncal-varsity:1139","difficulty":"medium"},
+{"id":"ncal-varsity:1141","difficulty":"medium"},
+{"id":"ncal-varsity:1142","difficulty":"medium"},
+{"id":"ncal-varsity:1146","difficulty":"medium"},
+{"id":"ncal-varsity:1147","difficulty":"medium"},
+{"id":"ncal-varsity:1150","difficulty":"medium"},
+{"id":"ncal-varsity:1153","difficulty":"medium"},
+{"id":"ncal-varsity:1155","difficulty":"medium"},
+{"id":"ncal-varsity:1156","difficulty":"medium"},
+{"id":"ncal-varsity:1157","difficulty":"easy"},
+{"id":"ncal-varsity:1167.2","drop":"architecture firm name is specialist trivia"},
+{"id":"ncal-varsity:1176.1","drop":"redundant with 1176.0, same answer"},
+{"id":"ncal-varsity:1174.2","addAlt":["Qin Shi Huangdi","Shi Huangti","Qin Shihuangdi","Qin"]},
+{"id":"ncal-varsity:1185","difficulty":"medium"},
+{"id":"ncal-varsity:1194","difficulty":"medium"},
+{"id":"ncal-varsity:1198","setText":"Which American conductor of the New York Philharmonic composed \"West Side Story\"?","difficulty":"medium"},
+{"id":"ncal-varsity:1200","difficulty":"medium"},
+{"id":"ncal-varsity:1205","difficulty":"medium"}
+]

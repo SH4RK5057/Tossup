@@ -1,0 +1,60 @@
+ncal-jv:1550 | BONUS m | Art History | Answer these questions about color theory.
+    ncal-jv:1550.0 | e | Which secondary color is made by mixing red and blue? => purple ; violet
+    ncal-jv:1550.1 | m | What term describes colors that sit opposite each other on the color wheel? => complementary colors ; complementary
+    ncal-jv:1550.2 | h | What word describes the lightness or darkness of a color? => value
+ncal-jv:1551 | BONUS m | Art History | Answer these questions about Cubism and its followers.
+    ncal-jv:1551.0 | e | A critic reportedly mocked Braque's paintings as being made of little what, six-faced solids? => cubes ; cube
+    ncal-jv:1551.1 | m | What term from the French for "to glue" names artworks made by pasting materials onto a surface? => collage
+    ncal-jv:1551.2 | h | Which Spanish painter, a Cubist, created "Portrait of Picasso" in 1912? => Juan Gris ; Gris
+ncal-jv:1552 | BONUS m | Art History | Answer these questions about Art Nouveau.
+    ncal-jv:1552.0 | e | Alphonse Mucha, known for decorative posters, came from which present-day country whose capital is Prague? => Czech Republic ; Czechia
+    ncal-jv:1552.1 | m | Louis Comfort Tiffany was famous for lamps and windows made from what material? => stained glass ; colored glass ; glass
+    ncal-jv:1552.2 | h | Which Spanish architect of Barcelona designed the Park Güell in an Art Nouveau-related style? => Antoni Gaudí ; Gaudí ; Gaudi ; Antoni Gaudi
+ncal-jv:1553 | BONUS m | Art History | Answer these questions about Japanese woodblock prints.
+    ncal-jv:1553.0 | e | Ukiyo-e prints come from which country? => Japan
+    ncal-jv:1553.1 | m | Which artist made "Fifty-three Stations of the Tōkaidō"? => Hiroshige ; Utagawa Hiroshige ; Ando Hiroshige
+    ncal-jv:1553.2 | h | What term names the European craze for Japanese art in the late nineteenth century? => Japonisme
+ncal-jv:1554 | BONUS m | Art History | Answer these questions about American art.
+    ncal-jv:1554.0 | e | Which American illustrator created "Freedom from Want" and the other Four Freedoms paintings? => Norman Rockwell ; Rockwell
+    ncal-jv:1554.1 | m | Which Hudson River School painter created "Niagara" and "The Heart of the Andes"? => Frederic Church ; Church ; Frederic Edwin Church
+    ncal-jv:1554.2 | h | Which American artist, famed for Western scenes and bronzes such as "The Bronco Buster," created "A Dash for the Timber"? => Frederic Remington ; Remington
+ncal-jv:1555 | BONUS m | Art History | Answer these questions about Neoclassicism.
+    ncal-jv:1555.0 | e | Jacques-Louis David's "The Death of Marat" shows which revolutionary murdered in his bathtub? => Jean-Paul Marat ; Marat
+    ncal-jv:1555.1 | m | David became the official painter of which French emperor? => Napoleon Bonaparte ; Napoleon ; Napoleon I
+    ncal-jv:1555.2 | h | Which pupil of David painted "La Grande Odalisque"? => Jean-Auguste-Dominique Ingres ; Ingres ; Jean Auguste Dominique Ingres
+ncal-jv:1556 | BONUS m | Art History | Answer these questions about Roman art.
+    ncal-jv:1556.0 | e | Which volcano buried Pompeii in 79 AD? => Mount Vesuvius ; Vesuvius
+    ncal-jv:1556.1 | m | What art form made from tiny colored stones or tiles covered many Roman floors? => mosaic ; mosaics
+    ncal-jv:1556.2 | h | Trajan's Column in Rome records the emperor's wars against which people? => Dacians ; the Dacians ; Dacia
+ncal-jv:1557 | BONUS m | Art History | Answer these questions about American photography.
+    ncal-jv:1557.0 | e | Ansel Adams photographed which California national park with its Half Dome? => Yosemite ; Yosemite National Park
+    ncal-jv:1557.1 | m | Dorothea Lange's "Migrant Mother" documents which decade-long economic crisis? => Great Depression ; The Great Depression
+    ncal-jv:1557.2 | h | Which photographer and gallery owner married Georgia O'Keeffe? => Alfred Stieglitz ; Stieglitz
+ncal-jv:1558 | BONUS m | Art History | Answer these questions about abstract art.
+    ncal-jv:1558.0 | e | Which Russian-born painter created "Composition VII" and wrote about the spiritual in art? => Wassily Kandinsky ; Kandinsky ; Vasily Kandinsky
+    ncal-jv:1558.1 | m | Which Abstract Expressionist painted glowing rectangles of color, such as in the Seagram murals? => Mark Rothko ; Rothko
+    ncal-jv:1558.2 | h | Mondrian and Theo van Doesburg were leaders of which Dutch movement whose name means "The Style"? => De Stijl
+ncal-jv:1559 | BONUS m | Art History | Answer these questions about printmaking.
+    ncal-jv:1559.0 | e | Which German artist made the print "Praying Hands" and "Knight, Death and the Devil"? => Albrecht Dürer ; Dürer ; Albrecht Durer ; Durer
+    ncal-jv:1559.1 | m | What printmaking method carves a design into a block of wood, leaving raised areas to hold the ink? => woodcut ; woodblock
+    ncal-jv:1559.2 | h | Which printing process, invented by Alois Senefelder, draws on a flat stone with a greasy crayon? => lithography ; lithograph
+ncal-jv:1560 | BONUS m | Art History | Answer these questions about the Rococo style.
+    ncal-jv:1560.0 | e | Which French king built the Palace of Versailles? => Louis XIV ; Louis the Fourteenth ; Louis 14
+    ncal-jv:1560.1 | m | Which Rococo painter created "The Swing"? => Jean-Honoré Fragonard ; Fragonard ; Jean-Honore Fragonard
+    ncal-jv:1560.2 | h | Which French painter created "Pilgrimage to Cythera"? => Antoine Watteau ; Watteau
+ncal-jv:1561 | BONUS m | Art History | Answer these questions about the Harlem Renaissance.
+    ncal-jv:1561.0 | e | Jacob Lawrence's "Migration Series" portrays which movement of African Americans from the South to the North? => Great Migration ; The Great Migration
+    ncal-jv:1561.1 | m | Which sculptor created "The Harp," inspired by "Lift Every Voice and Sing"? => Augusta Savage ; Savage
+    ncal-jv:1561.2 | h | Which painter of murals such as "Aspects of Negro Life" is called the father of African American art? => Aaron Douglas ; Douglas
+ncal-jv:1562 | BONUS m | Art History | Answer these questions about ancient Greek pottery.
+    ncal-jv:1562.0 | e | Black-figure and red-figure are techniques for decorating what objects? => vases ; pottery ; Greek vases
+    ncal-jv:1562.1 | m | What name is given to a tall two-handled jar used to store wine or oil? => amphora
+    ncal-jv:1562.2 | h | What name is given to the wide bowl used to mix wine with water? => krater ; calyx krater ; kratēr
+ncal-jv:1563 | BONUS m | Art History | Answer these questions about Pieter Bruegel the Elder.
+    ncal-jv:1563.0 | e | In "Hunters in the Snow," which season is shown? => winter
+    ncal-jv:1563.1 | m | Which painting by Bruegel shows an enormous unfinished tower under construction? => The Tower of Babel ; Tower of Babel
+    ncal-jv:1563.2 | h | Bruegel is known by what nickname because he painted village life? => Peasant Bruegel ; the Peasant
+ncal-jv:1564 | BONUS m | Art History | Answer these questions about German Expressionism.
+    ncal-jv:1564.0 | e | Franz Marc often painted which animal in bright colors, as in "Blue Horse I"? => horses ; horse
+    ncal-jv:1564.1 | m | Which Dresden group of Expressionists was named for the German word for "the bridge"? => Die Brücke ; Die Brucke ; The Bridge
+    ncal-jv:1564.2 | h | Which German Expressionist painted "Street, Dresden" and "Self-Portrait as a Soldier"? => Ernst Ludwig Kirchner ; Kirchner

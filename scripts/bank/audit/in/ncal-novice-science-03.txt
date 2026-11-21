@@ -1,0 +1,172 @@
+ncal-novice:1244 | e | Earth Science | Which famous geyser in Yellowstone National Park erupts about every 90 minutes? => Old Faithful
+ncal-novice:1245 | m | Earth Science | What is the large, bowl-shaped depression left when a volcano collapses after an eruption? => caldera
+ncal-novice:1246 | e | Earth Science | Which Washington State volcano erupted violently in 1980? => Mount Saint Helens ; Saint Helens ; Mount St. Helens
+ncal-novice:1247 | e | Earth Science | Which Italian volcano buried the city of Pompeii in 79 AD? => Mount Vesuvius ; Vesuvius
+ncal-novice:1248 | e | Earth Science | What kind of rock forms when sediments are pressed and cemented together? => sedimentary rock ; sedimentary
+ncal-novice:1249 | e | Earth Science | What kind of rock is changed by heat and pressure without melting? => metamorphic rock ; metamorphic
+ncal-novice:1250 | e | Earth Science | What dark, fine-grained volcanic rock makes up most of the ocean floor? => basalt
+ncal-novice:1251 | e | Earth Science | What sedimentary rock made mostly of calcium carbonate is often formed from shells? => limestone
+ncal-novice:1252 | e | Earth Science | What metamorphic rock forms from shale and can be split into thin sheets? => slate
+ncal-novice:1253 | e | Earth Science | What term describes the continuous process by which rocks change from one type to another? => rock cycle ; the rock cycle
+ncal-novice:1254 | h | Earth Science | What light volcanic rock is full of gas bubbles and can float on water? => pumice
+ncal-novice:1255 | h | Earth Science | What black volcanic glass forms when lava cools very quickly? => obsidian
+ncal-novice:1256 | m | Earth Science | What scale ranks minerals from 1 to 10 by hardness? => Mohs scale ; the Mohs scale ; Mohs hardness scale ; Mohs
+ncal-novice:1257 | e | Earth Science | What is the color of a mineral's powder when rubbed on a tile called? => streak
+ncal-novice:1258 | e | Earth Science | What mineral, whose chemical name is sodium chloride, is common table salt? => halite
+ncal-novice:1259 | h | Earth Science | What iron-rich mineral that is attracted to magnets is named for its magnetic property? => magnetite
+ncal-novice:1260 | e | Earth Science | What is the process of breaking rocks into smaller pieces called? => weathering
+ncal-novice:1261 | e | Earth Science | What is the process of moving weathered rock and soil from one place to another called? => erosion
+ncal-novice:1262 | e | Earth Science | What triangular landform forms where a river deposits sediment as it enters the sea? => delta
+ncal-novice:1263 | e | Earth Science | Which river carved the Grand Canyon over millions of years? => the Colorado River ; Colorado River ; Colorado
+ncal-novice:1264 | e | Earth Science | What is the name for slow-moving masses of ice that carve valleys? => glaciers ; glacier
+ncal-novice:1265 | h | Earth Science | What type of weathering occurs when water freezes in cracks and expands? => frost wedging ; ice wedging ; frost action ; frost heaving
+ncal-novice:1266 | m | Earth Science | What do we call the hanging icicle-shaped formations that grow from the ceilings of caves? => stalactites ; stalactite
+ncal-novice:1267 | e | Earth Science | What process turns liquid water into water vapor? => evaporation
+ncal-novice:1268 | m | Earth Science | What is the term for water vapor released into the air by plants? => transpiration
+ncal-novice:1269 | m | Earth Science | What is the name for the warming of the Pacific Ocean's surface that affects weather worldwide every few years? => El Nino ; El Niño
+ncal-novice:1270 | h | Earth Science | About what percent of Earth's surface is covered by water: 71 or 51? => 71 ; 71 percent ; seventy-one
+ncal-novice:1271 | e | Earth Science | In which layer of the atmosphere is the ozone layer found? => stratosphere ; the stratosphere
+ncal-novice:1272 | e | Earth Science | What kind of cloud is thin, wispy, and high in the sky, made of ice crystals? => cirrus
+ncal-novice:1273 | h | Earth Science | What fast-moving ribbon of air high in the atmosphere affects weather in the middle latitudes? => jet stream ; the jet stream
+ncal-novice:1274 | h | Earth Science | What effect, caused by Earth's rotation, makes winds curve instead of traveling in straight lines? => Coriolis effect ; the Coriolis effect ; Coriolis force ; Coriolis
+ncal-novice:1275 | e | Earth Science | What is the name for a large rotating storm that forms over warm tropical ocean water? => hurricane ; tropical cyclone ; typhoon ; cyclone
+ncal-novice:1276 | e | Earth Science | What seasonal wind, common in South Asia, brings heavy summer rain? => monsoon
+ncal-novice:1277 | e | Earth Science | What is the line of 0 degrees latitude called? => the equator ; equator
+ncal-novice:1278 | e | Earth Science | What is the line of 0 degrees longitude called? => prime meridian ; the prime meridian
+ncal-novice:1279 | m | Earth Science | What English town gives its name to the prime meridian? => Greenwich
+ncal-novice:1280 | m | Earth Science | About how many years old is Earth? => 4.6 billion years ; 4.6 billion ; 4.5 billion years ; 4.5 billion ; 4.54 billion years
+ncal-novice:1281 | e | Earth Science | What era is called the "Age of Reptiles" or "Age of Dinosaurs"? => Mesozoic ; Mesozoic Era ; the Mesozoic
+ncal-novice:1282 | m | Earth Science | What is the geologic principle stating that in undisturbed rock layers the oldest is on the bottom? => law of superposition ; superposition ; the law of superposition
+ncal-novice:1283 | e | Earth Science | What event about 66 million years ago is thought to have caused the extinction of the dinosaurs? => an asteroid impact ; asteroid impact ; meteorite impact ; asteroid strike ; asteroid
+ncal-novice:1284 | e | Earth Science | What kind of fuel, formed from ancient plants, is a black sedimentary rock burned for energy? => coal
+ncal-novice:1285 | e | Earth Science | What is it called when forests are cleared on a large scale? => deforestation
+ncal-novice:1286 | e | Earth Science | What is the highest mountain above sea level on Earth? => Mount Everest ; Everest
+ncal-novice:1287 | h | Earth Science | What is the deepest known part of Earth's oceans? => Mariana Trench ; the Mariana Trench ; Challenger Deep
+ncal-novice:1288 | BONUS e | Earth Science | Answer these questions about Earth's interior.
+    ncal-novice:1288.0 | e | What is the name for the thin, outermost layer of Earth? => crust ; the crust
+    ncal-novice:1288.1 | m | What is the name of Earth's thickest layer? => mantle ; the mantle
+    ncal-novice:1288.2 | m | Which element, along with nickel, makes up most of Earth's core? => iron
+    ncal-novice:1288.3 | h | What boundary, named for a Croatian scientist, separates Earth's outer rocky shell from the thick layer beneath it? => Moho ; Mohorovicic discontinuity ; Mohorovičić discontinuity ; the Moho
+ncal-novice:1289 | BONUS e | Earth Science | Answer these questions about earthquakes.
+    ncal-novice:1289.0 | e | What term describes the shaking of the ground caused by sudden movement of rock? => earthquake
+    ncal-novice:1289.1 | m | What do we call a smaller quake that follows a main shock? => aftershock ; aftershocks
+    ncal-novice:1289.2 | m | What word describes a crack in Earth's crust along which movement occurs? => fault ; a fault
+    ncal-novice:1289.3 | h | What modern scale, replacing the Richter scale, measures the total energy released by a quake? => moment magnitude scale ; moment magnitude
+ncal-novice:1290 | BONUS m | Earth Science | Answer these questions about volcanoes.
+    ncal-novice:1290.0 | e | What opening in a volcano does lava come out of? => vent ; crater
+    ncal-novice:1290.1 | m | What name is given to a volcano that is not expected to erupt again? => extinct volcano ; extinct
+    ncal-novice:1290.2 | m | Which massive Hawaiian shield volcano, whose name means "long mountain," is one of the largest active volcanoes? => Mauna Loa
+    ncal-novice:1290.3 | h | What name is given to the cloud of hot ash and gas that rushes down a volcano's slope? => pyroclastic flow
+ncal-novice:1291 | BONUS m | Earth Science | Answer these questions about rocks.
+    ncal-novice:1291.0 | e | What kind of rock is formed from cooled magma? => igneous rock ; igneous
+    ncal-novice:1291.1 | m | What sedimentary rock is made of cemented sand grains? => sandstone
+    ncal-novice:1291.2 | m | What metamorphic rock, with banded layers, forms from granite? => gneiss
+    ncal-novice:1291.3 | h | What word describes magma that cools slowly underground, forming large crystals? => intrusive ; intrusive igneous rock ; plutonic
+ncal-novice:1292 | BONUS e | Earth Science | Answer these questions about minerals.
+    ncal-novice:1292.0 | e | What mineral, with the formula SiO2, is the second most common mineral in Earth's crust? => quartz
+    ncal-novice:1292.1 | m | What shiny yellow mineral is known as fool's gold? => pyrite
+    ncal-novice:1292.2 | m | What mineral is the main ore of iron and gives rocks a red color? => hematite
+    ncal-novice:1292.3 | h | What term describes the way a mineral breaks along smooth, flat surfaces? => cleavage
+ncal-novice:1293 | BONUS m | Earth Science | Answer these questions about weathering and erosion.
+    ncal-novice:1293.0 | e | What natural force can carve valleys by moving rock along the ground as a slow river of ice? => glacier ; glaciers
+    ncal-novice:1293.1 | m | What type of weathering involves a change in the chemical makeup of rock, such as rusting? => chemical weathering ; chemical
+    ncal-novice:1293.2 | m | What fine-grained sedimentary rock forms from compressed mud and clay? => shale
+    ncal-novice:1293.3 | h | What term describes dissolving of limestone to make caves and sinkholes? => karst ; karst topography ; dissolution
+ncal-novice:1294 | BONUS e | Earth Science | Answer these questions about how water moves around Earth.
+    ncal-novice:1294.0 | e | What name is given to the continuous movement of water among the oceans, air, and land? => water cycle ; the water cycle
+    ncal-novice:1294.1 | m | What process forms clouds from rising water vapor? => condensation
+    ncal-novice:1294.2 | m | What term describes water that soaks into the ground? => infiltration ; groundwater ; percolation
+    ncal-novice:1294.3 | h | What term describes the water that flows over the land into streams and rivers? => runoff ; surface runoff
+ncal-novice:1295 | BONUS m | Earth Science | Answer these questions about the oceans.
+    ncal-novice:1295.0 | e | What word describes the saltiness of ocean water? => salinity
+    ncal-novice:1295.1 | m | What is the most abundant salt dissolved in seawater? => sodium chloride ; salt ; table salt
+    ncal-novice:1295.2 | m | What name is given to the rising and falling of sea level, which occurs about twice a day? => tide ; tides
+    ncal-novice:1295.3 | h | What current-driven process brings cold, nutrient-rich water up from the depths along a coast? => upwelling
+ncal-novice:1296 | BONUS e | Earth Science | Answer these questions about the atmosphere.
+    ncal-novice:1296.0 | e | Which layer of the atmosphere is closest to Earth's surface? => troposphere
+    ncal-novice:1296.1 | m | Which layer of the atmosphere lies above the stratosphere and is where most meteors burn up? => mesosphere
+    ncal-novice:1296.2 | m | Which layer of the atmosphere includes the aurora and the International Space Station? => thermosphere
+    ncal-novice:1296.3 | h | What type of radiation does the ozone layer absorb? => ultraviolet radiation ; ultraviolet ; UV ; ultraviolet light
+ncal-novice:1297 | BONUS m | Earth Science | Answer these questions about weather.
+    ncal-novice:1297.0 | e | What kind of storm produces thunder and lightning? => thunderstorm
+    ncal-novice:1297.1 | m | What instrument is used to measure air temperature? => thermometer
+    ncal-novice:1297.2 | m | What is the term for the amount of water vapor in the air? => humidity
+    ncal-novice:1297.3 | h | What type of front forms when warm air rises over cold air, often bringing steady light rain? => warm front
+ncal-novice:1298 | BONUS m | Earth Science | Answer these questions about severe weather.
+    ncal-novice:1298.0 | e | What severe storm is measured on the Saffir-Simpson scale? => hurricane ; hurricanes
+    ncal-novice:1298.1 | m | What scale, named for a University of Chicago meteorologist, rates tornado damage? => Fujita scale ; Enhanced Fujita scale ; the Fujita scale ; Fujita
+    ncal-novice:1298.2 | m | What is the name of the calm area at the center of this kind of storm? => eye ; the eye
+    ncal-novice:1298.3 | h | What is the term for a dangerous rise in sea level pushed onshore by such a storm? => storm surge
+ncal-novice:1299 | BONUS e | Earth Science | Answer these questions about maps.
+    ncal-novice:1299.0 | e | What imaginary lines measure distance north or south of the equator? => latitude ; lines of latitude ; parallels
+    ncal-novice:1299.1 | m | What imaginary lines measure distance east or west of the prime meridian? => longitude ; lines of longitude ; meridians
+    ncal-novice:1299.2 | m | What type of map uses lines to show the shape of the land? => topographic map ; topographic
+    ncal-novice:1299.3 | h | What part of a map lets you convert a measured distance to real distance? => scale ; map scale
+ncal-novice:1300 | BONUS m | Earth Science | Answer these questions about geologic time.
+    ncal-novice:1300.0 | e | What type of remains in rock are the preserved traces of ancient life? => fossils ; fossil
+    ncal-novice:1300.1 | m | Which era came before the Mesozoic and began with the Cambrian explosion? => Paleozoic ; Paleozoic Era
+    ncal-novice:1300.2 | m | What technique uses the decay of carbon-14 to find the age of once-living things? => radiocarbon dating ; carbon dating ; carbon-14 dating
+    ncal-novice:1300.3 | h | What is the longest span of geologic time, covering about 88 percent of Earth's history? => Precambrian ; Precambrian time
+ncal-novice:1301 | BONUS e | Earth Science | Answer these questions about natural resources.
+    ncal-novice:1301.0 | e | What kind of resource, such as sunlight or wind, cannot be used up? => renewable resource ; renewable
+    ncal-novice:1301.1 | m | What fossil fuel, a liquid found underground, is refined into gasoline? => petroleum ; crude oil ; oil
+    ncal-novice:1301.2 | m | What gas, mostly methane, is used for home heating and cooking? => natural gas
+    ncal-novice:1301.3 | h | What term describes the practice of protecting resources from waste? => conservation
+ncal-novice:1302 | BONUS m | Earth Science | Answer these questions about moving continents and ocean floors.
+    ncal-novice:1302.0 | e | What name is given to the theory that Earth's surface is broken into moving slabs of lithosphere? => plate tectonics ; the theory of plate tectonics
+    ncal-novice:1302.1 | m | What boundary type forms new crust at the mid-ocean ridge? => divergent ; divergent boundary
+    ncal-novice:1302.2 | m | What deep, narrow ocean valley forms where one plate subducts under another? => trench ; ocean trench ; deep-sea trench
+    ncal-novice:1302.3 | h | What is the heat-driven circular motion in the mantle that moves plates? => convection currents ; convection ; mantle convection
+ncal-novice:1303 | BONUS e | Earth Science | Answer these questions about soil.
+    ncal-novice:1303.0 | e | What dark organic matter in soil comes from decayed plants and animals? => humus
+    ncal-novice:1303.1 | m | What is the name for the top layer of soil, rich in organic matter? => topsoil
+    ncal-novice:1303.2 | m | Which soil particle type, finer than silt, feels sticky when wet? => clay
+    ncal-novice:1303.3 | h | What are the distinct layers of soil called? => horizons ; soil horizons
+ncal-novice:1304 | BONUS m | Earth Science | Answer these questions about long-term weather patterns.
+    ncal-novice:1304.0 | e | What is the name for the long-term pattern of weather in an area? => climate
+    ncal-novice:1304.1 | m | What gas in the atmosphere traps heat and warms Earth? => carbon dioxide ; greenhouse gas ; greenhouse gases
+    ncal-novice:1304.2 | m | Which zone lies between the Tropic of Cancer and the Tropic of Capricorn? => tropics ; the tropics ; tropical zone
+    ncal-novice:1304.3 | h | What ice-covered continent is the driest on Earth? => Antarctica
+ncal-novice:1305 | BONUS e | Earth Science | Answer these questions about glaciers and ice.
+    ncal-novice:1305.0 | e | What do we call a huge sheet of ice covering land for many years? => glacier ; ice sheet
+    ncal-novice:1305.1 | m | What time period saw glaciers cover large parts of North America, ending about 11,700 years ago? => ice age ; the Ice Age ; Pleistocene
+    ncal-novice:1305.2 | m | What is the term for a large chunk of ice breaking off into the sea? => calving ; iceberg
+    ncal-novice:1305.3 | h | What name is given to the sheet of ice that covers most of Greenland? => Greenland ice sheet ; ice sheet
+ncal-novice:1306 | e | Physical Science | What is the term for the smallest unit of an element that keeps the properties of that element? => atom
+ncal-novice:1307 | e | Physical Science | What particle in the nucleus of an atom has a positive charge? => proton
+ncal-novice:1308 | e | Physical Science | What particle in the nucleus of an atom has no charge? => neutron
+ncal-novice:1309 | e | Physical Science | What negatively charged particle moves around the nucleus of an atom? => electron
+ncal-novice:1310 | m | Physical Science | What do we call the number of protons in an atom's nucleus? => atomic number
+ncal-novice:1311 | h | Physical Science | What term describes atoms of the same element with different numbers of neutrons? => isotopes ; isotope
+ncal-novice:1312 | e | Physical Science | What is a substance made of only one kind of atom? => element ; an element
+ncal-novice:1313 | e | Physical Science | What is a substance made of two or more different elements chemically combined? => compound ; a compound
+ncal-novice:1314 | e | Physical Science | What is a combination of substances that are not chemically bonded, such as salad or trail mix? => mixture ; a mixture
+ncal-novice:1315 | m | Physical Science | What type of mixture is evenly mixed throughout, such as salt dissolved in water? => solution ; homogeneous mixture ; a solution ; homogeneous
+ncal-novice:1316 | m | Physical Science | In a solution, what is the substance that does the dissolving called? => solvent
+ncal-novice:1317 | m | Physical Science | In a solution, what is the substance that is dissolved called? => solute
+ncal-novice:1318 | e | Physical Science | What is the chemical symbol for the element gold? => Au
+ncal-novice:1319 | e | Physical Science | What is the chemical symbol for the element iron? => Fe
+ncal-novice:1320 | m | Physical Science | What is the chemical symbol for the element silver? => Ag
+ncal-novice:1321 | m | Physical Science | What is the chemical symbol for the element lead? => Pb
+ncal-novice:1322 | m | Physical Science | What is the chemical symbol for the element potassium? => K
+ncal-novice:1323 | m | Physical Science | What gas do plants take in from the air to make food? => carbon dioxide
+ncal-novice:1324 | m | Physical Science | Which Russian chemist created the first widely recognized periodic table in 1869? => Dmitri Mendeleev ; Mendeleev
+ncal-novice:1325 | m | Physical Science | What group of unreactive gases, including helium, neon, and argon, are found in the last column of the periodic table? => noble gases ; inert gases
+ncal-novice:1326 | m | Physical Science | What name is given to the highly reactive metals in the first column of the periodic table, such as sodium and potassium? => alkali metals
+ncal-novice:1327 | m | Physical Science | What group of reactive nonmetals, including fluorine and chlorine, is in the next-to-last column of the periodic table? => halogens
+ncal-novice:1328 | m | Physical Science | What is the process by which a solid changes directly into a gas without becoming a liquid? => sublimation
+ncal-novice:1329 | e | Physical Science | At what temperature, in degrees Celsius, does water freeze at standard pressure? => zero ; 0 ; 0 degrees
+ncal-novice:1330 | e | Physical Science | At what temperature, in degrees Celsius, does water boil at sea level? => 100 ; one hundred ; 100 degrees
+ncal-novice:1331 | m | Physical Science | What is the fourth state of matter, found in lightning and stars, made of charged particles? => plasma
+ncal-novice:1332 | e | Physical Science | What state of matter has a definite volume but no definite shape? => liquid
+ncal-novice:1333 | m | Physical Science | What term describes a change that alters the form of a substance but not its identity, such as tearing paper? => physical change
+ncal-novice:1334 | m | Physical Science | What term describes a change that produces a new substance, such as burning wood? => chemical change
+ncal-novice:1335 | m | Physical Science | What is the name for the rusting of iron, a reaction with oxygen? => oxidation
+ncal-novice:1336 | h | Physical Science | What law states that matter is neither created nor destroyed in a chemical reaction? => law of conservation of mass ; conservation of mass ; the law of conservation of mass
+ncal-novice:1337 | h | Physical Science | What type of substance speeds up a chemical reaction without being used up? => catalyst
+ncal-novice:1338 | m | Physical Science | What is the pH of a neutral solution such as pure water? => seven ; 7
+ncal-novice:1339 | m | Physical Science | What type of substance turns blue litmus paper red? => acid ; an acid
+ncal-novice:1340 | m | Physical Science | What quantity is found by dividing an object's mass by its volume? => density
+ncal-novice:1341 | e | Physical Science | What is the term for a push or a pull? => force
+ncal-novice:1342 | e | Physical Science | What is the force that opposes the motion of two surfaces sliding against each other? => friction
+ncal-novice:1343 | m | Physical Science | Which scientist formulated three laws of motion and the law of universal gravitation? => Isaac Newton ; Newton

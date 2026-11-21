@@ -1,0 +1,193 @@
+ncal-varsity:364 | h | U.S. Government | What is the name for the type of federal funding to states that comes with few restrictions, as opposed to categorical grants? => block grants ; block grant
+ncal-varsity:365 | h | U.S. Government | What name is given to federal requirements on state governments that are not accompanied by funding? => unfunded mandates ; unfunded mandate
+ncal-varsity:366 | BONUS e | U.S. Government | Answer these questions about the legislative branch.
+    ncal-varsity:366.0 | e | What is the title of the leader of the House of Representatives? => Speaker of the House ; Speaker
+    ncal-varsity:366.1 | m | What is the name of the Senate officer who presides when the vice president is absent, a title meaning "for the time"? => president pro tempore ; president pro tem
+    ncal-varsity:366.2 | m | What name is given to a Senate or House group that studies bills in a particular policy area? => standing committee ; committee
+    ncal-varsity:366.3 | h | What term names the House committee that sets the rules for debate on bills? => Rules Committee ; House Rules Committee
+ncal-varsity:367 | BONUS m | U.S. Government | Answer these questions about presidential powers.
+    ncal-varsity:367.0 | e | What is the term for a president's formal yearly address to Congress? => State of the Union ; State of the Union address
+    ncal-varsity:367.1 | m | Which article of the Constitution establishes the executive branch? => Article II ; Article Two ; Two ; 2
+    ncal-varsity:367.2 | m | What term describes the president's power to name federal judges, ambassadors, and cabinet members, with the Senate's consent? => appointment power ; appointments ; appoint
+    ncal-varsity:367.3 | h | What 1973 law requires a president to notify Congress within forty-eight hours of sending troops into hostilities? => War Powers Resolution ; War Powers Act
+ncal-varsity:368 | BONUS e | U.S. Government | Answer these questions about the Constitutional Convention.
+    ncal-varsity:368.0 | e | In which city was the Constitutional Convention held in 1787? => Philadelphia
+    ncal-varsity:368.1 | m | Which Virginian is called the "Father of the Constitution"? => James Madison ; Madison
+    ncal-varsity:368.2 | m | Which plan proposed at the Convention called for a legislature based on population in both houses? => Virginia Plan
+    ncal-varsity:368.3 | h | Which plan, offered by William Paterson, called for equal representation of states in a one-house legislature? => New Jersey Plan
+ncal-varsity:369 | BONUS m | U.S. Government | Answer these questions about the Bill of Rights.
+    ncal-varsity:369.0 | e | Which amendment protects the right to a trial by jury in civil cases? => Seventh Amendment ; Seventh ; 7th Amendment
+    ncal-varsity:369.1 | m | Which amendment prohibits the government from forcing citizens to house soldiers in peacetime? => Third Amendment ; Third ; 3rd Amendment
+    ncal-varsity:369.2 | m | Which amendment says that listing certain rights in the Constitution does not deny others retained by the people? => Ninth Amendment ; Ninth ; 9th Amendment
+ncal-varsity:370 | BONUS h | U.S. Government | Answer these questions about the Constitution's amendments.
+    ncal-varsity:370.0 | e | Which amendment says the right to vote cannot be denied because of race, color, or previous condition of servitude? => Fifteenth Amendment ; Fifteenth ; 15th Amendment
+    ncal-varsity:370.1 | m | Which amendment made the District of Columbia eligible for presidential electors? => Twenty-third Amendment ; Twenty-third ; 23rd Amendment
+    ncal-varsity:370.2 | h | Which amendment delays any pay raise for members of Congress until after the next election? => Twenty-seventh Amendment ; Twenty-seventh ; 27th Amendment
+ncal-varsity:371 | BONUS m | U.S. Government | Answer these questions about federalism.
+    ncal-varsity:371.0 | e | What name is given to powers held only by the national government, such as coining money? => delegated powers ; enumerated powers ; expressed powers ; delegated ; exclusive powers
+    ncal-varsity:371.1 | m | What name is given to powers shared by national and state governments, such as taxation? => concurrent powers ; concurrent
+    ncal-varsity:371.2 | m | What name is given to powers that states hold, such as running schools and issuing licenses, which come from the Tenth Amendment? => reserved powers ; reserved
+    ncal-varsity:371.3 | h | What clause in Article IV requires states to recognize legal documents and court decisions from other states? => Full Faith and Credit Clause ; full faith and credit
+ncal-varsity:372 | BONUS e | U.S. Government | Answer these questions about political participation.
+    ncal-varsity:372.0 | e | What is the term for the right to vote? => suffrage ; franchise
+    ncal-varsity:372.1 | m | What is the name for a group formed by corporations, unions, or others to raise money to support candidates? => political action committee ; PAC
+    ncal-varsity:372.2 | m | What is the name for a group that tries to influence government decisions on behalf of a cause? => interest group ; lobby ; lobbyist ; pressure group
+    ncal-varsity:372.3 | h | What term describes a state in which the presidential vote is closely divided between the parties, often drawing campaign attention? => swing state ; battleground state
+ncal-varsity:373 | BONUS m | U.S. Government | Answer these questions about the federal bureaucracy.
+    ncal-varsity:373.0 | e | Which executive department is headed by the Secretary of State? => Department of State ; State Department ; State
+    ncal-varsity:373.1 | m | Which independent federal agency, created in 1970, sets and enforces pollution standards? => Environmental Protection Agency ; EPA
+    ncal-varsity:373.2 | m | What 1883 law created a merit system for hiring federal employees? => Pendleton Act ; Pendleton Civil Service Reform Act ; Pendleton Act of 1883
+    ncal-varsity:373.3 | h | Which agency, created in 1934 after the stock market crash, regulates the stock markets? => Securities and Exchange Commission ; SEC
+ncal-varsity:374 | BONUS e | U.S. Government | Answer these questions about the Supreme Court.
+    ncal-varsity:374.0 | e | What title is held by the presiding member of the Supreme Court? => Chief Justice ; chief justice
+    ncal-varsity:374.1 | m | How long may federal judges serve, according to Article III? => during good behavior ; for life ; life
+    ncal-varsity:374.2 | m | What is the term for a decision of the Supreme Court that is written to explain the views of the majority? => majority opinion ; opinion of the Court
+    ncal-varsity:374.3 | h | Which president tried in 1937 to increase the number of justices on the Supreme Court, in a plan critics called "court packing"? => Franklin D. Roosevelt ; Roosevelt ; Franklin Roosevelt ; n=Roosevelt
+ncal-varsity:375 | BONUS m | U.S. Government | Answer these questions about civil rights law.
+    ncal-varsity:375.0 | e | Which 1964 law, signed by Lyndon Johnson, banned discrimination in public places and employment? => Civil Rights Act of 1964 ; Civil Rights Act
+    ncal-varsity:375.1 | m | Which 1965 law outlawed practices such as literacy tests that kept Black citizens from voting? => Voting Rights Act of 1965 ; Voting Rights Act
+    ncal-varsity:375.2 | m | Which Alabama city was the site of the 1965 voting rights marches that led to that law? => Selma
+    ncal-varsity:375.3 | h | Which 1990 law prohibits discrimination against people with disabilities? => Americans with Disabilities Act ; ADA
+ncal-varsity:376 | BONUS e | U.S. Government | Answer these questions about Congress's powers.
+    ncal-varsity:376.0 | e | Which body of Congress has the sole power to start bills that raise revenue? => House of Representatives ; House
+    ncal-varsity:376.1 | m | Which body of Congress holds the trial for an impeached official? => Senate ; the Senate
+    ncal-varsity:376.2 | m | Which clause of Article I, Section 8 gives Congress power to regulate trade between the states? => Commerce Clause ; commerce clause
+    ncal-varsity:376.3 | h | Which congressional power, called the power of the "purse," lets Congress decide how federal money is spent? => appropriations ; spending power
+ncal-varsity:377 | BONUS m | U.S. Government | Answer these questions about the Founding era.
+    ncal-varsity:377.0 | e | Which general presided over the Constitutional Convention? => George Washington ; Washington
+    ncal-varsity:377.1 | m | Which 1786 uprising of Massachusetts farmers showed the weakness of the Articles of Confederation? => Shays' Rebellion ; Shays Rebellion
+    ncal-varsity:377.2 | m | Which 1787 law set up a process for creating new states north of the Ohio River? => Northwest Ordinance
+    ncal-varsity:377.3 | h | Which of the Founders wrote Federalist essays under the pen name "Publius" and also served as the first Secretary of the Treasury? => Alexander Hamilton ; Hamilton
+ncal-varsity:378 | BONUS e | U.S. Government | Answer these questions about political parties.
+    ncal-varsity:378.0 | e | What term describes a system dominated by two major parties? => two-party system
+    ncal-varsity:378.1 | m | What name is given to the document that sets out a party's positions on issues, adopted at its national convention? => platform ; party platform
+    ncal-varsity:378.2 | m | What is the name for a third-party candidate who takes votes from a major-party candidate? => spoiler
+    ncal-varsity:378.3 | h | Which 1796 farewell address by the first president warned against political parties? => Washington's Farewell Address ; Farewell Address
+ncal-varsity:379 | BONUS m | U.S. Government | Answer these questions about the budget and taxes.
+    ncal-varsity:379.0 | e | Which executive office helps the president prepare the federal budget? => Office of Management and Budget ; OMB
+    ncal-varsity:379.1 | m | What is the term for the total money the government owes from accumulated deficits? => national debt ; public debt ; federal debt
+    ncal-varsity:379.2 | m | What term describes government spending that is required by law, such as benefits for retirees, rather than set annually? => mandatory spending ; entitlements ; entitlement spending
+    ncal-varsity:379.3 | h | What name is given to the federal retirement insurance program for workers, created by an act of 1935? => Social Security
+ncal-varsity:380 | BONUS e | U.S. Government | Answer these questions about the executive mansion and the vice presidency.
+    ncal-varsity:380.0 | e | What is the name of the official home of the president in Washington? => White House ; The White House
+    ncal-varsity:380.1 | m | Who becomes president if the president dies, resigns, or is removed? => vice president ; Vice President
+    ncal-varsity:380.2 | h | Which second president was the first to occupy the official presidential residence, in 1800? => John Adams ; Adams
+ncal-varsity:381 | BONUS m | U.S. Government | Answer these questions about freedom of religion and speech.
+    ncal-varsity:381.0 | e | Which clause of the First Amendment bars government from creating an official religion? => Establishment Clause ; establishment clause
+    ncal-varsity:381.1 | m | Which clause of the First Amendment protects the practice of religion? => Free Exercise Clause ; free exercise clause
+    ncal-varsity:381.2 | m | What term describes a speech that is not protected, because it incites imminent illegal action? => incitement
+    ncal-varsity:381.3 | h | Which Supreme Court case of 1919 gave the "clear and present danger" test? => Schenck versus United States ; Schenck
+ncal-varsity:382 | BONUS e | U.S. Government | Answer these questions about state and local government.
+    ncal-varsity:382.0 | e | What is the title of the chief executive of a state? => governor
+    ncal-varsity:382.1 | m | What is the name for the unit of local government that is a subdivision of a state, headed by commissioners or supervisors? => county
+    ncal-varsity:382.2 | m | What is the term for a process that lets voters propose a law by petition and vote on it directly? => initiative ; ballot initiative
+    ncal-varsity:382.3 | h | What is the term for a vote that lets citizens remove an elected official before the term ends? => recall ; recall election
+ncal-varsity:383 | BONUS m | U.S. Government | Answer these questions about the Declaration and Revolution.
+    ncal-varsity:383.0 | e | Which Founding Father was the main author of the Declaration of Independence? => Thomas Jefferson ; Jefferson
+    ncal-varsity:383.1 | m | Which English philosopher's idea of natural rights to life, liberty, and property influenced Jefferson? => John Locke ; Locke
+    ncal-varsity:383.2 | m | Which French thinker's idea of separating government powers influenced the Constitution? => Montesquieu ; Baron de Montesquieu
+    ncal-varsity:383.3 | h | Which 1215 English document limited the king's power and influenced American ideas of limited government? => Magna Carta
+ncal-varsity:384 | BONUS e | U.S. Government | Answer these questions about qualifications for office.
+    ncal-varsity:384.0 | e | What word names the status of being a legal member of a country, with rights and duties? => citizenship
+    ncal-varsity:384.1 | m | What is the minimum age to serve as a senator? => thirty ; 30
+    ncal-varsity:384.2 | m | What is the minimum age to serve in the House? => twenty-five ; 25
+    ncal-varsity:384.3 | h | How many years must a person be a citizen to be a senator? => nine ; 9
+ncal-varsity:385 | BONUS m | U.S. Government | Answer these questions about the economy and government.
+    ncal-varsity:385.0 | e | Which government program of the 1930s, led by Franklin Roosevelt, tried to end the Great Depression? => New Deal ; the New Deal
+    ncal-varsity:385.1 | m | Which independent agency controls the supply of money and sets interest rates in the United States? => Federal Reserve ; the Federal Reserve ; Fed
+    ncal-varsity:385.2 | m | Which 1890 law was the first to ban monopolies and trusts? => Sherman Antitrust Act ; Sherman Act
+    ncal-varsity:385.3 | h | Which agency, created in 1914, polices unfair business practices and false advertising? => Federal Trade Commission ; FTC
+ncal-varsity:386 | BONUS h | U.S. Government | Answer these questions about constitutional crises and conflicts.
+    ncal-varsity:386.0 | e | Which president was the first to be impeached by the House of Representatives? => Andrew Johnson ; Johnson
+    ncal-varsity:386.1 | m | Which scandal of the 1970s, which began with a break-in at Democratic Party offices, led a president to resign? => Watergate ; Watergate scandal
+    ncal-varsity:386.2 | m | Which 1974 Supreme Court case required President Nixon to turn over tape recordings? => United States versus Nixon
+    ncal-varsity:386.3 | h | Which law passed after the Civil War over a veto, banning presidents from removing officials without Senate approval, led to Johnson's impeachment? => Tenure of Office Act
+ncal-varsity:387 | BONUS e | U.S. Government | Answer these questions about how Congress passes laws.
+    ncal-varsity:387.0 | e | What is the name for a proposed law that is being considered by Congress? => bill
+    ncal-varsity:387.1 | m | What is the name for the formal vote in which members record their yes or no on a measure? => roll call vote ; roll call
+    ncal-varsity:387.2 | m | What is the name for an unrelated provision attached to another measure? => rider
+    ncal-varsity:387.3 | h | What term describes a system of favors in which legislators trade votes for each other's projects? => logrolling
+ncal-varsity:388 | BONUS m | U.S. Government | Answer these questions about the rights of the accused.
+    ncal-varsity:388.0 | e | What is the term for a defendant's formal answer to a charge, such as guilty or not guilty? => plea
+    ncal-varsity:388.1 | m | What name is given to the formal charge of a crime made by a grand jury? => indictment
+    ncal-varsity:388.2 | m | What is the term for money paid to a court to ensure a defendant returns for trial? => bail
+    ncal-varsity:388.3 | h | What is the name for the rule that evidence obtained illegally cannot be used at trial? => exclusionary rule
+ncal-varsity:389 | BONUS e | U.S. Government | Answer these questions about the history of the presidency.
+    ncal-varsity:389.0 | e | Which president, nicknamed "Old Hickory," fought against the Second Bank of the United States? => Andrew Jackson ; Jackson
+    ncal-varsity:389.1 | m | Which president signed the proclamation that freed slaves in Confederate-held territory in 1863? => Abraham Lincoln ; Lincoln
+    ncal-varsity:389.2 | m | Which president made the Louisiana Purchase? => Thomas Jefferson ; Jefferson
+    ncal-varsity:389.3 | h | Which president is the only one to have resigned from the office? => Richard Nixon ; Nixon
+ncal-varsity:390 | e | World Governments | What type of government is ruled by a king or queen whose power is passed down through a family? => monarchy
+ncal-varsity:391 | e | World Governments | What type of government has a single leader with complete power, with no limits? => dictatorship ; autocracy
+ncal-varsity:392 | e | World Governments | What type of government is ruled by the people, either directly or through elected representatives? => democracy
+ncal-varsity:393 | e | World Governments | What term describes a monarchy in which the king or queen's power is limited by a constitution? => constitutional monarchy
+ncal-varsity:394 | e | World Governments | What term describes a government in which the monarch has absolute power? => absolute monarchy
+ncal-varsity:395 | e | World Governments | What term describes a government in which the people elect representatives to make decisions for them? => representative democracy ; republic
+ncal-varsity:396 | e | World Governments | In a parliamentary system, what is the title of the head of government, usually the leader of the majority party? => prime minister
+ncal-varsity:397 | e | World Governments | What is the name of the British legislature? => Parliament ; British Parliament
+ncal-varsity:398 | e | World Governments | What is the name of the lower house of the British Parliament, whose members are elected? => House of Commons ; Commons
+ncal-varsity:399 | e | World Governments | What is the name of the unelected upper house of the British Parliament? => House of Lords ; Lords
+ncal-varsity:400 | e | World Governments | Which international organization, headquartered in New York City, was founded in 1945 to promote peace? => United Nations ; the United Nations ; UN
+ncal-varsity:401 | e | World Governments | How many permanent members does the United Nations Security Council have? => five ; 5
+ncal-varsity:402 | e | World Governments | What is the name of the organization of European countries that share a common market and, for many, a common currency? => European Union ; the European Union ; EU
+ncal-varsity:403 | e | World Governments | What is the common currency used by many European Union countries? => euro ; the euro
+ncal-varsity:404 | e | World Governments | What is the name of the military alliance of North American and European countries formed in 1949? => North Atlantic Treaty Organization ; NATO
+ncal-varsity:405 | e | World Governments | What is the capital city of France? => Paris
+ncal-varsity:406 | e | World Governments | What is the capital of Canada, home of its Parliament? => Ottawa
+ncal-varsity:407 | e | World Governments | What is the title of the Japanese head of state, a mostly ceremonial monarch? => emperor ; the emperor
+ncal-varsity:408 | e | World Governments | What is the name of the lower house of the German parliament? => Bundestag
+ncal-varsity:409 | e | World Governments | What is the name of the Israeli parliament? => Knesset
+ncal-varsity:410 | e | World Governments | What name is given to a system where one party controls the government and no others are allowed? => one-party state ; single-party state ; one-party system
+ncal-varsity:411 | e | World Governments | What term describes a government run by a small group of powerful people? => oligarchy
+ncal-varsity:412 | e | World Governments | What is the term for a country's basic law that sets up its government? => constitution
+ncal-varsity:413 | e | World Governments | What term describes a form of government where power is divided between a national and regional governments? => federal system ; federalism ; federation
+ncal-varsity:414 | e | World Governments | What is the term for a government in which all power is held by a central government? => unitary state ; unitary system ; unitary government
+ncal-varsity:415 | m | World Governments | Which document of 1215 forced King John of England to accept limits on his power? => Magna Carta
+ncal-varsity:416 | m | World Governments | Which English philosopher wrote Leviathan, arguing for a strong sovereign? => Thomas Hobbes ; Hobbes
+ncal-varsity:417 | m | World Governments | Which French philosopher wrote The Social Contract? => Jean-Jacques Rousseau ; Rousseau
+ncal-varsity:418 | m | World Governments | Which English document of 1689 limited the monarch and affirmed Parliament's rights after the Glorious Revolution? => English Bill of Rights ; Bill of Rights
+ncal-varsity:419 | m | World Governments | Which French document of 1789 proclaimed natural rights during the Revolution? => Declaration of the Rights of Man and of the Citizen ; Declaration of the Rights of Man
+ncal-varsity:420 | m | World Governments | Which French king was executed in 1793 during the French Revolution? => Louis XVI ; Louis the Sixteenth
+ncal-varsity:421 | m | World Governments | What name is given to the period of the French Revolution when the Committee of Public Safety executed thousands? => Reign of Terror ; the Terror
+ncal-varsity:422 | m | World Governments | Which Russian leader founded the Soviet state after the 1917 revolution? => Vladimir Lenin ; Lenin
+ncal-varsity:423 | m | World Governments | Which Soviet leader ruled from the 1920s until his death in 1953? => Joseph Stalin ; Stalin
+ncal-varsity:424 | m | World Governments | Which Chinese leader founded the People's Republic of China in 1949? => Mao Zedong ; Mao ; Mao Tse-tung ; n=Mao
+ncal-varsity:425 | m | World Governments | Which political and economic system calls for collective ownership of the means of production and a classless society? => communism
+ncal-varsity:426 | m | World Governments | Which political system, led by Benito Mussolini, was founded in Italy in the 1920s? => fascism ; Italian Fascism
+ncal-varsity:427 | m | World Governments | Which German leader headed the Nazi party and became chancellor in 1933? => Adolf Hitler ; Hitler
+ncal-varsity:428 | m | World Governments | What term describes a country's separation of its people by race under law, which ended in South Africa in the early 1990s? => apartheid
+ncal-varsity:429 | m | World Governments | Who became South Africa's first Black president in 1994? => Nelson Mandela ; Mandela
+ncal-varsity:430 | m | World Governments | What name is given to the loose association formed by most former Soviet republics after the Soviet collapse? => Commonwealth of Independent States
+ncal-varsity:431 | m | World Governments | What name is given to the wall that divided a German city until 1989? => Berlin Wall
+ncal-varsity:432 | m | World Governments | Which policy of "openness" was introduced by Soviet leader Mikhail Gorbachev? => glasnost
+ncal-varsity:433 | m | World Governments | Which policy of "restructuring" was introduced by Soviet leader Mikhail Gorbachev? => perestroika
+ncal-varsity:434 | m | World Governments | What is the name for the form of government in which a monarch rules but a prime minister governs, as in Britain and Canada? => parliamentary system ; parliamentary monarchy ; parliamentary democracy ; constitutional monarchy
+ncal-varsity:435 | m | World Governments | What is the term for a system in which the president is both head of state and head of government and is elected separately from the legislature? => presidential system
+ncal-varsity:436 | m | World Governments | Which country's legislature is called the Diet? => Japan
+ncal-varsity:437 | m | World Governments | Which country's legislature is called the Duma? => Russia
+ncal-varsity:438 | m | World Governments | Which country's lower house of parliament is called the Lok Sabha? => India
+ncal-varsity:439 | m | World Governments | Which country's legislature is the National People's Congress? => China
+ncal-varsity:440 | m | World Governments | Which country's legislature is called the Cortes Generales? => Spain
+ncal-varsity:441 | m | World Governments | Which country's constitution was written primarily by American occupation officials after World War II and includes a renunciation of war? => Japan
+ncal-varsity:442 | m | World Governments | What is the term for a vote in which an entire electorate decides on a single question? => referendum ; plebiscite
+ncal-varsity:443 | m | World Governments | What is the term for a government formed by several parties because no one party has a majority? => coalition government ; coalition
+ncal-varsity:444 | m | World Governments | What is the name for a parliamentary vote in which members can bring down the government by withdrawing their support? => vote of no confidence ; no-confidence vote
+ncal-varsity:445 | m | World Governments | What is the term for the method of choosing legislators in which each party gets seats in proportion to its share of the vote? => proportional representation
+ncal-varsity:446 | m | World Governments | What is the term for the electoral system in which the candidate with the most votes in a district wins, as in the United Kingdom? => first past the post ; plurality ; single-member district plurality
+ncal-varsity:447 | m | World Governments | What term names the ceremonial representative of a country, such as a monarch or president, as opposed to the leader who runs the government? => head of state
+ncal-varsity:448 | m | World Governments | Which international organization, formed after World War I, was a forerunner of the United Nations? => League of Nations
+ncal-varsity:449 | m | World Governments | Which treaty of 1919 ended World War I between Germany and the Allies? => Treaty of Versailles ; Versailles
+ncal-varsity:450 | m | World Governments | Which treaty of 1992 created the European Union? => Maastricht Treaty ; Treaty of Maastricht ; Treaty on European Union
+ncal-varsity:451 | m | World Governments | Which international body, based in the Hague, hears disputes between states? => International Court of Justice ; World Court
+ncal-varsity:452 | m | World Governments | Which international trade body, based in Geneva, succeeded the General Agreement on Tariffs and Trade? => World Trade Organization ; WTO
+ncal-varsity:453 | m | World Governments | Which Middle Eastern country's government is a monarchy led by the House of Saud? => Saudi Arabia
+ncal-varsity:454 | m | World Governments | Which country was led by Fidel Castro after a 1959 revolution? => Cuba
+ncal-varsity:455 | m | World Governments | Which country's leaders are called the Supreme Leader and the president, in a system set up after a 1979 revolution? => Iran
+ncal-varsity:456 | m | World Governments | Which country was divided at the 38th parallel after World War II? => Korea
+ncal-varsity:457 | m | World Governments | Which south Asian country was partitioned from India in 1947 to form a Muslim homeland? => Pakistan
+ncal-varsity:458 | m | World Governments | Which Indian leader led nonviolent resistance to British rule? => Mohandas Gandhi ; Gandhi ; Mahatma Gandhi
+ncal-varsity:459 | h | World Governments | Which philosopher wrote Two Treatises of Government, arguing that government rests on the consent of the governed? => John Locke ; Locke
+ncal-varsity:460 | h | World Governments | Which French thinker wrote The Spirit of the Laws, arguing for separation of powers? => Montesquieu ; Baron de Montesquieu
+ncal-varsity:461 | h | World Governments | Which Italian Renaissance writer authored The Prince? => Niccolo Machiavelli ; Machiavelli
+ncal-varsity:462 | h | World Governments | Which Greek philosopher wrote The Republic, describing a state ruled by philosopher-kings? => Plato
+ncal-varsity:463 | h | World Governments | Which Greek philosopher wrote Politics and classified governments into types such as monarchy, aristocracy, and polity? => Aristotle

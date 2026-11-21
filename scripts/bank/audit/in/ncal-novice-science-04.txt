@@ -1,0 +1,127 @@
+ncal-novice:1344 | m | Physical Science | What is the rate of change of velocity called? => acceleration
+ncal-novice:1345 | m | Physical Science | What quantity tells both the speed and the direction of motion? => velocity
+ncal-novice:1346 | m | Physical Science | About what is the acceleration due to gravity near Earth's surface in meters per second squared? => 9.8 ; 9.8 meters per second squared ; ten ; 10
+ncal-novice:1347 | h | Physical Science | What is the SI unit of power, equal to one joule per second? => watt
+ncal-novice:1348 | m | Physical Science | What law states that energy cannot be created or destroyed, only changed from one form to another? => law of conservation of energy ; conservation of energy ; first law of thermodynamics
+ncal-novice:1349 | m | Physical Science | What is the transfer of heat by the movement of fluids called? => convection
+ncal-novice:1350 | m | Physical Science | What is the transfer of heat by electromagnetic waves called? => radiation ; thermal radiation
+ncal-novice:1351 | h | Physical Science | What is the term for the measure of the average kinetic energy of the particles in a substance? => temperature
+ncal-novice:1352 | e | Physical Science | What temperature scale is used by most of the world, with water freezing at 0 and boiling at 100? => Celsius ; centigrade
+ncal-novice:1353 | h | Physical Science | What is the lowest possible temperature, 0 on the Kelvin scale, called? => absolute zero
+ncal-novice:1354 | h | Physical Science | What type of wave, such as sound, has particles moving back and forth in the same direction the wave travels? => longitudinal wave ; compression wave ; longitudinal
+ncal-novice:1355 | h | Physical Science | What type of wave, such as light, has motion perpendicular to the direction the wave travels? => transverse wave ; transverse
+ncal-novice:1356 | e | Physical Science | What can sound NOT travel through: a solid, a liquid, or a vacuum? => a vacuum ; vacuum
+ncal-novice:1357 | m | Physical Science | What is the unit of frequency, equal to one cycle per second? => hertz
+ncal-novice:1358 | m | Physical Science | What is the term for a reflected sound that you hear after a delay? => echo
+ncal-novice:1359 | m | Physical Science | What is the bending of light as it passes from one material to another? => refraction
+ncal-novice:1360 | e | Physical Science | What are the seven colors of the visible spectrum, in order, often remembered as a name? => Roy G. Biv ; ROYGBIV ; red orange yellow green blue indigo violet
+ncal-novice:1361 | m | Physical Science | What shape of lens is thicker in the middle and focuses light to a point? => convex lens ; convex
+ncal-novice:1362 | m | Physical Science | What type of lens is thinner in the middle and spreads light out? => concave lens ; concave
+ncal-novice:1363 | m | Physical Science | What is the term for materials that allow electric charge to flow easily, such as copper? => conductor ; conductors
+ncal-novice:1364 | m | Physical Science | What is the term for materials that block the flow of electric charge, such as rubber? => insulator ; insulators
+ncal-novice:1365 | m | Physical Science | What is the SI unit of electric potential difference? => volt ; volts
+ncal-novice:1366 | h | Physical Science | What law relates voltage, current, and resistance? => Ohm's law ; Ohm's Law
+ncal-novice:1367 | m | Physical Science | In what type of circuit is there only one path for the current? => series circuit ; series
+ncal-novice:1368 | m | Physical Science | In what type of circuit are there several paths for the current? => parallel circuit ; parallel
+ncal-novice:1369 | h | Physical Science | What device protects a circuit by melting when the current gets too high? => fuse
+ncal-novice:1370 | m | Physical Science | What happens when you place the north poles of two magnets near each other: attract or repel? => repel ; they repel
+ncal-novice:1371 | h | Physical Science | What device is created by coiling wire around an iron core and passing a current through it? => electromagnet
+ncal-novice:1372 | h | Physical Science | What instrument has a magnetized needle that points to Earth's magnetic north? => compass
+ncal-novice:1373 | h | Physical Science | What scientist discovered that moving a magnet through a coil of wire creates an electric current? => Michael Faraday ; Faraday
+ncal-novice:1374 | h | Physical Science | What Polish-born scientist discovered the elements polonium and radium? => Marie Curie ; Curie
+ncal-novice:1375 | m | Physical Science | What is the term for the process in which an unstable nucleus releases energy and particles? => radioactive decay ; radioactivity ; radioactive
+ncal-novice:1376 | m | Physical Science | What is the term for the joining of light nuclei into a heavier one? => nuclear fusion ; fusion
+ncal-novice:1377 | m | Physical Science | What is the process by which plants use sunlight to make sugar from water and carbon dioxide? => photosynthesis
+ncal-novice:1378 | e | Physical Science | In an experiment, what is the factor that the scientist changes on purpose called? => independent variable ; manipulated variable
+ncal-novice:1379 | m | Physical Science | What is the name for the part of an experiment kept unchanged for comparison? => control ; control group
+ncal-novice:1380 | e | Physical Science | What is the name of the German-born physicist who developed the theory of relativity? => Albert Einstein ; Einstein
+ncal-novice:1381 | BONUS e | Physical Science | Answer these questions about the three common states of matter.
+    ncal-novice:1381.0 | e | What state of matter keeps its own shape and volume? => solid
+    ncal-novice:1381.1 | m | What state of matter takes the shape of its container but keeps its volume? => liquid
+    ncal-novice:1381.2 | m | What state of matter expands to fill any container? => gas
+    ncal-novice:1381.3 | h | What process makes dew form on a cold glass on a humid day? => condensation
+ncal-novice:1382 | BONUS m | Physical Science | Answer these questions about the parts of an atom.
+    ncal-novice:1382.0 | e | What is the center of an atom, containing protons and neutrons, called? => nucleus
+    ncal-novice:1382.1 | m | What charge does an electron carry? => negative ; a negative charge
+    ncal-novice:1382.2 | m | What are the energy levels where electrons are found around the center of an atom sometimes called? => shells ; electron shells ; energy levels
+    ncal-novice:1382.3 | h | What number tells you how many protons are in an atom? => atomic number
+ncal-novice:1383 | BONUS e | Physical Science | Answer these questions about element symbols.
+    ncal-novice:1383.0 | e | What is the chemical symbol for oxygen? => O
+    ncal-novice:1383.1 | m | What is the chemical symbol for carbon? => C
+    ncal-novice:1383.2 | m | What is the chemical symbol for copper? => Cu
+    ncal-novice:1383.3 | h | What element has the chemical symbol W? => tungsten
+ncal-novice:1384 | BONUS m | Physical Science | Answer these questions about compounds.
+    ncal-novice:1384.0 | e | What is the compound NaCl commonly called? => table salt ; salt ; sodium chloride
+    ncal-novice:1384.1 | m | What common name is given to the baking ingredient with formula NaHCO3? => baking soda ; sodium bicarbonate
+    ncal-novice:1384.2 | m | What gas, with formula CH4, is the main component of natural gas? => methane
+    ncal-novice:1384.3 | h | What is the chemical formula of ammonia? => NH3
+ncal-novice:1385 | BONUS e | Physical Science | Answer these questions about Newton's laws of motion.
+    ncal-novice:1385.0 | e | What term describes an object's resistance to changes in its motion? => inertia
+    ncal-novice:1385.1 | m | What is the equation of Newton's second law, relating force, mass, and acceleration? => F equals m a ; F=ma ; force equals mass times acceleration
+    ncal-novice:1385.2 | m | An object at rest stays at rest unless acted on by what? => an unbalanced force ; force ; net force ; outside force
+    ncal-novice:1385.3 | h | Which of Newton's laws says that for every action there is an equal and opposite reaction? => third law ; Newton's third law ; third law of motion
+ncal-novice:1386 | BONUS m | Physical Science | Answer these questions about energy.
+    ncal-novice:1386.0 | e | What kind of energy does a moving car have? => kinetic energy ; kinetic
+    ncal-novice:1386.1 | m | What kind of energy is stored in a stretched rubber band? => elastic potential energy ; potential energy ; potential ; elastic ; elastic potential
+    ncal-novice:1386.2 | m | What kind of energy is released when fuel burns? => chemical energy ; chemical
+    ncal-novice:1386.3 | h | What is the unit of energy, named for an English physicist who studied heat? => joule
+ncal-novice:1387 | BONUS e | Physical Science | Answer these questions about simple machines.
+    ncal-novice:1387.0 | e | Which simple machine is a seesaw an example of? => lever
+    ncal-novice:1387.1 | m | Which simple machine is a ramp? => inclined plane
+    ncal-novice:1387.2 | m | Which simple machine is found on a flagpole to raise the flag? => pulley
+    ncal-novice:1387.3 | h | Which simple machine is a doorknob an example of? => wheel and axle
+ncal-novice:1388 | BONUS m | Physical Science | Answer these questions about heat.
+    ncal-novice:1388.0 | e | What is the term for the transfer of heat by direct contact between objects? => conduction
+    ncal-novice:1388.1 | m | What kind of heat transfer carries warmth from the Sun to Earth through empty space? => radiation
+    ncal-novice:1388.2 | m | What is the name for a material that does not conduct heat well? => insulator
+    ncal-novice:1388.3 | h | What name is given to the amount of heat needed to raise one gram of water by one degree Celsius? => calorie ; a calorie
+ncal-novice:1389 | BONUS e | Physical Science | Answer these questions about sound.
+    ncal-novice:1389.0 | e | What do we call the highness or lowness of a sound? => pitch
+    ncal-novice:1389.1 | m | What is the property of a sound wave that determines how loud it is? => amplitude
+    ncal-novice:1389.2 | m | About how fast does sound travel in air at room temperature, in meters per second? => 343
+    ncal-novice:1389.3 | h | What term describes sounds with frequencies higher than humans can hear? => ultrasound ; ultrasonic
+ncal-novice:1390 | BONUS m | Physical Science | Answer these questions about light.
+    ncal-novice:1390.0 | e | What is the term for light bouncing off a mirror? => reflection
+    ncal-novice:1390.1 | m | What do we call the bending of light through water that makes a straw look bent? => refraction
+    ncal-novice:1390.2 | m | What is the approximate speed of light in meters per second: 300 thousand or 300 million? => 300 million ; three hundred million ; 3 x 10^8
+    ncal-novice:1390.3 | h | What is the range of colors you see when white light passes through a prism called? => spectrum ; visible spectrum
+ncal-novice:1391 | BONUS e | Physical Science | Answer these questions about electricity.
+    ncal-novice:1391.0 | e | What is a closed path for electric charge called? => circuit
+    ncal-novice:1391.1 | m | What is the term for the flow of electric charge? => current ; electric current
+    ncal-novice:1391.2 | m | What unit measures this flow of charge? => ampere ; amp
+    ncal-novice:1391.3 | h | What scientist, born in Italy, invented the first electric battery, the voltaic pile? => Alessandro Volta ; Volta
+ncal-novice:1392 | BONUS m | Physical Science | Answer these questions about magnetism.
+    ncal-novice:1392.0 | e | What are the places on a magnet where its force is strongest called? => poles
+    ncal-novice:1392.1 | m | What kind of materials, such as iron and nickel, are strongly attracted to magnets? => magnetic materials ; ferromagnetic ; ferromagnetic materials ; magnetic
+    ncal-novice:1392.2 | m | What happens when you bring the opposite ends of two magnets together? => they attract ; attract
+    ncal-novice:1392.3 | h | What is the region around a magnet where its force acts called? => magnetic field ; field
+ncal-novice:1393 | BONUS e | Physical Science | Answer these questions about acids and bases.
+    ncal-novice:1393.0 | e | What scale measures how acidic a substance is? => pH scale ; pH
+    ncal-novice:1393.1 | m | What kind of substance, such as lemon juice or vinegar, tastes sour? => acid
+    ncal-novice:1393.2 | m | What kind of substance, such as baking soda, is slippery and bitter? => base
+    ncal-novice:1393.3 | h | What is the name for the reaction between substances at opposite ends of the acidity range that makes salt and water? => neutralization ; neutralization reaction
+ncal-novice:1394 | BONUS m | Physical Science | Answer these questions about the periodic table.
+    ncal-novice:1394.0 | e | What Russian scientist designed the first periodic table? => Dmitri Mendeleev ; Mendeleev
+    ncal-novice:1394.1 | m | What are the rows of the periodic table called? => periods
+    ncal-novice:1394.2 | m | Which group on the periodic table contains helium, neon, and argon? => noble gases ; group 18 ; inert gases
+    ncal-novice:1394.3 | h | What name is given to the elements on the left of the table that are shiny and conduct electricity? => metals
+ncal-novice:1395 | BONUS e | Physical Science | Answer these questions about the scientific method.
+    ncal-novice:1395.0 | e | What term names a testable explanation or prediction? => hypothesis
+    ncal-novice:1395.1 | m | What do we call the facts and numbers collected during an experiment? => data
+    ncal-novice:1395.2 | m | What is the term for the group in an experiment that does not receive the treatment? => control group ; control
+    ncal-novice:1395.3 | h | What is the factor that is measured as the result in an experiment called? => dependent variable ; responding variable
+ncal-novice:1396 | BONUS m | Physical Science | Answer these questions about measurement.
+    ncal-novice:1396.0 | e | What is the base metric unit of length? => meter ; meters
+    ncal-novice:1396.1 | m | What metric unit of volume equals 1000 milliliters? => liter ; liters
+    ncal-novice:1396.2 | m | What instrument is used to measure mass in a lab? => balance ; triple beam balance
+    ncal-novice:1396.3 | h | What system of units, abbreviated SI, is used by scientists worldwide? => metric system ; International System of Units ; the metric system
+ncal-novice:1397 | BONUS e | Physical Science | Answer these questions about waves.
+    ncal-novice:1397.0 | e | What is the high point of a wave called? => crest
+    ncal-novice:1397.1 | m | What is the number of waves per second called? => frequency
+    ncal-novice:1397.2 | m | What is the distance between two wave crests called? => wavelength
+    ncal-novice:1397.3 | h | What is the maximum displacement of a wave from its rest position called? => amplitude
+ncal-novice:1398 | BONUS m | Physical Science | Answer these questions about chemical reactions.
+    ncal-novice:1398.0 | e | What kind of change produces a new substance with new properties? => chemical change ; chemical reaction
+    ncal-novice:1398.1 | m | What name is given to the substances that result from a reaction? => products
+    ncal-novice:1398.2 | m | What word describes a reaction that releases heat, like a campfire? => exothermic ; exothermic reaction
+    ncal-novice:1398.3 | h | What term refers to a substance that speeds a reaction without being consumed? => catalyst

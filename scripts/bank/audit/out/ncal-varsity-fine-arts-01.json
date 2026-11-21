@@ -1,0 +1,15 @@
+[
+{"id":"ncal-varsity:633","setText":"Which Colombian author wrote the novel \"Cien años de soledad\"?"},
+{"id":"ncal-varsity:645","setText":"What is the Spanish verb meaning \"to give back,\" as in returning a borrowed item, that begins with \"dev\"?"},
+{"id":"ncal-varsity:698","drop":"answer is just the word given in the question"},
+{"id":"ncal-varsity:655","difficulty":"medium"},
+{"id":"ncal-varsity:661","difficulty":"medium"},
+{"id":"ncal-varsity:662","difficulty":"medium","addAlt":["to move house","to move out"]},
+{"id":"ncal-varsity:663","difficulty":"medium"},
+{"id":"ncal-varsity:665","difficulty":"medium"},
+{"id":"ncal-varsity:666","difficulty":"medium"},
+{"id":"ncal-varsity:673","difficulty":"hard"},
+{"id":"ncal-varsity:682","difficulty":"hard"},
+{"id":"ncal-varsity:689","difficulty":"hard"},
+{"id":"ncal-varsity:693","difficulty":"hard"}
+]

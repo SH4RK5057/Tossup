@@ -1,0 +1,121 @@
+ncal-novice:471 | m | Composers and Works | Which Czech composer wrote the Symphony From the New World? => Antonín Dvořák ; Dvorak
+ncal-novice:472 | m | Composers and Works | Which Russian composer wrote The Flight of the Bumblebee? => Nikolai Rimsky-Korsakov ; Rimsky-Korsakov
+ncal-novice:473 | m | Composers and Works | Which English composer wrote the orchestral suite The Planets? => Gustav Holst ; Holst
+ncal-novice:474 | e | Composers and Works | Which Polish composer of the Romantic era wrote waltzes, nocturnes, and mazurkas for solo piano? => Frédéric Chopin ; Chopin ; Frederic Chopin
+ncal-novice:475 | m | Composers and Works | Which Hungarian composer and pianist wrote the Hungarian Rhapsodies? => Franz Liszt ; Liszt
+ncal-novice:476 | m | Composers and Works | Which German composer wrote a famous lullaby and four symphonies and was a friend of Robert and Clara Schumann? => Johannes Brahms ; Brahms
+ncal-novice:477 | m | Composers and Works | Which Austrian composer wrote the Unfinished Symphony and hundreds of art songs? => Franz Schubert ; Schubert
+ncal-novice:478 | m | Composers and Works | Which German composer wrote the opera that includes The Ride of the Valkyries? => Richard Wagner ; Wagner
+ncal-novice:479 | m | Composers and Works | Which Italian composer wrote the operas Aida and La Traviata? => Giuseppe Verdi ; Verdi
+ncal-novice:480 | m | Composers and Works | Which Italian composer wrote the operas La Bohème and Madama Butterfly? => Giacomo Puccini ; Puccini
+ncal-novice:481 | e | Composers and Works | Which Italian composer wrote the William Tell Overture, used as the theme of The Lone Ranger? => Gioachino Rossini ; Rossini
+ncal-novice:482 | m | Composers and Works | Which French composer wrote the opera Faust, based on a play by Goethe? => Charles Gounod ; Gounod
+ncal-novice:483 | m | Composers and Works | Which German Baroque composer wrote a Canon in D that is popular at weddings? => Johann Pachelbel ; Pachelbel
+ncal-novice:484 | m | Composers and Works | Which waltz by Johann Strauss the Younger is named for a river that flows through Vienna and Budapest? => The Blue Danube ; Blue Danube ; On the Beautiful Blue Danube
+ncal-novice:485 | m | Composers and Works | Which German composer wrote the cantata Carmina Burana, which opens with O Fortuna? => Carl Orff ; Orff
+ncal-novice:486 | m | Composers and Works | Which American composer wrote the slow and sad Adagio for Strings? => Samuel Barber ; Barber
+ncal-novice:487 | e | Composers and Works | Which American film composer wrote the scores for Star Wars, Jaws, and the Harry Potter movies? => John Williams ; Williams
+ncal-novice:488 | m | Composers and Works | Which American composer wrote the piano rag The Entertainer? => Scott Joplin ; Joplin
+ncal-novice:489 | m | Composers and Works | Which English composer wrote Pomp and Circumstance, often played at graduations? => Edward Elgar ; Elgar
+ncal-novice:490 | m | Composers and Works | Which German composer wrote the Wedding March and the Hebrides Overture? => Felix Mendelssohn ; Mendelssohn
+ncal-novice:491 | m | Composers and Works | Which French composer wrote three slow, quiet piano pieces called Gymnopédies? => Erik Satie ; Satie
+ncal-novice:492 | m | Composers and Works | How many symphonies did Ludwig van Beethoven complete? => nine ; 9
+ncal-novice:493 | e | Composers and Works | In which country was Wolfgang Amadeus Mozart born? => Austria
+ncal-novice:494 | m | Composers and Works | In which country was Frédéric Chopin born? => Poland
+ncal-novice:495 | m | Composers and Works | In which country was Edvard Grieg born? => Norway
+ncal-novice:496 | m | Composers and Works | Which Finnish composer wrote Finlandia and a famous violin concerto? => Jean Sibelius ; Sibelius
+ncal-novice:497 | m | Composers and Works | What period of music history, from about 1600 to 1750, includes the composers Bach and Handel? => Baroque ; Baroque period
+ncal-novice:498 | m | Composers and Works | What period of music history, from about 1750 to 1820, includes Haydn and Mozart? => Classical ; Classical period
+ncal-novice:499 | m | Composers and Works | What period of music history, in the nineteenth century, includes Chopin, Brahms, and Tchaikovsky? => Romantic ; Romantic period
+ncal-novice:500 | h | Composers and Works | Which Italian violin virtuoso wrote the Twenty-Four Caprices? => Niccolò Paganini ; Paganini
+ncal-novice:501 | h | Composers and Works | Which Hungarian composer wrote Concerto for Orchestra and the opera Bluebeard's Castle? => Béla Bartók ; Bartok
+ncal-novice:502 | h | Composers and Works | Which Copland ballet contains a section called Hoe-Down? => Rodeo
+ncal-novice:503 | m | Composers and Works | Which Copland brass and percussion piece was written during World War Two to honor ordinary people? => Fanfare for the Common Man
+ncal-novice:504 | h | Composers and Works | Which Czech composer wrote the symphonic poem The Moldau and the opera The Bartered Bride? => Bedřich Smetana ; Smetana
+ncal-novice:505 | h | Composers and Works | Which Austrian composer wrote nine symphonies, including the Resurrection Symphony? => Gustav Mahler ; Mahler
+ncal-novice:506 | h | Composers and Works | Which Spanish composer wrote the Concierto de Aranjuez for guitar? => Joaquín Rodrigo ; Rodrigo
+ncal-novice:507 | m | Composers and Works | Which numbered Beethoven symphony is nicknamed the Pastoral? => Sixth Symphony ; Symphony No. 6 ; 6th Symphony ; Symphony Number 6 ; Symphony 6 ; Sixth
+ncal-novice:508 | m | Composers and Works | What instrument plays the famous upward glissando at the opening of Rhapsody in Blue? => clarinet
+ncal-novice:509 | m | Composers and Works | Gershwin wrote an opera about life in Catfish Row in Charleston. What is its title? => Porgy and Bess
+ncal-novice:510 | h | Composers and Works | Leonard Bernstein served as music director of which New York orchestra? => New York Philharmonic ; the New York Philharmonic
+ncal-novice:511 | m | Composers and Works | For which instrument did Beethoven write the short piece Für Elise? => piano
+ncal-novice:512 | h | Composers and Works | What Italian nickname, meaning heroic, is given to Beethoven's Third Symphony? => Eroica ; Eroica Symphony
+ncal-novice:513 | h | Composers and Works | Which planet is missing from Holst's The Planets, which has no movement for it? => Earth
+ncal-novice:514 | m | Composers and Works | Which instrument plays The Swan in Saint-Saëns's The Carnival of the Animals? => cello ; violoncello
+ncal-novice:515 | h | Composers and Works | Which keyboard instrument plays the Dance of the Sugar Plum Fairy in The Nutcracker? => celesta
+ncal-novice:516 | h | Composers and Works | What nickname is given to Haydn's Symphony Number 94, which has a sudden loud chord in a quiet slow movement? => Surprise Symphony ; The Surprise ; Surprise
+ncal-novice:517 | BONUS m | Composers and Works | Answer these questions about Ludwig van Beethoven.
+    ncal-novice:517.0 | e | In which country was Beethoven born? => Germany
+    ncal-novice:517.1 | m | What physical condition did Beethoven develop that left him unable to hear his own music? => deafness ; deaf ; hearing loss
+    ncal-novice:517.2 | h | Which Austrian composer, nicknamed Papa, briefly taught Beethoven in Vienna? => Joseph Haydn ; Haydn
+ncal-novice:518 | BONUS m | Composers and Works | Answer these questions about Wolfgang Amadeus Mozart.
+    ncal-novice:518.0 | e | In which Austrian city was Mozart born? => Salzburg
+    ncal-novice:518.1 | m | Which Mozart opera tells of a nobleman who is dragged to hell at the end? => Don Giovanni
+    ncal-novice:518.2 | h | Mozart died at what age? => thirty-five ; 35
+ncal-novice:519 | BONUS m | Composers and Works | Answer these questions about Johann Sebastian Bach.
+    ncal-novice:519.0 | e | What large keyboard instrument, played in churches, did Bach play and write much music for? => organ ; pipe organ
+    ncal-novice:519.1 | m | In which German city did Bach work as a church music director for the last twenty-seven years of his life? => Leipzig
+    ncal-novice:519.2 | h | How many Brandenburg Concertos did Bach write? => six ; 6
+ncal-novice:520 | BONUS m | Composers and Works | Answer these questions about Pyotr Tchaikovsky.
+    ncal-novice:520.0 | e | In which country was Tchaikovsky born? => Russia
+    ncal-novice:520.1 | m | Which Tchaikovsky ballet tells of a princess who pricks her finger on a spindle? => The Sleeping Beauty ; Sleeping Beauty
+    ncal-novice:520.2 | h | Which Shakespeare play inspired a fantasy overture by Tchaikovsky? => Romeo and Juliet
+ncal-novice:521 | BONUS m | Composers and Works | Answer these questions about George Frideric Handel.
+    ncal-novice:521.0 | e | In which country did Handel spend most of his adult life after leaving Germany? => England ; Great Britain
+    ncal-novice:521.1 | m | What type of large-scale work for singers and orchestra, based on a sacred story but not staged, is Messiah? => oratorio
+    ncal-novice:521.2 | h | In which German city was Handel born? => Halle
+ncal-novice:522 | BONUS m | Composers and Works | Answer these questions about Frédéric Chopin.
+    ncal-novice:522.0 | e | Chopin lived much of his adult life in which European capital? => Paris
+    ncal-novice:522.1 | m | What type of dreamy piano piece, named for the night, did Chopin write twenty-one of? => nocturne ; nocturnes
+    ncal-novice:522.2 | h | With which French novelist did Chopin have a long relationship, who wrote under the name George Sand? => Aurore Dupin ; Amantine Dupin ; Madame Dudevant
+ncal-novice:523 | BONUS m | Composers and Works | Answer these questions about Claude Debussy.
+    ncal-novice:523.0 | e | In which country was Debussy born? => France
+    ncal-novice:523.1 | m | The title of Debussy's La Mer means what body of water in English? => the sea ; sea
+    ncal-novice:523.2 | h | What musical style, named after a painting by Claude Monet, is associated with Debussy? => Impressionism ; impressionist
+ncal-novice:524 | BONUS m | Composers and Works | Answer these questions about Aaron Copland.
+    ncal-novice:524.0 | e | In which country was Aaron Copland born? => United States ; United States of America ; America [prompt: U.S.]
+    ncal-novice:524.1 | m | Which Copland ballet tells the story of an outlaw of the American West? => Billy the Kid
+    ncal-novice:524.2 | h | Which Shaker melody is used in Appalachian Spring? => Simple Gifts ; 'Tis a Gift to Be Simple
+ncal-novice:525 | BONUS m | Composers and Works | Answer these questions about Antonio Vivaldi.
+    ncal-novice:525.0 | e | Which instrument did Vivaldi play, which is the featured solo instrument in The Four Seasons? => violin
+    ncal-novice:525.1 | m | In which Italian city was Vivaldi born? => Venice
+    ncal-novice:525.2 | h | What nickname, based on his hair color and his job as a priest, was given to Vivaldi? => The Red Priest ; Red Priest ; il Prete Rosso
+ncal-novice:526 | BONUS m | Composers and Works | Answer these questions about Igor Stravinsky.
+    ncal-novice:526.0 | e | In which country was Stravinsky born? => Russia
+    ncal-novice:526.1 | m | Which Stravinsky ballet is based on a Russian folk tale about a magical glowing bird? => The Firebird ; Firebird
+    ncal-novice:526.2 | h | Which Russian ballet company, led by Sergei Diaghilev, premiered many of Stravinsky's ballets? => Ballets Russes ; The Ballets Russes
+ncal-novice:527 | BONUS m | Composers and Works | Answer these questions about opera composers.
+    ncal-novice:527.0 | e | In which country was Giuseppe Verdi born? => Italy
+    ncal-novice:527.1 | m | Which Rossini opera is about a clever barber named Figaro? => The Barber of Seville ; Barber of Seville
+    ncal-novice:527.2 | h | How many operas make up Wagner's Ring cycle? => four ; 4
+ncal-novice:528 | BONUS m | Composers and Works | Answer these questions about Peter and the Wolf by Prokofiev.
+    ncal-novice:528.0 | e | Which instrument plays the part of the bird? => flute
+    ncal-novice:528.1 | m | Which instrument plays the part of the duck? => oboe
+    ncal-novice:528.2 | h | Which instrument plays the part of the grandfather? => bassoon
+ncal-novice:529 | BONUS m | Composers and Works | Answer these questions about Franz Schubert.
+    ncal-novice:529.0 | e | In which Austrian city did Schubert live and die? => Vienna
+    ncal-novice:529.1 | m | How many movements does Schubert's Unfinished Symphony have? => two ; 2
+    ncal-novice:529.2 | h | What name is given to the German art songs, for voice and piano, that Schubert wrote about six hundred of? => lieder ; lied
+ncal-novice:530 | BONUS m | Composers and Works | Answer these questions about Scott Joplin.
+    ncal-novice:530.0 | e | What style of piano music, with a syncopated melody, was Joplin the leading composer of? => ragtime
+    ncal-novice:530.1 | m | What is the title of Joplin's 1899 rag named for a Missouri club? => Maple Leaf Rag
+    ncal-novice:530.2 | h | What is the title of Joplin's opera about a young Black woman in the South? => Treemonisha
+ncal-novice:531 | BONUS m | Composers and Works | Answer these questions about John Philip Sousa.
+    ncal-novice:531.0 | e | What type of music, played by bands in parades, was Sousa famous for writing? => marches ; march
+    ncal-novice:531.1 | m | What large, coiled brass instrument was named for Sousa? => sousaphone
+    ncal-novice:531.2 | h | Sousa led which United States military band? => Marine Band ; United States Marine Band ; US Marine Band
+ncal-novice:532 | BONUS m | Composers and Works | Answer these questions about Franz Liszt.
+    ncal-novice:532.0 | e | In which country was Liszt born? => Hungary
+    ncal-novice:532.1 | m | Which instrument was Liszt considered the greatest virtuoso of in his time? => piano
+    ncal-novice:532.2 | h | Liszt's daughter Cosima married which German opera composer? => Richard Wagner ; Wagner
+ncal-novice:533 | BONUS m | Composers and Works | Answer these questions about Felix Mendelssohn.
+    ncal-novice:533.0 | e | Which English playwright wrote the play A Midsummer Night's Dream, for which Mendelssohn wrote incidental music? => William Shakespeare ; Shakespeare
+    ncal-novice:533.1 | m | In which country was Mendelssohn born? => Germany
+    ncal-novice:533.2 | h | Mendelssohn helped revive the music of which Baroque composer by conducting the Saint Matthew Passion in 1829? => Johann Sebastian Bach ; Bach
+ncal-novice:877 | e | Spanish 1 | What is the Spanish word for "cat," including its article? => el gato ; gato
+ncal-novice:878 | e | Spanish 1 | How do you say "house" in Spanish, including the article? => la casa ; casa
+ncal-novice:879 | e | Spanish 1 | What is the Spanish word for "yellow"? => amarillo ; amarilla
+ncal-novice:880 | e | Spanish 1 | What is the Spanish word for "thank you"? => gracias
+ncal-novice:881 | e | Spanish 1 | What is the Spanish word for "please"? => por favor
+ncal-novice:882 | e | Spanish 1 | What does the Spanish greeting "buenos días" mean in English? => good morning ; good day
+ncal-novice:883 | e | Spanish 1 | What is the Spanish word for "water," including its article? => el agua ; agua

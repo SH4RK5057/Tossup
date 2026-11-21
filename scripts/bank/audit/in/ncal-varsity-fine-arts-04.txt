@@ -1,0 +1,148 @@
+ncal-varsity:1136 | h | Architecture | Which Greek architect, along with Callicrates, designed the Parthenon? => Ictinus ; Iktinos ; Iktinus
+ncal-varsity:1137 | h | Architecture | Which architect and mathematician from Miletus designed the Hagia Sophia with Anthemius of Tralles? => Isidore of Miletus ; Isidorus of Miletus ; Isidore
+ncal-varsity:1138 | h | Architecture | Which great Ottoman architect designed the Suleymaniye Mosque in Istanbul? => Sinan ; Mimar Sinan ; Koca Sinan
+ncal-varsity:1139 | h | Architecture | Which architect designed the Tempietto at San Pietro in Montorio in Rome? => Donato Bramante ; Bramante
+ncal-varsity:1140 | h | Architecture | Which Baroque architect designed San Carlo alle Quattro Fontane in Rome? => Francesco Borromini ; Borromini
+ncal-varsity:1141 | h | Architecture | Which French architect designed the Paris Opera house, the Palais Garnier? => Charles Garnier ; Garnier
+ncal-varsity:1142 | h | Architecture | Which English gardener and architect designed the glass-and-iron Crystal Palace? => Joseph Paxton ; Paxton
+ncal-varsity:1143 | h | Architecture | Which architect designed the Gothic Revival Palace of Westminster, home of Parliament? => Charles Barry ; Sir Charles Barry ; Barry
+ncal-varsity:1144 | h | Architecture | Which American architect designed the Home Insurance Building in Chicago, often called the first skyscraper? => William Le Baron Jenney ; Jenney
+ncal-varsity:1145 | h | Architecture | Which architect designed the Chrysler Building? => William Van Alen ; Van Alen
+ncal-varsity:1146 | h | Architecture | Which architect led the planning of the 1893 World's Columbian Exposition in Chicago? => Daniel Burnham ; Burnham
+ncal-varsity:1147 | h | Architecture | Which American architect designed the Glass House in New Canaan, Connecticut? => Philip Johnson ; Johnson
+ncal-varsity:1148 | h | Architecture | Which American architect designed the Getty Center in Los Angeles? => Richard Meier ; Meier
+ncal-varsity:1149 | h | Architecture | Which Spanish architect designed the City of Arts and Sciences in Valencia and the Milwaukee Art Museum addition? => Santiago Calatrava ; Calatrava
+ncal-varsity:1150 | h | Architecture | Which Brazilian architect designed the government buildings of Brasília? => Oscar Niemeyer ; Niemeyer
+ncal-varsity:1151 | h | Architecture | Which French abbot oversaw the rebuilding of the Abbey Church of Saint-Denis, a birthplace of Gothic architecture? => Abbot Suger ; Suger
+ncal-varsity:1152 | h | Architecture | Which San Diego architect, a pioneer of modernist simplicity in California, designed the La Jolla Woman's Club? => Irving Gill ; Gill
+ncal-varsity:1153 | h | Architecture | Which postwar style, named for the French for "raw concrete," uses massive, blocky forms? => Brutalism ; Brutalist architecture
+ncal-varsity:1154 | h | Architecture | What triangular architectural element allows a round dome to rest on a square base? => pendentive ; pendentives
+ncal-varsity:1155 | h | Architecture | Which Buddhist monument in Java, Indonesia, is arranged as a giant stepped mandala? => Borobudur
+ncal-varsity:1156 | h | Architecture | El Castillo at Chichen Itza is aligned to show a serpent shadow on which feathered serpent god's pyramid? => Kukulkan ; Kukulcan
+ncal-varsity:1157 | h | Architecture | Which Istanbul mosque, built for a seventeenth-century sultan, has six minarets and is nicknamed for its blue interior tiles? => Sultan Ahmed Mosque ; Blue Mosque ; Sultanahmet Mosque
+ncal-varsity:1158 | BONUS m | Architecture | Answer these questions about ancient Egyptian monuments.
+    ncal-varsity:1158.0 | e | The Great Sphinx at Giza has the body of which animal? => lion ; a lion
+    ncal-varsity:1158.1 | m | Which architect designed the Step Pyramid of Djoser? => Imhotep
+    ncal-varsity:1158.2 | h | The Step Pyramid is located at which burial site near Memphis? => Saqqara ; Sakkara
+ncal-varsity:1159 | BONUS m | Architecture | Answer these questions about Gothic cathedral features.
+    ncal-varsity:1159.0 | e | Carved stone figures that drain water away from the walls are called what? => gargoyles ; gargoyle
+    ncal-varsity:1159.1 | m | What name is given to a large circular stained glass window, as at Chartres? => rose window
+    ncal-varsity:1159.2 | h | What name is given to the decorative stone framework inside a Gothic window? => tracery
+ncal-varsity:1160 | BONUS m | Architecture | Answer these questions about a famous Roman amphitheater.
+    ncal-varsity:1160.0 | e | By what name is the Flavian Amphitheatre better known? => Colosseum ; Coliseum
+    ncal-varsity:1160.1 | m | Which emperor began this amphitheater around 70 AD? => Vespasian
+    ncal-varsity:1160.2 | h | What name is given to the network of tunnels beneath the arena floor that held animals and equipment? => hypogeum
+ncal-varsity:1161 | BONUS m | Architecture | Answer these questions about the architecture of a major Midwestern city.
+    ncal-varsity:1161.0 | e | Which city was rebuilt with early skyscrapers after a great fire in 1871? => Chicago
+    ncal-varsity:1161.1 | m | Which tower was formerly known as the Sears Tower? => Willis Tower
+    ncal-varsity:1161.2 | h | What name is given to the group of architects, including Sullivan, who pioneered steel-frame towers in that city? => Chicago School ; The Chicago School
+ncal-varsity:1162 | BONUS m | Architecture | Answer these questions about Islamic architecture.
+    ncal-varsity:1162.0 | e | Which cube-shaped building stands at the center of the Great Mosque of Mecca? => Kaaba ; Ka'bah ; Kaabah
+    ncal-varsity:1162.1 | m | What name is given to the niche in a mosque wall that shows the direction of Mecca? => mihrab
+    ncal-varsity:1162.2 | h | What name is given to the stepped pulpit in a mosque from which the sermon is delivered? => minbar
+ncal-varsity:1163 | BONUS m | Architecture | Answer these questions about medieval castles.
+    ncal-varsity:1163.0 | e | What name is given to the water-filled ditch around a castle? => moat
+    ncal-varsity:1163.1 | m | What name is given to the central, strongest tower of a medieval castle? => keep ; donjon
+    ncal-varsity:1163.2 | h | What name is given to the iron grating lowered to block a castle gateway? => portcullis
+ncal-varsity:1164 | BONUS m | Architecture | Answer these questions about bridges.
+    ncal-varsity:1164.0 | e | Which type of bridge hangs its deck from cables strung between towers? => suspension bridge ; suspension
+    ncal-varsity:1164.1 | m | What type of movable bridge, such as London's Tower Bridge, has a deck that swings upward? => bascule bridge ; bascule ; drawbridge
+    ncal-varsity:1164.2 | h | What type of bridge uses a framework of connected triangles to carry loads? => truss bridge ; truss
+ncal-varsity:1165 | BONUS m | Architecture | Answer these questions about the Taj Mahal.
+    ncal-varsity:1165.0 | e | The Taj Mahal is made mostly of which white stone? => marble ; white marble
+    ncal-varsity:1165.1 | m | The Taj Mahal was built as a tomb for which empress? => Mumtaz Mahal ; Mumtaz
+    ncal-varsity:1165.2 | h | The Taj Mahal sits on the bank of which river? => Yamuna ; Yamuna River ; Jumna ; Jamuna
+ncal-varsity:1166 | BONUS m | Architecture | Answer these questions about the city of Paris.
+    ncal-varsity:1166.0 | e | Which river flows through the center of Paris? => Seine ; The Seine ; Seine River
+    ncal-varsity:1166.1 | m | Which hill in northern Paris is topped by the Sacré-Cœur basilica? => Montmartre
+    ncal-varsity:1166.2 | h | Which baron rebuilt Paris in the 1850s and 1860s with wide boulevards for Napoleon III? => Georges-Eugène Haussmann ; Haussmann ; Baron Haussmann ; Georges Eugene Haussmann
+ncal-varsity:1167 | BONUS m | Architecture | Answer these questions about skyscrapers.
+    ncal-varsity:1167.0 | e | Which safe passenger machine, perfected by Elisha Otis, made tall buildings practical? => elevator ; lift ; Otis elevator
+    ncal-varsity:1167.1 | m | In which decade was the Empire State Building completed? => 1930s ; nineteen thirties ; the 1930s ; 1931
+    ncal-varsity:1167.2 | h | Which firm designed the Empire State Building? => Shreve, Lamb and Harmon ; Shreve Lamb and Harmon ; Shreve, Lamb & Harmon ; Shreve Lamb & Harmon
+ncal-varsity:1168 | BONUS m | Architecture | Answer these questions about parts of classical architecture.
+    ncal-varsity:1168.0 | e | What term names a vertical support, usually round, that holds up a roof or beam? => column ; pillar
+    ncal-varsity:1168.1 | m | What name is given to the decorated top of a Doric, Ionic, or Corinthian support? => capital
+    ncal-varsity:1168.2 | h | What name is given to the vertical grooves carved along the shaft of a Doric or Ionic support? => fluting ; flutes
+ncal-varsity:1169 | BONUS m | Architecture | Answer these questions about Japanese architecture.
+    ncal-varsity:1169.0 | e | Which Japanese city is home to the Golden Pavilion, Kinkaku-ji? => Kyoto
+    ncal-varsity:1169.1 | m | What name is given to the gates, often red, at the entrance to Shinto shrines? => torii ; torii gates
+    ncal-varsity:1169.2 | h | Himeji Castle is nicknamed after which white bird? => White Heron ; Heron ; egret ; Shirasagi
+ncal-varsity:1170 | BONUS m | Architecture | Answer these questions about prehistoric stone monuments.
+    ncal-varsity:1170.0 | e | What word describes a very large stone used in a prehistoric monument? => megalith
+    ncal-varsity:1170.1 | m | What name is given to a prehistoric tomb made of upright stones topped by a flat capstone? => dolmen
+    ncal-varsity:1170.2 | h | Newgrange, a passage tomb older than Stonehenge, is in which country? => Ireland ; Republic of Ireland
+ncal-varsity:1171 | BONUS m | Architecture | Answer these questions about landscape architecture.
+    ncal-varsity:1171.0 | e | Which park in Manhattan was designed in the 1850s through a famous competition? => Central Park
+    ncal-varsity:1171.1 | m | Which landscape architect co-designed the Manhattan park and is called the founder of American landscape architecture? => Frederick Law Olmsted ; Olmsted
+    ncal-varsity:1171.2 | h | Which English-born architect was Olmsted's partner on that park? => Calvert Vaux ; Vaux
+ncal-varsity:1172 | BONUS m | Architecture | Answer these questions about Russian architecture.
+    ncal-varsity:1172.0 | e | What name is given to the fortified complex in the heart of Moscow? => Kremlin ; The Kremlin
+    ncal-varsity:1172.1 | m | Which tsar, known as "the Terrible," commissioned Saint Basil's Cathedral? => Ivan IV ; Ivan the Terrible ; Ivan the Fourth
+    ncal-varsity:1172.2 | h | Which Russian city, founded by Peter the Great, is home to the Winter Palace? => Saint Petersburg ; Petersburg
+ncal-varsity:1173 | BONUS m | Architecture | Answer these questions about the Lincoln Memorial.
+    ncal-varsity:1173.0 | e | The Lincoln Memorial honors which president? => Abraham Lincoln ; Lincoln
+    ncal-varsity:1173.1 | m | What name is given to the long water feature in front of the Lincoln Memorial? => Reflecting Pool ; The Reflecting Pool
+    ncal-varsity:1173.2 | h | Which architect designed the Greek temple-style memorial on the National Mall honoring the sixteenth president? => Henry Bacon ; Bacon
+ncal-varsity:1174 | BONUS m | Architecture | Answer these questions about a famous ancient defensive wall.
+    ncal-varsity:1174.0 | e | The Great Wall stretches across which country? => China
+    ncal-varsity:1174.1 | m | Most of the surviving Great Wall was built or rebuilt under which dynasty? => Ming ; Ming dynasty
+    ncal-varsity:1174.2 | h | Which first emperor of a unified realm joined earlier walls into one defense? => Qin Shi Huang ; Shi Huangdi ; Qin Shihuang ; Shi Huang Di
+ncal-varsity:1175 | BONUS m | Architecture | Answer these questions about the Parthenon.
+    ncal-varsity:1175.0 | e | The Parthenon stands in which Greek city? => Athens
+    ncal-varsity:1175.1 | m | The Parthenon was dedicated to which goddess? => Athena ; Athena Parthenos
+    ncal-varsity:1175.2 | h | Which Athenian statesman oversaw the building of the Parthenon? => Pericles
+ncal-varsity:1176 | BONUS m | Architecture | Answer these questions about the Leaning Tower of Pisa.
+    ncal-varsity:1176.0 | e | The Leaning Tower is what type of building? => bell tower ; campanile
+    ncal-varsity:1176.1 | m | What is the Italian word for a free-standing tower housing bells? => campanile
+    ncal-varsity:1176.2 | h | The tower stands in which square, called the Field of Miracles? => Piazza dei Miracoli ; Piazza del Duomo ; Square of Miracles ; Campo dei Miracoli
+ncal-varsity:1177 | BONUS m | Architecture | Answer these questions about the parts of a church.
+    ncal-varsity:1177.0 | e | What name is given to the long central area where the congregation sits? => nave
+    ncal-varsity:1177.1 | m | What name is given to the cross-shaped church's arms that cross the long central hall? => transept
+    ncal-varsity:1177.2 | h | What name is given to the semicircular recess at the east end of a church? => apse
+ncal-varsity:1178 | BONUS m | Architecture | Answer these questions about roofs.
+    ncal-varsity:1178.0 | e | What name is given to the triangular upper part of a wall under a sloping roof's ridge? => gable
+    ncal-varsity:1178.1 | m | What name is given to a roof sloping on all four sides? => hip roof ; hipped roof ; hip
+    ncal-varsity:1178.2 | h | The Mansard roof is named for which French architect? => François Mansart ; Mansart ; Francois Mansart
+ncal-varsity:1179 | BONUS m | Architecture | Answer these questions about Native American architecture.
+    ncal-varsity:1179.0 | e | Mesa Verde National Park, with its cliff dwellings, is in which state? => Colorado
+    ncal-varsity:1179.1 | m | Mesa Verde was built by which ancestral people of the Southwest? => Ancestral Puebloans ; Anasazi ; Pueblo ; Ancestral Pueblo
+    ncal-varsity:1179.2 | h | What name is given to the round, underground ceremonial chamber in Puebloan villages? => kiva
+ncal-varsity:1180 | BONUS m | Architecture | Answer these questions about a famous West Coast estate.
+    ncal-varsity:1180.0 | e | Hearst Castle, built for William Randolph Hearst, is in which state? => California
+    ncal-varsity:1180.1 | m | Which woman architect designed Hearst Castle? => Julia Morgan ; Morgan
+    ncal-varsity:1180.2 | h | Hearst Castle sits above which small coastal town on the central coast? => San Simeon
+ncal-varsity:1181 | BONUS m | Architecture | Answer these questions about a famous urban park.
+    ncal-varsity:1181.0 | e | Balboa Park is in which California city? => San Diego
+    ncal-varsity:1181.1 | m | Which 1915 world's fair led to the building of many of the park's Spanish Colonial Revival buildings? => Panama-California Exposition ; Panama California Exposition
+    ncal-varsity:1181.2 | h | Which tiled-dome tower, designed for the Exposition, is a landmark of the Museum of Us? => California Tower
+ncal-varsity:1182 | BONUS m | Architecture | Answer these questions about Abu Simbel.
+    ncal-varsity:1182.0 | e | The temples of Abu Simbel were carved to honor which pharaoh? => Ramses II ; Ramesses II ; Ramses the Great ; Ramses the Second
+    ncal-varsity:1182.1 | m | Abu Simbel stands beside which river? => Nile ; Nile River ; The Nile
+    ncal-varsity:1182.2 | h | Which dam's reservoir forced Abu Simbel to be moved in the 1960s? => Aswan High Dam ; Aswan Dam ; High Dam
+ncal-varsity:1183 | BONUS m | Architecture | Answer these questions about a famous Catalan architect.
+    ncal-varsity:1183.0 | e | Antoni Gaudí designed most of his buildings in which Spanish city? => Barcelona
+    ncal-varsity:1183.1 | m | Casa Milà goes by what nickname meaning "the stone quarry"? => La Pedrera ; Pedrera
+    ncal-varsity:1183.2 | h | What name is given to Gaudí's mosaic technique using broken tile pieces? => trencadís ; trencadis
+ncal-varsity:1184 | e | Operas and Musicals | Which Austrian composer of "Eine kleine Nachtmusik" also wrote the opera "The Magic Flute"? => Wolfgang Amadeus Mozart ; Mozart
+ncal-varsity:1185 | e | Operas and Musicals | Which French composer died in 1875, shortly after the premiere of "Carmen"? => Georges Bizet ; Bizet
+ncal-varsity:1186 | e | Operas and Musicals | Which Italian composer wrote the opera "Aida"? => Giuseppe Verdi ; Verdi
+ncal-varsity:1187 | e | Operas and Musicals | Which Disney stage musical follows a lion cub named Simba? => The Lion King ; Lion King
+ncal-varsity:1188 | e | Operas and Musicals | Which Andrew Lloyd Webber musical is about a disfigured musician haunting the Paris Opera House? => The Phantom of the Opera ; Phantom of the Opera ; Phantom
+ncal-varsity:1189 | e | Operas and Musicals | Which Lin-Manuel Miranda musical tells the story of a founding father who became the first Secretary of the Treasury? => Hamilton
+ncal-varsity:1190 | e | Operas and Musicals | Which Rodgers and Hammerstein musical follows a governess and the seven children of Captain von Trapp? => The Sound of Music ; Sound of Music
+ncal-varsity:1191 | e | Operas and Musicals | "West Side Story" is a modern retelling of which Shakespeare play? => Romeo and Juliet
+ncal-varsity:1192 | e | Operas and Musicals | Which musical, based on poems by T. S. Eliot, features Grizabella singing "Memory"? => Cats
+ncal-varsity:1193 | e | Operas and Musicals | "Wicked" tells the untold story of the witches of which fictional land? => Oz ; Land of Oz ; the Land of Oz
+ncal-varsity:1194 | e | Operas and Musicals | Which American composer wrote the opera "Porgy and Bess"? => George Gershwin ; Gershwin
+ncal-varsity:1195 | e | Operas and Musicals | In "Les Misérables," which ex-convict is the main character? => Jean Valjean ; Valjean
+ncal-varsity:1196 | e | Operas and Musicals | Which musical is set at Rydell High School and features Danny and Sandy? => Grease
+ncal-varsity:1197 | e | Operas and Musicals | Which musical features an orphan with curly red hair who sings "Tomorrow"? => Annie
+ncal-varsity:1198 | e | Operas and Musicals | Which American conductor of the New York Philharmonic wrote "Chichester Psalms"? => Leonard Bernstein ; Bernstein
+ncal-varsity:1199 | e | Operas and Musicals | Which term for an operatic solo comes from the Italian word for "air"? => aria
+ncal-varsity:1200 | e | Operas and Musicals | What word names the text and lyrics of an opera or musical? => libretto
+ncal-varsity:1201 | e | Operas and Musicals | What is the highest type of female singing voice? => soprano
+ncal-varsity:1202 | e | Operas and Musicals | Which street in New York City is the center of American commercial theater? => Broadway
+ncal-varsity:1203 | e | Operas and Musicals | What award is given each year for excellence in Broadway theater? => Tony Award ; Tony ; Tonys
+ncal-varsity:1204 | e | Operas and Musicals | Whose songs are used in the musical "Mamma Mia!"? => ABBA ; Abba
+ncal-varsity:1205 | e | Operas and Musicals | Which composer wrote "Cats," "Evita," and "Jesus Christ Superstar"? => Andrew Lloyd Webber ; Lloyd Webber

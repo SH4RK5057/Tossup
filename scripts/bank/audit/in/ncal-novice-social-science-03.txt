@@ -1,0 +1,103 @@
+ncal-novice:825 | m | World Cultures | What is the name of the Hindu place of worship? => temple ; mandir
+ncal-novice:826 | m | World Cultures | What is the name of the Sikh place of worship? => gurdwara
+ncal-novice:827 | m | World Cultures | Which city in Saudi Arabia is the holiest city of Islam and the destination of the Hajj pilgrimage? => Mecca
+ncal-novice:828 | m | World Cultures | Which tiny independent city-state inside Rome is the home of the Pope? => Vatican City ; Vatican
+ncal-novice:829 | m | World Cultures | What is the name of the Japanese art of folding paper into shapes like cranes? => origami
+ncal-novice:830 | m | World Cultures | What is the traditional Japanese tea ceremony drink made from powdered green tea? => matcha
+ncal-novice:831 | m | World Cultures | Which country hosts the annual Carnival festival in Rio de Janeiro? => Brazil
+ncal-novice:832 | m | World Cultures | What is the national dance of Argentina, which is danced by couples in a close embrace? => tango
+ncal-novice:833 | m | World Cultures | Which Spanish dance involves castanets, stomping, and flowing ruffled dresses? => flamenco
+ncal-novice:834 | m | World Cultures | What is the name of the Native American dwelling shaped like a cone and covered in animal skins? => tepee ; teepee ; tipi
+ncal-novice:835 | m | World Cultures | What is the Hawaiian dance that uses hand and hip movements to tell stories? => hula
+ncal-novice:836 | m | World Cultures | Which traditional Irish holiday on March 17 honors the country's patron saint? => Saint Patrick's Day ; Saint Patricks Day
+ncal-novice:837 | m | World Cultures | Which country gave the Statue of Liberty to the United States? => France
+ncal-novice:838 | m | World Cultures | What is the name of the Chinese zodiac animal for the year that follows the Year of the Rat? => ox ; Year of the Ox ; Ox
+ncal-novice:839 | m | World Cultures | What is the traditional Indian women's garment that is a long cloth draped around the body? => sari ; saree
+ncal-novice:840 | m | World Cultures | What is the name of the Indigenous people who built the city of Machu Picchu in Peru? => Inca ; Incas
+ncal-novice:841 | m | World Cultures | Which ancient people of Mexico built the pyramid at Chichen Itza? => Maya ; Mayan ; Mayans
+ncal-novice:842 | m | World Cultures | What is the German word for "thank you"? => danke
+ncal-novice:843 | m | World Cultures | What is the name of the continent where the country of Kenya is located? => Africa
+ncal-novice:844 | m | World Cultures | What is the name of the traditional Mongolian round tent used by nomads? => yurt ; ger ; gher
+ncal-novice:845 | h | World Cultures | What is the Jewish day of rest that begins at sundown on Friday? => Sabbath ; Shabbat
+ncal-novice:846 | h | World Cultures | What is the name of the Muslim fasting month that ends with the festival of Eid al-Fitr? => Ramadan
+ncal-novice:847 | h | World Cultures | Which Jewish holiday marks the New Year and is celebrated with the blowing of the shofar? => Rosh Hashanah
+ncal-novice:848 | h | World Cultures | What is the name of the festival in Munich, Germany, known for beer and held each autumn? => Oktoberfest
+ncal-novice:849 | h | World Cultures | What is the traditional Scottish skirt-like garment made of tartan wool? => kilt
+ncal-novice:850 | h | World Cultures | Which type of Japanese poem has three lines with five, seven, and five syllables? => haiku
+ncal-novice:851 | h | World Cultures | Which Indigenous Australian people have lived on the continent for tens of thousands of years, and are known for the didgeridoo? => Aboriginal Australians ; Aboriginal ; Aborigines
+ncal-novice:852 | h | World Cultures | What is the Maori war dance from New Zealand that is performed by rugby teams before matches? => haka
+ncal-novice:853 | h | World Cultures | What is the name of the Hindu god who is the remover of obstacles and has the head of an elephant? => Ganesha ; Ganesh
+ncal-novice:854 | h | World Cultures | What is the name of the Spanish festival in Pamplona where people run before bulls? => Running of the Bulls ; San Fermin
+ncal-novice:855 | h | World Cultures | What is the traditional Russian nesting doll set called? => matryoshka ; Russian nesting doll
+ncal-novice:856 | h | World Cultures | What is the name of the Italian city famous for canals and gondolas? => Venice
+ncal-novice:857 | h | World Cultures | What is the name of the Chinese festival celebrated with lanterns on the fifteenth day of the first lunar month? => Lantern Festival
+ncal-novice:858 | h | World Cultures | What is the large drum used in Japanese festivals called? => taiko
+ncal-novice:859 | h | World Cultures | What name is given to the traditional African cloth woven in bright patterns by the Ashanti of Ghana? => kente ; kente cloth
+ncal-novice:860 | BONUS e | World Cultures | Answer these questions about world religions.
+    ncal-novice:860.0 | e | What is the name of the Christian place of worship led by a pastor or priest? => church
+    ncal-novice:860.1 | m | What is the holy book of the Jewish religion, whose first five books are the Torah? => Tanakh ; Hebrew Bible
+    ncal-novice:860.2 | h | What is the name of the Hindu belief that a soul is reborn after death? => reincarnation ; rebirth
+ncal-novice:861 | BONUS m | World Cultures | Answer these questions about holidays around the world.
+    ncal-novice:861.0 | e | Which holiday is celebrated each year on January 1? => New Year's Day ; New Years Day
+    ncal-novice:861.1 | m | Which Muslim festival marks the end of Ramadan? => Eid al-Fitr ; Eid
+    ncal-novice:861.2 | h | Which Jewish holiday celebrates the exodus from Egypt with a special meal called a seder? => Passover
+ncal-novice:862 | BONUS e | World Cultures | Answer these questions about world foods.
+    ncal-novice:862.0 | e | Which country is famous for tacos and burritos? => Mexico
+    ncal-novice:862.1 | m | Which Asian country is famous for kimchi? => South Korea ; Korea
+    ncal-novice:862.2 | h | Which Middle Eastern food is made from mashed chickpeas and tahini? => hummus
+ncal-novice:863 | BONUS m | World Cultures | Answer these questions about traditional clothing.
+    ncal-novice:863.0 | e | What kind of shoes are traditionally made of wood and worn in the Netherlands? => wooden shoes ; clogs
+    ncal-novice:863.1 | m | What is the name of the Mexican wide-brimmed hat? => sombrero
+    ncal-novice:863.2 | h | What loose, brightly patterned dress is traditionally worn in Hawaii? => muumuu
+ncal-novice:864 | BONUS e | World Cultures | Answer these questions about world landmarks.
+    ncal-novice:864.0 | e | Which tower in Pisa, Italy, is famous for leaning? => Leaning Tower of Pisa ; Leaning Tower
+    ncal-novice:864.1 | m | Which ancient amphitheater in Rome hosted gladiator fights? => Colosseum
+    ncal-novice:864.2 | h | Which ancient temple on the Acropolis in Athens is dedicated to the goddess Athena? => Parthenon
+ncal-novice:865 | BONUS m | World Cultures | Answer these questions about languages.
+    ncal-novice:865.0 | e | What language is spoken in most of Spain and Mexico? => Spanish
+    ncal-novice:865.1 | m | What is the official language of Egypt? => Arabic
+    ncal-novice:865.2 | h | What language is spoken by the people of Russia and uses the Cyrillic alphabet? => Russian
+ncal-novice:866 | BONUS e | World Cultures | Answer these questions about music and dance traditions.
+    ncal-novice:866.0 | e | From which country does the dance called the waltz come, with Vienna as a famous center? => Austria
+    ncal-novice:866.1 | m | Which country is the home of reggae music, with Bob Marley as its best-known artist? => Jamaica
+    ncal-novice:866.2 | h | Which Brazilian martial art combines dance, acrobatics, and music? => capoeira
+ncal-novice:867 | BONUS m | World Cultures | Answer these questions about Indigenous cultures.
+    ncal-novice:867.0 | e | What are the original peoples of North America often called? => Native Americans ; American Indians ; Indigenous peoples
+    ncal-novice:867.1 | m | Which people of northern Canada, Alaska, and Greenland traditionally built igloos? => Inuit ; Eskimo
+    ncal-novice:867.2 | h | Which Native American nation had a written syllabary invented by Sequoyah? => Cherokee
+ncal-novice:868 | BONUS e | World Cultures | Answer these questions about Asian cultures.
+    ncal-novice:868.0 | e | What is the Chinese tradition of giving red envelopes with money during Lunar New Year called? => red envelope ; hongbao
+    ncal-novice:868.1 | m | Which Japanese sport features large wrestlers who try to push each other out of a ring? => sumo ; sumo wrestling
+    ncal-novice:868.2 | h | What is the name of the Korean traditional dress with a high waist and a wide skirt? => hanbok
+ncal-novice:869 | BONUS m | World Cultures | Answer these questions about Africa.
+    ncal-novice:869.0 | e | What is the name of the largest desert in Africa? => Sahara Desert ; Sahara
+    ncal-novice:869.1 | m | Which East African people are known for their red clothing and jumping dance? => Maasai ; Masai
+    ncal-novice:869.2 | h | Which ancient Egyptian writing system used pictures as symbols? => hieroglyphics ; hieroglyphs
+ncal-novice:870 | BONUS e | World Cultures | Answer these questions about Europe.
+    ncal-novice:870.0 | e | In which European country do people celebrate Oktoberfest? => Germany
+    ncal-novice:870.1 | m | Which European country is home to flamenco dancing and bullfighting? => Spain
+    ncal-novice:870.2 | h | Which Scandinavian country gave the world the Vikings and has Oslo as its capital? => Norway
+ncal-novice:871 | BONUS m | World Cultures | Answer these questions about the Americas.
+    ncal-novice:871.0 | e | Which Indigenous civilization of Mexico built the city of Tenochtitlan? => Aztec ; Aztecs ; Mexica
+    ncal-novice:871.1 | m | Which South American country is known for the Inca ruins of Machu Picchu? => Peru
+    ncal-novice:871.2 | h | Which Canadian province is mainly French-speaking? => Quebec
+ncal-novice:872 | BONUS e | World Cultures | Answer these questions about holidays and celebrations.
+    ncal-novice:872.0 | e | Which holiday celebrated on October 31 involves costumes and trick-or-treating? => Halloween
+    ncal-novice:872.1 | m | Which Hindu festival of colors involves throwing colored powder? => Holi
+    ncal-novice:872.2 | h | Which Christian season of forty days precedes Easter? => Lent
+ncal-novice:873 | BONUS m | World Cultures | Answer these questions about South America.
+    ncal-novice:873.0 | e | Which South American country has the city of Rio de Janeiro? => Brazil
+    ncal-novice:873.1 | m | Which South American country is known for gauchos and tango, with the capital Buenos Aires? => Argentina
+    ncal-novice:873.2 | h | Which South American mountain range is home to the Inca civilization? => Andes ; Andes Mountains
+ncal-novice:874 | BONUS e | World Cultures | Answer these questions about world cuisine.
+    ncal-novice:874.0 | e | Which country is famous for the dish paella? => Spain
+    ncal-novice:874.1 | m | Which Indian bread is cooked in a tandoor oven? => naan
+    ncal-novice:874.2 | h | Which Italian dish is made from layers of pasta, meat sauce, and cheese? => lasagna
+ncal-novice:875 | BONUS m | World Cultures | Answer these questions about Asia.
+    ncal-novice:875.0 | e | Which Asian country is home to the Great Wall? => China
+    ncal-novice:875.1 | m | Which Asian country is known as the Land of the Rising Sun? => Japan
+    ncal-novice:875.2 | h | Which Himalayan kingdom is known for its Buddhist monasteries and the Bhutanese national policy of Gross National Happiness? => Bhutan
+ncal-novice:876 | BONUS e | World Cultures | Answer these questions about the Middle East.
+    ncal-novice:876.0 | e | Which city is holy to Jews, Christians, and Muslims and is the capital of Israel? => Jerusalem
+    ncal-novice:876.1 | m | What is the large desert on the Arabian Peninsula's southern region called? => Rub al Khali ; Empty Quarter
+    ncal-novice:876.2 | h | What is the name of the pilgrimage to Mecca that every able Muslim should perform once? => Hajj

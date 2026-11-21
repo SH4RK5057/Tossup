@@ -1,0 +1,168 @@
+ncal-varsity:1641 | m | Economics | What kind of cost does not change as output changes in the short run? => fixed cost ; fixed costs
+ncal-varsity:1642 | m | Economics | What kind of cost rises and falls with the quantity produced? => variable cost ; variable costs
+ncal-varsity:1643 | m | Economics | What term describes falling average costs as a firm increases its output? => economies of scale
+ncal-varsity:1644 | m | Economics | What market structure has many sellers, identical products, and easy entry? => perfect competition ; pure competition
+ncal-varsity:1645 | m | Economics | What market structure has many sellers offering differentiated products? => monopolistic competition
+ncal-varsity:1646 | m | Economics | What is a group of producers that agree to limit output to raise prices? => cartel
+ncal-varsity:1647 | m | Economics | Which 1890 federal law, named for an Ohio senator, targeted monopolies? => Sherman Antitrust Act ; Sherman Act
+ncal-varsity:1648 | m | Economics | What is the fraction of deposits that banks must hold rather than lend out? => reserve requirement ; required reserves
+ncal-varsity:1649 | m | Economics | What is the interest rate the Federal Reserve charges commercial banks for loans? => discount rate
+ncal-varsity:1650 | m | Economics | What is the buying and selling of government securities by the Federal Reserve to adjust the money supply called? => open market operations ; open market operation
+ncal-varsity:1651 | m | Economics | What term describes the situation in which government borrowing raises interest rates and reduces private investment? => crowding out
+ncal-varsity:1652 | m | Economics | What term describes high inflation combined with stagnant growth and high unemployment? => stagflation
+ncal-varsity:1653 | m | Economics | What curve shows the total demand for goods and services at different price levels? => aggregate demand ; aggregate demand curve
+ncal-varsity:1654 | m | Economics | What curve shows total output firms will produce at different price levels? => aggregate supply ; aggregate supply curve
+ncal-varsity:1655 | m | Economics | Which curve depicts an inverse relationship between inflation and unemployment? => Phillips curve
+ncal-varsity:1656 | m | Economics | Which curve, named for an economist, relates tax rates to government revenue? => Laffer curve
+ncal-varsity:1657 | m | Economics | Which curve graphs the cumulative share of income against the cumulative share of households? => Lorenz curve
+ncal-varsity:1658 | m | Economics | What index measures income inequality on a scale from zero to one? => Gini coefficient ; Gini index ; Gini
+ncal-varsity:1659 | m | Economics | Which Chicago School economist advocated monetarism? => Milton Friedman ; Friedman
+ncal-varsity:1660 | m | Economics | Which Austrian economist wrote "The Road to Serfdom"? => Friedrich Hayek ; Hayek
+ncal-varsity:1661 | m | Economics | Which philosopher co-wrote "The Communist Manifesto" and wrote "Das Kapital"? => Karl Marx ; Marx
+ncal-varsity:1662 | m | Economics | Which British economist developed the theory of comparative advantage in 1817? => David Ricardo ; Ricardo
+ncal-varsity:1663 | m | Economics | Which English cleric argued that population grows faster than food supply? => Thomas Malthus ; Malthus
+ncal-varsity:1664 | m | Economics | What term describes a cost or benefit that spills over to a third party? => externality ; externalities
+ncal-varsity:1665 | m | Economics | What kind of good is nonexcludable and nonrival, like national defense? => public good
+ncal-varsity:1666 | m | Economics | What problem arises when people benefit from a good without paying for it? => free rider problem ; free-rider problem
+ncal-varsity:1667 | m | Economics | What term describes the overuse of a shared resource because no one owns it? => tragedy of the commons
+ncal-varsity:1668 | m | Economics | What term describes people taking greater risks because they are protected from the consequences? => moral hazard
+ncal-varsity:1669 | m | Economics | What term describes one party in a transaction having more information, leading to unbalanced selection of risks? => adverse selection
+ncal-varsity:1670 | m | Economics | What is the loss of total surplus caused by a market distortion such as a tax? => deadweight loss
+ncal-varsity:1671 | m | Economics | What is the difference between what consumers are willing to pay and what they actually pay? => consumer surplus
+ncal-varsity:1672 | m | Economics | What is the difference between the price a seller receives and the minimum price the seller would accept? => producer surplus
+ncal-varsity:1673 | m | Economics | What term describes GDP measured in current prices without adjusting for inflation? => nominal GDP ; nominal gross domestic product
+ncal-varsity:1674 | m | Economics | What term describes GDP adjusted for changes in prices? => real GDP ; real gross domestic product
+ncal-varsity:1675 | m | Economics | What record tracks all transactions between one country and the rest of the world? => balance of payments
+ncal-varsity:1676 | m | Economics | What is the price of one currency in terms of another? => exchange rate
+ncal-varsity:1677 | m | Economics | What is a fall in a currency's value under a floating exchange rate system called? => depreciation
+ncal-varsity:1678 | m | Economics | Which international organization, founded in 1995, oversees global trade rules? => World Trade Organization ; WTO
+ncal-varsity:1679 | m | Economics | Which international organization, based in Washington, makes loans to countries with balance-of-payments problems? => International Monetary Fund ; IMF
+ncal-varsity:1680 | m | Economics | What is the recurring pattern of expansion and contraction in an economy called? => business cycle
+ncal-varsity:1681 | m | Economics | What term describes a central bank buying large amounts of financial assets to stimulate the economy? => quantitative easing
+ncal-varsity:1682 | m | Economics | What term describes how easily an asset can be converted into cash? => liquidity
+ncal-varsity:1683 | h | Economics | Which index, based on market shares squared, measures market concentration? => Herfindahl-Hirschman Index ; Herfindahl index ; HHI
+ncal-varsity:1684 | h | Economics | What term describes an allocation where no one can be made better off without making someone worse off? => Pareto efficiency ; Pareto optimality ; Pareto optimal ; Pareto efficient
+ncal-varsity:1685 | h | Economics | Which theorem says private bargaining can solve externalities when transaction costs are low? => Coase theorem ; Coase Theorem
+ncal-varsity:1686 | h | Economics | What game theory outcome is one in which no player can gain by changing strategy alone? => Nash equilibrium
+ncal-varsity:1687 | h | Economics | In which game theory scenario do two rational players each choose betrayal even though cooperation would be better? => prisoner's dilemma ; the prisoner's dilemma
+ncal-varsity:1688 | h | Economics | What term describes an inferior good whose demand rises when its price rises? => Giffen good
+ncal-varsity:1689 | h | Economics | What term describes a luxury good whose demand rises as its price rises because of prestige? => Veblen good
+ncal-varsity:1690 | h | Economics | Which law, often summarized as "bad money drives out good," is named for a Tudor financier? => Gresham's law ; Gresham's Law
+ncal-varsity:1691 | h | Economics | Which law is often summarized as "supply creates its own demand"? => Say's law ; Say's Law
+ncal-varsity:1692 | h | Economics | Which proposition says deficit-financed tax cuts are offset by increased private saving? => Ricardian equivalence
+ncal-varsity:1693 | h | Economics | Which equation links the nominal interest rate to the real rate and expected inflation? => Fisher equation
+ncal-varsity:1694 | h | Economics | Which economist developed a neoclassical growth model emphasizing technology and capital accumulation? => Robert Solow ; Solow
+ncal-varsity:1695 | h | Economics | Which 1944 conference established the postwar fixed exchange rate system? => Bretton Woods ; Bretton Woods Conference ; Bretton Woods system
+ncal-varsity:1696 | h | Economics | Which 1930 tariff act raised duties on thousands of imports and deepened the Depression? => Smoot-Hawley Tariff Act ; Smoot-Hawley ; Hawley-Smoot Tariff ; Smoot-Hawley Tariff ; Hawley-Smoot Tariff Act
+ncal-varsity:1697 | h | Economics | Which 1933 banking act separated commercial and investment banking? => Glass-Steagall Act ; Glass-Steagall ; Banking Act of 1933
+ncal-varsity:1698 | h | Economics | Which committee of the Federal Reserve sets targets for the federal funds rate? => Federal Open Market Committee ; FOMC
+ncal-varsity:1699 | h | Economics | What rule suggests how central banks should set interest rates based on inflation and output gaps? => Taylor rule ; The Taylor Rule
+ncal-varsity:1700 | h | Economics | Which equation, expressed as MV equals PQ, underlies the quantity theory of money? => equation of exchange ; quantity equation ; quantity theory of money
+ncal-varsity:1701 | h | Economics | Which law links changes in unemployment to changes in output? => Okun's law ; Okun's Law
+ncal-varsity:1702 | h | Economics | Which theory holds that exchange rates adjust so identical goods cost the same across countries? => purchasing power parity ; PPP
+ncal-varsity:1703 | h | Economics | Which trade model predicts that countries export goods intensive in their abundant factors? => Heckscher-Ohlin model ; Heckscher-Ohlin ; Heckscher-Ohlin theory
+ncal-varsity:1704 | h | Economics | What condition describes monetary policy losing effectiveness because interest rates are near zero? => liquidity trap
+ncal-varsity:1705 | BONUS m | Economics | Answer these questions about factors of production.
+    ncal-varsity:1705.0 | e | What factor of production consists of natural resources such as soil and minerals? => land
+    ncal-varsity:1705.1 | m | What term refers to the human work effort used to produce goods and services? => labor ; labour
+    ncal-varsity:1705.2 | h | Which factor of production is the organizing of the other inputs and the bearing of risk to start a business? => entrepreneurship
+ncal-varsity:1706 | BONUS m | Economics | Answer these questions about money.
+    ncal-varsity:1706.0 | e | What type of money is made of a valuable material such as gold or silver? => commodity money
+    ncal-varsity:1706.1 | m | What term describes money whose value comes from government decree rather than a physical commodity? => fiat money ; fiat currency
+    ncal-varsity:1706.2 | h | What name is given to money held in checking accounts that can be withdrawn at any time? => demand deposits ; checking deposits ; checkable deposits
+ncal-varsity:1707 | BONUS m | Economics | Answer these questions about banking and the Federal Reserve.
+    ncal-varsity:1707.0 | e | What do banks pay savers and charge borrowers? => interest
+    ncal-varsity:1707.1 | m | Which act created the Federal Reserve System in 1913? => Federal Reserve Act
+    ncal-varsity:1707.2 | h | Which government agency, created in 1933, insures bank deposits? => Federal Deposit Insurance Corporation ; FDIC
+ncal-varsity:1708 | BONUS m | Economics | Answer these questions about unemployment.
+    ncal-varsity:1708.0 | e | What is unemployment due to workers moving between jobs called? => frictional unemployment ; frictional
+    ncal-varsity:1708.1 | m | What is unemployment due to a mismatch of workers' skills and available jobs called? => structural unemployment ; structural
+    ncal-varsity:1708.2 | h | What is unemployment that rises and falls with the business cycle called? => cyclical unemployment ; cyclical
+ncal-varsity:1709 | BONUS m | Economics | Answer these questions about inflation measures.
+    ncal-varsity:1709.0 | e | What kind of price rise do economists call "cost-push" or "demand-pull" varieties of? => inflation
+    ncal-varsity:1709.1 | m | Which index tracks the cost of a typical basket of consumer goods? => Consumer Price Index ; CPI
+    ncal-varsity:1709.2 | h | What term describes a self-reinforcing cycle in which wages and prices rise together? => wage-price spiral
+ncal-varsity:1710 | BONUS m | Economics | Answer these questions about taxes.
+    ncal-varsity:1710.0 | e | What kind of tax takes a smaller share of income as income rises? => regressive tax ; regressive
+    ncal-varsity:1710.1 | m | What tax is paid on the profits of businesses? => corporate income tax ; corporate tax
+    ncal-varsity:1710.2 | h | What term describes the tax rate applied to the last dollar of income earned? => marginal tax rate ; marginal rate
+ncal-varsity:1711 | BONUS m | Economics | Answer these questions about international trade.
+    ncal-varsity:1711.0 | e | What is a limit on the quantity of a good that may be imported? => quota ; import quota
+    ncal-varsity:1711.1 | m | What do we call goods and services sold to other countries? => exports ; export
+    ncal-varsity:1711.2 | h | Which 1994 agreement created a free trade area among the United States, Canada, and Mexico? => North American Free Trade Agreement ; NAFTA
+ncal-varsity:1712 | BONUS m | Economics | Answer these questions about market structures.
+    ncal-varsity:1712.0 | e | What term describes a market with a single buyer rather than a single seller? => monopsony
+    ncal-varsity:1712.1 | m | What term describes a monopoly that arises because one firm can supply the whole market at the lowest cost? => natural monopoly
+    ncal-varsity:1712.2 | h | What term describes a market with exactly two sellers? => duopoly
+ncal-varsity:1713 | BONUS m | Economics | Answer these questions about government and the economy.
+    ncal-varsity:1713.0 | e | What term describes the amount by which government spending exceeds revenue in a year? => budget deficit ; deficit
+    ncal-varsity:1713.1 | m | What is the total of a government's past borrowing that it still owes called? => national debt ; public debt ; government debt
+    ncal-varsity:1713.2 | h | What term describes programs like unemployment benefits that automatically cushion downturns without new legislation? => automatic stabilizers ; automatic stabilizer
+ncal-varsity:1714 | BONUS m | Economics | Answer these questions about consumer behavior.
+    ncal-varsity:1714.0 | e | What term describes the limit on a consumer's spending set by income and prices? => budget constraint
+    ncal-varsity:1714.1 | m | What term describes the extra satisfaction from consuming one more unit of a good? => marginal utility
+    ncal-varsity:1714.2 | h | What term measures how responsive quantity demanded is to a change in consumer income? => income elasticity of demand ; income elasticity
+ncal-varsity:1715 | BONUS m | Economics | Answer these questions about a firm's finances.
+    ncal-varsity:1715.0 | e | What term describes the money a firm receives from its sales? => revenue ; total revenue
+    ncal-varsity:1715.1 | m | What term describes total cost divided by quantity produced? => average total cost ; average cost
+    ncal-varsity:1715.2 | h | What cost per unit is found by dividing variable cost by quantity produced? => average variable cost
+ncal-varsity:1716 | BONUS m | Economics | Answer these questions about rising living standards.
+    ncal-varsity:1716.0 | e | What term describes an increase in a country's output of goods and services over time? => economic growth
+    ncal-varsity:1716.1 | m | What term describes output per hour of work? => productivity ; labor productivity
+    ncal-varsity:1716.2 | h | What term describes the stock of knowledge and skills held by workers? => human capital
+ncal-varsity:1717 | BONUS m | Economics | Answer these questions about the New Deal.
+    ncal-varsity:1717.0 | e | Which New Deal program put young men to work on conservation projects? => Civilian Conservation Corps ; CCC
+    ncal-varsity:1717.1 | m | Which 1935 law created a national retirement program? => Social Security Act
+    ncal-varsity:1717.2 | h | Which agency, created in 1934, regulates securities markets? => Securities and Exchange Commission ; SEC
+ncal-varsity:1718 | BONUS m | Economics | Answer these questions about economic systems.
+    ncal-varsity:1718.0 | e | What system relies on private ownership and markets? => capitalism
+    ncal-varsity:1718.1 | m | What system seeks collective ownership of the means of production? => socialism
+    ncal-varsity:1718.2 | h | Which 1921 Soviet policy allowed limited private trade after War Communism? => New Economic Policy ; NEP
+ncal-varsity:1719 | BONUS m | Economics | Answer these questions about related goods.
+    ncal-varsity:1719.0 | e | What term describes goods used together, such as printers and ink cartridges? => complements ; complementary goods ; complement
+    ncal-varsity:1719.1 | m | What term describes goods that can replace each other, such as butter and margarine? => substitutes ; substitute goods ; substitute
+    ncal-varsity:1719.2 | h | What term describes a good whose demand falls as consumer income rises? => inferior good
+ncal-varsity:1720 | BONUS m | Economics | Answer these questions about labor markets.
+    ncal-varsity:1720.0 | e | What is the lowest hourly pay allowed by law called? => minimum wage
+    ncal-varsity:1720.1 | m | What term describes workers bargaining together with an employer through a union? => collective bargaining
+    ncal-varsity:1720.2 | h | Which 1935 law guaranteed American workers the right to organize unions? => Wagner Act ; National Labor Relations Act
+ncal-varsity:1721 | BONUS m | Economics | Answer these questions about financial markets.
+    ncal-varsity:1721.0 | e | What term describes a fund pooling investors' money to buy many securities? => mutual fund
+    ncal-varsity:1721.1 | m | What term describes a prolonged rise in stock prices? => bull market
+    ncal-varsity:1721.2 | h | What term describes a prolonged fall in stock prices of twenty percent or more? => bear market
+ncal-varsity:1722 | BONUS m | Economics | Answer these questions about trade policy.
+    ncal-varsity:1722.0 | e | What term describes shielding domestic industries from foreign competition? => protectionism
+    ncal-varsity:1722.1 | m | What term describes selling goods abroad below their home price? => dumping
+    ncal-varsity:1722.2 | h | What 1947 agreement preceded the World Trade Organization? => General Agreement on Tariffs and Trade ; GATT
+ncal-varsity:1723 | BONUS m | Economics | Answer these questions about the Industrial era economy.
+    ncal-varsity:1723.0 | e | Which factory method uses a moving line of workers? => assembly line
+    ncal-varsity:1723.1 | m | Which automaker introduced the Model T? => Henry Ford ; Ford
+    ncal-varsity:1723.2 | h | What principle of dividing work into specialized tasks did Adam Smith illustrate with pin-making? => division of labor ; division of labour
+ncal-varsity:1724 | BONUS m | Economics | Answer these questions about economic indicators.
+    ncal-varsity:1724.0 | e | What term describes the share of working-age people who are employed or looking for work? => labor force participation rate ; participation rate
+    ncal-varsity:1724.1 | m | What term describes the difference between actual output and potential output? => output gap ; GDP gap
+    ncal-varsity:1724.2 | h | What is the term for a stock index's tracking of a sample of firms' prices as a gauge of the market? => stock market index ; market index ; stock index
+ncal-varsity:1725 | BONUS m | Economics | Answer these questions about risk and insurance.
+    ncal-varsity:1725.0 | e | What payment is made to an insurer to buy coverage? => premium
+    ncal-varsity:1725.1 | m | What term describes spreading investments across many assets to reduce risk? => diversification
+    ncal-varsity:1725.2 | h | What term describes the extra return required for holding a risky asset instead of a safe one? => risk premium
+ncal-varsity:1726 | BONUS m | Economics | Answer these questions about government rules.
+    ncal-varsity:1726.0 | e | What term describes government rules that limit business behavior? => regulation
+    ncal-varsity:1726.1 | m | Which 1970 U.S. agency was created to set environmental standards? => Environmental Protection Agency ; EPA
+    ncal-varsity:1726.2 | h | What term describes a tax on a polluting activity, named for an English economist? => Pigouvian tax ; carbon tax ; pollution tax
+ncal-varsity:1727 | BONUS m | Economics | Answer these questions about currencies.
+    ncal-varsity:1727.0 | e | What term describes a currency rising in value relative to another? => appreciation
+    ncal-varsity:1727.1 | m | What system lets exchange rates move with supply and demand? => floating exchange rate ; floating exchange rates ; flexible exchange rate
+    ncal-varsity:1727.2 | h | What term describes a government setting its currency's value against another? => fixed exchange rate ; peg ; currency peg ; pegged exchange rate ; pegged
+ncal-varsity:1728 | BONUS m | Economics | Answer these questions about European economic integration.
+    ncal-varsity:1728.0 | e | What currency is shared by many countries of the European Union? => euro ; the euro
+    ncal-varsity:1728.1 | m | Which 1992 treaty created the European Union? => Maastricht Treaty ; Treaty of Maastricht ; Maastricht
+    ncal-varsity:1728.2 | h | Which 1957 treaty created the European Economic Community? => Treaty of Rome ; Rome
+ncal-varsity:1729 | BONUS m | Economics | Answer these questions about economists.
+    ncal-varsity:1729.0 | e | Which economist wrote "The Affluent Society"? => John Kenneth Galbraith ; Galbraith
+    ncal-varsity:1729.1 | m | Which economist popularized the phrase "creative destruction"? => Joseph Schumpeter ; Schumpeter
+    ncal-varsity:1729.2 | h | Which English economist wrote "Principles of Political Economy" in 1848? => John Stuart Mill ; Mill
+ncal-varsity:1730 | BONUS m | Economics | Answer these questions about taxation.
+    ncal-varsity:1730.0 | e | What tax is withheld from paychecks to fund Social Security and Medicare? => payroll tax ; FICA
+    ncal-varsity:1730.1 | m | What tax is levied on the value of land and buildings? => property tax
+    ncal-varsity:1730.2 | h | What tax is levied on the value added at each stage of production? => value-added tax ; VAT

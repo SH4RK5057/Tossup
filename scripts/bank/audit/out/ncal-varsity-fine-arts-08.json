@@ -1,0 +1,17 @@
+[
+  {"id": "ncal-varsity:1431.0", "drop": "ambiguous; could be theatre or cinema"},
+  {"id": "ncal-varsity:1456.2", "drop": "specialist trivia, obscure story collection"},
+  {"id": "ncal-varsity:1420.1", "addAlt": ["grandpa"]},
+  {"id": "ncal-varsity:1438.1", "addAlt": ["until soon", "see you shortly"]},
+  {"id": "ncal-varsity:1438.2", "addAlt": ["don't mention it", "no problem", "it's nothing"]},
+  {"id": "ncal-varsity:1440.2", "addAlt": ["thunder storm", "thunderstorms"]},
+  {"id": "ncal-varsity:1444.2", "addAlt": ["violet"]},
+  {"id": "ncal-varsity:1446.1", "addAlt": ["grandma"]},
+  {"id": "ncal-varsity:1458.1", "addAlt": ["subjuntivo"]},
+  {"id": "ncal-varsity:1458.2", "addAlt": ["imperfect tense", "pretérito imperfecto"]},
+  {"id": "ncal-varsity:1464", "difficulty": "medium"},
+  {"id": "ncal-varsity:1465", "difficulty": "easy"},
+  {"id": "ncal-varsity:1466", "difficulty": "medium"},
+  {"id": "ncal-varsity:1467", "difficulty": "easy"},
+  {"id": "ncal-varsity:1468", "difficulty": "medium"}
+]

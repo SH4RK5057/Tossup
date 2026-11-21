@@ -1,0 +1,148 @@
+ncal-varsity:1276 | h | Operas and Musicals | Which composer wrote the music for "Camelot" and "My Fair Lady"? => Frederick Loewe ; Loewe
+ncal-varsity:1277 | h | Operas and Musicals | Which composer wrote the music for "Oliver!"? => Lionel Bart ; Bart
+ncal-varsity:1278 | h | Operas and Musicals | Which German composer's festival theater is in the town of Bayreuth? => Richard Wagner ; Wagner
+ncal-varsity:1279 | h | Operas and Musicals | In Gilbert and Sullivan's "The Mikado," the setting is a town with which name? => Titipu
+ncal-varsity:1280 | h | Operas and Musicals | Which Richard Strauss opera features the Marschallin and a young knight bearing a silver rose? => Der Rosenkavalier ; The Knight of the Rose ; Rosenkavalier
+ncal-varsity:1281 | BONUS m | Operas and Musicals | Answer these questions about Mozart's operas.
+    ncal-varsity:1281.0 | e | Which of Mozart's operas features the bird catcher Papageno? => The Magic Flute ; Magic Flute ; Die Zauberflöte
+    ncal-varsity:1281.1 | m | Which Mozart opera tells of a seducer dragged to hell by a statue? => Don Giovanni
+    ncal-varsity:1281.2 | h | Which Mozart opera, whose title means "Women Are Like That," has two sisters tested by disguised lovers? => Così fan tutte ; Cosi fan tutte
+ncal-varsity:1282 | BONUS m | Operas and Musicals | Answer these questions about Giuseppe Verdi.
+    ncal-varsity:1282.0 | e | Which Verdi opera is set in ancient Egypt and features an Ethiopian princess? => Aida
+    ncal-varsity:1282.1 | m | Which Verdi opera features a hunchbacked court jester and the song "La donna è mobile"? => Rigoletto
+    ncal-varsity:1282.2 | h | Which Verdi opera, based on a Dumas novel, tells of the courtesan Violetta? => La traviata ; La Traviata
+ncal-varsity:1283 | BONUS m | Operas and Musicals | Answer these questions about Giacomo Puccini.
+    ncal-varsity:1283.0 | e | Which Puccini opera features a singer, Floria, and a villain named Scarpia? => Tosca
+    ncal-varsity:1283.1 | m | Which Puccini opera has the aria "O mio babbino caro"? => Gianni Schicchi
+    ncal-varsity:1283.2 | h | Which Puccini opera, set in the American West, was based on a David Belasco play? => The Girl of the Golden West ; La fanciulla del West ; Girl of the Golden West
+ncal-varsity:1284 | BONUS m | Operas and Musicals | Answer these questions about Rodgers and Hammerstein.
+    ncal-varsity:1284.0 | e | Which musical contains "Do-Re-Mi" and "Edelweiss"? => The Sound of Music ; Sound of Music
+    ncal-varsity:1284.1 | m | Which of their musicals features Anna Leonowens? => The King and I ; King and I
+    ncal-varsity:1284.2 | h | Which of their musicals, set on a Pacific island, contains "Some Enchanted Evening"? => South Pacific
+ncal-varsity:1285 | BONUS m | Operas and Musicals | Answer these questions about Andrew Lloyd Webber.
+    ncal-varsity:1285.0 | e | Which musical features the song "Memory" sung by an old cat? => Cats
+    ncal-varsity:1285.1 | m | Which Lloyd Webber musical about a biblical figure has "Any Dream Will Do"? => Joseph and the Amazing Technicolor Dreamcoat ; Joseph
+    ncal-varsity:1285.2 | h | Which Lloyd Webber musical is set on roller skates and trains as characters? => Starlight Express
+ncal-varsity:1286 | BONUS m | Operas and Musicals | Answer these questions about Wagner's operas.
+    ncal-varsity:1286.0 | e | Which Wagner opera begins with the famous "Ride of the Valkyries"? => Die Walküre ; The Valkyrie ; Die Walkure ; Valkyrie
+    ncal-varsity:1286.1 | m | Which Wagner opera tells of a knight, a swan, and the bride Elsa? => Lohengrin
+    ncal-varsity:1286.2 | h | Which Wagner opera, about Irish lovers, opens with the famous "Tristan chord"? => Tristan und Isolde ; Tristan and Isolde
+ncal-varsity:1287 | BONUS m | Operas and Musicals | Answer these questions about Gilbert and Sullivan.
+    ncal-varsity:1287.0 | e | Which Gilbert and Sullivan operetta is set in Japan and features Nanki-Poo? => The Mikado ; Mikado
+    ncal-varsity:1287.1 | m | Which operetta features Sir Joseph Porter, First Lord of the Admiralty, aboard a ship? => HMS Pinafore ; H.M.S. Pinafore ; Pinafore
+    ncal-varsity:1287.2 | h | Which operetta is set in a fairyland with a House of Lords? => Iolanthe
+ncal-varsity:1288 | BONUS m | Operas and Musicals | Answer these questions about Stephen Sondheim.
+    ncal-varsity:1288.0 | e | Which musical features a murderous barber on Fleet Street? => Sweeney Todd ; Sweeney Todd: The Demon Barber of Fleet Street
+    ncal-varsity:1288.1 | m | Which Sondheim musical mixes fairy-tale characters such as Cinderella and Little Red Riding Hood? => Into the Woods
+    ncal-varsity:1288.2 | h | Which Sondheim musical is about the painter Georges Seurat? => Sunday in the Park with George
+ncal-varsity:1289 | BONUS m | Operas and Musicals | Answer these questions about opera terminology.
+    ncal-varsity:1289.0 | e | What word names a sung piece for one voice and orchestra? => aria
+    ncal-varsity:1289.1 | m | Which term names the lowest female singing voice? => contralto ; alto
+    ncal-varsity:1289.2 | h | Which Italian term names a male singer with a high voice produced by preadolescent castration, common in Baroque opera? => castrato
+ncal-varsity:1290 | BONUS m | Operas and Musicals | Answer these questions about Les Misérables.
+    ncal-varsity:1290.0 | e | Which song sung by Fantine begins "There was a time when men were kind"? => I Dreamed a Dream
+    ncal-varsity:1290.1 | m | Which girl is raised by Valjean after her mother Fantine dies? => Cosette
+    ncal-varsity:1290.2 | h | Which student revolutionary leads the barricade? => Enjolras
+ncal-varsity:1291 | BONUS m | Operas and Musicals | Answer these questions about Leonard Bernstein.
+    ncal-varsity:1291.0 | e | Which Bernstein musical retells Romeo and Juliet in New York? => West Side Story
+    ncal-varsity:1291.1 | m | Which Bernstein musical, based on Voltaire, includes "Glitter and Be Gay"? => Candide
+    ncal-varsity:1291.2 | h | Which Bernstein musical set in New York features three sailors on leave? => On the Town
+ncal-varsity:1292 | BONUS m | Operas and Musicals | Answer these questions about Hamilton.
+    ncal-varsity:1292.0 | e | Who wrote "Hamilton"? => Lin-Manuel Miranda ; Miranda
+    ncal-varsity:1292.1 | m | Which Schuyler sister sings "Satisfied" at a wedding toast? => Angelica ; Angelica Schuyler
+    ncal-varsity:1292.2 | h | Which king sings "You'll Be Back"? => King George III ; King George ; George III
+ncal-varsity:1293 | BONUS m | Operas and Musicals | Answer these questions about Bizet's Carmen.
+    ncal-varsity:1293.0 | e | In Carmen's Habanera, love is compared to what kind of rebellious animal? => bird ; a bird
+    ncal-varsity:1293.1 | m | Which soldier falls for Carmen? => Don José ; Don Jose ; José ; Jose
+    ncal-varsity:1293.2 | h | Which bullfighter sings the Toreador Song? => Escamillo
+ncal-varsity:1294 | BONUS m | Operas and Musicals | Answer these questions about Cole Porter and Irving Berlin.
+    ncal-varsity:1294.0 | e | Which Irving Berlin song from "Holiday Inn" became a famous Christmas favorite? => White Christmas
+    ncal-varsity:1294.1 | m | Which Cole Porter musical includes the song "Brush Up Your Shakespeare"? => Kiss Me, Kate ; Kiss Me Kate
+    ncal-varsity:1294.2 | h | Which Cole Porter musical, set on an ocean liner, has the song "You're the Top"? => Anything Goes
+ncal-varsity:1295 | BONUS m | Operas and Musicals | Answer these questions about Gershwin.
+    ncal-varsity:1295.0 | e | Which Gershwin brother wrote the lyrics for many of George's songs? => Ira Gershwin ; Ira
+    ncal-varsity:1295.1 | m | Which character in "Porgy and Bess" sings "Summertime" at the beginning? => Clara
+    ncal-varsity:1295.2 | h | Which Gershwin piece for piano and orchestra, premiered in 1924, opens with a clarinet glissando? => Rhapsody in Blue
+ncal-varsity:1296 | BONUS m | Operas and Musicals | Answer these questions about Fiddler on the Roof.
+    ncal-varsity:1296.0 | e | Which dairyman is the main character? => Tevye
+    ncal-varsity:1296.1 | m | Which opening number of the show explains the customs of the village, with the dairyman singing the title? => Tradition
+    ncal-varsity:1296.2 | h | Which Yiddish author's stories about a milkman inspired the musical? => Sholem Aleichem ; Sholom Aleichem
+ncal-varsity:1297 | BONUS m | Operas and Musicals | Answer these questions about The Phantom of the Opera.
+    ncal-varsity:1297.0 | e | What is the Phantom's lair beneath the opera house? => the catacombs ; underground lair ; lake ; the lake
+    ncal-varsity:1297.1 | m | Which young man is Christine's love interest? => Raoul ; Vicomte Raoul de Chagny ; Raoul de Chagny
+    ncal-varsity:1297.2 | h | The Phantom's masked ball scene uses which name for his song? => Masquerade
+ncal-varsity:1298 | BONUS m | Operas and Musicals | Answer these questions about West Side Story.
+    ncal-varsity:1298.0 | e | Which two gangs fight in the musical? => Jets and Sharks ; The Jets and the Sharks
+    ncal-varsity:1298.1 | m | Which comic song sung by the Jets mocks social workers, judges, and psychiatrists? => Gee, Officer Krupke ; Officer Krupke
+    ncal-varsity:1298.2 | h | Which Puerto Rican heroine falls for Tony? => Maria
+ncal-varsity:1299 | m | Operas and Musicals | Which Verdi opera is based on Shakespeare's "Othello"? => Otello ; Othello
+ncal-varsity:1300 | m | Operas and Musicals | Which Disney musical includes the song "Be Our Guest" sung by a candelabrum? => Beauty and the Beast
+ncal-varsity:1301 | m | Operas and Musicals | Which Mel Brooks musical features a Broadway flop called "Springtime for Hitler"? => The Producers ; Producers
+ncal-varsity:1302 | m | Operas and Musicals | Which Italian tenor was one of the "Three Tenors" with Plácido Domingo and José Carreras? => Luciano Pavarotti ; Pavarotti
+ncal-varsity:1303 | h | Operas and Musicals | Which soprano, born in New York to Greek parents, was nicknamed "La Divina"? => Maria Callas ; Callas
+ncal-varsity:1304 | h | Operas and Musicals | Which German composer wrote the Romantic opera "Der Freischütz"? => Carl Maria von Weber ; Weber
+ncal-varsity:1305 | h | Operas and Musicals | Which American composer wrote the opera "Nixon in China"? => John Adams ; Adams
+ncal-varsity:1306 | BONUS m | Operas and Musicals | Answer these questions about opera houses.
+    ncal-varsity:1306.0 | e | Which capital of Austria is home to the Staatsoper on the Ringstrasse? => Vienna
+    ncal-varsity:1306.1 | m | In which English city is the Royal Opera House, Covent Garden? => London
+    ncal-varsity:1306.2 | h | In which Italian city is the Teatro La Fenice? => Venice ; Venezia
+ncal-varsity:1307 | BONUS m | Operas and Musicals | Answer these questions about the musical Annie.
+    ncal-varsity:1307.0 | e | What is the name of Annie's dog? => Sandy
+    ncal-varsity:1307.1 | m | Which billionaire adopts Annie? => Oliver Warbucks ; Daddy Warbucks ; Warbucks
+    ncal-varsity:1307.2 | h | Which cruel woman runs the orphanage? => Miss Hannigan ; Agatha Hannigan ; Hannigan
+ncal-varsity:1308 | BONUS m | Operas and Musicals | Answer these questions about Wicked.
+    ncal-varsity:1308.0 | e | Which good witch befriends Elphaba? => Glinda ; Galinda
+    ncal-varsity:1308.1 | m | At which university do the two witches meet? => Shiz University ; Shiz
+    ncal-varsity:1308.2 | h | Which character is Elphaba's sister, the governor of Munchkinland? => Nessarose
+ncal-varsity:1309 | BONUS m | Operas and Musicals | Answer these questions about The Sound of Music.
+    ncal-varsity:1309.0 | e | In which European country is the musical set? => Austria
+    ncal-varsity:1309.1 | m | In which city does the family live? => Salzburg
+    ncal-varsity:1309.2 | h | From which abbey does Maria come to be a governess? => Nonnberg Abbey ; Nonnberg
+ncal-varsity:1310 | BONUS m | Operas and Musicals | Answer these questions about The Lion King.
+    ncal-varsity:1310.0 | e | Which villainous uncle of Simba wants the throne? => Scar
+    ncal-varsity:1310.1 | m | Which meerkat sings "Hakuna Matata" alongside Pumbaa? => Timon
+    ncal-varsity:1310.2 | h | Which wise mandrill presents Simba to the animals? => Rafiki
+ncal-varsity:1311 | BONUS m | Operas and Musicals | Answer these questions about Oklahoma!
+    ncal-varsity:1311.0 | e | Which cowboy is in love with Laurey? => Curly ; Curly McLain
+    ncal-varsity:1311.1 | m | Which farmhand is Curly's menacing rival? => Jud Fry ; Jud
+    ncal-varsity:1311.2 | h | Which traveling peddler sings "It's a Scandal! It's an Outrage!" and tries to avoid marriage? => Ali Hakim ; Hakim
+ncal-varsity:1312 | BONUS m | Operas and Musicals | Answer these questions about Oliver!
+    ncal-varsity:1312.0 | e | What does Oliver ask for more of at the workhouse? => gruel ; porridge ; more food ; food
+    ncal-varsity:1312.1 | m | Which leader of the pickpockets teaches Oliver the trade? => Fagin
+    ncal-varsity:1312.2 | h | Which girl sings "As Long as He Loves Me"? => Nancy
+ncal-varsity:1313 | BONUS m | Operas and Musicals | Answer these questions about Cabaret.
+    ncal-varsity:1313.0 | e | Which English singer is the star of the nightclub? => Sally Bowles ; Sally
+    ncal-varsity:1313.1 | m | Which nightclub in Berlin is the show's setting? => Kit Kat Klub ; Kit Kat
+    ncal-varsity:1313.2 | h | Which author's "Berlin Stories" inspired the musical? => Christopher Isherwood ; Isherwood
+ncal-varsity:1314 | e | French 3+ | Which city on the Seine, nicknamed the City of Light, is the capital of France? => Paris
+ncal-varsity:1315 | e | French 3+ | Which river runs beneath the Pont Alexandre III in Paris? => the Seine ; Seine ; Seine River
+ncal-varsity:1316 | e | French 3+ | Which iron tower, finished in 1889, is the best-known landmark of Paris? => the Eiffel Tower ; Eiffel Tower ; La Tour Eiffel
+ncal-varsity:1317 | e | French 3+ | What English phrase does the French word "merci" mean? => thank you ; thanks
+ncal-varsity:1318 | e | French 3+ | What is the French word for "apple"? => la pomme ; pomme
+ncal-varsity:1319 | e | French 3+ | Which French holiday, celebrated on July 14, marks the storming of a royal prison in 1789? => Bastille Day ; la Fête nationale ; Fête nationale ; le quatorze juillet
+ncal-varsity:1320 | e | French 3+ | What French greeting means "hello" or "good day"? => bonjour
+ncal-varsity:1321 | e | French 3+ | What French phrase means "goodbye"? => au revoir
+ncal-varsity:1322 | e | French 3+ | What is the French word for "cat"? => le chat ; chat
+ncal-varsity:1323 | e | French 3+ | Which crescent-shaped buttery pastry is a French breakfast favorite? => croissant ; le croissant
+ncal-varsity:1324 | e | French 3+ | Which long, thin loaf of French bread is traditionally eaten with every meal? => baguette ; la baguette
+ncal-varsity:1325 | e | French 3+ | Which palace outside Paris was built by Louis XIV and has a famous Hall of Mirrors? => Versailles ; Palace of Versailles ; le château de Versailles
+ncal-varsity:1326 | e | French 3+ | In which Parisian museum can the "Mona Lisa" be seen? => the Louvre ; Louvre ; Musée du Louvre
+ncal-varsity:1327 | e | French 3+ | Which French military leader crowned himself emperor in 1804? => Napoleon Bonaparte ; Napoleon
+ncal-varsity:1328 | e | French 3+ | Which teenage French heroine, burned at the stake in 1431, led armies against the English? => Joan of Arc ; Jeanne d'Arc
+ncal-varsity:1329 | e | French 3+ | Which French author wrote "The Hunchback of Notre-Dame"? => Victor Hugo ; Hugo
+ncal-varsity:1330 | e | French 3+ | Which French author and pilot wrote "The Little Prince"? => Antoine de Saint-Exupéry ; Saint-Exupéry ; Saint-Exupery ; Antoine de Saint-Exupery
+ncal-varsity:1331 | e | French 3+ | Which European country lies directly south of France across the Pyrenees? => Spain
+ncal-varsity:1332 | e | French 3+ | Which famous annual bicycle race ends on the Champs-Élysées in Paris? => Tour de France ; the Tour de France
+ncal-varsity:1333 | e | French 3+ | Which resort city on the French Riviera hosts a famous annual film festival? => Cannes
+ncal-varsity:1334 | e | French 3+ | What are the three colors of the French flag? => blue, white, and red ; bleu, blanc et rouge ; red, white, and blue ; le tricolore ; blue, white, red
+ncal-varsity:1335 | e | French 3+ | What is the French word for "school"? => l'école ; école ; ecole
+ncal-varsity:1336 | e | French 3+ | What English phrase does the French "merci beaucoup" mean? => thank you very much ; thanks a lot ; many thanks
+ncal-varsity:1337 | e | French 3+ | What is the French word for "book"? => le livre ; livre
+ncal-varsity:1338 | e | French 3+ | Which Canadian province has French as its only official language? => Quebec ; Québec
+ncal-varsity:1339 | e | French 3+ | Which mountain on the French and Italian border is the tallest peak in the Alps? => Mont Blanc
+ncal-varsity:1340 | e | French 3+ | Which body of water separates France from England? => the English Channel ; English Channel ; La Manche
+ncal-varsity:1341 | e | French 3+ | What English word does the French "s'il vous plaît" mean? => please
+ncal-varsity:1342 | e | French 3+ | What is the French word for "dog"? => le chien ; chien
+ncal-varsity:1343 | e | French 3+ | Which French writer wrote "The Three Musketeers"? => Alexandre Dumas ; Dumas
+ncal-varsity:1344 | e | French 3+ | Which French playwright wrote the comedy "Tartuffe"? => Molière ; Moliere
+ncal-varsity:1345 | e | French 3+ | Which French king, known as the Sun King, ruled for 72 years? => Louis XIV ; Louis the Fourteenth ; Louis 14

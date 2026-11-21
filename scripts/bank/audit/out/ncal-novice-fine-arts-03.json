@@ -1,0 +1,16 @@
+[
+{"id":"ncal-novice:401","difficulty":"easy"},
+{"id":"ncal-novice:403","difficulty":"easy"},
+{"id":"ncal-novice:405","difficulty":"easy"},
+{"id":"ncal-novice:415","difficulty":"medium"},
+{"id":"ncal-novice:416","difficulty":"medium"},
+{"id":"ncal-novice:417","difficulty":"medium"},
+{"id":"ncal-novice:445","difficulty":"medium"},
+{"id":"ncal-novice:451","difficulty":"hard"},
+{"id":"ncal-novice:452","addAlt":["Vivaldi"]},
+{"id":"ncal-novice:455","difficulty":"medium"},
+{"id":"ncal-novice:470","difficulty":"hard"},
+{"id":"ncal-novice:433.0","addAlt":["crotchet"]},
+{"id":"ncal-novice:438.1","drop":"obscure instrument-maker trivia for novice level"},
+{"id":"ncal-novice:440.2","drop":"arbitrary number memorized only by specialists"}
+]

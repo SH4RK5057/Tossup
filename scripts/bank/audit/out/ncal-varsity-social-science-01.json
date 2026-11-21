@@ -1,0 +1,22 @@
+[
+  {"id": "ncal-varsity:297", "difficulty": "easy"},
+  {"id": "ncal-varsity:299", "difficulty": "easy"},
+  {"id": "ncal-varsity:313", "difficulty": "easy"},
+  {"id": "ncal-varsity:316", "difficulty": "easy"},
+  {"id": "ncal-varsity:318", "difficulty": "easy"},
+  {"id": "ncal-varsity:331", "difficulty": "easy"},
+  {"id": "ncal-varsity:334", "difficulty": "easy"},
+  {"id": "ncal-varsity:336", "difficulty": "easy"},
+  {"id": "ncal-varsity:337", "difficulty": "easy"},
+  {"id": "ncal-varsity:346", "difficulty": "medium"},
+  {"id": "ncal-varsity:348", "difficulty": "medium"},
+  {"id": "ncal-varsity:354", "difficulty": "medium"},
+  {"id": "ncal-varsity:358", "difficulty": "medium"},
+  {"id": "ncal-varsity:359", "difficulty": "medium"},
+  {"id": "ncal-varsity:360", "difficulty": "medium"},
+  {"id": "ncal-varsity:282", "addAlt": ["President's Cabinet"]},
+  {"id": "ncal-varsity:308", "addAlt": ["Compromise of 1787"]},
+  {"id": "ncal-varsity:361", "setText": "What Latin-named writ, meaning \"to be made more certain,\" is the order the Supreme Court issues to agree to review a lower court's decision?"},
+  {"id": "ncal-varsity:362", "setText": "What 1798 documents, written by Jefferson and Madison, protested the Alien and Sedition Acts?"},
+  {"id": "ncal-varsity:363", "drop": "muddled question; categorical vs conditional grants ambiguous"}
+]

@@ -79,3 +79,11 @@ All are in `src/core/rulesets/ncal.ts`:
 Practice questions are baked into the site: `npm run dev` and `npm run build` first run `scripts/export-site-bank.mjs`, which writes `public/bank/<ruleset>-<level>.json` from `batches/master-import.json` (generated, git-ignored). The browser fetches only the file(s) for the chosen ruleset and level and draws questions at random from all of them, so there are no Firestore reads or quotas. Firestore is still used for reports and the admin tools if configured.
 
 To change the bank: edit the files in `scripts/bank/data/` (or `patches.json`), then `node scripts/bank/build.mjs && node scripts/build-master.mjs`, commit, and push; the deploy rebuilds the site. Admin edits made in the app change Firestore only, not the baked bank.
+
+## Question audit and maintenance
+
+- **Math** (`scripts/bank/gen-math.mjs`) is generated, so every key is computed. Questions are written as the equation the student sees (`3x² − 7x + 2`, `(x² − 49)/(x − 7)`), need no calculator and at most about three simple steps, and trigonometric values are limited to the special angles. Re-run with `npx vite-node scripts/bank/gen-math.mjs`, then `node scripts/bank/build.mjs`.
+- **Audit** of the non-math NCAL questions: `node scripts/bank/audit-export.mjs` writes chunks, auditors (see `scripts/bank/AUDIT.md`) write findings to `scripts/bank/audit/out/`, and `npx vite-node scripts/bank/audit-apply.mjs` turns them into `patches-audit.json` (run it before rebuilding, since it refers to row positions). Patch ops: `drop`, `difficulty`, `addAlt`, `setAnswer`, `setText`, `setLeadin`.
+- **Duplicates**: `node scripts/bank/dup-scan.mjs` finds same-fact duplicates (same answer plus rare shared words, such as a bonus part that repeats a tossup) and writes `patches-dups.json`; `scripts/bank/answers.mjs "<subject>"` lists a subject's existing answers for writers.
+- **Time-sensitive questions**: add `x=YYYY-MM-DD` to a question's options in the bank format (or set the expiry in the editor); the site stops serving it after that date. Current Events questions must have one.
+- Practice sessions draw evenly across categories, then across subjects within a category, so a category with more subjects is not over-represented.

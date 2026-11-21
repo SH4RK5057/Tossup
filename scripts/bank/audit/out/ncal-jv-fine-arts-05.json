@@ -1,0 +1,22 @@
+[
+  {"id": "ncal-jv:1141", "difficulty": "easy"},
+  {"id": "ncal-jv:1145", "difficulty": "easy"},
+  {"id": "ncal-jv:1146", "difficulty": "easy"},
+  {"id": "ncal-jv:1147", "difficulty": "easy"},
+  {"id": "ncal-jv:1157", "difficulty": "easy"},
+  {"id": "ncal-jv:1158", "difficulty": "easy"},
+  {"id": "ncal-jv:1159", "difficulty": "easy"},
+  {"id": "ncal-jv:1161", "difficulty": "easy"},
+  {"id": "ncal-jv:1164", "difficulty": "easy"},
+  {"id": "ncal-jv:1167", "difficulty": "easy"},
+  {"id": "ncal-jv:1173", "difficulty": "easy"},
+  {"id": "ncal-jv:1176", "difficulty": "easy"},
+  {"id": "ncal-jv:1177", "difficulty": "easy"},
+  {"id": "ncal-jv:1186", "difficulty": "medium"},
+  {"id": "ncal-jv:1179", "difficulty": "medium"},
+  {"id": "ncal-jv:1190", "difficulty": "medium"},
+  {"id": "ncal-jv:1194", "difficulty": "easy"},
+  {"id": "ncal-jv:1206.3", "addAlt": ["nous nous assoyons", "assoyons"]},
+  {"id": "ncal-jv:1207.0", "addAlt": ["le professeur", "l'enseignante", "enseignante"]},
+  {"id": "ncal-jv:1160", "addAlt": ["le bureau de poste", "bureau de poste"]}
+]

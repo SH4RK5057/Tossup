@@ -1,0 +1,154 @@
+ncal-varsity:863 | BONUS m | Biology 2 | Answer these questions about ecology.
+    ncal-varsity:863.0 | e | What is the term for all of the biotic and abiotic factors in an area? => ecosystem
+    ncal-varsity:863.1 | m | What type of symbiosis benefits both species? => mutualism
+    ncal-varsity:863.2 | h | What ecologist's competitive exclusion principle states that two species cannot share the same niche indefinitely? => Gause ; n ; Georgy Gause
+ncal-varsity:864 | BONUS m | Biology 2 | Answer these questions about the nitrogen and carbon cycles.
+    ncal-varsity:864.0 | e | What type of bacteria convert nitrogen gas into ammonia? => nitrogen-fixing bacteria
+    ncal-varsity:864.1 | m | What process do bacteria use to convert ammonia into nitrate? => nitrification
+    ncal-varsity:864.2 | m | What process returns nitrogen gas to the atmosphere from nitrate? => denitrification
+ncal-varsity:865 | BONUS m | Biology 2 | Answer these questions about plant biology.
+    ncal-varsity:865.0 | e | What process moves water up plants through xylem due to evaporation from leaves? => transpiration
+    ncal-varsity:865.1 | m | What theory explains water movement using cohesion and adhesion? => cohesion-tension theory
+    ncal-varsity:865.2 | h | What plant hormone promotes seed dormancy and stomatal closure? => abscisic acid ; ABA
+ncal-varsity:866 | BONUS m | Biology 2 | Answer these questions about human physiology.
+    ncal-varsity:866.0 | e | What sugar is the main fuel carried in the blood and regulated by these hormones? => glucose
+    ncal-varsity:866.1 | m | What hormone, produced by pancreatic alpha cells, raises blood sugar? => glucagon
+    ncal-varsity:866.2 | h | What condition occurs when cells no longer respond properly to insulin? => type 2 diabetes ; insulin resistance
+ncal-varsity:867 | BONUS m | Biology 2 | Answer these questions about the nervous system.
+    ncal-varsity:867.0 | e | What type of neuron carries signals from sensory receptors to the central nervous system? => sensory neuron ; afferent neuron
+    ncal-varsity:867.1 | m | What pump maintains the resting potential of a neuron by moving sodium out and potassium in? => sodium-potassium pump
+    ncal-varsity:867.2 | h | What type of glial cell forms the myelin sheath in the central nervous system? => oligodendrocytes ; oligodendrocyte
+ncal-varsity:868 | BONUS m | Biology 2 | Answer these questions about embryonic development.
+    ncal-varsity:868.0 | e | What is a fertilized egg called? => zygote
+    ncal-varsity:868.1 | m | What process forms the three germ layers in an embryo? => gastrulation
+    ncal-varsity:868.2 | h | What is the term for the process that forms the nervous system's neural tube? => neurulation
+ncal-varsity:869 | BONUS m | Biology 2 | Answer these questions about evolution evidence.
+    ncal-varsity:869.0 | e | What organs, like the whale pelvis, are reduced and unused? => vestigial structures ; vestigial organs ; vestigial
+    ncal-varsity:869.1 | m | What type of similar structure, like bird and insect wings, have different origins? => analogous structures ; analogous
+    ncal-varsity:869.2 | h | What British naturalist co-discovered natural selection with Darwin? => Alfred Russel Wallace ; n ; Wallace
+ncal-varsity:870 | BONUS m | Biology 2 | Answer these questions about enzymes.
+    ncal-varsity:870.0 | e | What term names a molecule that an enzyme acts upon? => substrate
+    ncal-varsity:870.1 | m | What type of inhibitor competes with the usual reactant for the active site? => competitive inhibitor
+    ncal-varsity:870.2 | h | What is the name of the model in which the enzyme changes shape to fit its target molecule? => induced fit model ; induced fit
+ncal-varsity:871 | BONUS m | Biology 2 | Answer these questions about cell communication.
+    ncal-varsity:871.0 | e | What are the molecules that bind to receptors to trigger a cell response? => ligands ; ligand
+    ncal-varsity:871.1 | m | What small molecule, such as cyclic AMP, relays signals inside a cell? => second messenger
+    ncal-varsity:871.2 | h | What class of membrane receptors activates a G protein inside the cell? => G protein-coupled receptors ; GPCR
+ncal-varsity:872 | BONUS m | Biology 2 | Answer these questions about the regulation of cell division.
+    ncal-varsity:872.0 | e | What term describes uncontrolled cell division? => cancer
+    ncal-varsity:872.1 | m | What tumor suppressor protein, called the guardian of the genome, is mutated in many tumors? => p53
+    ncal-varsity:872.2 | h | What term describes malignant cells spreading to distant body parts? => metastasis
+ncal-varsity:873 | e | Biology 2 | What term describes the passing of acquired antibodies from mother to baby through milk or the placenta? => passive immunity
+ncal-varsity:874 | e | Biology 2 | What is the term for a segment of DNA that codes for a protein? => gene
+ncal-varsity:875 | e | Biology 2 | What is the term for an organism's complete set of DNA? => genome
+ncal-varsity:876 | m | Biology 2 | What type of bond links the nucleotides in a DNA strand, between the sugar and phosphate? => phosphodiester bond
+ncal-varsity:877 | m | Biology 2 | What small RNA molecules, abbreviated miRNA, silence mRNA to regulate gene expression? => microRNA
+ncal-varsity:878 | h | Biology 2 | What is the term for the proteins that bind to DNA to promote or reduce transcription of a gene? => transcription factors ; transcription factor
+ncal-varsity:879 | BONUS m | Biology 2 | Answer these questions about the discovery of DNA's role.
+    ncal-varsity:879.0 | e | What scientist's 1928 experiment with pneumonia bacteria in mice showed transformation? => Frederick Griffith ; n ; Griffith
+    ncal-varsity:879.1 | m | What scientists in 1952 used radioactive sulfur and phosphorus labeling in viruses? => Hershey and Chase ; Alfred Hershey and Martha Chase
+    ncal-varsity:879.2 | h | What scientist's rules say that the amount of adenine equals the amount of thymine in DNA? => Erwin Chargaff ; n ; Chargaff
+ncal-varsity:880 | BONUS m | Biology 2 | Answer these questions about plant hormones.
+    ncal-varsity:880.0 | e | What hormone promotes ripening of fruit? => ethylene
+    ncal-varsity:880.1 | m | What hormone promotes stem elongation and seed germination, discovered in rice? => gibberellin ; gibberellins
+    ncal-varsity:880.2 | h | What hormone promotes cell division and is made in the roots? => cytokinin ; cytokinins
+ncal-varsity:881 | BONUS m | Biology 2 | Answer these questions about the human heart.
+    ncal-varsity:881.0 | e | What is the term for the contraction phase of the heartbeat? => systole
+    ncal-varsity:881.1 | m | What group of cells in the right atrium is called the natural pacemaker? => sinoatrial node ; SA node
+    ncal-varsity:881.2 | m | What valve prevents backflow from the aorta into the left ventricle? => aortic valve ; aortic semilunar valve
+ncal-varsity:882 | BONUS m | Biology 2 | Answer these questions about the kidney.
+    ncal-varsity:882.0 | e | What is the functional unit of the kidney? => nephron
+    ncal-varsity:882.1 | m | What ball of capillaries filters blood in the kidney? => glomerulus
+    ncal-varsity:882.2 | h | What loop in the kidney creates a concentration gradient to conserve water? => loop of Henle
+ncal-varsity:883 | BONUS m | Biology 2 | Answer these questions about the digestive enzymes.
+    ncal-varsity:883.0 | e | What enzyme in the stomach begins protein digestion? => pepsin
+    ncal-varsity:883.1 | m | What organ produces lipase and trypsin? => pancreas
+    ncal-varsity:883.2 | m | What is the name of the finger-like projections lining the small intestine? => villi ; villus
+ncal-varsity:884 | BONUS m | Biology 2 | Answer these questions about taxonomic groups.
+    ncal-varsity:884.0 | e | What phylum contains animals with a notochord at some stage of life? => Chordata ; chordates
+    ncal-varsity:884.1 | m | What phylum includes insects, spiders, and crustaceans? => Arthropoda ; arthropods
+    ncal-varsity:884.2 | h | What phylum includes snails, clams, and octopuses? => Mollusca ; mollusks ; molluscs
+ncal-varsity:885 | BONUS m | Biology 2 | Answer these questions about meiosis and sexual reproduction.
+    ncal-varsity:885.0 | e | What term describes a cell with a single set of chromosomes? => haploid
+    ncal-varsity:885.1 | m | In which phase of meiosis do homologous pairs separate? => anaphase I
+    ncal-varsity:885.2 | h | What structure of four chromatids is formed when homologous chromosomes pair up? => tetrad ; bivalent
+ncal-varsity:886 | e | Biology 2 | What is the term for a mutation in which a nucleotide is added or deleted, shifting the reading frame? => frameshift mutation ; frameshift
+ncal-varsity:887 | m | Biology 2 | What type of reproduction in plants involves the fusion of male and female gametes in a flower? => sexual reproduction
+ncal-varsity:888 | h | Biology 2 | What is the name of the enzyme that extends telomeres in germ cells? => telomerase
+ncal-varsity:889 | h | Biology 2 | What is the name of the process in which tRNA is loaded with its specific amino acid by an enzyme? => aminoacylation ; tRNA charging
+ncal-varsity:890 | e | Biology 2 | What term describes a mutation that changes a codon into a stop codon? => nonsense mutation
+ncal-varsity:891 | BONUS m | Biology 2 | Answer these questions about the blood.
+    ncal-varsity:891.0 | e | What cell fragments help blood to clot? => platelets ; platelet
+    ncal-varsity:891.1 | m | What protein forms the fibers of a blood clot? => fibrin
+    ncal-varsity:891.2 | h | What disease results from a recessive mutation in the beta globin gene that distorts red blood cells? => sickle cell disease ; sickle cell anemia
+ncal-varsity:1469 | e | Physics | What term describes the force of gravity pulling on an object's mass? => weight
+ncal-varsity:1470 | e | Physics | What term describes a material that readily allows electric charge to flow? => conductor ; electrical conductor
+ncal-varsity:1471 | e | Physics | What quantity is equal to an object's mass times its velocity? => momentum
+ncal-varsity:1472 | e | Physics | What name is given to a piece of iron that attracts other iron and has a north and south pole? => magnet ; bar magnet
+ncal-varsity:1473 | e | Physics | Which English scientist formulated the three laws of motion? => Isaac Newton ; Newton
+ncal-varsity:1474 | e | Physics | To two significant figures, what is the acceleration due to gravity near Earth's surface, in meters per second squared? => 9.8 ; 9.8 meters per second squared ; 9.8 m/s^2
+ncal-varsity:1475 | e | Physics | What is the SI unit of power? => watt ; watts
+ncal-varsity:1476 | e | Physics | What is the SI unit of energy and work? => joule ; joules
+ncal-varsity:1477 | e | Physics | What term describes the energy an object has because of its motion? => kinetic energy ; kinetic
+ncal-varsity:1478 | e | Physics | The speed of light is approximately 3 times 10 to what power meters per second? => 8 ; eight
+ncal-varsity:1479 | e | Physics | What term describes the bending of light as it passes from one medium into another? => refraction
+ncal-varsity:1480 | e | Physics | What term describes light bouncing off a surface? => reflection
+ncal-varsity:1481 | e | Physics | What type of lens is thicker in the middle and converges light rays? => convex lens ; convex ; converging lens ; converging
+ncal-varsity:1482 | e | Physics | What type of current, abbreviated AC, periodically reverses direction? => alternating current ; AC ; alternating
+ncal-varsity:1483 | e | Physics | What device stores electric charge using two conducting plates separated by an insulator? => capacitor ; condenser
+ncal-varsity:1484 | e | Physics | What force opposes the motion of two surfaces sliding against each other? => friction
+ncal-varsity:1485 | e | Physics | What is the term for the rate of change of velocity? => acceleration
+ncal-varsity:1486 | e | Physics | What is the term for the magnitude of velocity, without direction? => speed
+ncal-varsity:1487 | e | Physics | What unit, equal to one newton per square meter, measures pressure? => pascal ; pascals
+ncal-varsity:1488 | e | Physics | What term describes the distance between successive crests of a wave? => wavelength
+ncal-varsity:1489 | e | Physics | Which subatomic particle in the nucleus has a positive charge? => proton ; protons
+ncal-varsity:1490 | e | Physics | Which law relates voltage, current, and resistance in a circuit? => Ohm's law ; Ohm ; Ohms law
+ncal-varsity:1491 | e | Physics | What term describes the sum of an object's kinetic and potential energy? => mechanical energy ; total mechanical energy
+ncal-varsity:1492 | e | Physics | What is the name for a reflected sound wave that you hear after a delay? => echo
+ncal-varsity:1493 | e | Physics | What is the SI unit of magnetic field strength? => tesla ; teslas
+ncal-varsity:1494 | e | Physics | Which temperature scale begins at absolute zero? => Kelvin ; Kelvin scale ; kelvins
+ncal-varsity:1495 | e | Physics | What is the SI unit of capacitance? => farad ; farads
+ncal-varsity:1496 | e | Physics | What happens between two like magnetic poles? => they repel ; repel ; repulsion ; repulsive
+ncal-varsity:1497 | e | Physics | What type of wave, such as sound, requires a medium to travel? => mechanical wave ; mechanical ; mechanical waves
+ncal-varsity:1498 | e | Physics | What is the term for speed together with direction? => velocity
+ncal-varsity:1499 | e | Physics | What name is given to the force a surface exerts perpendicular to an object resting on it? => normal force ; normal
+ncal-varsity:1500 | e | Physics | What term describes the tendency of an object to resist changes in its motion? => inertia
+ncal-varsity:1501 | e | Physics | What is the SI base unit of mass? => kilogram ; kilograms
+ncal-varsity:1502 | e | Physics | Which color of visible light has the longest wavelength? => red
+ncal-varsity:1503 | e | Physics | Using 10 meters per second squared for gravity, what is the weight in newtons of a 10-kilogram object? => 100 ; 100 newtons
+ncal-varsity:1504 | m | Physics | Starting from rest, a car accelerates at 4 meters per second squared for 5 seconds. What is its final speed in meters per second? => 20
+ncal-varsity:1505 | m | Physics | Using 10 meters per second squared for gravity, how many meters does an object dropped from rest fall in 3 seconds? => 45 ; 45 meters
+ncal-varsity:1506 | m | Physics | What net force, in newtons, gives a 5-kilogram object an acceleration of 3 meters per second squared? => 15 ; 15 newtons
+ncal-varsity:1507 | m | Physics | What is the kinetic energy in joules of a 2-kilogram object moving at 3 meters per second? => 9 ; 9 joules
+ncal-varsity:1508 | m | Physics | What is the momentum, in kilogram meters per second, of a 4-kilogram object moving at 6 meters per second? => 24
+ncal-varsity:1509 | m | Physics | How many amperes flow through a 12-ohm resistor connected to a 24-volt battery? => 2 ; 2 amperes ; 2 amps
+ncal-varsity:1510 | m | Physics | How many watts of power are delivered by a current of 5 amperes in a circuit with a potential difference of 10 volts? => 50 ; 50 watts
+ncal-varsity:1511 | m | Physics | What is the equivalent resistance in ohms of 3-ohm and 6-ohm resistors connected in parallel? => 2 ; 2 ohms
+ncal-varsity:1512 | m | Physics | What is the equivalent resistance in ohms of 4-ohm and 8-ohm resistors connected in series? => 12 ; 12 ohms
+ncal-varsity:1513 | m | Physics | How many joules of work are done by a 10-newton force that moves an object 6 meters in the direction of the force? => 60 ; 60 joules
+ncal-varsity:1514 | m | Physics | What is the frequency in hertz of a wave traveling at 340 meters per second with a wavelength of 2 meters? => 170 ; 170 hertz
+ncal-varsity:1515 | m | Physics | What is the period in seconds of a wave with a frequency of 4 hertz? => 0.25 ; 1/4 ; one fourth ; one quarter
+ncal-varsity:1516 | m | Physics | Using 10 meters per second squared for gravity, what is the gravitational potential energy in joules of a 2-kilogram object 5 meters above the ground? => 100 ; 100 joules
+ncal-varsity:1517 | m | Physics | Using 10 meters per second squared for gravity, what is the speed in meters per second of an object dropped from rest after falling 20 meters? => 20
+ncal-varsity:1518 | m | Physics | What force provides the centripetal force that keeps planets in orbit around the Sun? => gravity ; gravitational force
+ncal-varsity:1519 | m | Physics | Which principle states that pressure applied to an enclosed fluid is transmitted equally throughout the fluid? => Pascal's principle ; Pascal's law ; Pascal
+ncal-varsity:1520 | m | Physics | Which principle states that the buoyant force on an object equals the weight of the fluid it displaces? => Archimedes' principle ; Archimedes ; Archimedes's principle
+ncal-varsity:1521 | m | Physics | What term describes the bending of waves around obstacles or through openings? => diffraction
+ncal-varsity:1522 | m | Physics | What effect describes a change in observed frequency caused by relative motion of a wave source and an observer? => Doppler effect ; Doppler ; Doppler shift
+ncal-varsity:1523 | m | Physics | What term describes heat transfer by direct contact between particles? => conduction
+ncal-varsity:1524 | m | Physics | What term describes heat transfer by the movement of a fluid? => convection
+ncal-varsity:1525 | m | Physics | What term describes heat transfer by electromagnetic waves? => radiation ; thermal radiation
+ncal-varsity:1526 | m | Physics | The first law of thermodynamics is a statement of the conservation of what quantity? => energy
+ncal-varsity:1527 | m | Physics | To the nearest whole number, what is the freezing point of water on the Kelvin scale? => 273 ; 273 K ; 273.15
+ncal-varsity:1528 | m | Physics | Which English scientist discovered electromagnetic induction in 1831? => Michael Faraday ; Faraday
+ncal-varsity:1529 | m | Physics | Which law states that the force between two point charges is inversely proportional to the square of the distance between them? => Coulomb's law ; Coulomb ; Coulombs law
+ncal-varsity:1530 | m | Physics | What term describes a material that does not allow electric charge to flow freely? => insulator
+ncal-varsity:1531 | m | Physics | What type of circuit provides only a single path for current? => series circuit ; series
+ncal-varsity:1532 | m | Physics | What term describes the smallest angle of incidence at which total internal reflection occurs? => critical angle
+ncal-varsity:1533 | m | Physics | What type of mirror always produces an upright, virtual, reduced image? => convex mirror ; convex ; diverging mirror
+ncal-varsity:1534 | m | Physics | The index of refraction of a material is the ratio of the speed of light in a vacuum to what other quantity? => the speed of light in the material ; speed of light in the medium ; speed of light in the material ; speed in the material
+ncal-varsity:1535 | m | Physics | Which scientist discovered the electron in 1897? => Joseph John Thomson ; J. J. Thomson ; Thomson
+ncal-varsity:1536 | m | Physics | Impulse is equal to the change in what quantity? => momentum
+ncal-varsity:1537 | m | Physics | What quantity is defined as force per unit area? => pressure
+ncal-varsity:1538 | m | Physics | What effect describes the ejection of electrons from a metal surface by light? => photoelectric effect ; photoelectric
+ncal-varsity:1539 | m | Physics | What name is given to packets of light energy? => photons ; photon

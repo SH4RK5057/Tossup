@@ -1,0 +1,53 @@
+# ncal jv | English | American Literature
+e|Which author wrote "Little Women," about the four March sisters?|Louisa May Alcott|Alcott|n
+e|Which Jack London novel follows a sled dog named Buck in the Yukon?|The Call of the Wild|Call of the Wild|
+m|Which Ray Bradbury novel is set in a future where firemen burn books?|Fahrenheit 451|Fahrenheit four fifty-one|
+m|Which Transcendentalist wrote "Walden" about living by a pond near Concord?|Henry David Thoreau|Thoreau|n
+B|m|Answer these questions about Herman Melville's "Moby-Dick."
+-|e|What kind of animal is the great white creature that the crew hunts?|whale|sperm whale;white whale|
+-|m|What is the name of the one-legged captain obsessed with hunting it?|Captain Ahab|Ahab|n=Ahab
+-|h|The novel opens with which famous three-word sentence naming its narrator?|Call me Ishmael|Ishmael|
+B|e|Answer these questions about "The Outsiders."
+-|e|Which author wrote "The Outsiders" as a teenager?|S. E. Hinton|Hinton;Susan Eloise Hinton|n
+-|m|What is the first name of the narrator, Curtis, a Greaser?|Ponyboy||
+-|h|What is the name of the wealthy rival gang the Greasers fight?|the Socs|Socs;Socials|
+B|m|Answer these questions about Thornton Wilder's play "Our Town."
+-|e|In which New England state is the play's fictional town of Grover's Corners?|New Hampshire||
+-|m|Which narrator figure speaks directly to the audience and introduces each act?|the Stage Manager|Stage Manager|
+-|h|Which young woman, who marries George Gibbs, dies and returns to relive one day?|Emily Webb|Emily|n=Webb
+B|e|Answer these questions about Maya Angelou.
+-|e|Which Angelou autobiography describes her childhood in Stamps, Arkansas?|I Know Why the Caged Bird Sings|Caged Bird|
+-|m|Angelou read a poem at which president's 1993 inauguration?|Bill Clinton|Clinton|n=Clinton
+-|h|What is the title of her poem that begins "You may write me down in history"?|Still I Rise|
+B|m|Answer these questions about Washington Irving.
+-|e|In "The Legend of Sleepy Hollow," what kind of ghostly rider chases Ichabod Crane?|Headless Horseman|the Headless Horseman|
+-|m|In which Irving story does a man fall asleep in the Catskill Mountains for twenty years?|Rip Van Winkle|
+-|h|Irving wrote as which fictional historian in "A History of New York"?|Diedrich Knickerbocker|Knickerbocker|n
+B|e|Answer these questions about Zora Neale Hurston.
+-|e|Which Hurston novel follows the life of Janie Crawford?|Their Eyes Were Watching God||
+-|m|Hurston was part of which 1920s literary movement centered in New York City?|Harlem Renaissance||
+-|h|In which state is the all-Black town of Eatonville, which Hurston grew up in?|Florida||
+B|m|Answer these questions about Walt Whitman.
+-|e|Which collection of poems did Whitman revise throughout his life?|Leaves of Grass||
+-|m|Whitman wrote "O Captain! My Captain!" in mourning for which assassinated president?|Abraham Lincoln|Lincoln|n
+-|h|Which sprawling Whitman poem begins "I celebrate myself"?|Song of Myself||
+B|m|Answer these questions about Emily Dickinson.
+-|e|In which Massachusetts town did Dickinson spend nearly her whole life?|Amherst||
+-|m|Her poems are known for using which punctuation mark in place of commas and periods?|dash|dashes;em dash|
+-|h|Which poem by Dickinson begins "Because I could not stop for Death"?|Because I could not stop for Death|Because I Could Not Stop for Death|ok
+# ncal jv | Fine Arts | Art History
+e|Which Dutch artist painted "Sunflowers" and cut off part of his own ear?|Vincent van Gogh|van Gogh;Van Gogh;Gogh|n
+e|Which French artist left Paris to paint scenes of Tahiti?|Paul Gauguin|Gauguin|n
+m|Which Austrian painter created the gold-covered work "The Kiss"?|Gustav Klimt|Klimt|n
+m|Which French artist led the Fauvist movement with bold, bright colors, as in "The Dance"?|Henri Matisse|Matisse|n
+B|m|Answer these questions about twentieth-century American art.
+-|e|Which Pop artist made silkscreen portraits of Marilyn Monroe?|Andy Warhol|Warhol|n
+-|m|Which artist was known for "drip" paintings made by pouring paint onto a canvas on the floor?|Jackson Pollock|Pollock|n
+-|m|Which artist painted large close-up flowers and desert scenes of New Mexico?|Georgia O'Keeffe|O'Keeffe;OKeeffe|n
+-|h|Which Pop artist made paintings that imitate comic-book panels with large dots?|Roy Lichtenstein|Lichtenstein|n
+# ncal jv | Social Science | U.S. History
+B|m|Answer these questions about the Great Depression.
+-|e|Which president created the New Deal to fight the Great Depression?|Franklin D. Roosevelt|Franklin Roosevelt;Franklin Delano Roosevelt;FDR|n
+-|m|The 1929 crash of which financial market helped start the Great Depression?|stock market|Wall Street;the stock market|
+-|m|Which region of the Great Plains suffered severe drought and dust storms in the 1930s?|Dust Bowl|the Dust Bowl|
+-|h|Which president before Roosevelt was in office when the Depression began?|Herbert Hoover|Hoover|n

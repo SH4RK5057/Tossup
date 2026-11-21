@@ -1,0 +1,122 @@
+ncal-jv:1141 | m | French 2 | What is the ils form of "aller" in the present tense? => vont
+ncal-jv:1142 | m | French 2 | What is the nous form of "manger" in the present tense? => mangeons
+ncal-jv:1143 | m | French 2 | What is the nous form of "commencer" in the present tense? => commençons
+ncal-jv:1144 | m | French 2 | What is the nous form of "être" in the imparfait? => étions
+ncal-jv:1145 | m | French 2 | What is the je form of "parler" in the imparfait? => parlais
+ncal-jv:1146 | m | French 2 | What is the je form of "être" in the imparfait? => étais
+ncal-jv:1147 | m | French 2 | What is the je form of "avoir" in the imparfait? => avais
+ncal-jv:1148 | m | French 2 | What is the French word for "to wake up," a reflexive verb? => se réveiller ; reveiller
+ncal-jv:1149 | m | French 2 | What is the French reflexive pronoun used with "je"? => me ; m'
+ncal-jv:1150 | m | French 2 | What is the French word for "to get dressed"? => s'habiller ; habiller
+ncal-jv:1151 | m | French 2 | What is the French word for "toothbrush"? => la brosse à dents ; brosse à dents
+ncal-jv:1152 | m | French 2 | What is the French word for "soap," including its article? => le savon ; savon
+ncal-jv:1153 | m | French 2 | What is the French word for "towel"? => la serviette ; serviette
+ncal-jv:1154 | m | French 2 | What is the French word for "stomach"? => le ventre ; ventre ; l'estomac ; estomac
+ncal-jv:1155 | m | French 2 | What is the French word for "throat"? => la gorge ; gorge
+ncal-jv:1156 | m | French 2 | What is the French phrase for "headache," using "mal"? => le mal de tête ; mal de tête ; mal à la tête ; un mal de tête
+ncal-jv:1157 | m | French 2 | What is the French word for "pharmacy"? => la pharmacie ; pharmacie
+ncal-jv:1158 | m | French 2 | What is the French word for "hospital"? => l'hôpital ; hôpital ; hopital
+ncal-jv:1159 | m | French 2 | What is the French word for "bank," as a place for money? => la banque ; banque
+ncal-jv:1160 | m | French 2 | What is the French word for "post office"? => la poste ; poste ; le bureau de poste
+ncal-jv:1161 | m | French 2 | What is the French word for "bakery"? => la boulangerie ; boulangerie
+ncal-jv:1162 | m | French 2 | What is the French word for "neighborhood"? => le quartier ; quartier
+ncal-jv:1163 | m | French 2 | What is the French word for "corner" of a street? => le coin ; coin
+ncal-jv:1164 | m | French 2 | What is the French word for "to turn" when giving directions? => tourner
+ncal-jv:1165 | m | French 2 | What is the French phrase for "straight ahead"? => tout droit
+ncal-jv:1166 | m | French 2 | What is the French phrase for "to the right"? => à droite ; droite
+ncal-jv:1167 | m | French 2 | What does the French word "bientôt" mean in English? => soon
+ncal-jv:1168 | m | French 2 | What does the French word "quelquefois" mean in English? => sometimes
+ncal-jv:1169 | m | French 2 | What does the French word "trop" mean in English? => too much ; too
+ncal-jv:1170 | m | French 2 | What does the French word "meilleur" mean in English? => better ; best
+ncal-jv:1171 | m | French 2 | What French word means "more" in comparisons, as in "___ grand que"? => plus
+ncal-jv:1172 | m | French 2 | What French word means "than" in comparisons, as in "plus grand ___"? => que
+ncal-jv:1173 | m | French 2 | What is the French word for the number 50? => cinquante
+ncal-jv:1174 | m | French 2 | What is the French word for the number 70? => soixante-dix
+ncal-jv:1175 | m | French 2 | What is the French word for the number 80? => quatre-vingts ; quatre-vingt
+ncal-jv:1176 | m | French 2 | What is the French word for the number 1000? => mille
+ncal-jv:1177 | m | French 2 | What is the French word for the ordinal "first"? => premier ; première
+ncal-jv:1178 | h | French 2 | What is the French word for "to remember"? => se souvenir ; se rappeler
+ncal-jv:1179 | h | French 2 | What is the past participle of "venir"? => venu
+ncal-jv:1180 | h | French 2 | What is the past participle of "naître"? => né
+ncal-jv:1181 | h | French 2 | What is the past participle of "ouvrir"? => ouvert
+ncal-jv:1182 | h | French 2 | What is the past participle of "pouvoir"? => pu
+ncal-jv:1183 | h | French 2 | What is the past participle of "vouloir"? => voulu
+ncal-jv:1184 | h | French 2 | What is the past participle of "devoir"? => dû ; du
+ncal-jv:1185 | h | French 2 | What is the past participle of "connaître"? => connu
+ncal-jv:1186 | h | French 2 | What is the nous form of "voir" in the present tense? => voyons
+ncal-jv:1187 | h | French 2 | What is the ils form of "prendre" in the present tense? => prennent
+ncal-jv:1188 | h | French 2 | What is the ils form of "venir" in the present tense? => viennent
+ncal-jv:1189 | h | French 2 | What is the ils form of "vouloir" in the present tense? => veulent
+ncal-jv:1190 | h | French 2 | What is the vous form of "dire" in the present tense? => dites
+ncal-jv:1191 | h | French 2 | What is the tu form of "se lever" in the present tense? => tu te lèves ; te lèves
+ncal-jv:1192 | h | French 2 | What is the je form of "acheter" in the present tense? => achète
+ncal-jv:1193 | h | French 2 | What is the je form of "appeler" in the present tense? => appelle
+ncal-jv:1194 | h | French 2 | What does the French word "sans" mean in English? => without
+ncal-jv:1195 | h | French 2 | What is the French word for "lawn" or "grass"? => l'herbe ; herbe ; la pelouse ; pelouse
+ncal-jv:1196 | h | French 2 | What is the French word for "sidewalk"? => le trottoir ; trottoir
+ncal-jv:1197 | h | French 2 | What is the French word for "stairs"? => l'escalier ; escalier ; les escaliers ; escaliers
+ncal-jv:1198 | BONUS e | French 2 | Answer these questions about rooms and furniture in a French home.
+    ncal-jv:1198.0 | e | What is the French word for "living room"? => le salon ; salon ; la salle de séjour ; le séjour
+    ncal-jv:1198.1 | e | What is the French word for "bed"? => le lit ; lit
+    ncal-jv:1198.2 | m | What is the French word for "dining room"? => la salle à manger ; salle à manger
+    ncal-jv:1198.3 | h | What is the French word for "armchair"? => le fauteuil ; fauteuil
+ncal-jv:1199 | BONUS m | French 2 | Answer these questions about the passé composé of "étudier."
+    ncal-jv:1199.0 | e | What is the past participle of "étudier"? => étudié
+    ncal-jv:1199.1 | m | What is the full passé composé of "étudier" for "nous"? => nous avons étudié ; avons étudié
+    ncal-jv:1199.2 | m | What is the il form of the helper verb used in the passé composé of "étudier"? => a
+    ncal-jv:1199.3 | h | What is the passé composé of "étudier" for "j'" as the subject? Give the full phrase. => j'ai étudié ; ai étudié
+ncal-jv:1200 | BONUS m | French 2 | Answer these questions about verbs that use "être" in the passé composé.
+    ncal-jv:1200.0 | e | What is the past participle of "aller"? => allé
+    ncal-jv:1200.1 | m | What is the past participle of "partir"? => parti
+    ncal-jv:1200.2 | m | What is the past participle of "sortir"? => sorti
+    ncal-jv:1200.3 | h | What is the past participle of "mourir"? => mort
+ncal-jv:1201 | BONUS e | French 2 | Answer these questions about travel in French.
+    ncal-jv:1201.0 | e | What is the French word for "passport"? => le passeport ; passeport
+    ncal-jv:1201.1 | e | What is the French word for "hotel"? => l'hôtel ; hôtel ; hotel
+    ncal-jv:1201.2 | m | What is the French word for "flight"? => le vol ; vol
+    ncal-jv:1201.3 | h | What is the French word for "luggage" in the sense of bags? => les bagages ; bagages
+ncal-jv:1202 | BONUS m | French 2 | Answer these questions about French clothing and accessories.
+    ncal-jv:1202.0 | e | What is the French word for "hat"? => le chapeau ; chapeau
+    ncal-jv:1202.1 | e | What is the French word for "socks"? => les chaussettes ; chaussettes
+    ncal-jv:1202.2 | m | What is the French word for "coat"? => le manteau ; manteau
+    ncal-jv:1202.3 | h | What is the French word for "belt"? => la ceinture ; ceinture
+ncal-jv:1203 | BONUS m | French 2 | Answer these questions about the imparfait.
+    ncal-jv:1203.0 | e | What is the je form of "jouer" in the imparfait? => jouais
+    ncal-jv:1203.1 | m | What is the nous form of "finir" in the imparfait? => finissions
+    ncal-jv:1203.2 | m | What is the ils form of "voir" in the imparfait? => voyaient
+    ncal-jv:1203.3 | h | What is the nous form of "avoir" in the imparfait? => avions
+ncal-jv:1204 | BONUS e | French 2 | Answer these questions about fruit in French.
+    ncal-jv:1204.0 | e | What is the French word for "banana"? => la banane ; banane
+    ncal-jv:1204.1 | e | What is the French word for "orange," the fruit? => l'orange ; orange
+    ncal-jv:1204.2 | m | What is the French word for "grapes"? => le raisin ; les raisins ; raisin ; raisins
+    ncal-jv:1204.3 | h | What is the French word for "strawberry"? => la fraise ; fraise
+ncal-jv:1205 | BONUS m | French 2 | Answer these questions about vegetables in French.
+    ncal-jv:1205.0 | e | What is the French word for "tomato"? => la tomate ; tomate
+    ncal-jv:1205.1 | m | What is the French word for "carrot"? => la carotte ; carotte
+    ncal-jv:1205.2 | m | What is the French word for "lettuce"? => la laitue ; laitue ; la salade ; salade
+    ncal-jv:1205.3 | h | What is the French word for "onion"? => l'oignon ; oignon
+ncal-jv:1206 | BONUS m | French 2 | Answer these questions about reflexive verbs in French.
+    ncal-jv:1206.0 | e | What is the French verb meaning "to wash oneself"? => se laver
+    ncal-jv:1206.1 | m | What is the French verb meaning "to go to bed"? => se coucher
+    ncal-jv:1206.2 | m | What is the French verb meaning "to get up"? => se lever
+    ncal-jv:1206.3 | h | What is the nous form of "s'asseoir" in the present tense? => nous nous asseyons ; asseyons
+ncal-jv:1207 | BONUS e | French 2 | Answer these questions about professions in French.
+    ncal-jv:1207.0 | e | What is the French word for "teacher" when the teacher is a woman, in the sense of a school professor? => la professeure ; la prof ; prof ; professeure ; la professeur ; professeur
+    ncal-jv:1207.1 | e | What is the French word for "nurse" when the nurse is a woman? => l'infirmière ; infirmière
+    ncal-jv:1207.2 | m | What is the French word for "lawyer" when the lawyer is a man? => l'avocat ; avocat
+    ncal-jv:1207.3 | h | What is the French word for "firefighter"? => le pompier ; pompier
+ncal-jv:1208 | BONUS m | French 2 | Answer these questions about French object pronouns.
+    ncal-jv:1208.0 | e | In French, which direct object pronoun replaces a masculine singular noun, meaning "it"? => le ; l'
+    ncal-jv:1208.1 | m | What direct object pronoun means "them"? => les
+    ncal-jv:1208.2 | m | In French, which indirect object pronoun means "to me"? => me ; m'
+    ncal-jv:1208.3 | h | In French, which indirect object pronoun means "to him" or "to her"? => lui
+ncal-jv:1209 | BONUS e | French 2 | Answer these questions about French possessive adjectives.
+    ncal-jv:1209.0 | e | What possessive adjective means "my" before a masculine singular noun? => mon
+    ncal-jv:1209.1 | m | What possessive adjective means "your" for the informal singular before a feminine noun? => ta
+    ncal-jv:1209.2 | m | What possessive adjective means "our" before a singular noun? => notre
+    ncal-jv:1209.3 | h | In French, which possessive adjective means "their" before a plural noun? => leurs
+ncal-jv:1210 | BONUS m | French 2 | Answer these questions about French negation.
+    ncal-jv:1210.0 | e | What word completes the French negative "ne ... ___" meaning "not"? => pas
+    ncal-jv:1210.1 | m | What word completes the French negative "ne ... pas ___" meaning "not yet"? => encore
+    ncal-jv:1210.2 | m | What word completes the French negative "ne ... ___" meaning "nothing"? => rien
+    ncal-jv:1210.3 | h | What word completes the French negative "ne ... ___" meaning "no one"? => personne

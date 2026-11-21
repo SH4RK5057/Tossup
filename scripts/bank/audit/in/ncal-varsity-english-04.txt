@@ -1,0 +1,140 @@
+ncal-varsity:994 | h | World Literature | Which Mexican author wrote Pedro Páramo? => Juan Rulfo ; Rulfo
+ncal-varsity:995 | h | World Literature | Which Argentine author wrote Hopscotch? => Julio Cortázar ; Cortázar ; Cortazar ; Julio Cortazar
+ncal-varsity:996 | h | World Literature | Which Brazilian author wrote The Posthumous Memoirs of Brás Cubas? => Machado de Assis ; Assis ; Joaquim Maria Machado de Assis
+ncal-varsity:997 | h | World Literature | Which Portuguese poet used heteronyms like Álvaro de Campos? => Fernando Pessoa ; Pessoa
+ncal-varsity:998 | h | World Literature | Which Czech author wrote The Good Soldier Švejk? => Jaroslav Hašek ; Hašek ; Hasek ; Jaroslav Hasek
+ncal-varsity:999 | h | World Literature | Which Hungarian author wrote Fatelessness and won the 2002 Nobel Prize? => Imre Kertész ; Kertész ; Kertesz ; Imre Kertesz
+ncal-varsity:1000 | h | World Literature | Which Polish author wrote Ferdydurke? => Witold Gombrowicz ; Gombrowicz
+ncal-varsity:1001 | h | World Literature | Which Russian poet wrote Requiem about the Stalinist terror? => Anna Akhmatova ; Akhmatova
+ncal-varsity:1002 | h | World Literature | Which Greek author wrote Zorba the Greek? => Nikos Kazantzakis ; Kazantzakis
+ncal-varsity:1003 | h | World Literature | Which Old Norse collection of poems and prose records myths about Odin and Thor, compiled by Snorri Sturluson? => Prose Edda ; Edda ; The Prose Edda
+ncal-varsity:1004 | h | World Literature | Which French author wrote The Red and the Black? => Stendhal ; Henri Beyle
+ncal-varsity:1005 | h | World Literature | Which Norwegian playwright wrote Hedda Gabler? => Henrik Ibsen ; Ibsen
+ncal-varsity:1006 | h | World Literature | Which Palestinian poet wrote "Identity Card" and "Write Down: I Am an Arab"? => Mahmoud Darwish ; Darwish
+ncal-varsity:1007 | h | World Literature | Which Sanskrit playwright wrote Shakuntala? => Kalidasa ; Kālidāsa
+ncal-varsity:1008 | h | World Literature | Which Persian poet wrote the Rubaiyat, later translated by Edward FitzGerald? => Omar Khayyam ; Khayyam
+ncal-varsity:1009 | h | World Literature | Which Persian poet wrote the Masnavi? => Rumi ; Jalal ad-Din Rumi
+ncal-varsity:1010 | h | World Literature | Which Welsh medieval collection of tales includes the story of Pwyll and Rhiannon? => Mabinogion ; The Mabinogion
+ncal-varsity:1011 | h | World Literature | Which Finnish national epic was compiled by Elias Lönnrot? => Kalevala ; The Kalevala
+ncal-varsity:1012 | h | World Literature | Which Mesopotamian epic features a king of Uruk and his friend Enkidu? => Epic of Gilgamesh ; Gilgamesh ; The Epic of Gilgamesh
+ncal-varsity:1013 | h | World Literature | Which Spanish playwright wrote Blood Wedding and The House of Bernarda Alba? => Federico García Lorca ; Lorca ; Garcia Lorca ; Federico Garcia Lorca
+ncal-varsity:1014 | h | World Literature | Which Cuban author wrote Three Trapped Tigers? => Guillermo Cabrera Infante ; Cabrera Infante ; Infante
+ncal-varsity:1015 | h | World Literature | Which Senegalese author wrote So Long a Letter? => Mariama Bâ ; Mariama Ba ; Bâ ; Ba
+ncal-varsity:1016 | h | World Literature | Which Kenyan author wrote A Grain of Wheat and Petals of Blood? => Ngũgĩ wa Thiong'o ; Ngugi wa Thiong'o ; Ngugi
+ncal-varsity:1017 | h | World Literature | Which Sudanese author wrote Season of Migration to the North? => Tayeb Salih ; Salih
+ncal-varsity:1018 | h | World Literature | Which French author wrote Journey to the End of the Night? => Louis-Ferdinand Céline ; Céline ; Celine
+ncal-varsity:1019 | e | World Literature | Which Greek hero is famous for his twelve labors? => Heracles ; Hercules
+ncal-varsity:1020 | e | World Literature | Which Roman author wrote the satirical novel The Golden Ass? => Apuleius
+ncal-varsity:1021 | m | World Literature | Which Russian author wrote Notes from Underground? => Fyodor Dostoevsky ; Dostoevsky ; Dostoyevsky
+ncal-varsity:1022 | m | World Literature | Which Spanish author wrote Don Juan Tenorio? => José Zorrilla ; Zorrilla ; Jose Zorrilla
+ncal-varsity:1023 | m | World Literature | Which German poet wrote the Sorrows of Young Werther? => Johann Wolfgang von Goethe ; Goethe
+ncal-varsity:1024 | m | World Literature | Which Russian author wrote The Brothers Karamazov? => Fyodor Dostoevsky ; Dostoevsky ; Dostoyevsky
+ncal-varsity:1025 | e | World Literature | Which German author wrote Siddhartha and Steppenwolf? => Hermann Hesse ; Hesse
+ncal-varsity:1026 | e | World Literature | Which Greek epic poet wrote Theogony and Works and Days? => Hesiod
+ncal-varsity:1027 | m | World Literature | Which Indian author wrote The God of Small Things? => Arundhati Roy ; Roy
+ncal-varsity:1028 | m | World Literature | Which Algerian-born French author wrote The Plague? => Albert Camus ; Camus
+ncal-varsity:1029 | m | World Literature | Which Italian author wrote The Name of the Rose? => Umberto Eco ; Eco
+ncal-varsity:1030 | BONUS e | World Literature | Answer these questions about Homer's epics.
+    ncal-varsity:1030.0 | e | Which epic follows the Greek siege of Troy? => Iliad ; The Iliad
+    ncal-varsity:1030.1 | m | Which one-eyed giant does Odysseus blind? => Polyphemus ; Cyclops
+    ncal-varsity:1030.2 | h | Which sorceress turns Odysseus's crew into pigs? => Circe
+ncal-varsity:1031 | BONUS m | World Literature | Answer these questions about Russian novels.
+    ncal-varsity:1031.0 | e | Which Tolstoy novel follows the Rostov and Bolkonsky families during the Napoleonic Wars? => War and Peace
+    ncal-varsity:1031.1 | m | Which Dostoevsky novel features Prince Myshkin? => The Idiot ; Idiot
+    ncal-varsity:1031.2 | h | Which Turgenev novel introduces the nihilist Bazarov? => Fathers and Sons
+ncal-varsity:1032 | BONUS h | World Literature | Answer these questions about Latin American writers.
+    ncal-varsity:1032.0 | e | Which Gabriel García Márquez novel is set in the town of Macondo? => One Hundred Years of Solitude
+    ncal-varsity:1032.1 | m | Which Chilean author wrote The House of the Spirits? => Isabel Allende ; Allende
+    ncal-varsity:1032.2 | h | Which Uruguayan writer wrote Open Veins of Latin America? => Eduardo Galeano ; Galeano
+ncal-varsity:1033 | BONUS m | World Literature | Answer these questions about French literature.
+    ncal-varsity:1033.0 | e | Which Victor Hugo novel features Quasimodo? => The Hunchback of Notre-Dame ; Hunchback of Notre Dame ; Notre-Dame de Paris
+    ncal-varsity:1033.1 | m | Which Camus novel is narrated by Meursault? => The Stranger ; L'Étranger ; Stranger
+    ncal-varsity:1033.2 | h | Which Jean-Paul Sartre play includes the line "Hell is other people"? => No Exit ; Huis Clos
+ncal-varsity:1034 | BONUS e | World Literature | Answer these questions about Greek tragedy.
+    ncal-varsity:1034.0 | e | Which Sophocles play is about a king who unknowingly kills his father? => Oedipus Rex ; Oedipus the King ; Oedipus Tyrannus
+    ncal-varsity:1034.1 | m | Which Euripides play is about women who follow the god Dionysus? => The Bacchae ; Bacchae
+    ncal-varsity:1034.2 | h | Which Aeschylus play shows Prometheus chained to a rock? => Prometheus Bound
+ncal-varsity:1035 | BONUS m | World Literature | Answer these questions about Dante's Divine Comedy.
+    ncal-varsity:1035.0 | e | What is the first of the three parts of the Divine Comedy? => Inferno ; The Inferno
+    ncal-varsity:1035.1 | m | Which second part is set on a mountain with seven terraces? => Purgatorio ; Purgatory
+    ncal-varsity:1035.2 | h | Into how many circles is Dante's Hell divided? => nine ; 9
+ncal-varsity:1036 | BONUS m | World Literature | Answer these questions about Spanish-language literature.
+    ncal-varsity:1036.0 | e | Which Spanish author created the squire Sancho Panza? => Miguel de Cervantes ; Cervantes
+    ncal-varsity:1036.1 | m | Which Argentine author wrote the story "The Garden of Forking Paths"? => Jorge Luis Borges ; Borges
+    ncal-varsity:1036.2 | h | Which Mexican author wrote The Death of Artemio Cruz? => Carlos Fuentes ; Fuentes
+ncal-varsity:1037 | BONUS e | World Literature | Answer these questions about German literature.
+    ncal-varsity:1037.0 | e | Which Brothers Grimm tale features a girl who leaves a trail of pebbles and breadcrumbs? => Hansel and Gretel
+    ncal-varsity:1037.1 | m | Which Goethe character makes a pact with Mephistopheles? => Faust ; Doctor Faust
+    ncal-varsity:1037.2 | h | Which Friedrich Schiller play features the Swiss folk hero who shoots an apple? => William Tell ; Wilhelm Tell
+ncal-varsity:1038 | BONUS m | World Literature | Answer these questions about African literature.
+    ncal-varsity:1038.0 | e | Which Achebe novel features the Igbo wrestler Okonkwo? => Things Fall Apart
+    ncal-varsity:1038.1 | m | Which South African writer wrote Cry, the Beloved Country? => Alan Paton ; Paton
+    ncal-varsity:1038.2 | h | Which Nigerian author wrote the novel Half of a Yellow Sun? => Chimamanda Ngozi Adichie ; Adichie
+ncal-varsity:1039 | BONUS h | World Literature | Answer these questions about Asian literature.
+    ncal-varsity:1039.0 | e | Which Chinese novel follows the monk Tripitaka and Sun Wukong on a journey west? => Journey to the West
+    ncal-varsity:1039.1 | m | Which Japanese poetic form has three lines of five, seven, and five syllables? => haiku
+    ncal-varsity:1039.2 | h | Which Japanese poet wrote The Narrow Road to the Deep North? => Matsuo Bashō ; Bashō ; Basho ; Matsuo Basho
+ncal-varsity:1040 | BONUS m | World Literature | Answer these questions about Scandinavian literature.
+    ncal-varsity:1040.0 | e | Which Ibsen play ends with Nora leaving her husband? => A Doll's House ; Doll's House
+    ncal-varsity:1040.1 | m | Which Swedish author wrote Pippi Longstocking? => Astrid Lindgren ; Lindgren
+    ncal-varsity:1040.2 | h | Which Norwegian author wrote the novel Hunger? => Knut Hamsun ; Hamsun
+ncal-varsity:1041 | BONUS m | World Literature | Answer these questions about Roman literature.
+    ncal-varsity:1041.0 | e | Which epic by Virgil follows a Trojan refugee who founds the line of Rome? => Aeneid ; The Aeneid
+    ncal-varsity:1041.1 | m | Which Roman poet wrote the Odes and the Ars Poetica? => Horace
+    ncal-varsity:1041.2 | h | Which Roman poet wrote the philosophical poem De Rerum Natura? => Lucretius
+ncal-varsity:1042 | BONUS e | World Literature | Answer these questions about fairy tales and fables.
+    ncal-varsity:1042.0 | e | Which author collected fables such as "The Tortoise and the Hare"? => Aesop
+    ncal-varsity:1042.1 | m | Which French author wrote "Cinderella" and "Puss in Boots" in the 1690s? => Charles Perrault ; Perrault
+    ncal-varsity:1042.2 | h | Which French poet wrote Fables, including "The Cicada and the Ant"? => Jean de La Fontaine ; La Fontaine
+ncal-varsity:1043 | BONUS m | World Literature | Answer these questions about Russian poets and playwrights.
+    ncal-varsity:1043.0 | e | Which Chekhov play is about a family that loses its estate with a famous orchard? => The Cherry Orchard ; Cherry Orchard
+    ncal-varsity:1043.1 | m | Which Nikolai Gogol play is a satire about a mistaken identity involving a government inspector? => The Government Inspector ; The Inspector General ; Inspector General
+    ncal-varsity:1043.2 | h | Which Russian poet wrote the futurist poem "A Cloud in Trousers"? => Vladimir Mayakovsky ; Mayakovsky
+ncal-varsity:1044 | BONUS m | World Literature | Answer these questions about Indian literature.
+    ncal-varsity:1044.0 | e | Which Indian epic features the prince Rama and his wife Sita? => Ramayana ; The Ramayana
+    ncal-varsity:1044.1 | m | Which Salman Rushdie novel is narrated by Saleem Sinai? => Midnight's Children
+    ncal-varsity:1044.2 | h | Which Indian author wrote The Guide and created the town of Malgudi? => R. K. Narayan ; Narayan ; R K Narayan
+ncal-varsity:1045 | BONUS h | World Literature | Answer these questions about Nobel Prize winners in literature.
+    ncal-varsity:1045.0 | e | Which Colombian author won the Nobel Prize in 1982? => Gabriel García Márquez ; García Márquez ; Garcia Marquez ; Marquez
+    ncal-varsity:1045.1 | m | Which Italian playwright and satirist won the Nobel Prize in 1997? => Dario Fo ; Fo
+    ncal-varsity:1045.2 | h | Which Polish poet won the Nobel Prize in 1996 and wrote "The End and the Beginning"? => Wisława Szymborska ; Szymborska
+ncal-varsity:1046 | BONUS m | World Literature | Answer these questions about Middle Eastern literature.
+    ncal-varsity:1046.0 | e | Which collection of tales is told by Scheherazade to a king? => One Thousand and One Nights ; Arabian Nights ; The Arabian Nights ; Thousand and One Nights
+    ncal-varsity:1046.1 | m | Which Lebanese-American author wrote The Prophet? => Kahlil Gibran ; Gibran ; Khalil Gibran
+    ncal-varsity:1046.2 | h | Which Persian poet wrote The Conference of the Birds? => Attar ; Farid ud-Din Attar
+ncal-varsity:1047 | BONUS m | World Literature | Answer these questions about Italian literature.
+    ncal-varsity:1047.0 | e | Which Italian humanist wrote sonnets to Laura in his Canzoniere? => Petrarch ; Francesco Petrarca ; Petrarca
+    ncal-varsity:1047.1 | m | Which Italian author wrote The Prince? => Niccolò Machiavelli ; Machiavelli ; Niccolo Machiavelli
+    ncal-varsity:1047.2 | h | Which Italian poet wrote Orlando Furioso? => Ludovico Ariosto ; Ariosto
+ncal-varsity:1048 | BONUS e | World Literature | Answer these questions about Greek mythology in literature.
+    ncal-varsity:1048.0 | e | Which Greek hero killed the Minotaur? => Theseus
+    ncal-varsity:1048.1 | m | Which poet's Metamorphoses retells myths such as Daphne and Apollo? => Ovid
+    ncal-varsity:1048.2 | h | Which Greek poet wrote Odes celebrating victors at the Olympic Games? => Pindar
+ncal-varsity:1049 | BONUS m | World Literature | Answer these questions about Czech and Central European literature.
+    ncal-varsity:1049.0 | e | Which Kafka novel features a man named Joseph K. who is arrested for an unspecified crime? => The Trial ; Trial
+    ncal-varsity:1049.1 | m | Which Czech playwright coined the word "robot" in R.U.R.? => Karel Čapek ; Čapek ; Capek ; Karel Capek
+    ncal-varsity:1049.2 | h | Which Czech author wrote The Unbearable Lightness of Being? => Milan Kundera ; Kundera
+ncal-varsity:1050 | BONUS m | World Literature | Answer these questions about Existentialist writers.
+    ncal-varsity:1050.0 | e | Which French author wrote the novel Nausea? => Jean-Paul Sartre ; Sartre
+    ncal-varsity:1050.1 | m | Which French author wrote The Second Sex? => Simone de Beauvoir ; Beauvoir
+    ncal-varsity:1050.2 | h | Which Camus essay compares human existence to a man pushing a boulder up a hill? => The Myth of Sisyphus ; Myth of Sisyphus
+ncal-varsity:1051 | BONUS e | World Literature | Answer these questions about the Odyssey.
+    ncal-varsity:1051.0 | e | What is the name of Odysseus's home island? => Ithaca
+    ncal-varsity:1051.1 | m | Which singers lure sailors with song and are resisted when Odysseus is tied to his mast? => Sirens
+    ncal-varsity:1051.2 | h | Which sea monster with six heads lives opposite the whirlpool Charybdis? => Scylla
+ncal-varsity:1052 | BONUS m | World Literature | Answer these questions about Tolstoy and Dostoevsky.
+    ncal-varsity:1052.0 | e | Which Tolstoy novel's heroine throws herself under a train? => Anna Karenina
+    ncal-varsity:1052.1 | m | Which Tolstoy novella is about a judge who is dying of illness? => The Death of Ivan Ilyich ; Death of Ivan Ilyich
+    ncal-varsity:1052.2 | h | Which Dostoevsky novel contains the chapter "The Grand Inquisitor"? => The Brothers Karamazov ; Brothers Karamazov
+ncal-varsity:1053 | BONUS m | World Literature | Answer these questions about Spanish Golden Age drama.
+    ncal-varsity:1053.0 | e | Which Spanish Golden Age playwright was nicknamed the "Phoenix of Wits"? => Lope de Vega ; Vega
+    ncal-varsity:1053.1 | m | Which play about a village revolt against a commander has a title meaning "The Sheep Well"? => Fuenteovejuna
+    ncal-varsity:1053.2 | h | Which Calderón play is titled "Life Is a Dream" in English? => La vida es sueño ; Vida es sueño
+ncal-varsity:1054 | BONUS m | World Literature | Answer these questions about Ancient Greek authors.
+    ncal-varsity:1054.0 | e | Which Greek historian wrote about the Persian Wars and is called the Father of History? => Herodotus
+    ncal-varsity:1054.1 | m | Which Greek poet from Lesbos wrote lyric poems and is called the Tenth Muse? => Sappho
+    ncal-varsity:1054.2 | h | Which Greek historian wrote about the Peloponnesian War? => Thucydides
+ncal-varsity:1055 | BONUS e | World Literature | Answer these questions about the Arabian Nights and Persian tales.
+    ncal-varsity:1055.0 | e | Which sailor of the Arabian Nights makes seven voyages? => Sinbad ; Sindbad
+    ncal-varsity:1055.1 | m | In the Arabian Nights, what phrase opens the cave of the Forty Thieves? => Open Sesame ; Open, Sesame
+    ncal-varsity:1055.2 | h | Which lamp-owning young man appears in an Arabian Nights tale with a genie? => Aladdin

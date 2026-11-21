@@ -1,0 +1,181 @@
+ncal-jv:836 | m | U.S. History | Which woman, a former slave, led many enslaved people to freedom on the Underground Railroad? => Harriet Tubman ; Tubman
+ncal-jv:837 | m | U.S. History | Which 1820 agreement admitted Missouri as a slave state and Maine as a free state? => Missouri Compromise
+ncal-jv:838 | m | U.S. History | Which battle in July 1863 in Pennsylvania was the turning point of the Civil War? => Battle of Gettysburg ; Gettysburg
+ncal-jv:839 | m | U.S. History | Which Union general commanded the Union armies and later became president? => Ulysses Grant ; Ulysses S. Grant ; Grant
+ncal-jv:840 | m | U.S. History | Which Confederate general led the Army of Northern Virginia? => Robert E. Lee ; Lee
+ncal-jv:841 | m | U.S. History | Which man assassinated Abraham Lincoln at Ford's Theatre? => John Wilkes Booth ; Booth
+ncal-jv:842 | m | U.S. History | Which period after the Civil War focused on rebuilding the South and extending rights to freed people? => Reconstruction
+ncal-jv:843 | m | U.S. History | Which amendment to the Constitution gave women the right to vote? => Nineteenth Amendment ; 19th Amendment
+ncal-jv:844 | m | U.S. History | Which amendment to the Constitution granted citizenship to all people born in the United States? => Fourteenth Amendment ; 14th Amendment
+ncal-jv:845 | m | U.S. History | Which 1898 war ended with the United States gaining Puerto Rico, Guam, and the Philippines? => Spanish-American War
+ncal-jv:846 | m | U.S. History | Which 1920s era saw a flowering of Black art and culture in New York City? => Harlem Renaissance
+ncal-jv:847 | m | U.S. History | Which 1920s law banned the production and sale of alcohol? => Prohibition ; Eighteenth Amendment
+ncal-jv:848 | m | U.S. History | Which project during World War II developed the first atomic bombs? => Manhattan Project
+ncal-jv:849 | m | U.S. History | Which president ordered the use of atomic bombs on Japan in 1945? => Harry Truman ; Truman
+ncal-jv:850 | m | U.S. History | Which plan, announced in 1947, provided aid to rebuild Western Europe after World War II? => Marshall Plan
+ncal-jv:851 | m | U.S. History | Which 1962 confrontation between the United States and Soviet Union involved missiles in Cuba? => Cuban Missile Crisis
+ncal-jv:852 | m | U.S. History | Which 1964 law banned discrimination based on race, color, religion, sex, or national origin? => Civil Rights Act of 1964 ; Civil Rights Act
+ncal-jv:853 | m | U.S. History | Which war in Southeast Asia divided Americans in the 1960s and early 1970s? => Vietnam War
+ncal-jv:854 | m | U.S. History | Which president signed the Voting Rights Act of 1965? => Lyndon Johnson ; Lyndon B. Johnson ; LBJ ; Johnson
+ncal-jv:855 | m | U.S. History | Which former slave and abolitionist edited the newspaper The North Star? => Frederick Douglass ; Douglass
+ncal-jv:856 | m | U.S. History | Which president took the nation through World War I and proposed the Fourteen Points? => Woodrow Wilson ; Wilson
+ncal-jv:857 | m | U.S. History | Which astronaut was the first person to walk on the Moon in 1969? => Neil Armstrong ; Armstrong
+ncal-jv:858 | e | U.S. History | Which Wampanoag man taught the Pilgrims to plant corn? => Squanto ; Tisquantum
+ncal-jv:859 | m | U.S. History | Which Spanish explorer landed in Florida in 1513 and gave it its name? => Juan Ponce de Leon ; Ponce de Leon ; Ponce de León
+ncal-jv:860 | m | U.S. History | Which colony was founded by William Penn as a haven for Quakers? => Pennsylvania
+ncal-jv:861 | m | U.S. History | Which colony was founded by Roger Williams after he was banished from Massachusetts? => Rhode Island
+ncal-jv:862 | m | U.S. History | Which religious group led by William Bradford settled Plymouth Colony? => Pilgrims ; the Pilgrims
+ncal-jv:863 | m | U.S. History | Which 1754 to 1763 conflict between Britain and France in North America led to British debts and new taxes? => French and Indian War ; Seven Years' War
+ncal-jv:864 | m | U.S. History | Which 1765 British law taxed printed materials in the colonies? => Stamp Act
+ncal-jv:865 | m | U.S. History | Which 1770 event saw British soldiers kill five colonists in Boston? => Boston Massacre
+ncal-jv:866 | m | U.S. History | Which battles in 1775 began the American Revolutionary War? => Lexington and Concord ; Battles of Lexington and Concord
+ncal-jv:867 | m | U.S. History | Which pamphlet by Thomas Paine urged American independence in 1776? => Common Sense
+ncal-jv:868 | m | U.S. History | Which Revolutionary War battle in 1777 in New York was a turning point that brought French support? => Battle of Saratoga ; Saratoga
+ncal-jv:869 | m | U.S. History | Which 1783 treaty officially ended the Revolutionary War? => Treaty of Paris ; Treaty of Paris of 1783
+ncal-jv:870 | m | U.S. History | Which first constitution of the United States was too weak and was replaced in 1787? => Articles of Confederation
+ncal-jv:871 | m | U.S. History | Which war from 1812 to 1815 saw the White House burned by British forces? => War of 1812
+ncal-jv:872 | m | U.S. History | Which 1823 policy warned European nations not to colonize the Americas? => Monroe Doctrine
+ncal-jv:873 | m | U.S. History | Which canal opened in 1825 and connected the Hudson River to Lake Erie? => Erie Canal
+ncal-jv:874 | h | U.S. History | Which 1848 convention in New York began the organized women's rights movement in the United States? => Seneca Falls Convention ; Seneca Falls
+ncal-jv:875 | h | U.S. History | Which document written at Seneca Falls was modeled on the Declaration of Independence? => Declaration of Sentiments
+ncal-jv:876 | h | U.S. History | Which 1850 law required citizens to help capture escaped enslaved people? => Fugitive Slave Act ; Fugitive Slave Act of 1850
+ncal-jv:877 | h | U.S. History | Which 1854 law allowed settlers in Kansas and Nebraska to decide on slavery for themselves? => Kansas-Nebraska Act
+ncal-jv:878 | h | U.S. History | Which 1859 raid at Harpers Ferry was led by the abolitionist John Brown? => raid on Harpers Ferry ; Harpers Ferry ; John Brown's raid
+ncal-jv:879 | h | U.S. History | Which 1862 act granted 160 acres of western land to settlers who farmed it for five years? => Homestead Act ; Homestead Act of 1862
+ncal-jv:880 | h | U.S. History | Which battle in 1862 was the bloodiest single day of the Civil War? => Battle of Antietam ; Antietam ; Sharpsburg
+ncal-jv:881 | h | U.S. History | Which Union general led the March to the Sea through Georgia in 1864? => William Tecumseh Sherman ; Sherman
+ncal-jv:882 | h | U.S. History | Which 1877 compromise ended Reconstruction by withdrawing federal troops from the South? => Compromise of 1877
+ncal-jv:883 | h | U.S. History | Which 1896 Supreme Court case upheld segregation under the idea of separate but equal? => Plessy versus Ferguson ; Plessy v. Ferguson ; Plessy
+ncal-jv:884 | h | U.S. History | Which journalist wrote The Jungle, exposing conditions in the meatpacking industry? => Upton Sinclair ; Sinclair
+ncal-jv:885 | h | U.S. History | Which muckraking era movement from about 1890 to 1920 sought to reform politics and business? => Progressive Era ; Progressivism ; Progressive Movement
+ncal-jv:886 | h | U.S. History | Which 1911 fire in New York City killed 146 garment workers and led to safety reforms? => Triangle Shirtwaist Factory fire ; Triangle Shirtwaist fire
+ncal-jv:887 | h | U.S. History | Which 1919 treaty ending World War I was not ratified by the U.S. Senate? => Treaty of Versailles ; Versailles
+ncal-jv:888 | h | U.S. History | Which 1925 trial in Tennessee challenged a law banning the teaching of evolution? => Scopes Trial ; Scopes Monkey Trial
+ncal-jv:889 | h | U.S. History | Which environmental disaster in the 1930s turned parts of the Great Plains into barren land? => Dust Bowl
+ncal-jv:890 | h | U.S. History | Which Supreme Court case in 1944 upheld the internment of Japanese Americans? => Korematsu versus United States ; Korematsu v. United States ; Korematsu
+ncal-jv:891 | h | U.S. History | Which 1947 policy promised to support countries resisting communism? => Truman Doctrine
+ncal-jv:892 | h | U.S. History | Which 1948 operation delivered supplies to West Berlin by air? => Berlin Airlift
+ncal-jv:893 | h | U.S. History | Which 1955 event began when Rosa Parks was arrested and lasted over a year? => Montgomery Bus Boycott
+ncal-jv:894 | h | U.S. History | Which 1957 crisis involved nine Black students entering a Little Rock, Arkansas, high school? => Little Rock Nine ; Little Rock Crisis
+ncal-jv:895 | h | U.S. History | Which activist wrote Silent Spring, a book about pesticides? => Rachel Carson ; Carson
+ncal-jv:896 | h | U.S. History | Which 1973 Supreme Court case legalized abortion nationwide? => Roe versus Wade ; Roe v. Wade
+ncal-jv:897 | h | U.S. History | Which 1979 to 1981 crisis saw Americans held hostage in Tehran? => Iran hostage crisis
+ncal-jv:898 | h | U.S. History | Which president called on Soviet leader Mikhail Gorbachev to tear down the Berlin Wall in 1987? => Ronald Reagan ; Reagan
+ncal-jv:899 | h | U.S. History | Which barrier dividing a German city fell in 1989? => Berlin Wall
+ncal-jv:900 | h | U.S. History | Which treaty in 1848 ended the Mexican-American War? => Treaty of Guadalupe Hidalgo
+ncal-jv:901 | BONUS e | U.S. History | Answer these questions about the American Revolution.
+    ncal-jv:901.0 | e | Which 1776 document announced that the colonies were free from Great Britain? => Declaration of Independence
+    ncal-jv:901.1 | m | Which Patriot group, led by Samuel Adams, organized colonial protests against British taxes? => Sons of Liberty
+    ncal-jv:901.2 | h | Which general betrayed the American cause by plotting to surrender West Point? => Benedict Arnold ; Arnold
+ncal-jv:902 | BONUS e | U.S. History | Answer these questions about the colonial era.
+    ncal-jv:902.0 | e | Which colony was founded by Lord Baltimore as a refuge for English Catholics? => Maryland
+    ncal-jv:902.1 | m | Which Dutch colony in North America became New York after the English took it in 1664? => New Netherland
+    ncal-jv:902.2 | h | Which colony was founded in 1732 by James Oglethorpe as a buffer against Spanish Florida? => Georgia
+ncal-jv:903 | BONUS m | U.S. History | Answer these questions about the causes of the American Revolution.
+    ncal-jv:903.0 | e | What phrase meant that colonists objected to being taxed by a Parliament in which they had no elected representatives? => No taxation without representation
+    ncal-jv:903.1 | m | Which 1767 laws taxed glass, paint, paper, and tea imported to the colonies? => Townshend Acts
+    ncal-jv:903.2 | h | Which 1774 laws, called the Intolerable Acts by colonists, punished Massachusetts after the Boston Tea Party? => Coercive Acts ; Intolerable Acts
+ncal-jv:904 | BONUS e | U.S. History | Answer these questions about the Founding Fathers.
+    ncal-jv:904.0 | e | Which Founding Father was the third President of the United States and lived at Monticello? => Thomas Jefferson ; Jefferson
+    ncal-jv:904.1 | m | Which Founding Father was the fourth President and a major author of the Bill of Rights? => James Madison ; Madison
+    ncal-jv:904.2 | h | Which Founding Father, a Virginian, said Give me liberty, or give me death? => Patrick Henry ; Henry
+ncal-jv:905 | BONUS m | U.S. History | Answer these questions about the early republic.
+    ncal-jv:905.0 | e | Which city became the permanent capital of the United States, built on the Potomac River? => Washington, D.C. ; Washington
+    ncal-jv:905.1 | m | Which president, famous for his Farewell Address, warned against political parties and permanent foreign alliances? => George Washington ; Washington
+    ncal-jv:905.2 | h | Which 1794 uprising of farmers in western Pennsylvania protested a tax on whiskey? => Whiskey Rebellion
+ncal-jv:906 | BONUS e | U.S. History | Answer these questions about westward expansion.
+    ncal-jv:906.0 | e | Which trail ran from Missouri to Oregon and was used by thousands of pioneers in covered wagons? => Oregon Trail
+    ncal-jv:906.1 | m | Which phrase, coined in 1845, describes the belief that the United States was destined to expand across the continent? => Manifest Destiny
+    ncal-jv:906.2 | h | Which religious group led by Brigham Young settled near the Great Salt Lake in 1847? => Mormons ; Latter-day Saints ; Church of Jesus Christ of Latter-day Saints
+ncal-jv:907 | BONUS m | U.S. History | Answer these questions about the Civil War.
+    ncal-jv:907.0 | e | Which Confederate fort in South Carolina was fired on in April 1861 to start the Civil War? => Fort Sumter ; Sumter
+    ncal-jv:907.1 | m | Which Union victory in 1863 on the Mississippi River gave the North control of the river? => Siege of Vicksburg ; Vicksburg
+    ncal-jv:907.2 | h | Which president of the Confederate States led the South throughout the Civil War? => Jefferson Davis ; Davis
+ncal-jv:908 | BONUS e | U.S. History | Answer these questions about late nineteenth-century America.
+    ncal-jv:908.0 | e | Which inventor patented the telephone in 1876? => Alexander Graham Bell ; Bell
+    ncal-jv:908.1 | m | Which term, coined by Mark Twain, describes the period of rapid industrial growth and corruption in the late 1800s? => Gilded Age
+    ncal-jv:908.2 | h | Which labor leader founded the American Federation of Labor in 1886? => Samuel Gompers ; Gompers
+ncal-jv:909 | BONUS m | U.S. History | Answer these questions about immigration and cities.
+    ncal-jv:909.0 | e | Which statue in New York Harbor welcomed immigrants and was dedicated in 1886? => Statue of Liberty
+    ncal-jv:909.1 | m | Which 1882 law banned Chinese laborers from immigrating to the United States? => Chinese Exclusion Act
+    ncal-jv:909.2 | h | Which photographer and reformer documented New York slums in his 1890 book How the Other Half Lives? => Jacob Riis ; Riis
+ncal-jv:910 | BONUS e | U.S. History | Answer these questions about World War I.
+    ncal-jv:910.0 | e | What name is given to German submarines used in both world wars? => U-boats ; U-boat
+    ncal-jv:910.1 | m | Which 1917 German telegram proposed an alliance with Mexico against the United States? => Zimmermann Telegram
+    ncal-jv:910.2 | h | Which American general led the American Expeditionary Forces in Europe? => John Pershing ; Pershing
+ncal-jv:911 | BONUS m | U.S. History | Answer these questions about the 1920s.
+    ncal-jv:911.0 | e | Which pilot made the first solo nonstop flight across the Atlantic in 1927? => Charles Lindbergh ; Lindbergh
+    ncal-jv:911.1 | m | Which automaker introduced the assembly line and the Model T? => Henry Ford ; Ford
+    ncal-jv:911.2 | h | Which 1927 film was the first major feature with synchronized dialogue? => The Jazz Singer
+ncal-jv:912 | BONUS e | U.S. History | Answer these questions about the Great Depression and New Deal.
+    ncal-jv:912.0 | e | Which president before Franklin Roosevelt led the country at the start of the Great Depression? => Herbert Hoover ; Hoover
+    ncal-jv:912.1 | m | Which 1935 New Deal law created a pension system for retired workers? => Social Security Act ; Social Security
+    ncal-jv:912.2 | h | Which agency created in 1933 employed young men in conservation work in national forests? => Civilian Conservation Corps ; CCC
+ncal-jv:913 | BONUS m | U.S. History | Answer these questions about World War II.
+    ncal-jv:913.0 | e | Which 1944 invasion of Normandy opened a second front against Germany? => D-Day ; Operation Overlord ; Normandy invasion
+    ncal-jv:913.1 | m | Which American general commanded Allied forces in Europe and later became president? => Dwight Eisenhower ; Dwight D. Eisenhower ; Eisenhower
+    ncal-jv:913.2 | h | Which 1942 naval battle in the Pacific was a turning point after the Americans sank four Japanese carriers? => Battle of Midway ; Midway
+ncal-jv:914 | BONUS e | U.S. History | Answer these questions about the Cold War.
+    ncal-jv:914.0 | e | Which country was the main rival of the United States in the Cold War? => Soviet Union ; USSR ; Soviet Union (USSR)
+    ncal-jv:914.1 | m | Which divided country was invaded by communist North Korea in 1950? => South Korea ; the Republic of Korea
+    ncal-jv:914.2 | h | Which 1961 failed invasion of Cuba was backed by the CIA? => Bay of Pigs invasion ; Bay of Pigs
+ncal-jv:915 | BONUS m | U.S. History | Answer these questions about the civil rights movement.
+    ncal-jv:915.0 | e | Which civil rights organization, founded in 1909, helped by W. E. B. Du Bois, is known by four letters? => NAACP ; National Association for the Advancement of Colored People
+    ncal-jv:915.1 | m | Which 1960 protests at a Greensboro, North Carolina, lunch counter were a tactic of the civil rights movement? => sit-ins ; Greensboro sit-ins ; sit-in
+    ncal-jv:915.2 | h | Which first Black Supreme Court justice was appointed in 1967? => Thurgood Marshall ; Marshall
+ncal-jv:916 | BONUS e | U.S. History | Answer these questions about the space race.
+    ncal-jv:916.0 | e | Which Apollo mission put the first people on the Moon? => Apollo 11
+    ncal-jv:916.1 | m | Which astronaut was the first American to orbit the Earth in 1962? => John Glenn ; Glenn
+    ncal-jv:916.2 | h | Which NASA program between Mercury and Apollo sent two-person crews into orbit? => Project Gemini ; Gemini
+ncal-jv:917 | BONUS e | U.S. History | Answer these questions about the presidency.
+    ncal-jv:917.0 | e | Which building in Washington is the official residence of the President? => White House ; The White House
+    ncal-jv:917.1 | m | Which amendment limits a president to two terms? => Twenty-second Amendment ; 22nd Amendment
+    ncal-jv:917.2 | h | Which president was impeached in 1868 but acquitted by one vote in the Senate? => Andrew Johnson ; Johnson
+ncal-jv:918 | BONUS m | U.S. History | Answer these questions about the Constitution.
+    ncal-jv:918.0 | e | Which amendment protects the right to keep and bear arms? => Second Amendment ; 2nd Amendment
+    ncal-jv:918.1 | m | Which amendment bans cruel and unusual punishment? => Eighth Amendment ; 8th Amendment
+    ncal-jv:918.2 | h | Which amendment guarantees the right to remain silent and not incriminate oneself? => Fifth Amendment ; 5th Amendment
+ncal-jv:919 | BONUS e | U.S. History | Answer these questions about U.S. inventions and inventors.
+    ncal-jv:919.0 | e | Which inventor developed the cotton gin in 1793? => Eli Whitney ; Whitney
+    ncal-jv:919.1 | m | Which inventor developed the telegraph and the code of dots and dashes named for him? => Samuel Morse ; Morse
+    ncal-jv:919.2 | h | Which inventor created the mechanical reaper that helped farmers harvest wheat? => Cyrus McCormick ; McCormick
+ncal-jv:920 | BONUS m | U.S. History | Answer these questions about Native American history.
+    ncal-jv:920.0 | e | Which Native American leader of the Shawnee tried to unite tribes against settlers in the early 1800s? => Tecumseh
+    ncal-jv:920.1 | m | Which Nez Perce chief led his people on a long retreat in 1877 and said he would fight no more forever? => Chief Joseph ; Joseph
+    ncal-jv:920.2 | h | Which 1890 massacre in South Dakota was the last major clash between the army and the Lakota? => Wounded Knee ; Wounded Knee Massacre
+ncal-jv:921 | BONUS e | U.S. History | Answer these questions about U.S. wars.
+    ncal-jv:921.0 | e | Which war between 1775 and 1783 created the United States? => American Revolution ; Revolutionary War
+    ncal-jv:921.1 | m | Which war between 1950 and 1953 was fought on the Korean Peninsula? => Korean War
+    ncal-jv:921.2 | h | Which 1991 war liberated Kuwait from Iraqi forces? => Gulf War ; Persian Gulf War
+ncal-jv:922 | BONUS m | U.S. History | Answer these questions about U.S. presidents of the 20th century.
+    ncal-jv:922.0 | e | Which actor-turned-president served two terms in the 1980s? => Ronald Reagan ; Reagan
+    ncal-jv:922.1 | m | Which president ended the Korean War and built the interstate highway system? => Dwight Eisenhower ; Eisenhower
+    ncal-jv:922.2 | h | Which vice president became president in 1974 and later pardoned his predecessor? => Gerald Ford ; Ford
+ncal-jv:923 | BONUS e | U.S. History | Answer these questions about women in U.S. history.
+    ncal-jv:923.0 | e | Which First Lady of Franklin Roosevelt was a UN delegate and a human rights advocate? => Eleanor Roosevelt ; Eleanor
+    ncal-jv:923.1 | m | Which woman became the first female Supreme Court justice in 1981? => Sandra Day O'Connor ; O'Connor
+    ncal-jv:923.2 | h | Which aviator disappeared in 1937 on a flight around the world? => Amelia Earhart ; Earhart
+ncal-jv:924 | BONUS m | U.S. History | Answer these questions about government and law.
+    ncal-jv:924.0 | e | Which branch of government makes laws and includes the House and Senate? => legislative branch ; Congress ; legislative
+    ncal-jv:924.1 | m | Which document of 1215 influenced American ideas about limits on government? => Magna Carta
+    ncal-jv:924.2 | h | Which system allows each branch of government to limit the powers of the others? => checks and balances
+ncal-jv:925 | BONUS m | U.S. History | Answer these questions about the Progressive Era.
+    ncal-jv:925.0 | e | Which president was known as a trust buster and a Rough Rider? => Theodore Roosevelt ; Roosevelt
+    ncal-jv:925.1 | m | Which 1906 law, passed after Upton Sinclair's book, required inspection of meat? => Meat Inspection Act
+    ncal-jv:925.2 | h | Which 1890 law was the first federal law against monopolies? => Sherman Antitrust Act ; Sherman Act
+ncal-jv:926 | BONUS e | U.S. History | Answer these questions about U.S. foreign policy.
+    ncal-jv:926.0 | e | Which organization formed in 1949 united the United States and Western Europe in a military alliance? => NATO ; North Atlantic Treaty Organization
+    ncal-jv:926.1 | m | Which 1941 policy let the United States send supplies to Britain and other Allies without immediate payment? => Lend-Lease ; Lend-Lease Act
+    ncal-jv:926.2 | h | Which 1904 addition to the Monroe Doctrine claimed a U.S. right to act as an international police power? => Roosevelt Corollary
+ncal-jv:927 | BONUS m | U.S. History | Answer these questions about technology and industry.
+    ncal-jv:927.0 | e | Which inventor developed the practical electric lightbulb in the 1870s? => Thomas Edison ; Edison
+    ncal-jv:927.1 | m | Which 1844 invention by Samuel Morse sent messages over wires? => telegraph
+    ncal-jv:927.2 | h | Which Pennsylvania businessman built Standard Oil's rival steel empire and merged it into U.S. Steel in 1901? => Andrew Carnegie ; Carnegie
+ncal-jv:1593 | e | World History | Which ancient civilization is associated with the Parthenon and the Acropolis? => Greece ; Ancient Greece ; Greeks
+ncal-jv:1594 | e | World History | What river flows north through Egypt and was central to its ancient civilization? => Nile ; Nile River
+ncal-jv:1595 | e | World History | Which Greek city-state was famous for its militaristic society and training of soldiers from childhood? => Sparta
+ncal-jv:1596 | e | World History | Who was the first emperor of Rome? => Augustus ; Octavian ; Caesar Augustus
+ncal-jv:1597 | e | World History | Which Mongol leader founded the Mongol Empire in the early 1200s? => Genghis Khan ; Chinggis Khan ; Genghis
+ncal-jv:1598 | e | World History | Which French emperor was defeated at the Battle of Waterloo? => Napoleon Bonaparte ; Napoleon ; Bonaparte
+ncal-jv:1599 | e | World History | Which Paris prison fortress was stormed on July 14, 1789? => Bastille ; The Bastille
+ncal-jv:1600 | e | World History | Which English king was forced to sign the Magna Carta in 1215? => King John ; John

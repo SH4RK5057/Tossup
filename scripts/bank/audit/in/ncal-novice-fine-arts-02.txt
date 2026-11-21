@@ -1,0 +1,121 @@
+ncal-novice:331 | h | Art Terms | What word names a pattern of shapes that fit together with no gaps or overlaps, like a tiled floor? => tessellation
+ncal-novice:332 | h | Art Terms | What white primer is brushed on a panel or canvas to prepare it for painting? => gesso
+ncal-novice:333 | h | Art Terms | What technique, used by Georges Seurat, builds an image from small dots of pure color? => pointillism
+ncal-novice:334 | h | Art Terms | What kind of line shows the outline and edges of a shape or form? => contour line ; contour
+ncal-novice:335 | m | Art Terms | What term describes an artwork that uses only one hue in different values? => monochromatic
+ncal-novice:336 | m | Art Terms | What term describes the way the elements of an artwork are arranged on the page or canvas? => composition
+ncal-novice:337 | BONUS e | Art Terms | Answer these questions about drawing materials.
+    ncal-novice:337.0 | e | What material is made from burnt sticks of wood and produces rich black marks? => charcoal
+    ncal-novice:337.1 | m | What mineral, mixed with clay, forms the core of a standard pencil? => graphite
+    ncal-novice:337.2 | h | What soft, chalk-like sticks of pure pigment are used for colorful drawings? => pastel ; pastels ; soft pastel
+ncal-novice:338 | BONUS m | Art Terms | Answer these questions about types of paint.
+    ncal-novice:338.0 | e | What type of paint, made by mixing pigment with linseed oil, dries slowly and is used on canvas? => oil paint ; oil ; oils
+    ncal-novice:338.1 | m | What water-based, fast-drying paint is made with a plastic polymer? => acrylic ; acrylic paint
+    ncal-novice:338.2 | h | What opaque form of watercolor has a heavier, matte finish? => gouache
+ncal-novice:339 | BONUS m | Art Terms | Answer these questions about sculpture.
+    ncal-novice:339.0 | e | What smooth, hard stone from Italy has been carved by many famous sculptors? => marble
+    ncal-novice:339.1 | m | What alloy of copper and tin is often melted and poured into molds to make sculptures? => bronze
+    ncal-novice:339.2 | h | What casting method pours metal into a mold made by melting away a wax model? => lost-wax casting ; lost wax ; lost-wax ; cire perdue
+ncal-novice:340 | BONUS m | Art Terms | Answer these questions about the color wheel.
+    ncal-novice:340.0 | e | What color is directly opposite orange on the color wheel? => blue
+    ncal-novice:340.1 | m | What color is directly opposite yellow on the color wheel? => violet ; purple
+    ncal-novice:340.2 | h | What name is given to a color scheme made of three colors spaced evenly around the color wheel? => triadic ; triad
+ncal-novice:341 | BONUS m | Art Terms | Answer these questions about printmaking.
+    ncal-novice:341.0 | e | What kind of print is made by carving a design into a block of soft rubbery linoleum? => linocut ; linoleum print ; linoleum cut
+    ncal-novice:341.1 | m | What type of printing pushes ink through a mesh screen and was used by Andy Warhol? => screen printing ; silkscreen ; silk screen ; serigraphy
+    ncal-novice:341.2 | h | What sharp steel tool is used to cut lines into a metal plate in engraving? => burin ; graver
+ncal-novice:342 | BONUS e | Art Terms | Answer these questions about surfaces for drawing and painting.
+    ncal-novice:342.0 | e | What woven cloth, stretched on a frame, is the most common surface for oil painting? => canvas
+    ncal-novice:342.1 | m | What paper-like material did ancient Egyptians make from a reed plant? => papyrus
+    ncal-novice:342.2 | h | What writing surface made from the treated skin of a calf was used for medieval manuscripts? => vellum
+ncal-novice:343 | BONUS m | Art Terms | Answer these questions about the art world.
+    ncal-novice:343.0 | e | What person organizes and cares for the collection at a museum? => curator
+    ncal-novice:343.1 | m | What term names a person who gives money to support an artist? => patron
+    ncal-novice:343.2 | h | What term names an artwork that is made on request for a specific client? => commission ; commissioned work
+ncal-novice:344 | BONUS m | Art Terms | Answer these questions about types of modern art.
+    ncal-novice:344.0 | e | What term names art that is sprayed or painted on public walls, often with spray cans? => graffiti
+    ncal-novice:344.1 | m | What type of art fills a room or gallery space and is often made for a specific place? => installation ; installation art
+    ncal-novice:344.2 | h | What type of art uses actual or implied movement as an essential part of the work? => kinetic art ; kinetic
+ncal-novice:345 | BONUS m | Art Terms | Answer these questions about East Asian art.
+    ncal-novice:345.0 | e | What Japanese art is the folding of paper into shapes such as cranes? => origami
+    ncal-novice:345.1 | m | What Japanese term names woodblock prints of everyday life, popular in the Edo period? => ukiyo-e ; ukiyo e ; ukiyoe
+    ncal-novice:345.2 | h | What Japanese term means ink wash painting, done with black ink and brush on paper? => sumi-e ; sumi e ; suibokuga
+ncal-novice:346 | BONUS m | Art Terms | Answer these questions about textile arts.
+    ncal-novice:346.0 | e | What kind of bed covering is made by sewing small pieces of fabric together in a pattern? => quilt
+    ncal-novice:346.1 | m | What kind of heavy woven fabric picture is hung on walls and often shows scenes or stories? => tapestry
+    ncal-novice:346.2 | h | What dyeing method from Indonesia uses wax to resist the dye in a pattern? => batik
+ncal-novice:347 | BONUS m | Art Terms | Answer these questions about ceramics.
+    ncal-novice:347.0 | e | What kind of very hot oven is used to bake clay pottery until it hardens? => kiln
+    ncal-novice:347.1 | m | What fine, white, translucent ceramic was first perfected in China? => porcelain
+    ncal-novice:347.2 | h | What name is given to the liquid clay used to glue pieces of pottery together? => slip
+ncal-novice:348 | BONUS m | Art Terms | Answer these questions about creating depth in a picture.
+    ncal-novice:348.0 | e | When one object partly covers another in a picture, it creates the feeling of depth. What is this called? => overlapping ; overlap
+    ncal-novice:348.1 | m | What kind of perspective makes distant objects look paler, bluer, and less detailed? => atmospheric perspective ; aerial perspective
+    ncal-novice:348.2 | h | In what kind of perspective do all lines recede to a single vanishing point? => one-point perspective ; one point perspective ; linear perspective
+ncal-novice:349 | BONUS m | Art Terms | Answer these questions about sculpture tools and supports.
+    ncal-novice:349.0 | e | What sharp-edged tool do sculptors hammer to carve stone? => chisel
+    ncal-novice:349.1 | m | What wire framework supports a clay sculpture while it is being built? => armature
+    ncal-novice:349.2 | h | What coarse tool with raised teeth is used to smooth wood or stone? => rasp
+ncal-novice:350 | BONUS m | Art Terms | Answer these questions about shapes.
+    ncal-novice:350.0 | e | What term describes shapes such as circles, squares, and triangles that have precise mathematical definitions? => geometric ; geometric shapes
+    ncal-novice:350.1 | m | What term describes irregular, free-flowing shapes like those found in nature, such as a leaf or a cloud? => organic ; organic shapes
+    ncal-novice:350.2 | h | What term describes abstract shapes inspired by living forms, often used by Joan Miro and Jean Arp? => biomorphic ; biomorphic shapes
+ncal-novice:351 | BONUS m | Art Terms | Answer these questions about presenting artwork.
+    ncal-novice:351.0 | e | What decorative border is placed around a painting? => frame
+    ncal-novice:351.1 | m | What cardboard border is placed between a picture and its outer border? => mat ; matte
+    ncal-novice:351.2 | h | What clear protective coating is brushed over a finished oil painting? => varnish
+ncal-novice:352 | BONUS m | Art Terms | Answer these questions about digital art and design.
+    ncal-novice:352.0 | e | What is the smallest dot of color on a computer screen image? => pixel
+    ncal-novice:352.1 | m | What term names the art of arranging and designing letters and type? => typography
+    ncal-novice:352.2 | h | What type of computer graphics uses mathematical lines and curves so that they can be enlarged without losing quality? => vector graphics ; vector
+ncal-novice:353 | BONUS m | Art Terms | Answer these questions about monuments and sculpture bases.
+    ncal-novice:353.0 | e | What term describes a sculpture of a person that stands freely, such as Lady Liberty in New York Harbor? => statue
+    ncal-novice:353.1 | m | What name is given to the base that a sculpture stands on? => pedestal ; plinth
+    ncal-novice:353.2 | h | What term describes a sculpture carved so that it projects only slightly from a flat background? => bas-relief ; bas relief ; low relief ; relief
+ncal-novice:354 | e | Music Theory and Terms | How many lines does a musical staff have? => five ; 5
+ncal-novice:355 | e | Music Theory and Terms | What is the name of the symbol, also called the G clef, that is used for higher notes and curls around the second line from the bottom? => treble clef ; treble
+ncal-novice:356 | e | Music Theory and Terms | What is the name of the symbol, also called the F clef, that is used for lower notes? => bass clef ; bass
+ncal-novice:357 | m | Music Theory and Terms | What clef, often used by the viola, has its center pointing to middle C? => alto clef ; alto
+ncal-novice:358 | e | Music Theory and Terms | In four-four time, how many beats does a whole note last? => four ; 4
+ncal-novice:359 | e | Music Theory and Terms | In four-four time, how many beats does a half note last? => two ; 2
+ncal-novice:360 | e | Music Theory and Terms | What is the name for a pause or silence in music, shown by a special symbol? => rest
+ncal-novice:361 | e | Music Theory and Terms | The musical alphabet uses the letters A through which letter, before starting over at A? => G
+ncal-novice:362 | e | Music Theory and Terms | What Italian word means loud? => forte
+ncal-novice:363 | e | Music Theory and Terms | What Italian word means soft? => piano
+ncal-novice:364 | m | Music Theory and Terms | What term means to gradually get louder? => crescendo
+ncal-novice:365 | m | Music Theory and Terms | What Italian term means to gradually get softer? => diminuendo ; decrescendo
+ncal-novice:366 | e | Music Theory and Terms | What Italian word names a fast, lively tempo? => allegro
+ncal-novice:367 | e | Music Theory and Terms | What Italian word names a slow tempo, often thought of as at ease? => adagio
+ncal-novice:368 | m | Music Theory and Terms | What Italian word names a moderate walking tempo? => andante
+ncal-novice:369 | m | Music Theory and Terms | What Italian term means to gradually slow down? => ritardando ; rallentando ; ritard
+ncal-novice:370 | m | Music Theory and Terms | What Italian term means to gradually speed up? => accelerando
+ncal-novice:371 | m | Music Theory and Terms | What symbol, shaped like an eye over a dot, tells a performer to hold a note longer than its value? => fermata ; hold
+ncal-novice:372 | m | Music Theory and Terms | What symbol raises a note by one half step? => sharp
+ncal-novice:373 | m | Music Theory and Terms | What symbol lowers a note by one half step? => flat
+ncal-novice:374 | m | Music Theory and Terms | What symbol cancels a sharp or flat? => natural ; natural sign
+ncal-novice:375 | e | Music Theory and Terms | In a time signature, what does the top number tell you? => beats per measure ; number of beats ; beats in a measure ; number of beats per measure ; how many beats in a measure
+ncal-novice:376 | m | Music Theory and Terms | What is the name for each section of music between two bar lines? => measure ; bar
+ncal-novice:377 | e | Music Theory and Terms | What is the name of the interval between two notes with the same letter name, eight notes apart? => octave
+ncal-novice:378 | m | Music Theory and Terms | In solfege, which syllable follows re? => mi
+ncal-novice:379 | e | Music Theory and Terms | In solfege, what is the first syllable of the major scale? => do
+ncal-novice:380 | m | Music Theory and Terms | What name is given to three or more notes played at the same time? => chord
+ncal-novice:381 | m | Music Theory and Terms | What name is given to a three-note chord built from stacked thirds? => triad
+ncal-novice:382 | e | Music Theory and Terms | What is the name for the main tune of a piece that you can hum or sing? => melody
+ncal-novice:383 | e | Music Theory and Terms | What is the name for the combination of notes sounded together to support a melody? => harmony
+ncal-novice:384 | e | Music Theory and Terms | What term describes the pattern of long and short sounds in music? => rhythm
+ncal-novice:385 | e | Music Theory and Terms | What is the name for the steady pulse that you tap your foot to in music? => beat
+ncal-novice:386 | e | Music Theory and Terms | What word names the speed of the beat in a piece of music? => tempo
+ncal-novice:387 | m | Music Theory and Terms | What word names the loudness and softness of music? => dynamics
+ncal-novice:388 | m | Music Theory and Terms | What word describes how high or low a note sounds? => pitch
+ncal-novice:389 | m | Music Theory and Terms | What word describes the unique quality of sound that distinguishes a flute from a trumpet playing the same note? => timbre ; tone color
+ncal-novice:390 | m | Music Theory and Terms | What name is given to the group of sharps or flats at the beginning of a staff that tells which key a piece is in? => key signature
+ncal-novice:391 | m | Music Theory and Terms | How many sharps are in the key of G major? => one ; 1
+ncal-novice:392 | m | Music Theory and Terms | How many flats are in the key of B-flat major? => two ; 2
+ncal-novice:393 | h | Music Theory and Terms | What is the relative minor of C major? => A minor
+ncal-novice:394 | h | Music Theory and Terms | Which major key has no sharps or flats? => C major
+ncal-novice:395 | m | Music Theory and Terms | What is the interval from C up to G called? => fifth ; perfect fifth ; a fifth
+ncal-novice:396 | m | Music Theory and Terms | What is the name for the first and most important note of a scale, which gives a key its name? => tonic
+ncal-novice:397 | h | Music Theory and Terms | What name is given to the fifth note of a scale? => dominant
+ncal-novice:398 | e | Music Theory and Terms | What section of the orchestra includes trumpets, trombones, and tubas? => brass ; brass section
+ncal-novice:399 | e | Music Theory and Terms | What section of the orchestra includes flutes, clarinets, and oboes? => woodwinds ; woodwind ; woodwind section
+ncal-novice:400 | e | Music Theory and Terms | What section of the orchestra includes drums, cymbals, and triangles? => percussion ; percussion section

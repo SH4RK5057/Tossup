@@ -1,0 +1,632 @@
+[
+ {
+  "match": "Which painting by Leonardo da Vinci shows Jesus with his twelve apostles at a long table?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:286",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Claude Monet and Pierre-Auguste Renoir belonged to which art movement named after a Monet ",
+  "drop": true,
+  "reason": "same fact as ncal-jv:293",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Renaissance painter created \"The School of Athens\" in the Vatican?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:295",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Pop artist is famous for his paintings of Campbell's soup cans?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:300",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which American realist painted \"Nighthawks,\" set in a late-night diner?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:303",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which French painter created \"A Sunday Afternoon on the Island of La Grande Jatte\"?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:308",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which American Abstract Expressionist became known for pouring and dripping paint onto can",
+  "drop": true,
+  "reason": "same fact as ncal-jv:312",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which American painter of \"Cow's Skull: Red, White, and Blue\" is known for enlarged flower",
+  "drop": true,
+  "reason": "same fact as ncal-jv:313",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which American illustrator painted Freedom from Want as part of his Four Freedoms series?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1538.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Dutch painter of \"The Garden of Earthly Delights\" created strange, fantastical scene",
+  "drop": true,
+  "reason": "same fact as ncal-jv:330",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which French Post-Impressionist painted \"Where Do We Come From? What Are We? Where Are We ",
+  "drop": true,
+  "reason": "same fact as ncal-jv:338",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Belgian Surrealist painted a pipe with the caption \"This is not a pipe\"?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:345",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Dutch painter created grid-based works such as \"Composition with Red, Blue and Yello",
+  "drop": true,
+  "reason": "same fact as ncal-jv:347",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Russian painter, a pioneer of abstract art, wrote Concerning the Spiritual in Art?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1542.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which American sculptor invented the hanging mobile and also made large standing stabiles?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1532.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which island country lies off the southeast coast of Africa and is home to lemurs?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:738.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which steel magnate gave away much of his fortune to build libraries?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:915.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What is the je form of \"pouvoir\" in the present tense?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1208.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What organelle packages and ships proteins out of the cell, and is also called the Golgi c",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1316.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What organelle contains enzymes that break down worn-out cell parts and foreign material?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1316.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which alloy of copper and tin was used in ancient tools and weapons?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1568.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which alloy of copper and zinc is used in musical instruments?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1568.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What indicator turns pink in basic solutions and is colorless in acidic solutions?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1562.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What ion do acids release in water, according to Arrhenius?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1550.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What type of device converts chemical energy into electrical energy through spontaneous re",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1560.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What is the name of the simplest alkane, with the formula CH4?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1556.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What is the name of the three-carbon alkane commonly used as a fuel for grills?",
+  "drop": true,
+  "reason": "same fact as ncal-jv:1556.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "In four-four time, how many beats does a whole note last?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:432.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Austrian doctor founded psychoanalysis?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:601.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What Scottish thinker wrote The Wealth of Nations, published in 1776, a founding work of m",
+  "drop": true,
+  "reason": "same fact as ncal-novice:601.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What name is given to the line at zero degrees longitude that passes through Greenwich, En",
+  "drop": true,
+  "reason": "same fact as ncal-novice:604.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which hero killed the Nemean lion as one of his twelve labors?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:1654",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which U.S. state is nicknamed the Sunshine State and has Miami as a major city?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:771.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which country hosts the annual Carnival festival in Rio de Janeiro?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:857.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What do we call the number of protons in an atom's nucleus?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:1360.3",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What group of unreactive gases, including helium, neon, and argon, are found in the last c",
+  "drop": true,
+  "reason": "same fact as ncal-novice:1372.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What type of substance speeds up a chemical reaction without being used up?",
+  "drop": true,
+  "reason": "same fact as ncal-novice:1376.3",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Austen novel is set partly in Bath and features the heroine Catherine Morland?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:887.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which poet wrote \"Ode to a Nightingale\"?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:891.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Victorian poet wrote \"Sonnets from the Portuguese\"?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:893.2",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Thomas Hardy novel is set in the fictional region of Wessex and features Bathsheba E",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:894.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Joseph Conrad novel features the sailor Marlow traveling up the Congo?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:895.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Colombian author wrote \"Crónica de una muerte anunciada\"?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:630",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Spanish author wrote the novel \"Don Quijote de la Mancha\"?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1427.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What technique separates DNA fragments by size using an electric current in a gel?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:852.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "What scientist's experiments with Streptococcus pneumoniae demonstrated bacterial transfor",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:874.0",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Norwegian playwright wrote Hedda Gabler?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:922",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which musical's score by Jonathan Larson was completed just before his death in 1996?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1204",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which Cole Porter musical is based on Shakespeare's \"The Taming of the Shrew\"?",
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1276.1",
+  "type": "tossup",
+  "keepFirst": true
+ },
+ {
+  "match": "Which American painter created works by pouring and dripping paint onto canvases laid on t",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1704.1"
+ },
+ {
+  "match": "Which American painter is known for large close-up paintings of flowers and for desert lan",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1704.2"
+ },
+ {
+  "match": "Which American Pop artist painted comic-strip scenes such as Whaam! using Ben-Day dots?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1704.3"
+ },
+ {
+  "match": "Which French artist left Paris to paint scenes of Tahiti?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:337"
+ },
+ {
+  "match": "Who wrote the book \"The Outsiders\"?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1693.0"
+ },
+ {
+  "match": "In \"The Outsiders,\" what is the first name of the narrator, whose last name is Curtis?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1693.1"
+ },
+ {
+  "match": "In \"The Outsiders,\" which gang is the rival of the Greasers?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1693.2"
+ },
+ {
+  "match": "Which environmental disaster in the 1930s turned parts of the Great Plains into barren lan",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-jv:1705.2"
+ },
+ {
+  "match": "What name is given to a three-note chord built from stacked thirds?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1721.2"
+ },
+ {
+  "match": "What do we call the set of beliefs, customs, art, and ways of life shared by a group of pe",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1727.0"
+ },
+ {
+  "match": "What is the term for a place where buyers and sellers meet to trade goods, whether in pers",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1725.0"
+ },
+ {
+  "match": "What term describes the process of learning the norms and values of one's society?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1727.2"
+ },
+ {
+  "match": "What is the name for a map feature that explains the symbols and colors used on the map?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1726.2"
+ },
+ {
+  "match": "What term names the sequence of events in a story?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1713.0"
+ },
+ {
+  "match": "What term names a scene that goes back to an earlier time in a story?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1713.1"
+ },
+ {
+  "match": "Which Greek god of the forge made weapons and armor for the gods?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1719.1"
+ },
+ {
+  "match": "Which Greek god of wine and celebration was the son of Zeus?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1719.0"
+ },
+ {
+  "match": "Which inventor built the Labyrinth and the wings worn by Icarus?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1718.1"
+ },
+ {
+  "match": "Who was the greatest Trojan warrior, killed by Achilles?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1716.2"
+ },
+ {
+  "match": "What river did the ferryman Charon cross with the souls of the dead?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1717.1"
+ },
+ {
+  "match": "Which religion is based on the teachings of Siddhartha Gautama, who became known as the Bu",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1729.1"
+ },
+ {
+  "match": "What was the name of the supercontinent that existed about 250 million years ago?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1723.0"
+ },
+ {
+  "match": "What is molten rock called when it flows out onto Earth's surface?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1722.0"
+ },
+ {
+  "match": "Who presides over the Senate but votes only to break ties?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1709.0"
+ },
+ {
+  "match": "What name is given to the clause in Article I that gives Congress power to make laws that ",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1709.2"
+ },
+ {
+  "match": "Which amendment guarantees due process and equal protection of the laws to all citizens, r",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1708.2"
+ },
+ {
+  "match": "Which amendment guarantees a speedy and public trial by an impartial jury in criminal case",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1708.1"
+ },
+ {
+  "match": "Flying buttresses and pointed arches are features of which medieval architectural style?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1699.0"
+ },
+ {
+  "match": "In which country is the huge temple complex of Angkor Wat?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1058"
+ },
+ {
+  "match": "Which German-born architect, who directed the Bauhaus and designed the Seagram Building, p",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1080"
+ },
+ {
+  "match": "Which artist and designer created the Vietnam Veterans Memorial in Washington, D.C., while",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1099"
+ },
+ {
+  "match": "Which British gardener and architect designed the Crystal Palace for the Great Exhibition ",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1120"
+ },
+ {
+  "match": "Which architect designed the Chrysler Building, a New York skyscraper topped by a stainles",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1122"
+ },
+ {
+  "match": "Which Rodgers and Hammerstein musical follows a governess and the seven children of Captai",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1702.0"
+ },
+ {
+  "match": "Which Mozart opera features the servant Susanna and Count Almaviva?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1703.1"
+ },
+ {
+  "match": "Which musical is set in the Anatevka village and features Tevye the dairyman?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1702.1"
+ },
+ {
+  "match": "What principle states that countries should specialize in producing what they make at the ",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1587"
+ },
+ {
+  "match": "Which American economist led the Chicago school and championed monetarism and free markets",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1625"
+ },
+ {
+  "match": "Which Greek god was the swift messenger of the gods, with winged sandals?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-novice:1704.0"
+ },
+ {
+  "match": "What is the wedge-shaped stone at the top center of an arch that locks the other stones in",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as ncal-varsity:1041"
+ },
+ {
+  "match": "Which Transcendentalist wrote \"Walden\" about living by a pond near Concord?",
+  "type": "tossup",
+  "keepFirst": true,
+  "drop": true,
+  "reason": "same fact as Who wrote Walden"
+ }
+]

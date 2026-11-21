@@ -23,7 +23,7 @@ B|m|Answer these questions about the Roman Republic.       <- bonus: B|overall d
 -|m|...
 -|h|...
 ```
-- Difficulty letters: `e` easy, `m` medium, `h` hard, **relative to the level**. Aim for roughly 35% easy, 45% medium, 20% hard in every subject (the checker requires at least 15% easy, 15% medium and 10% hard).
+- Difficulty letters: `e` easy, `m` medium, `h` hard, **relative to the level**. Aim for roughly 35% easy, 45% medium, 20% hard in every subject (the checker requires at least 15% easy, 15% medium and 3% hard).
 - opts (space separated, last field): `n` person (the last word of the answer is the surname that is required), `n=Surname` (when the last word is not the surname), `m` math/number answer, `f` foreign-language answer (include the article when the key has one), `dup` (several people share the surname, so the first name is required), `part` (either part of a name is accepted, e.g. Leonardo or da Vinci), `p=Roosevelt;Bush` (answers that should prompt "more specific?"), `ok` (the answer legitimately appears in the question, such as "In the sentence 'She kicked the ball,' which word is the direct object?").
 - If you give only opts and no alternates, put opts in the alternates slot: `...|Moses|n` works. If you give both: `...|Mark Twain|Twain;Samuel Clemens|n`.
 - Never use the `|` character inside text. Lines starting with `//` and blank lines are ignored. Write an alternates field for every reasonable alternative phrasing and common spelling (for example "Dostoevsky;Dostoyevsky").

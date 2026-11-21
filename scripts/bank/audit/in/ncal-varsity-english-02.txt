@@ -1,0 +1,157 @@
+ncal-varsity:595 | m | English Literature | Which poet wrote "The Waste Land"? => T. S. Eliot ; Eliot
+ncal-varsity:596 | m | English Literature | Which poet wrote "Do not go gentle into that good night"? => Dylan Thomas ; Thomas
+ncal-varsity:597 | m | English Literature | Which English poet wrote "Dulce et Decorum Est" about World War I? => Wilfred Owen ; Owen
+ncal-varsity:598 | m | English Literature | Which poet wrote "The Rape of the Lock"? => Alexander Pope ; Pope
+ncal-varsity:599 | m | English Literature | Which English poet wrote the sonnet "Death, be not proud"? => John Donne ; Donne
+ncal-varsity:600 | m | English Literature | Which poet wrote the epic "The Faerie Queene"? => Edmund Spenser ; Spenser
+ncal-varsity:601 | m | English Literature | Which poet wrote "Tyger Tyger, burning bright"? => William Blake ; Blake
+ncal-varsity:602 | m | English Literature | Which Dickens novel features the Cratchit family, including Tiny Tim? => A Christmas Carol
+ncal-varsity:603 | m | English Literature | Which Thomas Hardy novel is set in the fictional region of Wessex and features Bathsheba Everdene? => Far from the Madding Crowd
+ncal-varsity:604 | m | English Literature | Which novel by George Eliot features the Dorothea Brooke? => Middlemarch
+ncal-varsity:605 | m | English Literature | Which novel by George Eliot features Maggie Tulliver? => The Mill on the Floss ; Mill on the Floss
+ncal-varsity:606 | m | English Literature | Which novel by Daniel Defoe follows a prostitute turned thief, Moll? => Moll Flanders
+ncal-varsity:607 | m | English Literature | Which Victorian author created the character Becky Sharp in "Vanity Fair"? => William Makepeace Thackeray ; Thackeray
+ncal-varsity:608 | m | English Literature | Which Joseph Conrad novel features the sailor Marlow traveling up the Congo? => Heart of Darkness
+ncal-varsity:609 | m | English Literature | Which novelist wrote "To the Lighthouse"? => Virginia Woolf ; Woolf
+ncal-varsity:610 | m | English Literature | Which author wrote "A Passage to India"? => E. M. Forster ; Forster
+ncal-varsity:611 | m | English Literature | Which author wrote "Brideshead Revisited"? => Evelyn Waugh ; Waugh
+ncal-varsity:612 | m | English Literature | Which author wrote "Lord Jim"? => Joseph Conrad ; Conrad
+ncal-varsity:613 | m | English Literature | Which novelist wrote "Howards End"? => E. M. Forster ; Forster
+ncal-varsity:614 | h | English Literature | Which author wrote "Tristram Shandy"? => Laurence Sterne ; Sterne
+ncal-varsity:615 | h | English Literature | Which author wrote "Tom Jones"? => Henry Fielding ; Fielding
+ncal-varsity:616 | h | English Literature | Which author wrote "Pamela" and "Clarissa"? => Samuel Richardson ; Richardson
+ncal-varsity:617 | h | English Literature | Which author wrote "Barchester Towers"? => Anthony Trollope ; Trollope
+ncal-varsity:618 | h | English Literature | Which author wrote "The Moonstone," an early detective novel? => Wilkie Collins ; Collins
+ncal-varsity:619 | h | English Literature | Which author wrote "The Woman in White"? => Wilkie Collins ; Collins
+ncal-varsity:620 | h | English Literature | Which author wrote "Jude the Obscure"? => Thomas Hardy ; Hardy
+ncal-varsity:621 | h | English Literature | Which author wrote "Mansfield Park"? => Jane Austen ; Austen
+ncal-varsity:622 | h | English Literature | Which author wrote "Nineteen Eighty-Four" and "Homage to Catalonia"? => George Orwell ; Orwell
+ncal-varsity:623 | h | English Literature | Which poet wrote "In Memoriam A. H. H."? => Alfred Lord Tennyson ; Tennyson
+ncal-varsity:624 | h | English Literature | Which poet wrote "Dover Beach"? => Matthew Arnold ; Arnold
+ncal-varsity:625 | h | English Literature | Which poet wrote "Goblin Market"? => Christina Rossetti ; Rossetti
+ncal-varsity:626 | h | English Literature | Which poet wrote "Lycidas" and "Samson Agonistes"? => John Milton ; Milton
+ncal-varsity:627 | h | English Literature | Which author wrote the novel "Lucky Jim"? => Kingsley Amis ; Amis
+ncal-varsity:628 | h | English Literature | Which author wrote "The Remains of the Day"? => Kazuo Ishiguro ; Ishiguro
+ncal-varsity:629 | h | English Literature | Which author wrote "Vanity Fair" subtitled "A Novel without a Hero"? => William Makepeace Thackeray ; Thackeray
+ncal-varsity:630 | h | English Literature | Which author wrote "Pygmalion" and "Major Barbara"? => George Bernard Shaw ; Shaw
+ncal-varsity:631 | h | English Literature | Which playwright wrote "Waiting for Godot"? => Samuel Beckett ; Beckett
+ncal-varsity:632 | h | English Literature | Which playwright wrote "The Birthday Party" and "The Caretaker"? => Harold Pinter ; Pinter
+ncal-varsity:892 | BONUS m | English Literature | Answer these questions about Charles Dickens novels.
+    ncal-varsity:892.0 | e | Which Dickens character says "Please, sir, I want some more"? => Oliver Twist ; Oliver
+    ncal-varsity:892.1 | m | Which Dickens novel features the convict Magwitch and the heroine Estella? => Great Expectations
+    ncal-varsity:892.2 | h | In which Dickens novel does Sydney Carton sacrifice himself in Paris? => A Tale of Two Cities
+ncal-varsity:893 | BONUS h | English Literature | Answer these questions about Jane Austen.
+    ncal-varsity:893.0 | e | Which Austen novel opens with the line about a single man in possession of a good fortune? => Pride and Prejudice
+    ncal-varsity:893.1 | m | Which Austen novel is set largely in the town of Highbury and features a matchmaker heroine? => Emma
+    ncal-varsity:893.2 | h | Which Austen novel parodies Gothic fiction through the heroine Catherine Morland? => Northanger Abbey
+ncal-varsity:894 | BONUS m | English Literature | Answer these questions about William Shakespeare's tragedies.
+    ncal-varsity:894.0 | e | Which tragedy features the characters Iago and Desdemona? => Othello
+    ncal-varsity:894.1 | m | Which tragedy includes the three witches and a character who sees a floating dagger? => Macbeth
+    ncal-varsity:894.2 | h | Which tragedy begins with a king dividing his kingdom among his three daughters? => King Lear
+ncal-varsity:895 | BONUS e | English Literature | Answer these questions about the Brontë sisters.
+    ncal-varsity:895.0 | e | Which Brontë sister wrote Shirley and Villette? => Charlotte Brontë ; Charlotte ; Bronte ; Charlotte Bronte
+    ncal-varsity:895.1 | m | Which novel by Emily Brontë features Heathcliff and Catherine Earnshaw? => Wuthering Heights
+    ncal-varsity:895.2 | h | Which Brontë sister wrote The Tenant of Wildfell Hall? => Anne Brontë ; Anne ; Anne Bronte
+ncal-varsity:896 | BONUS m | English Literature | Answer these questions about Mary Shelley's Frankenstein.
+    ncal-varsity:896.0 | e | What is the first name of the scientist who creates the monster? => Victor
+    ncal-varsity:896.1 | m | What polar region frames the novel's story through Robert Walton's letters? => Arctic ; North Pole ; Arctic Ocean
+    ncal-varsity:896.2 | h | Which Swiss city is the home of the scientist's family? => Geneva
+ncal-varsity:897 | BONUS h | English Literature | Answer these questions about Romantic poets.
+    ncal-varsity:897.0 | e | Which Coleridge poem describes Xanadu and a stately pleasure-dome? => Kubla Khan
+    ncal-varsity:897.1 | m | Which Romantic poet wrote the lyrical drama Prometheus Unbound? => Percy Bysshe Shelley ; Shelley
+    ncal-varsity:897.2 | h | Which poet wrote "Ode on a Grecian Urn" and "To Autumn"? => John Keats ; Keats
+ncal-varsity:898 | BONUS e | English Literature | Answer these questions about George Orwell.
+    ncal-varsity:898.0 | e | Which Orwell novel features the pigs Napoleon and Snowball? => Animal Farm
+    ncal-varsity:898.1 | m | In Nineteen Eighty-Four, what is the name of the party's leader whose face is on posters? => Big Brother
+    ncal-varsity:898.2 | h | Which Orwell memoir describes his time fighting in the Spanish Civil War? => Homage to Catalonia
+ncal-varsity:899 | BONUS m | English Literature | Answer these questions about Victorian poetry.
+    ncal-varsity:899.0 | e | Which Victorian poet wrote "Porphyria's Lover"? => Robert Browning ; Browning
+    ncal-varsity:899.1 | m | Which poet wrote "The Charge of the Light Brigade" and "Ulysses"? => Alfred Tennyson ; Tennyson ; Alfred Lord Tennyson
+    ncal-varsity:899.2 | h | Which Victorian poet wrote the verse novel Aurora Leigh? => Elizabeth Barrett Browning ; Barrett Browning
+ncal-varsity:900 | BONUS m | English Literature | Answer these questions about Thomas Hardy.
+    ncal-varsity:900.0 | e | Which Hardy novel features a title character who is a country girl named Tess? => Tess of the d'Urbervilles
+    ncal-varsity:900.1 | m | Which Hardy novel features Bathsheba Everdene and the shepherd Gabriel Oak? => Far from the Madding Crowd
+    ncal-varsity:900.2 | h | Which fictional region of southwest England is the setting for Hardy's novels? => Wessex
+ncal-varsity:901 | BONUS e | English Literature | Answer these questions about Joseph Conrad.
+    ncal-varsity:901.0 | e | Which Conrad novella follows Marlow up the Congo River in search of Kurtz? => Heart of Darkness
+    ncal-varsity:901.1 | m | Which Conrad novel is set in the South American country of Costaguana? => Nostromo
+    ncal-varsity:901.2 | h | Which Conrad novel is about the Patusan and the guilt of a sailor who jumped from the Patna? => Lord Jim
+ncal-varsity:902 | BONUS m | English Literature | Answer these questions about John Milton.
+    ncal-varsity:902.0 | e | Which epic poem by Milton tells of Satan's fall and the fall of Adam and Eve? => Paradise Lost
+    ncal-varsity:902.1 | m | Which Milton work is a pastoral elegy for his drowned friend Edward King? => Lycidas
+    ncal-varsity:902.2 | h | Which Milton speech defends freedom of the press against licensing? => Areopagitica
+ncal-varsity:903 | BONUS h | English Literature | Answer these questions about Geoffrey Chaucer.
+    ncal-varsity:903.0 | e | Which long poem by Chaucer is a collection of stories told by pilgrims? => The Canterbury Tales ; Canterbury Tales
+    ncal-varsity:903.1 | m | In which English cathedral city's shrine of Thomas Becket are the pilgrims headed? => Canterbury
+    ncal-varsity:903.2 | h | Which Chaucer poem retells a love story set during the Trojan War? => Troilus and Criseyde
+ncal-varsity:904 | BONUS m | English Literature | Answer these questions about modern British novels.
+    ncal-varsity:904.0 | e | Which William Golding novel is about English schoolboys stranded on an island? => Lord of the Flies
+    ncal-varsity:904.1 | m | Which Virginia Woolf novel follows Clarissa and her party in a single day in London? => Mrs Dalloway ; Mrs. Dalloway ; Mistress Dalloway
+    ncal-varsity:904.2 | h | Which Aldous Huxley novel depicts a future World State with a drug called soma? => Brave New World
+ncal-varsity:905 | BONUS e | English Literature | Answer these questions about Oscar Wilde.
+    ncal-varsity:905.0 | e | Which Wilde novel features a man whose portrait ages while he stays young? => The Picture of Dorian Gray ; Dorian Gray
+    ncal-varsity:905.1 | m | Which Wilde play is subtitled "A Trivial Comedy for Serious People"? => The Importance of Being Earnest ; Importance of Being Earnest
+    ncal-varsity:905.2 | h | Which Wilde poem was written after his imprisonment in Reading Gaol? => The Ballad of Reading Gaol ; Ballad of Reading Gaol
+ncal-varsity:906 | BONUS m | English Literature | Answer these questions about Samuel Taylor Coleridge and William Wordsworth.
+    ncal-varsity:906.0 | e | Which collection of poems did the two publish together in 1798? => Lyrical Ballads
+    ncal-varsity:906.1 | m | Which Wordsworth poem begins "I wandered lonely as a cloud"? => Daffodils ; I Wandered Lonely as a Cloud
+    ncal-varsity:906.2 | h | Which Wordsworth long autobiographical poem is subtitled "Growth of a Poet's Mind"? => The Prelude ; Prelude
+ncal-varsity:907 | BONUS h | English Literature | Answer these questions about the Gothic novel.
+    ncal-varsity:907.0 | e | Which Bram Stoker novel features a vampire count from Transylvania? => Dracula
+    ncal-varsity:907.1 | m | Which Robert Louis Stevenson novella features a doctor and his violent alter ego? => Strange Case of Doctor Jekyll and Mister Hyde ; Jekyll and Hyde ; Doctor Jekyll and Mister Hyde
+    ncal-varsity:907.2 | h | Which Horace Walpole novel from 1764 is considered the first Gothic novel? => The Castle of Otranto ; Castle of Otranto
+ncal-varsity:908 | BONUS e | English Literature | Answer these questions about Lewis Carroll and children's classics.
+    ncal-varsity:908.0 | e | Which Carroll book begins with a girl falling down a rabbit hole? => Alice's Adventures in Wonderland ; Alice in Wonderland
+    ncal-varsity:908.1 | m | Which sequel to the first Alice book features a chessboard landscape? => Through the Looking-Glass ; Through the Looking Glass
+    ncal-varsity:908.2 | h | Which nonsense poem by Carroll features the Jabberwock? => Jabberwocky
+ncal-varsity:909 | BONUS m | English Literature | Answer these questions about a Victorian novelist.
+    ncal-varsity:909.0 | e | What pen name did Mary Ann Evans use? => George Eliot
+    ncal-varsity:909.1 | m | Which novel by this author is set in the town of Middlemarch? => Middlemarch
+    ncal-varsity:909.2 | h | Which novel by this author features the weaver Silas? => Silas Marner
+ncal-varsity:910 | BONUS m | English Literature | Answer these questions about Restoration and eighteenth-century satire.
+    ncal-varsity:910.0 | e | Which Jonathan Swift work follows Lemuel Gulliver's voyages? => Gulliver's Travels
+    ncal-varsity:910.1 | m | Which Swift essay satirically suggests that the poor sell their children as food? => A Modest Proposal ; Modest Proposal
+    ncal-varsity:910.2 | h | Which Alexander Pope mock-epic concerns a stolen lock of hair? => The Rape of the Lock ; Rape of the Lock
+ncal-varsity:911 | BONUS e | English Literature | Answer these questions about Daniel Defoe and early novels.
+    ncal-varsity:911.0 | e | Which Defoe novel features a shipwrecked sailor and his companion Friday? => Robinson Crusoe
+    ncal-varsity:911.1 | m | Which Samuel Richardson novel is told in letters by a servant girl named Pamela? => Pamela
+    ncal-varsity:911.2 | h | Which Henry Fielding novel follows a foundling raised by Squire Allworthy? => Tom Jones
+ncal-varsity:912 | BONUS m | English Literature | Answer these questions about T. S. Eliot.
+    ncal-varsity:912.0 | e | Which Eliot poem begins "April is the cruellest month"? => The Waste Land ; Waste Land
+    ncal-varsity:912.1 | m | Which Eliot poem is spoken by a timid man who asks "Do I dare to eat a peach?" => The Love Song of J. Alfred Prufrock ; Prufrock ; J. Alfred Prufrock
+    ncal-varsity:912.2 | h | Which Eliot book of light verse inspired the musical Cats? => Old Possum's Book of Practical Cats
+ncal-varsity:913 | BONUS h | English Literature | Answer these questions about Arthurian literature.
+    ncal-varsity:913.0 | e | Which medieval English author compiled Le Morte d'Arthur? => Thomas Malory ; Malory
+    ncal-varsity:913.1 | m | In Arthurian legend, what is the name of Arthur's sword in some tales, pulled from a stone in others? => Excalibur
+    ncal-varsity:913.2 | h | Which Middle English poem tells of a knight who beheads a green challenger? => Sir Gawain and the Green Knight ; Gawain and the Green Knight
+ncal-varsity:914 | BONUS m | English Literature | Answer these questions about John Keats and Lord Byron.
+    ncal-varsity:914.0 | e | Which Byron long poem follows a Spanish nobleman and womanizer? => Don Juan
+    ncal-varsity:914.1 | m | Which Byron poem follows a world-weary young traveler named Harold? => Childe Harold's Pilgrimage ; Childe Harold
+    ncal-varsity:914.2 | h | Which Keats poem begins "A thing of beauty is a joy for ever"? => Endymion
+ncal-varsity:915 | BONUS e | English Literature | Answer these questions about Beowulf and Old English.
+    ncal-varsity:915.0 | e | Which monster does Beowulf defeat first? => Grendel
+    ncal-varsity:915.1 | m | What kind of creature does Beowulf kill in the final battle of his life? => dragon
+    ncal-varsity:915.2 | h | What is the name of the Danish king whose hall Heorot is attacked? => Hrothgar
+ncal-varsity:916 | BONUS m | English Literature | Answer these questions about E. M. Forster and D. H. Lawrence.
+    ncal-varsity:916.0 | e | Which Forster novel is set in colonial India and involves a trip to the Marabar Caves? => A Passage to India ; Passage to India
+    ncal-varsity:916.1 | m | Which Forster novel features Lucy Honeychurch in Florence? => A Room with a View ; Room with a View
+    ncal-varsity:916.2 | h | Which D. H. Lawrence novel was banned for its portrayal of Constance and Mellors? => Lady Chatterley's Lover
+ncal-varsity:917 | BONUS h | English Literature | Answer these questions about Shakespeare's comedies.
+    ncal-varsity:917.0 | e | In which comedy does Puck serve King Oberon in a forest? => A Midsummer Night's Dream ; Midsummer Night's Dream
+    ncal-varsity:917.1 | m | Which comedy features Portia and a pound of flesh? => The Merchant of Venice ; Merchant of Venice
+    ncal-varsity:917.2 | h | Which comedy features Viola disguised as Cesario? => Twelfth Night
+ncal-varsity:918 | BONUS e | English Literature | Answer these questions about modern poetry.
+    ncal-varsity:918.0 | e | Which Irish poet wrote "Digging" and won the Nobel Prize in 1995? => Seamus Heaney ; Heaney
+    ncal-varsity:918.1 | m | Which Dylan Thomas poem urges his father to rage against the dying of the light? => Do Not Go Gentle into That Good Night
+    ncal-varsity:918.2 | h | Which Ted Hughes collection includes the poem "Hawk Roosting"? => Lupercal
+ncal-varsity:919 | BONUS m | English Literature | Answer these questions about authors of detective fiction.
+    ncal-varsity:919.0 | e | Which Arthur Conan Doyle detective lives at 221B Baker Street? => Sherlock Holmes ; Holmes
+    ncal-varsity:919.1 | m | Which Agatha Christie detective is a Belgian with a waxed mustache? => Hercule Poirot ; Poirot
+    ncal-varsity:919.2 | h | Which Wilkie Collins novel about a stolen diamond is often called the first English detective novel? => The Moonstone ; Moonstone
+ncal-varsity:920 | BONUS m | English Literature | Answer these questions about Elizabethan drama beyond Shakespeare.
+    ncal-varsity:920.0 | e | Which playwright wrote Doctor Faustus? => Christopher Marlowe ; Marlowe
+    ncal-varsity:920.1 | m | Which Marlowe play features the conqueror Tamburlaine? => Tamburlaine the Great ; Tamburlaine
+    ncal-varsity:920.2 | h | Which Ben Jonson comedy features a con man named Mosca? => Volpone
+ncal-varsity:921 | e | World Literature | Which ancient Greek poet is credited with writing the Iliad and the Odyssey? => Homer
+ncal-varsity:922 | e | World Literature | In the Odyssey, what is the name of the hero's wife who waits for him in Ithaca? => Penelope
+ncal-varsity:923 | e | World Literature | Which French author wrote Les Misérables? => Victor Hugo ; Hugo

@@ -1,0 +1,11 @@
+[
+  {"id": "ncal-novice:1148", "difficulty": "medium"},
+  {"id": "ncal-novice:1151", "addAlt": ["astronomical units"]},
+  {"id": "ncal-novice:1163", "addAlt": ["Copernican model", "Sun-centered model"]},
+  {"id": "ncal-novice:1172", "difficulty": "hard"},
+  {"id": "ncal-novice:1183", "difficulty": "hard"},
+  {"id": "ncal-novice:1187", "difficulty": "medium"},
+  {"id": "ncal-novice:1190", "difficulty": "hard"},
+  {"id": "ncal-novice:1196", "difficulty": "hard"},
+  {"id": "ncal-novice:1221.1", "drop": "dup of ncal-novice:1192"}
+]

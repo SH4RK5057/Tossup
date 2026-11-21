@@ -1,0 +1,13 @@
+[
+  {"id": "ncal-novice:482", "difficulty": "hard"},
+  {"id": "ncal-novice:491", "difficulty": "hard"},
+  {"id": "ncal-novice:492", "difficulty": "easy"},
+  {"id": "ncal-novice:497", "difficulty": "easy"},
+  {"id": "ncal-novice:498", "difficulty": "easy"},
+  {"id": "ncal-novice:508", "difficulty": "hard"},
+  {"id": "ncal-novice:511", "difficulty": "easy"},
+  {"id": "ncal-novice:517.1", "addAlt": ["going deaf", "loss of hearing"]},
+  {"id": "ncal-novice:521.0", "addAlt": ["Britain", "United Kingdom"]},
+  {"id": "ncal-novice:522.2", "setText": "Which French woman novelist, who wrote under a man's pen name, had a long relationship with Chopin?", "setAnswer": "George Sand", "addAlt": ["Sand", "Aurore Dupin"]},
+  {"id": "ncal-novice:880", "addAlt": ["muchas gracias"]}
+]

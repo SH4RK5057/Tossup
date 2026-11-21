@@ -1,0 +1,121 @@
+ncal-novice:401 | m | Music Theory and Terms | What name is given to a group of four musicians? => quartet
+ncal-novice:402 | e | Music Theory and Terms | What word describes music performed by one musician? => solo
+ncal-novice:403 | m | Music Theory and Terms | What name is given to a piece for two performers? => duet
+ncal-novice:404 | m | Music Theory and Terms | What term describes singing without instrumental accompaniment? => a cappella ; acappella
+ncal-novice:405 | m | Music Theory and Terms | What name is given to the thin stick used by a conductor? => baton
+ncal-novice:406 | m | Music Theory and Terms | What Italian term means to play notes short and detached? => staccato
+ncal-novice:407 | m | Music Theory and Terms | What Italian term means to play notes smoothly connected? => legato
+ncal-novice:408 | m | Music Theory and Terms | What does a dot placed after a note do to its length? => adds half its value ; lengthens it by half ; increases it by half
+ncal-novice:409 | h | Music Theory and Terms | What term describes a rhythm that places emphasis on the weak beats or off the beat? => syncopation
+ncal-novice:410 | m | Music Theory and Terms | What name is given to a chord whose notes are played one after another instead of together? => arpeggio ; broken chord
+ncal-novice:411 | h | Music Theory and Terms | What name is given to a short musical pattern that is repeated over and over? => ostinato
+ncal-novice:412 | m | Music Theory and Terms | What term names a song in which singers begin the same melody one after another at different times, such as Row, Row, Row Your Boat? => round ; canon
+ncal-novice:413 | m | Music Theory and Terms | What term describes two or more musicians playing the same notes at the same pitch? => unison
+ncal-novice:414 | h | Music Theory and Terms | What name is given to a scale of five notes? => pentatonic scale ; pentatonic
+ncal-novice:415 | h | Music Theory and Terms | What name is given to a scale made of twelve notes, each a half step apart? => chromatic scale ; chromatic
+ncal-novice:416 | h | Music Theory and Terms | What Italian term means to return to the beginning and play again? => da capo ; D.C.
+ncal-novice:417 | h | Music Theory and Terms | What name is given to the closing section of a piece of music? => coda
+ncal-novice:418 | m | Music Theory and Terms | What Italian term means very soft? => pianissimo
+ncal-novice:419 | m | Music Theory and Terms | What Italian term means very loud? => fortissimo
+ncal-novice:420 | h | Music Theory and Terms | What Italian term means moderately loud? => mezzo forte
+ncal-novice:421 | m | Music Theory and Terms | What name is given to a musical form with three parts, in which the first section returns at the end? => ternary form ; ABA ; ABA form
+ncal-novice:422 | h | Music Theory and Terms | What name is given to a musical form in which a main theme keeps returning between contrasting sections? => rondo
+ncal-novice:423 | h | Music Theory and Terms | What name is given to a musical form in which a theme is repeated and altered in different ways? => theme and variations ; variations ; variation
+ncal-novice:424 | h | Music Theory and Terms | What Latin word, meaning work, is used with a number to catalog a composer's compositions? => opus
+ncal-novice:425 | e | Music Theory and Terms | What name is given to a high-pitched singing voice, the highest female voice type, in a choir? => soprano
+ncal-novice:426 | m | Music Theory and Terms | What name is given to the interval of half a step? => semitone ; half step ; half-step
+ncal-novice:427 | h | Music Theory and Terms | What term describes two notes that sound the same but are written differently, such as F sharp and G flat? => enharmonic ; enharmonic equivalents
+ncal-novice:428 | BONUS e | Music Theory and Terms | Answer these questions about string instruments in the orchestra.
+    ncal-novice:428.0 | e | What is the smallest and highest-pitched of the orchestra's main bowed string instruments? => violin
+    ncal-novice:428.1 | m | What instrument is played held between the knees and has a deeper tone than the viola? => cello ; violoncello
+    ncal-novice:428.2 | h | What is the largest and lowest-pitched bowed string instrument in the orchestra? => double bass ; string bass ; contrabass
+ncal-novice:429 | BONUS e | Music Theory and Terms | Answer these questions about woodwind instruments.
+    ncal-novice:429.0 | e | What high-pitched woodwind is played by blowing across a hole near one end? => flute
+    ncal-novice:429.1 | m | What double-reed woodwind plays the note that orchestras tune to? => oboe
+    ncal-novice:429.2 | h | What large double-reed woodwind plays low notes and is longer than a clarinet? => bassoon
+ncal-novice:430 | BONUS e | Music Theory and Terms | Answer these questions about brass instruments.
+    ncal-novice:430.0 | e | What brass instrument, with three valves, often plays fanfares? => trumpet
+    ncal-novice:430.1 | m | What brass instrument changes pitch using a long U-shaped slide? => trombone
+    ncal-novice:430.2 | h | What is the largest and lowest-pitched brass instrument in the orchestra? => tuba
+ncal-novice:431 | BONUS e | Music Theory and Terms | Answer these questions about percussion instruments.
+    ncal-novice:431.0 | e | What drum has metal wires stretched across its bottom head and is played with sticks in a marching band? => snare drum ; snare
+    ncal-novice:431.1 | m | What percussion instrument has wooden bars arranged like a piano keyboard and played with mallets? => xylophone
+    ncal-novice:431.2 | h | What large kettle-shaped drums, whose pitch can be changed with a pedal, are found in an orchestra? => timpani ; kettledrums ; kettledrum
+ncal-novice:432 | BONUS m | Music Theory and Terms | Answer these questions about tempo markings.
+    ncal-novice:432.0 | e | What Italian term means very fast? => presto
+    ncal-novice:432.1 | m | What Italian term means lively and brisk? => vivace ; allegro
+    ncal-novice:432.2 | h | What Italian term means at a moderate speed? => moderato
+ncal-novice:433 | BONUS m | Music Theory and Terms | Answer these questions about note values.
+    ncal-novice:433.0 | e | What note lasts for one beat in four-four time? => quarter note
+    ncal-novice:433.1 | m | How many half notes fit into one whole note? => two ; 2
+    ncal-novice:433.2 | h | A dotted half note lasts how many beats in four-four time? => three ; 3
+ncal-novice:434 | BONUS m | Music Theory and Terms | Answer these questions about time signatures.
+    ncal-novice:434.0 | e | In four-four time, how many beats are in each measure? => four ; 4
+    ncal-novice:434.1 | m | What is the other name for four-four time, which uses the letter C? => common time
+    ncal-novice:434.2 | h | In six-eight time, how many eighth notes are in each measure? => six ; 6
+ncal-novice:435 | BONUS m | Music Theory and Terms | Answer these questions about singing voices.
+    ncal-novice:435.0 | e | What is the highest female singing voice? => soprano
+    ncal-novice:435.1 | m | What is the highest common male singing voice? => tenor
+    ncal-novice:435.2 | h | What male voice type has a range in the middle, below the highest and above the lowest? => baritone
+ncal-novice:436 | BONUS m | Music Theory and Terms | Answer these questions about parts of a song or piece.
+    ncal-novice:436.0 | e | What name is given to the part of a song that repeats, usually with the same lyrics? => chorus ; refrain
+    ncal-novice:436.1 | m | What name is given to the contrasting middle section of many pop songs, between the choruses? => bridge
+    ncal-novice:436.2 | h | What name is given to an elaborate solo passage in a concerto, played to show off the soloist's skill? => cadenza
+ncal-novice:437 | BONUS m | Music Theory and Terms | Answer these questions about reading music.
+    ncal-novice:437.0 | e | What name is given to the set of five lines and four spaces where notes are written? => staff ; stave
+    ncal-novice:437.1 | m | What name is given to short extra lines used to write notes above or below the five main lines? => ledger lines ; ledger line
+    ncal-novice:437.2 | h | What name is given to the pair of staves joined by a brace, used for piano music? => grand staff ; great stave
+ncal-novice:438 | BONUS m | Music Theory and Terms | Answer these questions about the piano.
+    ncal-novice:438.0 | e | How many keys does a standard modern piano have? => 88 ; eighty-eight
+    ncal-novice:438.1 | m | What Italian inventor built the first pianos around 1700? => Bartolomeo Cristofori ; Cristofori
+    ncal-novice:438.2 | h | Which keys on a piano are grouped in sets of two and three? => black keys ; the black keys
+ncal-novice:439 | BONUS e | Music Theory and Terms | Answer these questions about the guitar.
+    ncal-novice:439.0 | e | How many strings does a standard guitar have? => six ; 6
+    ncal-novice:439.1 | m | What name is given to the metal ridges along the neck of a guitar? => frets ; fret
+    ncal-novice:439.2 | h | What clamp placed across the neck of a guitar raises the pitch of all open strings? => capo
+ncal-novice:440 | BONUS m | Music Theory and Terms | Answer these questions about practicing and tuning.
+    ncal-novice:440.0 | e | What device clicks or beeps at a steady speed to help musicians keep time? => metronome
+    ncal-novice:440.1 | m | What two-pronged metal tool makes a pure note when struck? => tuning fork
+    ncal-novice:440.2 | h | The note A above middle C is commonly tuned to how many vibrations per second? => 440 ; four hundred forty
+ncal-novice:441 | BONUS m | Music Theory and Terms | Answer these questions about jazz.
+    ncal-novice:441.0 | e | What term describes music that musicians make up on the spot rather than reading from the page? => improvisation ; improvise
+    ncal-novice:441.1 | m | What term describes a jazz style with a lilting rhythm, popular with big bands in the 1930s? => swing
+    ncal-novice:441.2 | h | What vocal style in jazz uses nonsense syllables instead of words? => scat ; scat singing
+ncal-novice:442 | BONUS m | Music Theory and Terms | Answer these questions about instruments from around the world.
+    ncal-novice:442.0 | e | What wind instrument with a bag and drone pipes is associated with Scotland? => bagpipes ; bagpipe
+    ncal-novice:442.1 | m | What long-necked stringed instrument from India was played by Ravi Shankar? => sitar
+    ncal-novice:442.2 | h | What goblet-shaped hand drum comes from West Africa? => djembe
+ncal-novice:443 | BONUS m | Music Theory and Terms | Answer these questions about solfege.
+    ncal-novice:443.0 | e | What song from The Sound of Music teaches the syllables of the scale? => Do-Re-Mi ; Do Re Mi
+    ncal-novice:443.1 | m | What is the solfege syllable for the fifth note of the major scale? => sol ; so
+    ncal-novice:443.2 | h | Which syllable names the leading tone, the note just before the scale returns to do? => ti ; te
+ncal-novice:444 | BONUS m | Music Theory and Terms | Answer these questions about musical groups.
+    ncal-novice:444.0 | e | What name is given to a group of singers who perform together? => choir ; chorus
+    ncal-novice:444.1 | m | What type of ensemble has two violins, a viola, and a cello? => string quartet
+    ncal-novice:444.2 | h | What name is given to classical music written for a small group without a conductor? => chamber music
+ncal-novice:445 | e | Composers and Works | Which German composer wrote the Emperor Concerto and the Appassionata Sonata? => Ludwig van Beethoven ; Beethoven
+ncal-novice:446 | e | Composers and Works | Which composer wrote a famous Fifth Symphony that opens with the four notes short-short-short-long? => Ludwig van Beethoven ; Beethoven
+ncal-novice:447 | m | Composers and Works | The choral finale known as Ode to Joy appears in which numbered symphony by Beethoven? => Ninth Symphony ; Symphony No. 9 ; 9th Symphony ; Symphony Number 9 ; Symphony 9 ; Ninth
+ncal-novice:448 | e | Composers and Works | Which Austrian composer wrote the operas The Magic Flute and Don Giovanni? => Wolfgang Amadeus Mozart ; Mozart
+ncal-novice:449 | e | Composers and Works | Which Austrian child prodigy, born in Salzburg, wrote the serenade Eine kleine Nachtmusik? => Wolfgang Amadeus Mozart ; Mozart
+ncal-novice:450 | e | Composers and Works | Which Baroque composer wrote the Brandenburg Concertos and the Toccata and Fugue in D minor? => Johann Sebastian Bach ; Bach
+ncal-novice:451 | m | Composers and Works | Which collection by Johann Sebastian Bach contains a prelude and fugue in each of the twenty-four major and minor keys? => The Well-Tempered Clavier ; Well-Tempered Clavier ; Well Tempered Clavier
+ncal-novice:452 | e | Composers and Works | Which Venetian priest wrote more than five hundred concertos? => Antonio Vivaldi ; Vivaldi
+ncal-novice:453 | m | Composers and Works | Which German-born composer, who lived in England, wrote the suite Water Music? => George Frideric Handel ; Handel ; Georg Friedrich Handel
+ncal-novice:454 | e | Composers and Works | Which oratorio by Handel contains the Hallelujah chorus? => Messiah ; The Messiah
+ncal-novice:455 | e | Composers and Works | Which Austrian composer, often called the Father of the Symphony, wrote more than one hundred symphonies? => Joseph Haydn ; Haydn
+ncal-novice:456 | e | Composers and Works | Which Russian composer wrote the ballet The Nutcracker? => Pyotr Ilyich Tchaikovsky ; Tchaikovsky ; Peter Tchaikovsky ; Tchaikovski
+ncal-novice:457 | e | Composers and Works | Which Tchaikovsky ballet tells the story of a princess turned into a swan by a sorcerer? => Swan Lake
+ncal-novice:458 | m | Composers and Works | Which Tchaikovsky overture celebrates Russia's defense against Napoleon and includes cannon fire? => 1812 Overture ; The 1812 Overture ; Overture 1812
+ncal-novice:459 | m | Composers and Works | Which Russian composer wrote the ballets The Firebird and Petrushka? => Igor Stravinsky ; Stravinsky
+ncal-novice:460 | h | Composers and Works | Which Stravinsky ballet caused a famous riot at its 1913 Paris premiere? => The Rite of Spring ; Rite of Spring ; Le Sacre du printemps
+ncal-novice:461 | m | Composers and Works | Which French composer wrote Clair de lune and Prelude to the Afternoon of a Faun? => Claude Debussy ; Debussy
+ncal-novice:462 | m | Composers and Works | Which French composer wrote Boléro, a piece built on one melody that repeats and grows louder? => Maurice Ravel ; Ravel
+ncal-novice:463 | e | Composers and Works | Which American composer wrote Appalachian Spring and the ballet Billy the Kid? => Aaron Copland ; Copland
+ncal-novice:464 | e | Composers and Works | Which American composer wrote Rhapsody in Blue and the opera Porgy and Bess? => George Gershwin ; Gershwin
+ncal-novice:465 | e | Composers and Works | Which American composer wrote the music for the Broadway show West Side Story? => Leonard Bernstein ; Bernstein
+ncal-novice:466 | e | Composers and Works | Which American bandleader, known as the March King, wrote The Stars and Stripes Forever? => John Philip Sousa ; Sousa
+ncal-novice:467 | m | Composers and Works | Which Norwegian composer wrote the Peer Gynt suite, which includes In the Hall of the Mountain King? => Edvard Grieg ; Grieg
+ncal-novice:468 | e | Composers and Works | Which Russian composer wrote Peter and the Wolf, in which each character is played by a different instrument? => Sergei Prokofiev ; Prokofiev
+ncal-novice:469 | m | Composers and Works | Which French composer wrote The Carnival of the Animals? => Camille Saint-Saëns ; Saint-Saens ; Saint Saens
+ncal-novice:470 | m | Composers and Works | Which Russian composer wrote Pictures at an Exhibition, later orchestrated by Maurice Ravel? => Modest Mussorgsky ; Mussorgsky ; Moussorgsky

@@ -1,0 +1,262 @@
+ncal-novice:615 | BONUS e | English Grammar | Answer these questions about punctuation.
+    ncal-novice:615.0 | e | What punctuation mark is used to separate items in a series, such as "red, white, and blue"? => comma
+    ncal-novice:615.1 | m | What punctuation mark can join two closely related independent clauses without a conjunction? => semicolon
+    ncal-novice:615.2 | m | What punctuation mark usually introduces a list that follows a complete sentence? => colon
+ncal-novice:616 | BONUS e | English Grammar | Answer these questions about irregular verbs.
+    ncal-novice:616.0 | e | What is the past tense of the verb "run"? => ran
+    ncal-novice:616.1 | m | What is the past participle of the verb "take"? => taken
+    ncal-novice:616.2 | h | What is the past participle of the verb "choose"? => chosen
+ncal-novice:617 | BONUS m | English Grammar | Answer these questions about possessive nouns.
+    ncal-novice:617.0 | e | What is the possessive form of the singular noun "girl"? => girl's
+    ncal-novice:617.1 | m | What is the possessive form of the plural noun "dogs"? => dogs'
+    ncal-novice:617.2 | m | What is the possessive form of the plural noun "women"? => women's
+ncal-novice:618 | BONUS m | English Grammar | Answer these questions about pronouns.
+    ncal-novice:618.0 | e | What kind of pronoun, such as "I," "you," or "she," refers to a specific person or thing? => personal pronoun ; personal
+    ncal-novice:618.1 | m | What kind of pronoun, such as "myself" or "themselves," reflects the action back to the subject? => reflexive pronoun ; reflexive
+    ncal-novice:618.2 | h | Which pronoun is correct in "To ___ did you give the book": who or whom? => whom
+ncal-novice:619 | BONUS m | English Grammar | Answer these questions about subject-verb agreement.
+    ncal-novice:619.0 | e | Which verb is correct in "He ___ a new bike": have or has? => has
+    ncal-novice:619.1 | m | Which verb is correct in "Everyone ___ ready": is or are? => is
+    ncal-novice:619.2 | h | Which verb is correct in "The group of students ___ late": was or were? => was
+ncal-novice:620 | BONUS e | English Grammar | Answer these questions about verb tenses.
+    ncal-novice:620.0 | e | What verb tense is used in the sentence "She danced all night"? => past tense ; past ; simple past ; simple past tense
+    ncal-novice:620.1 | m | "She has danced all night" is written in which tense that uses "has" plus a past participle? => present perfect ; present perfect tense
+    ncal-novice:620.2 | h | What tense uses "had" plus a past participle, as in "She had danced all night"? => past perfect ; past perfect tense
+ncal-novice:621 | BONUS m | English Grammar | Answer these questions about degrees of adjectives.
+    ncal-novice:621.0 | e | What is the superlative form of the adjective "big"? => biggest
+    ncal-novice:621.1 | m | What is the comparative form of the adjective "beautiful"? => more beautiful
+    ncal-novice:621.2 | h | What is the superlative form of the adjective "good"? => best
+ncal-novice:622 | BONUS h | English Grammar | Answer these questions about sentence structure.
+    ncal-novice:622.0 | e | What type of sentence has two independent clauses joined by a comma and a word such as "and" or "but"? => compound sentence ; compound
+    ncal-novice:622.1 | m | What term names a clause that cannot stand alone as a sentence? => dependent clause ; subordinate clause ; dependent ; subordinate
+    ncal-novice:622.2 | h | What type of sentence combines one main clause with at least one clause that cannot stand alone? => complex sentence ; complex
+ncal-novice:623 | BONUS e | English Grammar | Answer these questions about conjunctions.
+    ncal-novice:623.0 | e | In the sentence "I like tea but she likes coffee," which word is the conjunction? => but
+    ncal-novice:623.1 | m | What acronym names the seven coordinating conjunctions? => FANBOYS
+    ncal-novice:623.2 | h | What kind of conjunctions, such as "either...or" and "neither...nor," work in pairs? => correlative conjunctions ; correlative conjunction ; correlative
+ncal-novice:624 | BONUS e | English Grammar | Answer these questions about prepositions.
+    ncal-novice:624.0 | e | In the sentence "The book is on the table," which word is the preposition? => on
+    ncal-novice:624.1 | m | What term names a group of words made of a preposition, its object, and any modifiers? => prepositional phrase
+    ncal-novice:624.2 | h | In the sentence "She walked across the bridge," which word is the object of the preposition? => bridge ; the bridge
+ncal-novice:625 | BONUS m | English Grammar | Answer these questions about words that are often confused.
+    ncal-novice:625.0 | e | Which spelling means "also": to, too, or two? => too
+    ncal-novice:625.1 | m | Which word completes the sentence "The weather will ___ our plans": affect or effect? => affect
+    ncal-novice:625.2 | h | Which word completes the sentence "Everyone ___ Tom came to the party": accept or except? => except
+ncal-novice:626 | BONUS h | English Grammar | Answer these questions about more punctuation.
+    ncal-novice:626.0 | e | What pair of marks is placed around dialogue in a story? => quotation marks ; quotation mark ; quotes
+    ncal-novice:626.1 | m | What punctuation mark joins the parts of a compound word such as "mother-in-law"? => hyphen
+    ncal-novice:626.2 | h | What punctuation mark, made with a long horizontal line, sets off a sudden break in thought? => dash ; em dash
+ncal-novice:627 | BONUS m | English Grammar | Answer these questions about kinds of verbs.
+    ncal-novice:627.0 | e | What kind of verb, such as "is" or "seems," connects the subject to a word that describes it? => linking verb ; linking
+    ncal-novice:627.1 | m | What kind of verb, such as "can" or "will," comes before a main verb to help it? => helping verb ; auxiliary verb ; auxiliary ; helping
+    ncal-novice:627.2 | h | In the sentence "She is a doctor," what word is the predicate nominative? => doctor ; a doctor
+ncal-novice:628 | BONUS h | English Grammar | Answer these questions about voice and mood.
+    ncal-novice:628.0 | e | Is the sentence "The dog chased the cat" written in the active voice or the passive voice? => active voice ; active
+    ncal-novice:628.1 | m | What voice is shown when the subject receives the action, as in "The cat was chased by the dog"? => passive voice ; passive
+    ncal-novice:628.2 | h | Which verb is correct in "If I ___ you, I would study harder": was or were? => were
+ncal-novice:629 | BONUS m | English Grammar | Answer these questions about common usage choices.
+    ncal-novice:629.0 | e | Which word completes the sentence "She sings very ___": good or well? => well
+    ncal-novice:629.1 | m | Which word completes the sentence "There are ___ cookies left than before": fewer or less? => fewer
+    ncal-novice:629.2 | h | Which pronoun completes the phrase "between you and ___": I or me? => me
+ncal-novice:630 | BONUS m | English Grammar | Answer these questions about plural nouns.
+    ncal-novice:630.0 | e | What is the plural of the word "ox"? => oxen
+    ncal-novice:630.1 | m | What is the plural of the word "sheep"? => sheep
+    ncal-novice:630.2 | h | What is the plural of the word "phenomenon"? => phenomena
+ncal-novice:631 | BONUS e | English Grammar | Answer these questions about contractions.
+    ncal-novice:631.0 | e | What is the contraction of the words "they are"? => they're
+    ncal-novice:631.1 | m | What is the contraction of the words "should not"? => shouldn't
+    ncal-novice:631.2 | h | What is the contraction of the words "of the clock"? => o'clock
+ncal-novice:632 | BONUS e | English Vocabulary | Answer these questions about synonyms.
+    ncal-novice:632.0 | e | What word means the same as the word "glad"? => happy ; pleased ; joyful ; cheerful
+    ncal-novice:632.1 | m | What word means the same as the word "brave"? => courageous ; bold ; fearless ; heroic
+    ncal-novice:632.2 | h | What word means the same as the word "scarce"? => rare ; limited ; sparse
+ncal-novice:633 | BONUS e | English Vocabulary | Answer these questions about antonyms.
+    ncal-novice:633.0 | e | What is the opposite of the word "wet"? => dry
+    ncal-novice:633.1 | m | What is the opposite of the word "rough"? => smooth
+    ncal-novice:633.2 | h | What is the opposite of the word "expand"? => contract ; shrink
+ncal-novice:634 | BONUS m | English Vocabulary | Answer these questions about prefixes.
+    ncal-novice:634.0 | e | What does the prefix "dis-" mean in the word "disagree"? => not ; opposite ; opposite of
+    ncal-novice:634.1 | m | What does the prefix "semi-" mean in the word "semicircle"? => half
+    ncal-novice:634.2 | h | What does the prefix "post-" mean in the word "postwar"? => after
+ncal-novice:635 | BONUS m | English Vocabulary | Answer these questions about suffixes.
+    ncal-novice:635.0 | e | What suffix added to the word "slow" makes the adverb "slowly"? => -ly ; ly
+    ncal-novice:635.1 | m | What does the suffix "-ology" mean in the word "biology"? => study of ; the study of
+    ncal-novice:635.2 | h | What does the suffix "-phobia" mean in the word "claustrophobia"? => fear of ; fear
+ncal-novice:636 | BONUS e | English Vocabulary | Answer these questions about Greek and Latin roots.
+    ncal-novice:636.0 | e | What does the Latin root "aqua" mean in the word "aquarium"? => water
+    ncal-novice:636.1 | m | What does the Latin root "dict" mean in the word "dictate"? => say ; speak ; tell
+    ncal-novice:636.2 | h | What does the Greek root "chron" mean in the word "chronology"? => time
+ncal-novice:637 | BONUS m | English Vocabulary | Answer these questions about more word roots.
+    ncal-novice:637.0 | e | What does the Greek root "bio" mean in the word "biography"? => life
+    ncal-novice:637.1 | m | What does the Greek root "graph" mean in the word "autograph"? => write ; writing
+    ncal-novice:637.2 | h | What does the Latin root "spect" mean in the word "spectator"? => look ; see ; watch
+ncal-novice:638 | BONUS m | English Vocabulary | Answer these questions about still more word roots.
+    ncal-novice:638.0 | e | What does the Greek root "tele" mean in the word "telescope"? => far ; distance ; distant ; far off
+    ncal-novice:638.1 | m | What does the Latin root "aud" mean in the word "audience"? => hear ; listen
+    ncal-novice:638.2 | h | What does the Latin root "ped" mean in the word "pedestrian"? => foot
+ncal-novice:639 | BONUS m | English Vocabulary | Answer these questions about homophones.
+    ncal-novice:639.0 | e | What word sounds like "sea" but means to look at something? => see
+    ncal-novice:639.1 | m | What word sounds like "flower" but names the powder used to bake bread? => flour
+    ncal-novice:639.2 | h | What word sounds like "principal" but means a basic rule or belief? => principle
+ncal-novice:640 | BONUS m | English Vocabulary | Answer these questions about kinds of words.
+    ncal-novice:640.0 | e | What term names words that sound alike but have different spellings and meanings, such as "two" and "too"? => homophones ; homophone
+    ncal-novice:640.1 | m | What term names a word formed from the first letters of a phrase, such as "NASA"? => acronym
+    ncal-novice:640.2 | h | What term names words that are spelled alike but pronounced differently and have different meanings, such as "tear" the drop and "tear" the rip? => heteronyms ; heteronym ; homograph ; homographs
+ncal-novice:641 | BONUS e | English Vocabulary | Answer these questions about word origins.
+    ncal-novice:641.0 | e | What language of ancient Rome gave English many of its prefixes and roots? => Latin
+    ncal-novice:641.1 | m | What ancient language gave English the words "democracy" and "telephone"? => Greek ; ancient Greek
+    ncal-novice:641.2 | h | The word "tsunami" came into English from what language? => Japanese
+ncal-novice:642 | BONUS m | English Vocabulary | Answer these questions about describing words.
+    ncal-novice:642.0 | e | What word describes a person who always tells the truth? => honest ; truthful
+    ncal-novice:642.1 | m | What word describes a person who refuses to change his or her mind? => stubborn ; obstinate ; headstrong ; pigheaded
+    ncal-novice:642.2 | h | What word describes a person who is unselfish and puts the needs of others first? => altruistic ; selfless
+ncal-novice:643 | BONUS e | English Vocabulary | Answer these questions about people who study things.
+    ncal-novice:643.0 | e | What word names a person who writes poems? => poet
+    ncal-novice:643.1 | m | What word names a scientist who studies rocks and the earth? => geologist
+    ncal-novice:643.2 | h | What word names a scientist who studies the weather? => meteorologist
+ncal-novice:644 | BONUS e | English Vocabulary | Answer these questions about idioms.
+    ncal-novice:644.0 | e | What word completes the idiom "cost an arm and a ___"? => leg
+    ncal-novice:644.1 | m | What word completes the idiom "spill the ___," meaning to reveal a secret? => beans
+    ncal-novice:644.2 | h | What word completes the idiom "a blessing in ___"? => disguise
+ncal-novice:645 | BONUS m | English Vocabulary | Answer these questions about word forms.
+    ncal-novice:645.0 | e | What is the adjective form of the noun "danger"? => dangerous
+    ncal-novice:645.1 | m | What is the noun form of the verb "decide"? => decision
+    ncal-novice:645.2 | h | What is the noun form of the verb "know" that names what a person has learned? => knowledge
+ncal-novice:646 | BONUS e | English Vocabulary | Answer these questions about reference works.
+    ncal-novice:646.0 | e | What kind of book contains maps of the world? => atlas
+    ncal-novice:646.1 | m | What kind of reference work has articles on many subjects? => encyclopedia
+    ncal-novice:646.2 | h | What alphabetical list of topics with page numbers appears at the back of a book? => index
+ncal-novice:647 | BONUS e | English Vocabulary | Answer these questions about compound words.
+    ncal-novice:647.0 | e | What compound word is made by joining "snow" and "man"? => snowman
+    ncal-novice:647.1 | e | What compound word is made by joining "moon" and "light"? => moonlight
+    ncal-novice:647.2 | m | What compound word is made by joining "cup" and "board"? => cupboard
+ncal-novice:648 | BONUS m | English Vocabulary | Answer these questions about periods of time.
+    ncal-novice:648.0 | e | What word names a period of ten years? => decade
+    ncal-novice:648.1 | m | What word names a period of one hundred years? => century
+    ncal-novice:648.2 | h | What word names a period of one thousand years? => millennium
+ncal-novice:649 | BONUS e | Literary Terms | Answer these questions about sound devices in writing.
+    ncal-novice:649.0 | e | What term names the repetition of the same beginning consonant sound in nearby words, as in "Peter Piper picked"? => alliteration
+    ncal-novice:649.1 | m | What term names the repetition of vowel sounds in nearby words, as in "the rain in Spain"? => assonance
+    ncal-novice:649.2 | h | What term names the repetition of consonant sounds within or at the ends of nearby words, as in "pitter-patter"? => consonance
+ncal-novice:650 | BONUS e | Literary Terms | Answer these questions about plot.
+    ncal-novice:650.0 | e | What term names a surprising turn in the plot that readers do not expect? => plot twist ; twist
+    ncal-novice:650.1 | m | The most exciting moment of a story, which comes before the falling action, is called what? => climax
+    ncal-novice:650.2 | h | What term names a false clue that leads readers away from the truth in a mystery? => red herring
+ncal-novice:651 | BONUS m | Literary Terms | Answer these questions about poetry.
+    ncal-novice:651.0 | e | What term names the voice that talks in a poem? => speaker
+    ncal-novice:651.1 | m | What term names a pause in the middle of a line of poetry? => caesura
+    ncal-novice:651.2 | h | What term names the running over of a sentence from one line of poetry to the next without a pause? => enjambment ; enjambement
+ncal-novice:652 | BONUS m | Literary Terms | Answer these questions about characters.
+    ncal-novice:652.0 | e | What term names the method a writer uses to reveal a character's personality? => characterization
+    ncal-novice:652.1 | m | What term names a complex, well-developed character who seems like a real person? => round character ; round
+    ncal-novice:652.2 | m | What term names a simple character who shows only one or two traits? => flat character ; flat
+ncal-novice:653 | BONUS e | Literary Terms | Answer these questions about narrators.
+    ncal-novice:653.0 | e | What point of view uses the pronoun "I" to tell a story? => first person ; first-person ; first-person point of view
+    ncal-novice:653.1 | m | What rare point of view addresses the reader as "you"? => second person ; second-person ; second-person point of view
+    ncal-novice:653.2 | h | What term names a narrator whose account cannot be trusted? => unreliable narrator ; unreliable
+ncal-novice:654 | BONUS m | Literary Terms | Answer these questions about genres.
+    ncal-novice:654.0 | e | What genre of fiction involves science, space travel, or future technology? => science fiction ; sci-fi
+    ncal-novice:654.1 | m | What genre of fiction sets invented characters in a real period of the past? => historical fiction
+    ncal-novice:654.2 | h | What genre shows a frightening imagined society, often ruled by an oppressive government? => dystopian fiction ; dystopia ; dystopian
+ncal-novice:655 | BONUS m | Literary Terms | Answer these questions about nonfiction.
+    ncal-novice:655.0 | e | What term names a short piece of nonfiction that gives a writer's thoughts on one subject? => essay
+    ncal-novice:655.1 | m | What term names a newspaper article that gives the opinion of the editors? => editorial
+    ncal-novice:655.2 | h | What term names the sentence, usually in the introduction of a paper, that states the writer's main claim? => thesis statement ; thesis
+ncal-novice:656 | BONUS m | Literary Terms | Answer these questions about drama.
+    ncal-novice:656.0 | e | What term names a short division of an act in a play? => scene
+    ncal-novice:656.1 | m | What term names a remark that an actor makes to the audience that other characters do not hear? => aside
+    ncal-novice:656.2 | h | What term names a situation in which the audience knows something that the characters do not? => dramatic irony
+ncal-novice:657 | BONUS m | Literary Terms | Answer these questions about rhyme.
+    ncal-novice:657.0 | e | What term names a rhyme that occurs within a single line of poetry? => internal rhyme
+    ncal-novice:657.1 | m | What term names a rhyme in which the sounds are close but not exact, such as "home" and "come"? => slant rhyme ; near rhyme ; half rhyme ; off rhyme
+    ncal-novice:657.2 | h | What term names the use of harsh, clashing sounds in writing? => cacophony
+ncal-novice:658 | BONUS e | Literary Terms | Answer these questions about kinds of stories.
+    ncal-novice:658.0 | e | What term names a brief work of fiction that can be read in one sitting? => short story
+    ncal-novice:658.1 | m | What term names a simple story that teaches a moral or spiritual lesson? => parable
+    ncal-novice:658.2 | h | What term names a story in which characters and events stand for deeper ideas? => allegory
+ncal-novice:659 | BONUS e | Literary Terms | Answer these questions about reading skills.
+    ncal-novice:659.0 | e | What term names a writer's reason for writing, such as to inform, to persuade, or to entertain? => author's purpose ; purpose
+    ncal-novice:659.1 | m | What term names a conclusion that a reader draws from clues in the text? => inference
+    ncal-novice:659.2 | h | What term names a writer's unfair leaning toward one side of an issue? => bias
+ncal-novice:660 | BONUS h | Literary Terms | Answer these questions about poem forms.
+    ncal-novice:660.0 | e | What kind of poem uses the letters of a word, read down the page, to spell a message? => acrostic poem ; acrostic
+    ncal-novice:660.1 | m | What kind of poem is arranged on the page in the shape of its subject? => concrete poem ; shape poem ; concrete
+    ncal-novice:660.2 | h | What nineteen-line poem uses two repeating refrains? => villanelle
+ncal-novice:661 | BONUS m | Literary Terms | Answer these questions about types of conflict.
+    ncal-novice:661.0 | e | What kind of conflict takes place inside a character's own mind? => internal conflict ; internal
+    ncal-novice:661.1 | m | What kind of conflict pits a character against a storm, a wild animal, or the wilderness? => character versus nature ; person versus nature ; man versus nature ; nature
+    ncal-novice:661.2 | h | What kind of conflict pits a character against the rules or beliefs of a community? => character versus society ; person versus society ; man versus society ; society
+ncal-novice:662 | BONUS e | Literary Terms | Answer these questions about word meaning.
+    ncal-novice:662.0 | e | What term names an overused expression, such as "cold as ice"? => cliche ; cliché
+    ncal-novice:662.1 | m | What term names the feelings or ideas a word suggests beyond its dictionary meaning? => connotation
+    ncal-novice:662.2 | h | What term names the literal dictionary meaning of a word? => denotation
+ncal-novice:663 | BONUS m | Literary Terms | Answer these questions about humor in writing.
+    ncal-novice:663.0 | e | What term names comedy that uses clumsy physical action, such as pratfalls and pie fights? => slapstick
+    ncal-novice:663.1 | m | What term names a humorous imitation of a serious work? => parody
+    ncal-novice:663.2 | h | What term names writing that uses humor to criticize human foolishness or the faults of society? => satire
+ncal-novice:664 | BONUS h | Literary Terms | Answer these questions about book structure.
+    ncal-novice:664.0 | e | What term names one numbered division of a novel? => chapter
+    ncal-novice:664.1 | m | What term names a book that continues the story of an earlier book? => sequel
+    ncal-novice:664.2 | h | What term names a work of fiction longer than a short story but shorter than a novel? => novella
+ncal-novice:665 | BONUS h | Literary Terms | Answer these questions about literary devices.
+    ncal-novice:665.0 | e | What term names a hero's loyal companion and helper? => sidekick
+    ncal-novice:665.1 | m | What term names a question asked for effect rather than to get an answer? => rhetorical question
+    ncal-novice:665.2 | h | What term names an image or idea that recurs throughout a work? => motif
+ncal-novice:666 | e | Freshman Literature | Which author wrote the play "Romeo and Juliet"? => William Shakespeare ; Shakespeare
+ncal-novice:667 | e | Freshman Literature | Which author wrote the "Harry Potter" series? => J. K. Rowling ; Rowling
+ncal-novice:668 | m | Freshman Literature | Which author wrote the novel "Roll of Thunder, Hear My Cry"? => Mildred D. Taylor ; Taylor
+ncal-novice:669 | m | Freshman Literature | Which author wrote the novel "Maniac Magee"? => Jerry Spinelli ; Spinelli
+ncal-novice:670 | m | Freshman Literature | Which author wrote the mystery novel "The Westing Game"? => Ellen Raskin ; Raskin
+ncal-novice:671 | h | Freshman Literature | Which author wrote "The Cay," about a boy and an old sailor stranded on a small island? => Theodore Taylor ; Taylor
+ncal-novice:672 | BONUS e | Freshman Literature | Answer these questions about "The Hobbit."
+    ncal-novice:672.0 | e | What is the name of the wizard who recruits Bilbo for the adventure? => Gandalf
+    ncal-novice:672.1 | m | What creature plays a riddle game with Bilbo in a dark cave? => Gollum
+    ncal-novice:672.2 | h | What is the name of the dwarf leader of the company, who is called "Oakenshield"? => Thorin Oakenshield ; Thorin
+ncal-novice:673 | BONUS m | Freshman Literature | Answer these questions about "The Giver."
+    ncal-novice:673.0 | e | What is the name of Jonas's younger sister? => Lily
+    ncal-novice:673.1 | m | What is the name of the baby whom Jonas carries away with him at the end? => Gabriel ; Gabe
+    ncal-novice:673.2 | h | What is the name of the girl who was the Receiver-in-training before Jonas? => Rosemary
+ncal-novice:674 | BONUS m | Freshman Literature | Answer these questions about "Hatchet."
+    ncal-novice:674.0 | e | What is the first name of the thirteen-year-old boy who survives alone in the wilderness? => Brian ; Brian Robeson
+    ncal-novice:674.1 | m | What name does the boy give to the grouse-like birds that he learns to hunt? => foolbirds ; foolbird
+    ncal-novice:674.2 | h | Which large antlered animal attacks the boy in the woods? => moose ; a moose
+ncal-novice:675 | BONUS m | Freshman Literature | Answer these questions about "The Outsiders."
+    ncal-novice:675.0 | e | What is the name of the Greaser who narrates the story? => Ponyboy Curtis ; Ponyboy
+    ncal-novice:675.1 | m | Which Greaser kills a Soc named Bob to protect Ponyboy? => Johnny Cade ; Johnny
+    ncal-novice:675.2 | h | Which poet wrote "Nothing Gold Can Stay," a poem Ponyboy recites? => Robert Frost ; Frost
+ncal-novice:676 | BONUS e | Freshman Literature | Answer these questions about "Holes."
+    ncal-novice:676.0 | e | What is the name of the boy who is sent to Camp Green Lake after being wrongly accused of theft? => Stanley Yelnats ; Stanley
+    ncal-novice:676.1 | m | What is the nickname of Stanley's friend Hector, who digs holes beside him and cannot read at first? => Zero ; Hector Zeroni
+    ncal-novice:676.2 | h | What is the outlaw name of the former schoolteacher Kate Barlow? => Kissin' Kate Barlow ; Kate Barlow ; Kissin' Kate
+ncal-novice:677 | BONUS e | Freshman Literature | Answer these questions about "Charlotte's Web."
+    ncal-novice:677.0 | e | What kind of animal is Charlotte? => spider ; a spider
+    ncal-novice:677.1 | m | What is the name of the greedy rat who lives in the barn? => Templeton
+    ncal-novice:677.2 | h | What first words does Charlotte weave into her web to save Wilbur? => Some Pig
+ncal-novice:678 | BONUS m | Freshman Literature | Answer these questions about "Alice's Adventures in Wonderland."
+    ncal-novice:678.0 | e | What grinning cat vanishes until only its smile is left? => Cheshire Cat ; the Cheshire Cat ; Cheshire
+    ncal-novice:678.1 | m | Which royal character is known for shouting "Off with her head"? => Queen of Hearts ; the Queen of Hearts
+    ncal-novice:678.2 | h | What is the title of Lewis Carroll's sequel, in which Alice steps through a mirror? => Through the Looking-Glass ; Through the Looking Glass
+ncal-novice:679 | BONUS e | Freshman Literature | Answer these questions about "The Lion, the Witch and the Wardrobe."
+    ncal-novice:679.0 | e | Which Pevensie child is the first to discover Narnia through the wardrobe? => Lucy Pevensie ; Lucy
+    ncal-novice:679.1 | m | Which faun does Lucy meet near a lamppost in Narnia? => Tumnus ; Mister Tumnus
+    ncal-novice:679.2 | h | What is the real name of the White Witch? => Jadis
+ncal-novice:680 | BONUS e | Freshman Literature | Answer these questions about "Peter Pan."
+    ncal-novice:680.0 | e | What is the name of the island where Peter Pan lives? => Neverland ; Never Land
+    ncal-novice:680.1 | m | What is the name of Peter's fairy companion? => Tinker Bell ; Tinkerbell
+    ncal-novice:680.2 | h | What is the name of the Darling children's dog, who serves as their nurse? => Nana
+ncal-novice:681 | BONUS m | Freshman Literature | Answer these questions about "Treasure Island."
+    ncal-novice:681.0 | e | What is the name of the boy who narrates the story? => Jim Hawkins ; Jim
+    ncal-novice:681.1 | m | What is the name of the inn run by Jim's parents? => Admiral Benbow ; the Admiral Benbow ; Admiral Benbow Inn
+    ncal-novice:681.2 | h | What is the name of the marooned man who has been living alone on the island? => Ben Gunn
+ncal-novice:682 | BONUS e | Freshman Literature | Answer these questions about "The Wonderful Wizard of Oz."
+    ncal-novice:682.0 | e | What is the name of Dorothy's little dog? => Toto
+    ncal-novice:682.1 | m | What does the Tin Woodman hope to get from the Wizard? => heart ; a heart
+    ncal-novice:682.2 | h | In the original book, what color are Dorothy's magic shoes? => silver
+ncal-novice:683 | BONUS m | Freshman Literature | Answer these questions about "The Adventures of Tom Sawyer."
+    ncal-novice:683.0 | e | Which relative is raising Tom? => Aunt Polly ; Polly
+    ncal-novice:683.1 | m | What chore does Tom trick his friends into doing for him by pretending that it is fun? => whitewashing a fence ; painting a fence ; whitewashing the fence ; painting the fence ; whitewash
+    ncal-novice:683.2 | h | What is the name of the judge's daughter on whom Tom has a crush? => Becky Thatcher ; Becky
+ncal-novice:684 | BONUS m | Freshman Literature | Answer these questions about "A Wrinkle in Time."
+    ncal-novice:684.0 | e | What is the first name of the girl at the center of the story, whose last name is Murry? => Meg ; Meg Murry
+    ncal-novice:684.1 | m | What is the name of Meg's gifted young brother? => Charles Wallace ; Charles Wallace Murry
+    ncal-novice:684.2 | h | What is the name of the planet where Meg and her friends find IT? => Camazotz

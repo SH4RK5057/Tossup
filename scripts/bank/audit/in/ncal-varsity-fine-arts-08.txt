@@ -1,0 +1,209 @@
+ncal-varsity:1416 | h | French 3+ | In which cathedral city were most French kings crowned? => Reims ; Rheims
+ncal-varsity:1417 | BONUS m | French 3+ | Answer these questions about French numbers.
+    ncal-varsity:1417.0 | e | What English number does the French "cinq" mean? => five ; 5
+    ncal-varsity:1417.1 | m | What English number does the French "quatre-vingts" mean? => eighty ; 80
+    ncal-varsity:1417.2 | h | What English number does the French "soixante-dix" mean? => seventy ; 70
+ncal-varsity:1418 | BONUS m | French 3+ | Answer these questions about French colors.
+    ncal-varsity:1418.0 | e | What English color does the French "jaune" mean? => yellow
+    ncal-varsity:1418.1 | m | What English color does the French "noir" mean? => black
+    ncal-varsity:1418.2 | h | What English color does the French "gris" mean? => gray ; grey
+ncal-varsity:1419 | BONUS m | French 3+ | Answer these questions about the French days of the week.
+    ncal-varsity:1419.0 | e | What English day does the French "lundi" mean? => Monday
+    ncal-varsity:1419.1 | m | What English day does the French "mercredi" mean? => Wednesday
+    ncal-varsity:1419.2 | h | What English day does the French "samedi" mean? => Saturday
+ncal-varsity:1420 | BONUS m | French 3+ | Answer these questions about French family words.
+    ncal-varsity:1420.0 | e | What English word does the French "mère" mean? => mother
+    ncal-varsity:1420.1 | m | What English word does the French "grand-père" mean? => grandfather
+    ncal-varsity:1420.2 | h | What English word does the French "neveu" mean? => nephew
+ncal-varsity:1421 | BONUS m | French 3+ | Answer these questions about French verbs.
+    ncal-varsity:1421.0 | e | What English verb phrase does the French "manger" mean? => to eat ; eat
+    ncal-varsity:1421.1 | m | What English verb phrase does the French "vouloir" mean? => to want ; want
+    ncal-varsity:1421.2 | h | What English verb phrase does the French "pouvoir" mean? => to be able to ; can ; to be able
+ncal-varsity:1422 | BONUS m | French 3+ | Answer these questions about the French Revolution.
+    ncal-varsity:1422.0 | e | Which device, named for a doctor, was used for executions during the Revolution? => guillotine ; the guillotine
+    ncal-varsity:1422.1 | m | Which leader of the Committee of Public Safety was himself guillotined in 1794? => Maximilien Robespierre ; Robespierre
+    ncal-varsity:1422.2 | h | What name is given to the period of mass executions from 1793 to 1794? => Reign of Terror ; the Reign of Terror ; the Terror
+ncal-varsity:1423 | BONUS m | French 3+ | Answer these questions about the Paris transit system and parks.
+    ncal-varsity:1423.0 | e | What is the name of the Paris subway system? => the Métro ; Métro ; Metro ; le métro ; Paris Métro
+    ncal-varsity:1423.1 | m | Which large Left Bank park, with a palace that houses the French Senate, is a favorite of Parisians? => Jardin du Luxembourg ; Luxembourg Gardens ; Luxembourg Garden ; Luxembourg
+    ncal-varsity:1423.2 | h | Which large forest park on the western edge of Paris contains the Longchamp racecourse? => Bois de Boulogne ; Boulogne
+ncal-varsity:1424 | BONUS m | French 3+ | Answer these questions about a region of northwestern France.
+    ncal-varsity:1424.0 | e | Which northwestern French region is known for its crêpes and rocky coast? => Brittany ; Bretagne
+    ncal-varsity:1424.1 | m | Which city is the regional capital of that area? => Rennes
+    ncal-varsity:1424.2 | h | Which Celtic language is traditionally spoken in that region? => Breton ; Brezhoneg
+ncal-varsity:1425 | BONUS m | French 3+ | Answer these questions about French food vocabulary.
+    ncal-varsity:1425.0 | e | What English word does the French "poulet" mean? => chicken
+    ncal-varsity:1425.1 | m | What English word does the French "escargots" mean? => snails ; snail
+    ncal-varsity:1425.2 | h | What English word does the French "champignons" mean? => mushrooms ; mushroom
+ncal-varsity:1426 | BONUS m | French 3+ | Answer these questions about French-speaking North and West Africa.
+    ncal-varsity:1426.0 | e | Which North African country, a former French colony, has the capital Algiers? => Algeria
+    ncal-varsity:1426.1 | m | Which Moroccan city is the capital of Morocco? => Rabat
+    ncal-varsity:1426.2 | h | Which West African country with the capital Dakar was French until 1960? => Senegal
+ncal-varsity:1427 | BONUS m | French 3+ | Answer these questions about "Les Misérables."
+    ncal-varsity:1427.0 | e | Which ex-convict is the main character? => Jean Valjean ; Valjean
+    ncal-varsity:1427.1 | m | Which orphaned girl is raised by Valjean? => Cosette
+    ncal-varsity:1427.2 | h | Which Parisian street urchin dies on the barricades? => Gavroche
+ncal-varsity:1428 | BONUS m | French 3+ | Answer these questions about Joan of Arc.
+    ncal-varsity:1428.0 | e | At which city under siege did she win a famous victory in 1429? => Orléans ; Orleans
+    ncal-varsity:1428.1 | m | In which Norman city was she burned in 1431? => Rouen
+    ncal-varsity:1428.2 | h | Which French prince did she help to be crowned at Reims? => Charles VII ; The Dauphin ; Charles the Seventh ; Charles
+ncal-varsity:1429 | BONUS m | French 3+ | Answer these questions about French mountains.
+    ncal-varsity:1429.0 | e | Which mountain range forms the border between France and Spain? => the Pyrenees ; Pyrenees ; Pyrénées
+    ncal-varsity:1429.1 | m | Which large mountain range runs along France's southeastern border? => the Alps ; Alps
+    ncal-varsity:1429.2 | h | Which highland region occupies the south-central part of France? => Massif Central ; the Massif Central
+ncal-varsity:1430 | BONUS m | French 3+ | Answer these questions about French cheeses.
+    ncal-varsity:1430.0 | e | Which soft, creamy cheese named after a region east of Paris is often served on baguettes? => Brie
+    ncal-varsity:1430.1 | m | Which blue cheese from southern France is made from sheep's milk? => Roquefort
+    ncal-varsity:1430.2 | h | Which hard cheese from the Jura mountains is often compared to Gruyère? => Comté ; Comte
+ncal-varsity:1431 | BONUS m | French 3+ | Answer these questions about French film.
+    ncal-varsity:1431.0 | e | Which French word, from the Greek, names a motion picture theater? => cinéma ; cinema
+    ncal-varsity:1431.1 | m | Which director made "The 400 Blows" in 1959? => François Truffaut ; Truffaut
+    ncal-varsity:1431.2 | h | What name is given to the French film movement of the late 1950s and 1960s led by Truffaut and Godard? => the New Wave ; French New Wave ; La Nouvelle Vague ; Nouvelle Vague
+ncal-varsity:1432 | BONUS m | French 3+ | Answer these questions about Marie Curie.
+    ncal-varsity:1432.0 | e | Which element did Curie name after her native Poland? => polonium
+    ncal-varsity:1432.1 | m | Which other radioactive element did the Curies announce in 1898? => radium
+    ncal-varsity:1432.2 | h | In how many different sciences did Curie win a Nobel Prize? => two ; 2
+ncal-varsity:1433 | BONUS m | French 3+ | Answer these questions about a French explorer of Canada.
+    ncal-varsity:1433.0 | e | For which country did Cartier claim land in North America? => France
+    ncal-varsity:1433.1 | m | Which river did Cartier explore into the interior of Canada? => Saint Lawrence River ; Saint Lawrence ; the Saint Lawrence
+    ncal-varsity:1433.2 | h | Which explorer founded Quebec City in 1608? => Samuel de Champlain ; Champlain
+ncal-varsity:1434 | BONUS m | French 3+ | Answer these questions about French fashion.
+    ncal-varsity:1434.0 | e | Which perfume by Coco Chanel is known by a number? => Chanel No. 5 ; Chanel Number 5 ; No. 5 ; Chanel 5
+    ncal-varsity:1434.1 | m | Which designer launched the "New Look" in 1947? => Christian Dior ; Dior
+    ncal-varsity:1434.2 | h | Which designer introduced the tuxedo suit for women and founded a house with the initials YSL? => Yves Saint Laurent ; Saint Laurent
+ncal-varsity:1435 | BONUS m | French 3+ | Answer these questions about French sports.
+    ncal-varsity:1435.0 | e | Which Grand Slam tennis tournament is played on clay in Paris? => the French Open ; French Open ; Roland Garros ; Roland-Garros
+    ncal-varsity:1435.1 | m | What color jersey does the leader of the Tour de France wear? => yellow
+    ncal-varsity:1435.2 | h | After which French aviator is the stadium of that tennis tournament named? => Roland Garros ; Garros
+ncal-varsity:1436 | BONUS m | French 3+ | Answer these questions about French Christmas traditions.
+    ncal-varsity:1436.0 | e | What is the French word for Christmas? => Noël ; Noel
+    ncal-varsity:1436.1 | m | What name is given to the long Christmas Eve feast in France? => réveillon ; reveillon
+    ncal-varsity:1436.2 | h | What is the name of the traditional French Christmas log cake? => bûche de Noël ; buche de Noel
+ncal-varsity:1437 | BONUS m | French 3+ | Answer these questions about French accent marks.
+    ncal-varsity:1437.0 | e | What is the name of the mark under the c in "français"? => cedilla ; cédille
+    ncal-varsity:1437.1 | m | Which accent slants up to the right, as in "été"? => acute accent ; accent aigu ; acute
+    ncal-varsity:1437.2 | h | Which accent, shaped like a small roof, is found in "forêt"? => circumflex ; accent circonflexe
+ncal-varsity:1438 | BONUS m | French 3+ | Answer these questions about French greetings and farewells.
+    ncal-varsity:1438.0 | e | What English phrase does the French "bonne nuit" mean? => good night
+    ncal-varsity:1438.1 | m | What English phrase does the French "à bientôt" mean? => see you soon
+    ncal-varsity:1438.2 | h | What English phrase does the French "de rien" mean? => you're welcome ; it's nothing ; you are welcome
+ncal-varsity:1439 | BONUS m | French 3+ | Answer these questions about the French months.
+    ncal-varsity:1439.0 | e | What English month does the French "janvier" mean? => January
+    ncal-varsity:1439.1 | m | What English month does the French "mai" mean? => May
+    ncal-varsity:1439.2 | h | What English month does the French "août" mean? => August
+ncal-varsity:1440 | BONUS m | French 3+ | Answer these questions about French weather vocabulary.
+    ncal-varsity:1440.0 | e | What English phrase does the French "il pleut" mean? => it is raining ; it's raining
+    ncal-varsity:1440.1 | m | What English word does the French "neige" mean? => snow
+    ncal-varsity:1440.2 | h | What English word does the French "orage" mean? => thunderstorm ; storm
+ncal-varsity:1441 | BONUS m | French 3+ | Answer these questions about French body vocabulary.
+    ncal-varsity:1441.0 | e | What English word does the French "tête" mean? => head
+    ncal-varsity:1441.1 | m | What English word does the French "main" mean? => hand
+    ncal-varsity:1441.2 | h | What English word does the French "genou" mean? => knee
+ncal-varsity:1442 | BONUS m | French 3+ | Answer these questions about French school subjects.
+    ncal-varsity:1442.0 | e | What English word does the French "la musique" mean? => music
+    ncal-varsity:1442.1 | m | What English word does the French "l'histoire" mean? => history ; story
+    ncal-varsity:1442.2 | h | What English word does the French "la chimie" mean? => chemistry
+ncal-varsity:1443 | BONUS e | Spanish 3+ | Answer these questions about Spanish numbers.
+    ncal-varsity:1443.0 | e | What English number does the Spanish "ocho" mean? => eight ; 8
+    ncal-varsity:1443.1 | m | What English number does the Spanish "quince" mean? => fifteen ; 15
+    ncal-varsity:1443.2 | h | What English number does the Spanish "cien" mean? => one hundred ; 100 ; hundred
+ncal-varsity:1444 | BONUS e | Spanish 3+ | Answer these questions about Spanish colors.
+    ncal-varsity:1444.0 | e | What English color does the Spanish "azul" mean? => blue
+    ncal-varsity:1444.1 | m | What English color does the Spanish "verde" mean? => green
+    ncal-varsity:1444.2 | h | What English color does the Spanish "morado" mean? => purple
+ncal-varsity:1445 | BONUS e | Spanish 3+ | Answer these questions about the Spanish days of the week.
+    ncal-varsity:1445.0 | e | What English day does the Spanish "martes" mean? => Tuesday
+    ncal-varsity:1445.1 | m | What English day does the Spanish "jueves" mean? => Thursday
+    ncal-varsity:1445.2 | h | What English day does the Spanish "domingo" mean? => Sunday
+ncal-varsity:1446 | BONUS e | Spanish 3+ | Answer these questions about Spanish family words.
+    ncal-varsity:1446.0 | e | What English word does the Spanish "hermano" mean? => brother
+    ncal-varsity:1446.1 | m | What English word does the Spanish "abuela" mean? => grandmother
+    ncal-varsity:1446.2 | h | What English word does the Spanish "sobrino" mean? => nephew
+ncal-varsity:1447 | BONUS e | Spanish 3+ | Answer these questions about Spanish verbs.
+    ncal-varsity:1447.0 | e | What English verb phrase does the Spanish "comer" mean? => to eat ; eat
+    ncal-varsity:1447.1 | m | What English verb phrase does the Spanish "querer" mean? => to want ; to love ; want
+    ncal-varsity:1447.2 | h | What English verb phrase does the Spanish "poder" mean? => to be able to ; can ; to be able
+ncal-varsity:1448 | BONUS e | Spanish 3+ | Answer these questions about "Don Quixote."
+    ncal-varsity:1448.0 | e | Which author, wounded at the Battle of Lepanto, wrote the novel about a knight from La Mancha? => Miguel de Cervantes ; Cervantes
+    ncal-varsity:1448.1 | m | Which farmer serves as the knight's squire? => Sancho Panza ; Sancho
+    ncal-varsity:1448.2 | h | Which peasant woman does Don Quixote imagine to be his lady? => Dulcinea ; Dulcinea del Toboso
+ncal-varsity:1449 | BONUS e | Spanish 3+ | Answer these questions about the Aztec Empire.
+    ncal-varsity:1449.0 | e | Mexico City was built on the ruins of which Aztec capital? => Tenochtitlan ; Tenochtitlán
+    ncal-varsity:1449.1 | m | Which Spanish conquistador defeated the Aztecs in 1521? => Hernán Cortés ; Cortés ; Cortes ; Hernan Cortes
+    ncal-varsity:1449.2 | h | Which Aztec emperor was ruling when the Spanish arrived? => Moctezuma II ; Montezuma II ; Moctezuma ; Montezuma
+ncal-varsity:1450 | BONUS e | Spanish 3+ | Answer these questions about the Inca Empire.
+    ncal-varsity:1450.0 | e | The Inca built Machu Picchu in the mountains of which country? => Peru
+    ncal-varsity:1450.1 | m | Which city in the Andes was the Incan capital? => Cusco ; Cuzco
+    ncal-varsity:1450.2 | h | Which Spanish conquistador captured the Incan emperor Atahualpa? => Francisco Pizarro ; Pizarro
+ncal-varsity:1451 | BONUS e | Spanish 3+ | Answer these questions about Spanish-speaking capitals.
+    ncal-varsity:1451.0 | e | Madrid is the capital of which country? => Spain
+    ncal-varsity:1451.1 | m | Bogotá is the capital of which South American country? => Colombia
+    ncal-varsity:1451.2 | h | Montevideo is the capital of which South American country? => Uruguay
+ncal-varsity:1452 | BONUS m | Spanish 3+ | Answer these questions about South American geography.
+    ncal-varsity:1452.0 | e | Which mountain range runs along the western coast of South America? => the Andes ; Andes
+    ncal-varsity:1452.1 | m | Which huge river flows through the rainforest of Brazil to the Atlantic? => the Amazon ; Amazon River ; Amazon
+    ncal-varsity:1452.2 | h | Which lake lies on the border of Peru and Bolivia? => Lake Titicaca ; Titicaca
+ncal-varsity:1453 | BONUS m | Spanish 3+ | Answer these questions about the Spanish Civil War.
+    ncal-varsity:1453.0 | e | Which general led the Nationalists to victory and ruled Spain until 1975? => Francisco Franco ; Franco
+    ncal-varsity:1453.1 | m | During which years did the Spanish Civil War take place? => 1936 to 1939 ; 1936-1939 ; 1936–1939
+    ncal-varsity:1453.2 | h | Which British author wrote "Homage to Catalonia" about fighting in it? => George Orwell ; Orwell
+ncal-varsity:1454 | BONUS m | Spanish 3+ | Answer these questions about Spanish holidays.
+    ncal-varsity:1454.0 | e | What is the Spanish word for Christmas? => Navidad ; la Navidad
+    ncal-varsity:1454.1 | m | What is the Spanish word for Christmas Eve? => Nochebuena ; la Nochebuena
+    ncal-varsity:1454.2 | h | What holiday on January 6 celebrates the Three Wise Men? => Día de los Reyes Magos ; Dia de los Reyes Magos ; Three Kings Day ; Día de Reyes ; Epiphany
+ncal-varsity:1455 | BONUS m | Spanish 3+ | Answer these questions about Spanish food vocabulary.
+    ncal-varsity:1455.0 | e | What English word does the Spanish "frijoles" mean? => beans
+    ncal-varsity:1455.1 | m | What English word does the Spanish "arroz" mean? => rice
+    ncal-varsity:1455.2 | h | What English word does the Spanish "mariscos" mean? => seafood ; shellfish
+ncal-varsity:1456 | BONUS m | Spanish 3+ | Answer these questions about Latin American authors.
+    ncal-varsity:1456.0 | e | Which Chilean author wrote "La casa de los espíritus"? => Isabel Allende ; Allende
+    ncal-varsity:1456.1 | m | Which blind Argentine author wrote "El Aleph"? => Jorge Luis Borges ; Borges
+    ncal-varsity:1456.2 | h | Which Mexican author wrote the short story collection "El llano en llamas"? => Juan Rulfo ; Rulfo
+ncal-varsity:1457 | BONUS m | Spanish 3+ | Answer these questions about Federico García Lorca.
+    ncal-varsity:1457.0 | e | Lorca was a poet and playwright from which country? => Spain
+    ncal-varsity:1457.1 | m | Which Lorca play is known in English as "Blood Wedding"? => Bodas de sangre
+    ncal-varsity:1457.2 | h | Which Lorca play is set in a house ruled by a domineering widow? => La casa de Bernarda Alba ; The House of Bernarda Alba ; Casa de Bernarda Alba
+ncal-varsity:1458 | BONUS m | Spanish 3+ | Answer these questions about Spanish grammar.
+    ncal-varsity:1458.0 | e | What English verb phrase does the Spanish "hablar" mean? => to speak ; to talk ; speak
+    ncal-varsity:1458.1 | m | Which mood is used for wishes, doubts, and emotions? => subjunctive ; the subjunctive ; subjunctive mood
+    ncal-varsity:1458.2 | h | Which past tense describes ongoing or habitual past actions? => imperfect ; the imperfect ; imperfecto
+ncal-varsity:1459 | BONUS m | Spanish 3+ | Answer these questions about Caribbean capitals.
+    ncal-varsity:1459.0 | e | Which Cuban city is the capital of Cuba? => Havana ; La Habana
+    ncal-varsity:1459.1 | m | Which city is the capital of the Dominican Republic? => Santo Domingo
+    ncal-varsity:1459.2 | h | Which city is the capital of Puerto Rico? => San Juan
+ncal-varsity:1460 | BONUS m | Spanish 3+ | Answer these questions about Spanish festivals.
+    ncal-varsity:1460.0 | e | Which spring festival in Valencia burns giant papier-mâché figures? => Las Fallas ; Fallas
+    ncal-varsity:1460.1 | m | Which religious week of processions is famous in Seville? => Semana Santa ; Holy Week
+    ncal-varsity:1460.2 | h | In which Spanish town is the tomato fight La Tomatina held? => Buñol ; Bunol
+ncal-varsity:1461 | BONUS m | Spanish 3+ | Answer these questions about Hispanic music and dance.
+    ncal-varsity:1461.0 | e | Which dance and music tradition comes from the Andalusian region of Spain? => flamenco
+    ncal-varsity:1461.1 | m | Which dance originated in Buenos Aires? => tango ; the tango
+    ncal-varsity:1461.2 | h | Mariachi music comes from which Mexican state? => Jalisco
+ncal-varsity:1462 | BONUS m | Spanish 3+ | Answer these questions about the wars of independence.
+    ncal-varsity:1462.0 | e | Which Venezuelan general was called "El Libertador"? => Simón Bolívar ; Bolívar ; Simon Bolivar ; Bolivar
+    ncal-varsity:1462.1 | m | Which Argentine general helped liberate Chile and Peru? => José de San Martín ; San Martín ; San Martin ; Jose de San Martin
+    ncal-varsity:1462.2 | h | Which priest began Mexico's independence with the "Grito de Dolores"? => Miguel Hidalgo ; Hidalgo
+ncal-varsity:1463 | BONUS m | Spanish 3+ | Answer these questions about the Maya.
+    ncal-varsity:1463.0 | e | The Maya built cities on which Mexican peninsula? => Yucatán ; Yucatan ; Yucatán Peninsula
+    ncal-varsity:1463.1 | m | Which Maya city features the pyramid El Castillo? => Chichén Itzá ; Chichen Itza
+    ncal-varsity:1463.2 | h | Which Maya sacred book tells the story of the Hero Twins? => Popol Vuh
+ncal-varsity:1464 | BONUS h | Spanish 3+ | Answer these questions about Spanish time words.
+    ncal-varsity:1464.0 | e | What English word does the Spanish "mañana" mean when referring to the day after today? => tomorrow
+    ncal-varsity:1464.1 | m | What English word does the Spanish "ayer" mean? => yesterday
+    ncal-varsity:1464.2 | h | What English word does the Spanish "anteayer" mean? => the day before yesterday ; day before yesterday
+ncal-varsity:1465 | BONUS h | Spanish 3+ | Answer these questions about Spanish clothing.
+    ncal-varsity:1465.0 | e | What English word does the Spanish "camisa" mean? => shirt
+    ncal-varsity:1465.1 | m | What English word does the Spanish "zapatos" mean? => shoes
+    ncal-varsity:1465.2 | h | What English word does the Spanish "calcetines" mean? => socks
+ncal-varsity:1466 | BONUS h | Spanish 3+ | Answer these questions about places in Spanish.
+    ncal-varsity:1466.0 | e | What English word does the Spanish "escuela" mean? => school
+    ncal-varsity:1466.1 | m | What English word does the Spanish "biblioteca" mean? => library
+    ncal-varsity:1466.2 | h | What English word does the Spanish "ayuntamiento" mean? => town hall ; city hall
+ncal-varsity:1467 | BONUS h | Spanish 3+ | Answer these questions about Spanish animal words.
+    ncal-varsity:1467.0 | e | What English word does the Spanish "gato" mean? => cat
+    ncal-varsity:1467.1 | m | What English word does the Spanish "caballo" mean? => horse
+    ncal-varsity:1467.2 | h | What English word does the Spanish "ardilla" mean? => squirrel
+ncal-varsity:1468 | BONUS h | Spanish 3+ | Answer these questions about Spanish weather expressions.
+    ncal-varsity:1468.0 | e | What English phrase does the Spanish "llueve" mean? => it is raining ; it rains ; it's raining
+    ncal-varsity:1468.1 | m | What English phrase does the Spanish "hace calor" mean? => it is hot ; it's hot
+    ncal-varsity:1468.2 | h | What English phrase does the Spanish "nieva" mean? => it is snowing ; it snows ; it's snowing

@@ -1,0 +1,181 @@
+ncal-jv:1426 | m | Chemistry | What gas law states that volume and temperature in kelvins are directly proportional at constant pressure? => Charles's law ; Charles's Law ; Charles
+ncal-jv:1427 | h | Chemistry | What gas law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules? => Avogadro's law ; Avogadro's hypothesis ; Avogadro
+ncal-jv:1428 | m | Chemistry | What is the equation of state for an ideal gas? => PV equals nRT ; PV=nRT ; pV = nRT
+ncal-jv:1429 | m | Chemistry | What temperature on the Kelvin scale is equal to 25 degrees Celsius? => 298 ; 298 kelvins ; 298 K ; 298.15
+ncal-jv:1430 | m | Chemistry | A gas occupies 2 liters at 300 kelvins. What is its volume at 600 kelvins at constant pressure, in liters? => 4 ; four
+ncal-jv:1431 | m | Chemistry | A gas occupies 4 liters at 1 atmosphere. What is its volume at 2 atmospheres at constant temperature, in liters? => 2 ; two
+ncal-jv:1432 | h | Chemistry | What is the value of the gas constant R, in liter atmospheres per mole kelvin, to three significant figures? => 0.0821 ; .0821
+ncal-jv:1433 | h | Chemistry | What is the name for the pressure exerted by each gas in a mixture, whose sum is the total pressure, according to Dalton? => partial pressure ; partial pressures
+ncal-jv:1434 | m | Chemistry | What term describes a solution that holds the maximum amount of solute it can dissolve at a given temperature? => saturated solution ; saturated
+ncal-jv:1435 | m | Chemistry | What term describes a substance that dissolves in water to form ions and conducts electricity? => electrolyte
+ncal-jv:1436 | m | Chemistry | What type of mixture has particles that scatter light but do not settle out, such as fog or milk? => colloid
+ncal-jv:1437 | m | Chemistry | What is the term for the separation of a mixture based on differing boiling points? => distillation ; fractional distillation
+ncal-jv:1438 | m | Chemistry | What lab technique separates the components of a mixture by their movement across paper or a solid, often used for inks? => chromatography ; paper chromatography
+ncal-jv:1439 | m | Chemistry | What piece of lab glassware is used to deliver precise volumes during a titration? => burette ; buret
+ncal-jv:1440 | e | Chemistry | What indicator turns pink in basic solutions and is colorless in acidic solutions? => phenolphthalein
+ncal-jv:1441 | m | Chemistry | What is the name for the point in a titration where the acid and base have exactly neutralized one another? => equivalence point ; endpoint ; end point
+ncal-jv:1442 | m | Chemistry | What ion do acids release in water, according to Arrhenius? => hydrogen ion ; H+ ; hydronium ; hydronium ion ; H3O+
+ncal-jv:1443 | m | Chemistry | According to Brønsted and Lowry, what is an acid defined as? => a proton donor ; proton donor ; hydrogen ion donor
+ncal-jv:1444 | m | Chemistry | What type of mixture of a weak acid and its conjugate base resists changes in pH? => buffer ; buffer solution
+ncal-jv:1445 | m | Chemistry | Name any one of the strong acids, such as the one found in the human stomach. => hydrochloric acid ; HCl
+ncal-jv:1446 | m | Chemistry | What is the approximate pH of human blood? => 7.4 ; seven point four
+ncal-jv:1447 | m | Chemistry | What term describes a reaction that absorbs heat from its surroundings? => endothermic ; endothermic reaction
+ncal-jv:1448 | m | Chemistry | What term describes the heat content of a system at constant pressure? => enthalpy
+ncal-jv:1449 | m | Chemistry | What is the specific heat of liquid water, in joules per gram degree Celsius, to three significant figures? => 4.18 ; 4.18 joules
+ncal-jv:1450 | m | Chemistry | How many joules are required to raise 100 grams of water by 10 degrees Celsius, using a specific heat of 4.18? => 4180 ; 4,180
+ncal-jv:1451 | m | Chemistry | What law says that the total enthalpy change of a reaction is the same regardless of the path taken? => Hess's law ; Hess's Law ; Hess
+ncal-jv:1452 | h | Chemistry | What is the minimum energy needed to start a chemical reaction called? => activation energy
+ncal-jv:1453 | m | Chemistry | What principle states that a system at equilibrium shifts to counteract any change imposed on it? => Le Chatelier's principle ; Le Chatelier's Principle ; Le Chatelier
+ncal-jv:1454 | h | Chemistry | What industrial process, developed by a German chemist, produces ammonia from nitrogen and hydrogen? => Haber process ; the Haber process ; Haber-Bosch process ; Haber
+ncal-jv:1455 | m | Chemistry | What is the term for a reaction that proceeds in both directions? => reversible reaction ; reversible
+ncal-jv:1456 | m | Chemistry | What mnemonic means that oxidation is the loss of electrons? => OIL RIG ; oil rig
+ncal-jv:1457 | m | Chemistry | At which electrode does oxidation occur in an electrochemical cell? => anode ; the anode
+ncal-jv:1458 | m | Chemistry | At which electrode does reduction occur? => cathode ; the cathode
+ncal-jv:1459 | m | Chemistry | What is the oxidation number of oxygen in most compounds? => negative 2 ; -2 ; minus 2 ; -2
+ncal-jv:1460 | m | Chemistry | What is the oxidation number of any element in its pure elemental form? => zero ; 0
+ncal-jv:1461 | m | Chemistry | What process uses electricity to drive a nonspontaneous chemical reaction, such as splitting water? => electrolysis
+ncal-jv:1462 | h | Chemistry | When water is split by electrolysis, what is the ratio of hydrogen gas to oxygen gas produced by volume? => 2 to 1 ; two to one ; 2:1 ; 2 to 1 hydrogen to oxygen
+ncal-jv:1463 | m | Chemistry | What type of device converts chemical energy into electrical energy through spontaneous redox reactions? => galvanic cell ; voltaic cell ; battery ; electrochemical cell ; galvanic
+ncal-jv:1464 | m | Chemistry | What is the name of the simplest alkane, with the formula CH4? => methane
+ncal-jv:1465 | e | Chemistry | What is the name of the two-carbon alkane? => ethane
+ncal-jv:1466 | m | Chemistry | What is the name of the three-carbon alkane commonly used as a fuel for grills? => propane
+ncal-jv:1467 | m | Chemistry | What is the name of the four-carbon alkane with the formula C4H10? => butane
+ncal-jv:1468 | m | Chemistry | What is the name for hydrocarbons that contain at least one carbon-carbon double bond? => alkenes ; alkene
+ncal-jv:1469 | m | Chemistry | What is the name for hydrocarbons with a carbon-carbon triple bond? => alkynes ; alkyne
+ncal-jv:1470 | m | Chemistry | What is the common name for ethyne, used in welding torches? => acetylene
+ncal-jv:1471 | m | Chemistry | What is the name of the ring-shaped hydrocarbon with the formula C6H6? => benzene
+ncal-jv:1472 | m | Chemistry | What functional group is characteristic of alcohols? => hydroxyl group ; hydroxyl ; OH ; -OH
+ncal-jv:1473 | m | Chemistry | What functional group is characteristic of carboxylic acids? => carboxyl group ; carboxyl ; COOH ; -COOH
+ncal-jv:1474 | m | Chemistry | What alcohol is produced by the fermentation of sugars by yeast? => ethanol ; ethyl alcohol
+ncal-jv:1475 | m | Chemistry | What term describes compounds with the same molecular formula but different structures? => isomers ; isomer
+ncal-jv:1476 | m | Chemistry | What is the name for a large molecule made of repeating units called monomers? => polymer
+ncal-jv:1477 | h | Chemistry | What is the name of the plastic made by polymerizing ethylene? => polyethylene ; polythene
+ncal-jv:1478 | h | Chemistry | What type of compound is formed when an alcohol reacts with a carboxylic acid, often with a fruity smell? => ester ; esters
+ncal-jv:1479 | m | Chemistry | What is the term for hydrocarbons with only single bonds? => saturated hydrocarbons ; alkanes ; saturated
+ncal-jv:1480 | m | Chemistry | What type of particle, a helium nucleus, is emitted in alpha decay? => alpha particle ; helium nucleus
+ncal-jv:1481 | m | Chemistry | Which type of radioactive decay emits an electron from the nucleus? => beta decay ; beta
+ncal-jv:1482 | m | Chemistry | Which type of radiation is high-energy electromagnetic waves and has no mass or charge? => gamma radiation ; gamma rays ; gamma
+ncal-jv:1483 | m | Chemistry | After uranium-238 emits an alpha particle, what element is formed? => thorium ; thorium-234
+ncal-jv:1484 | h | Chemistry | If a radioactive sample of 80 grams has a half-life of 5 years, how many grams remain after 15 years? => 10 ; 10 grams ; ten
+ncal-jv:1485 | h | Chemistry | Which scientist discovered the neutron in 1932? => James Chadwick ; Chadwick
+ncal-jv:1486 | m | Chemistry | Which British physicist discovered the electron in 1897? => J. J. Thomson ; Thomson ; Joseph John Thomson
+ncal-jv:1487 | m | Chemistry | Whose gold foil experiment showed that the atom has a small, dense, positively charged nucleus? => Ernest Rutherford ; Rutherford
+ncal-jv:1488 | m | Chemistry | Which Danish physicist proposed a model of the atom with electrons in fixed energy levels? => Niels Bohr ; Bohr
+ncal-jv:1489 | m | Chemistry | Which French chemist is called the father of modern chemistry for his law of conservation of mass? => Antoine Lavoisier ; Lavoisier
+ncal-jv:1490 | m | Chemistry | Which English chemist proposed that atoms of different elements have different masses and combine in whole-number ratios? => John Dalton ; Dalton
+ncal-jv:1491 | h | Chemistry | Which Austrian physicist's exclusion principle states that no two electrons in an atom can have the same four quantum numbers? => Wolfgang Pauli ; Pauli
+ncal-jv:1492 | h | Chemistry | What principle states that electrons fill the lowest-energy orbitals first? => Aufbau principle ; the Aufbau principle ; Aufbau
+ncal-jv:1493 | h | Chemistry | What rule states that electrons occupy separate orbitals of the same energy before pairing up? => Hund's rule ; Hund's Rule ; Hund
+ncal-jv:1494 | h | Chemistry | Which American chemist won Nobel Prizes in both Chemistry and Peace and developed the electronegativity scale? => Linus Pauling ; Pauling
+ncal-jv:1565 | BONUS e | Chemistry | Answer these questions about the periodic table.
+    ncal-jv:1565.0 | e | Name the element that has 26 protons in each atom. => iron
+    ncal-jv:1565.1 | m | What name is given to the unreactive elements found in column 18? => noble gases ; noble gas ; inert gases
+    ncal-jv:1565.2 | h | Which block of the periodic table contains the transition metals? => d-block ; d block ; the d-block
+ncal-jv:1566 | BONUS m | Chemistry | Answer these questions about acids and bases.
+    ncal-jv:1566.0 | e | What is the pH of a neutral solution at 25 degrees Celsius? => 7 ; seven
+    ncal-jv:1566.1 | m | By the Arrhenius definition, an acid produces which ion in water? => hydrogen ion ; H+ ; hydronium ; hydronium ion ; H3O+
+    ncal-jv:1566.2 | h | What is the pH of a 0.001 molar solution of hydrochloric acid? => 3 ; three
+ncal-jv:1567 | BONUS h | Chemistry | Answer these questions about the gas laws.
+    ncal-jv:1567.0 | e | Which Italian scientist proposed that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules? => Amedeo Avogadro ; Avogadro
+    ncal-jv:1567.1 | m | Which law states that gas pressure is directly proportional to Kelvin temperature at constant volume? => Gay-Lussac's law ; Gay-Lussac ; Gay Lussac
+    ncal-jv:1567.2 | h | How many liters does one mole of an ideal gas occupy at zero degrees Celsius and one atmosphere? => 22.4 ; 22.4 liters
+ncal-jv:1568 | BONUS m | Chemistry | Answer these questions about chemical bonding.
+    ncal-jv:1568.0 | e | What type of bond involves the sharing of electrons between atoms? => covalent bond ; covalent
+    ncal-jv:1568.1 | m | What type of bond forms between sodium and chlorine in table salt? => ionic bond ; ionic
+    ncal-jv:1568.2 | h | What is the geometry of the CO2 molecule, whose atoms lie along a straight axis? => linear
+ncal-jv:1569 | BONUS e | Chemistry | Answer these questions about atomic structure.
+    ncal-jv:1569.0 | e | Which subatomic particle has a negative charge? => electron ; electrons
+    ncal-jv:1569.1 | m | What term describes atoms of the same element that have different numbers of neutrons? => isotopes ; isotope
+    ncal-jv:1569.2 | h | How many neutrons are in an atom of oxygen-18? => 10 ; ten
+ncal-jv:1570 | BONUS m | Chemistry | Answer these questions about the mole.
+    ncal-jv:1570.0 | e | Avogadro's number is approximately 6.02 times 10 to what power? => 23 ; twenty-three
+    ncal-jv:1570.1 | m | What is the molar mass of water in grams per mole, to the nearest whole number? => 18 ; eighteen
+    ncal-jv:1570.2 | h | How many grams does 2 moles of carbon dioxide have, given its molar mass is 44 grams per mole? => 88 ; 88 grams
+ncal-jv:1571 | BONUS h | Chemistry | Answer these questions about types of chemical reactions.
+    ncal-jv:1571.0 | e | What type of reaction combines two simple substances into a single product? => synthesis ; combination ; synthesis reaction ; combination reaction
+    ncal-jv:1571.1 | m | What type of reaction is the burning of methane in oxygen? => combustion ; combustion reaction
+    ncal-jv:1571.2 | h | What type of reaction has the general form AB plus CD yields AD plus CB? => double replacement ; double displacement ; metathesis ; double replacement reaction
+ncal-jv:1572 | BONUS e | Chemistry | Answer these questions about organic chemistry.
+    ncal-jv:1572.0 | e | What is the simplest alkane? => methane
+    ncal-jv:1572.1 | m | What is the name of the alkane that has three carbon atoms? => propane
+    ncal-jv:1572.2 | h | What functional group defines an alcohol? => hydroxyl ; hydroxyl group ; OH ; hydroxy group
+ncal-jv:1573 | BONUS m | Chemistry | Answer these questions about energy in chemical reactions.
+    ncal-jv:1573.0 | e | What term describes a reaction that releases heat to its surroundings? => exothermic ; exothermic reaction
+    ncal-jv:1573.1 | m | What non-SI energy unit equals about 4.18 joules? => calorie ; calories
+    ncal-jv:1573.2 | h | What term describes the heat needed to raise one gram of a substance by one degree Celsius? => specific heat ; specific heat capacity
+ncal-jv:1574 | BONUS m | Chemistry | Answer these questions about solutions.
+    ncal-jv:1574.0 | e | In a solution of salt in water, what term describes the salt? => solute
+    ncal-jv:1574.1 | m | In that solution, what term describes the water? => solvent
+    ncal-jv:1574.2 | h | What concentration unit expresses moles of dissolved substance per liter of solution? => molarity ; molar
+ncal-jv:1575 | BONUS h | Chemistry | Answer these questions about chemical equilibrium.
+    ncal-jv:1575.0 | e | Which French chemist is known for a principle describing how equilibrium shifts when a stress is applied? => Le Chatelier ; Henri Louis Le Chatelier ; Henri Le Chatelier ; Le Chatelier's principle
+    ncal-jv:1575.1 | m | At equilibrium, what is true of the rates of the forward and reverse reactions? => they are equal ; equal ; the same
+    ncal-jv:1575.2 | h | What term describes a substance that speeds up a reaction without being consumed? => catalyst
+ncal-jv:1576 | BONUS e | Chemistry | Answer these questions about electrochemistry.
+    ncal-jv:1576.0 | e | What type of cell converts chemical energy into electrical energy? => galvanic cell ; voltaic cell ; galvanic ; voltaic
+    ncal-jv:1576.1 | m | Which electrode is the negative terminal in a cell that produces current? => anode ; the anode
+    ncal-jv:1576.2 | h | What is the oxidation state of manganese in potassium permanganate, KMnO4? => plus 7 ; +7 ; 7 ; seven ; positive seven
+ncal-jv:1577 | BONUS m | Chemistry | Answer these questions about nuclear chemistry.
+    ncal-jv:1577.0 | e | Which type of radiation consists of helium nuclei? => alpha radiation ; alpha ; alpha particles ; alpha rays
+    ncal-jv:1577.1 | m | What term describes the time needed for half of a radioactive sample to decay? => half-life ; half life
+    ncal-jv:1577.2 | h | A radioactive sample loses half its atoms every 10 years. What fraction of it remains after 30 years? => 1/8 ; one eighth ; one-eighth
+ncal-jv:1578 | BONUS m | Chemistry | Answer these questions about titration.
+    ncal-jv:1578.0 | e | What piece of glassware is used to deliver precise, variable volumes of liquid in a titration? => buret ; burette
+    ncal-jv:1578.1 | m | What term describes the point in a titration where the indicator changes color? => endpoint ; end point
+    ncal-jv:1578.2 | h | Which indicator is colorless in acid and pink in base? => phenolphthalein
+ncal-jv:1579 | BONUS e | Chemistry | Answer these questions about changes of state.
+    ncal-jv:1579.0 | e | What term describes a solid changing directly into a gas? => sublimation
+    ncal-jv:1579.1 | m | What term describes a gas changing into a liquid? => condensation
+    ncal-jv:1579.2 | h | What term describes the unique temperature and pressure at which solid, liquid, and gas phases coexist? => triple point
+ncal-jv:1580 | BONUS h | Chemistry | Answer these questions about historical chemists and physicists.
+    ncal-jv:1580.0 | e | Which Russian chemist published a periodic table in 1869, arranging elements by atomic mass? => Dmitri Mendeleev ; Mendeleev ; Mendeleyev
+    ncal-jv:1580.1 | m | Which New Zealand-born physicist discovered the atomic nucleus with his gold foil experiment? => Ernest Rutherford ; Rutherford
+    ncal-jv:1580.2 | h | Which French physicist discovered radioactivity in 1896? => Henri Becquerel ; Becquerel
+ncal-jv:1581 | BONUS m | Chemistry | Answer these questions about electron configuration.
+    ncal-jv:1581.0 | e | What is the maximum number of electrons in the first energy level? => 2 ; two
+    ncal-jv:1581.1 | m | How many valence electrons does a neutral oxygen atom have? => 6 ; six
+    ncal-jv:1581.2 | h | Which noble gas has the same electron configuration as a sodium ion? => neon
+ncal-jv:1582 | BONUS m | Chemistry | Give the chemical formula for each of these compounds.
+    ncal-jv:1582.0 | e | Carbon dioxide => CO2
+    ncal-jv:1582.1 | m | Ammonia => NH3
+    ncal-jv:1582.2 | h | Sulfuric acid => H2SO4
+ncal-jv:1583 | BONUS e | Chemistry | Answer these questions about reaction rates.
+    ncal-jv:1583.0 | e | What term describes the minimum energy needed for a reaction to occur? => activation energy
+    ncal-jv:1583.1 | m | What term describes a substance that slows down a reaction? => inhibitor
+    ncal-jv:1583.2 | h | What term describes a reaction whose rate depends on the concentration of a single reactant raised to the first power? => first-order ; first order ; first-order reaction
+ncal-jv:1584 | BONUS m | Chemistry | Answer these questions about alloys.
+    ncal-jv:1584.0 | e | Which alloy is made mostly of copper and tin? => bronze
+    ncal-jv:1584.1 | m | Which alloy is made mostly of copper and zinc? => brass
+    ncal-jv:1584.2 | h | Steel is an alloy of iron and which other element? => carbon
+ncal-jv:1585 | BONUS h | Chemistry | Answer these questions about the halogens.
+    ncal-jv:1585.0 | e | Which halogen is a yellow-green gas at room temperature? => chlorine
+    ncal-jv:1585.1 | m | Which halogen is a liquid at room temperature? => bromine
+    ncal-jv:1585.2 | h | Which halogen is a purple-black solid that sublimes when heated? => iodine
+ncal-jv:1586 | BONUS e | Chemistry | Answer these questions about periodic trends.
+    ncal-jv:1586.0 | e | As you move down a group, what generally happens to atomic radius? => it increases ; increases ; increase ; gets larger
+    ncal-jv:1586.1 | m | What term describes the energy needed to remove an electron from a gaseous atom? => ionization energy ; ionisation energy
+    ncal-jv:1586.2 | h | Which third-period element, excluding noble gases, has the largest atomic radius? => sodium ; Na
+ncal-jv:1587 | BONUS m | Chemistry | Answer these questions about mixtures.
+    ncal-jv:1587.0 | e | What term describes a mixture that is uniform throughout? => homogeneous mixture ; homogeneous ; solution
+    ncal-jv:1587.1 | m | What technique separates liquids based on differences in boiling point? => distillation
+    ncal-jv:1587.2 | h | What technique separates substances by their different speeds moving through paper or a column? => chromatography
+ncal-jv:1588 | BONUS m | Chemistry | Answer these questions about biochemistry.
+    ncal-jv:1588.0 | e | What are the building blocks of proteins? => amino acids ; amino acid
+    ncal-jv:1588.1 | m | Starch and cellulose are polymers of which simple sugar? => glucose
+    ncal-jv:1588.2 | h | What type of covalent bond links the units of a protein together? => peptide bond ; peptide
+ncal-jv:1589 | BONUS h | Chemistry | Answer these questions about the chemistry of water.
+    ncal-jv:1589.0 | e | What type of attraction holds water molecules to one another? => hydrogen bonding ; hydrogen bond ; hydrogen bonds
+    ncal-jv:1589.1 | m | Because of its uneven charge distribution, water is described as what kind of molecule? => polar ; polar molecule
+    ncal-jv:1589.2 | h | What is the boiling point of water on the Kelvin scale, to the nearest whole number? => 373 ; 373 K ; 373.15
+ncal-jv:1590 | BONUS e | Chemistry | Answer these questions about measurement.
+    ncal-jv:1590.0 | e | What number does the metric prefix kilo represent? => 1000 ; one thousand ; a thousand
+    ncal-jv:1590.1 | m | What is 25 degrees Celsius on the Kelvin scale, to the nearest whole number? => 298 ; 298 K ; 298.15
+    ncal-jv:1590.2 | h | How many significant figures are in the measurement 0.00450? => 3 ; three
+ncal-jv:1591 | BONUS m | Chemistry | Answer these questions about ions.
+    ncal-jv:1591.0 | e | What is the name for an ion that has gained electrons? => anion
+    ncal-jv:1591.1 | m | What charge does a calcium ion typically carry? => plus 2 ; +2 ; 2+ ; positive two ; 2
+    ncal-jv:1591.2 | h | What is the name of the polyatomic ion NO3 with a charge of minus 1? => nitrate ; nitrate ion
+ncal-jv:1592 | BONUS m | Chemistry | Answer these questions about acid-base chemistry.
+    ncal-jv:1592.0 | e | What color does blue litmus paper turn in an acid? => red
+    ncal-jv:1592.1 | m | What term describes a substance that can act as either an acid or a base? => amphoteric ; amphiprotic
+    ncal-jv:1592.2 | h | What is the conjugate base of water? => hydroxide ; hydroxide ion ; OH-

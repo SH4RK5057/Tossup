@@ -1,0 +1,37 @@
+# ncal jv | English | American Literature
+e|Which Mark Twain title character fakes his own death to escape his abusive father and floats down a river on a raft?|Huckleberry Finn|Huck Finn;Huck;Huckleberry
+m|Which lawyer in Maycomb, Alabama defends Tom Robinson in a Harper Lee novel and is the father of Scout?|Atticus Finch|Atticus;Finch|n
+e|In which Robert Frost poem does a speaker take "the one less traveled by" after two roads diverge in a yellow wood?|The Road Not Taken|Road Not Taken
+m|Which author wrote the dog adventure novel White Fang, set in the Yukon during the Klondike gold rush?|Jack London|London|n
+h|In which Edgar Allan Poe story does the narrator's friend Roderick bury his sister Madeline alive in the family tomb before the mansion collapses?|The Fall of the House of Usher|Fall of the House of Usher
+
+# ncal jv | Fine Arts | Art History
+e|Which Italian Renaissance genius painted the Mona Lisa and designed flying machines in his notebooks?|Leonardo da Vinci|Leonardo;da Vinci;Vinci|part
+e|Which painting by Leonardo da Vinci shows a woman with a famous smile and hangs in the Louvre?|Mona Lisa|The Mona Lisa|ok
+e|Michelangelo painted the Creation of Adam on the ceiling of which chapel in the Vatican?|Sistine Chapel|The Sistine Chapel;Sistine|ok
+m|Which art movement of the early 1800s, including Delacroix and Turner, stressed emotion, nature and the imagination over reason?|Romanticism|Romantic;Romantic movement
+e|What name is given to red, yellow and blue, the colors that cannot be made by mixing other colors in traditional painting?|primary colors|primaries;primary
+m|Which German design school, founded by Walter Gropius in 1919, joined fine art with crafts and industrial design?|Bauhaus|The Bauhaus
+m|Which American architect designed the spiral-shaped Guggenheim Museum in New York City?|Frank Lloyd Wright|Wright|n
+e|Which ancient Greek temple, with Doric columns and sculptures by Phidias's workshop, sits on top of the Acropolis?|Parthenon|The Parthenon
+m|Which light, ornate, playful style of the 1700s, seen in pastel paintings of aristocrats on swings, followed the Baroque?|Rococo
+h|Which French painter of Realism shocked the public with The Stone Breakers and A Burial at Ornans, insisting on painting ordinary life?|Gustave Courbet|Courbet|n
+m|Which French artist made colorful lithograph posters of the Moulin Rouge and Parisian nightlife?|Henri de Toulouse-Lautrec|Toulouse-Lautrec;Lautrec|n=Toulouse-Lautrec
+m|Which Russian-French artist painted dreamlike scenes of floating lovers and violinists, such as I and the Village?|Marc Chagall|Chagall|n
+e|The cave paintings of bulls and horses discovered by teenagers in 1940 are in which French cave?|Lascaux|Lascaux cave|f
+m|Which technique, developed in the Renaissance, makes a flat surface look three-dimensional using vanishing points?|linear perspective|perspective|one-point perspective
+m|Which Yale student designed the Vietnam Veterans Memorial, a wall of black granite with names engraved on it?|Maya Lin|Lin|n
+h|Which great Byzantine church in Constantinople, topped with an enormous dome, later became a mosque?|Hagia Sophia|Haghia Sophia;Aya Sofya
+h|Which embroidered cloth about 70 meters long tells the story of the Norman conquest of England in 1066?|Bayeux Tapestry|The Bayeux Tapestry
+m|Which style of the late 1700s, led by Jacques-Louis David, revived the order and simplicity of ancient Greece and Rome?|Neoclassicism|Neoclassical;Neoclassicist
+e|Which painting medium uses pigments mixed with water and is applied to paper in thin, transparent layers?|watercolor|watercolour;watercolors
+h|Which Chinese emperor was buried near thousands of life-size clay soldiers discovered in 1974?|Qin Shi Huang|Qin Shihuang;Shi Huangdi;First Emperor of China|part
+e|Which large Roman amphitheater, where gladiators fought, still stands in the center of Rome?|Colosseum|The Colosseum;Coliseum|ok
+m|Which famous armless marble statue of a goddess was found on the Greek island of Milos in 1820 and is displayed in the Louvre?|Venus de Milo|Aphrodite of Milos
+
+# ncal jv | Science | Biology 1
+e|Which process do plants use to turn sunlight, water and carbon dioxide into sugar and oxygen?|photosynthesis
+e|Which English scientist first used the word "cell" after looking at thin slices of cork under a microscope?|Robert Hooke|Hooke|n
+m|Which process releases energy from glucose and uses oxygen in the mitochondria to make ATP?|cellular respiration|aerobic respiration|respiration
+m|Which structure, made of a phospholipid bilayer, controls what enters and leaves a cell?|cell membrane|plasma membrane
+m|Which medical product trains the immune system to recognize a pathogen by exposing it to a weakened or inactive form?|vaccine|vaccination|vaccines

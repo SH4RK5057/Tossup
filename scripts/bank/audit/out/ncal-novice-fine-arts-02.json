@@ -1,0 +1,11 @@
+[
+  {"id": "ncal-novice:331", "difficulty": "medium"},
+  {"id": "ncal-novice:333", "difficulty": "medium"},
+  {"id": "ncal-novice:334", "difficulty": "medium"},
+  {"id": "ncal-novice:343.2", "difficulty": "medium"},
+  {"id": "ncal-novice:349.2", "addAlt": ["file"]},
+  {"id": "ncal-novice:379", "addAlt": ["doh"]},
+  {"id": "ncal-novice:385", "addAlt": ["pulse"]},
+  {"id": "ncal-novice:393", "difficulty": "medium"},
+  {"id": "ncal-novice:394", "difficulty": "medium"}
+]

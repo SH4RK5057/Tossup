@@ -1,0 +1,15 @@
+ncal-novice:1728 | h | Greek and Roman Mythology | Which fire-breathing monster had a lion's head, a goat's body, and a serpent's tail? => Chimera ; the Chimera
+ncal-novice:1729 | h | Greek and Roman Mythology | What is the name of the famous oracle site in Greece where a priestess gave prophecies? => Delphi
+ncal-novice:1730 | h | Greek and Roman Mythology | Which Roman goddess of the dawn shares her name with a type of light in the sky? => Aurora
+ncal-novice:1731 | m | Greek and Roman Mythology | Which hero killed the Nemean lion as one of his twelve labors? => Heracles ; Hercules
+ncal-novice:1732 | e | Greek and Roman Mythology | What is the Greek name for the Roman king of the gods, Jupiter? => Zeus
+ncal-novice:1733 | e | Greek and Roman Mythology | What is the Greek name for the Roman goddess Venus? => Aphrodite
+ncal-novice:1734 | e | Greek and Roman Mythology | What is the Greek name for the Roman god of war, Mars? => Ares
+ncal-novice:1735 | e | Greek and Roman Mythology | What is the Greek name for the Roman queen of the gods, Juno? => Hera
+ncal-novice:1736 | e | Greek and Roman Mythology | What is the Greek name for the Roman sea god Neptune? => Poseidon
+ncal-novice:1737 | e | Greek and Roman Mythology | What is the Greek name for the Roman goddess of wisdom, Minerva? => Athena
+ncal-novice:1738 | e | Greek and Roman Mythology | What is the Greek name for the Roman messenger god Mercury? => Hermes
+ncal-novice:1739 | e | Greek and Roman Mythology | What is the Greek name for the Roman god of the dead, Pluto? => Hades
+ncal-novice:1740 | e | Greek and Roman Mythology | What is the Greek name for the Roman moon goddess Diana? => Artemis
+ncal-novice:1741 | h | Greek and Roman Mythology | Which Roman poet wrote the epic poem the Aeneid? => Virgil ; Vergil
+ncal-novice:1742 | h | Greek and Roman Mythology | Which Roman poet wrote the Metamorphoses, a collection of myths about transformations? => Ovid

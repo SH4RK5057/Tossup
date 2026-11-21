@@ -1,0 +1,114 @@
+ncal-jv:1701 | BONUS m | World History | Answer these questions about ancient Egypt.
+    ncal-jv:1701.0 | e | What picture-based writing system did the ancient Egyptians use? => hieroglyphics ; hieroglyphs
+    ncal-jv:1701.1 | m | Which stone, found in 1799, helped scholars decipher it? => Rosetta Stone ; The Rosetta Stone
+    ncal-jv:1701.2 | h | Which French scholar deciphered the script in 1822? => Jean-Francois Champollion ; Champollion ; Jean-François Champollion
+ncal-jv:1702 | BONUS m | World History | Answer these questions about ancient Greece.
+    ncal-jv:1702.0 | e | Which god was the king of the Greek gods? => Zeus
+    ncal-jv:1702.1 | m | Which mountain was the legendary home of the gods? => Mount Olympus ; Olympus
+    ncal-jv:1702.2 | h | Which sanctuary housed the oracle of Apollo? => Delphi
+ncal-jv:1703 | BONUS m | World History | Answer these questions about ancient Rome.
+    ncal-jv:1703.0 | e | What was the governing council of elders in the Roman Republic called? => Senate ; Roman Senate
+    ncal-jv:1703.1 | m | Which Roman poet wrote the Odes? => Horace
+    ncal-jv:1703.2 | h | Which Roman historian wrote the Annals and the Histories? => Tacitus
+ncal-jv:1704 | BONUS m | World History | Answer these questions about early Islam.
+    ncal-jv:1704.0 | e | What is the Islamic holy month of daytime fasting called? => Ramadan
+    ncal-jv:1704.1 | m | What is the pilgrimage to Mecca called? => Hajj ; Haj
+    ncal-jv:1704.2 | h | Which cousin and son-in-law of Muhammad, the fourth caliph, is honored by Shia Muslims as the first imam? => Ali ; Ali ibn Abi Talib
+ncal-jv:1705 | BONUS m | World History | Answer these questions about medieval Europe.
+    ncal-jv:1705.0 | e | What system exchanged land for loyalty and service between lords and vassals? => feudalism ; Feudalism ; feudal system
+    ncal-jv:1705.1 | m | What were peasants bound to a lord's land called? => serfs ; Serfs
+    ncal-jv:1705.2 | h | Which long conflict between England and France lasted from 1337 to 1453? => Hundred Years' War ; Hundred Years War
+ncal-jv:1706 | BONUS m | World History | Answer these questions about Renaissance Italy.
+    ncal-jv:1706.0 | e | Who painted The School of Athens in the Vatican? => Raphael ; Raffaello Sanzio
+    ncal-jv:1706.1 | m | Who painted the ceiling of the Sistine Chapel? => Michelangelo ; Michelangelo Buonarroti
+    ncal-jv:1706.2 | h | Which Florentine banking family patronized Renaissance artists? => Medici ; The Medici ; Medici family
+ncal-jv:1707 | BONUS m | World History | Answer these questions about the Protestant Reformation.
+    ncal-jv:1707.0 | e | Which English king broke with the Roman Catholic Church so he could remarry? => Henry VIII ; Henry the Eighth
+    ncal-jv:1707.1 | m | Which French theologian led reform in Geneva and taught predestination? => John Calvin ; Calvin
+    ncal-jv:1707.2 | h | Which 1555 agreement allowed German princes to choose Lutheranism or Catholicism for their lands? => Peace of Augsburg ; Augsburg
+ncal-jv:1708 | BONUS m | World History | Answer these questions about the Age of Exploration.
+    ncal-jv:1708.0 | e | Which Portuguese prince, nicknamed "the Navigator," sponsored voyages down the African coast? => Prince Henry the Navigator ; Henry the Navigator ; Prince Henry
+    ncal-jv:1708.1 | m | Which Portuguese captain rounded the southern tip of Africa in 1488? => Bartolomeu Dias ; Dias ; Bartholomew Diaz
+    ncal-jv:1708.2 | h | Which Italian sailing for England reached North America in 1497? => John Cabot ; Giovanni Caboto ; Cabot
+ncal-jv:1709 | BONUS m | World History | Answer these questions about the Americas before European conquest.
+    ncal-jv:1709.0 | e | What was the capital city of the Aztec Empire? => Tenochtitlan ; Tenochtitlán
+    ncal-jv:1709.1 | m | What was the capital city of the Inca Empire? => Cusco ; Cuzco
+    ncal-jv:1709.2 | h | What record-keeping device of knotted cords did the Inca use? => quipu ; khipu ; quipus
+ncal-jv:1710 | BONUS m | World History | Answer these questions about 18th-century European thought.
+    ncal-jv:1710.0 | e | What name is given to the 18th-century movement emphasizing reason? => Enlightenment ; The Enlightenment ; Age of Reason
+    ncal-jv:1710.1 | m | Which English philosopher argued for natural rights to life, liberty, and property? => John Locke ; Locke
+    ncal-jv:1710.2 | h | Which Frenchman edited the Encyclopedie with Jean d'Alembert? => Denis Diderot ; Diderot
+ncal-jv:1711 | BONUS m | World History | Answer these questions about the French Revolution.
+    ncal-jv:1711.0 | e | Which French king was executed in 1793? => Louis XVI ; Louis the Sixteenth
+    ncal-jv:1711.1 | m | What device was used for executions during the Revolution? => guillotine ; The guillotine
+    ncal-jv:1711.2 | h | Which 1799 coup brought Napoleon to power? => Coup of 18 Brumaire ; 18 Brumaire ; Eighteenth Brumaire
+ncal-jv:1712 | BONUS m | World History | Answer these questions about the Napoleonic era.
+    ncal-jv:1712.0 | e | Whose harsh winter helped destroy Napoleon's army in 1812? => Russia
+    ncal-jv:1712.1 | m | On which South Atlantic island was Napoleon exiled after Waterloo? => Saint Helena ; Saint Helena Island ; St. Helena
+    ncal-jv:1712.2 | h | What name was given to Napoleon's policy of closing European ports to British trade? => Continental System ; Continental Blockade
+ncal-jv:1713 | BONUS m | World History | Answer these questions about the Industrial Revolution.
+    ncal-jv:1713.0 | e | Which fuel powered most steam engines in the early Industrial Revolution? => coal ; Coal
+    ncal-jv:1713.1 | m | Which English inventor created the spinning jenny? => James Hargreaves ; Hargreaves
+    ncal-jv:1713.2 | h | Which English workers destroyed textile machinery in 1811 to 1816 protests? => Luddites ; The Luddites
+ncal-jv:1714 | BONUS m | World History | Answer these questions about European imperialism.
+    ncal-jv:1714.0 | e | Which Egyptian canal, opened in 1869, links the Mediterranean and Red Seas? => Suez Canal ; Suez
+    ncal-jv:1714.1 | m | Which continent was carved up in the "Scramble" among European powers in the late 1800s? => Africa
+    ncal-jv:1714.2 | h | Which Belgian king held the Congo Free State as a personal possession? => Leopold II ; King Leopold II ; Leopold
+ncal-jv:1715 | BONUS m | World History | Answer these questions about World War I.
+    ncal-jv:1715.0 | e | Which alliance included Germany and Austria-Hungary? => Central Powers ; The Central Powers
+    ncal-jv:1715.1 | m | What type of fighting in dug-in lines of fortified ditches defined the Western Front? => trench warfare ; Trench warfare
+    ncal-jv:1715.2 | h | Which British liner was sunk by a German submarine in 1915, killing many Americans? => Lusitania ; RMS Lusitania
+ncal-jv:1716 | BONUS m | World History | Answer these questions about the Russian Revolution.
+    ncal-jv:1716.0 | e | Which tsar abdicated in 1917? => Nicholas II ; Tsar Nicholas II
+    ncal-jv:1716.1 | m | What was the name of the party led by Lenin? => Bolsheviks ; Bolshevik Party ; Bolshevik
+    ncal-jv:1716.2 | h | Which Bolshevik leader organized the Red Army? => Leon Trotsky ; Trotsky
+ncal-jv:1717 | BONUS m | World History | Answer these questions about Europe between the world wars.
+    ncal-jv:1717.0 | e | Which 1929 event in New York helped start the Great Depression? => Wall Street Crash ; stock market crash ; Stock Market Crash of 1929
+    ncal-jv:1717.1 | m | Which general won the Spanish Civil War and ruled Spain? => Francisco Franco ; Franco
+    ncal-jv:1717.2 | h | What was the name of Germany's democratic republic from 1919 to 1933? => Weimar Republic ; Weimar
+ncal-jv:1718 | BONUS m | World History | Answer these questions about World War II in Europe.
+    ncal-jv:1718.0 | e | What was the 1940 German air campaign against Britain called? => Battle of Britain ; The Battle of Britain
+    ncal-jv:1718.1 | m | What was the name of the Allied invasion of Normandy on June 6, 1944? => D-Day ; Operation Overlord ; Normandy landings
+    ncal-jv:1718.2 | h | Which Soviet city's siege, ending in early 1943, was a turning point on the Eastern Front? => Stalingrad
+ncal-jv:1719 | BONUS m | World History | Answer these questions about World War II in the Pacific.
+    ncal-jv:1719.0 | e | Which Pacific island saw a famous 1945 flag raising on Mount Suribachi? => Iwo Jima
+    ncal-jv:1719.1 | m | Which June 1942 naval battle destroyed four Japanese carriers? => Battle of Midway ; Midway
+    ncal-jv:1719.2 | h | Which Japanese emperor announced his country's surrender in 1945? => Hirohito ; Emperor Hirohito
+ncal-jv:1720 | BONUS m | World History | Answer these questions about the early Cold War.
+    ncal-jv:1720.0 | e | What 1948 and 1949 operation supplied West Berlin by air? => Berlin Airlift ; The Berlin Airlift
+    ncal-jv:1720.1 | m | Which Western military alliance was formed in 1949? => NATO ; North Atlantic Treaty Organization
+    ncal-jv:1720.2 | h | Which Soviet-led military alliance was created in 1955? => Warsaw Pact
+ncal-jv:1721 | BONUS m | World History | Answer these questions about the later Cold War.
+    ncal-jv:1721.0 | e | Which parallel divided North and South Korea? => 38th parallel ; thirty-eighth parallel
+    ncal-jv:1721.1 | m | Which leader headed communist North Vietnam? => Ho Chi Minh ; Ho
+    ncal-jv:1721.2 | h | Which Soviet leader introduced the policies of glasnost and perestroika? => Mikhail Gorbachev ; Gorbachev
+ncal-jv:1722 | BONUS m | World History | Answer these questions about decolonization.
+    ncal-jv:1722.0 | e | Which country became independent from Britain in 1947 alongside Pakistan? => India
+    ncal-jv:1722.1 | m | Which 1954 battle ended French rule in Indochina? => Dien Bien Phu ; Battle of Dien Bien Phu
+    ncal-jv:1722.2 | h | Which European country fought the Algerian War of Independence? => France
+ncal-jv:1723 | BONUS m | World History | Answer these questions about China.
+    ncal-jv:1723.0 | e | Which Chinese invention uses a magnetized needle for navigation? => compass ; magnetic compass
+    ncal-jv:1723.1 | m | What overland trade network linked China with the Mediterranean world? => Silk Road ; Silk Roads ; The Silk Road
+    ncal-jv:1723.2 | h | Which dynasty fell in 1912 as China's last imperial dynasty? => Qing Dynasty ; Qing ; Manchu Dynasty
+ncal-jv:1724 | BONUS m | World History | Answer these questions about Japan.
+    ncal-jv:1724.0 | e | Which Japanese religion venerates spirits called kami? => Shinto
+    ncal-jv:1724.1 | m | Which American commodore arrived in Japan in 1853 to demand trade? => Matthew Perry ; Perry
+    ncal-jv:1724.2 | h | Which 1904 and 1905 war ended with a surprising Japanese victory over a European power? => Russo-Japanese War
+ncal-jv:1725 | BONUS m | World History | Answer these questions about South Asia.
+    ncal-jv:1725.0 | e | Which religion has the most followers in India? => Hinduism ; Hindu
+    ncal-jv:1725.1 | m | Which empire did Chandragupta Maurya found? => Mauryan Empire ; Maurya Empire ; Mauryan ; Maurya
+    ncal-jv:1725.2 | h | Which trading company ruled much of India until 1858? => British East India Company ; East India Company
+ncal-jv:1726 | BONUS m | World History | Answer these questions about Africa.
+    ncal-jv:1726.0 | e | Which African nation did Italy invade in 1935? => Ethiopia
+    ncal-jv:1726.1 | m | Which city in Mali was a center of Islamic learning and trade? => Timbuktu
+    ncal-jv:1726.2 | h | Which ancient kingdom, south of Egypt, had its capital at Meroe? => Kush ; Kingdom of Kush ; Nubia
+ncal-jv:1727 | BONUS m | World History | Answer these questions about the modern Middle East.
+    ncal-jv:1727.0 | e | Which empire, ruled from Istanbul, collapsed after World War I? => Ottoman Empire ; Ottomans
+    ncal-jv:1727.1 | m | Which leader founded the Republic of Turkey in 1923? => Mustafa Kemal Ataturk ; Ataturk ; Atatürk ; Mustafa Kemal
+    ncal-jv:1727.2 | h | Which 1917 British statement supported a Jewish national home in Palestine? => Balfour Declaration ; The Balfour Declaration
+ncal-jv:1728 | BONUS m | World History | Answer these questions about ancient Mesopotamia.
+    ncal-jv:1728.0 | e | Mesopotamia lay between which two rivers? => Tigris and Euphrates ; Euphrates and Tigris
+    ncal-jv:1728.1 | m | Which Babylonian king is traditionally linked with the Hanging Gardens? => Nebuchadnezzar II ; Nebuchadnezzar
+    ncal-jv:1728.2 | h | Which Assyrian capital held the library of Ashurbanipal? => Nineveh
+ncal-jv:1729 | m | World History | Which Athenian historian wrote an account of the Peloponnesian conflict, stressing human causes? => Thucydides
+ncal-jv:1730 | m | World History | Which king of Macedon was the father of Alexander the Great? => Philip II ; Philip II of Macedon ; Philip of Macedon

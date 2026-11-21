@@ -1,0 +1,19 @@
+[
+{"id":"ncal-novice:583","difficulty":"easy"},
+{"id":"ncal-novice:586","difficulty":"medium"},
+{"id":"ncal-novice:593","difficulty":"medium"},
+{"id":"ncal-novice:594","difficulty":"medium"},
+{"id":"ncal-novice:595","difficulty":"medium"},
+{"id":"ncal-novice:596","difficulty":"medium"},
+{"id":"ncal-novice:597","difficulty":"medium"},
+{"id":"ncal-novice:599","difficulty":"medium","addAlt":["free enterprise","market system"]},
+{"id":"ncal-novice:578","addAlt":["debt","credit"]},
+{"id":"ncal-novice:581","addAlt":["map key"]},
+{"id":"ncal-novice:600.2","drop":"dup of ncal-novice:586"},
+{"id":"ncal-novice:603.0","addAlt":["money"]},
+{"id":"ncal-novice:604.2","drop":"too advanced for novice level"},
+{"id":"ncal-novice:613.0","setText":"What title is given to the elected head of state and head of government of the United States?"},
+{"id":"ncal-novice:716","difficulty":"medium"},
+{"id":"ncal-novice:717","difficulty":"medium"},
+{"id":"ncal-novice:724","difficulty":"medium","setText":"What is the longest river in the United States, which begins in Montana and joins the Mississippi River?"}
+]

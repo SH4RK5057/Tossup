@@ -1,0 +1,12 @@
+[
+  {"id": "ncal-novice:619.2", "drop": "group nouns: was or were both defensible"},
+  {"id": "ncal-novice:632", "drop": "open-ended synonyms; many valid answers"},
+  {"id": "ncal-novice:660.2", "drop": "villanelle is obscure for novice"},
+  {"id": "ncal-novice:674.1", "drop": "minor detail of the novel"},
+  {"id": "ncal-novice:616.2", "difficulty": "medium"},
+  {"id": "ncal-novice:621.2", "difficulty": "medium"},
+  {"id": "ncal-novice:624.2", "difficulty": "medium"},
+  {"id": "ncal-novice:625.2", "difficulty": "medium"},
+  {"id": "ncal-novice:657.1", "addAlt": ["eye rhyme"]},
+  {"id": "ncal-novice:633.2", "addAlt": ["compress", "get smaller"]}
+]

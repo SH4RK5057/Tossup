@@ -1,0 +1,133 @@
+ncal-novice:685 | BONUS h | Freshman Literature | Answer these questions about "Bridge to Terabithia."
+    ncal-novice:685.0 | e | What is the name of the boy who becomes best friends with Leslie? => Jess Aarons ; Jess
+    ncal-novice:685.1 | m | What is the last name of Jess's friend Leslie? => Burke ; Leslie Burke
+    ncal-novice:685.2 | h | What is the name of the music teacher whom Jess admires? => Miss Edmunds ; Edmunds
+ncal-novice:686 | BONUS h | Freshman Literature | Answer these questions about "Romeo and Juliet."
+    ncal-novice:686.0 | e | In what Italian city is the play set? => Verona
+    ncal-novice:686.1 | m | Which friar marries Romeo and Juliet in secret? => Friar Laurence ; Friar Lawrence ; Laurence ; Lawrence
+    ncal-novice:686.2 | h | What is the name of the prince who scolds both families? => Prince Escalus ; Escalus
+ncal-novice:687 | BONUS h | Freshman Literature | Answer these questions about Homer's "Odyssey."
+    ncal-novice:687.0 | e | What is the name of the faithful wife who waits twenty years for Odysseus to come home? => Penelope
+    ncal-novice:687.1 | m | What is the name of the island kingdom to which Odysseus is trying to return? => Ithaca
+    ncal-novice:687.2 | h | What is the name of the son of Odysseus who goes in search of news about his father? => Telemachus
+ncal-novice:688 | BONUS m | Freshman Literature | Answer these questions about "Animal Farm."
+    ncal-novice:688.0 | e | What kind of animals take over leadership of the farm after the rebellion? => pigs ; the pigs
+    ncal-novice:688.1 | m | What is the name of the hardworking cart horse who says "I will work harder"? => Boxer
+    ncal-novice:688.2 | h | Which pig, an idealistic rival of Napoleon, is chased from the farm by Napoleon's dogs? => Snowball
+ncal-novice:689 | BONUS e | Greek and Roman Mythology | Answer these questions about Poseidon and Athena.
+    ncal-novice:689.0 | e | What three-pronged spear does Poseidon carry? => trident
+    ncal-novice:689.1 | m | Which bird is a symbol of Athena? => owl ; an owl
+    ncal-novice:689.2 | h | What name is given to the goatskin shield, often shown with Medusa's head, that Athena carries? => aegis
+ncal-novice:690 | BONUS e | Greek and Roman Mythology | Answer these questions about the underworld.
+    ncal-novice:690.0 | e | Persephone ate the seeds of which red fruit, which kept her bound to the underworld? => pomegranate ; a pomegranate
+    ncal-novice:690.1 | m | What name is given to the paradise where the souls of heroes rest? => Elysium ; Elysian Fields
+    ncal-novice:690.2 | h | What is the name of the river of forgetfulness in the underworld? => Lethe ; River Lethe
+ncal-novice:691 | BONUS m | Greek and Roman Mythology | Answer these questions about the labors of Heracles.
+    ncal-novice:691.0 | m | Which king of Mycenae assigned the twelve labors? => Eurystheus
+    ncal-novice:691.1 | m | In which labor did Heracles clean a huge filthy stable by redirecting two rivers? => Augean stables ; the Augean stables ; stables of Augeas ; cleaning the Augean stables ; Augeas
+    ncal-novice:691.2 | h | Which wrestling giant grew stronger whenever he touched the ground, until Heracles lifted him in the air? => Antaeus
+ncal-novice:692 | BONUS m | Greek and Roman Mythology | Answer these questions about the Trojan War.
+    ncal-novice:692.0 | e | Which part of the body was the only vulnerable spot on Achilles? => heel ; his heel ; Achilles heel
+    ncal-novice:692.1 | m | Which king of Mycenae led the Greek army at Troy? => Agamemnon
+    ncal-novice:692.2 | h | Which king of Troy was the father of Hector and Paris? => Priam
+ncal-novice:693 | BONUS e | Greek and Roman Mythology | Answer these questions about the Roman gods and our calendar and planets.
+    ncal-novice:693.0 | e | Which month is named for the queen goddess Juno? => June
+    ncal-novice:693.1 | m | Which month is named for the Roman god of war? => March
+    ncal-novice:693.2 | h | Which planet is named for the Roman god of agriculture, the father of Jupiter? => Saturn
+ncal-novice:694 | BONUS e | Greek and Roman Mythology | Answer these questions about monsters.
+    ncal-novice:694.0 | e | What creature, with a woman's head and a lion's body, posed a riddle at the city of Thebes? => Sphinx ; the Sphinx
+    ncal-novice:694.1 | m | Which hero solved the riddle posed at Thebes? => Oedipus
+    ncal-novice:694.2 | h | Which six-headed sea monster lived opposite the whirlpool Charybdis? => Scylla
+ncal-novice:695 | BONUS m | Greek and Roman Mythology | Answer these questions about the Titans and Zeus.
+    ncal-novice:695.0 | e | What weapon does Zeus hurl from the sky? => thunderbolt ; lightning bolt ; lightning ; thunderbolts
+    ncal-novice:695.1 | m | Which Titaness was the wife of Cronus and the mother of Zeus? => Rhea
+    ncal-novice:695.2 | h | Which Titaness, whose name means "memory," was the mother of the Muses? => Mnemosyne
+ncal-novice:696 | BONUS e | Greek and Roman Mythology | Answer these questions about the story of the Minotaur.
+    ncal-novice:696.0 | e | Which Greek island was ruled by King Minos? => Crete
+    ncal-novice:696.1 | m | Which daughter of Minos gave a hero a ball of thread to find his way out of the Labyrinth? => Ariadne
+    ncal-novice:696.2 | h | Which king of Athens threw himself into the sea after seeing black sails on his son's returning ship? => Aegeus
+ncal-novice:697 | BONUS m | Greek and Roman Mythology | Answer these questions about love stories in myth.
+    ncal-novice:697.0 | e | Which mortal woman won the love of Cupid after completing tasks set by Venus? => Psyche
+    ncal-novice:697.1 | m | Which sculptor fell in love with a statue he had carved, which Aphrodite brought to life? => Pygmalion
+    ncal-novice:697.2 | h | Which handsome young man, loved by Aphrodite, was killed by a wild boar? => Adonis
+ncal-novice:698 | BONUS m | Greek and Roman Mythology | Answer these questions about transformations.
+    ncal-novice:698.0 | e | Which nymph turned into a laurel tree to escape the god Apollo? => Daphne
+    ncal-novice:698.1 | m | Which hunter was turned into a stag by Artemis and killed by his own hounds? => Actaeon
+    ncal-novice:698.2 | h | Which grieving queen was turned into a stone that weeps after her children were killed? => Niobe
+ncal-novice:699 | BONUS m | Greek and Roman Mythology | Answer these questions about Jason and the Golden Fleece.
+    ncal-novice:699.0 | e | The Golden Fleece came from what kind of animal? => ram ; a ram ; golden ram
+    ncal-novice:699.1 | m | Which sorceress helped Jason win the fleece and later fled with him? => Medea
+    ncal-novice:699.2 | h | Which king of Colchis guarded the Golden Fleece? => Aeetes
+ncal-novice:700 | BONUS m | Greek and Roman Mythology | Answer these questions about the story of Aeneas.
+    ncal-novice:700.0 | e | Which Roman goddess of love was the mother of Aeneas? => Venus
+    ncal-novice:700.1 | m | Which queen of Carthage fell in love with Aeneas and ended her own life when he left? => Dido
+    ncal-novice:700.2 | h | Which man did Aeneas carry on his back out of burning Troy? => Anchises ; his father Anchises
+ncal-novice:701 | BONUS h | Greek and Roman Mythology | Answer these questions about the first beings of Greek myth.
+    ncal-novice:701.0 | e | Which primordial goddess personifies the Earth and was the mother of the Titans? => Gaia ; Gaea
+    ncal-novice:701.1 | m | Which sky god was the father of Cronus? => Uranus ; Ouranos
+    ncal-novice:701.2 | h | Which Titan personified the great river that encircled the world? => Oceanus
+ncal-novice:702 | BONUS m | Greek and Roman Mythology | Answer these questions about a famous jar in Greek myth.
+    ncal-novice:702.0 | e | Which woman opened a jar that released troubles into the world? => Pandora
+    ncal-novice:702.1 | m | What stayed inside the jar after the troubles escaped? => hope
+    ncal-novice:702.2 | h | Which brother of Prometheus accepted the first woman as his wife? => Epimetheus
+ncal-novice:703 | BONUS h | Greek and Roman Mythology | Answer these questions about the Trojan War.
+    ncal-novice:703.0 | e | Which friend of Achilles was killed by Hector while wearing Achilles' armor? => Patroclus
+    ncal-novice:703.1 | m | Which king of Sparta was the husband of Helen? => Menelaus
+    ncal-novice:703.2 | h | Which Trojan princess was cursed by Apollo so that no one would believe her prophecies? => Cassandra
+ncal-novice:704 | BONUS h | Greek and Roman Mythology | Answer these questions about myths behind the stars.
+    ncal-novice:704.0 | e | Which giant hunter was placed in the sky as a constellation with a belt of three stars? => Orion
+    ncal-novice:704.1 | m | Which twin brothers, sons of Leda, became the constellation Gemini? => Castor and Pollux ; Castor ; Pollux ; Polydeuces
+    ncal-novice:704.2 | h | Which swift huntress lost a footrace after stopping to pick up golden apples? => Atalanta
+ncal-novice:705 | BONUS e | Greek and Roman Mythology | Answer these questions about a famous Greek city.
+    ncal-novice:705.0 | e | Which city is named for the goddess Athena? => Athens
+    ncal-novice:705.1 | m | What famous temple to Athena stands on the Acropolis? => Parthenon ; the Parthenon
+    ncal-novice:705.2 | h | What gift from Athena won her the contest with Poseidon to be the patron of the city? => olive tree ; olive ; an olive tree
+ncal-novice:1399 | e | English Grammar | What part of speech names a person, place, thing, or idea? => noun
+ncal-novice:1400 | e | English Grammar | What part of speech expresses an action or a state of being? => verb
+ncal-novice:1401 | e | English Grammar | What part of speech modifies a verb, an adjective, or a word of its own kind, such as "very" or "quickly"? => adverb
+ncal-novice:1402 | e | English Grammar | What type of sentence asks a question? => interrogative sentence ; interrogative ; question
+ncal-novice:1403 | e | English Grammar | What type of sentence gives a command or makes a request? => imperative sentence ; imperative ; command
+ncal-novice:1404 | e | English Grammar | What type of sentence expresses strong emotion and ends with an exclamation point? => exclamatory sentence ; exclamatory
+ncal-novice:1405 | e | English Grammar | What type of sentence makes a statement and ends with a period? => declarative sentence ; declarative
+ncal-novice:1406 | m | English Grammar | What term names a group of related words that has no subject-verb pair, such as "in the morning"? => phrase
+ncal-novice:1407 | m | English Grammar | What part of speech is the word "wow" in the sentence "Wow, that was fast"? => interjection
+ncal-novice:1408 | e | English Grammar | What is the past tense of the verb "go"? => went
+ncal-novice:1409 | e | English Grammar | What is the past tense of the verb "eat"? => ate
+ncal-novice:1410 | e | English Grammar | What is the plural of the word "mouse"? => mice
+ncal-novice:1411 | e | English Grammar | What is the plural of the word "box"? => boxes
+ncal-novice:1412 | m | English Grammar | What is the plural of the word "leaf"? => leaves
+ncal-novice:1413 | m | English Grammar | What is the plural of the word "city"? => cities
+ncal-novice:1414 | e | English Grammar | What is the comparative form of the adjective "good"? => better
+ncal-novice:1415 | m | English Grammar | What is the superlative form of the adjective "bad"? => worst
+ncal-novice:1416 | e | English Grammar | What is the superlative form of the adjective "tall"? => tallest
+ncal-novice:1417 | m | English Grammar | What is the comparative form of the adjective "happy"? => happier
+ncal-novice:1418 | e | English Grammar | What punctuation mark is used at the end of a question? => question mark
+ncal-novice:1419 | e | English Grammar | What punctuation mark shows that letters are missing in a contraction? => apostrophe
+ncal-novice:1420 | e | English Grammar | What is the contraction of the words "do not"? => don't
+ncal-novice:1421 | e | English Grammar | What is the contraction of the words "I am"? => I'm
+ncal-novice:1422 | m | English Grammar | What is the contraction of the words "will not"? => won't
+ncal-novice:1423 | m | English Grammar | What is the contraction of the words "let us"? => let's
+ncal-novice:1424 | e | English Grammar | In the sentence "The cat sat on the mat," what is the simple subject? => cat ; the cat
+ncal-novice:1425 | e | English Grammar | In the sentence "Birds fly south in winter," which word is the verb? => fly
+ncal-novice:1426 | m | English Grammar | In the sentence "Maria gave Tom a gift," which word is the indirect object? => Tom
+ncal-novice:1427 | m | English Grammar | In the sentence "She kicked the ball," which word is the direct object? => ball ; the ball
+ncal-novice:1428 | e | English Grammar | What part of speech is the word "beautiful" in the phrase "a beautiful flower"? => adjective
+ncal-novice:1429 | e | English Grammar | What part of speech is the word "under" in the sentence "The dog hid under the bed"? => preposition
+ncal-novice:1430 | m | English Grammar | What part of speech is the word "because" in the sentence "I stayed home because I was sick"? => conjunction ; subordinating conjunction
+ncal-novice:1431 | m | English Grammar | What part of speech is the word "they" in the sentence "They went home"? => pronoun
+ncal-novice:1432 | h | English Grammar | What term names the word that a pronoun refers back to? => antecedent
+ncal-novice:1433 | m | English Grammar | In the sentence "The dog barked loudly," which word is the adverb? => loudly
+ncal-novice:1434 | e | English Grammar | Which word correctly completes the sentence "___ house is big": there, their, or they're? => their
+ncal-novice:1435 | e | English Grammar | Which word correctly completes the sentence "___ my best friend": your or you're? => you're ; you are
+ncal-novice:1436 | m | English Grammar | Which word correctly completes the sentence "The dog wagged ___ tail": its or it's? => its
+ncal-novice:1437 | m | English Grammar | Which word correctly completes the sentence "___ coat is this": who's or whose? => whose
+ncal-novice:1438 | m | English Grammar | Which word correctly completes the sentence "She is taller ___ her brother": than or then? => than
+ncal-novice:1439 | e | English Grammar | What do we call the words "a," "an," and "the"? => articles ; article
+ncal-novice:1440 | m | English Grammar | Which article is used before a word that begins with a vowel sound, such as "apple"? => an
+ncal-novice:1441 | h | English Grammar | What term names a sentence that runs two complete thoughts together with no punctuation or conjunction between them? => run-on sentence ; run-on ; run on
+ncal-novice:1442 | m | English Grammar | What term names an incomplete sentence that lacks a subject or a verb? => sentence fragment ; fragment
+ncal-novice:1443 | m | English Grammar | What term names the part of a sentence that tells what the subject does? => predicate
+ncal-novice:1444 | e | English Grammar | What kind of noun names a specific person or place and begins with a capital letter? => proper noun
+ncal-novice:1445 | m | English Grammar | What kind of noun names a general person, place, or thing, such as "city"? => common noun
+ncal-novice:1446 | h | English Grammar | What kind of noun names an idea you cannot touch, such as "freedom"? => abstract noun
+ncal-novice:1447 | m | English Grammar | What kind of noun names a group, such as "flock" or "team"? => collective noun

@@ -1,0 +1,20 @@
+[
+{"id":"ncal-varsity:595","difficulty":"easy"},
+{"id":"ncal-varsity:596","difficulty":"easy"},
+{"id":"ncal-varsity:602","difficulty":"easy"},
+{"id":"ncal-varsity:604","setText":"Which novel by George Eliot features the heroine Dorothea Brooke?"},
+{"id":"ncal-varsity:608","difficulty":"easy"},
+{"id":"ncal-varsity:617","drop":"minor Trollope novel, obscure for varsity"},
+{"id":"ncal-varsity:620","difficulty":"medium"},
+{"id":"ncal-varsity:621","difficulty":"medium"},
+{"id":"ncal-varsity:622","difficulty":"easy"},
+{"id":"ncal-varsity:623","addAlt":["Alfred Tennyson","Lord Tennyson"]},
+{"id":"ncal-varsity:624","difficulty":"medium"},
+{"id":"ncal-varsity:626","difficulty":"medium"},
+{"id":"ncal-varsity:630","difficulty":"medium"},
+{"id":"ncal-varsity:631","difficulty":"medium"},
+{"id":"ncal-varsity:900.0","addAlt":["Tess"]},
+{"id":"ncal-varsity:901.2","setText":"Which Conrad novel concerns Jim, who jumped from the ship Patna and later lives in Patusan?"},
+{"id":"ncal-varsity:909.0","addAlt":["Eliot"]},
+{"id":"ncal-varsity:918.2","drop":"obscure Hughes collection title"}
+]

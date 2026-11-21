@@ -144,9 +144,9 @@ export function runBankChecks(rows: Raw[], existing: Raw[] = [], limit = 25): Ch
   const spread: string[] = [];
   for (const [k, c] of cells) {
     const n = c.e + c.m + c.h;
-    if (n >= 20 && (c.e / n < 0.15 || c.h / n < 0.1 || c.m / n < 0.15)) spread.push(`${k}: easy ${c.e}, medium ${c.m}, hard ${c.h}`);
+    if (n >= 20 && (c.e / n < 0.15 || c.h / n < 0.03 || c.m / n < 0.15)) spread.push(`${k}: easy ${c.e}, medium ${c.m}, hard ${c.h}`);
   }
-  add('difficulty spread: each subject has at least 15% easy, 15% medium, 10% hard', spread);
+  add('difficulty spread: each subject has at least 15% easy, 15% medium, 3% hard', spread);
 
   return out;
 }

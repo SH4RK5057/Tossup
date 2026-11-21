@@ -1,0 +1,154 @@
+ncal-jv:423 | m | American Literature | Which transcendentalist wrote the essays "Nature" and "Self-Reliance"? => Ralph Waldo Emerson ; Emerson
+ncal-jv:424 | m | American Literature | Which formerly enslaved abolitionist wrote an 1845 narrative of his own life? => Frederick Douglass ; Douglass
+ncal-jv:425 | m | American Literature | Who wrote the poem "O Captain! My Captain!" about the death of Abraham Lincoln? => Walt Whitman ; Whitman
+ncal-jv:426 | m | American Literature | Who wrote the poem "Stopping by Woods on a Snowy Evening"? => Robert Frost ; Frost
+ncal-jv:427 | m | American Literature | Who wrote the play "The Glass Menagerie"? => Tennessee Williams ; Williams
+ncal-jv:428 | m | American Literature | Who wrote the play "A Streetcar Named Desire"? => Tennessee Williams ; Williams
+ncal-jv:429 | m | American Literature | Who wrote the novel "Roots: The Saga of an American Family"? => Alex Haley ; Haley
+ncal-jv:430 | m | American Literature | Who wrote the novel "The Jungle," which exposed conditions in the meatpacking industry? => Upton Sinclair ; Sinclair
+ncal-jv:431 | m | American Literature | Who wrote the novel "Bless Me, Ultima"? => Rudolfo Anaya ; Anaya
+ncal-jv:432 | m | American Literature | Who wrote the novel "The House on Mango Street"? => Sandra Cisneros ; Cisneros
+ncal-jv:433 | m | American Literature | Who wrote the novel "Ender's Game"? => Orson Scott Card ; Card
+ncal-jv:434 | m | American Literature | Who wrote "The Phantom Tollbooth"? => Norton Juster ; Juster
+ncal-jv:435 | h | American Literature | Who wrote the novel "Catch-22"? => Joseph Heller ; Heller
+ncal-jv:436 | h | American Literature | Who wrote the novel "Slaughterhouse-Five"? => Kurt Vonnegut ; Vonnegut
+ncal-jv:437 | h | American Literature | Who wrote the novel "The Sun Also Rises"? => Ernest Hemingway ; Hemingway
+ncal-jv:438 | h | American Literature | Who wrote the novel "Babbitt"? => Sinclair Lewis ; Lewis
+ncal-jv:439 | h | American Literature | Who wrote the novel "My Antonia"? => Willa Cather ; Cather
+ncal-jv:440 | h | American Literature | Who wrote the novel "Sister Carrie"? => Theodore Dreiser ; Dreiser
+ncal-jv:441 | h | American Literature | Who wrote the novel "Light in August"? => William Faulkner ; Faulkner
+ncal-jv:442 | h | American Literature | Who wrote the poem "Howl"? => Allen Ginsberg ; Ginsberg
+ncal-jv:443 | h | American Literature | Who wrote the poem "The Love Song of J. Alfred Prufrock"? => T. S. Eliot ; Eliot
+ncal-jv:444 | h | American Literature | Who wrote the poem "The Red Wheelbarrow"? => William Carlos Williams ; Williams
+ncal-jv:445 | h | American Literature | Who wrote the poem "Because I could not stop for Death"? => Emily Dickinson ; Dickinson
+ncal-jv:446 | h | American Literature | Who wrote "The Autocrat of the Breakfast-Table"? => Oliver Wendell Holmes ; Holmes ; Oliver Wendell Holmes Sr. ; Oliver Wendell Holmes Senior
+ncal-jv:447 | h | American Literature | Who wrote "The Last of the Mohicans"? => James Fenimore Cooper ; Cooper
+ncal-jv:448 | h | American Literature | Who wrote the novel "Little House on the Prairie"? => Laura Ingalls Wilder ; Wilder
+ncal-jv:449 | h | American Literature | Which character in "The Last of the Mohicans" is the scout also called Hawkeye? => Natty Bumppo ; Bumppo ; Hawkeye
+ncal-jv:450 | h | American Literature | In "Moby-Dick," what is the name of the captain obsessed with the white whale? => Captain Ahab ; Ahab
+ncal-jv:451 | h | American Literature | What is the name of the ship in "Moby-Dick"? => the Pequod ; Pequod
+ncal-jv:452 | h | American Literature | Who wrote the novella "Billy Budd"? => Herman Melville ; Melville
+ncal-jv:453 | h | American Literature | Who wrote the story "Bartleby, the Scrivener"? => Herman Melville ; Melville
+ncal-jv:454 | h | American Literature | Who wrote "The Fall of the House of Usher"? => Edgar Allan Poe ; Poe
+ncal-jv:455 | e | American Literature | In "Charlotte's Web," what kind of animal is Charlotte? => spider ; a spider
+ncal-jv:456 | e | American Literature | In "Where the Red Fern Grows," what are the names of Billy's two coonhounds? => Old Dan and Little Ann ; Old Dan ; Little Ann
+ncal-jv:457 | m | American Literature | Who wrote the story "The Cask of Amontillado"? => Edgar Allan Poe ; Poe
+ncal-jv:458 | m | American Literature | Who wrote the novel "The Age of Innocence"? => Edith Wharton ; Wharton
+ncal-jv:459 | m | American Literature | Who wrote the novel "A Tree Grows in Brooklyn"? => Betty Smith ; Smith
+ncal-jv:460 | m | American Literature | Who wrote the novel "The Bluest Eye"? => Toni Morrison ; Morrison
+ncal-jv:461 | m | American Literature | Who wrote the novel "Number the Stars"? => Lois Lowry ; Lowry
+ncal-jv:462 | h | American Literature | Who wrote the novel "The Awakening"? => Kate Chopin ; Chopin
+ncal-jv:463 | h | American Literature | Who wrote the short story "The Yellow Wallpaper"? => Charlotte Perkins Gilman ; Gilman
+ncal-jv:464 | h | American Literature | Who wrote the story collection "Winesburg, Ohio"? => Sherwood Anderson ; Anderson
+ncal-jv:465 | BONUS m | American Literature | Answer these questions about the writing of Mark Twain.
+    ncal-jv:465.0 | e | In which Twain novel does a boy trick his friends into whitewashing a fence? => The Adventures of Tom Sawyer ; Tom Sawyer
+    ncal-jv:465.1 | m | In which Twain novel do a prince and a poor boy trade places? => The Prince and the Pauper ; Prince and the Pauper
+    ncal-jv:465.2 | h | In which Twain novel is Hank Morgan sent back in time to Camelot? => A Connecticut Yankee in King Arthur's Court ; Connecticut Yankee
+ncal-jv:466 | BONUS m | American Literature | Answer these questions about the novels of John Steinbeck.
+    ncal-jv:466.0 | e | Which Steinbeck novel is named for a street in Monterey, California, and follows a biologist called Doc? => Cannery Row
+    ncal-jv:466.1 | m | "East of Eden" retells which biblical story of two brothers? => Cain and Abel ; Cain ; Abel
+    ncal-jv:466.2 | h | In "The Red Pony," what is the first name of the boy who owns the pony? => Jody ; Jody Tiflin
+ncal-jv:467 | BONUS m | American Literature | Answer these questions about the stories of Edgar Allan Poe.
+    ncal-jv:467.0 | e | In which Poe story is a prisoner threatened by a swinging blade? => The Pit and the Pendulum ; Pit and the Pendulum
+    ncal-jv:467.1 | m | Which detective created by Poe appears in "The Murders in the Rue Morgue"? => C. Auguste Dupin ; Dupin
+    ncal-jv:467.2 | h | Poe's only finished novel follows which narrator? => Arthur Gordon Pym ; Pym ; Arthur Pym
+ncal-jv:468 | BONUS m | American Literature | Answer these questions about F. Scott Fitzgerald.
+    ncal-jv:468.0 | e | Fitzgerald is associated with what decade, called the Jazz Age? => 1920s ; the 1920s ; the twenties ; the roaring twenties
+    ncal-jv:468.1 | m | Which 1920 Fitzgerald novel follows Amory Blaine? => This Side of Paradise
+    ncal-jv:468.2 | h | Which 1934 Fitzgerald novel centers on the psychiatrist Dick Diver? => Tender Is the Night
+ncal-jv:469 | BONUS m | American Literature | Answer these questions about the Harlem Renaissance.
+    ncal-jv:469.0 | e | The Harlem Renaissance was centered in which city? => New York City ; New York
+    ncal-jv:469.1 | m | Which Jamaican-born poet wrote "If We Must Die"? => Claude McKay ; McKay
+    ncal-jv:469.2 | h | Which writer published the 1923 book "Cane"? => Jean Toomer ; Toomer
+ncal-jv:470 | BONUS m | American Literature | Answer these questions about Ernest Hemingway.
+    ncal-jv:470.0 | e | Which Hemingway novel follows Robert Jordan during the Spanish Civil War? => For Whom the Bell Tolls
+    ncal-jv:470.1 | m | Hemingway's memoir "A Moveable Feast" describes his years in which city? => Paris
+    ncal-jv:470.2 | h | Which recurring Hemingway character appears in "Big Two-Hearted River"? => Nick Adams ; Adams
+ncal-jv:471 | BONUS m | American Literature | Answer these questions about early American writing.
+    ncal-jv:471.0 | e | Who wrote the pamphlet "Common Sense"? => Thomas Paine ; Paine
+    ncal-jv:471.1 | m | Which enslaved poet published "Poems on Various Subjects, Religious and Moral" in 1773? => Phillis Wheatley ; Wheatley
+    ncal-jv:471.2 | h | Which Puritan minister delivered the sermon "Sinners in the Hands of an Angry God"? => Jonathan Edwards ; Edwards
+ncal-jv:472 | BONUS m | American Literature | Answer these questions about American poets.
+    ncal-jv:472.0 | e | Which poet described Chicago as "Hog Butcher for the World"? => Carl Sandburg ; Sandburg
+    ncal-jv:472.1 | m | Which Pulitzer-winning poet wrote "We Real Cool"? => Gwendolyn Brooks ; Brooks
+    ncal-jv:472.2 | h | Which poet wrote "The Emperor of Ice-Cream"? => Wallace Stevens ; Stevens
+ncal-jv:473 | BONUS m | American Literature | Answer these questions about American drama.
+    ncal-jv:473.0 | e | "Our Town" is set in which fictional New Hampshire town? => Grover's Corners
+    ncal-jv:473.1 | m | Which salesman is the title character of Arthur Miller's most famous play, whose last name is Loman? => Willy Loman ; Willy
+    ncal-jv:473.2 | h | Who wrote "Long Day's Journey into Night"? => Eugene O'Neill ; O'Neill
+ncal-jv:474 | BONUS e | American Literature | Answer these questions about children's authors.
+    ncal-jv:474.0 | e | Who wrote "The Cat in the Hat"? => Dr. Seuss ; Seuss ; Theodor Geisel ; Doctor Seuss
+    ncal-jv:474.1 | m | Who wrote "Where the Wild Things Are"? => Maurice Sendak ; Sendak
+    ncal-jv:474.2 | h | Who wrote "The Giving Tree"? => Shel Silverstein ; Silverstein
+ncal-jv:475 | BONUS m | American Literature | Answer these questions about the Beat Generation.
+    ncal-jv:475.0 | e | Who wrote the novel "On the Road"? => Jack Kerouac ; Kerouac
+    ncal-jv:475.1 | m | Who wrote the novel "Naked Lunch"? => William S. Burroughs ; Burroughs
+    ncal-jv:475.2 | h | Which poet wrote "A Coney Island of the Mind"? => Lawrence Ferlinghetti ; Ferlinghetti
+ncal-jv:476 | BONUS e | American Literature | Answer these questions about "To Kill a Mockingbird."
+    ncal-jv:476.0 | e | What is the real first name of the girl nicknamed Scout? => Jean Louise ; Jean
+    ncal-jv:476.1 | m | Which 2015 novel by Harper Lee features an adult Scout returning to Maycomb? => Go Set a Watchman
+    ncal-jv:476.2 | h | Which writer was Harper Lee's childhood friend and the inspiration for the character Dill? => Truman Capote ; Capote
+ncal-jv:477 | BONUS m | American Literature | Answer these questions about Southern writers.
+    ncal-jv:477.0 | e | Who wrote the story "A Good Man Is Hard to Find"? => Flannery O'Connor ; O'Connor
+    ncal-jv:477.1 | m | Who wrote the novel "The Heart Is a Lonely Hunter"? => Carson McCullers ; McCullers
+    ncal-jv:477.2 | h | Who wrote the nonfiction novel "In Cold Blood"? => Truman Capote ; Capote
+ncal-jv:478 | BONUS m | American Literature | Answer these questions about science fiction authors.
+    ncal-jv:478.0 | e | Who wrote the novel "A Wrinkle in Time"? => Madeleine L'Engle ; L'Engle
+    ncal-jv:478.1 | m | Who wrote the novel "Dune"? => Frank Herbert ; Herbert
+    ncal-jv:478.2 | h | Which author wrote the robot stories collected in "I, Robot"? => Isaac Asimov ; Asimov
+ncal-jv:479 | BONUS m | American Literature | Answer these questions about "The Scarlet Letter."
+    ncal-jv:479.0 | e | In which Puritan city is the novel set? => Boston
+    ncal-jv:479.1 | m | Which minister is secretly the father of Hester's child? => Arthur Dimmesdale ; Dimmesdale
+    ncal-jv:479.2 | h | By what name does Hester's husband live after he disguises himself as a doctor? => Roger Chillingworth ; Chillingworth
+ncal-jv:480 | BONUS m | American Literature | Answer these questions about "The Great Gatsby."
+    ncal-jv:480.0 | e | What is the first name of the title character? => Jay
+    ncal-jv:480.1 | m | Which brutish man is Daisy's husband? => Tom Buchanan ; Buchanan
+    ncal-jv:480.2 | h | Whose faded billboard eyes watch over the valley of ashes? => Doctor T. J. Eckleburg ; Eckleburg
+ncal-jv:481 | BONUS m | American Literature | Answer these questions about "The Catcher in the Rye."
+    ncal-jv:481.0 | e | What is the name of Holden's younger sister? => Phoebe ; Phoebe Caulfield
+    ncal-jv:481.1 | m | From which prep school is Holden expelled? => Pencey Prep ; Pencey
+    ncal-jv:481.2 | h | Which Scottish poet wrote the song whose line Holden mishears, giving the novel its title? => Robert Burns ; Burns
+ncal-jv:482 | BONUS m | American Literature | Answer these questions about the Transcendentalists.
+    ncal-jv:482.0 | e | What is the name of the philosophical movement of Emerson and Thoreau? => Transcendentalism ; Transcendentalist
+    ncal-jv:482.1 | m | In which Massachusetts town did Emerson and Thoreau live? => Concord
+    ncal-jv:482.2 | h | Thoreau lived for two years beside which body of water? => Walden Pond ; Walden
+ncal-jv:483 | BONUS m | American Literature | Answer these questions about the writing of Jack London.
+    ncal-jv:483.0 | e | In which London story does a man in the Yukon try to start a blaze in extreme cold? => To Build a Fire
+    ncal-jv:483.1 | m | Which London novel is a semi-autobiographical story of a working-class sailor who becomes a writer? => Martin Eden
+    ncal-jv:483.2 | h | Which brutal captain terrorizes the crew in "The Sea-Wolf"? => Wolf Larsen ; Larsen
+ncal-jv:484 | BONUS m | American Literature | Answer these questions about Newbery-winning authors.
+    ncal-jv:484.0 | e | Who wrote "Bridge to Terabithia"? => Katherine Paterson ; Paterson
+    ncal-jv:484.1 | m | Who wrote the novel "Holes"? => Louis Sachar ; Sachar
+    ncal-jv:484.2 | h | Who wrote "Island of the Blue Dolphins"? => Scott O'Dell ; O'Dell
+ncal-jv:485 | BONUS m | American Literature | Answer these questions about "Little Women."
+    ncal-jv:485.0 | e | Which March sister dies of scarlet fever? => Beth ; Beth March
+    ncal-jv:485.1 | m | What is the last name of the boy next door nicknamed Laurie? => Laurence
+    ncal-jv:485.2 | h | Which educator and transcendentalist, the father of the author, helped found Fruitlands? => Bronson Alcott ; Alcott
+ncal-jv:486 | BONUS e | American Literature | Answer these questions about "The Hunger Games."
+    ncal-jv:486.0 | e | Which sister does Katniss volunteer to replace in the reaping? => Prim ; Primrose ; Primrose Everdeen
+    ncal-jv:486.1 | m | Which baker's son from District 12 is chosen as a tribute? => Peeta Mellark ; Peeta
+    ncal-jv:486.2 | h | Who is the drunken former victor who mentors Katniss and Peeta? => Haymitch Abernathy ; Haymitch
+ncal-jv:487 | BONUS m | American Literature | Answer these questions about the poetry of Robert Frost.
+    ncal-jv:487.0 | e | In "Mending Wall," good fences make good what? => neighbors
+    ncal-jv:487.1 | m | Which Frost poem contemplates two ways the world might end, by flame or by frost? => Fire and Ice
+    ncal-jv:487.2 | h | Which 1923 Frost collection includes "Stopping by Woods on a Snowy Evening"? => New Hampshire
+ncal-jv:488 | BONUS m | American Literature | Answer these questions about "The Crucible."
+    ncal-jv:488.0 | e | Which farmer is the central tragic hero who refuses to sign a false confession? => John Proctor ; Proctor
+    ncal-jv:488.1 | m | Which Reverend of Salem sees his daughter Betty fall ill? => Samuel Parris ; Parris
+    ncal-jv:488.2 | h | The play is often read as an allegory for which 1950s anti-Communist movement? => McCarthyism ; McCarthy era ; the Red Scare ; Red Scare
+ncal-jv:489 | BONUS m | American Literature | Answer these questions about Stephen Crane.
+    ncal-jv:489.0 | e | Who is the young soldier at the center of "The Red Badge of Courage"? => Henry Fleming ; Fleming ; Henry
+    ncal-jv:489.1 | m | Which Crane short story follows four men in a dinghy after a shipwreck? => The Open Boat ; Open Boat
+    ncal-jv:489.2 | h | Which 1893 Crane novel is about a girl in the slums of New York? => Maggie: A Girl of the Streets ; Maggie
+ncal-jv:490 | BONUS m | American Literature | Answer these questions about Henry James.
+    ncal-jv:490.0 | e | Which James ghost story features a governess caring for two children? => The Turn of the Screw ; Turn of the Screw
+    ncal-jv:490.1 | m | In which James novel is the heroine Isabel Archer? => The Portrait of a Lady ; Portrait of a Lady
+    ncal-jv:490.2 | h | Which James novel follows Lambert Strether to Paris? => The Ambassadors ; Ambassadors
+ncal-jv:491 | BONUS m | American Literature | Answer these questions about Ray Bradbury.
+    ncal-jv:491.0 | e | Which Bradbury story collection describes the colonization of Mars? => The Martian Chronicles ; Martian Chronicles
+    ncal-jv:491.1 | m | In "Fahrenheit 451," which teenage neighbor makes Montag question his life? => Clarisse McClellan ; Clarisse
+    ncal-jv:491.2 | h | Which fire captain pushes Montag to stay loyal to his job? => Captain Beatty ; Beatty
+ncal-jv:492 | BONUS m | American Literature | Answer these questions about Henry Wadsworth Longfellow.
+    ncal-jv:492.0 | e | Which Longfellow epic poem tells of an Ojibwe hero? => The Song of Hiawatha ; Hiawatha
+    ncal-jv:492.1 | m | In which Longfellow poem is the heroine separated from Gabriel after the Acadians are expelled? => Evangeline
+    ncal-jv:492.2 | h | In "The Village Blacksmith," under what kind of tree does the smithy stand? => chestnut tree ; chestnut

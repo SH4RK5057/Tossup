@@ -1,0 +1,184 @@
+ncal-jv:1326 | h | Biology 1 | What is the term for a plant's growth toward light? => phototropism
+ncal-jv:1327 | h | Biology 1 | What type of vascular tissue carries water upward from roots to leaves? => xylem
+ncal-jv:1328 | h | Biology 1 | What organelle is the site of lipid synthesis and detoxification, lacking ribosomes? => smooth endoplasmic reticulum ; smooth ER
+ncal-jv:1329 | BONUS e | Biology 1 | Answer these questions about cell organelles.
+    ncal-jv:1329.0 | e | What organelle makes ribosomal subunits inside the nucleus? => nucleolus
+    ncal-jv:1329.1 | m | What organelle packages and modifies proteins for export? => Golgi apparatus ; Golgi body
+    ncal-jv:1329.2 | m | What organelle contains the cell's digestive enzymes? => lysosome
+ncal-jv:1330 | BONUS m | Biology 1 | Answer these questions about DNA structure.
+    ncal-jv:1330.0 | e | What group, along with sugar, forms the backbone of a DNA strand? => phosphate ; phosphate group
+    ncal-jv:1330.1 | m | What sugar is part of the DNA nucleotide? => deoxyribose
+    ncal-jv:1330.2 | h | What scientist's X-ray diffraction photo 51 helped reveal the DNA structure? => Rosalind Franklin ; n ; Franklin
+ncal-jv:1331 | BONUS m | Biology 1 | Answer these questions about the stages of mitosis.
+    ncal-jv:1331.0 | e | What is the first stage of mitosis? => prophase
+    ncal-jv:1331.1 | m | In which stage do the chromosomes line up at the cell's equator? => metaphase
+    ncal-jv:1331.2 | m | In which stage does the cytoplasm divide into two cells, following telophase? => cytokinesis
+ncal-jv:1332 | BONUS m | Biology 1 | Answer these questions about photosynthesis.
+    ncal-jv:1332.0 | e | What pigment captures light energy in plants? => chlorophyll
+    ncal-jv:1332.1 | m | What region inside a chloroplast contains stacks of thylakoids? => grana ; granum
+    ncal-jv:1332.2 | h | What enzyme fixes carbon dioxide in the Calvin cycle? => rubisco ; RuBisCO
+ncal-jv:1333 | BONUS m | Biology 1 | Answer these questions about cellular respiration.
+    ncal-jv:1333.0 | e | What molecule is the main product of cellular respiration that cells use for energy? => ATP ; adenosine triphosphate
+    ncal-jv:1333.1 | m | What organelle is the site of most of respiration? => mitochondrion ; mitochondria
+    ncal-jv:1333.2 | m | What process in yeast produces ethanol and carbon dioxide? => alcoholic fermentation ; fermentation
+ncal-jv:1334 | BONUS m | Biology 1 | Answer these questions about genetics vocabulary.
+    ncal-jv:1334.0 | e | What term names the failure of chromosomes to separate properly in meiosis? => nondisjunction
+    ncal-jv:1334.1 | m | What are different versions of the same gene called? => alleles ; allele
+    ncal-jv:1334.2 | m | What term describes the allele that is masked in a heterozygote? => recessive
+ncal-jv:1335 | BONUS h | Biology 1 | Answer these questions about protein synthesis.
+    ncal-jv:1335.0 | e | What process makes mRNA from DNA? => transcription
+    ncal-jv:1335.1 | m | What organelle assembles amino acids into a protein? => ribosome
+    ncal-jv:1335.2 | h | What is the name of the three-base sequence on tRNA that pairs with a codon? => anticodon
+ncal-jv:1336 | BONUS m | Biology 1 | Answer these questions about ecology.
+    ncal-jv:1336.0 | e | What term describes all the populations in an area together? => community
+    ncal-jv:1336.1 | m | What is the term for the place where an organism lives? => habitat
+    ncal-jv:1336.2 | m | What is the term for the role of a species in its ecosystem? => niche
+ncal-jv:1337 | BONUS m | Biology 1 | Answer these questions about the human nervous system.
+    ncal-jv:1337.0 | e | What organ is the control center of the nervous system? => brain
+    ncal-jv:1337.1 | m | What is the name of the part of a neuron that receives signals? => dendrite ; dendrites
+    ncal-jv:1337.2 | m | What is the fatty coating that insulates axons? => myelin ; myelin sheath
+ncal-jv:1338 | BONUS m | Biology 1 | Answer these questions about the human circulatory system.
+    ncal-jv:1338.0 | e | What is the name of the vessels that carry blood away from the heart? => arteries ; artery
+    ncal-jv:1338.1 | m | What is the name of the valve between the left atrium and left ventricle, which has two flaps? => bicuspid valve ; mitral valve
+    ncal-jv:1338.2 | m | What fluid component of blood contains no cells? => plasma
+ncal-jv:1339 | BONUS m | Biology 1 | Answer these questions about the human immune system.
+    ncal-jv:1339.0 | e | What are tiny agents, such as viruses and bacteria, that cause disease called? => pathogens ; pathogen
+    ncal-jv:1339.1 | m | What is the term for a substance that triggers an immune response? => antigen
+    ncal-jv:1339.2 | m | What type of cell, called killer or helper, matures in the thymus? => T cell ; T lymphocyte
+ncal-jv:1340 | BONUS m | Biology 1 | Answer these questions about evolution.
+    ncal-jv:1340.0 | e | Who proposed the theory of evolution by natural selection? => Charles Darwin ; n ; Darwin
+    ncal-jv:1340.1 | m | What term describes remains of ancient organisms preserved in rock? => fossils ; fossil
+    ncal-jv:1340.2 | m | What term names a trait like the human appendix that has lost its original function? => vestigial structure ; vestigial
+ncal-jv:1341 | BONUS m | Biology 1 | Answer these questions about the digestive system.
+    ncal-jv:1341.0 | e | What organ produces bile for fat digestion? => liver
+    ncal-jv:1341.1 | m | What enzyme in saliva starts the digestion of starch? => amylase ; salivary amylase
+    ncal-jv:1341.2 | m | What organ stores bile? => gallbladder
+ncal-jv:1342 | BONUS m | Biology 1 | Answer these questions about plant structure.
+    ncal-jv:1342.0 | e | What are the tiny openings on a leaf that regulate gas exchange? => stomata ; stoma
+    ncal-jv:1342.1 | m | What pair of cells surrounds each stoma? => guard cells
+    ncal-jv:1342.2 | m | What tissue carries sugars through a plant? => phloem
+ncal-jv:1343 | BONUS m | Biology 1 | Answer these questions about biomolecules.
+    ncal-jv:1343.0 | e | What are the monomers of carbohydrates called, when single sugar units? => monosaccharides ; monosaccharide
+    ncal-jv:1343.1 | m | What are the monomers of nucleic acids called? => nucleotides ; nucleotide
+    ncal-jv:1343.2 | m | What type of bond links amino acids in a protein? => peptide bond ; peptide
+ncal-jv:1344 | BONUS m | Biology 1 | Answer these questions about membranes and transport.
+    ncal-jv:1344.0 | e | What molecule forms the double layer of the cell membrane? => phospholipid ; phospholipids
+    ncal-jv:1344.1 | m | What term describes a solution with a higher solute concentration than a cell? => hypertonic
+    ncal-jv:1344.2 | m | What is the term for the diffusion of a substance through a channel protein? => facilitated diffusion
+ncal-jv:1345 | BONUS m | Biology 1 | Answer these questions about meiosis.
+    ncal-jv:1345.0 | e | How many cells result from one cell undergoing meiosis? => four ; 4
+    ncal-jv:1345.1 | m | What process exchanges segments between homologous chromosomes in prophase I? => crossing over
+    ncal-jv:1345.2 | m | What is the term for a cell containing half the usual number of chromosomes? => haploid
+ncal-jv:1346 | BONUS m | Biology 1 | Answer these questions about Mendelian genetics.
+    ncal-jv:1346.0 | e | What kind of plant did Mendel study? => pea plant ; pea ; garden pea
+    ncal-jv:1346.1 | m | What is the expected phenotypic ratio from crossing two heterozygotes for a dominant trait? => three to one ; 3:1 ; 3 to 1
+    ncal-jv:1346.2 | h | What is the term for Mendel's law that alleles separate during gamete formation? => law of segregation ; segregation
+ncal-jv:1347 | BONUS m | Biology 1 | Answer these questions about microbes.
+    ncal-jv:1347.0 | e | What group of single-celled organisms lacks a nucleus and includes Escherichia coli? => bacteria
+    ncal-jv:1347.1 | m | What is the process by which two single-celled prokaryotes transfer DNA through a bridge between them? => conjugation
+    ncal-jv:1347.2 | m | What type of tiny particle needs a host cell to reproduce and is not made of cells? => virus
+ncal-jv:1348 | BONUS m | Biology 1 | Answer these questions about the endocrine system.
+    ncal-jv:1348.0 | e | What gland is called the master gland, located at the base of the brain? => pituitary gland ; pituitary
+    ncal-jv:1348.1 | m | What gland in the neck controls metabolism? => thyroid gland ; thyroid
+    ncal-jv:1348.2 | m | What hormone from the adrenal glands prepares the body for fight or flight? => adrenaline ; epinephrine
+ncal-jv:1349 | BONUS m | Biology 1 | Answer these questions about biodiversity and conservation.
+    ncal-jv:1349.0 | e | What is the term for a species with no remaining living members? => extinct
+    ncal-jv:1349.1 | m | What term describes a species at risk of extinction across all of its range? => endangered species ; endangered
+    ncal-jv:1349.2 | m | What term describes a species introduced to an area where it does not naturally live? => invasive species ; introduced species
+ncal-jv:1350 | BONUS m | Biology 1 | Answer these questions about biochemistry.
+    ncal-jv:1350.0 | e | What are the catalysts of biological reactions called? => enzymes ; enzyme
+    ncal-jv:1350.1 | m | What is the name of the part of an enzyme where the substrate binds? => active site
+    ncal-jv:1350.2 | m | What term describes an enzyme that has lost its shape due to heat or pH change? => denatured
+ncal-jv:1351 | BONUS m | Biology 1 | Answer these questions about taxonomy.
+    ncal-jv:1351.0 | e | What is the term for the first word in a binomial scientific name? => genus
+    ncal-jv:1351.1 | m | What are the three domains of life? => Bacteria, Archaea, and Eukarya ; Bacteria, Archaea, Eukarya
+    ncal-jv:1351.2 | m | What kingdom includes mushrooms and molds? => Fungi
+ncal-jv:1352 | e | Biology 1 | What type of molecule stores genetic information and includes DNA and RNA? => nucleic acid ; nucleic acids
+ncal-jv:1353 | e | Biology 1 | What type of RNA carries the genetic message from the nucleus to the ribosome? => mRNA ; messenger RNA
+ncal-jv:1354 | m | Biology 1 | What term describes cells containing a full set of paired chromosomes? => diploid
+ncal-jv:1355 | m | Biology 1 | What is the name of the thin tubes that form the spindle fibers in a dividing cell? => microtubules ; microtubule
+ncal-jv:1356 | m | Biology 1 | What part of the cell is the site of the electron transport chain in aerobic respiration? => inner mitochondrial membrane ; cristae
+ncal-jv:1357 | m | Biology 1 | What term describes organisms that cannot make their own food, like animals? => heterotrophs ; heterotroph
+ncal-jv:1358 | h | Biology 1 | What is the name of the enzyme that unzips the DNA double helix at the replication fork? => helicase
+ncal-jv:1359 | h | Biology 1 | What term describes the region at the ends of chromosomes that protects them from deterioration? => telomere ; telomeres
+ncal-jv:1360 | h | Biology 1 | What is the name of the process in which a cell engulfs large particles by wrapping its membrane around them? => endocytosis ; phagocytosis
+ncal-jv:1361 | BONUS m | Biology 1 | Answer these questions about animal tissues.
+    ncal-jv:1361.0 | e | What tissue type forms muscles? => muscle tissue
+    ncal-jv:1361.1 | m | What type of tissue includes bone, blood, and cartilage? => connective tissue
+    ncal-jv:1361.2 | m | What type of muscle is found in the heart? => cardiac muscle
+ncal-jv:1362 | BONUS m | Biology 1 | Answer these questions about the urinary system.
+    ncal-jv:1362.0 | e | What pair of organs filters waste from the blood to form urine? => kidneys ; kidney
+    ncal-jv:1362.1 | m | What tube carries urine from the kidney to the bladder? => ureter
+    ncal-jv:1362.2 | m | What hormone from the pituitary helps the kidney retain water? => ADH ; antidiuretic hormone
+ncal-jv:1363 | BONUS m | Biology 1 | Answer these questions about the human skeletal system.
+    ncal-jv:1363.0 | e | What kind of tissue cushions the ends of bones at joints? => cartilage
+    ncal-jv:1363.1 | m | What tough bands connect bone to bone? => ligaments ; ligament
+    ncal-jv:1363.2 | m | What is the soft tissue inside bones where blood cells are made? => bone marrow ; marrow
+ncal-jv:1364 | BONUS m | Biology 1 | Answer these questions about the respiratory system.
+    ncal-jv:1364.0 | e | What gas do humans exhale as a waste product of respiration? => carbon dioxide
+    ncal-jv:1364.1 | m | What flap of tissue covers the trachea while swallowing? => epiglottis
+    ncal-jv:1364.2 | m | What are the tiny air sacs where gas exchange occurs in human lungs? => alveoli ; alveolus
+ncal-jv:1365 | BONUS m | Biology 1 | Answer these questions about the cell cycle.
+    ncal-jv:1365.0 | e | What term names the process by which the cytoplasm divides at the end of cell division? => cytokinesis
+    ncal-jv:1365.1 | m | What term describes a cell that has stopped dividing and is in a resting state called G zero? => G0 ; G zero ; quiescent ; quiescence
+    ncal-jv:1365.2 | h | What group of proteins regulates the cell cycle and is named for rising and falling in concentration? => cyclins ; cyclin
+ncal-jv:1366 | e | Chemistry | What is the name for the number 6.02 times 10 to the 23rd, the number of particles in one mole? => Avogadro's number ; Avogadro constant ; Avogadro's constant ; Avogadro
+ncal-jv:1367 | e | Chemistry | What is the molar mass, in grams per mole, of water? => 18 ; eighteen
+ncal-jv:1368 | e | Chemistry | What is the molar mass, in grams per mole, of carbon dioxide? => 44 ; forty-four
+ncal-jv:1369 | e | Chemistry | What is the mass in grams of two moles of sodium chloride, whose molar mass is 58.5 grams per mole? => 117 ; 117 grams ; one hundred seventeen
+ncal-jv:1370 | m | Chemistry | What is the molarity of a solution made by dissolving 2 moles of solute in 4 liters of solution? => 0.5 ; 0.5 molar ; one half ; 1/2 ; 0.5 M
+ncal-jv:1371 | m | Chemistry | What is the pH of a solution of 0.001 molar hydrochloric acid? => 3 ; three
+ncal-jv:1372 | m | Chemistry | What is the pH of a solution with a hydrogen ion concentration of 1 times 10 to the negative 5 moles per liter? => 5 ; five
+ncal-jv:1373 | m | Chemistry | What is the pOH of a solution with a pH of 9? => 5 ; five
+ncal-jv:1374 | m | Chemistry | What volume, in liters, is occupied by half a mole of an ideal gas at standard temperature and pressure? => 11.2 ; 11.2 liters ; eleven point two
+ncal-jv:1375 | e | Chemistry | What volume, in liters, is occupied by one mole of an ideal gas at standard temperature and pressure? => 22.4 ; 22.4 liters ; twenty-two point four
+ncal-jv:1376 | m | Chemistry | When the equation H2 plus O2 yields H2O is balanced, what is the coefficient in front of water? => 2 ; two
+ncal-jv:1377 | m | Chemistry | When the combustion of propane, C3H8, is balanced, what is the coefficient in front of oxygen? => 5 ; five
+ncal-jv:1378 | m | Chemistry | What is the sum of the coefficients when nitrogen plus hydrogen forms ammonia is balanced as N2 plus 3 H2 yields 2 NH3? => 6 ; six
+ncal-jv:1379 | m | Chemistry | What is the empirical formula of glucose, whose molecular formula is C6H12O6? => CH2O ; CH2O
+ncal-jv:1380 | h | Chemistry | How many grams of water are produced when 4 grams of hydrogen gas react completely with excess oxygen? => 36 ; 36 grams ; thirty-six
+ncal-jv:1381 | e | Chemistry | How many valence electrons does an oxygen atom have? => 6 ; six
+ncal-jv:1382 | e | Chemistry | How many valence electrons does a chlorine atom have? => 7 ; seven
+ncal-jv:1383 | m | Chemistry | How many neutrons are in an atom of carbon-14? => 8 ; eight
+ncal-jv:1384 | m | Chemistry | How many electrons does a magnesium ion with a charge of 2 plus have? => 10 ; ten
+ncal-jv:1385 | m | Chemistry | How many protons does an atom of sodium have? => 11 ; eleven
+ncal-jv:1386 | m | Chemistry | What is the maximum number of electrons that the second energy level can hold? => 8 ; eight
+ncal-jv:1387 | e | Chemistry | How many electrons can a d subshell hold? => 10 ; ten
+ncal-jv:1388 | e | Chemistry | How many orbitals are in a p subshell? => 3 ; three
+ncal-jv:1389 | e | Chemistry | What is the name for a charged atom? => ion
+ncal-jv:1390 | e | Chemistry | What is the name for a positively charged ion? => cation
+ncal-jv:1391 | e | Chemistry | What is the name for a negatively charged ion? => anion
+ncal-jv:1392 | m | Chemistry | What type of bond forms when electrons are transferred from one atom to another? => ionic bond ; ionic
+ncal-jv:1393 | m | Chemistry | What type of bond is found in metals, where electrons move freely among atoms? => metallic bond ; metallic
+ncal-jv:1394 | m | Chemistry | What type of attraction between a hydrogen atom and a highly electronegative atom such as oxygen gives water its high boiling point? => hydrogen bond ; hydrogen bonding
+ncal-jv:1395 | m | Chemistry | What is the name for the rule that atoms tend to gain, lose, or share electrons to have eight valence electrons? => octet rule ; the octet rule
+ncal-jv:1396 | m | Chemistry | What type of diagram, named for an American chemist, shows valence electrons as dots? => Lewis structure ; Lewis dot diagram ; Lewis diagram ; Lewis dot structure
+ncal-jv:1397 | m | Chemistry | Which element is the most electronegative? => fluorine
+ncal-jv:1398 | m | Chemistry | Which noble gas has the highest first ionization energy? => helium
+ncal-jv:1399 | m | Chemistry | What is the shape of a methane molecule? => tetrahedral ; tetrahedron
+ncal-jv:1400 | e | Chemistry | What is the shape of a water molecule? => bent
+ncal-jv:1401 | m | Chemistry | What is the shape of a carbon dioxide molecule? => linear
+ncal-jv:1402 | m | Chemistry | What is the shape of an ammonia molecule? => trigonal pyramidal ; pyramidal
+ncal-jv:1403 | h | Chemistry | What is the bond angle in a tetrahedral molecule like methane, in degrees? => 109.5 ; 109.5 degrees
+ncal-jv:1404 | h | Chemistry | What theory predicts molecular shape by assuming that electron pairs repel each other? => VSEPR theory ; VSEPR ; valence shell electron pair repulsion
+ncal-jv:1405 | e | Chemistry | What is the formula for the sulfate ion? => SO4 2- ; SO4 ; SO42-
+ncal-jv:1406 | m | Chemistry | What is the formula for the nitrate ion? => NO3 minus ; NO3 ; NO3-
+ncal-jv:1407 | m | Chemistry | What is the formula for the ammonium ion? => NH4 plus ; NH4 ; NH4+
+ncal-jv:1408 | m | Chemistry | What is the name of the polyatomic ion OH minus? => hydroxide
+ncal-jv:1409 | m | Chemistry | What is the name of the compound with the formula CaCO3, the main component of limestone and chalk? => calcium carbonate
+ncal-jv:1410 | m | Chemistry | What is the chemical name of the compound with the formula NaOH, often called lye? => sodium hydroxide
+ncal-jv:1411 | m | Chemistry | What is the name of the compound H2SO4? => sulfuric acid
+ncal-jv:1412 | m | Chemistry | What is the name of the compound with formula HNO3? => nitric acid
+ncal-jv:1413 | m | Chemistry | What is the common name of the compound with formula NH3? => ammonia
+ncal-jv:1414 | e | Chemistry | What element has the atomic number 6 and is the basis of organic chemistry? => carbon
+ncal-jv:1415 | e | Chemistry | What is the lightest metal, with atomic number 3? => lithium
+ncal-jv:1416 | m | Chemistry | What is the only metal that is liquid at room temperature? => mercury
+ncal-jv:1417 | m | Chemistry | What is the only nonmetal element that is liquid at room temperature? => bromine
+ncal-jv:1418 | m | Chemistry | What name is given to the seven elements that exist as two-atom molecules, such as nitrogen and oxygen? => diatomic elements ; diatomic molecules ; diatomic
+ncal-jv:1419 | m | Chemistry | Which alloy of copper and tin was used in ancient tools and weapons? => bronze
+ncal-jv:1420 | m | Chemistry | Which alloy of copper and zinc is used in musical instruments? => brass
+ncal-jv:1421 | m | Chemistry | Which alloy of iron and carbon is used in construction? => steel
+ncal-jv:1422 | m | Chemistry | What are the different forms of the same element in the same state, such as diamond and graphite, called? => allotropes ; allotrope
+ncal-jv:1423 | h | Chemistry | What form of carbon, shaped like a soccer ball and named for an architect, has the formula C60? => buckminsterfullerene ; fullerene ; buckyball ; Buckyball
+ncal-jv:1424 | m | Chemistry | What is the most abundant element in Earth's crust? => oxygen
+ncal-jv:1425 | m | Chemistry | What gas law states that pressure and volume of a gas are inversely proportional at constant temperature? => Boyle's law ; Boyle's Law ; Boyle

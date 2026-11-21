@@ -1,0 +1,14 @@
+[
+  {"id": "ncal-jv:1614", "difficulty": "medium"},
+  {"id": "ncal-jv:1641", "difficulty": "hard"},
+  {"id": "ncal-jv:1649", "difficulty": "hard"},
+  {"id": "ncal-jv:1680", "difficulty": "medium"},
+  {"id": "ncal-jv:1684", "difficulty": "medium"},
+  {"id": "ncal-jv:1685", "difficulty": "medium"},
+  {"id": "ncal-jv:1691", "difficulty": "medium"},
+  {"id": "ncal-jv:1640", "addAlt": ["Punic War"]},
+  {"id": "ncal-jv:1660", "addAlt": ["Bloodless Revolution"]},
+  {"id": "ncal-jv:1672", "addAlt": ["Toussaint"]},
+  {"id": "ncal-jv:1658", "addAlt": ["Louis 14", "Louis the 14th"]},
+  {"id": "ncal-jv:1649", "addAlt": ["Urban 2"]}
+]

@@ -1,0 +1,16 @@
+[
+  {"id": "ncal-novice:685.2", "drop": "minor character in the novel"},
+  {"id": "ncal-novice:691.0", "difficulty": "hard"},
+  {"id": "ncal-novice:691.2", "drop": "obscure giant, too specialized for novice"},
+  {"id": "ncal-novice:696.2", "drop": "obscure minor figure for novice"},
+  {"id": "ncal-novice:698.2", "drop": "obscure myth figure for novice"},
+  {"id": "ncal-novice:699.2", "drop": "obscure minor king, hard spelling"},
+  {"id": "ncal-novice:1405", "addAlt": ["statement", "declarative statement"]},
+  {"id": "ncal-novice:1404", "addAlt": ["exclamation", "exclamatory statement"]},
+  {"id": "ncal-novice:1407", "difficulty": "easy"},
+  {"id": "ncal-novice:1412", "difficulty": "easy"},
+  {"id": "ncal-novice:1413", "difficulty": "easy"},
+  {"id": "ncal-novice:1415", "difficulty": "easy"},
+  {"id": "ncal-novice:1441", "difficulty": "medium"},
+  {"id": "ncal-novice:1446", "difficulty": "medium"}
+]

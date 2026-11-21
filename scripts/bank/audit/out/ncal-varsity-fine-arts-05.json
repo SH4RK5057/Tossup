@@ -1,0 +1,15 @@
+[
+  {"id": "ncal-varsity:1255", "drop": "minor character detail of the musical"},
+  {"id": "ncal-varsity:1233", "difficulty": "easy"},
+  {"id": "ncal-varsity:1242", "difficulty": "easy"},
+  {"id": "ncal-varsity:1246", "difficulty": "easy"},
+  {"id": "ncal-varsity:1247", "difficulty": "easy"},
+  {"id": "ncal-varsity:1229", "difficulty": "easy"},
+  {"id": "ncal-varsity:1251", "difficulty": "medium"},
+  {"id": "ncal-varsity:1253", "difficulty": "medium"},
+  {"id": "ncal-varsity:1257", "difficulty": "medium"},
+  {"id": "ncal-varsity:1271", "difficulty": "medium"},
+  {"id": "ncal-varsity:1275", "difficulty": "medium"},
+  {"id": "ncal-varsity:1214", "addAlt": ["Eliza Doolittle"]},
+  {"id": "ncal-varsity:1250", "addAlt": ["Metropolitan Opera Company"]}
+]

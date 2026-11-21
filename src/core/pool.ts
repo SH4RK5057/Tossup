@@ -97,11 +97,37 @@ export interface SequenceArgs<T extends Question> {
   nowIso: string;
 }
 
+/**
+ * Interleaves an already-shuffled list so every category, and every subject within a category, comes up equally
+ * often. Without this a category with more subjects (or a subject with more questions) is drawn more.
+ */
+export function balanceBySubject<T extends { category: string; subcategory: string }>(items: T[]): T[] {
+  const cats = new Map<string, Map<string, T[]>>();
+  for (const it of items) {
+    const subs = cats.get(it.category) ?? new Map<string, T[]>();
+    const list = subs.get(it.subcategory) ?? [];
+    list.push(it);
+    subs.set(it.subcategory, list);
+    cats.set(it.category, subs);
+  }
+  const roundRobin = <U,>(lists: U[][]): U[] => {
+    const out: U[] = [];
+    const longest = Math.max(0, ...lists.map((l) => l.length));
+    for (let i = 0; i < longest; i++) for (const l of lists) if (i < l.length) out.push(l[i]);
+    return out;
+  };
+  const built = [...cats.values()].map((subs) => roundRobin([...subs.values()]));
+  // A tiny category (say, one Current Events question) would otherwise come up in every session; it goes last.
+  const biggest = Math.max(0, ...built.map((l) => l.length));
+  const tiny = built.filter((l) => l.length < biggest * 0.05);
+  return [...roundRobin(built.filter((l) => !tiny.includes(l))), ...tiny.flat()];
+}
+
 function buildSequence<T extends Question>(a: SequenceArgs<T>, salt: string): T[] {
   const rng = createRng(`${a.seed}:${salt}`);
   const c = candidates(a.pool, a.ruleset, a.level, a.filter, a.nowIso);
-  const own = shuffle(c.own, rng);
-  const lower = shuffle(c.lower, rng);
+  const own = balanceBySubject(shuffle(c.own, rng));
+  const lower = balanceBySubject(shuffle(c.lower, rng));
   const share = a.ruleset.lowerLevelShare ?? 0;
   const available = own.length + lower.length;
   const limit = Math.min(a.limit ?? Infinity, available);

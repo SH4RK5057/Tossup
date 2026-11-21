@@ -1,0 +1,154 @@
+ncal-novice:1044 | e | Life Science | What is the basic unit of structure and function in all living things? => cell
+ncal-novice:1045 | e | Life Science | What organelle is known as the powerhouse of the cell? => mitochondria ; mitochondrion
+ncal-novice:1046 | e | Life Science | What green pigment in plants captures light energy for photosynthesis? => chlorophyll
+ncal-novice:1047 | e | Life Science | What gas do plants take in from the air for photosynthesis? => carbon dioxide
+ncal-novice:1048 | e | Life Science | What gas do plants release as a product of photosynthesis? => oxygen
+ncal-novice:1049 | e | Life Science | What term describes an organism that makes its own food, such as a plant? => producer ; autotroph
+ncal-novice:1050 | e | Life Science | What term describes an organism that must eat other organisms for energy? => consumer ; heterotroph
+ncal-novice:1051 | e | Life Science | What is the name for an animal that eats only plants? => herbivore
+ncal-novice:1052 | e | Life Science | What is the name for an animal that eats only other animals? => carnivore
+ncal-novice:1053 | e | Life Science | What is the name for an animal that eats both plants and animals? => omnivore
+ncal-novice:1054 | e | Life Science | What organ in the human body is the main center of the nervous system, located in the skull? => brain
+ncal-novice:1055 | e | Life Science | What is the name of the process by which a caterpillar becomes a butterfly? => metamorphosis
+ncal-novice:1056 | e | Life Science | What part of a plant absorbs water and minerals from the soil? => root ; roots
+ncal-novice:1057 | e | Life Science | What part of a flower develops into a fruit? => ovary
+ncal-novice:1058 | e | Life Science | What are the tiny pores on the underside of a leaf that let gases in and out? => stomata ; stoma
+ncal-novice:1059 | e | Life Science | What is the term for the variety of living things in an ecosystem? => biodiversity
+ncal-novice:1060 | e | Life Science | What is the term for a group of the same species living in one area? => population
+ncal-novice:1061 | e | Life Science | What is the term for a living thing, such as a plant, animal, or fungus? => organism
+ncal-novice:1062 | e | Life Science | What is the term for an animal with a backbone? => vertebrate
+ncal-novice:1063 | e | Life Science | What is the term for an animal without a backbone? => invertebrate
+ncal-novice:1064 | e | Life Science | What class of vertebrates has fur or hair and feeds its young with milk? => mammals ; mammal
+ncal-novice:1065 | e | Life Science | What type of blood vessel carries blood away from the heart? => artery ; arteries
+ncal-novice:1066 | e | Life Science | What are the hard structures that make up the human skeleton? => bones ; bone
+ncal-novice:1067 | m | Life Science | What is the term for the release of energy from food in the cells of living things? => cellular respiration ; respiration
+ncal-novice:1068 | m | Life Science | What molecule carries genetic information in the nucleus of a cell, shaped like a double helix? => DNA ; deoxyribonucleic acid
+ncal-novice:1069 | m | Life Science | What organelle contains the cell's DNA and acts as its control center? => nucleus
+ncal-novice:1070 | m | Life Science | What rigid outer layer surrounds plant cells but not animal cells? => cell wall
+ncal-novice:1071 | m | Life Science | What flexible outer boundary surrounds all cells and controls what enters and leaves? => cell membrane ; plasma membrane
+ncal-novice:1072 | m | Life Science | What cell organelles in plants contain chlorophyll? => chloroplasts ; chloroplast
+ncal-novice:1073 | m | Life Science | What is the term for a trait that is passed from parents to offspring? => inherited trait ; heritable trait ; inheritance
+ncal-novice:1074 | m | Life Science | What process explains how organisms with helpful traits are more likely to survive and reproduce? => natural selection
+ncal-novice:1075 | m | Life Science | What scientist wrote On the Origin of Species? => Charles Darwin ; Darwin
+ncal-novice:1076 | m | Life Science | What is the term for all the living and nonliving things interacting in an area? => ecosystem
+ncal-novice:1077 | m | Life Science | What is the term for the role an organism plays in its ecosystem, including what it eats and where it lives? => niche
+ncal-novice:1078 | m | Life Science | What type of organism breaks down dead material and returns nutrients to the soil, such as fungi? => decomposer
+ncal-novice:1079 | m | Life Science | What is the term for a diagram showing who eats whom in a single path of energy? => food chain
+ncal-novice:1080 | m | Life Science | What is the term for a model of many overlapping food chains in an ecosystem? => food web
+ncal-novice:1081 | m | Life Science | What is the term for an animal that hunts and kills other animals for food? => predator
+ncal-novice:1082 | m | Life Science | What is the term for a close relationship between two species in which both benefit? => mutualism
+ncal-novice:1083 | m | Life Science | What term describes animals that are active at night? => nocturnal
+ncal-novice:1084 | m | Life Science | What is the term for the seasonal movement of animals from one region to another? => migration
+ncal-novice:1085 | m | Life Science | What is the first stage of a butterfly's life cycle? => egg
+ncal-novice:1086 | m | Life Science | What is the name of the male reproductive part of a flower that produces pollen? => stamen
+ncal-novice:1087 | m | Life Science | What is the process by which pollen moves from one flower part to another? => pollination
+ncal-novice:1088 | m | Life Science | What is the name of the tiny structure inside a seed that grows into a new plant? => embryo
+ncal-novice:1089 | m | Life Science | What is the term for the scientific classification group that contains similar species, ranking just above species? => genus
+ncal-novice:1090 | m | Life Science | What is the system for naming organisms with a genus and a species called? => binomial nomenclature
+ncal-novice:1091 | m | Life Science | What is the term for the smallest of the seven main levels of classification, a group that can interbreed? => species
+ncal-novice:1092 | m | Life Science | What is the name of the muscle that separates the chest from the abdomen and helps you breathe? => diaphragm
+ncal-novice:1093 | m | Life Science | What is the name of the protective tube through which air passes from the throat to the lungs? => trachea ; windpipe
+ncal-novice:1094 | m | Life Science | What part of the blood carries oxygen using hemoglobin? => red blood cells ; red blood cell ; erythrocytes
+ncal-novice:1095 | m | Life Science | What small structures in blood help it clot? => platelets ; platelet
+ncal-novice:1096 | h | Life Science | What type of tissue connects the muscles to bones? => tendon ; tendons
+ncal-novice:1097 | h | Life Science | What is the term for an organism's physical appearance or observable traits? => phenotype
+ncal-novice:1098 | h | Life Science | What is the term for the genetic makeup of an organism? => genotype
+ncal-novice:1099 | h | Life Science | What is the name of the process in which a cell divides to produce two identical daughter cells? => mitosis
+ncal-novice:1100 | h | Life Science | What are the different forms of a gene called? => alleles ; allele
+ncal-novice:1101 | h | Life Science | What is the name of the sugar produced by photosynthesis? => glucose
+ncal-novice:1102 | h | Life Science | What is the name of the outermost layer of human skin? => epidermis
+ncal-novice:1103 | h | Life Science | What is the name of the process by which plants lose water vapor through their leaves? => transpiration
+ncal-novice:1104 | h | Life Science | What is the name of the kingdom of organisms that includes mushrooms and yeast? => fungi ; fungus
+ncal-novice:1105 | h | Life Science | What is the term for the group of organs that work together to digest food? => digestive system
+ncal-novice:1106 | h | Life Science | What are the chemical messengers produced by glands and carried in the blood called? => hormones ; hormone
+ncal-novice:1107 | BONUS e | Life Science | Answer these questions about the human body.
+    ncal-novice:1107.0 | e | What organ is used for seeing? => eye ; eyes
+    ncal-novice:1107.1 | e | What organ is used for hearing? => ear ; ears
+    ncal-novice:1107.2 | m | What part of the eye controls how much light enters the pupil? => iris
+ncal-novice:1108 | BONUS m | Life Science | Answer these questions about the skeleton and muscles.
+    ncal-novice:1108.0 | e | What are the bones in the spinal column called? => vertebrae ; vertebra
+    ncal-novice:1108.1 | m | What kind of joint is the shoulder? => ball-and-socket joint ; ball and socket
+    ncal-novice:1108.2 | m | What structures attach muscle to bone? => tendons ; tendon
+ncal-novice:1109 | BONUS m | Life Science | Answer these questions about the circulatory system.
+    ncal-novice:1109.0 | e | What type of blood vessel carries blood back to the heart? => vein ; veins
+    ncal-novice:1109.1 | m | What are the tiniest blood vessels, where gases are exchanged? => capillaries ; capillary
+    ncal-novice:1109.2 | m | What fluid part of blood carries cells and nutrients? => plasma
+ncal-novice:1110 | BONUS m | Life Science | Answer these questions about the human digestive system.
+    ncal-novice:1110.0 | e | What organ stores food and mixes it with acid after swallowing? => stomach
+    ncal-novice:1110.1 | m | What organ absorbs most nutrients from food? => small intestine
+    ncal-novice:1110.2 | m | What organ makes bile? => liver
+ncal-novice:1111 | BONUS m | Life Science | Answer these questions about the life cycles of animals.
+    ncal-novice:1111.0 | e | What is the stage of a butterfly in which it is wrapped in a chrysalis? => pupa
+    ncal-novice:1111.1 | m | What is a young frog with gills and a tail called? => tadpole
+    ncal-novice:1111.2 | m | What is the first stage of a mosquito's life cycle, laid on the surface of water? => egg
+ncal-novice:1112 | BONUS m | Life Science | Answer these questions about classification.
+    ncal-novice:1112.0 | e | What is the most general level of classification, such as animals or plants? => kingdom
+    ncal-novice:1112.1 | m | What group of vertebrates includes snakes, lizards, and turtles? => reptiles ; reptile
+    ncal-novice:1112.2 | h | What Swedish botanist created the system of two-part scientific names? => Carl Linnaeus ; Linnaeus
+ncal-novice:1113 | BONUS m | Life Science | Answer these questions about vertebrate groups.
+    ncal-novice:1113.0 | e | What group of vertebrates includes frogs and salamanders? => amphibians ; amphibian
+    ncal-novice:1113.1 | m | What group of vertebrates has feathers? => birds ; bird
+    ncal-novice:1113.2 | m | What group of vertebrates has gills and fins and lives in water? => fish
+ncal-novice:1114 | BONUS m | Life Science | Answer these questions about genetics.
+    ncal-novice:1114.0 | e | What 19th-century monk studied inheritance in pea plants? => Gregor Mendel ; Mendel
+    ncal-novice:1114.1 | m | What type of square is used to predict the results of a genetic cross? => Punnett square
+    ncal-novice:1114.2 | m | What term describes a gene form that is hidden when a dominant form is present? => recessive
+ncal-novice:1115 | BONUS e | Life Science | Answer these questions about plants.
+    ncal-novice:1115.0 | e | What colorful part of a flower attracts pollinators? => petals ; petal
+    ncal-novice:1115.1 | m | What tissue carries water up from the roots of a plant? => xylem
+    ncal-novice:1115.2 | m | What tissue carries sugar down from the leaves of a plant? => phloem
+ncal-novice:1116 | BONUS m | Life Science | Answer these questions about ecosystems.
+    ncal-novice:1116.0 | e | What is a biome with very little rainfall called? => desert
+    ncal-novice:1116.1 | m | What is the term for a biome of cold, treeless land with frozen soil? => tundra
+    ncal-novice:1116.2 | m | What type of forest near the equator receives heavy rainfall all year? => tropical rain forest ; rainforest ; rain forest
+ncal-novice:1117 | BONUS m | Life Science | Answer these questions about cells.
+    ncal-novice:1117.0 | e | What device do scientists use to see cells? => microscope
+    ncal-novice:1117.1 | m | What organelle in animal cells contains digestive enzymes? => lysosome ; lysosomes
+    ncal-novice:1117.2 | h | What organelle is the site of protein building in a cell? => ribosome ; ribosomes
+ncal-novice:1118 | BONUS m | Life Science | Answer these questions about animal behavior.
+    ncal-novice:1118.0 | e | What term describes an animal that sleeps during the day and is awake at night? => nocturnal
+    ncal-novice:1118.1 | m | What is the term for an animal passing the winter in a sleep-like state? => hibernation
+    ncal-novice:1118.2 | m | What is the term for animals traveling long distances each season? => migration
+ncal-novice:1119 | BONUS m | Life Science | Answer these questions about microorganisms.
+    ncal-novice:1119.0 | e | What kind of tiny organism, such as Escherichia coli, has no nucleus and is single-celled? => bacteria ; bacterium
+    ncal-novice:1119.1 | m | What is the name of the Dutch scientist who first observed living microbes with a microscope? => Antonie van Leeuwenhoek ; Leeuwenhoek
+    ncal-novice:1119.2 | m | What type of tiny infectious particle needs a host cell to reproduce? => virus
+ncal-novice:1120 | e | Life Science | What is the name for the process by which a cell takes in water through its membrane from an area of high water concentration? => osmosis
+ncal-novice:1121 | m | Life Science | What type of tissue in the human body carries signals using neurons? => nervous tissue ; nerve tissue
+ncal-novice:1122 | m | Life Science | What is the term for a plant that lives for only one growing season? => annual
+ncal-novice:1123 | e | Life Science | What is the name of the hard outer covering of a crab or lobster? => exoskeleton
+ncal-novice:1124 | m | Life Science | What is the name of the pigment that gives human skin and hair their color? => melanin
+ncal-novice:1125 | e | Life Science | What is the name of a baby kangaroo? => joey
+ncal-novice:1126 | BONUS e | Life Science | Answer these questions about the five senses.
+    ncal-novice:1126.0 | e | What sense organ allows you to smell? => nose
+    ncal-novice:1126.1 | e | What sense organ detects taste? => tongue
+    ncal-novice:1126.2 | m | What part of the ear contains three tiny bones and is called the hammer, anvil, and stirrup? => middle ear
+ncal-novice:1127 | BONUS m | Life Science | Answer these questions about the respiratory system.
+    ncal-novice:1127.0 | e | What organs are the main organs of breathing? => lungs ; lung
+    ncal-novice:1127.1 | m | What tiny air sacs exchange gases with the blood? => alveoli ; alveolus
+    ncal-novice:1127.2 | m | What muscle at the bottom of the chest cavity contracts to pull air in during breathing? => diaphragm
+ncal-novice:1128 | BONUS m | Life Science | Answer these questions about the nervous system.
+    ncal-novice:1128.0 | e | What organ controls the body from inside the skull? => brain
+    ncal-novice:1128.1 | m | What long bundle of nerves runs down the back inside the vertebrae? => spinal cord
+    ncal-novice:1128.2 | m | What is the name of a nerve cell? => neuron ; neurons
+ncal-novice:1129 | BONUS m | Life Science | Answer these questions about reproduction in plants.
+    ncal-novice:1129.0 | e | What structure in a plant holds seeds, such as an apple or a tomato? => fruit
+    ncal-novice:1129.1 | m | What is the female reproductive part of a flower called? => pistil ; carpel
+    ncal-novice:1129.2 | m | What moves pollen from flower to flower, such as bees or the wind? => pollinators ; pollinator
+ncal-novice:1130 | BONUS m | Life Science | Answer these questions about energy in ecosystems.
+    ncal-novice:1130.0 | e | What is the main source of energy for most ecosystems on Earth? => sun ; the sun ; sunlight
+    ncal-novice:1130.1 | m | What kind of organism eats producers, such as a rabbit eating grass? => primary consumer
+    ncal-novice:1130.2 | m | What is the term for an organism that feeds on dead animals, such as a vulture? => scavenger
+ncal-novice:1131 | e | Astronomy | How many planets are in our solar system? => eight ; 8
+ncal-novice:1132 | e | Astronomy | Which planet has the shortest year, taking only about 88 Earth days to orbit the Sun? => Mercury
+ncal-novice:1133 | e | Astronomy | Which planet spins backward compared with most others and has a day longer than its year? => Venus
+ncal-novice:1134 | e | Astronomy | Which planet is so low in density that it would float in water if there were a bathtub big enough? => Saturn
+ncal-novice:1135 | e | Astronomy | Which planet was discovered in 1846 after its position was predicted using mathematics? => Neptune
+ncal-novice:1136 | e | Astronomy | Which astronomer discovered Uranus in 1781? => William Herschel ; Herschel
+ncal-novice:1137 | m | Astronomy | Which moon of Jupiter is covered in ice and is thought to have a liquid ocean beneath its surface? => Europa
+ncal-novice:1138 | m | Astronomy | Which small moon of Saturn shoots geysers of water ice into space? => Enceladus
+ncal-novice:1139 | m | Astronomy | What is the name of Neptune's largest moon? => Triton
+ncal-novice:1140 | m | Astronomy | What is the name of Pluto's largest moon? => Charon
+ncal-novice:1141 | e | Astronomy | What is the name of the dwarf planet found in the asteroid belt? => Ceres
+ncal-novice:1142 | h | Astronomy | What spacecraft, launched in 1977, became the first human-made object to enter interstellar space? => Voyager 1 ; Voyager
+ncal-novice:1143 | m | Astronomy | What spacecraft flew past Pluto in 2015? => New Horizons

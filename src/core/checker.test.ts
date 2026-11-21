@@ -167,10 +167,10 @@ describe('name answers (quizbowl lenient)', () => {
 });
 
 describe('math answers', () => {
-  it('compares forms in NCAL, not values', () => {
+  it('accepts equal values in NCAL, but not an unreduced fraction', () => {
     expect(check('1/2', half, ncal)).toBe('correct');
     expect(check('2/4', half, ncal)).toBe('incorrect');
-    expect(check('0.5', half, ncal)).toBe('incorrect');
+    expect(check('0.5', half, ncal)).toBe('correct');
     expect(check('1 / 2', half, ncal)).toBe('correct');
   });
   it('only accepts listed alternates', () => {
@@ -220,7 +220,7 @@ describe('math answers', () => {
     expect(check('5.0', five, quizbowl)).toBe('correct');
     expect(check('10/2', five, quizbowl)).toBe('correct');
     expect(check('6', five, quizbowl)).toBe('incorrect');
-    expect(check('5.0', five, ncal)).toBe('incorrect');
+    expect(check('5.0', five, ncal)).toBe('correct');
   });
   it('still compares forms in quizbowl when the key is a fraction', () => {
     expect(check('2/4', half, quizbowl)).toBe('incorrect');
@@ -265,5 +265,41 @@ describe('seed data sanity', () => {
         }
       }
     }
+  });
+});
+
+describe('math answer variations', () => {
+  const m = (answer: string) => spec({ answer, answer_type: 'math' });
+  it('accepts "x =" in front of a number, and without it', () => {
+    expect(check('x = 7', m('7'), ncal)).toBe('correct');
+    expect(check('x=7', m('7'), ncal)).toBe('correct');
+    expect(check('7', m('x=7'), ncal)).toBe('correct');
+  });
+  it('accepts equal decimals and fractions, but not an unreduced fraction', () => {
+    expect(check('0.25', m('1/4'), ncal)).toBe('correct');
+    expect(check('.5', m('1/2'), ncal)).toBe('correct');
+    expect(check('1/4', m('0.25'), ncal)).toBe('correct');
+    expect(check('2/4', m('1/2'), ncal)).toBe('incorrect');
+  });
+  it('accepts thousands separators', () => {
+    expect(check('64,000', m('64000'), ncal)).toBe('correct');
+  });
+  it('accepts a coordinate pair without parentheses', () => {
+    expect(check('9, 5', m('(9,5)'), ncal)).toBe('correct');
+    expect(check('(9, 5)', m('(9,5)'), ncal)).toBe('correct');
+  });
+  it('accepts spoken radicals, pi and exponents', () => {
+    expect(check('2 root 2', m('2sqrt(2)'), ncal)).toBe('correct');
+    expect(check('√3/2', m('sqrt(3)/2'), ncal)).toBe('correct');
+    expect(check('36π', m('36pi'), ncal)).toBe('correct');
+    expect(check('36 pi', m('36pi'), ncal)).toBe('correct');
+    expect(check('6e to the x', m('6e^x'), ncal)).toBe('correct');
+    expect(check('5e^5x', m('5e^(5x)'), ncal)).toBe('correct');
+    expect(check('x²+2x', m('x^2+2x'), ncal)).toBe('correct');
+  });
+  it('still rejects wrong answers', () => {
+    expect(check('x = 8', m('7'), ncal)).toBe('incorrect');
+    expect(check('0.3', m('1/4'), ncal)).toBe('incorrect');
+    expect(check('2 root 3', m('2sqrt(2)'), ncal)).toBe('incorrect');
   });
 });

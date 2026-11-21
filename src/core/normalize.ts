@@ -110,7 +110,15 @@ export function normalizeMath(input: string): string {
     .replace(/\*\*/g, '^')
     // radicals: the radical sign, "sqrt3" and "sqrt(3)" are the same form
     .replace(/√\s*(\d+|\([^)]*\))/g, (_m, r: string) => `sqrt(${r.replace(/^\(|\)$/g, '')})`)
-    .replace(/sqrt\s*(\d+)/g, 'sqrt($1)');
+    .replace(/sqrt\s*(\d+)/g, 'sqrt($1)')
+    // spoken radicals: "root 3", "square root of 3"
+    .replace(/(?:square\s*)?root\s*(?:of\s*)?(\d+)/g, 'sqrt($1)')
+    // spoken exponents: "e to the x", "x to the power of 2"
+    .replace(/\s*to the\s*(?:power\s*)?(?:of\s*)?/g, '^')
+    // thousands separators in a plain number: 64,000
+    .replace(/^(-?\d{1,3}(?:,\d{3})+)(\.\d+)?$/, (m) => m.replace(/,/g, ''))
+    // a leading decimal point: .25
+    .replace(/(^|[^\d])\.(\d)/g, '$10.$2');
   // spelled-out numbers -> digits (only word tokens are touched)
   const wordTokens = s.split(/\s+/).filter(Boolean);
   s = convertNumberWords(wordTokens).join(' ');
@@ -118,6 +126,7 @@ export function normalizeMath(input: string): string {
   s = s.replace(/^\+/, '');
   s = s.replace(/(\d)\*([a-z(])/g, '$1$2'); // 2*x -> 2x
   s = s.replace(/(\d)\*(pi|e)\b/g, '$1$2');
+  s = s.replace(/\^\(([^()]+)\)/g, '^$1'); // e^(2x) and e^2x are the same
   return s;
 }
 

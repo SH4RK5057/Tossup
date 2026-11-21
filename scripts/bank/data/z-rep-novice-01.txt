@@ -1,0 +1,93 @@
+# ncal novice | English | English Grammar
+B|m|Answer these questions about punctuation and sentences.
+-|e|What punctuation mark is used to show possession, as in "the dog's bowl"?|apostrophe|
+-|m|What word names a group of words that has its own subject and verb?|clause|
+-|h|What kind of sentence, such as "Close the door," gives a command?|imperative sentence|imperative|command
+
+# ncal novice | English | English Vocabulary
+B|m|Answer these questions about word meanings.
+-|e|What word means the opposite of "ancient"?|modern|new;recent|
+-|m|What word means the same as "enormous"?|huge|giant;gigantic;immense;vast;massive|
+-|h|What word means "to make something less severe or intense," as in to relieve pain?|alleviate|ease;lessen;relieve;mitigate|
+
+# ncal novice | English | Literary Terms
+B|m|Answer these questions about parts of a story.
+-|e|What word names the series of events in a story?|plot|
+-|m|What term names a scene that shows events from earlier than the main story?|flashback|
+-|h|What term names a repeated image, idea, or pattern that develops a major theme?|motif|
+
+# ncal novice | English | Freshman Literature
+B|m|Answer these questions about "Romeo and Juliet."
+-|e|What is the family name of Juliet's family?|Capulet|Capulets;the Capulets|
+-|m|Which hot-tempered cousin of Juliet kills Mercutio?|Tybalt|
+-|h|Which religious man secretly marries Romeo and Juliet?|Friar Laurence|Friar Lawrence;Laurence;Lawrence|
+B|m|Answer these questions about "To Kill a Mockingbird."
+-|e|Which author wrote it?|Harper Lee|Lee|n
+-|m|What is the nickname of the young narrator, whose real first name is Jean Louise?|Scout|
+-|h|Which man, falsely accused of a crime, does the narrator's father defend at trial?|Tom Robinson|Robinson|n
+
+# ncal novice | English | Greek and Roman Mythology
+B|m|Answer these questions about the Trojan War.
+-|e|Which Greek hero was killed by an arrow to his one weak spot?|Achilles|
+-|m|Which woman's abduction started the Trojan War?|Helen|Helen of Troy|
+-|h|Which Trojan prince, son of King Priam, was the greatest Trojan warrior?|Hector|
+B|m|Answer these questions about the underworld.
+-|e|Which god ruled the underworld?|Hades|Pluto|
+-|m|Which river did Charon ferry the dead across?|Styx|River Styx|
+-|h|What name is given to the paradise in the underworld where heroes spend the afterlife?|Elysium|Elysian Fields|
+B|m|Answer these questions about cautionary tales.
+-|e|Which one-eyed giant did Odysseus blind to escape from his cave?|Polyphemus|Cyclops|the Cyclops
+-|m|Which inventor built the Labyrinth for King Minos and made wings for his son?|Daedalus|
+-|h|Which man was condemned to roll a boulder up a hill forever?|Sisyphus|
+B|m|Answer these questions about more Greek gods.
+-|e|Which Greek god wore winged sandals and carried messages for the gods?|Hermes|
+-|m|Which Greek god of fire and the forge was a blacksmith?|Hephaestus|Hephaistos|
+-|h|Which Greek goddess of the hearth and home guarded the family fire?|Hestia|
+
+# ncal novice | Fine Arts | Music Theory and Terms
+B|m|Answer these questions about tempo and rhythm.
+-|e|What symbol at the start of a piece, such as 4/4, tells how many beats are in each bar?|time signature|meter
+-|m|What Italian term means to pluck the strings of a violin instead of using the bow?|pizzicato|f
+-|h|What term names a symbol that indicates a pause in the sound?|rest|
+B|m|Answer these questions about harmony.
+-|e|What term names the distance between one note and the next note of the same name, such as from one C to the next C?|octave|
+-|m|What word names a group of notes arranged in order from low to high, such as do, re, mi?|scale|
+-|h|What word names a three-note chord?|triad|
+
+# ncal novice | Science | Earth Science
+B|m|Answer these questions about volcanoes.
+-|e|What name is given to molten rock once it erupts onto Earth's surface?|lava|
+-|m|What name is given to the ring of volcanoes and earthquake zones around the Pacific Ocean?|Ring of Fire|Pacific Ring of Fire|
+-|h|What name is given to the opening at the top of a volcano where material erupts?|crater|vent|
+B|m|Answer these questions about plate tectonics.
+-|e|What was the name of the single giant supercontinent that broke apart long ago?|Pangaea|Pangea|
+-|m|What name is given to the large slabs of rock that make up Earth's outer shell and move slowly?|tectonic plates|plates;lithospheric plates|
+-|h|What type of plate boundary is the San Andreas Fault, where plates slide past each other?|transform|transform boundary;transform fault|
+
+# ncal novice | Social Science | General
+B|m|Answer these questions about the United States Constitution.
+-|e|What name is given to the first ten amendments?|Bill of Rights|the Bill of Rights|
+-|m|Which branch of government, led by the president, carries out the laws?|executive branch|executive|
+-|h|What power lets courts strike down laws that violate the Constitution?|judicial review|
+B|m|Answer these questions about economics.
+-|e|What word names a place or system where buyers and sellers trade goods?|market|
+-|m|What word names the amount of a good that sellers are willing to offer for sale?|supply|
+-|h|What term names the total value of goods and services a country produces in a year?|gross domestic product|GDP|
+B|m|Answer these questions about geography.
+-|e|What is the largest continent on Earth by area?|Asia|
+-|m|What word names the lines that measure distance north or south of the equator?|latitude|lines of latitude|parallels|
+-|h|What part of a map explains the meaning of its symbols?|legend|key;map key|
+B|m|Answer these questions about human societies.
+-|e|What word names the shared beliefs, customs, and way of life of a group of people?|culture|
+-|m|What word names a group of people living in the same area?|community|
+-|h|What word names the process by which people learn the norms and values of their society?|socialization|
+
+# ncal novice | Social Science | World Cultures
+B|m|Answer these questions about world festivals.
+-|e|In India, which festival of lights is celebrated by Hindus?|Diwali|Deepavali|
+-|m|Which Chinese holiday is marked by dragon dances and red envelopes?|Lunar New Year|Chinese New Year;Spring Festival|
+-|h|Which Islamic holy month involves fasting from dawn until sunset?|Ramadan|
+B|m|Answer these questions about world religions.
+-|e|Which religion's holy book is the Quran?|Islam|Muslim|
+-|m|In which religion do followers follow the teachings of Siddhartha Gautama?|Buddhism|Buddhist|
+-|h|Which religion's followers worship in a gurdwara?|Sikhism|Sikh|

@@ -1,0 +1,18 @@
+[
+  {"id": "ncal-novice:1024", "difficulty": "medium"},
+  {"id": "ncal-novice:1025", "difficulty": "medium"},
+  {"id": "ncal-novice:1026", "difficulty": "medium"},
+  {"id": "ncal-novice:1028.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1029.2", "difficulty": "easy"},
+  {"id": "ncal-novice:1029.4", "difficulty": "medium"},
+  {"id": "ncal-novice:1031.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1032.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1033.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1037.2", "difficulty": "easy"},
+  {"id": "ncal-novice:1037.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1038.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1039.1", "difficulty": "easy"},
+  {"id": "ncal-novice:1040.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1042.3", "difficulty": "medium"},
+  {"id": "ncal-novice:1034.2", "addAlt": ["how's it going", "how are you doing"]}
+]

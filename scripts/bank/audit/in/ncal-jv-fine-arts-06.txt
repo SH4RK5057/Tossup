@@ -1,0 +1,169 @@
+ncal-jv:1211 | BONUS e | French 2 | Answer these questions about places in the city in French.
+    ncal-jv:1211.0 | e | What is the French word for "restaurant"? => le restaurant ; restaurant
+    ncal-jv:1211.1 | e | What is the French word for "movie theater"? => le cinéma ; cinéma ; cinema
+    ncal-jv:1211.2 | m | What is the French word for "bridge"? => le pont ; pont
+    ncal-jv:1211.3 | h | What is the French word for "fountain"? => la fontaine ; fontaine
+ncal-jv:1212 | BONUS m | French 2 | Answer these questions about French adjectives.
+    ncal-jv:1212.0 | e | What does the French adjective "jeune" mean in English? => young
+    ncal-jv:1212.1 | e | What does the French adjective "vieux" mean in English? => old
+    ncal-jv:1212.2 | m | What does the French adjective "gentil" mean in English? => nice ; kind
+    ncal-jv:1212.3 | h | What does the French adjective "paresseux" mean in English? => lazy
+ncal-jv:1213 | BONUS e | French 2 | Answer these questions about French-speaking countries and cities.
+    ncal-jv:1213.0 | e | Which city is the capital of France? => Paris
+    ncal-jv:1213.1 | e | Which country has Brussels as its capital and has French as one of its official languages? => Belgium ; Belgique
+    ncal-jv:1213.2 | m | Which French-speaking Swiss city is home to the United Nations Office in Europe? => Geneva ; Genève
+    ncal-jv:1213.3 | h | Which island nation off the east coast of Africa has Antananarivo as its capital and uses French as an official language? => Madagascar
+ncal-jv:1214 | BONUS m | French 2 | Answer these questions about French pronunciation and spelling.
+    ncal-jv:1214.0 | e | What is the French name for the accent in "café" that slants up to the right? => accent aigu ; acute accent ; aigu
+    ncal-jv:1214.1 | m | What is the French name for the accent in "mère" that slants down to the right? => accent grave ; grave accent ; grave
+    ncal-jv:1214.2 | m | What is the name of the mark under the letter c in "garçon"? => cédille ; cedilla
+    ncal-jv:1214.3 | h | What is the name of the circumflex accent in French, as in "forêt"? => accent circonflexe ; circonflexe ; circumflex
+ncal-jv:1215 | BONUS e | French 2 | Answer these questions about holidays and celebrations in French.
+    ncal-jv:1215.0 | e | What does the French word "Noël" mean in English? => Christmas
+    ncal-jv:1215.1 | e | What does the French word "fête" mean in English? => party ; celebration ; festival ; holiday
+    ncal-jv:1215.2 | m | What does the French phrase "Nouvel An" mean in English? => New Year
+    ncal-jv:1215.3 | m | What is the French phrase for "Happy Birthday"? => joyeux anniversaire ; bon anniversaire
+ncal-jv:1216 | BONUS m | French 2 | Answer these questions about telling time in French.
+    ncal-jv:1216.0 | e | What does the French word "heure" mean in English? => hour ; time ; o'clock
+    ncal-jv:1216.1 | m | What French word means "noon" or "midday"? => midi
+    ncal-jv:1216.2 | m | What French word means "midnight"? => minuit
+    ncal-jv:1216.3 | h | What French word means "half," as in "trois heures et ___"? => demie ; demi
+ncal-jv:1217 | BONUS e | French 2 | Answer these questions about sports in French.
+    ncal-jv:1217.0 | e | What is the French word for "soccer"? => le football ; football ; le foot ; foot
+    ncal-jv:1217.1 | e | What is the French word for "basketball"? => le basket ; basket ; le basket-ball ; basket-ball
+    ncal-jv:1217.2 | m | What is the French word for "swimming"? => la natation ; natation
+    ncal-jv:1217.3 | h | What is the French word for "team"? => l'équipe ; équipe ; equipe
+ncal-jv:1218 | BONUS m | French 2 | Answer these questions about household chores in French.
+    ncal-jv:1218.0 | e | What does the French phrase "faire la vaisselle" mean? Name what is washed. => dishes ; the dishes ; wash the dishes ; washing dishes
+    ncal-jv:1218.1 | m | What French verb means "to sweep"? => balayer
+    ncal-jv:1218.2 | m | What French verb means "to cook"? => cuisiner ; faire la cuisine
+    ncal-jv:1218.3 | h | What French verb means "to set" a table, as in "___ la table"? => mettre
+ncal-jv:1219 | BONUS e | French 2 | Answer these questions about nature in French.
+    ncal-jv:1219.0 | e | What is the French word for "tree"? => l'arbre ; arbre
+    ncal-jv:1219.1 | e | What is the French word for "flower"? => la fleur ; fleur
+    ncal-jv:1219.2 | m | What is the French word for "mountain"? => la montagne ; montagne
+    ncal-jv:1219.3 | h | What is the French word for "river"? => la rivière ; rivière ; le fleuve ; fleuve
+ncal-jv:1220 | BONUS h | French 2 | Answer these questions about stem-changing and irregular present-tense verbs.
+    ncal-jv:1220.0 | e | What is the je form of "mettre"? => mets
+    ncal-jv:1220.1 | m | What is the nous form of "boire"? => buvons
+    ncal-jv:1220.2 | m | What is the tu form of "pouvoir"? => peux
+    ncal-jv:1220.3 | h | What is the ils form of "devoir"? => doivent
+ncal-jv:1221 | BONUS m | French 2 | Answer these questions about French comparatives and superlatives.
+    ncal-jv:1221.0 | e | What French word means "less" in comparisons? => moins
+    ncal-jv:1221.1 | m | What is the comparative form of "mauvais" meaning "worse"? => pire
+    ncal-jv:1221.2 | m | What is the French adverb for "better," as in "Il chante ___"? => mieux
+    ncal-jv:1221.3 | h | What two-word French phrase before an adjective forms "the most," as in "il est ___ grand"? => le plus ; la plus
+ncal-jv:1222 | BONUS e | French 2 | Answer these questions about French classroom vocabulary.
+    ncal-jv:1222.0 | e | What is the French word for "desk"? => le bureau ; bureau ; le pupitre ; pupitre
+    ncal-jv:1222.1 | e | What is the French word for "notebook"? => le cahier ; cahier
+    ncal-jv:1222.2 | m | What is the French word for "eraser"? => la gomme ; gomme
+    ncal-jv:1222.3 | h | What is the French word for "chalkboard"? => le tableau ; tableau
+ncal-jv:1223 | BONUS m | French 2 | Answer these questions about French music and arts words.
+    ncal-jv:1223.0 | e | What is the French word for "painting" as a work of art? => la peinture ; peinture ; le tableau ; tableau
+    ncal-jv:1223.1 | e | What does the French verb "chanter" mean in English? => to sing ; sing
+    ncal-jv:1223.2 | m | What is the French word for "guitar"? => la guitare ; guitare
+    ncal-jv:1223.3 | h | What is the French word for "song"? => la chanson ; chanson
+ncal-jv:1224 | BONUS e | French 2 | Answer these questions about French adverbs and time words.
+    ncal-jv:1224.0 | e | What does the French word "maintenant" mean in English? => now
+    ncal-jv:1224.1 | e | What does the French word "aujourd'hui" mean in English? => today
+    ncal-jv:1224.2 | m | What does the French word "ensuite" mean in English? => then ; next ; afterward
+    ncal-jv:1224.3 | h | What does the French word "pendant" mean in English? => during ; for ; while
+ncal-jv:1225 | BONUS m | French 2 | Answer these questions about the futur proche in French.
+    ncal-jv:1225.0 | e | What verb is used with an infinitive to form the futur proche? => aller
+    ncal-jv:1225.1 | m | What is the nous form of the helper verb in the futur proche? => allons
+    ncal-jv:1225.2 | m | What is the ils form of the helper verb in the futur proche? => vont
+    ncal-jv:1225.3 | h | What is the full futur proche for "I am going to eat," using "manger" and "je"? Give the phrase. => je vais manger ; vais manger
+ncal-jv:1495 | e | Art History | Which Italian artist carved the marble statue "David" in Florence? => Michelangelo
+ncal-jv:1496 | e | Art History | Which French self-taught painter created "The Dream" and "The Sleeping Gypsy," showing lions and jungle plants? => Henri Rousseau ; Rousseau
+ncal-jv:1497 | e | Art History | Claude Monet and Pierre-Auguste Renoir belonged to which art movement named after a Monet painting of a sunrise? => Impressionism ; Impressionist
+ncal-jv:1498 | e | Art History | Which Dutch artist painted "The Night Watch"? => Rembrandt ; Rembrandt van Rijn ; Rembrandt Harmenszoon van Rijn
+ncal-jv:1499 | e | Art History | Which Flemish Baroque painter created "The Descent from the Cross" and large works full of plump, energetic figures? => Peter Paul Rubens ; Rubens
+ncal-jv:1500 | e | Art History | Which Pop artist is famous for his paintings of Campbell's soup cans? => Andy Warhol ; Warhol
+ncal-jv:1501 | m | Art History | Which Dutch painter of "The Laughing Cavalier" was known for lively, loose brushwork? => Frans Hals ; Hals
+ncal-jv:1502 | e | Art History | What painting technique, used for murals, applies paint to wet plaster? => fresco ; buon fresco
+ncal-jv:1503 | e | Art History | Which American painter of "Christina's World" often painted scenes from Maine and Pennsylvania? => Andrew Wyeth ; Wyeth
+ncal-jv:1504 | e | Art History | Which French painter created "A Sunday Afternoon on the Island of La Grande Jatte"? => Georges Seurat ; Seurat
+ncal-jv:1505 | e | Art History | Which Italian painter frescoed the Arena Chapel in Padua? => Giotto ; Giotto di Bondone
+ncal-jv:1506 | e | Art History | Which Spanish artist co-founded Cubism with Georges Braque? => Pablo Picasso ; Picasso
+ncal-jv:1507 | e | Art History | Which painting by Leonardo da Vinci shows Jesus with his twelve apostles at a long table? => The Last Supper ; Last Supper
+ncal-jv:1508 | e | Art History | Which Impressionist elder, born in the Danish West Indies, painted many views of Parisian streets and gardens? => Camille Pissarro ; Pissarro
+ncal-jv:1509 | e | Art History | What term describes an artwork that depicts a particular person, often focusing on the face? => portrait ; portraiture
+ncal-jv:1510 | m | Art History | Which Dutch painter of "The Garden of Earthly Delights" created strange, fantastical scenes of heaven and hell? => Hieronymus Bosch ; Bosch
+ncal-jv:1511 | e | Art History | Which French Neoclassical painter created "The Oath of the Horatii"? => Jacques-Louis David ; David ; Jacques Louis David
+ncal-jv:1512 | e | Art History | Which Venetian painter created "Venus of Urbino" and "Bacchus and Ariadne"? => Titian ; Tiziano Vecellio
+ncal-jv:1513 | h | Art History | Which Flemish painter created "The Descent from the Cross" now in the Prado and studied under Robert Campin? => Rogier van der Weyden ; van der Weyden ; Weyden
+ncal-jv:1514 | e | Art History | Which German Renaissance painter of Wittenberg created portraits of Martin Luther? => Lucas Cranach the Elder ; Cranach ; Lucas Cranach
+ncal-jv:1515 | m | Art History | Which Mexican muralist painted "Man at the Crossroads" for Rockefeller Center before it was destroyed? => Diego Rivera ; Rivera
+ncal-jv:1516 | m | Art History | What Italian term names the strong contrast between light and dark in painting, used by Caravaggio? => chiaroscuro
+ncal-jv:1517 | m | Art History | What technique, used by Georges Seurat, builds an image from tiny dots of pure color? => pointillism ; Pointillism
+ncal-jv:1518 | m | Art History | Which Belgian Surrealist painted a pipe with the caption "This is not a pipe"? => René Magritte ; Magritte ; Rene Magritte
+ncal-jv:1519 | m | Art History | Which Italian painter created "The Birth of Venus"? => Sandro Botticelli ; Botticelli
+ncal-jv:1520 | m | Art History | Which French Post-Impressionist painted "Where Do We Come From? What Are We? Where Are We Going?" after moving to Tahiti? => Paul Gauguin ; Gauguin
+ncal-jv:1521 | m | Art History | Which American realist painted "Nighthawks," set in a late-night diner? => Edward Hopper ; Hopper
+ncal-jv:1522 | e | Art History | Which Austrian Expressionist painted "Death and the Maiden" and angular, distorted nudes? => Egon Schiele ; Schiele
+ncal-jv:1523 | m | Art History | Which Renaissance painter created "The School of Athens" in the Vatican? => Raphael ; Raphael Sanzio ; Raffaello Sanzio
+ncal-jv:1524 | m | Art History | Which Dutch painter created grid-based works such as "Composition with Red, Blue and Yellow"? => Piet Mondrian ; Mondrian
+ncal-jv:1525 | m | Art History | Which American Abstract Expressionist became known for pouring and dripping paint onto canvases laid on the floor? => Jackson Pollock ; Pollock
+ncal-jv:1526 | m | Art History | Marcel Duchamp's "Fountain," a signed urinal, is associated with which anti-art movement? => Dada ; Dadaism
+ncal-jv:1527 | h | Art History | Which Spanish artist painted the dark work "Saturn Devouring His Son"? => Francisco Goya ; Goya ; Francisco de Goya
+ncal-jv:1528 | h | Art History | Which Italian Baroque painter created "Judith Slaying Holofernes" and is known as a leading woman artist of her time? => Artemisia Gentileschi ; Gentileschi
+ncal-jv:1529 | h | Art History | Which French Romantic painted "The Raft of the Medusa"? => Théodore Géricault ; Géricault ; Gericault ; Theodore Gericault
+ncal-jv:1530 | h | Art History | Which Russian painter created "Black Square" and founded Suprematism? => Kazimir Malevich ; Malevich
+ncal-jv:1531 | h | Art History | Which German artist painted "The Ambassadors," with a distorted skull in the foreground? => Hans Holbein ; Holbein ; Hans Holbein the Younger
+ncal-jv:1532 | h | Art History | Umberto Boccioni's sculpture "Unique Forms of Continuity in Space" belongs to which Italian movement that celebrated speed and machines? => Futurism ; Futurist
+ncal-jv:1533 | h | Art History | Which American painter of "Cow's Skull: Red, White, and Blue" is known for enlarged flowers and New Mexico landscapes? => Georgia O'Keeffe ; O'Keeffe ; Georgia O'Keefe
+ncal-jv:1534 | h | Art History | Which British Romantic landscape painter created "The Fighting Temeraire"? => J. M. W. Turner ; Turner ; Joseph Mallord William Turner ; JMW Turner
+ncal-jv:1535 | h | Art History | Which Venetian painter created the mysterious "The Tempest" and died young of plague? => Giorgione
+ncal-jv:1536 | h | Art History | Which English landscape painter created "The Hay Wain"? => John Constable ; Constable
+ncal-jv:1537 | BONUS m | Art History | Answer these questions about European art from 1400 to 1600.
+    ncal-jv:1537.0 | e | Which Italian architect designed the great dome of Florence Cathedral? => Filippo Brunelleschi ; Brunelleschi
+    ncal-jv:1537.1 | m | Which Italian painter and writer wrote "Lives of the Artists"? => Giorgio Vasari ; Vasari
+    ncal-jv:1537.2 | h | What Italian term, meaning "smoky," names the soft blending of tones used by Leonardo da Vinci? => sfumato
+ncal-jv:1538 | BONUS m | Art History | Answer these questions about ancient Greek art.
+    ncal-jv:1538.0 | e | Which sculptor oversaw the sculptures of the Parthenon? => Phidias ; Pheidias
+    ncal-jv:1538.1 | m | The "Venus de Milo" depicts which Greek goddess of love? => Aphrodite
+    ncal-jv:1538.2 | h | What Italian term describes the relaxed, weight-shifting pose seen in classical Greek statues? => contrapposto
+ncal-jv:1539 | BONUS m | Art History | Answer these questions about ancient Egyptian art.
+    ncal-jv:1539.0 | e | What picture-based writing system covers the walls of Egyptian tombs? => hieroglyphs ; hieroglyphics
+    ncal-jv:1539.1 | m | A famous painted limestone bust in Berlin depicts which queen, the wife of Akhenaten? => Nefertiti ; Queen Nefertiti
+    ncal-jv:1539.2 | h | Which young pharaoh's tomb, with its gold funeral mask, was discovered by Howard Carter in 1922? => Tutankhamun ; King Tut ; Tut
+ncal-jv:1540 | BONUS m | Art History | Answer these questions about Vincent van Gogh.
+    ncal-jv:1540.0 | e | Which yellow flowers did van Gogh paint in a series of still lifes in a vase? => sunflowers ; Sunflowers
+    ncal-jv:1540.1 | m | In which southern French town did van Gogh live and paint "The Bedroom"? => Arles
+    ncal-jv:1540.2 | h | In which Dutch village was van Gogh born? => Zundert
+ncal-jv:1541 | BONUS m | Art History | Answer these questions about Pablo Picasso.
+    ncal-jv:1541.0 | e | Picasso's sad, monochrome period from 1901 to 1904 is named for which color? => blue
+    ncal-jv:1541.1 | m | "Guernica" was painted in response to the bombing of a town during which war? => Spanish Civil War
+    ncal-jv:1541.2 | h | Picasso and Braque's Cubism had two phases, the analytic and which other? => synthetic ; synthetic Cubism
+ncal-jv:1542 | BONUS m | Art History | Answer these questions about Michelangelo.
+    ncal-jv:1542.0 | e | His sculpture the "Pietà" shows Mary holding the body of which figure? => Jesus ; Jesus Christ ; Christ
+    ncal-jv:1542.1 | m | In which city-state is the Sistine Chapel located? => Vatican City ; The Vatican ; Vatican
+    ncal-jv:1542.2 | h | Which pope commissioned Michelangelo to paint the Sistine Chapel ceiling? => Julius II ; Pope Julius II ; Julius the Second
+ncal-jv:1543 | BONUS m | Art History | Answer these questions about Caravaggio.
+    ncal-jv:1543.0 | e | Caravaggio worked mostly in which European country, where Rome and Naples are located? => Italy
+    ncal-jv:1543.1 | m | Which painting by Caravaggio shows Jesus pointing to a tax collector in a dim room? => The Calling of Saint Matthew ; Calling of Saint Matthew ; The Calling of Matthew
+    ncal-jv:1543.2 | h | What term describes Caravaggio's dramatic style in which dark shadows dominate and light is used sparingly? => tenebrism
+ncal-jv:1544 | BONUS m | Art History | Answer these questions about famous art museums.
+    ncal-jv:1544.0 | e | In which French city is the Louvre? => Paris
+    ncal-jv:1544.1 | m | In which Spanish city is the Prado Museum? => Madrid
+    ncal-jv:1544.2 | h | In which Italian city is the Uffizi Gallery? => Florence ; Firenze
+ncal-jv:1545 | BONUS m | Art History | Answer these questions about Surrealism.
+    ncal-jv:1545.0 | e | Salvador Dalí was from which European country? => Spain
+    ncal-jv:1545.1 | m | Which French writer wrote the first Manifesto of Surrealism in 1924? => André Breton ; Breton ; Andre Breton
+    ncal-jv:1545.2 | h | Which German Surrealist developed frottage, the technique of rubbing a pencil over a textured surface? => Max Ernst ; Ernst
+ncal-jv:1546 | BONUS m | Art History | Answer these questions about Pop Art.
+    ncal-jv:1546.0 | e | Roy Lichtenstein borrowed his style from which type of printed publication? => comic books ; comics ; comic strips
+    ncal-jv:1546.1 | m | What name is given to the printed dots Lichtenstein imitated in his paintings? => Ben-Day dots ; Benday dots
+    ncal-jv:1546.2 | h | Which Pop artist painted "Flag" in 1954 and later numbers and targets? => Jasper Johns ; Johns
+ncal-jv:1547 | BONUS m | Art History | Answer these questions about medieval art.
+    ncal-jv:1547.0 | e | Pointed arches and large stained glass windows are features of which style of cathedral? => Gothic
+    ncal-jv:1547.1 | m | Monks illuminated manuscripts on pages made from what material, such as vellum? => animal skin ; parchment ; vellum
+    ncal-jv:1547.2 | h | Byzantine mosaics decorate the Hagia Sophia in which modern-day city? => Istanbul ; Constantinople
+ncal-jv:1548 | BONUS m | Art History | Answer these questions about sculpture.
+    ncal-jv:1548.0 | e | Which French sculptor designed the Statue of Liberty? => Frédéric Auguste Bartholdi ; Bartholdi ; Frederic Auguste Bartholdi ; Auguste Bartholdi
+    ncal-jv:1548.1 | m | Which sculptor began carving the presidents on Mount Rushmore? => Gutzon Borglum ; Borglum
+    ncal-jv:1548.2 | h | Which American artist invented the mobile, a hanging sculpture that moves with air currents? => Alexander Calder ; Calder
+ncal-jv:1549 | BONUS m | Art History | Answer these questions about women artists of the Impressionist era.
+    ncal-jv:1549.0 | e | Which Pennsylvania-born artist moved to Paris and exhibited with the Impressionists, often painting mothers and children? => Mary Cassatt ; Cassatt
+    ncal-jv:1549.1 | m | Berthe Morisot married the brother of which fellow painter of "Olympia"? => Édouard Manet ; Manet ; Edouard Manet
+    ncal-jv:1549.2 | h | Which French portraitist painted Queen Marie Antoinette? => Élisabeth Vigée Le Brun ; Vigée Le Brun ; Elisabeth Vigee Le Brun ; Vigee Le Brun

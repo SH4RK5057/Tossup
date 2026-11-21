@@ -1,0 +1,21 @@
+# ncal novice | English | Literary Terms
+e|Which term describes a phrase whose meaning differs from its literal words, such as "it is raining cats and dogs"?|idiom|idioms|
+m|Which figure of speech gives human qualities to a non-human thing, as in "the wind whispered through the trees"?|personification|
+m|Which term describes a word that imitates the sound it names, such as "buzz" or "sizzle"?|onomatopoeia|
+# ncal novice | Science | Earth Science
+e|Which instrument measures air pressure?|barometer|
+m|Which type of front forms when a cold air mass pushes under a warm air mass and often brings sudden storms?|cold front|
+m|What is the term for a naturally occurring, inorganic solid with a definite chemical composition and crystal structure, such as quartz?|mineral|
+h|What is the name for an underground layer of rock or sediment that holds groundwater and lets it flow to wells?|aquifer|
+e|What is the name for a crack in Earth's crust along which rocks have moved?|fault|faults|
+# ncal novice | Social Science | General
+e|What is a person who flees their country to escape war or persecution called?|refugee|
+e|Which form of government is led by a king or queen?|monarchy|
+m|What is the term for a person or business that makes goods or provides services to sell?|producer|producers
+e|In which form of government do citizens vote for their leaders?|democracy|
+e|What part of a map shows the directions north, south, east, and west?|compass rose|
+m|What term describes judging another culture by the standards of your own culture?|ethnocentrism|
+m|What is the term for a person who buys and uses goods and services?|consumer|consumers|
+e|What term describes areas of countryside with farms and few people, as opposed to cities?|rural|
+m|What is the term for a government in which one ruler holds all power, without being limited by voters?|dictatorship|autocracy;authoritarian|
+h|What term describes the average amount of something for each person, as in income calculated for each person in a country?|per capita|

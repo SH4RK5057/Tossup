@@ -150,16 +150,36 @@ function numericValue(s: string): number | null {
   return null;
 }
 
-function checkMath(typedRaw: string, spec: AnswerSpec, strict: boolean): CheckResult {
+/** "2/4" is equal to 1/2 but not in lowest terms; a typed fraction must be reduced. */
+function unreducedFraction(s: string): boolean {
+  const m = /^(-?\d+)\/(\d+)$/.exec(s);
+  if (!m) return false;
+  const gcd = (a: number, b: number): number => (b ? gcd(b, a % b) : Math.abs(a));
+  return gcd(Number(m[1]), Number(m[2])) > 1;
+}
+
+function checkMath(typedRaw: string, spec: AnswerSpec, _strict: boolean): CheckResult {
   const keys = candidates(spec).map(normalizeMath);
   const keyHasDigit = keys.some((k) => /\d/.test(k));
-  const t = normalizeMath(keyHasDigit ? stripTrailingUnits(typedRaw) : typedRaw);
-  if (!t) return 'incorrect';
-  if (keys.includes(t)) return 'correct';
-  if (promptMatches(t, spec, normalizeMath)) return 'prompt';
-  if (!strict && NUMBER.test(keys[0])) {
-    const tv = numericValue(t);
-    if (tv !== null && Math.abs(tv - Number(keys[0])) < 1e-9) return 'correct';
+  const t0 = normalizeMath(keyHasDigit ? stripTrailingUnits(typedRaw) : typedRaw);
+  if (!t0) return 'incorrect';
+  // "x = 7" is the same answer as "7" (and the other way round).
+  const assigned = /^[a-z]=(.+)$/.exec(t0);
+  const forms = assigned ? [t0, assigned[1]] : [t0];
+  // A coordinate pair typed without its parentheses: 9,5 for (9,5).
+  if (/^-?[\d.]+(\/\d+)?,-?[\d.]+(\/\d+)?$/.test(t0)) forms.push(`(${t0})`);
+  for (const t of forms) {
+    if (keys.includes(t) || keys.some((k) => k === `x=${t}` || k === `y=${t}`)) return 'correct';
+  }
+  if (forms.some((t) => promptMatches(t, spec, normalizeMath))) return 'prompt';
+  // Equal values count (0.25 for 1/4, .5 for 1/2), but a fraction must be in lowest terms.
+  if (NUMBER.test(keys[0]) || /^-?\d+\/\d+$/.test(keys[0])) {
+    const keyValue = numericValue(keys[0]);
+    for (const t of forms) {
+      const tv = numericValue(t);
+      if (keyValue !== null && tv !== null && Math.abs(tv - keyValue) < 1e-9
+        && !(unreducedFraction(t) && !Number.isInteger(keyValue))) return 'correct';
+    }
   }
   return 'incorrect'; // forms are compared, not values; no typo tolerance
 }

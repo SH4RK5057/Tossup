@@ -1,0 +1,172 @@
+ncal-novice:1144 | m | Astronomy | What is the name of the NASA rover that landed on Mars in 2021 with a small helicopter called Ingenuity? => Perseverance
+ncal-novice:1145 | e | Astronomy | What American astronomer discovered that the universe is expanding? => Edwin Hubble ; Hubble
+ncal-novice:1146 | m | Astronomy | What infrared space telescope, launched in 2021, is named for a NASA administrator? => the James Webb Space Telescope ; James Webb ; Webb Space Telescope ; JWST ; James Webb Space Telescope
+ncal-novice:1147 | e | Astronomy | What is the name of the large orbiting laboratory where astronauts from many countries live and work? => the International Space Station ; International Space Station ; ISS
+ncal-novice:1148 | e | Astronomy | Who was the first woman to travel into space, in 1963? => Valentina Tereshkova ; Tereshkova
+ncal-novice:1149 | m | Astronomy | Who was the first American woman in space? => Sally Ride ; Ride
+ncal-novice:1150 | m | Astronomy | Which Apollo mission had an oxygen tank explode, forcing the crew to return without landing on the Moon? => Apollo 13
+ncal-novice:1151 | m | Astronomy | What unit of distance is equal to the average distance from Earth to the Sun? => astronomical unit ; AU ; an astronomical unit
+ncal-novice:1152 | m | Astronomy | About how many minutes does light from the Sun take to reach Earth? => eight ; 8 ; about eight ; eight minutes ; 8 minutes
+ncal-novice:1153 | e | Astronomy | What is the name of the bright star that is nearly aligned with Earth's north pole and is also called the North Star? => Polaris ; the North Star ; North Star
+ncal-novice:1154 | e | Astronomy | What is the brightest star in Earth's night sky? => Sirius
+ncal-novice:1155 | m | Astronomy | What is the name of the red supergiant star that marks the shoulder of Orion? => Betelgeuse
+ncal-novice:1156 | e | Astronomy | Which constellation contains a famous belt of three stars? => Orion
+ncal-novice:1157 | m | Astronomy | The Big Dipper is part of which larger constellation, whose name means "Great Bear"? => Ursa Major
+ncal-novice:1158 | e | Astronomy | Which twelve constellations form the band of sky through which the Sun appears to move over a year? => the zodiac ; zodiac
+ncal-novice:1159 | m | Astronomy | What term describes the day of the year with the most hours of daylight in the Northern Hemisphere? => summer solstice ; June solstice ; solstice
+ncal-novice:1160 | e | Astronomy | What term describes a large cloud of gas and dust in space where stars are born? => nebula
+ncal-novice:1161 | m | Astronomy | What is the name of the stage in which a star like the Sun spends most of its life, fusing hydrogen in its core? => main sequence
+ncal-novice:1162 | m | Astronomy | What type of star will the Sun become after it uses up the hydrogen in its core? => red giant
+ncal-novice:1163 | m | Astronomy | What name is given to the model in which the Sun is at the center of the solar system? => heliocentric ; heliocentric model
+ncal-novice:1164 | m | Astronomy | Which ancient Greek astronomer wrote the Almagest and described an Earth-centered universe? => Ptolemy ; Claudius Ptolemy
+ncal-novice:1165 | m | Astronomy | Which Danish astronomer made precise naked-eye observations of the planets that Kepler later used? => Tycho Brahe ; Brahe
+ncal-novice:1166 | m | Astronomy | Which scientist developed the theory of general relativity? => Albert Einstein ; Einstein
+ncal-novice:1167 | h | Astronomy | What faint glow of radiation left over from the early universe is detected in every direction in the sky? => cosmic microwave background ; CMB ; cosmic background radiation
+ncal-novice:1168 | h | Astronomy | What invisible substance, making up about a quarter of the universe, is detected only by its gravity? => dark matter
+ncal-novice:1169 | h | Astronomy | What mysterious force is thought to be causing the expansion of the universe to speed up? => dark energy
+ncal-novice:1170 | h | Astronomy | What term describes an extremely bright galactic center powered by a supermassive black hole? => quasar ; active galactic nucleus
+ncal-novice:1171 | h | Astronomy | Which British astronomer discovered the first pulsars in 1967? => Jocelyn Bell Burnell ; Bell Burnell ; Jocelyn Bell
+ncal-novice:1172 | m | Astronomy | What type of tide, with the greatest range, occurs when the Sun, Earth, and Moon are in a line? => spring tide ; spring tides
+ncal-novice:1173 | m | Astronomy | What is the term for the way the Moon always shows the same face to Earth, because its rotation matches its orbit? => synchronous rotation ; tidal locking ; tidally locked
+ncal-novice:1174 | m | Astronomy | What is the name of the bowl-shaped features on the Moon caused by meteorite impacts? => craters ; lunar craters ; crater
+ncal-novice:1175 | m | Astronomy | What phase of the Moon comes right after the first quarter? => waxing gibbous
+ncal-novice:1176 | m | Astronomy | What is the name for a huge eruption of charged particles from the Sun's surface? => coronal mass ejection ; CME ; solar flare
+ncal-novice:1177 | h | Astronomy | About how long is the cycle in which sunspot numbers rise and fall? => eleven years ; 11 years ; 11
+ncal-novice:1178 | h | Astronomy | About how hot is the core of the Sun, in degrees Celsius? => 15 million ; 15 million degrees ; 15 million degrees Celsius ; fifteen million
+ncal-novice:1179 | m | Astronomy | Which comet returns to the inner solar system about every 76 years? => Halley's Comet ; Halley ; Comet Halley
+ncal-novice:1180 | m | Astronomy | In which direction does a comet's tail always point relative to the Sun: toward it or away from it? => away from it ; away ; away from the Sun
+ncal-novice:1181 | m | Astronomy | What meteor shower, seen every August, appears to come from the constellation Perseus? => Perseids ; the Perseids ; Perseid meteor shower
+ncal-novice:1182 | h | Astronomy | Which meteor shower, seen every December, appears to radiate from the constellation Gemini? => Geminids ; the Geminids
+ncal-novice:1183 | m | Astronomy | What dwarf planet in the Kuiper Belt is slightly more massive than Pluto? => Eris
+ncal-novice:1184 | m | Astronomy | Which planet's reddish color comes from iron oxide, or rust, on its surface? => Mars
+ncal-novice:1185 | m | Astronomy | What is the name of the enormous canyon system on Mars, about 4,000 kilometers long? => Valles Marineris
+ncal-novice:1186 | m | Astronomy | What acid makes up the clouds of Venus? => sulfuric acid
+ncal-novice:1187 | h | Astronomy | What is the term for heat being trapped by a thick atmosphere, which makes Venus so hot? => greenhouse effect
+ncal-novice:1188 | m | Astronomy | Which planet has the fastest rotation, with a day of about ten hours? => Jupiter
+ncal-novice:1189 | h | Astronomy | What gas in the atmosphere of Uranus and Neptune absorbs red light and gives them a blue color? => methane
+ncal-novice:1190 | m | Astronomy | Which planet has the strongest winds in the solar system? => Neptune
+ncal-novice:1191 | e | Astronomy | What type of telescope uses lenses to collect light? => refracting telescope ; refractor
+ncal-novice:1192 | e | Astronomy | What type of telescope uses a curved mirror to collect light? => reflecting telescope ; reflector
+ncal-novice:1193 | m | Astronomy | What type of telescope detects waves with wavelengths much longer than visible light and often uses a large dish? => radio telescope
+ncal-novice:1194 | m | Astronomy | What Hawaiian volcano is home to many of the world's major observatories? => Mauna Kea
+ncal-novice:1195 | h | Astronomy | What is the apparent shift in a nearby star's position when seen from opposite sides of Earth's orbit? => parallax ; stellar parallax
+ncal-novice:1196 | m | Astronomy | What is the name of the supermassive black hole at the center of the Milky Way? => Sagittarius A* ; Sagittarius A ; Sgr A*
+ncal-novice:1197 | m | Astronomy | What famous open cluster of stars, also called the Seven Sisters, is in Taurus? => Pleiades ; the Pleiades
+ncal-novice:1198 | m | Astronomy | What nebula in Taurus is the remains of a supernova seen by Chinese astronomers in 1054? => Crab Nebula ; the Crab Nebula
+ncal-novice:1199 | e | Astronomy | What name is given to the rocket that carried Apollo astronauts toward the Moon? => Saturn V ; Saturn 5
+ncal-novice:1200 | m | Astronomy | What was the first space station launched by the United States, in 1973? => Skylab
+ncal-novice:1201 | m | Astronomy | What Russian space station orbited Earth from 1986 to 2001? => Mir
+ncal-novice:1202 | e | Astronomy | What word describes a star's color that means it is the hottest: red, yellow, or blue? => blue
+ncal-novice:1203 | m | Astronomy | What kind of orbit lets a satellite stay above the same spot on Earth's equator? => geostationary orbit ; geostationary ; geosynchronous
+ncal-novice:1204 | BONUS e | Astronomy | Answer these questions about the Sun.
+    ncal-novice:1204.0 | e | What is the name for the dark, cooler patches that appear on the Sun's surface? => sunspots ; sunspot
+    ncal-novice:1204.1 | m | What is the name of the Sun's visible surface layer? => photosphere ; the photosphere
+    ncal-novice:1204.2 | m | What process in the Sun's core fuses hydrogen nuclei into helium? => nuclear fusion ; fusion
+    ncal-novice:1204.3 | h | What is the name of the Sun's outer atmosphere, seen as a halo during a total solar eclipse? => corona ; the corona
+ncal-novice:1205 | BONUS e | Astronomy | Answer these questions about the Moon.
+    ncal-novice:1205.0 | e | What is the term for the changing shapes of the Moon as seen from Earth? => phases ; phases of the Moon ; lunar phases
+    ncal-novice:1205.1 | m | What name is given to the large, dark plains on the Moon formed by ancient lava flows? => maria ; mare
+    ncal-novice:1205.2 | m | Which Apollo mission was the first to land humans on the Moon? => Apollo 11
+    ncal-novice:1205.3 | h | What do we call the surface layer of loose dust and rock fragments on the Moon? => regolith
+ncal-novice:1206 | BONUS e | Astronomy | Answer these questions about the inner planets.
+    ncal-novice:1206.0 | e | Which planet is the third from the Sun? => Earth
+    ncal-novice:1206.1 | e | Which is the smallest planet in the solar system? => Mercury
+    ncal-novice:1206.2 | m | Which planet is the hottest in the solar system? => Venus
+    ncal-novice:1206.3 | h | What term names the four rocky planets closest to the Sun? => terrestrial planets ; inner planets ; rocky planets
+ncal-novice:1207 | BONUS m | Astronomy | Answer these questions about Saturn.
+    ncal-novice:1207.0 | e | What feature of Saturn is made of countless pieces of ice and rock? => rings ; its rings
+    ncal-novice:1207.1 | m | Which of Saturn's moons has a thick nitrogen atmosphere? => Titan
+    ncal-novice:1207.2 | m | Which Italian astronomer first saw Saturn's strange "ears" in 1610 but did not understand what they were? => Galileo Galilei ; Galileo
+    ncal-novice:1207.3 | h | What NASA and European mission studied Saturn from orbit from 2004 to 2017? => Cassini ; Cassini-Huygens
+ncal-novice:1208 | BONUS e | Astronomy | Answer these questions about the Apollo program.
+    ncal-novice:1208.0 | e | Which Apollo 11 astronaut was the first to step onto the Moon? => Neil Armstrong ; Armstrong
+    ncal-novice:1208.1 | m | Which Apollo 11 astronaut stepped onto the Moon second? => Buzz Aldrin ; Aldrin
+    ncal-novice:1208.2 | m | Which Apollo 11 astronaut stayed in orbit in the command module? => Michael Collins ; Collins
+    ncal-novice:1208.3 | h | What was the name of the Apollo 11 lunar module? => Eagle ; the Eagle
+ncal-novice:1209 | BONUS m | Astronomy | Answer these questions about the life of stars.
+    ncal-novice:1209.0 | e | What word names the explosion of a massive star at the end of its life? => supernova
+    ncal-novice:1209.1 | m | What dense object is left behind when a massive star collapses but not enough to form a black hole? => neutron star
+    ncal-novice:1209.2 | m | What small, hot, dim remnant is left by a Sun-like star after it sheds its outer layers? => white dwarf
+    ncal-novice:1209.3 | h | What rapidly rotating stellar remnant sends out beams of radio waves that sweep past Earth? => pulsar
+ncal-novice:1210 | BONUS m | Astronomy | Answer these questions about astronomers.
+    ncal-novice:1210.0 | e | Which Italian scientist used a telescope to discover the four largest moons of Jupiter? => Galileo Galilei ; Galileo
+    ncal-novice:1210.1 | m | Which Polish astronomer proposed a Sun-centered model of the universe in 1543? => Nicolaus Copernicus ; Copernicus
+    ncal-novice:1210.2 | m | Which German astronomer discovered that the planets move in elliptical orbits? => Johannes Kepler ; Kepler
+    ncal-novice:1210.3 | h | Which American astronomer's name was given to the telescope launched in 1990? => Edwin Hubble ; Hubble
+ncal-novice:1211 | BONUS e | Astronomy | Answer these questions about the dwarf planets.
+    ncal-novice:1211.0 | e | Which dwarf planet was called the ninth planet until 2006? => Pluto
+    ncal-novice:1211.1 | m | What distant region beyond Neptune is full of icy bodies? => Kuiper Belt ; the Kuiper Belt
+    ncal-novice:1211.2 | m | Which group voted in 2006 on the official definition of a planet? => International Astronomical Union ; the International Astronomical Union ; IAU
+    ncal-novice:1211.3 | h | Which dwarf planet in the scattered disk, discovered in 2005, helped lead to that vote? => Eris
+ncal-novice:1212 | BONUS m | Astronomy | Answer these questions about gravity and orbits.
+    ncal-novice:1212.0 | e | Which English scientist described the law of universal gravitation? => Isaac Newton ; Newton
+    ncal-novice:1212.1 | m | What shape are planetary orbits, according to Kepler? => ellipses ; ellipse ; elliptical
+    ncal-novice:1212.2 | m | What is the name for the point in a planet's orbit when it is closest to the Sun? => perihelion
+    ncal-novice:1212.3 | h | What is the name for the point in a planet's orbit when it is farthest from the Sun? => aphelion
+ncal-novice:1213 | BONUS e | Astronomy | Answer these questions about Earth's motions.
+    ncal-novice:1213.0 | e | What is the name for Earth's turning once every 24 hours? => rotation
+    ncal-novice:1213.1 | m | What is the name for Earth's yearly trip around the Sun? => revolution ; orbit
+    ncal-novice:1213.2 | m | About how many degrees is Earth's axis tilted: 23.5 or 45? => 23.5 ; 23.5 degrees ; twenty-three and a half
+    ncal-novice:1213.3 | h | What term refers to the two days each year when day and night are equal in length? => equinox ; equinoxes
+ncal-novice:1214 | BONUS m | Astronomy | Answer these questions about the gas giants.
+    ncal-novice:1214.0 | e | Which gas giant has a famous storm called the Great Red Spot? => Jupiter
+    ncal-novice:1214.1 | m | Which gas giant is tilted on its side so that it seems to roll around the Sun? => Uranus
+    ncal-novice:1214.2 | m | Which gas giant is the farthest from the Sun? => Neptune
+    ncal-novice:1214.3 | h | What two elements make up most of the atmosphere of Saturn? => hydrogen and helium ; helium and hydrogen
+ncal-novice:1215 | BONUS e | Astronomy | Answer these questions about early spaceflight.
+    ncal-novice:1215.0 | e | What was the name of the first artificial satellite, launched in 1957? => Sputnik ; Sputnik 1
+    ncal-novice:1215.1 | m | Which Soviet cosmonaut was the first person in space? => Yuri Gagarin ; Gagarin
+    ncal-novice:1215.2 | m | Which American astronaut was the first American to orbit Earth? => John Glenn ; Glenn
+    ncal-novice:1215.3 | h | Which American astronaut became the first American in space in 1961 on a suborbital flight? => Alan Shepard ; Shepard
+ncal-novice:1216 | BONUS m | Astronomy | Answer these questions about galaxies.
+    ncal-novice:1216.0 | e | What is the name of the pale band of stars seen across the night sky from Earth? => the Milky Way ; Milky Way
+    ncal-novice:1216.1 | m | What supermassive objects lie at the centers of most large galaxies? => black holes ; black hole
+    ncal-novice:1216.2 | m | What is the nearest large spiral galaxy to ours? => Andromeda ; the Andromeda Galaxy
+    ncal-novice:1216.3 | h | What is the name for the theory that the universe began in a hot, dense state and has been expanding ever since? => Big Bang theory ; the Big Bang ; Big Bang
+ncal-novice:1217 | BONUS e | Astronomy | Answer these questions about small bodies in space.
+    ncal-novice:1217.0 | e | What do we call a streak of light made by a small piece of space debris burning in the atmosphere? => meteor ; shooting star
+    ncal-novice:1217.1 | m | What do we call a space rock that survives its fall and lands on Earth? => meteorite
+    ncal-novice:1217.2 | m | Which icy body forms a glowing tail as it nears the Sun? => comet
+    ncal-novice:1217.3 | h | What region between Mars and Jupiter holds most asteroids? => the asteroid belt ; asteroid belt
+ncal-novice:1218 | BONUS m | Astronomy | Answer these questions about eclipses.
+    ncal-novice:1218.0 | e | What kind of eclipse occurs when the Moon moves between Earth and the Sun? => solar eclipse ; solar
+    ncal-novice:1218.1 | m | What kind of eclipse occurs when Earth's shadow falls on the Moon? => lunar eclipse ; lunar
+    ncal-novice:1218.2 | m | What is the darkest part of a shadow called? => umbra
+    ncal-novice:1218.3 | h | What is the lighter outer part of a shadow called? => penumbra
+ncal-novice:1219 | BONUS m | Astronomy | Answer these questions about Mars.
+    ncal-novice:1219.0 | e | What is the name of Mars's larger moon? => Phobos
+    ncal-novice:1219.1 | m | What is the name of the tallest volcano in the solar system? => Olympus Mons
+    ncal-novice:1219.2 | m | What is the name of the NASA rover that landed in 2012? => Curiosity
+    ncal-novice:1219.3 | h | What is the name of the system of canyons on Mars? => Valles Marineris
+ncal-novice:1220 | BONUS m | Astronomy | Answer these questions about the constellations.
+    ncal-novice:1220.0 | e | Which constellation contains Sirius, the Dog Star? => Canis Major
+    ncal-novice:1220.1 | m | What constellation contains the northern pole star? => Ursa Minor ; Little Dipper
+    ncal-novice:1220.2 | m | Which constellation looks like a scorpion and contains the red star Antares? => Scorpius
+    ncal-novice:1220.3 | h | Which constellation shaped like a W or M has a queen's name? => Cassiopeia
+ncal-novice:1221 | BONUS e | Astronomy | Answer these questions about telescopes.
+    ncal-novice:1221.0 | e | Which Hawaiian peak, over 4,000 meters tall, is a top site for observatories? => Mauna Kea
+    ncal-novice:1221.1 | m | What kind of telescope collects light with a curved mirror? => reflecting telescope ; reflector
+    ncal-novice:1221.2 | m | What space telescope was launched in 1990 and repaired by shuttle astronauts? => Hubble Space Telescope ; Hubble
+    ncal-novice:1221.3 | h | What kind of telescope detects waves such as those used by satellite dishes? => radio telescope
+ncal-novice:1222 | e | Earth Science | Which layer of Earth is the thin, rocky outer shell on which we live? => crust ; the crust
+ncal-novice:1223 | m | Earth Science | Which layer of Earth is liquid and made mostly of molten iron and nickel? => outer core
+ncal-novice:1224 | m | Earth Science | Which part of Earth is a solid ball of iron and nickel at the very center? => inner core
+ncal-novice:1225 | m | Earth Science | What name is given to the rigid outer layer of Earth made up of the crust and uppermost mantle? => lithosphere
+ncal-novice:1226 | h | Earth Science | What name is given to the soft, slowly flowing layer of the mantle just below the lithosphere? => asthenosphere
+ncal-novice:1227 | e | Earth Science | What German scientist proposed the idea of continental drift in 1912? => Alfred Wegener ; Wegener
+ncal-novice:1228 | e | Earth Science | What was the name of the supercontinent that existed about 250 million years ago? => Pangaea ; Pangea
+ncal-novice:1229 | m | Earth Science | What type of plate boundary is formed where two plates move apart? => divergent boundary ; divergent ; divergent plate boundary
+ncal-novice:1230 | m | Earth Science | What type of plate boundary is formed where two plates slide past each other? => transform boundary ; transform ; transform plate boundary
+ncal-novice:1231 | m | Earth Science | What famous California fault is a transform boundary between the Pacific and North American plates? => the San Andreas Fault ; San Andreas Fault ; San Andreas
+ncal-novice:1232 | e | Earth Science | What is the process in which one tectonic plate sinks beneath another? => subduction
+ncal-novice:1233 | e | Earth Science | What horseshoe-shaped zone around the Pacific Ocean has many earthquakes and volcanoes? => the Ring of Fire ; Ring of Fire
+ncal-novice:1234 | e | Earth Science | What mountain range formed when the Indian plate collided with the Eurasian plate? => Himalayas ; the Himalayas
+ncal-novice:1235 | e | Earth Science | What is the name of the instrument that records the shaking of the ground during an earthquake? => seismograph ; seismometer
+ncal-novice:1236 | e | Earth Science | What is the point on Earth's surface directly above the place where an earthquake begins? => epicenter ; the epicenter
+ncal-novice:1237 | m | Earth Science | What is the underground point where an earthquake rupture begins? => focus ; hypocenter
+ncal-novice:1238 | m | Earth Science | What type of seismic wave is the fastest and arrives first? => P wave ; primary wave ; P waves ; primary waves
+ncal-novice:1239 | h | Earth Science | What scale, developed in 1935 by an American seismologist, was once the standard for earthquake magnitude? => Richter scale ; the Richter scale ; Richter
+ncal-novice:1240 | e | Earth Science | What is the name of the giant ocean wave caused by an undersea earthquake? => tsunami
+ncal-novice:1241 | e | Earth Science | What is molten rock called when it is still beneath Earth's surface? => magma
+ncal-novice:1242 | e | Earth Science | What is molten rock called when it flows out onto Earth's surface? => lava
+ncal-novice:1243 | m | Earth Science | What type of volcano, such as Mauna Loa in Hawaii, has broad, gently sloping sides? => shield volcano ; shield

@@ -1,0 +1,28 @@
+# ncal varsity | English | English Literature
+e|In which George Bernard Shaw play does phonetics professor Henry Higgins teach a flower girl to speak like a lady?|Pygmalion||
+m|Which English author wrote The Jungle Book, which follows the boy Mowgli?|Rudyard Kipling|Kipling|n
+m|Which poet and engraver wrote the collections Songs of Innocence and Songs of Experience, including the poem "The Tyger"?|William Blake|Blake|n
+h|Which author compiled the 1755 work A Dictionary of the English Language?|Samuel Johnson|Johnson|n dup
+# ncal varsity | Fine Arts | Architecture
+e|What name is given to the exterior arched supports that let Gothic cathedrals have tall walls with large windows?|flying buttresses|flying buttress;buttress;buttresses|
+m|What is the wedge-shaped stone at the top center of an arch that locks the other stones in place?|keystone|key stone|
+h|Which Los Angeles concert hall, home of the Los Angeles Philharmonic, has a stainless-steel exterior designed by Frank Gehry?|Walt Disney Concert Hall|Disney Hall;Walt Disney Hall|
+# ncal varsity | Fine Arts | Operas and Musicals
+e|Which musical, set in Greece and built around songs by ABBA, follows Sophie as she tries to find her father before her wedding?|Mamma Mia|Mamma Mia!|
+e|In which musical does matchmaker Dolly Levi travel to Yonkers, New York?|Hello, Dolly!|Hello Dolly|
+m|Which Kern and Hammerstein musical features the song "Ol' Man River" and takes place on a Mississippi riverboat?|Show Boat|Showboat|
+m|Which musical about Don Quixote includes the song "The Impossible Dream"?|Man of La Mancha||
+m|Which musical, set during the Vietnam War, retells the story of Madama Butterfly?|Miss Saigon||
+h|Which songwriting duo wrote Oklahoma!, Carousel, and The Sound of Music?|Rodgers and Hammerstein|Richard Rodgers and Oscar Hammerstein;Rodgers & Hammerstein|
+# ncal varsity | Science | Biology 2
+e|Which cell structure, made of RNA and protein, is the site of protein synthesis?|ribosome|ribosomes|
+m|Which type of cell division produces four genetically different haploid cells and includes crossing over?|meiosis||
+m|Which organelle, filled with digestive enzymes, breaks down worn-out cell parts and ingested material?|lysosome|lysosomes|
+h|During which phase of interphase is DNA replicated?|S phase|synthesis phase;S;synthesis|
+# ncal varsity | Social Science | U.S. Government
+e|Which 1798 laws, passed under President John Adams, made it a crime to criticize the federal government?|Alien and Sedition Acts|Sedition Acts;Alien and Sedition Act|
+m|Which amendment changed the Electoral College so that electors cast separate votes for President and Vice President?|Twelfth Amendment|12th Amendment|
+m|Which clause of the Fourteenth Amendment guarantees all people the same protection of the laws and was central to Brown versus Board of Education?|Equal Protection Clause|equal protection|
+m|In which 1989 Supreme Court case was burning an American flag as political protest ruled protected speech?|Texas versus Johnson|Texas v. Johnson|
+h|Which president's Great Society programs included Medicare and Medicaid?|Lyndon Johnson|Lyndon B. Johnson;LBJ;Johnson|n=Johnson
+h|In which 1965 case did the Supreme Court find a constitutional right to privacy, striking down a Connecticut ban on contraceptives?|Griswold versus Connecticut|Griswold v. Connecticut;Griswold|

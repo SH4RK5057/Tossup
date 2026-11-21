@@ -1,0 +1,5752 @@
+[
+ {
+  "match": "In \"Little Women,\" what is the name of the sister who loves writing and has short hair?",
+  "addAlt": [
+   "Josephine March",
+   "Josephine"
+  ]
+ },
+ {
+  "match": "Who wrote the play \"Our Town\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"A Raisin in the Sun\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Their Eyes Were Watching God\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Invisible Man\"?",
+  "difficulty": "medium",
+  "setText": "Who wrote the American novel \"Invisible Man,\" about an unnamed Black narrator in the early 20th century?"
+ },
+ {
+  "match": "Who wrote the novel \"Native Son\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Uncle Tom's Cabin\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Ethan Frome\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"The Yearling\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Where the Red Fern Grows\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the story \"The Lottery\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Who wrote the story \"The Gift of the Magi\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Who wrote the short story \"The Most Dangerous Game\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "In \"Huckleberry Finn,\" what is the name of the enslaved man who travels down the river wit",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which river do Huck and Jim travel down on their raft?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"The Scarlet Letter,\" what is the name of the main character who is forced to wear a sc",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"The Great Gatsby,\" what is the first name of the woman Gatsby loves?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"The Great Gatsby,\" what color is the light at the end of Daisy's dock?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"To Kill a Mockingbird,\" what is the name of the reclusive neighbor who leaves gifts in",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Who wrote the novel \"Animal Farm,\" a satire of the Russian Revolution?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which American author wrote \"The Sound and the Fury\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Founding Father published \"Poor Richard's Almanack\" and wrote an unfinished autobiog",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which transcendentalist wrote the essays \"Nature\" and \"Self-Reliance\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Who wrote the poem \"Stopping by Woods on a Snowy Evening\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Who wrote the novel \"Catch-22\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Slaughterhouse-Five\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"The Sun Also Rises\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Babbitt\"?",
+  "drop": true,
+  "reason": "obscure novel for JV"
+ },
+ {
+  "match": "Who wrote the novel \"My Antonia\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"Sister Carrie\"?",
+  "drop": true,
+  "reason": "obscure novel for JV"
+ },
+ {
+  "match": "Who wrote the poem \"Howl\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the poem \"The Love Song of J. Alfred Prufrock\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the poem \"Because I could not stop for Death\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"The Autocrat of the Breakfast-Table\"?",
+  "drop": true,
+  "reason": "obscure essay collection"
+ },
+ {
+  "match": "Who wrote \"The Last of the Mohicans\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In \"Moby-Dick,\" what is the name of the captain obsessed with the white whale?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"The Fall of the House of Usher\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel \"A Tree Grows in Brooklyn\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Who wrote the story collection \"Winesburg, Ohio\"?",
+  "drop": true,
+  "reason": "obscure collection for JV"
+ },
+ {
+  "match": "In \"The Red Pony,\" what is the first name of the boy who owns the pony?",
+  "part": 2,
+  "drop": true,
+  "reason": "minor character detail"
+ },
+ {
+  "match": "Which 1934 Fitzgerald novel centers on the psychiatrist Dick Diver?",
+  "part": 2,
+  "drop": true,
+  "reason": "minor character detail of obscure novel"
+ },
+ {
+  "match": "Which 1920 Fitzgerald novel follows Amory Blaine?",
+  "part": 1,
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which writer published the 1923 book \"Cane\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure work"
+ },
+ {
+  "match": "Which recurring Hemingway character appears in \"Big Two-Hearted River\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "minor recurring character"
+ },
+ {
+  "match": "Which salesman is the title character of Arthur Miller's most famous play, whose last name",
+  "part": 1,
+  "setText": "Which traveling salesman is the tragic protagonist of Arthur Miller's most famous play?"
+ },
+ {
+  "match": "Which poet wrote \"A Coney Island of the Mind\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure poet and collection"
+ },
+ {
+  "match": "Who wrote the novel \"The Heart Is a Lonely Hunter\"?",
+  "part": 1,
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the first name of the title character?",
+  "part": 0,
+  "addAlt": [
+   "Jay Gatsby"
+  ]
+ },
+ {
+  "match": "Whose faded billboard eyes watch over the valley of ashes?",
+  "part": 2,
+  "addAlt": [
+   "T. J. Eckleburg",
+   "Dr. Eckleburg",
+   "Doctor Eckleburg"
+  ]
+ },
+ {
+  "match": "Which London novel is a semi-autobiographical story of a working-class sailor who becomes ",
+  "part": 1,
+  "drop": true,
+  "reason": "obscure novel"
+ },
+ {
+  "match": "Who wrote the novel \"Holes\"?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the last name of the boy next door nicknamed Laurie?",
+  "part": 1,
+  "addAlt": [
+   "Theodore Laurence",
+   "Teddy Laurence"
+  ]
+ },
+ {
+  "match": "Which 1923 Frost collection includes \"Stopping by Woods on a Snowy Evening\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure collection title"
+ },
+ {
+  "match": "Which James novel follows Lambert Strether to Paris?",
+  "part": 2,
+  "drop": true,
+  "reason": "minor character detail"
+ },
+ {
+  "match": "What is the name of the rainbow bridge that connects Asgard and Midgard?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name do the Norse give to the human world, whose name means \"middle enclosure\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Norse goddess of love and beauty owned a necklace called Brisingamen?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Norse god's death by a mistletoe dart was caused by a trick of Loki?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to the Norse \"twilight of the gods,\" the final battle?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Egyptian god of chaos and the desert murdered Osiris?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which cat goddess of ancient Egypt protected the home?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Egyptian god with an ibis head was the scribe of the gods and god of writing?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek god of wine and revelry was the son of Zeus and Semele?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the one-eyed giant blinded by Odysseus?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek goddess of the hearth was the sister of Zeus and Hera?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek hero was the leader of the Greeks in the Trojan War and the king of Mycenae?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What kind of ancient Egyptian tomb is a massive structure with triangular sides?",
+  "addAlt": [
+   "pyramids"
+  ]
+ },
+ {
+  "match": "In Norse myth, which gods, led by Odin, live in Asgard, as opposed to the Vanir?",
+  "addAlt": [
+   "Asir"
+  ]
+ },
+ {
+  "match": "In Norse myth, which sea serpent, a child of Loki, encircles Midgard?",
+  "addAlt": [
+   "Jormungand",
+   "Midgard Serpent",
+   "World Serpent"
+  ]
+ },
+ {
+  "match": "In Norse myth, which realm of the dead is ruled by the goddess Hel?",
+  "addAlt": [
+   "Hel",
+   "Helheim"
+  ]
+ },
+ {
+  "match": "What is the name of the fountain beneath Yggdrasil where Odin sacrificed an eye for wisdom",
+  "difficulty": "hard"
+ },
+ {
+  "match": "In Norse myth, which Norse god of the sea, a Vanir, is the father of Freya?",
+  "addAlt": [
+   "Njordr"
+  ]
+ },
+ {
+  "match": "Which Greek goddess of the harvest returns to the underworld for part of each year?",
+  "setText": "Which Greek goddess, the daughter of Demeter, was taken by Hades and returns to the underworld for part of each year?"
+ },
+ {
+  "match": "Which Greek monster had a bull's head and a man's body?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which son of Daedalus died when his wax wings melted?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which woman, whose face launched a thousand ships, was taken to Troy by Paris?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Greek hero led the Myrmidons at Troy and was killed by an arrow to the heel?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which sea monsters lured sailors to their deaths with their song?",
+  "difficulty": "easy",
+  "addAlt": [
+   "Siren"
+  ]
+ },
+ {
+  "match": "Which Greek youth fell in love with his own reflection?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Greek hero killed the Hydra as his second labor?",
+  "difficulty": "easy",
+  "addAlt": [
+   "Herakles"
+  ]
+ },
+ {
+  "match": "Which Greek god of the wild, with goat legs and a set of pipes, was the son of Hermes?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek goddess of the rainbow served as a messenger of the gods?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek goddess of victory is usually depicted with wings?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Greek king of Thebes unknowingly killed his father and married his mother?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek monster with the head of a woman and the body of a lion posed a riddle to Oedi",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Mesopotamian king is the hero of an epic, a friend of Enkidu?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In Hindu myth, which god is the destroyer in the Trimurti?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In Hindu myth, which elephant-headed god is the remover of obstacles?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek warrior, called \"the Greater,\" fought Hector in single combat to a draw?",
+  "part": 2,
+  "addAlt": [
+   "Telamonian Ajax",
+   "Ajax the Great"
+  ]
+ },
+ {
+  "match": "Which creature with golden horns, sacred to Artemis, did Heracles capture alive?",
+  "part": 2,
+  "addAlt": [
+   "Ceryneian",
+   "Hind of Ceryneia"
+  ]
+ },
+ {
+  "match": "Which son of the sun god lost control of his father's chariot and was struck down by Zeus?",
+  "part": 2,
+  "addAlt": [
+   "Phaeton"
+  ]
+ },
+ {
+  "match": "What is the name of Odin's spear that never misses its target?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which wolf chases the sun across the sky in Norse myth?",
+  "part": 1,
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Florentine sculptor created a bronze statue of David?",
+  "setText": "Which Florentine sculptor created a bronze statue of David that was the first freestanding nude sculpture since antiquity?"
+ },
+ {
+  "match": "Which marble statue by Michelangelo shows a young biblical hero before his battle with Gol",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Dutch artist painted Girl with a Pearl Earring?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Japanese artist made the woodblock print The Great Wave off Kanagawa?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which American painter created Nighthawks, showing people in a late-night diner?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which early twentieth-century art movement, led by Pablo Picasso and Georges Braque, showe",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which art movement, led by André Breton, explored dreams and the unconscious with strange,",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which early twentieth-century movement, whose name means wild beasts, used bold unnatural ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"bathroom\"?",
+  "addAlt": [
+   "el cuarto de baño",
+   "el servicio"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"car\"?",
+  "addAlt": [
+   "la máquina"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"ticket\" used for travel?",
+  "difficulty": "medium",
+  "addAlt": [
+   "el tiquete",
+   "el ticket"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"suitcase\"?",
+  "addAlt": [
+   "la valija"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"to play\" a sport, which changes its stem from u to ue?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"to sleep,\" which changes its stem from o to ue?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"to want,\" which changes its stem from e to ie?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What Spanish word means \"also\" or \"too\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What Spanish verb means \"to like\" or \"to be pleasing to\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In the preterite tense, what is the tú form of \"hablar\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the nosotros form of the verb \"comer\" in the preterite tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the yo form of the verb \"hacer\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the yo form of the verb \"querer\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the yo form of the verb \"empezar\" in the preterite tense, with the spelling change",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the yo form of the verb \"buscar\" in the preterite tense, with the spelling change?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the Spanish word for \"toothbrush\"?",
+  "addAlt": [
+   "el cepillo dental"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"stomach\"?",
+  "difficulty": "easy",
+  "addAlt": [
+   "la barriga",
+   "la panza"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"pharmacy\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"hospital\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"to the right\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for the number 50?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for the number 1000?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What does the Spanish word \"a veces\" mean in English?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What does the Spanish word \"sin\" mean in English?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the present participle of \"hablar,\" used in the present progressive?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the present participle of \"comer\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the usted command form of \"comer\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the usted command form of \"hablar\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the past participle of \"escribir,\" which is irregular?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the past participle of \"ver\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the past participle of \"romper\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"stairs\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"post office\"?",
+  "addAlt": [
+   "la oficina de correos",
+   "oficina de correos"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"neighborhood\"?",
+  "addAlt": [
+   "el vecindario",
+   "vecindario"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"straight ahead\"?",
+  "addAlt": [
+   "todo derecho",
+   "adelante",
+   "seguido"
+  ]
+ },
+ {
+  "match": "What does the Spanish word \"demasiado\" mean in English?",
+  "addAlt": [
+   "too many"
+  ]
+ },
+ {
+  "match": "What does the Spanish verb \"recordar\" mean in English?",
+  "addAlt": [
+   "to recall",
+   "recall"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"sidewalk\"?",
+  "addAlt": [
+   "la vereda",
+   "vereda"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"living room\"?",
+  "part": 0,
+  "addAlt": [
+   "la sala de estar",
+   "sala de estar"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"luggage\" in the sense of bags?",
+  "part": 3,
+  "addAlt": [
+   "las maletas",
+   "la maleta",
+   "maletas"
+  ]
+ },
+ {
+  "match": "What possessive adjective means \"your\" in the informal singular before a singular noun?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What does \"me gusta el helado\" mean? Name the food that is liked.",
+  "part": 0
+ },
+ {
+  "match": "What does the Spanish adjective \"simpático\" mean in English?",
+  "part": 2,
+  "addAlt": [
+   "pleasant",
+   "likeable",
+   "likable",
+   "sweet"
+  ]
+ },
+ {
+  "match": "What does the Spanish phrase \"Año Nuevo\" mean in English?",
+  "part": 2,
+  "addAlt": [
+   "New Year's",
+   "New Year's Day"
+  ]
+ },
+ {
+  "match": "What is the Spanish phrase for \"Happy Birthday\"?",
+  "part": 3,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"team\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"mountain\"?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"river\"?",
+  "part": 3,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What Spanish word means \"someone\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"older\" when comparing the ages of siblings?",
+  "part": 3,
+  "addAlt": [
+   "más viejo",
+   "el mayor"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"song\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"bathroom\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"airport,\" including its article?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French verb \"ouvrir\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French word \"près\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French word \"sale\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French word \"propre\" mean in the sense of \"tidy\" or \"not dirty\"?",
+  "difficulty": "medium",
+  "addAlt": [
+   "tidy",
+   "neat"
+  ]
+ },
+ {
+  "match": "What does the French word \"cher\" mean when it describes a price?",
+  "difficulty": "medium",
+  "addAlt": [
+   "costly",
+   "pricey"
+  ]
+ },
+ {
+  "match": "What does the French phrase \"bon marché\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French word \"heureux\" mean in English?",
+  "addAlt": [
+   "glad"
+  ]
+ },
+ {
+  "match": "What is the past participle of \"parler,\" used in the passé composé?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the past participle of \"finir\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the past participle of \"vendre\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the past participle of \"mettre\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What auxiliary verb is used in the passé composé of most verbs, such as \"manger\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the je form of \"faire\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the tu form of \"aller\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the ils form of \"avoir\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the ils form of \"être\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the ils form of \"aller\" in the present tense?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the je form of \"parler\" in the imparfait?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the je form of \"être\" in the imparfait?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the je form of \"avoir\" in the imparfait?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"pharmacy\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"hospital\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"bank,\" as a place for money?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"bakery\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"to turn\" when giving directions?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What does the French word \"bientôt\" mean in English?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for the number 50?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for the number 1000?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for the ordinal \"first\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the nous form of \"voir\" in the present tense?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the past participle of \"venir\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the vous form of \"dire\" in the present tense?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French word \"sans\" mean in English?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the nous form of \"s'asseoir\" in the present tense?",
+  "part": 3,
+  "addAlt": [
+   "nous nous assoyons",
+   "assoyons"
+  ]
+ },
+ {
+  "match": "What is the French word for \"teacher\" when the teacher is a woman, in the sense of a schoo",
+  "part": 0,
+  "addAlt": [
+   "le professeur",
+   "l'enseignante",
+   "enseignante"
+  ]
+ },
+ {
+  "match": "What is the French word for \"post office\"?",
+  "addAlt": [
+   "le bureau de poste",
+   "bureau de poste"
+  ]
+ },
+ {
+  "match": "What does the French adjective \"gentil\" mean in English?",
+  "part": 2,
+  "addAlt": [
+   "sweet"
+  ]
+ },
+ {
+  "match": "What is the name of the circumflex accent in French, as in \"forêt\"?",
+  "part": 3,
+  "setText": "What is the French name for the hat-shaped accent in \"forêt\"?"
+ },
+ {
+  "match": "What does the French phrase \"Nouvel An\" mean in English?",
+  "part": 2,
+  "addAlt": [
+   "New Year's",
+   "New Year's Day"
+  ]
+ },
+ {
+  "match": "What French verb means \"to cook\"?",
+  "part": 2,
+  "addAlt": [
+   "cuire"
+  ]
+ },
+ {
+  "match": "What is the comparative form of \"mauvais\" meaning \"worse\"?",
+  "part": 1,
+  "addAlt": [
+   "plus mauvais"
+  ]
+ },
+ {
+  "match": "What is the French word for \"chalkboard\"?",
+  "part": 3,
+  "addAlt": [
+   "tableau noir",
+   "le tableau noir"
+  ]
+ },
+ {
+  "match": "Which Flemish Baroque painter created \"The Descent from the Cross\" and large works full of",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Dutch painter of \"The Laughing Cavalier\" was known for lively, loose brushwork?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which American painter of \"Christina's World\" often painted scenes from Maine and Pennsylv",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French painter created \"A Sunday Afternoon on the Island of La Grande Jatte\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Italian painter frescoed the Arena Chapel in Padua?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Impressionist elder, born in the Danish West Indies, painted many views of Parisian ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes an artwork that depicts a particular person, often focusing on the fac",
+  "addAlt": [
+   "portrait painting"
+  ]
+ },
+ {
+  "match": "Which French Neoclassical painter created \"The Oath of the Horatii\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Venetian painter created \"Venus of Urbino\" and \"Bacchus and Ariadne\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Flemish painter created \"The Descent from the Cross\" now in the Prado and studied un",
+  "drop": true,
+  "reason": "obscure artist; confusable with Rubens' same-titled work"
+ },
+ {
+  "match": "Which German Renaissance painter of Wittenberg created portraits of Martin Luther?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Austrian Expressionist painted \"Death and the Maiden\" and angular, distorted nudes?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Renaissance painter created \"The School of Athens\" in the Vatican?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Umberto Boccioni's sculpture \"Unique Forms of Continuity in Space\" belongs to which Italia",
+  "drop": true,
+  "reason": "specialist knowledge of a single sculpture"
+ },
+ {
+  "match": "Which American painter of \"Cow's Skull: Red, White, and Blue\" is known for enlarged flower",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which English landscape painter created \"The Hay Wain\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What Italian term, meaning \"smoky,\" names the soft blending of tones used by Leonardo da V",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which sculptor oversaw the sculptures of the Parthenon?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which young pharaoh's tomb, with its gold funeral mask, was discovered by Howard Carter in",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "In which Dutch village was van Gogh born?",
+  "part": 2,
+  "drop": true,
+  "reason": "arbitrary birthplace trivia"
+ },
+ {
+  "match": "Monks illuminated manuscripts on pages made from what material, such as vellum?",
+  "part": 1
+ },
+ {
+  "match": "Which French sculptor designed the Statue of Liberty?",
+  "part": 0,
+  "addAlt": [
+   "Frédéric Bartholdi",
+   "Frederic Bartholdi"
+  ]
+ },
+ {
+  "match": "What word describes the lightness or darkness of a color?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Hudson River School painter created \"Niagara\" and \"The Heart of the Andes\"?",
+  "part": 1,
+  "difficulty": "hard"
+ },
+ {
+  "match": "Bruegel is known by what nickname because he painted village life?",
+  "part": 2,
+  "addAlt": [
+   "Peasant",
+   "Pieter the Peasant"
+  ]
+ },
+ {
+  "match": "What art form made from tiny colored stones or tiles covered many Roman floors?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of cells make up the bodies of bacteria, which have a single circular chromosome",
+  "drop": true,
+  "reason": "dup of ncal-jv:1236"
+ },
+ {
+  "match": "What type of biomolecule is made of glycerol and fatty acids?",
+  "addAlt": [
+   "triglyceride",
+   "triglycerides"
+  ]
+ },
+ {
+  "match": "What is the first trophic level of an ecosystem made of?",
+  "addAlt": [
+   "producer",
+   "autotroph"
+  ]
+ },
+ {
+  "match": "What type of structures, such as the human arm and a bat wing, show common ancestry?",
+  "addAlt": [
+   "homologous"
+  ]
+ },
+ {
+  "match": "What organelle contains enzymes that break down worn-out cell parts and foreign material?",
+  "addAlt": [
+   "lysosomes"
+  ]
+ },
+ {
+  "match": "What term describes a close, long-term relationship between two species?",
+  "addAlt": [
+   "symbiotic"
+  ]
+ },
+ {
+  "match": "What is the term for a relationship in which one species benefits and the other is neither",
+  "addAlt": [
+   "commensal"
+  ]
+ },
+ {
+  "match": "What is the term for a feature that helps an organism survive in its environment?",
+  "addAlt": [
+   "adaptations"
+  ]
+ },
+ {
+  "match": "What large organelle in plant cells stores water?",
+  "addAlt": [
+   "vacuoles"
+  ]
+ },
+ {
+  "match": "What type of white blood cell engulfs and digests pathogens?",
+  "addAlt": [
+   "phagocytes",
+   "macrophages",
+   "neutrophil"
+  ]
+ },
+ {
+  "match": "What term describes animals that maintain a constant internal body temperature?",
+  "addAlt": [
+   "endotherm"
+  ]
+ },
+ {
+  "match": "What type of immune cell produces antibodies?",
+  "addAlt": [
+   "B cells",
+   "B lymphocytes"
+  ]
+ },
+ {
+  "match": "What five-carbon sugar is found in RNA?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What nitrogenous base is found in RNA but not in DNA?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What molecule is the final electron acceptor in aerobic respiration?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of transport moves substances against a concentration gradient and requires ener",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What model describes the cell membrane as a mosaic of proteins within a phospholipid layer",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What X-linked disorder impairs blood clotting?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What metal ion sits at the center of a chlorophyll molecule?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for a plant's growth toward light?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of vascular tissue carries water upward from roots to leaves?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What organelle is the site of lipid synthesis and detoxification, lacking ribosomes?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names the failure of chromosomes to separate properly in meiosis?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What organ stores bile?",
+  "part": 2
+ },
+ {
+  "match": "What group of single-celled organisms lacks a nucleus and includes Escherichia coli?",
+  "part": 0,
+  "addAlt": [
+   "prokaryotes",
+   "prokaryote"
+  ]
+ },
+ {
+  "match": "What term describes organisms that cannot make their own food, like animals?",
+  "addAlt": [
+   "consumers"
+  ]
+ },
+ {
+  "match": "What tissue type forms muscles?",
+  "part": 0,
+  "setText": "What tissue type is made of cells that contract to produce movement?"
+ },
+ {
+  "match": "What is the molar mass, in grams per mole, of water?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the molar mass, in grams per mole, of carbon dioxide?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the mass in grams of two moles of sodium chloride, whose molar mass is 58.5 grams ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the maximum number of electrons that the second energy level can hold?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "How many electrons can a d subshell hold?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the bond angle in a tetrahedral molecule like methane, in degrees?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the formula for the sulfate ion?",
+  "difficulty": "medium",
+  "addAlt": [
+   "SO4 2 minus"
+  ]
+ },
+ {
+  "match": "What is the only metal that is liquid at room temperature?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which alloy of copper and tin was used in ancient tools and weapons?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which alloy of iron and carbon is used in construction?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name for the pressure exerted by each gas in a mixture, whose sum is the total",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Name any one of the strong acids, such as the one found in the human stomach.",
+  "addAlt": [
+   "hydrogen chloride"
+  ],
+  "setText": "What strong acid is found in the human stomach?"
+ },
+ {
+  "match": "What is the specific heat of liquid water, in joules per gram degree Celsius, to three sig",
+  "addAlt": [
+   "4.184"
+  ]
+ },
+ {
+  "match": "What is the minimum energy needed to start a chemical reaction called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the plastic made by polymerizing ethylene?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "If a radioactive sample of 80 grams has a half-life of 5 years, how many grams remain afte",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the simplest alkane, with the formula CH4?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name of the three-carbon alkane commonly used as a fuel for grills?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes a reaction that absorbs heat from its surroundings?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "At which electrode does oxidation occur in an electrochemical cell?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "A gas occupies 2 liters at 300 kelvins. What is its volume at 600 kelvins at constant pres",
+  "difficulty": "easy"
+ },
+ {
+  "match": "According to Brønsted and Lowry, what is an acid defined as?",
+  "addAlt": [
+   "H+ donor"
+  ]
+ },
+ {
+  "match": "Which Italian scientist proposed that equal volumes of gases at the same temperature and p",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a substance that speeds up a reaction without being consumed?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the oxidation state of manganese in potassium permanganate, KMnO4?",
+  "part": 2,
+  "addAlt": [
+   "7+"
+  ]
+ },
+ {
+  "match": "Which two continents does Egypt's Sinai Peninsula connect?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which African country has the largest population?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which mountain range separates Europe from Asia in Russia?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of South Korea?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Thailand?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Peru?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Portugal?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Sweden?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of the Netherlands?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Austria?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Cuba?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Ireland?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which waterway links the Atlantic and Pacific Oceans across Central America?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which waterway links the Mediterranean Sea to the Red Sea?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which country is shaped like a boot and extends into the Mediterranean?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which European country has the cities of Barcelona and Seville?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Colombia?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Venezuela?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Saudi Arabia?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Iran?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Finland?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Hungary?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of the Czech Republic?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Ukraine?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which river is the longest in China and flows through the Three Gorges?",
+  "addAlt": [
+   "Yangzi River",
+   "Yangzi"
+  ]
+ },
+ {
+  "match": "Which African river flows through the Democratic Republic of the Congo and is the deepest ",
+  "addAlt": [
+   "Zaire River"
+  ]
+ },
+ {
+  "match": "Which is the highest waterfall in the world, located in Venezuela?",
+  "addAlt": [
+   "Angel",
+   "Salto Angel"
+  ]
+ },
+ {
+  "match": "Which salty sea between Israel and Jordan has the lowest land surface on Earth on its shor",
+  "addAlt": [
+   "Dead"
+  ]
+ },
+ {
+  "match": "Which island nation lies south of India and has Colombo as its largest city?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which European country is divided into cantons and has four official languages?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which northern European country is called the Land of a Thousand Lakes?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which country lies between Spain and Italy along the Mediterranean and has the Pyrenees to",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which plateau in Asia is called the Roof of the World and lies largely in China?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which grassland region of South America is found in Argentina and Uruguay?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Pampa"
+  ]
+ },
+ {
+  "match": "Which grassland region of Africa is a savanna in Tanzania and Kenya, known for its wildlif",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which mountain in Japan is a famous snow-capped volcano near Tokyo?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which continent is the largest in area?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which continent lies between the Atlantic and Indian Oceans and is home to the Sahara and ",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which country lies directly west of Pakistan and north of the Persian Gulf region?",
+  "part": 1,
+  "setText": "Which country lies directly west of Pakistan, borders the Persian Gulf, and was once called Persia?"
+ },
+ {
+  "match": "Which European country is made up of the larger island of Great Britain and Northern Irela",
+  "part": 2,
+  "difficulty": "medium",
+  "addAlt": [
+   "Great Britain and Northern Ireland"
+  ]
+ },
+ {
+  "match": "Which African country has the city of Casablanca on its Atlantic coast?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of South Africa's executive branch, located in the north of the countr",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Tanzania since the 1970s, located in the center of the country?",
+  "part": 1,
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the capital of Senegal?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which country lies between Iraq and Pakistan and has Tehran as its capital?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which island nation in the Caribbean has the capital Port-au-Prince?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which African country has French as its official language and Kinshasa as its capital?",
+  "part": 2,
+  "addAlt": [
+   "Democratic Republic of Congo",
+   "Congo-Kinshasa"
+  ]
+ },
+ {
+  "match": "Which Canadian province has the most people and has Toronto as its capital?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which river flows through Florence, Italy?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which river flows through Berlin?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which city was the first capital under the Constitution in 1789?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1862 Union naval battle featured the ironclad ships Monitor and Virginia?",
+  "addAlt": [
+   "Hampton Roads",
+   "Battle of the Ironclads",
+   "Monitor versus Merrimack"
+  ]
+ },
+ {
+  "match": "Which 1963 march drew more than 200,000 people to the Lincoln Memorial?",
+  "addAlt": [
+   "March on Washington for Jobs and Freedom"
+  ]
+ },
+ {
+  "match": "Which 1867 purchase from Russia, arranged by Secretary of State William Seward, added a hu",
+  "addAlt": [
+   "Seward's Folly"
+  ]
+ },
+ {
+  "match": "Which British general surrendered at Yorktown to Washington and Rochambeau?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1832 crisis involved South Carolina's refusal to enforce a federal tariff?",
+  "addAlt": [
+   "Nullification"
+  ]
+ },
+ {
+  "match": "Which 1836 battle ended with the deaths of Davy Crockett and others at a mission in San An",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which transcontinental railroad was completed in 1869 at Promontory Summit, Utah?",
+  "addAlt": [
+   "Pacific Railroad"
+  ]
+ },
+ {
+  "match": "Which war between 1846 and 1848 added California and much of the Southwest to the United S"
+ },
+ {
+  "match": "Which woman, a former slave, led many enslaved people to freedom on the Underground Railro",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Confederate general led the Army of Northern Virginia?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which man assassinated Abraham Lincoln at Ford's Theatre?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which war in Southeast Asia divided Americans in the 1960s and early 1970s?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which astronaut was the first person to walk on the Moon in 1969?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which 1765 British law taxed printed materials in the colonies?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which 1920s law banned the production and sale of alcohol?",
+  "addAlt": [
+   "Volstead Act"
+  ]
+ },
+ {
+  "match": "Which religious group led by William Bradford settled Plymouth Colony?",
+  "addAlt": [
+   "Separatists"
+  ]
+ },
+ {
+  "match": "Which 1859 raid at Harpers Ferry was led by the abolitionist John Brown?",
+  "setText": "Which 1859 raid, led by the abolitionist John Brown, tried to seize a federal arsenal in Virginia?"
+ },
+ {
+  "match": "Which battle in 1862 was the bloodiest single day of the Civil War?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Union general led the March to the Sea through Georgia in 1864?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which journalist wrote The Jungle, exposing conditions in the meatpacking industry?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1919 treaty ending World War I was not ratified by the U.S. Senate?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1925 trial in Tennessee challenged a law banning the teaching of evolution?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which environmental disaster in the 1930s turned parts of the Great Plains into barren lan",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which 1948 operation delivered supplies to West Berlin by air?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1955 event began when Rosa Parks was arrested and lasted over a year?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1957 crisis involved nine Black students entering a Little Rock, Arkansas, high scho",
+  "setText": "What name is given to the nine Black students who integrated Central High School in Arkansas in 1957?"
+ },
+ {
+  "match": "Which activist wrote Silent Spring, a book about pesticides?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1973 Supreme Court case legalized abortion nationwide?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which president called on Soviet leader Mikhail Gorbachev to tear down the Berlin Wall in ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which barrier dividing a German city fell in 1989?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which 1991 war liberated Kuwait from Iraqi forces?",
+  "part": 2,
+  "addAlt": [
+   "Desert Storm",
+   "Operation Desert Storm"
+  ]
+ },
+ {
+  "match": "Which Pennsylvania businessman built Standard Oil's rival steel empire and merged it into ",
+  "part": 2,
+  "setText": "Which Pennsylvania steel magnate sold his company to J.P. Morgan in 1901, helping form U.S. Steel?"
+ },
+ {
+  "match": "Which Roman general defeated Hannibal at Zama in 202 BCE?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Roman emperor divided the empire's rule among four leaders called the Tetrarchy?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which pope called for the First Crusade in 1095?",
+  "difficulty": "hard",
+  "addAlt": [
+   "Urban 2"
+  ]
+ },
+ {
+  "match": "Which Babylonian king created a famous law code carved on a stone pillar?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Athenian statesman led the city at the height of its golden age and promoted buildin",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Roman emperor, last of the Five Good Emperors, wrote the \"Meditations\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Mughal emperor built the Taj Mahal?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which series of wars did Rome fight against Carthage?",
+  "addAlt": [
+   "Punic War"
+  ]
+ },
+ {
+  "match": "Which 1688 event removed King James II in favor of William and Mary?",
+  "addAlt": [
+   "Bloodless Revolution"
+  ]
+ },
+ {
+  "match": "Which former slave led the Haitian Revolution?",
+  "addAlt": [
+   "Toussaint"
+  ]
+ },
+ {
+  "match": "Which French king, called the Sun King, built the Palace of Versailles?",
+  "addAlt": [
+   "Louis 14",
+   "Louis the 14th"
+  ]
+ },
+ {
+  "match": "What were peasants bound to a lord's land called?",
+  "part": 1,
+  "addAlt": [
+   "serf"
+  ]
+ },
+ {
+  "match": "Who painted The School of Athens in the Vatican?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who painted the ceiling of the Sistine Chapel?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Portuguese captain rounded the southern tip of Africa in 1488?",
+  "part": 1,
+  "addAlt": [
+   "Bartholomew Dias",
+   "Bartolomeu Diaz"
+  ]
+ },
+ {
+  "match": "Which 1799 coup brought Napoleon to power?",
+  "part": 2,
+  "addAlt": [
+   "Brumaire",
+   "Coup of Brumaire"
+  ]
+ },
+ {
+  "match": "Whose harsh winter helped destroy Napoleon's army in 1812?",
+  "part": 0,
+  "addAlt": [
+   "Russian Empire",
+   "the Russians"
+  ]
+ },
+ {
+  "match": "Which continent was carved up in the \"Scramble\" among European powers in the late 1800s?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of fighting in dug-in lines of fortified ditches defined the Western Front?",
+  "part": 1,
+  "addAlt": [
+   "trenches"
+  ]
+ },
+ {
+  "match": "Which 1929 event in New York helped start the Great Depression?",
+  "part": 0,
+  "addAlt": [
+   "Black Tuesday",
+   "Black Thursday"
+  ]
+ },
+ {
+  "match": "Which Soviet city's siege, ending in early 1943, was a turning point on the Eastern Front?",
+  "part": 2,
+  "addAlt": [
+   "Battle of Stalingrad"
+  ]
+ },
+ {
+  "match": "Which Japanese emperor announced his country's surrender in 1945?",
+  "part": 2,
+  "addAlt": [
+   "Emperor Showa"
+  ]
+ },
+ {
+  "match": "Which parallel divided North and South Korea?",
+  "part": 0,
+  "addAlt": [
+   "38th",
+   "38 parallel"
+  ]
+ },
+ {
+  "match": "Which 1904 and 1905 war ended with a surprising Japanese victory over a European power?",
+  "part": 2
+ },
+ {
+  "match": "Which ancient kingdom, south of Egypt, had its capital at Meroe?",
+  "part": 2,
+  "addAlt": [
+   "Kushite Kingdom"
+  ]
+ },
+ {
+  "match": "Which empire, ruled from Istanbul, collapsed after World War I?",
+  "part": 0,
+  "addAlt": [
+   "Ottoman"
+  ]
+ },
+ {
+  "match": "Which king of Macedon was the father of Alexander the Great?",
+  "addAlt": [
+   "Philip"
+  ]
+ },
+ {
+  "match": "Which verb is correct in \"The group of students ___ late\": was or were?",
+  "part": 2,
+  "drop": true,
+  "reason": "group nouns: was or were both defensible"
+ },
+ {
+  "match": "Answer these questions about synonyms.",
+  "drop": true,
+  "reason": "open-ended synonyms; many valid answers"
+ },
+ {
+  "match": "What nineteen-line poem uses two repeating refrains?",
+  "part": 2,
+  "drop": true,
+  "reason": "villanelle is obscure for novice"
+ },
+ {
+  "match": "What name does the boy give to the grouse-like birds that he learns to hunt?",
+  "part": 1,
+  "drop": true,
+  "reason": "minor detail of the novel"
+ },
+ {
+  "match": "What is the past participle of the verb \"choose\"?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the superlative form of the adjective \"good\"?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "In the sentence \"She walked across the bridge,\" which word is the object of the prepositio",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which word completes the sentence \"Everyone ___ Tom came to the party\": accept or except?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a rhyme in which the sounds are close but not exact, such as \"home\" and \"c",
+  "part": 1,
+  "addAlt": [
+   "eye rhyme"
+  ]
+ },
+ {
+  "match": "What is the opposite of the word \"expand\"?",
+  "part": 2,
+  "addAlt": [
+   "compress",
+   "get smaller"
+  ]
+ },
+ {
+  "match": "What is the name of the music teacher whom Jess admires?",
+  "part": 2,
+  "drop": true,
+  "reason": "minor character in the novel"
+ },
+ {
+  "match": "Which king of Mycenae assigned the twelve labors?",
+  "part": 0,
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which wrestling giant grew stronger whenever he touched the ground, until Heracles lifted ",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure giant, too specialized for novice"
+ },
+ {
+  "match": "Which king of Athens threw himself into the sea after seeing black sails on his son's retu",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure minor figure for novice"
+ },
+ {
+  "match": "Which grieving queen was turned into a stone that weeps after her children were killed?",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure myth figure for novice"
+ },
+ {
+  "match": "Which king of Colchis guarded the Golden Fleece?",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure minor king, hard spelling"
+ },
+ {
+  "match": "What type of sentence makes a statement and ends with a period?",
+  "addAlt": [
+   "statement",
+   "declarative statement"
+  ]
+ },
+ {
+  "match": "What type of sentence expresses strong emotion and ends with an exclamation point?",
+  "addAlt": [
+   "exclamation",
+   "exclamatory statement"
+  ]
+ },
+ {
+  "match": "What part of speech is the word \"wow\" in the sentence \"Wow, that was fast\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the plural of the word \"leaf\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the plural of the word \"city\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the superlative form of the adjective \"bad\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names a sentence that runs two complete thoughts together with no punctuation or",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What kind of noun names an idea you cannot touch, such as \"freedom\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which verb is correct: \"The dogs ___ barking\": is or are?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which verb is correct: \"She ___ like spinach\": don't or doesn't?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the past tense of the verb \"bring\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the plural of the word \"tooth\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "How many syllables are in the word \"banana\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the opposite of the word \"strong\"?",
+  "addAlt": [
+   "feeble"
+  ]
+ },
+ {
+  "match": "What word is the antonym of the word \"generous\"?",
+  "addAlt": [
+   "greedy",
+   "miserly",
+   "cheap",
+   "tightfisted"
+  ]
+ },
+ {
+  "match": "What word is the antonym of the word \"victory\"?",
+  "addAlt": [
+   "failure"
+  ]
+ },
+ {
+  "match": "What word is the antonym of the word \"ancient\"?",
+  "addAlt": [
+   "contemporary",
+   "current",
+   "recent"
+  ]
+ },
+ {
+  "match": "What word means the same as the word \"begin\"?",
+  "addAlt": [
+   "commence"
+  ]
+ },
+ {
+  "match": "What is a synonym for the word \"rapid\"?",
+  "addAlt": [
+   "swift",
+   "hasty"
+  ]
+ },
+ {
+  "match": "What is a synonym for the word \"silent\"?",
+  "addAlt": [
+   "hushed",
+   "noiseless",
+   "soundless"
+  ]
+ },
+ {
+  "match": "What does the prefix \"sub-\" mean in the word \"submarine\"?",
+  "addAlt": [
+   "beneath"
+  ]
+ },
+ {
+  "match": "What does the suffix \"-less\" mean in the word \"hopeless\"?",
+  "addAlt": [
+   "lacking"
+  ]
+ },
+ {
+  "match": "What term names a word that is spelled the same as another word but has a different meanin",
+  "addAlt": [
+   "homograph"
+  ]
+ },
+ {
+  "match": "What word names a person who writes books?",
+  "difficulty": "easy",
+  "addAlt": [
+   "writer"
+  ]
+ },
+ {
+  "match": "What word names a scientist who studies stars and planets?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What word means very tired?",
+  "addAlt": [
+   "fatigued",
+   "worn out",
+   "drained"
+  ]
+ },
+ {
+  "match": "What word means happening once a year?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What word means happening every day?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What word means happening every month?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What word means able to be seen through, like clear glass?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a story that exaggerates, like the tale of Paul Bunyan and his blue ox?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names a long poem about the deeds of a hero?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names poetry that does not rhyme and has no regular meter?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a play with a happy ending that is meant to be funny?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names a serious play that ends in disaster for the main character?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names an object that stands for a larger idea, like a dove for peace?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names a comparison of two things that does not use \"like\" or \"as\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names the end of a plot, where the conflict is settled?",
+  "addAlt": [
+   "denouement"
+  ]
+ },
+ {
+  "match": "What term names a long work of fiction, longer than a short story?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names a three-line Japanese poem with five, seven, and five syllables?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names a narrator who knows the thoughts of every character?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a character who changes in important ways during a story?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a character who stays the same throughout a story?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a character who contrasts with another to highlight that character's trait",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names a category of literature, such as mystery or science fiction?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names the person who writes plays?",
+  "addAlt": [
+   "dramatist"
+  ]
+ },
+ {
+  "match": "What term names a poem of fourteen lines written in iambic pentameter by Shakespeare and o",
+  "difficulty": "medium",
+  "addAlt": [
+   "Shakespearean sonnet"
+  ]
+ },
+ {
+  "match": "In \"Peter Pan,\" what is the name of the pirate captain whose hand is cut off by Peter?",
+  "addAlt": [
+   "Captain James Hook"
+  ]
+ },
+ {
+  "match": "In \"Little Women,\" what is the name of the March sister who wants to be a writer?",
+  "addAlt": [
+   "Josephine March"
+  ]
+ },
+ {
+  "match": "In \"Little Women,\" which March sister is the youngest?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"The Hunger Games\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"The Hunger Games,\" what is the name of the girl who volunteers to take her sister's pl",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which author wrote \"Esperanza Rising\"?",
+  "addAlt": [
+   "Pam Muñoz Ryan"
+  ]
+ },
+ {
+  "match": "Which Shakespeare play includes the line \"Et tu, Brute\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"Animal Farm,\" a story about farm animals who rebel against their owner",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"Fahrenheit 451,\" a novel about a society that burns books?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"A Christmas Carol\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"A Christmas Carol,\" what is the name of the miserly main character?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which author wrote \"Gulliver's Travels\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"Robinson Crusoe\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In \"The Jungle Book,\" what is the name of the boy raised by wolves?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"Charlie and the Chocolate Factory,\" what is the name of the chocolate maker?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Greek god of the forge made weapons and armor for the gods?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Hephaistos"
+  ]
+ },
+ {
+  "match": "Which Greek goddess was taken to the underworld by Hades and spends part of each year ther",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek hero, famed for his strength, completed twelve labors?",
+  "addAlt": [
+   "Herakles"
+  ]
+ },
+ {
+  "match": "Which mountain nymph in Greek myth could only repeat the last words spoken to her?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Titan was the father of Zeus and swallowed his own children?",
+  "addAlt": [
+   "Cronos",
+   "Kronus"
+  ]
+ },
+ {
+  "match": "What is the Roman name for the Greek king of the gods, Zeus?",
+  "addAlt": [
+   "Jove"
+  ]
+ },
+ {
+  "match": "What is the Roman name for the Greek god of love, Eros?",
+  "addAlt": [
+   "Amor"
+  ]
+ },
+ {
+  "match": "Who was the ferryman who carried souls across the river to the underworld?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which fire-breathing monster had a lion's head, a goat's body, and a serpent's tail?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Chimaera"
+  ]
+ },
+ {
+  "match": "What is the name of the famous oracle site in Greece where a priestess gave prophecies?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Roman goddess of the dawn shares her name with a type of light in the sky?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which hero killed the Nemean lion as one of his twelve labors?",
+  "addAlt": [
+   "Herakles"
+  ]
+ },
+ {
+  "match": "What is the Greek name for the Roman messenger god Mercury?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Greek name for the Roman moon goddess Diana?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Roman poet wrote the epic poem the Aeneid?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Roman poet wrote the Metamorphoses, a collection of myths about transformations?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes how bright or dull a color appears?",
+  "addAlt": [
+   "brightness"
+  ]
+ },
+ {
+  "match": "What principle of design is created when an element such as a shape or color is repeated i",
+  "addAlt": [
+   "rhythm"
+  ]
+ },
+ {
+  "match": "What term names the part of a picture that appears closest to the viewer?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term names the part of a picture that appears farthest from the viewer?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What kind of balance occurs when two sides of an artwork are different but still feel equa",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What flat, blunt metal blade do painters use to apply thick layers of paint?",
+  "addAlt": [
+   "painting knife"
+  ]
+ },
+ {
+  "match": "What shading technique builds up tones using many tiny dots?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What printmaking process uses a flat stone and the fact that grease and water repel each o",
+  "drop": true,
+  "reason": "lithography too specialized for novice"
+ },
+ {
+  "match": "What name is given to the brownish-orange baked clay used for flowerpots and ancient statu",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to a sculpture of a person's head, shoulders, and upper chest?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the technique of drawing an object at a sharp angle so that it appears",
+  "drop": true,
+  "reason": "foreshortening is specialist vocabulary for novices"
+ },
+ {
+  "match": "What name is given to a large painting made directly on a wall?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What word names a pattern of shapes that fit together with no gaps or overlaps, like a til",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What technique, used by Georges Seurat, builds an image from small dots of pure color?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What kind of line shows the outline and edges of a shape or form?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term names an artwork that is made on request for a specific client?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What coarse tool with raised teeth is used to smooth wood or stone?",
+  "part": 2,
+  "addAlt": [
+   "file"
+  ]
+ },
+ {
+  "match": "In solfege, what is the first syllable of the major scale?",
+  "addAlt": [
+   "doh"
+  ]
+ },
+ {
+  "match": "What is the name for the steady pulse that you tap your foot to in music?",
+  "addAlt": [
+   "pulse"
+  ]
+ },
+ {
+  "match": "What is the relative minor of C major?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which major key has no sharps or flats?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to a group of four musicians?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to a piece for two performers?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to the thin stick used by a conductor?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to a scale made of twelve notes, each a half step apart?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What Italian term means to return to the beginning and play again?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to the closing section of a piece of music?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which German composer wrote the Emperor Concerto and the Appassionata Sonata?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which collection by Johann Sebastian Bach contains a prelude and fugue in each of the twen",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Venetian priest wrote more than five hundred concertos?",
+  "addAlt": [
+   "Vivaldi"
+  ]
+ },
+ {
+  "match": "Which Austrian composer, often called the Father of the Symphony, wrote more than one hund",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Russian composer wrote Pictures at an Exhibition, later orchestrated by Maurice Rave",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What note lasts for one beat in four-four time?",
+  "part": 0,
+  "addAlt": [
+   "crotchet"
+  ]
+ },
+ {
+  "match": "What Italian inventor built the first pianos around 1700?",
+  "part": 1,
+  "drop": true,
+  "reason": "obscure instrument-maker trivia for novice level"
+ },
+ {
+  "match": "The note A above middle C is commonly tuned to how many vibrations per second?",
+  "part": 2,
+  "drop": true,
+  "reason": "arbitrary number memorized only by specialists"
+ },
+ {
+  "match": "Which French composer wrote the opera Faust, based on a play by Goethe?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which French composer wrote three slow, quiet piano pieces called Gymnopédies?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "How many symphonies did Ludwig van Beethoven complete?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What period of music history, from about 1600 to 1750, includes the composers Bach and Han",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What period of music history, from about 1750 to 1820, includes Haydn and Mozart?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What instrument plays the famous upward glissando at the opening of Rhapsody in Blue?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "For which instrument did Beethoven write the short piece Für Elise?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What physical condition did Beethoven develop that left him unable to hear his own music?",
+  "part": 1,
+  "addAlt": [
+   "going deaf",
+   "loss of hearing"
+  ]
+ },
+ {
+  "match": "In which country did Handel spend most of his adult life after leaving Germany?",
+  "part": 0,
+  "addAlt": [
+   "Britain",
+   "United Kingdom"
+  ]
+ },
+ {
+  "match": "With which French novelist did Chopin have a long relationship, who wrote under the name G",
+  "part": 2,
+  "addAlt": [
+   "Sand"
+  ],
+  "setAnswer": "George Sand",
+  "setText": "Which French woman novelist, who wrote under a man's pen name, had a long relationship with Chopin?"
+ },
+ {
+  "match": "What is the Spanish word for \"thank you\"?",
+  "addAlt": [
+   "muchas gracias"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"school,\" including the article?",
+  "addAlt": [
+   "el colegio"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"classroom\"?",
+  "addAlt": [
+   "el salón",
+   "salón",
+   "la sala de clase"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"left,\" as in a direction?",
+  "addAlt": [
+   "izquierdo",
+   "la izquierda",
+   "a la izquierda"
+  ]
+ },
+ {
+  "match": "What is the Spanish word for \"I am hungry,\" using the verb tener?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish phrase meaning \"I am thirsty,\" using the verb tener?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the yo form of the verb \"ir\" in the present tense?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the yo form of the verb \"tener\" in the present tense?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"eyes\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish word \"pared\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish word \"cumpleaños\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish expression \"hace calor\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for the season of summer, including the article?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"winter,\" including the article?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for the number 15?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for the number 20?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"Wednesday\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"apple,\" including the article?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What Spanish verb means \"to go\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"uncle\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"history\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"lunch\" in most Spanish-speaking countries?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for the month of September?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish word \"viento\" mean in English?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"arm\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish word \"triste\" mean in English?",
+  "addAlt": [
+   "unhappy"
+  ]
+ },
+ {
+  "match": "Which French verb, ending in -er, is used to say you eat?",
+  "setText": "What is the French infinitive that means \"to eat\"?"
+ },
+ {
+  "match": "What is the French word for \"friend\" when the friend is a boy?",
+  "addAlt": [
+   "le copain",
+   "copain",
+   "mon ami"
+  ]
+ },
+ {
+  "match": "What is the French word for \"classroom\"?",
+  "addAlt": [
+   "la classe",
+   "classe"
+  ]
+ },
+ {
+  "match": "What is the French word for \"with\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"and\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What does the French word \"anniversaire\" mean in English?",
+  "addAlt": [
+   "anniversary"
+  ]
+ },
+ {
+  "match": "What is the je form of the verb \"aller\" in the present tense?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French expression \"il fait chaud\" mean in English?",
+  "addAlt": [
+   "it's hot out",
+   "it is hot out",
+   "it is warm out",
+   "it's warm out",
+   "it's warm"
+  ]
+ },
+ {
+  "match": "What is the French word for \"to wear\" or \"to carry\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"to like\" or \"to love\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"thirty\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"uncle\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for 7?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for 40?",
+  "part": 4,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the vous form of the verb \"être\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"cow\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"history\" as a school subject?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French word \"neige\" mean in English?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What does the French word \"vent\" mean in English?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What French pronoun means \"they\" for a group of boys or a mixed group?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the elle form of \"danser\"?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"arm\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"dress\"?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the French question \"Comment ça va?\" mean in English?",
+  "part": 2,
+  "addAlt": [
+   "how's it going",
+   "how are you doing"
+  ]
+ },
+ {
+  "match": "Which planet was discovered in 1846 after its position was predicted using mathematics?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which astronomer discovered Uranus in 1781?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the name of the dwarf planet found in the asteroid belt?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of tissue connects the muscles to bones?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the sugar produced by photosynthesis?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for the group of organs that work together to digest food?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What are the chemical messengers produced by glands and carried in the blood called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the system for naming organisms with a genus and a species called?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the name for the process by which a cell takes in water through its membrane from ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of Neptune's largest moon?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What kind of joint is the shoulder?",
+  "part": 1
+ },
+ {
+  "match": "What term describes an animal that sleeps during the day and is awake at night?",
+  "part": 0,
+  "drop": true,
+  "reason": "dup of ncal-novice:1083"
+ },
+ {
+  "match": "What is the term for animals traveling long distances each season?",
+  "part": 2,
+  "drop": true,
+  "reason": "dup of ncal-novice:1084"
+ },
+ {
+  "match": "What is the name of the Dutch scientist who first observed living microbes with a microsco",
+  "part": 1,
+  "difficulty": "hard"
+ },
+ {
+  "match": "What kind of organism eats producers, such as a rabbit eating grass?",
+  "part": 1,
+  "addAlt": [
+   "herbivore"
+  ]
+ },
+ {
+  "match": "Who was the first woman to travel into space, in 1963?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What unit of distance is equal to the average distance from Earth to the Sun?",
+  "addAlt": [
+   "astronomical units"
+  ]
+ },
+ {
+  "match": "What name is given to the model in which the Sun is at the center of the solar system?",
+  "addAlt": [
+   "Copernican model",
+   "Sun-centered model"
+  ]
+ },
+ {
+  "match": "What type of tide, with the greatest range, occurs when the Sun, Earth, and Moon are in a ",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What dwarf planet in the Kuiper Belt is slightly more massive than Pluto?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the term for heat being trapped by a thick atmosphere, which makes Venus so hot?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which planet has the strongest winds in the solar system?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the name of the supermassive black hole at the center of the Milky Way?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What kind of telescope collects light with a curved mirror?",
+  "part": 1,
+  "drop": true,
+  "reason": "dup of ncal-novice:1192"
+ },
+ {
+  "match": "What dark, fine-grained volcanic rock makes up most of the ocean floor?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What light volcanic rock is full of gas bubbles and can float on water?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What black volcanic glass forms when lava cools very quickly?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the color of a mineral's powder when rubbed on a tile called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What mineral, whose chemical name is sodium chloride, is common table salt?",
+  "difficulty": "medium",
+  "addAlt": [
+   "rock salt"
+  ]
+ },
+ {
+  "match": "What iron-rich mineral that is attracted to magnets is named for its magnetic property?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the process of breaking rocks into smaller pieces called?",
+  "addAlt": [
+   "mechanical weathering",
+   "physical weathering"
+  ]
+ },
+ {
+  "match": "What type of weathering occurs when water freezes in cracks and expands?",
+  "difficulty": "medium",
+  "addAlt": [
+   "freeze-thaw weathering",
+   "freeze-thaw",
+   "frost weathering",
+   "ice wedging"
+  ]
+ },
+ {
+  "match": "About what percent of Earth's surface is covered by water: 71 or 51?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What fast-moving ribbon of air high in the atmosphere affects weather in the middle latitu",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the deepest known part of Earth's oceans?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Marianas Trench",
+   "Mariana"
+  ]
+ },
+ {
+  "match": "What boundary, named for a Croatian scientist, separates Earth's outer rocky shell from th",
+  "part": 3,
+  "drop": true,
+  "reason": "Moho is obscure for novice level"
+ },
+ {
+  "match": "What modern scale, replacing the Richter scale, measures the total energy released by a qu",
+  "part": 3,
+  "drop": true,
+  "reason": "moment magnitude is too specialized for novice"
+ },
+ {
+  "match": "Which massive Hawaiian shield volcano, whose name means \"long mountain,\" is one of the lar",
+  "part": 2,
+  "difficulty": "hard"
+ },
+ {
+  "match": "What metamorphic rock, with banded layers, forms from granite?",
+  "part": 2,
+  "difficulty": "hard"
+ },
+ {
+  "match": "What mineral is the main ore of iron and gives rocks a red color?",
+  "part": 2,
+  "difficulty": "hard"
+ },
+ {
+  "match": "What term describes water that soaks into the ground?",
+  "part": 2,
+  "addAlt": [
+   "seepage"
+  ]
+ },
+ {
+  "match": "What term describes the water that flows over the land into streams and rivers?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of radiation does the ozone layer absorb?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What instrument is used to measure air temperature?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name of the calm area at the center of this kind of storm?",
+  "part": 2
+ },
+ {
+  "match": "What is the term for a dangerous rise in sea level pushed onshore by such a storm?",
+  "part": 3
+ },
+ {
+  "match": "What type of map uses lines to show the shape of the land?",
+  "part": 2,
+  "addAlt": [
+   "contour map"
+  ]
+ },
+ {
+  "match": "What gas in the atmosphere traps heat and warms Earth?",
+  "part": 1,
+  "addAlt": [
+   "methane",
+   "water vapor"
+  ]
+ },
+ {
+  "match": "What ice-covered continent is the driest on Earth?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What do we call a huge sheet of ice covering land for many years?",
+  "part": 0,
+  "addAlt": [
+   "continental glacier",
+   "ice cap"
+  ]
+ },
+ {
+  "match": "What name is given to the sheet of ice that covers most of Greenland?",
+  "part": 3,
+  "drop": true,
+  "reason": "answer essentially given in the question text"
+ },
+ {
+  "match": "What term describes atoms of the same element with different numbers of neutrons?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the chemical symbol for the element gold?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What gas do plants take in from the air to make food?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of substance speeds up a chemical reaction without being used up?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the pH of a neutral solution such as pure water?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which scientist formulated three laws of motion and the law of universal gravitation?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "About what is the acceleration due to gravity near Earth's surface in meters per second sq",
+  "addAlt": [
+   "9.81",
+   "9.8 m/s^2"
+  ]
+ },
+ {
+  "match": "What is the SI unit of power, equal to one joule per second?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for the measure of the average kinetic energy of the particles in a subst",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the lowest possible temperature, 0 on the Kelvin scale, called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for a reflected sound that you hear after a delay?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What law relates voltage, current, and resistance?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What device protects a circuit by melting when the current gets too high?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What happens when you place the north poles of two magnets near each other: attract or rep",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What device is created by coiling wire around an iron core and passing a current through i",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What instrument has a magnetized needle that points to Earth's magnetic north?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What Polish-born scientist discovered the elements polonium and radium?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the process by which plants use sunlight to make sugar from water and carbon dioxi",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In an experiment, what is the factor that the scientist changes on purpose called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What process makes dew form on a cold glass on a humid day?",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which simple machine is a doorknob an example of?",
+  "part": 3,
+  "addAlt": [
+   "wheel & axle",
+   "wheel axle"
+  ]
+ },
+ {
+  "match": "What name is given to the amount of heat needed to raise one gram of water by one degree C",
+  "part": 3,
+  "addAlt": [
+   "calories"
+  ]
+ },
+ {
+  "match": "About how fast does sound travel in air at room temperature, in meters per second?",
+  "part": 2,
+  "addAlt": [
+   "340",
+   "343 m/s",
+   "340 m/s"
+  ]
+ },
+ {
+  "match": "What unit measures this flow of charge?",
+  "part": 2,
+  "addAlt": [
+   "amps",
+   "amperes"
+  ]
+ },
+ {
+  "match": "What name is given to the elements on the left of the table that are shiny and conduct ele",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the base metric unit of length?",
+  "part": 0,
+  "addAlt": [
+   "metre",
+   "metres"
+  ]
+ },
+ {
+  "match": "What instrument is used to measure mass in a lab?",
+  "part": 2,
+  "addAlt": [
+   "scale",
+   "electronic balance"
+  ]
+ },
+ {
+  "match": "What is the name for a body of land completely surrounded by water?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes a market with only one seller of a good or service?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the disorientation people feel when exposed to a very different cultur",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What Scottish thinker wrote The Wealth of Nations, published in 1776, a founding work of m",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What German thinker wrote The Communist Manifesto with Friedrich Engels?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the practice of a country extending its power by taking control of oth",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to the line at zero degrees longitude that passes through Greenwich, En",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name for the economic system in which most businesses are privately owned and ",
+  "difficulty": "medium",
+  "addAlt": [
+   "free enterprise",
+   "market system"
+  ]
+ },
+ {
+  "match": "What term names the money borrowed from a bank that must be paid back with extra charges?",
+  "addAlt": [
+   "debt",
+   "credit"
+  ]
+ },
+ {
+  "match": "What is the name for a map feature that explains the symbols and colors used on the map?",
+  "addAlt": [
+   "map key"
+  ]
+ },
+ {
+  "match": "What term describes a business that is the only seller of a product in its market?",
+  "part": 2,
+  "drop": true,
+  "reason": "dup of ncal-novice:586"
+ },
+ {
+  "match": "What is the name for the paper and coin money used in a country?",
+  "part": 0,
+  "addAlt": [
+   "money"
+  ]
+ },
+ {
+  "match": "What term names the tendency to see other people's behavior as caused by their character i",
+  "part": 2,
+  "drop": true,
+  "reason": "too advanced for novice level"
+ },
+ {
+  "match": "What word names a country's leader chosen in a republic, such as the head of a nation?",
+  "part": 0,
+  "setText": "What title is given to the elected head of state and head of government of the United States?"
+ },
+ {
+  "match": "Which state is nicknamed the Natural State and has Little Rock as its capital?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which state is nicknamed the Cornhusker State?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the longest river in the United States, which flows from Montana to th",
+  "difficulty": "medium",
+  "setText": "What is the longest river in the United States, which begins in Montana and joins the Mississippi River?"
+ },
+ {
+  "match": "Which U.S. state is the westernmost of the contiguous states, bordering Oregon and Mexico?",
+  "setText": "Which U.S. state borders both Oregon and Mexico?"
+ },
+ {
+  "match": "Which language is the official language of Mexico's southern neighbor, Brazil's western ne",
+  "setText": "Which language is the official language of most countries in South America outside Brazil?"
+ },
+ {
+  "match": "What is the capital of Massachusetts?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Georgia?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Colorado?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of Arizona?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which U.S. state is known as the Lone Star State?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which state is nicknamed the Empire State?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which state contains Mount Rushmore?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which state is known as the Golden State?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which U.S. state is the Aloha State?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the capital of South Carolina?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of New Mexico?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the capital of Alaska?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which waterfall on the border of New York and Ontario is the most famous in North America?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which state is the only one to border both the Pacific Ocean and the Arctic Ocean?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which city in Nevada is known for its casinos and the Strip?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which South African leader became the first Black president after apartheid ended?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In which country is the Hindu festival of Holi, the festival of colors, most widely celebr",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which large dam on the Colorado River lies near Las Vegas?",
+  "part": 1,
+  "addAlt": [
+   "Boulder Dam"
+  ]
+ },
+ {
+  "match": "Which mountain range in California includes Yosemite and Mount Whitney?",
+  "part": 2,
+  "addAlt": [
+   "Sierras",
+   "Sierra Nevada Mountains"
+  ]
+ },
+ {
+  "match": "Which Spanish sword-wielding performance involves a matador and a bull?",
+  "addAlt": [
+   "bullfight",
+   "the bullfight"
+  ]
+ },
+ {
+  "match": "Which animal is considered sacred in Hinduism and roams freely in many Indian cities?",
+  "addAlt": [
+   "cattle",
+   "cows"
+  ]
+ },
+ {
+  "match": "What is the name of the place of worship for Muslims?",
+  "addAlt": [
+   "masjid"
+  ]
+ },
+ {
+  "match": "What is the name of the place of worship for Jews?",
+  "addAlt": [
+   "temple"
+  ]
+ },
+ {
+  "match": "What is the name of the Hindu place of worship?",
+  "addAlt": [
+   "Hindu temple"
+  ]
+ },
+ {
+  "match": "What is the name of the Japanese art of folding paper into shapes like cranes?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which country hosts the annual Carnival festival in Rio de Janeiro?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which country gave the Statue of Liberty to the United States?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name of the continent where the country of Kenya is located?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Jewish day of rest that begins at sundown on Friday?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the Muslim fasting month that ends with the festival of Eid al-Fitr?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Jewish holiday marks the New Year and is celebrated with the blowing of the shofar?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the festival in Munich, Germany, known for beer and held each autumn?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the traditional Scottish skirt-like garment made of tartan wool?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which type of Japanese poem has three lines with five, seven, and five syllables?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Indigenous Australian people have lived on the continent for tens of thousands of ye",
+  "addAlt": [
+   "Aboriginal Australian",
+   "Indigenous Australians",
+   "Aborigine"
+  ]
+ },
+ {
+  "match": "What is the name of the Italian city famous for canals and gondolas?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name of the Hindu belief that a soul is reborn after death?",
+  "part": 2,
+  "addAlt": [
+   "samsara"
+  ]
+ },
+ {
+  "match": "From which country does the dance called the waltz come, with Vienna as a famous center?",
+  "part": 0,
+  "drop": true,
+  "reason": "waltz origin disputed between Austria and Germany"
+ },
+ {
+  "match": "What is the Chinese tradition of giving red envelopes with money during Lunar New Year cal",
+  "part": 0,
+  "addAlt": [
+   "red packet",
+   "hong bao"
+  ]
+ },
+ {
+  "match": "What is the large desert on the Arabian Peninsula's southern region called?",
+  "part": 1,
+  "drop": true,
+  "reason": "obscure desert for novice level"
+ },
+ {
+  "match": "In \"Frankenstein,\" what is the profession of Robert Walton, who narrates the frame story?",
+  "drop": true,
+  "reason": "minor detail of the novel"
+ },
+ {
+  "match": "In \"Romeo and Juliet,\" what is the name of Romeo's cousin and friend who is killed by Tyba",
+  "setText": "In \"Romeo and Juliet,\" which witty friend of Romeo is killed in a duel by Tybalt?"
+ },
+ {
+  "match": "In \"Jane Eyre,\" what is secretly held in the attic of Thornfield Hall?",
+  "addAlt": [
+   "Bertha Rochester",
+   "Rochester's wife",
+   "his wife",
+   "a madwoman"
+  ]
+ },
+ {
+  "match": "In \"Frankenstein,\" which character, a scientist, creates the monster?",
+  "addAlt": [
+   "Frankenstein",
+   "Dr. Frankenstein",
+   "Doctor Frankenstein"
+  ]
+ },
+ {
+  "match": "In \"Pride and Prejudice,\" who is the proud wealthy man who proposes to Elizabeth Bennet?",
+  "addAlt": [
+   "Mr. Darcy",
+   "Fitzwilliam"
+  ]
+ },
+ {
+  "match": "In \"Macbeth,\" which three characters make prophecies to Macbeth?",
+  "addAlt": [
+   "Weird Sisters",
+   "the three witches"
+  ]
+ },
+ {
+  "match": "Who wrote \"Brave New World\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"The Importance of Being Earnest\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"Tess of the d'Urbervilles\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"Heart of Darkness\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote the novel about a single day in the life of Clarissa Dalloway?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Who wrote \"Sir Gawain and the Green Knight\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Austen novel is set partly in Bath and features the heroine Catherine Morland?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which poet wrote \"My Last Duchess\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Victorian poet wrote \"Sonnets from the Portuguese\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "In \"Wuthering Heights,\" what is the name of the brooding foundling who loves Catherine Ear",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"Oliver Twist,\" what is the name of the leader of the band of pickpockets?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"Hamlet,\" what is the name of Hamlet's mother?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"Macbeth,\" who urges her husband to kill King Duncan?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"Othello,\" which villain schemes against the title character?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"The Merchant of Venice,\" which moneylender demands a pound of flesh?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which poet wrote \"The Waste Land\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which poet wrote \"Do not go gentle into that good night\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Dickens novel features the Cratchit family, including Tiny Tim?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which novel by George Eliot features the Dorothea Brooke?",
+  "setText": "Which novel by George Eliot features the heroine Dorothea Brooke?"
+ },
+ {
+  "match": "Which Joseph Conrad novel features the sailor Marlow traveling up the Congo?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which author wrote \"Barchester Towers\"?",
+  "drop": true,
+  "reason": "minor Trollope novel, obscure for varsity"
+ },
+ {
+  "match": "Which author wrote \"Jude the Obscure\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"Mansfield Park\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"Nineteen Eighty-Four\" and \"Homage to Catalonia\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which poet wrote \"In Memoriam A. H. H.\"?",
+  "addAlt": [
+   "Alfred Tennyson",
+   "Lord Tennyson"
+  ]
+ },
+ {
+  "match": "Which poet wrote \"Dover Beach\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which poet wrote \"Lycidas\" and \"Samson Agonistes\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which author wrote \"Pygmalion\" and \"Major Barbara\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which playwright wrote \"Waiting for Godot\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Hardy novel features a title character who is a country girl named Tess?",
+  "part": 0,
+  "addAlt": [
+   "Tess"
+  ]
+ },
+ {
+  "match": "Which Conrad novel is about the Patusan and the guilt of a sailor who jumped from the Patn",
+  "part": 2,
+  "setText": "Which Conrad novel concerns Jim, who jumped from the ship Patna and later lives in Patusan?"
+ },
+ {
+  "match": "What pen name did Mary Ann Evans use?",
+  "part": 0,
+  "addAlt": [
+   "Eliot"
+  ]
+ },
+ {
+  "match": "Which Ted Hughes collection includes the poem \"Hawk Roosting\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "obscure Hughes collection title"
+ },
+ {
+  "match": "Which Japanese author wrote The Tale of Genji?",
+  "addAlt": [
+   "Lady Murasaki"
+  ]
+ },
+ {
+  "match": "Which Russian poet wrote Eugene Onegin?",
+  "addAlt": [
+   "Aleksandr Pushkin"
+  ]
+ },
+ {
+  "match": "Which Italian author wrote the Decameron?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Persian poet wrote the Shahnameh?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which German author wrote All Quiet on the Western Front?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Russian novelist wrote Doctor Zhivago?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek playwright wrote Medea?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Egyptian novelist won the 1988 Nobel Prize and wrote the Cairo Trilogy?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Portuguese poet wrote The Lusiads?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "In Don Quixote, what is the name of the knight's squire?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Italian author wrote The Betrothed, a historical novel set in Lombardy?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Japanese author wrote Rashomon and Other Stories?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Chinese author wrote Dream of the Red Chamber?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Chinese author wrote The Real Story of Ah Q and \"Diary of a Madman\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Austrian author wrote The Man Without Qualities?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Polish author wrote Quo Vadis and won the 1905 Nobel Prize?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "In Les Misérables, what is the name of the police inspector who relentlessly pursues Jean ",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Nigerian-born author wrote The Palm-Wine Drinkard?",
+  "drop": true,
+  "reason": "obscure author, too minor for varsity"
+ },
+ {
+  "match": "Which Polish author wrote Ferdydurke?",
+  "drop": true,
+  "reason": "obscure novel for the level"
+ },
+ {
+  "match": "Which Cuban author wrote Three Trapped Tigers?",
+  "drop": true,
+  "reason": "obscure author"
+ },
+ {
+  "match": "Which Sudanese author wrote Season of Migration to the North?",
+  "drop": true,
+  "reason": "obscure author"
+ },
+ {
+  "match": "Which Argentine author wrote Hopscotch?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Portuguese poet used heteronyms like Álvaro de Campos?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Russian poet wrote Requiem about the Stalinist terror?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek author wrote Zorba the Greek?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Old Norse collection of poems and prose records myths about Odin and Thor, compiled ",
+  "difficulty": "medium",
+  "addAlt": [
+   "Younger Edda"
+  ]
+ },
+ {
+  "match": "Which French author wrote The Red and the Black?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Marie-Henri Beyle"
+  ]
+ },
+ {
+  "match": "Which Norwegian playwright wrote Hedda Gabler?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Persian poet wrote the Rubaiyat, later translated by Edward FitzGerald?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Omar Khayyám"
+  ]
+ },
+ {
+  "match": "Which Persian poet wrote the Masnavi?",
+  "difficulty": "medium",
+  "addAlt": [
+   "Jalaluddin Rumi",
+   "Molana"
+  ]
+ },
+ {
+  "match": "Which Finnish national epic was compiled by Elias Lönnrot?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Mesopotamian epic features a king of Uruk and his friend Enkidu?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Spanish playwright wrote Blood Wedding and The House of Bernarda Alba?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek hero is famous for his twelve labors?",
+  "difficulty": "easy",
+  "addAlt": [
+   "Herakles"
+  ]
+ },
+ {
+  "match": "Which Roman author wrote the satirical novel The Golden Ass?",
+  "difficulty": "hard",
+  "addAlt": [
+   "Lucius Apuleius"
+  ]
+ },
+ {
+  "match": "Which Spanish author wrote Don Juan Tenorio?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which German poet wrote the Sorrows of Young Werther?",
+  "difficulty": "easy",
+  "addAlt": [
+   "Johann von Goethe",
+   "Johann Goethe"
+  ]
+ },
+ {
+  "match": "Which Russian author wrote The Brothers Karamazov?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which German author wrote Siddhartha and Steppenwolf?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek epic poet wrote Theogony and Works and Days?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Algerian-born French author wrote The Plague?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which one-eyed giant does Odysseus blind?",
+  "part": 1,
+  "difficulty": "easy",
+  "addAlt": [
+   "Polyphemos"
+  ]
+ },
+ {
+  "match": "Which sorceress turns Odysseus's crew into pigs?",
+  "part": 2,
+  "difficulty": "medium",
+  "addAlt": [
+   "Kirke"
+  ]
+ },
+ {
+  "match": "Which Turgenev novel introduces the nihilist Bazarov?",
+  "part": 2,
+  "addAlt": [
+   "Fathers and Children"
+  ]
+ },
+ {
+  "match": "Which Camus novel is narrated by Meursault?",
+  "part": 1,
+  "addAlt": [
+   "The Outsider",
+   "Outsider"
+  ]
+ },
+ {
+  "match": "Which Sophocles play is about a king who unknowingly kills his father?",
+  "part": 0,
+  "addAlt": [
+   "Oedipus"
+  ]
+ },
+ {
+  "match": "Into how many circles is Dante's Hell divided?",
+  "part": 2,
+  "difficulty": "medium",
+  "addAlt": [
+   "nine circles"
+  ]
+ },
+ {
+  "match": "Which Brothers Grimm tale features a girl who leaves a trail of pebbles and breadcrumbs?",
+  "part": 0,
+  "setText": "Which Brothers Grimm tale features a brother and sister who leave a trail of pebbles and breadcrumbs?"
+ },
+ {
+  "match": "Which Japanese poetic form has three lines of five, seven, and five syllables?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Nikolai Gogol play is a satire about a mistaken identity involving a government insp",
+  "part": 1,
+  "addAlt": [
+   "Revizor",
+   "The Inspector"
+  ]
+ },
+ {
+  "match": "Which Persian poet wrote The Conference of the Birds?",
+  "part": 2,
+  "addAlt": [
+   "Attar of Nishapur",
+   "Farid al-Din Attar"
+  ]
+ },
+ {
+  "match": "Which singers lure sailors with song and are resisted when Odysseus is tied to his mast?",
+  "part": 1,
+  "addAlt": [
+   "Siren"
+  ]
+ },
+ {
+  "match": "Which play about a village revolt against a commander has a title meaning \"The Sheep Well\"",
+  "part": 1
+ },
+ {
+  "match": "Which Spanish author wrote the novel \"Cien años de soledad\"?",
+  "setText": "Which Colombian author wrote the novel \"Cien años de soledad\"?"
+ },
+ {
+  "match": "What is the Spanish word for \"to return\" or \"to give back\"?",
+  "setText": "What is the Spanish verb meaning \"to give back,\" as in returning a borrowed item, that begins with \"dev\"?"
+ },
+ {
+  "match": "What is the form of the verb \"haber\" used for \"he\" in the present perfect, as in \"he comid",
+  "drop": true,
+  "reason": "answer is just the word given in the question"
+ },
+ {
+  "match": "What does the Spanish word \"todavía\" mean in English when used with a negative as \"todavía",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish word \"lástima\" mean in the phrase \"es una lástima\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What does the Spanish word \"mudarse\" mean in English?",
+  "difficulty": "medium",
+  "addAlt": [
+   "to move house",
+   "to move out"
+  ]
+ },
+ {
+  "match": "What does the Spanish word \"echar de menos\" mean in English?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"customs\" at an airport?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"environment\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the yo form of the verb \"dar\" in the present subjunctive?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the yo form of the verb \"empezar\" in the present subjunctive, with the spelling ch",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the yo form of the verb \"querer\" in the conditional tense?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the yo form of the verb \"saber\" in the conditional tense?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What is the past participle of \"volver\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the Spanish word for \"provided that,\" used with the subjunctive?",
+  "addAlt": [
+   "siempre que",
+   "siempre y cuando"
+  ]
+ },
+ {
+  "match": "Which Spanish author wrote the novel \"Don Quijote de la Mancha\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Spanish painter created the large antiwar mural \"Guernica\" in 1937?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Spanish painter is known for the surrealist work \"La persistencia de la memoria,\" wi",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Spanish conquistador conquered the Aztec Empire?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Argentine author wrote the short story collection \"Ficciones\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Spanish playwright and poet wrote \"La casa de Bernarda Alba\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Colombian author wrote \"Crónica de una muerte anunciada\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Spanish painter created \"Las meninas\" in the seventeenth century?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Spanish architect designed the Sagrada Família in Barcelona?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Mexican muralist painted \"Man at the Crossroads\" and murals at the National Palace i",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Aztec capital stood where Mexico City stands today?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Spanish conquistador conquered the Inca Empire?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the pluperfect form of \"hablar\" for yo, using \"había\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the future perfect form of \"ver\" for yo, using \"habré\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the conditional perfect form of \"hacer\" for yo, using \"habría\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the tú affirmative command of \"decir\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the tú affirmative command of \"venir\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the tú affirmative command of \"hacer\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the tú affirmative command of \"tener\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the Spanish word for \"mine,\" a possessive pronoun?",
+  "addAlt": [
+   "mía",
+   "la mía",
+   "míos",
+   "mías"
+  ]
+ },
+ {
+  "match": "Which Mughal emperor ordered the building of the Red Fort in Delhi?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "The porch of the Pantheon uses which ornate order, whose capitals show acanthus leaves?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Finnish-American architect designed the Gateway Arch in Saint Louis?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Danish architect designed the Sydney Opera House?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Many government buildings in Washington, DC, with columns and pediments are in which reviv",
+  "addAlt": [
+   "Classical Revival"
+  ]
+ },
+ {
+  "match": "What term describes a row of evenly spaced columns supporting a roof or a series of arches",
+  "setText": "What term describes a row of evenly spaced columns supporting an entablature or roof?"
+ },
+ {
+  "match": "Which architect designed the glass pyramid at the Louvre?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Bavarian king built Neuschwanstein Castle?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which German-born engineer designed the Brooklyn Bridge?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Irish-born architect designed the White House?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Italian Renaissance architect designed the Villa Rotonda and wrote \"The Four Books o",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which English architect introduced Palladian style to England with the Banqueting House in",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Roman writer's treatise \"On Architecture\" influenced Renaissance builders?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which American architect designed the Salk Institute in La Jolla?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which German-American architect, famous for \"less is more,\" designed the Seagram Building?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Frank Gehry designed the Walt Disney Concert Hall in which California city?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "The Dome of the Rock is located in which city?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Machu Picchu is located in which South American country?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "The Taj Mahal is located in which Indian city?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Cologne Cathedral is a Gothic cathedral in which country?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "The Washington Monument has what four-sided tapering shape?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "The Arc de Triomphe in Paris was commissioned to honor the victories of which French leade",
+  "difficulty": "easy",
+  "addAlt": [
+   "Napoleon I"
+  ]
+ },
+ {
+  "match": "Which architect and mathematician from Miletus designed the Hagia Sophia with Anthemius of",
+  "drop": true,
+  "reason": "obscure architect; specialist trivia"
+ },
+ {
+  "match": "Which American architect designed the Home Insurance Building in Chicago, often called the",
+  "drop": true,
+  "reason": "obscure architect; specialist trivia"
+ },
+ {
+  "match": "Which San Diego architect, a pioneer of modernist simplicity in California, designed the L",
+  "drop": true,
+  "reason": "minor local building and architect"
+ },
+ {
+  "match": "Which architect designed the Tempietto at San Pietro in Montorio in Rome?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French architect designed the Paris Opera house, the Palais Garnier?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which English gardener and architect designed the glass-and-iron Crystal Palace?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which architect led the planning of the 1893 World's Columbian Exposition in Chicago?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which American architect designed the Glass House in New Canaan, Connecticut?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Brazilian architect designed the government buildings of Brasília?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which postwar style, named for the French for \"raw concrete,\" uses massive, blocky forms?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Buddhist monument in Java, Indonesia, is arranged as a giant stepped mandala?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "El Castillo at Chichen Itza is aligned to show a serpent shadow on which feathered serpent",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Istanbul mosque, built for a seventeenth-century sultan, has six minarets and is nic",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which firm designed the Empire State Building?",
+  "part": 2,
+  "drop": true,
+  "reason": "architecture firm name is specialist trivia"
+ },
+ {
+  "match": "What is the Italian word for a free-standing tower housing bells?",
+  "part": 1,
+  "drop": true,
+  "reason": "redundant with 1176.0, same answer"
+ },
+ {
+  "match": "Which first emperor of a unified realm joined earlier walls into one defense?",
+  "part": 2,
+  "addAlt": [
+   "Qin Shi Huangdi",
+   "Shi Huangti",
+   "Qin Shihuangdi",
+   "Qin"
+  ]
+ },
+ {
+  "match": "Which French composer died in 1875, shortly after the premiere of \"Carmen\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which American composer wrote the opera \"Porgy and Bess\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which American conductor of the New York Philharmonic wrote \"Chichester Psalms\"?",
+  "difficulty": "medium",
+  "setText": "Which American conductor of the New York Philharmonic composed \"West Side Story\"?"
+ },
+ {
+  "match": "What word names the text and lyrics of an opera or musical?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which composer wrote \"Cats,\" \"Evita,\" and \"Jesus Christ Superstar\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In \"South Pacific,\" nurse Nellie Forbush is from which state?",
+  "drop": true,
+  "reason": "minor character detail of the musical"
+ },
+ {
+  "match": "Which Puccini opera contains the aria \"Nessun dorma\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "In \"Les Misérables,\" which police inspector relentlessly pursues Valjean?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which female voice type lies between soprano and alto?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which male voice type lies between tenor and bass?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which author wrote the novel on which \"Les Misérables\" is based?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Beethoven opera, his only one, is about a woman who disguises herself as a prison gu",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which South Carolina city is the setting of \"Porgy and Bess,\" with its Catfish Row?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which lyricist wrote \"Jesus Christ Superstar\" and \"Evita\" with Andrew Lloyd Webber?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Irving Berlin musical is about the sharpshooter Annie Oakley?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which character sings \"Wait for It\" in \"Hamilton\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In \"My Fair Lady,\" which flower girl is taught to speak properly by Henry Higgins?"
+ },
+ {
+  "match": "Which opera company performs at New York's Lincoln Center?",
+  "addAlt": [
+   "Metropolitan Opera Company"
+  ]
+ },
+ {
+  "match": "Which composer wrote the music for \"Camelot\" and \"My Fair Lady\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which German composer's festival theater is in the town of Bayreuth?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Wagner opera begins with the famous \"Ride of the Valkyries\"?",
+  "part": 0,
+  "setText": "Which Wagner opera contains the famous \"Ride of the Valkyries\"?"
+ },
+ {
+  "match": "Which Wagner opera, about Irish lovers, opens with the famous \"Tristan chord\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "answer appears in clue; Tristan chord trivia"
+ },
+ {
+  "match": "The Phantom's masked ball scene uses which name for his song?",
+  "part": 2,
+  "setText": "What is the title of the Act Two opening number of \"The Phantom of the Opera,\" set at a masked ball?"
+ },
+ {
+  "match": "Which Puerto Rican heroine falls for Tony?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Disney musical includes the song \"Be Our Guest\" sung by a candelabrum?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "From which abbey does Maria come to be a governess?",
+  "part": 2,
+  "drop": true,
+  "reason": "minor detail of the musical"
+ },
+ {
+  "match": "Which wise mandrill presents Simba to the animals?",
+  "part": 2,
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which traveling peddler sings \"It's a Scandal! It's an Outrage!\" and tries to avoid marria",
+  "part": 2,
+  "drop": true,
+  "reason": "minor character"
+ },
+ {
+  "match": "Which iron tower, finished in 1889, is the best-known landmark of Paris?",
+  "addAlt": [
+   "Tour Eiffel"
+  ]
+ },
+ {
+  "match": "What is the French word for \"apple\"?",
+  "addAlt": [
+   "une pomme"
+  ]
+ },
+ {
+  "match": "Which French holiday, celebrated on July 14, marks the storming of a royal prison in 1789?",
+  "difficulty": "medium",
+  "addAlt": [
+   "July 14",
+   "14 juillet"
+  ]
+ },
+ {
+  "match": "Which palace outside Paris was built by Louis XIV and has a famous Hall of Mirrors?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French author wrote \"The Hunchback of Notre-Dame\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French author and pilot wrote \"The Little Prince\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which resort city on the French Riviera hosts a famous annual film festival?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"book\"?",
+  "addAlt": [
+   "un livre"
+  ]
+ },
+ {
+  "match": "Which Canadian province has French as its only official language?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which mountain on the French and Italian border is the tallest peak in the Alps?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which body of water separates France from England?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the French word for \"dog\"?",
+  "addAlt": [
+   "un chien"
+  ]
+ },
+ {
+  "match": "Which French writer wrote \"The Three Musketeers\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French playwright wrote the comedy \"Tartuffe\"?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which French king, known as the Sun King, ruled for 72 years?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French philosopher wrote \"I think, therefore I am\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which French author wrote \"Twenty Thousand Leagues Under the Sea\" and \"Around the World in",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which French king was beheaded by guillotine in 1793?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which French royal prison was stormed on July 14, 1789?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which queen of France is falsely said to have said \"Let them eat cake\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"cheese\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which French verb means \"to be\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the French word for \"butterfly\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which French dessert is a custard topped with a layer of hard caramel?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which vegetable stew from Provence contains eggplant, zucchini, and tomatoes?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which French fashion designer created the little black dress and Chanel No. 5?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which cardinal served as chief minister to Louis XIII?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French playwright wrote \"Cyrano de Bergerac\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French philosopher wrote \"Nausea\" and \"Being and Nothingness\"?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French mathematician and philosopher wrote \"Pensées\" and invented a mechanical calcu",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which French stew of beef, red wine, and carrots is named for a region?",
+  "addAlt": [
+   "bourguignon"
+  ]
+ },
+ {
+  "match": "Which French holiday on January 6 is celebrated with a cake containing a hidden charm?",
+  "addAlt": [
+   "Three Kings Day",
+   "Epiphanie",
+   "King cake"
+  ]
+ },
+ {
+  "match": "What is the French term for \"false friend,\" a word that looks like an English word but mea",
+  "addAlt": [
+   "false friend",
+   "false friends"
+  ]
+ },
+ {
+  "match": "Which tense of the French verb corresponds to the English \"I used to speak\"?",
+  "addAlt": [
+   "l'imparfait"
+  ]
+ },
+ {
+  "match": "What is the French word for \"friend\"?",
+  "addAlt": [
+   "copain",
+   "copine"
+  ]
+ },
+ {
+  "match": "Which French word, from the Greek, names a motion picture theater?",
+  "part": 0,
+  "drop": true,
+  "reason": "ambiguous; could be theatre or cinema"
+ },
+ {
+  "match": "Which Mexican author wrote the short story collection \"El llano en llamas\"?",
+  "part": 2,
+  "drop": true,
+  "reason": "specialist trivia, obscure story collection"
+ },
+ {
+  "match": "What English word does the French \"grand-père\" mean?",
+  "part": 1,
+  "addAlt": [
+   "grandpa"
+  ]
+ },
+ {
+  "match": "What English phrase does the French \"à bientôt\" mean?",
+  "part": 1,
+  "addAlt": [
+   "until soon",
+   "see you shortly"
+  ]
+ },
+ {
+  "match": "What English phrase does the French \"de rien\" mean?",
+  "part": 2,
+  "addAlt": [
+   "don't mention it",
+   "no problem",
+   "it's nothing"
+  ]
+ },
+ {
+  "match": "What English word does the French \"orage\" mean?",
+  "part": 2,
+  "addAlt": [
+   "thunderstorms"
+  ]
+ },
+ {
+  "match": "What English color does the Spanish \"morado\" mean?",
+  "part": 2,
+  "addAlt": [
+   "violet"
+  ]
+ },
+ {
+  "match": "What English word does the Spanish \"abuela\" mean?",
+  "part": 1,
+  "addAlt": [
+   "grandma"
+  ]
+ },
+ {
+  "match": "Which mood is used for wishes, doubts, and emotions?",
+  "part": 1,
+  "addAlt": [
+   "subjuntivo"
+  ]
+ },
+ {
+  "match": "Which past tense describes ongoing or habitual past actions?",
+  "part": 2,
+  "addAlt": [
+   "imperfect tense",
+   "pretérito imperfecto"
+  ]
+ },
+ {
+  "match": "Answer these questions about Spanish time words.",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Answer these questions about Spanish clothing.",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Answer these questions about places in Spanish.",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Answer these questions about Spanish animal words.",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Answer these questions about Spanish weather expressions.",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the British scientist who proposed chemiosmosis?",
+  "drop": true,
+  "reason": "specialist history trivia, not expected at this level"
+ },
+ {
+  "match": "What is the term for the study of how heritable changes occur without altering the DNA seq",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of selection favors both extreme phenotypes over the intermediate one?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name for the physical barrier that separates populations and can lead to allop",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for a hormone-secreting group of cells that does not use ducts?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of cancer-causing gene arises from a mutated normal growth gene?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name for the process by which a gene's information is used to make a functiona",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes an inactivated second X chromosome in female mammals, seen as a Barr b",
+  "difficulty": "hard"
+ },
+ {
+  "match": "In the Hardy-Weinberg equation, if q squared is 0.09, what is the value of q?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of virus uses reverse transcriptase to make DNA from RNA?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of population growth produces a J-shaped curve?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What gas is the main greenhouse gas released by the burning of fossil fuels?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name of the ancient supercontinent that broke apart about 200 million years ag",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of flowering plant has two seed leaves, called cotyledons?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name of the protein around which DNA is wrapped to form nucleosomes?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for the hormone that triggers ovulation, produced by the pituitary?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What are the three primary germ layers of the embryo?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for the embryonic layer that becomes the nervous system and skin?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the proton pump enzyme that synthesizes ATP using a proton gradient?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the theory that mitochondria and chloroplasts arose from engulfed prok",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the diploid, spore-producing generation in plants?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What protein complexes present antigens on cell surfaces to T cells?",
+  "addAlt": [
+   "human leukocyte antigen",
+   "HLA"
+  ]
+ },
+ {
+  "match": "What type of cell kills infected body cells, a type of T cell?",
+  "part": 1,
+  "addAlt": [
+   "cytotoxic T lymphocyte",
+   "CD8 T cell"
+  ]
+ },
+ {
+  "match": "What type of plant tissue is responsible for secondary growth, producing wood?",
+  "addAlt": [
+   "cambium"
+  ]
+ },
+ {
+  "match": "What theory explains water movement using cohesion and adhesion?",
+  "part": 1,
+  "addAlt": [
+   "transpiration-cohesion-tension theory",
+   "cohesion theory",
+   "cohesion-tension"
+  ]
+ },
+ {
+  "match": "What sugar is the main fuel carried in the blood and regulated by these hormones?",
+  "part": 0,
+  "setText": "What sugar is the main fuel carried in the blood, with its level regulated by pancreatic hormones?"
+ },
+ {
+  "match": "What condition occurs when cells no longer respond properly to insulin?",
+  "part": 2,
+  "difficulty": "medium",
+  "addAlt": [
+   "diabetes",
+   "type II diabetes",
+   "type 2 diabetes mellitus",
+   "diabetes mellitus"
+  ]
+ },
+ {
+  "match": "What type of neuron carries signals from sensory receptors to the central nervous system?",
+  "part": 0,
+  "addAlt": [
+   "afferent",
+   "sensory"
+  ]
+ },
+ {
+  "match": "What British naturalist co-discovered natural selection with Darwin?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of inhibitor competes with the usual reactant for the active site?",
+  "part": 1,
+  "addAlt": [
+   "competitive"
+  ]
+ },
+ {
+  "match": "What tumor suppressor protein, called the guardian of the genome, is mutated in many tumor",
+  "part": 1,
+  "addAlt": [
+   "TP53",
+   "protein 53"
+  ]
+ },
+ {
+  "match": "What term describes malignant cells spreading to distant body parts?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the passing of acquired antibodies from mother to baby through milk or",
+  "difficulty": "medium",
+  "addAlt": [
+   "passive immunization",
+   "maternal antibodies"
+  ]
+ },
+ {
+  "match": "What type of bond links the nucleotides in a DNA strand, between the sugar and phosphate?",
+  "addAlt": [
+   "phosphodiester linkage",
+   "phosphodiester"
+  ]
+ },
+ {
+  "match": "What small RNA molecules, abbreviated miRNA, silence mRNA to regulate gene expression?",
+  "addAlt": [
+   "miRNA"
+  ]
+ },
+ {
+  "match": "What scientists in 1952 used radioactive sulfur and phosphorus labeling in viruses?",
+  "part": 1,
+  "addAlt": [
+   "Hershey-Chase",
+   "Hershey Chase experiment",
+   "Hershey and Chase experiment"
+  ]
+ },
+ {
+  "match": "What type of reproduction in plants involves the fusion of male and female gametes in a fl",
+  "drop": true,
+  "reason": "vague; answer not determined by clue"
+ },
+ {
+  "match": "What is the name of the process in which tRNA is loaded with its specific amino acid by an",
+  "addAlt": [
+   "charging",
+   "aminoacylation of tRNA"
+  ]
+ },
+ {
+  "match": "What disease results from a recessive mutation in the beta globin gene that distorts red b",
+  "part": 2,
+  "addAlt": [
+   "sickle cell",
+   "sickle cell anemia"
+  ]
+ },
+ {
+  "match": "What device stores electric charge using two conducting plates separated by an insulator?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What unit, equal to one newton per square meter, measures pressure?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the sum of an object's kinetic and potential energy?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the SI unit of magnetic field strength?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the SI unit of capacitance?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What type of wave, such as sound, requires a medium to travel?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to the force a surface exerts perpendicular to an object resting on it?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What force provides the centripetal force that keeps planets in orbit around the Sun?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What effect describes a change in observed frequency caused by relative motion of a wave s",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes heat transfer by direct contact between particles?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes heat transfer by the movement of a fluid?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes a material that does not allow electric charge to flow freely?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of circuit provides only a single path for current?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What quantity is defined as force per unit area?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to packets of light energy?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "The index of refraction of a material is the ratio of the speed of light in a vacuum to wh",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which scientist discovered the electron in 1897?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What nuclear process combines light nuclei into a heavier nucleus?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What nuclear process splits a heavy nucleus into lighter nuclei?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of simple machine is a ramp?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes the maximum displacement of a wave from its equilibrium position?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of electromagnetic radiation causes sunburn?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What device uses two coils of wire to increase or decrease an alternating voltage?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What type of interference occurs when the crests of two waves line up?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Using 10 meters per second squared for gravity, how many seconds does an object dropped fr",
+  "difficulty": "medium"
+ },
+ {
+  "match": "A 2-kilogram ball moving at 5 meters per second collides and sticks to a stationary 3-kilo",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the equivalent resistance in ohms of three 12-ohm resistors connected in parallel?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the wavelength in meters of a 100-hertz wave traveling at 340 meters per second?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "How many watts are dissipated by a 3-ohm resistor connected across a 12-volt battery?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which German physicist is associated with the uncertainty principle relating position and ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "The energy of a photon is directly proportional to what property of the light?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the number of protons in an atomic nucleus?",
+  "difficulty": "medium",
+  "addAlt": [
+   "proton number"
+  ]
+ },
+ {
+  "match": "A radioactive sample has a half-life of 5 days. What fraction remains after 20 days?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Swiss scientist's principle states that faster-moving fluid has lower pressure?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the shift of light from receding galaxies toward longer wavelengths?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "At the top of its flight, what is the vertical velocity of a projectile?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the constant speed reached by a falling object when drag equals its we",
+  "difficulty": "medium"
+ },
+ {
+  "match": "In the ideal gas law PV equals nRT, what does the letter R represent?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to points of zero displacement in a standing wave?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What acceleration, in meters per second squared, does a net force of 50 newtons give a 10-",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "How many meters does that object travel in those 3 seconds?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Two 10-ohm resistors are connected in series across a 20-volt battery. How many amperes fl",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "A nanometer is 10 to the minus what power meters?",
+  "part": 2
+ },
+ {
+  "match": "Which 1803 Supreme Court case established the principle of judicial review?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Supreme Court case of 1954 declared racial segregation in public schools unconstitut",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What fraction of each house of Congress is required to override a presidential veto?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to the power of the courts to strike down laws that violate the Constit",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes drawing legislative districts to favor one party?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the term for a temporary stop to Senate business by a long speech meant to delay a",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the name for the written order issued by a president that has the force of law?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Supreme Court justice was the first African American to serve on the Court?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Supreme Court justice was the first woman to serve on the Court?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Supreme Court case of 1944 upheld the internment of Japanese Americans?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1973 Supreme Court case recognized a constitutional right to privacy in abortion dec",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the legal term for a court order demanding that a prisoner be brought before a jud",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for a judge's written statement disagreeing with the court's majority dec",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name for the legal principle of following earlier court decisions?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name for the Latin term meaning \"friend of the court,\" applied to a brief file",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the group of presidential advisers who head the executive departments?",
+  "addAlt": [
+   "President's Cabinet"
+  ]
+ },
+ {
+  "match": "Which agreement at the Constitutional Convention gave states equal representation in the S",
+  "addAlt": [
+   "Compromise of 1787"
+  ]
+ },
+ {
+  "match": "Which Supreme Court order to review a lower court's decision is called what, from the Lati",
+  "setText": "What Latin-named writ, meaning \"to be made more certain,\" is the order the Supreme Court issues to agree to review a lower court's decision?"
+ },
+ {
+  "match": "What is the name for the 1790s dispute in which Republicans opposed laws like the Alien an",
+  "setText": "What 1798 documents, written by Jefferson and Madison, protested the Alien and Sedition Acts?"
+ },
+ {
+  "match": "What is the name for the principle that the federal government may use its taxing and spen",
+  "drop": true,
+  "reason": "muddled question; categorical vs conditional grants ambiguous"
+ },
+ {
+  "match": "Which amendment protects the right to a trial by jury in civil cases?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a state in which the presidential vote is closely divided between the ",
+  "part": 3,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1990 law prohibits discrimination against people with disabilities?",
+  "part": 3,
+  "difficulty": "medium",
+  "addAlt": [
+   "Americans with Disabilities Act of 1990"
+  ]
+ },
+ {
+  "match": "Which congressional power, called the power of the \"purse,\" lets Congress decide how feder",
+  "part": 3,
+  "addAlt": [
+   "appropriation",
+   "power of the purse"
+  ]
+ },
+ {
+  "match": "What term describes government spending that is required by law, such as benefits for reti",
+  "part": 2,
+  "addAlt": [
+   "direct spending"
+  ]
+ },
+ {
+  "match": "What name is given to the federal retirement insurance program for workers, created by an ",
+  "part": 3,
+  "addAlt": [
+   "Social Security Act",
+   "Social Security Act of 1935"
+  ]
+ },
+ {
+  "match": "Which philosopher wrote Two Treatises of Government, arguing that government rests on the ",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Italian Renaissance writer authored The Prince?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Greek philosopher wrote The Republic, describing a state ruled by philosopher-kings?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the lower house of the German parliament?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the name of the Israeli parliament?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to a system where one party controls the government and no others are a",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a government run by a small group of powerful people?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a form of government where power is divided between a national and reg",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is the term for a government in which all power is held by a central government?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which German leader headed the Nazi party and became chancellor in 1933?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Who became South Africa's first Black president in 1994?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to the wall that divided a German city until 1989?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the term for a vote in which an entire electorate decides on a single question?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which country was led by Fidel Castro after a 1959 revolution?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Indian leader led nonviolent resistance to British rule?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What name is given to the loose association formed by most former Soviet republics after t",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which country's legislature is called the Cortes Generales?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which treaty of 1992 created the European Union?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which country's legislature is called the Diet?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which country was divided at the 38th parallel after World War II?",
+  "addAlt": [
+   "Korean Peninsula"
+  ]
+ },
+ {
+  "match": "Which Athenian leader presided over Athens's golden age and is associated with the democra",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What was the name of the council of elders and magistrates that governed the Roman Republi",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What were the two chief magistrates elected annually to lead the Roman Republic called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Chinese philosophy, taught by a sage born around 551 BC, stresses ethical government",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What was the Chinese concept that rulers held power because of divine approval, which coul",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which dynasty first unified China in 221 BC under the emperor Qin Shi Huang?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Mongol ruler founded the largest contiguous land empire in history?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which Frankish king was crowned emperor by Pope Leo III in the year 800?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What was the medieval system, dominant in Europe, in which lords granted land to vassals i",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which British prime minister led his country through much of World War II?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which 1815 conference redrew Europe's map after Napoleon's defeat?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Russian dynasty ruled from 1613 until the revolution of 1917?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which German statesman unified Germany in 1871 under Prussian leadership?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Italian leader and general led the Red Shirts in the unification of Italy?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term refers to the Roman Catholic Church's city-state, located entirely within Rome?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Latin American liberator led several South American countries to independence from S",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Argentine president, whose wife Eva was famous, led a populist government in the 194",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which African leader led Ghana to independence from Britain in 1957?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Kenyan leader became the first president of Kenya?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which Egyptian leader nationalized the Suez Canal in 1956?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which seventeenth-century conflict in England between Royalists and Parliamentarians led t",
+  "difficulty": "easy",
+  "addAlt": [
+   "English Revolution"
+  ]
+ },
+ {
+  "match": "Which Puritan leader ruled England as Lord Protector after the execution of Charles I?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which 1949 document established the constitution of the Federal Republic of Germany and is",
+  "addAlt": [
+   "German Basic Law"
+  ],
+  "setAnswer": "Basic Law"
+ },
+ {
+  "match": "Which Ottoman sultan, called \"the Magnificent,\" ruled at the empire's height in the sixtee",
+  "difficulty": "medium",
+  "addAlt": [
+   "Suleiman I",
+   "Suleyman the Magnificent"
+  ]
+ },
+ {
+  "match": "Which Turkish leader founded the Republic of Turkey in 1923 and abolished the sultanate?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which treaty of 1494 divided newly discovered lands between Spain and Portugal?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What was the name of the Soviet secret police agency that was a forerunner of the KGB?",
+  "part": 1,
+  "addAlt": [
+   "OGPU",
+   "MGB"
+  ]
+ },
+ {
+  "match": "What term names a person elected to speak for the voters of a district in a parliament or ",
+  "part": 1,
+  "addAlt": [
+   "member of parliament",
+   "deputy",
+   "congressman"
+  ]
+ },
+ {
+  "match": "What term describes a government that demands strict obedience and limits personal freedom",
+  "part": 2,
+  "addAlt": [
+   "authoritarian government"
+  ]
+ },
+ {
+  "match": "What is the name of the party that led the independence movement, abbreviated INC?",
+  "part": 1,
+  "addAlt": [
+   "Congress"
+  ]
+ },
+ {
+  "match": "Which 1957 treaty created the European Economic Community, a forerunner of the EU?",
+  "part": 0,
+  "addAlt": [
+   "Treaties of Rome"
+  ]
+ },
+ {
+  "match": "What body of Athenian male citizens voted directly on laws and war?",
+  "part": 2,
+  "addAlt": [
+   "Athenian Assembly"
+  ]
+ },
+ {
+  "match": "What was the name for the program of American aid to rebuild Western Europe after World Wa",
+  "part": 3,
+  "addAlt": [
+   "European Recovery Program"
+  ]
+ },
+ {
+  "match": "What political ideology stresses individual freedom and limited government?",
+  "part": 0,
+  "addAlt": [
+   "libertarianism"
+  ]
+ },
+ {
+  "match": "Which ideology rejects all government authority?",
+  "part": 1,
+  "addAlt": [
+   "anarchy"
+  ]
+ },
+ {
+  "match": "Which Chinese system of exams chose government officials by merit?",
+  "part": 2,
+  "addAlt": [
+   "civil service exams",
+   "imperial exams",
+   "keju"
+  ]
+ },
+ {
+  "match": "Which Chinese leader led the 1911 revolution that overthrew the last imperial dynasty and ",
+  "part": 3,
+  "addAlt": [
+   "Sun Zhongshan"
+  ]
+ },
+ {
+  "match": "What term describes a cost already incurred that cannot be recovered?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes government use of taxes and spending to influence the economy?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the control of the money supply and interest rates by a central bank?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What is a legal maximum price, such as in rent control, called?",
+  "difficulty": "medium",
+  "addAlt": [
+   "price cap"
+  ]
+ },
+ {
+  "match": "What is a legal minimum price, such as a minimum wage, called?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What principle says a country should specialize in goods it produces at a lower opportunit",
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which British economist advocated government spending to fight depressions?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "At a price above equilibrium, what results when sellers offer more than buyers will purcha",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What kind of economy has government planning decide what is produced?",
+  "difficulty": "medium"
+ },
+ {
+  "match": "What financial asset represents a share of ownership in a corporation?",
+  "addAlt": [
+   "equity",
+   "stocks"
+  ]
+ },
+ {
+  "match": "What law states that adding more of one input eventually yields smaller additional output?",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What kind of cost does not change as output changes in the short run?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What kind of cost rises and falls with the quantity produced?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes falling average costs as a firm increases its output?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What market structure has many sellers, identical products, and easy entry?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is a group of producers that agree to limit output to raise prices?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the fraction of deposits that banks must hold rather than lend out?",
+  "addAlt": [
+   "reserve ratio",
+   "required reserve ratio"
+  ]
+ },
+ {
+  "match": "What is the interest rate the Federal Reserve charges commercial banks for loans?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes the situation in which government borrowing raises interest rates and ",
+  "difficulty": "hard"
+ },
+ {
+  "match": "What term describes high inflation combined with stagnant growth and high unemployment?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which curve graphs the cumulative share of income against the cumulative share of househol",
+  "difficulty": "hard"
+ },
+ {
+  "match": "Which Chicago School economist advocated monetarism?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which philosopher co-wrote \"The Communist Manifesto\" and wrote \"Das Kapital\"?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes a cost or benefit that spills over to a third party?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What kind of good is nonexcludable and nonrival, like national defense?",
+  "difficulty": "easy",
+  "addAlt": [
+   "public goods"
+  ]
+ },
+ {
+  "match": "What term describes the overuse of a shared resource because no one owns it?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes people taking greater risks because they are protected from the conseq",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes one party in a transaction having more information, leading to unbalan",
+  "difficulty": "hard",
+  "setText": "What term describes the problem that arises when one party in a transaction has more information, such as sicker people being more likely to buy insurance?"
+ },
+ {
+  "match": "What term describes GDP adjusted for changes in prices?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the price of one currency in terms of another?",
+  "difficulty": "easy",
+  "addAlt": [
+   "foreign exchange rate"
+  ]
+ },
+ {
+  "match": "What is a fall in a currency's value under a floating exchange rate system called?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which international organization, founded in 1995, oversees global trade rules?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which international organization, based in Washington, makes loans to countries with balan",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What is the recurring pattern of expansion and contraction in an economy called?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes how easily an asset can be converted into cash?",
+  "difficulty": "easy"
+ },
+ {
+  "match": "Which proposition says deficit-financed tax cuts are offset by increased private saving?",
+  "drop": true,
+  "reason": "specialist theory, too obscure for high school"
+ },
+ {
+  "match": "Which equation links the nominal interest rate to the real rate and expected inflation?",
+  "drop": true,
+  "reason": "specialist equation, too obscure for high school"
+ },
+ {
+  "match": "What rule suggests how central banks should set interest rates based on inflation and outp",
+  "drop": true,
+  "reason": "specialist rule, too obscure for high school"
+ },
+ {
+  "match": "Which law links changes in unemployment to changes in output?",
+  "drop": true,
+  "reason": "specialist law, too obscure for high school"
+ },
+ {
+  "match": "Which trade model predicts that countries export goods intensive in their abundant factors",
+  "drop": true,
+  "reason": "specialist trade model, too obscure for high school"
+ },
+ {
+  "match": "Which government agency, created in 1933, insures bank deposits?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What name is given to money held in checking accounts that can be withdrawn at any time?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What kind of price rise do economists call \"cost-push\" or \"demand-pull\" varieties of?",
+  "part": 0
+ },
+ {
+  "match": "What term describes the tax rate applied to the last dollar of income earned?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a market with a single buyer rather than a single seller?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a market with exactly two sellers?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes the stock of knowledge and skills held by workers?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a good whose demand falls as consumer income rises?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What term describes a prolonged rise in stock prices?",
+  "part": 1,
+  "difficulty": "easy"
+ },
+ {
+  "match": "What term describes a prolonged fall in stock prices of twenty percent or more?",
+  "part": 2,
+  "difficulty": "medium"
+ },
+ {
+  "match": "Which automaker introduced the Model T?",
+  "part": 1,
+  "addAlt": [
+   "Ford Motor Company"
+  ]
+ },
+ {
+  "match": "What is the term for a stock index's tracking of a sample of firms' prices as a gauge of t",
+  "part": 2,
+  "drop": true,
+  "reason": "vague wording, multiple defensible answers"
+ },
+ {
+  "match": "Which 1992 treaty created the European Union?",
+  "part": 1,
+  "addAlt": [
+   "Treaty on European Union"
+  ]
+ },
+ {
+  "match": "Which economist wrote \"The Affluent Society\"?",
+  "part": 0,
+  "difficulty": "medium"
+ },
+ {
+  "match": "What tax is levied on the value added at each stage of production?",
+  "part": 2,
+  "difficulty": "medium"
+ }
+]

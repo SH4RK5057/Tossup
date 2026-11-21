@@ -1,0 +1,151 @@
+ncal-novice:725 | e | U.S. Geography | Which U.S. state is home to the Grand Canyon? => Arizona
+ncal-novice:726 | e | U.S. Geography | What is the capital of California? => Sacramento
+ncal-novice:727 | e | U.S. Geography | What is the capital of Texas? => Austin
+ncal-novice:728 | e | U.S. Geography | What is the capital of New York State? => Albany
+ncal-novice:729 | e | U.S. Geography | Which U.S. state is nicknamed the Sunshine State and has Miami as a major city? => Florida
+ncal-novice:730 | e | U.S. Geography | Which U.S. state is the westernmost of the contiguous states, bordering Oregon and Mexico? => California
+ncal-novice:731 | e | U.S. Geography | Which mountain range in the western United States includes Pikes Peak and Longs Peak in Colorado? => Rocky Mountains ; Rockies ; Rocky Mountain
+ncal-novice:732 | e | U.S. Geography | Which state is nicknamed the Beehive State and has Salt Lake City as its capital? => Utah
+ncal-novice:733 | m | U.S. Geography | What is the capital of Massachusetts? => Boston
+ncal-novice:734 | m | U.S. Geography | What is the capital of Pennsylvania? => Harrisburg
+ncal-novice:735 | m | U.S. Geography | What is the capital of Ohio? => Columbus
+ncal-novice:736 | m | U.S. Geography | What is the capital of Georgia? => Atlanta
+ncal-novice:737 | m | U.S. Geography | What is the capital of Washington State? => Olympia
+ncal-novice:738 | m | U.S. Geography | What is the capital of Colorado? => Denver
+ncal-novice:739 | m | U.S. Geography | What is the capital of Arizona? => Phoenix
+ncal-novice:740 | m | U.S. Geography | What is the capital of Oregon? => Salem
+ncal-novice:741 | m | U.S. Geography | What is the capital of Nevada? => Carson City
+ncal-novice:742 | m | U.S. Geography | What is the capital of Michigan? => Lansing
+ncal-novice:743 | m | U.S. Geography | What is the capital of Louisiana? => Baton Rouge
+ncal-novice:744 | m | U.S. Geography | Which city is the largest in the United States by population? => New York City ; New York ; New York, New York
+ncal-novice:745 | m | U.S. Geography | Which national park in Wyoming is famous for the geyser Old Faithful? => Yellowstone National Park ; Yellowstone
+ncal-novice:746 | m | U.S. Geography | Which U.S. state is known as the Lone Star State? => Texas
+ncal-novice:747 | m | U.S. Geography | Which state is nicknamed the Bay State and has Boston as its capital? => Massachusetts
+ncal-novice:748 | m | U.S. Geography | Which state is nicknamed the Empire State? => New York
+ncal-novice:749 | m | U.S. Geography | What is the name of the large desert in the southwestern United States that includes Death Valley? => Mojave Desert ; Mojave
+ncal-novice:750 | m | U.S. Geography | Which U.S. state has the nickname the Peach State? => Georgia
+ncal-novice:751 | m | U.S. Geography | Which river flows through the Grand Canyon? => Colorado River ; Colorado
+ncal-novice:752 | m | U.S. Geography | What is the name of the narrow chain of islands off the southern tip of Florida? => Florida Keys ; Keys
+ncal-novice:753 | m | U.S. Geography | Which Great Lake has the city of Cleveland on its southern shore? => Lake Erie ; Erie
+ncal-novice:754 | m | U.S. Geography | Which state has the nickname the Buckeye State? => Ohio
+ncal-novice:755 | m | U.S. Geography | Which state is known as the Hoosier State? => Indiana
+ncal-novice:756 | m | U.S. Geography | Which state contains Mount Rushmore? => South Dakota
+ncal-novice:757 | m | U.S. Geography | Which state is known as the Golden State? => California
+ncal-novice:758 | m | U.S. Geography | Which Pacific Northwest state has Portland as its largest city? => Oregon
+ncal-novice:759 | m | U.S. Geography | Which gulf lies south of Louisiana, Mississippi, and Alabama? => Gulf of Mexico
+ncal-novice:760 | m | U.S. Geography | Which city is the largest in Texas by population? => Houston
+ncal-novice:761 | m | U.S. Geography | Which U.S. state is the Aloha State? => Hawaii
+ncal-novice:762 | h | U.S. Geography | What is the capital of Vermont? => Montpelier
+ncal-novice:763 | h | U.S. Geography | What is the capital of New Mexico? => Santa Fe
+ncal-novice:764 | h | U.S. Geography | What is the capital of Kentucky? => Frankfort
+ncal-novice:765 | h | U.S. Geography | What is the capital of Alaska? => Juneau
+ncal-novice:766 | h | U.S. Geography | What is the capital of South Carolina? => Columbia
+ncal-novice:767 | h | U.S. Geography | What is the capital of Wisconsin? => Madison
+ncal-novice:768 | h | U.S. Geography | What is the capital of Maine? => Augusta
+ncal-novice:769 | h | U.S. Geography | What is the highest mountain peak in the contiguous United States, located in California? => Mount Whitney ; Whitney
+ncal-novice:770 | h | U.S. Geography | What is the lowest point in North America, located in Death Valley? => Badwater Basin ; Badwater
+ncal-novice:771 | h | U.S. Geography | Which waterfall on the border of New York and Ontario is the most famous in North America? => Niagara Falls ; Niagara
+ncal-novice:772 | h | U.S. Geography | Which state is the only one to border both the Pacific Ocean and the Arctic Ocean? => Alaska
+ncal-novice:773 | h | U.S. Geography | Which U.S. state is the only one that borders just one other state? => Maine
+ncal-novice:774 | BONUS e | U.S. Geography | Answer these questions about U.S. state capitals.
+    ncal-novice:774.0 | e | What is the capital of Minnesota? => Saint Paul
+    ncal-novice:774.1 | m | What is the capital of Tennessee? => Nashville
+    ncal-novice:774.2 | h | What is the capital of Mississippi? => Jackson
+ncal-novice:775 | BONUS m | U.S. Geography | Answer these questions about U.S. rivers.
+    ncal-novice:775.0 | e | Which river flows from Minnesota to the Gulf of Mexico, with New Orleans near its mouth? => Mississippi River ; Mississippi
+    ncal-novice:775.1 | m | Which river flows through Washington, D.C., and is named for a Native American word? => Potomac River ; Potomac
+    ncal-novice:775.2 | h | Which river separates Pennsylvania from New Jersey and flows past Philadelphia? => Delaware River ; Delaware
+ncal-novice:776 | BONUS m | U.S. Geography | Answer these questions about the Great Lakes.
+    ncal-novice:776.0 | e | Which Great Lake is the largest by surface area? => Lake Superior ; Superior
+    ncal-novice:776.1 | m | Which Great Lake has the city of Chicago on its western shore? => Lake Michigan ; Michigan
+    ncal-novice:776.2 | h | Which Great Lake is the smallest by surface area? => Lake Ontario ; Ontario
+ncal-novice:777 | BONUS e | U.S. Geography | Answer these questions about U.S. regions.
+    ncal-novice:777.0 | e | In which region of the United States are Maine and Vermont found? => New England ; Northeast
+    ncal-novice:777.1 | m | Which region of the United States includes Texas, Arizona, and New Mexico? => Southwest ; the Southwest
+    ncal-novice:777.2 | h | Which broad grassland region, including Nebraska and Kansas, is known for flat prairies and farming? => Great Plains ; The Plains ; Plains
+ncal-novice:778 | BONUS m | U.S. Geography | Answer these questions about U.S. national parks.
+    ncal-novice:778.0 | e | Which national park in Arizona has a famous huge canyon carved by a river? => Grand Canyon National Park ; Grand Canyon
+    ncal-novice:778.1 | m | Which California national park is home to Half Dome and El Capitan? => Yosemite National Park ; Yosemite
+    ncal-novice:778.2 | h | Which national park in Florida protects a large subtropical wetland? => Everglades National Park ; Everglades
+ncal-novice:779 | BONUS e | U.S. Geography | Answer these questions about U.S. landmarks and the states they are in.
+    ncal-novice:779.0 | e | In which state is the Gateway Arch, located in the city of Saint Louis? => Missouri
+    ncal-novice:779.1 | m | In which state is the Space Needle? => Washington
+    ncal-novice:779.2 | h | In which state is the Alamo? => Texas
+ncal-novice:780 | BONUS m | U.S. Geography | Answer these questions about the 50 states.
+    ncal-novice:780.0 | e | Which state was admitted in 1959 as the 50th and has Honolulu as its capital? => Hawaii
+    ncal-novice:780.1 | m | Which state was the last of the original thirteen colonies to ratify the Constitution in 1790, and is the smallest by area? => Rhode Island
+    ncal-novice:780.2 | h | Which state is nicknamed the Centennial State and has Denver as its capital? => Colorado
+ncal-novice:781 | BONUS e | U.S. Geography | Answer these questions about U.S. mountains.
+    ncal-novice:781.0 | e | Which mountain in Alaska is the highest peak in North America? => Denali ; Mount McKinley ; McKinley
+    ncal-novice:781.1 | m | Which volcano in Washington State erupted in 1980? => Mount Saint Helens ; Saint Helens
+    ncal-novice:781.2 | h | Which mountain in Washington is the tallest peak of the Cascade Range? => Mount Rainier ; Rainier
+ncal-novice:782 | BONUS m | U.S. Geography | Answer these questions about U.S. cities.
+    ncal-novice:782.0 | e | Which city is nicknamed the Windy City and sits on Lake Michigan? => Chicago
+    ncal-novice:782.1 | m | Which Louisiana city is famous for Mardi Gras and is nicknamed the Big Easy? => New Orleans
+    ncal-novice:782.2 | h | Which city in Nevada is known for its casinos and the Strip? => Las Vegas
+ncal-novice:783 | BONUS e | U.S. Geography | Answer these questions about U.S. territories and islands.
+    ncal-novice:783.0 | e | Which U.S. island territory in the Caribbean has the capital San Juan? => Puerto Rico
+    ncal-novice:783.1 | m | Which island in New York State is home to the boroughs of Brooklyn and Queens? => Long Island
+    ncal-novice:783.2 | h | Which island territory in the western Pacific has the capital Hagatna? => Guam
+ncal-novice:784 | BONUS m | U.S. Geography | Answer these questions about U.S. bodies of water.
+    ncal-novice:784.0 | e | Which lake in Utah is famous for being very salty? => Great Salt Lake ; Salt Lake
+    ncal-novice:784.1 | m | Which large bay on the California coast has the Golden Gate Bridge at its entrance? => San Francisco Bay
+    ncal-novice:784.2 | h | Which large sound separates Long Island from Connecticut? => Long Island Sound
+ncal-novice:785 | BONUS e | U.S. Geography | Answer these questions about states and their borders.
+    ncal-novice:785.0 | e | Which state lies directly south of Minnesota? => Iowa
+    ncal-novice:785.1 | m | Which state lies directly north of Florida and west of South Carolina? => Georgia
+    ncal-novice:785.2 | h | Which four states meet at a single point in the Southwest, called the Four Corners? => Utah, Colorado, Arizona, and New Mexico ; Four Corners ; Arizona, Colorado, New Mexico, Utah ; Utah, Colorado, Arizona, New Mexico
+ncal-novice:786 | BONUS m | U.S. Geography | Answer these questions about U.S. state nicknames.
+    ncal-novice:786.0 | e | Which state is nicknamed the Sunshine State? => Florida
+    ncal-novice:786.1 | m | Which state is nicknamed the Pine Tree State? => Maine
+    ncal-novice:786.2 | h | Which state is nicknamed the Gem State? => Idaho
+ncal-novice:787 | BONUS e | U.S. Geography | Answer these questions about states that are islands or have coastlines.
+    ncal-novice:787.0 | e | Which state is made up of islands in the Pacific? => Hawaii
+    ncal-novice:787.1 | m | Which state is on a peninsula between the Atlantic Ocean and the Gulf of Mexico? => Florida
+    ncal-novice:787.2 | h | Which state has the longest coastline of any U.S. state? => Alaska
+ncal-novice:788 | BONUS m | U.S. Geography | Answer these questions about the Mississippi River region.
+    ncal-novice:788.0 | e | Which city at the mouth of the Mississippi River is the largest in Louisiana? => New Orleans
+    ncal-novice:788.1 | m | Which river joins the Mississippi at Saint Louis and is the longest tributary in the United States? => Missouri River ; Missouri
+    ncal-novice:788.2 | h | Which tributary joins the Mississippi at Cairo, Illinois, and flows through Ohio and Kentucky? => Ohio River ; Ohio
+ncal-novice:789 | BONUS e | U.S. Geography | Answer these questions about western U.S. features.
+    ncal-novice:789.0 | e | Which bridge connects San Francisco to Marin County? => Golden Gate Bridge
+    ncal-novice:789.1 | m | Which large dam on the Colorado River lies near Las Vegas? => Hoover Dam
+    ncal-novice:789.2 | h | Which mountain range in California includes Yosemite and Mount Whitney? => Sierra Nevada
+ncal-novice:790 | BONUS m | U.S. Geography | Answer these questions about the capitals of western states.
+    ncal-novice:790.0 | e | What is the capital of Idaho? => Boise
+    ncal-novice:790.1 | m | What is the capital of Utah? => Salt Lake City
+    ncal-novice:790.2 | h | What is the capital of Montana? => Helena
+ncal-novice:791 | e | World Cultures | What is the name of the day on which Americans honor veterans, November 11? => Veterans Day
+ncal-novice:792 | m | World Cultures | Which Indian city is the center of the Bollywood film industry? => Mumbai ; Bombay
+ncal-novice:793 | m | World Cultures | In which country is the sport of cricket most associated with its origins? => England
+ncal-novice:794 | m | World Cultures | Which South African leader became the first Black president after apartheid ended? => Nelson Mandela ; Mandela
+ncal-novice:795 | m | World Cultures | Which language is the official language of Mexico's southern neighbor, Brazil's western neighbor Peru, and most of South America outside Brazil? => Spanish
+ncal-novice:796 | m | World Cultures | What is the main religion of Thailand? => Buddhism
+ncal-novice:797 | h | World Cultures | Which Hindu festival marks the victory of good over evil and celebrates the goddess Durga in autumn? => Navaratri ; Dussehra ; Durga Puja
+ncal-novice:798 | h | World Cultures | Which traditional Japanese theater uses masks and slow, stylized movement? => Noh ; Noh theater
+ncal-novice:799 | h | World Cultures | Which Spanish sword-wielding performance involves a matador and a bull? => bullfighting ; corrida
+ncal-novice:800 | e | World Cultures | Which religion's followers are called Muslims and read the Quran? => Islam
+ncal-novice:801 | e | World Cultures | Which religion's followers are called Christians and follow the teachings of Jesus? => Christianity
+ncal-novice:802 | e | World Cultures | Which religion's followers are called Jews and read the Torah? => Judaism
+ncal-novice:803 | e | World Cultures | Which religion is based on the teachings of Siddhartha Gautama, who became known as the Buddha? => Buddhism
+ncal-novice:804 | e | World Cultures | In which country did the Olympic Games originate in ancient times? => Greece
+ncal-novice:805 | e | World Cultures | In which country is the Taj Mahal located? => India
+ncal-novice:806 | e | World Cultures | What is the official language of Brazil? => Portuguese
+ncal-novice:807 | e | World Cultures | What is the most widely spoken first language in the world? => Mandarin Chinese ; Mandarin ; Chinese
+ncal-novice:808 | e | World Cultures | Which country is the origin of the food sushi? => Japan
+ncal-novice:809 | e | World Cultures | Which country is the origin of pizza and pasta? => Italy
+ncal-novice:810 | e | World Cultures | In which country is the Eiffel Tower located? => France
+ncal-novice:811 | e | World Cultures | Which Jewish holiday is called the Festival of Lights and is celebrated for eight days? => Hanukkah ; Chanukah
+ncal-novice:812 | e | World Cultures | What is the traditional Japanese garment with wide sleeves, worn with a sash called an obi? => kimono
+ncal-novice:813 | e | World Cultures | What is the name of the Mexican celebration on May 5 that marks a victory over France at Puebla? => Cinco de Mayo
+ncal-novice:814 | e | World Cultures | What do Americans call the holiday celebrated on the fourth Thursday of November? => Thanksgiving
+ncal-novice:815 | e | World Cultures | Which holiday celebrates the birth of Jesus on December 25? => Christmas
+ncal-novice:816 | e | World Cultures | What is the name of the large stone circle in England that dates to prehistoric times? => Stonehenge
+ncal-novice:817 | e | World Cultures | What continent contains the country of Egypt? => Africa
+ncal-novice:818 | e | World Cultures | What is the name of the Christian holiday that celebrates the resurrection of Jesus? => Easter
+ncal-novice:819 | e | World Cultures | Which animal is considered sacred in Hinduism and roams freely in many Indian cities? => cow
+ncal-novice:820 | e | World Cultures | What is the traditional Scottish musical instrument that uses a bag and pipes? => bagpipes ; bagpipe
+ncal-novice:821 | m | World Cultures | Which sacred river in India flows through Varanasi and is holy to Hindus? => Ganges ; Ganga ; Ganges River
+ncal-novice:822 | m | World Cultures | In which country is the Hindu festival of Holi, the festival of colors, most widely celebrated? => India
+ncal-novice:823 | m | World Cultures | What is the name of the place of worship for Muslims? => mosque
+ncal-novice:824 | m | World Cultures | What is the name of the place of worship for Jews? => synagogue

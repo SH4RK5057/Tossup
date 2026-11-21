@@ -1,0 +1,140 @@
+ncal-varsity:1540 | m | Physics | What unit measures the intensity level of sound? => decibel ; decibels
+ncal-varsity:1541 | m | Physics | To the nearest ten, what is the speed of sound in air at room temperature, in meters per second? => 340 ; 343
+ncal-varsity:1542 | m | Physics | Which constant, symbol capital G, appears in Newton's law of universal gravitation? => gravitational constant ; universal gravitational constant ; big G
+ncal-varsity:1543 | m | Physics | What nuclear process combines light nuclei into a heavier nucleus? => fusion ; nuclear fusion
+ncal-varsity:1544 | m | Physics | What nuclear process splits a heavy nucleus into lighter nuclei? => fission ; nuclear fission
+ncal-varsity:1545 | m | Physics | What type of radioactive decay emits a helium nucleus? => alpha decay ; alpha ; alpha emission
+ncal-varsity:1546 | m | Physics | How many joules of energy does a 60-watt light bulb use in 10 seconds? => 600 ; 600 joules
+ncal-varsity:1547 | m | Physics | Torque is the product of a force and what distance? => lever arm ; moment arm ; perpendicular distance ; radius
+ncal-varsity:1548 | m | Physics | What name is given to the point where parallel rays converge after passing through a converging lens? => focal point ; focus ; principal focus
+ncal-varsity:1549 | m | Physics | What type of simple machine is a ramp? => inclined plane
+ncal-varsity:1550 | m | Physics | What term describes the maximum displacement of a wave from its equilibrium position? => amplitude
+ncal-varsity:1551 | m | Physics | Which electromagnetic waves have the shortest wavelengths? => gamma rays ; gamma ; gamma radiation
+ncal-varsity:1552 | m | Physics | What type of electromagnetic radiation causes sunburn? => ultraviolet ; ultraviolet light ; UV ; UV radiation
+ncal-varsity:1553 | m | Physics | How many newtons of force are needed to stretch a spring with a spring constant of 200 newtons per meter by 0.1 meter? => 20 ; 20 newtons
+ncal-varsity:1554 | h | Physics | Using 10 meters per second squared for gravity, how many seconds does an object dropped from rest take to fall 80 meters? => 4 ; 4 seconds
+ncal-varsity:1555 | h | Physics | A 1000-kilogram car moving at 20 meters per second brakes to a stop over 50 meters. What is the magnitude of the net force, in newtons? => 4000 ; 4000 newtons
+ncal-varsity:1556 | h | Physics | A 2-kilogram ball moving at 5 meters per second collides and sticks to a stationary 3-kilogram ball. What is their speed afterward, in meters per second? => 2
+ncal-varsity:1557 | h | Physics | What is the equivalent resistance in ohms of three 12-ohm resistors connected in parallel? => 4 ; 4 ohms
+ncal-varsity:1558 | h | Physics | What is the wavelength in meters of a 100-hertz wave traveling at 340 meters per second? => 3.4 ; 3.4 meters
+ncal-varsity:1559 | h | Physics | How many watts are dissipated by a 3-ohm resistor connected across a 12-volt battery? => 48 ; 48 watts
+ncal-varsity:1560 | h | Physics | Which law states that an induced electromotive force produces a current that opposes the change in magnetic flux that caused it? => Lenz's law ; Lenz ; Lenz law
+ncal-varsity:1561 | h | Physics | Which German physicist is associated with the uncertainty principle relating position and momentum? => Werner Heisenberg ; Heisenberg
+ncal-varsity:1562 | h | Physics | The energy of a photon is directly proportional to what property of the light? => frequency
+ncal-varsity:1563 | h | Physics | What term describes the number of protons in an atomic nucleus? => atomic number
+ncal-varsity:1564 | h | Physics | A radioactive sample has a half-life of 5 days. What fraction remains after 20 days? => 1/16 ; one sixteenth ; one-sixteenth
+ncal-varsity:1565 | h | Physics | What quantity is the rotational analog of mass? => moment of inertia ; rotational inertia
+ncal-varsity:1566 | h | Physics | Which Swiss scientist's principle states that faster-moving fluid has lower pressure? => Daniel Bernoulli ; Bernoulli
+ncal-varsity:1567 | h | Physics | Which English scientist's double slit experiment of 1801 demonstrated the wave nature of light? => Thomas Young ; Young
+ncal-varsity:1568 | h | Physics | What term describes the shift of light from receding galaxies toward longer wavelengths? => redshift ; red shift ; cosmological redshift
+ncal-varsity:1569 | h | Physics | At the top of its flight, what is the vertical velocity of a projectile? => zero ; 0
+ncal-varsity:1570 | h | Physics | What term describes the constant speed reached by a falling object when drag equals its weight? => terminal velocity ; terminal speed
+ncal-varsity:1571 | h | Physics | In the ideal gas law PV equals nRT, what does the letter R represent? => the ideal gas constant ; gas constant ; universal gas constant ; ideal gas constant
+ncal-varsity:1572 | h | Physics | Kirchhoff's current law is a statement of the conservation of what quantity? => electric charge ; charge
+ncal-varsity:1573 | h | Physics | What device uses two coils of wire to increase or decrease an alternating voltage? => transformer
+ncal-varsity:1574 | h | Physics | What type of interference occurs when the crests of two waves line up? => constructive interference ; constructive
+ncal-varsity:1575 | h | Physics | What name is given to points of zero displacement in a standing wave? => nodes ; node
+ncal-varsity:1576 | BONUS m | Physics | Answer these questions about Newton's laws.
+    ncal-varsity:1576.0 | e | What quantity does the letter m stand for in F equals m a? => mass
+    ncal-varsity:1576.1 | m | Which of Newton's laws describes forces that come in equal and opposite pairs? => third law ; Newton's third law ; the third law
+    ncal-varsity:1576.2 | h | What acceleration, in meters per second squared, does a net force of 50 newtons give a 10-kilogram object? => 5 ; 5 meters per second squared
+ncal-varsity:1577 | BONUS m | Physics | Answer these questions about kinematics.
+    ncal-varsity:1577.0 | e | How many meters does an object moving at a constant 15 meters per second travel in 8 seconds? => 120 ; 120 meters
+    ncal-varsity:1577.1 | m | What is the speed in meters per second after 3 seconds of an object starting from rest with an acceleration of 2 meters per second squared? => 6
+    ncal-varsity:1577.2 | h | How many meters does that object travel in those 3 seconds? => 9 ; 9 meters
+ncal-varsity:1578 | BONUS m | Physics | Answer these questions about energy.
+    ncal-varsity:1578.0 | e | What type of energy is stored in a stretched spring? => elastic potential energy ; elastic energy ; potential energy ; spring potential energy
+    ncal-varsity:1578.1 | m | What is the kinetic energy in joules of a 4-kilogram object moving at 5 meters per second? => 50 ; 50 joules
+    ncal-varsity:1578.2 | h | By what factor does an object's kinetic energy change if its speed triples? => 9 ; nine ; multiplied by nine ; 9 times
+ncal-varsity:1579 | BONUS m | Physics | Answer these questions about circuits.
+    ncal-varsity:1579.0 | e | What device is connected in series to measure electric current? => ammeter
+    ncal-varsity:1579.1 | m | What safety device melts and opens a circuit when the current becomes too high? => fuse
+    ncal-varsity:1579.2 | h | Two 10-ohm resistors are connected in series across a 20-volt battery. How many amperes flow through the circuit? => 1 ; 1 ampere ; 1 amp ; one
+ncal-varsity:1580 | BONUS m | Physics | Answer these questions about waves.
+    ncal-varsity:1580.0 | e | Light waves oscillate perpendicular to their direction of travel. What type of wave is this? => transverse ; transverse wave
+    ncal-varsity:1580.1 | m | In what type of wave does the medium vibrate parallel to the direction of travel, as in sound? => longitudinal ; longitudinal wave
+    ncal-varsity:1580.2 | h | What term describes the lowest frequency at which a string can form a standing wave? => fundamental frequency ; fundamental ; first harmonic
+ncal-varsity:1581 | BONUS m | Physics | Answer these questions about optics.
+    ncal-varsity:1581.0 | e | What phenomenon separates white light into colors when it passes through a prism? => dispersion
+    ncal-varsity:1581.1 | m | What name is given to the principle that the angle of incidence equals the angle of reflection? => law of reflection
+    ncal-varsity:1581.2 | h | Which Dutch scientist is credited with the law relating angles of incidence and refraction? => Willebrord Snell ; Snell ; Snellius
+ncal-varsity:1582 | BONUS m | Physics | Answer these questions about thermodynamics.
+    ncal-varsity:1582.0 | e | What instrument is used to measure temperature? => thermometer
+    ncal-varsity:1582.1 | m | What term describes the temperature of zero kelvin? => absolute zero
+    ncal-varsity:1582.2 | h | Which law of thermodynamics states that the entropy of an isolated system never decreases? => second law ; second law of thermodynamics ; the second law
+ncal-varsity:1583 | BONUS m | Physics | Answer these questions about electromagnetism.
+    ncal-varsity:1583.0 | e | What term describes a coil of wire that acts as a magnet when current flows through it? => solenoid ; electromagnet
+    ncal-varsity:1583.1 | m | What device uses a magnetic field to convert electrical energy into mechanical energy? => electric motor ; motor
+    ncal-varsity:1583.2 | h | What device converts mechanical energy into electrical energy by rotating a coil in a magnetic field? => generator ; electric generator ; dynamo
+ncal-varsity:1584 | BONUS m | Physics | Answer these questions about the atom.
+    ncal-varsity:1584.0 | e | What is the dense, positively charged center of an atom called? => nucleus ; the nucleus
+    ncal-varsity:1584.1 | m | Which two particles are the nucleons? => protons and neutrons ; neutrons and protons
+    ncal-varsity:1584.2 | h | What fundamental force, stronger than electromagnetism at very short range, binds quarks together? => strong nuclear force ; strong force ; strong interaction ; nuclear force
+ncal-varsity:1585 | BONUS m | Physics | Answer these questions about gravity and orbits.
+    ncal-varsity:1585.0 | e | What shape are the orbits of the planets around the Sun? => ellipse ; elliptical ; ellipses
+    ncal-varsity:1585.1 | m | Which German astronomer described the three laws of planetary motion? => Johannes Kepler ; Kepler
+    ncal-varsity:1585.2 | h | If the distance between two masses doubles, by what factor does the gravitational force change? => one fourth ; 1/4 ; one quarter ; divided by four ; a quarter ; one-fourth
+ncal-varsity:1586 | BONUS m | Physics | Answer these questions about rotation.
+    ncal-varsity:1586.0 | e | What term describes the turning effect of a force? => torque
+    ncal-varsity:1586.1 | m | What is the product, in newton meters, of a 20-newton perpendicular force and its 0.5-meter distance from a pivot? => 10 ; 10 newton meters ; 10 newton-meters
+    ncal-varsity:1586.2 | h | What is the rotational analog of linear momentum? => angular momentum
+ncal-varsity:1587 | BONUS m | Physics | Answer these questions about fluids.
+    ncal-varsity:1587.0 | e | What upward force does a fluid exert on a submerged object? => buoyant force ; buoyancy ; buoyant ; upthrust
+    ncal-varsity:1587.1 | m | As depth in a fluid increases, what happens to the pressure? => it increases ; increases ; gets larger ; rises
+    ncal-varsity:1587.2 | h | What pressure in pascals results from a 100-newton force spread over 5 square meters? => 20 ; 20 pascals
+ncal-varsity:1588 | BONUS m | Physics | Answer these questions about collisions.
+    ncal-varsity:1588.0 | e | In what type of collision is kinetic energy conserved? => elastic collision ; elastic
+    ncal-varsity:1588.1 | m | What is the momentum in kilogram meters per second of a 10-kilogram cart moving at 3 meters per second? => 30
+    ncal-varsity:1588.2 | h | Impulse is the product of force and what other quantity? => time ; time interval ; duration
+ncal-varsity:1589 | BONUS m | Physics | Answer these questions about static electricity.
+    ncal-varsity:1589.0 | e | What sign of charge does a proton carry? => positive
+    ncal-varsity:1589.1 | m | What instrument with thin metal leaves is used to detect electric charge? => electroscope
+    ncal-varsity:1589.2 | h | What is the SI unit of electric charge? => coulomb ; coulombs
+ncal-varsity:1590 | BONUS m | Physics | Answer these questions about sound.
+    ncal-varsity:1590.0 | e | When the frequency of a sound increases, does its pitch go up or down? => up ; higher ; rises ; goes up ; increases
+    ncal-varsity:1590.1 | m | What term describes the overlapping of two waves to form a combined pattern? => interference ; superposition
+    ncal-varsity:1590.2 | h | What is the speed in meters per second of a wave with a frequency of 50 hertz and a wavelength of 4 meters? => 200
+ncal-varsity:1591 | BONUS m | Physics | Answer these questions about scientists honored in SI units.
+    ncal-varsity:1591.0 | e | The unit of power is named for which Scottish engineer? => James Watt ; Watt
+    ncal-varsity:1591.1 | m | The unit of frequency is named for which German physicist? => Heinrich Hertz ; Hertz
+    ncal-varsity:1591.2 | h | The unit of magnetic field strength is named for which Serbian-American inventor? => Nikola Tesla ; Tesla
+ncal-varsity:1592 | BONUS m | Physics | Answer these questions about relativity.
+    ncal-varsity:1592.0 | e | Which theory of Albert Einstein includes the equation relating energy to mass and the speed of light squared? => special relativity ; relativity ; the theory of relativity
+    ncal-varsity:1592.1 | m | What term describes the slowing of clocks that move relative to an observer? => time dilation
+    ncal-varsity:1592.2 | h | What phenomenon, predicted by general relativity, occurs when a massive galaxy bends light from a distant object? => gravitational lensing ; gravitational lens ; lensing
+ncal-varsity:1593 | BONUS m | Physics | Answer these questions about electromagnetic waves.
+    ncal-varsity:1593.0 | e | Which color of visible light is bent the most by a prism? => violet ; purple
+    ncal-varsity:1593.1 | m | What type of electromagnetic radiation is used to image bones? => X-rays ; X rays ; x-ray ; X-ray
+    ncal-varsity:1593.2 | h | A nanometer is 10 to the minus what power meters? => 9 ; nine ; minus nine ; negative nine
+ncal-varsity:1594 | BONUS m | Physics | Answer these questions about work and power.
+    ncal-varsity:1594.0 | e | Work is the product of force and what other quantity, when they are parallel? => distance ; displacement
+    ncal-varsity:1594.1 | m | How many watts of power are used by a machine that does 600 joules of work in 20 seconds? => 30 ; 30 watts
+    ncal-varsity:1594.2 | h | A machine takes in 200 joules of energy and delivers 150 joules of useful work. What is its efficiency as a percent? => 75 ; 75 percent ; seventy-five
+ncal-varsity:1595 | BONUS m | Physics | Answer these questions about heat.
+    ncal-varsity:1595.0 | e | Which temperature scale sets the freezing point of ice at 32 degrees? => Fahrenheit ; Fahrenheit scale
+    ncal-varsity:1595.1 | m | Which common liquid has an unusually high specific heat of about 4200 joules per kilogram kelvin? => water
+    ncal-varsity:1595.2 | h | How many joules are needed to raise the temperature of 2 kilograms of a substance with specific heat 4000 joules per kilogram kelvin by 5 kelvin? => 40000 ; 40000 joules ; 40,000
+ncal-varsity:1596 | BONUS m | Physics | Answer these questions about projectile motion.
+    ncal-varsity:1596.0 | e | Neglecting air resistance, what is the horizontal acceleration of a projectile? => zero ; 0 ; none
+    ncal-varsity:1596.1 | m | At what launch angle, in degrees, does a projectile reach maximum range on level ground? => 45 ; 45 degrees ; forty-five
+    ncal-varsity:1596.2 | h | Using 10 meters per second squared for gravity, how many seconds does a ball thrown horizontally from a 20-meter cliff take to land? => 2 ; 2 seconds
+ncal-varsity:1597 | BONUS m | Physics | Answer these questions about springs and oscillation.
+    ncal-varsity:1597.0 | e | Which law states that the force of a spring is proportional to its stretch? => Hooke's law ; Hooke ; Hookes law
+    ncal-varsity:1597.1 | m | A mass on a spring has a period of 2 seconds. What is its frequency in hertz? => 0.5 ; 1/2 ; one half ; half
+    ncal-varsity:1597.2 | h | At what position is the speed of a mass in simple harmonic motion greatest? => equilibrium position ; equilibrium ; center ; the center ; middle
+ncal-varsity:1598 | BONUS m | Physics | Answer these questions about sound waves in materials.
+    ncal-varsity:1598.0 | e | Compared with air, in what state of matter does sound travel much faster because particles are closer together? => solids ; solid
+    ncal-varsity:1598.1 | m | What term describes a large-amplitude vibration produced when an object is driven at its natural frequency? => resonance
+    ncal-varsity:1598.2 | h | What is the beat frequency in hertz when tones of 440 hertz and 444 hertz sound together? => 4 ; 4 hertz
+ncal-varsity:1599 | BONUS m | Physics | Answer these questions about magnetism.
+    ncal-varsity:1599.0 | e | What are the two ends of a magnet called? => poles ; magnetic poles
+    ncal-varsity:1599.1 | m | Iron, nickel, and cobalt are examples of what type of magnetic material? => ferromagnetic ; ferromagnets ; ferromagnetic materials
+    ncal-varsity:1599.2 | h | Which Danish physicist discovered in 1820 that an electric current deflects a compass needle? => Hans Christian Oersted ; Oersted ; Orsted ; Ørsted
+ncal-varsity:1600 | BONUS m | Physics | Answer these questions about household electricity.
+    ncal-varsity:1600.0 | e | To the nearest ten, what is the standard household voltage in the United States, in volts? => 120 ; 120 volts
+    ncal-varsity:1600.1 | m | How many kilowatt-hours of energy does a 1000-watt appliance use in 2 hours? => 2 ; 2 kilowatt-hours ; two
+    ncal-varsity:1600.2 | h | How many joules are in one kilowatt-hour? => 3600000 ; 3.6 million ; 3,600,000 ; 3.6 million joules
+ncal-varsity:1601 | BONUS m | Physics | Answer these questions about lenses and mirrors.
+    ncal-varsity:1601.0 | e | Which type of lens is used to correct nearsightedness? => concave lens ; concave ; diverging lens ; diverging
+    ncal-varsity:1601.1 | m | What type of image does a plane mirror form? => virtual image ; virtual
+    ncal-varsity:1601.2 | h | A lens has a focal length of 10 centimeters, and an object sits 20 centimeters from it. How many centimeters from the lens is the image? => 20 ; 20 centimeters
