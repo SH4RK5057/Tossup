@@ -73,7 +73,7 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
           <label className="field">
             <span className="lbl">Ruleset</span>
             <select value={settings.ruleset} onChange={(e) => changeRuleset(e.target.value as RulesetId)}>
-              {Object.values(RULESETS).map((r) => <option key={r.id} value={r.id}>{r.name}</option>)}
+              {Object.values(RULESETS).map((r) => <option key={r.id} value={r.id}>{r.id === 'ncal' ? r.name : `${r.name} (secondary mode)`}</option>)}
             </select>
           </label>
           <label className="field">
@@ -198,6 +198,10 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
               <label className="inline-check">
                 <input type="radio" name="len" checked={settings.simLength === 'match'} onChange={() => set({ simLength: 'match' })} />
                 {matchLabel}
+              </label>
+              <label className="inline-check">
+                <input type="radio" name="len" checked={settings.simLength === 'all'} onChange={() => set({ simLength: 'all' })} />
+                Unlimited (play until you end the session)
               </label>
             </div>
           </div>

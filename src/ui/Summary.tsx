@@ -1,4 +1,5 @@
-import { Fragment } from 'react';
+import { Fragment, useState } from 'react';
+import type { ReviewItem } from '../core/review';
 import { accuracy, type SessionSummary, type Tally } from '../core/stats';
 import { getRuleset } from '../core/rulesets';
 import { LEVEL_LABEL } from '../core/types';
@@ -64,12 +65,53 @@ export function PartTable({ parts }: { parts: SessionSummary['bonuses']['parts']
 
 interface Props {
   summary: SessionSummary;
+  /** Every question played this session, for the review. Empty when the summary is shown from storage. */
+  review?: ReviewItem[];
+  /** Practice the missed questions again. */
+  onRetry?: (kind: 'tossup' | 'bonus') => void;
   onAgain: () => void;
   onHome: () => void;
 }
 
+function Review({ items }: { items: ReviewItem[] }) {
+  const [showAll, setShowAll] = useState(false);
+  const missed = items.filter((i) => !i.allCorrect);
+  const shown = showAll ? items : missed;
+  return (
+    <section className="panel stack">
+      <div className="row" style={{ justifyContent: 'space-between' }}>
+        <h2 style={{ margin: 0 }}>Review</h2>
+        <label className="inline-check small">
+          <input type="checkbox" checked={showAll} onChange={(e) => setShowAll(e.target.checked)} />
+          Show every question ({items.length}), not just the {missed.length} missed
+        </label>
+      </div>
+      {shown.length === 0 && <p className="muted">Nothing missed. Nice.</p>}
+      {shown.map((it, i) => (
+        <div key={`${it.questionId}-${i}`} className="panel" style={{ background: 'var(--surface-2)' }}>
+          <div className="muted small">{it.category} · {it.subcategory}</div>
+          {it.leadin && <p style={{ margin: '0.25rem 0' }}><strong>{it.leadin}</strong></p>}
+          {it.parts.map((p, j) => (
+            <div key={j} style={{ margin: '0.4rem 0' }}>
+              <div>{it.kind === 'bonus' ? `${j + 1}. ` : ''}{p.text}</div>
+              <div className="small">
+                <span style={{ color: p.correct ? 'var(--ok, #4ade80)' : 'var(--bad, #f87171)', fontWeight: 600 }}>{p.correct ? '✓' : '✗'}</span>{' '}
+                You: <em>{p.typed.trim() ? p.typed : p.timedOut ? '(no answer, time ran out)' : '(blank)'}</em>
+                {!p.correct && <> · Answer: <strong>{p.answer}</strong></>}
+                {p.correct && <> · <span className="muted">{p.answer}</span></>}
+              </div>
+            </div>
+          ))}
+        </div>
+      ))}
+    </section>
+  );
+}
+
 /** End-of-session screen: the only place (with the stats page) that shows streaks and stats. */
-export function Summary({ summary: s, onAgain, onHome }: Props) {
+export function Summary({ summary: s, review, onRetry, onAgain, onHome }: Props) {
+  const missedTossups = (review ?? []).filter((i) => i.kind === 'tossup' && !i.allCorrect).length;
+  const missedBonuses = (review ?? []).filter((i) => i.kind === 'bonus' && !i.allCorrect).length;
   const rs = getRuleset(s.rulesetId);
   // Every tossup and bonus part answered this session.
   const overall = Object.values(s.bySubject).reduce<Tally>(
@@ -99,9 +141,12 @@ export function Summary({ summary: s, onAgain, onHome }: Props) {
       </div>
       <div className="row">
         <button className="primary" onClick={onAgain} autoFocus>Play again</button>
+        {onRetry && missedTossups > 0 && <button onClick={() => onRetry('tossup')}>Retry {missedTossups} missed tossup{missedTossups === 1 ? '' : 's'}</button>}
+        {onRetry && missedBonuses > 0 && <button onClick={() => onRetry('bonus')}>Retry {missedBonuses} missed bonus{missedBonuses === 1 ? '' : 'es'}</button>}
         <button onClick={onHome}>Change settings</button>
         <a href="#/stats">All stats</a>
       </div>
+      {review && review.length > 0 && <Review items={review} />}
     </div>
   );
 }

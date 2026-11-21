@@ -2,7 +2,9 @@ import { lazy, Suspense, useCallback, useEffect, useRef, useState } from 'react'
 import { PACE_MULTIPLIER } from '../core/clock';
 import { levelsForPool } from '../core/pool';
 import { getRuleset } from '../core/rulesets';
+import { buildReview, missedQuestions, type ReviewItem } from '../core/review';
 import { createSession, reduce, type Action, type SessionKind, type SessionState } from '../core/session';
+import type { Bonus, Level, RulesetId, Tossup } from '../core/types';
 import { summarize, type SessionSummary } from '../core/stats';
 import type { AdminUser } from '../data/repository';
 import { loadServices, type Services } from '../data/services';
@@ -35,6 +37,8 @@ function Main({ services }: { services: Services }) {
   sessionRef.current = session;
   const finished = useRef(false);
   const [summary, setSummary] = useState<SessionSummary | null>(null);
+  const [review, setReview] = useState<ReviewItem[]>([]);
+  const [missed, setMissed] = useState<{ rulesetId: RulesetId; level: Level; tossups: Tossup[]; bonuses: Bonus[] } | null>(null);
   const [lastKind, setLastKind] = useState<SessionKind>('tossup');
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -88,7 +92,7 @@ function Main({ services }: { services: Services }) {
           ...(settings.bonusTiming === 'scaled' ? { bonusPace: PACE_MULTIPLIER[settings.tossupPace] } : {}),
           bonusesOn: settings.bonusesOn,
         },
-        length: kind !== 'sim' ? { kind: 'all' } : settings.simLength === 'match' ? { kind: 'match' } : { kind: 'count', n: settings.simCount },
+        length: kind !== 'sim' || settings.simLength === 'all' ? { kind: 'all' } : settings.simLength === 'match' ? { kind: 'match' } : { kind: 'count', n: settings.simCount },
         nowIso: new Date().toISOString(),
       });
       if (state.phase === 'done') {
@@ -116,8 +120,39 @@ function Main({ services }: { services: Services }) {
     const sum = summarize(s, `${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 6)}`, new Date().toISOString());
     saveSession(sum);
     setSummary(sum);
+    setReview(buildReview(s));
+    setMissed({ rulesetId: s.rulesetId, level: s.level, ...missedQuestions(s) });
     navigate('/summary');
   }, []);
+
+  /** Practice again only the questions missed in the session just finished. */
+  const retryMissed = useCallback((kind: 'tossup' | 'bonus') => {
+    if (!missed) return;
+    const pool = kind === 'tossup' ? missed.tossups : missed.bonuses;
+    if (pool.length === 0) return;
+    const state = createSession({
+      pool,
+      seed: Math.random().toString(36).slice(2),
+      rulesetId: missed.rulesetId,
+      level: missed.level,
+      kind,
+      filter: { subjects: [], fullDistribution: false },
+      settings: {
+        tossupSeconds: settings.tossupUntimed ? null : settings.tossupSeconds,
+        ...(settings.tossupTiming === 'scaled' ? { tossupPace: PACE_MULTIPLIER[settings.tossupPace] } : {}),
+        bonusSeconds: settings.bonusUntimed ? null : settings.bonusSeconds,
+        ...(settings.bonusTiming === 'scaled' ? { bonusPace: PACE_MULTIPLIER[settings.tossupPace] } : {}),
+        bonusesOn: false,
+      },
+      length: { kind: 'all' },
+      nowIso: new Date().toISOString(),
+    });
+    if (state.phase === 'done') return;
+    finished.current = false;
+    setLastKind(kind);
+    setSession(state);
+    navigate('/play');
+  }, [missed, settings]);
 
   const quit = useCallback(() => dispatch({ type: 'end' }), [dispatch]);
 
@@ -129,7 +164,7 @@ function Main({ services }: { services: Services }) {
       : <Home settings={settings} onChange={setSettings} onStart={startSession} busy={busy} error={error} />;
   } else if (path === '/summary') {
     page = summary
-      ? <Summary summary={summary} onAgain={() => startSession(lastKind)} onHome={() => navigate('/')} />
+      ? <Summary summary={summary} review={review} onRetry={retryMissed} onAgain={() => startSession(lastKind)} onHome={() => navigate('/')} />
       : <Home settings={settings} onChange={setSettings} onStart={startSession} busy={busy} error={error} />;
   } else if (path === '/stats') {
     page = <StatsPage initialRuleset={settings.ruleset} />;

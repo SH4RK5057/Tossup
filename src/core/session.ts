@@ -113,6 +113,8 @@ export interface SessionState {
   prompted: boolean;
   /** Game clock length in seconds for the match sim, if any. */
   gameClockSeconds: number | null;
+  /** No fixed question count: the session runs until the player ends it (or the pool runs out). */
+  endless: boolean;
 }
 
 export type Action =
@@ -169,6 +171,7 @@ export function createSession(input: SessionInput): SessionState {
     maxTossups: tossups.length,
     prompted: false,
     gameClockSeconds,
+    endless: input.length.kind === 'all',
   };
   if (input.kind === 'bonus') return bonuses.length ? { ...state, phase: 'bonus_intro' } : { ...state, phase: 'done' };
   return tossups.length ? state : { ...state, phase: 'done' };

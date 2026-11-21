@@ -61,7 +61,7 @@ export const settingsSchema = z.object({
   bonusesOn: z.boolean().default(true),
   subjects: z.array(z.string()).default([]),
   fullDistribution: z.boolean().default(false),
-  simLength: z.enum(['count', 'match']).default('count'),
+  simLength: z.enum(['count', 'match', 'all']).default('count'),
   simCount: z.number().int().min(1).max(200).default(10),
   theme: z.enum(['auto', 'light', 'dark']).default('auto'),
 });

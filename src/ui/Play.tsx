@@ -180,7 +180,7 @@ export function Play({ session: s, dispatch, onDone, onQuit, onEdit, paused }: P
   const liveClockPhase = s.phase === 'tossup' || s.phase === 'tossup_prompt' || s.phase === 'bonus';
   const cells = [
     { label: 'Score', value: String(s.score) },
-    { label: s.kind === 'bonus' ? 'Bonus' : 'Question', value: `${questionNumber(s)}${s.kind === 'sim' && s.gameClockSeconds === null ? `/${questionTotal(s)}` : ''}` },
+    { label: s.kind === 'bonus' ? 'Bonus' : 'Question', value: `${questionNumber(s)}${s.kind === 'sim' && s.gameClockSeconds === null && !s.endless ? `/${questionTotal(s)}` : ''}` },
     { label: 'Time', value: !liveClockPhase ? '–' : clockSeconds === null ? '∞' : remaining === null ? '–' : formatClock(remaining), low: timerLow },
     ...(s.gameClockSeconds !== null ? [{ label: 'Game clock', value: formatClock(gameRemaining ?? 0) }] : []),
   ];
