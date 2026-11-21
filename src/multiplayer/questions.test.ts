@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { buildRoomQuestions, poolSignature, revealedText, toHostQuestions, wordsOf, type RoomSettings } from './questions';
+import { buildRoomQuestions, normalizeSettings, poolSignature, revealedText, toHostQuestions, wordsOf, type RoomSettings } from './questions';
 import type { Question } from '../core/types';
 
 const t = (id: string, text: string, answer: string, sub = 'Literary Terms'): Question => ({
@@ -38,5 +38,18 @@ describe('room questions', () => {
     expect(q.judge('Answer0')).toBe('correct');
     expect(q.judge('nope')).toBe('wrong');
     expect(q.judge('')).toBe('wrong');
+  });
+});
+
+describe('normalizeSettings', () => {
+  it('restores the empty subject list a database drops, so questions still build', () => {
+    const stripped: Record<string, unknown> = { ...settings };
+    delete stripped.subjects; // what Realtime Database returns for an empty list
+    const back = normalizeSettings(stripped);
+    expect(back.subjects).toEqual([]);
+    expect(buildRoomQuestions(pool, back).map((q) => q.id)).toEqual(buildRoomQuestions(pool, settings).map((q) => q.id));
+  });
+  it('accepts lists that came back as objects', () => {
+    expect(normalizeSettings({ ...settings, subjects: { 0: 'English/Literary Terms' } as never }).subjects).toEqual(['English/Literary Terms']);
   });
 });

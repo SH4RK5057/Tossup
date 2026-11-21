@@ -71,3 +71,12 @@ describe('LocalRoomStore', () => {
     expect(getAt(hub.read(), 'rooms/ABCD/x')).toBeNull();
   });
 });
+
+describe('empty values behave like Realtime Database', () => {
+  it('does not keep empty lists or empty objects', () => {
+    const t = setAt({}, 'rooms/ABCD/meta', { settings: { subjects: [], level: 'jv', extra: {} } });
+    expect(getAt(t, 'rooms/ABCD/meta/settings/subjects')).toBeNull();
+    expect(getAt(t, 'rooms/ABCD/meta/settings/extra')).toBeNull();
+    expect(getAt(t, 'rooms/ABCD/meta/settings/level')).toBe('jv');
+  });
+});

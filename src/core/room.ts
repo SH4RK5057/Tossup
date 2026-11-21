@@ -217,7 +217,7 @@ export function rankTeams(s: RoomState): { team: string; points: number }[] {
  * out. Buzzes and answers are filed under it, so a player whose buzz was too late can buzz again once the reveal resumes.
  */
 export function segmentOf(s: Pick<RoomState, 'q' | 'lockedOut'>): string {
-  return `${s.q}.${s.lockedOut.length}`;
+  return `q${s.q}_${s.lockedOut.length}`;
 }
 
 /**

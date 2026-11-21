@@ -73,3 +73,16 @@ export const READING_SPEEDS = [
 
 export const TEAM_IDS = ['A', 'B', 'C', 'D'] as const;
 export const teamLabel = (id: string) => (TEAM_IDS as readonly string[]).includes(id) ? `Team ${id}` : id;
+
+/**
+ * Fills in settings a database may have dropped: Realtime Database does not store empty lists, so "no subject
+ * filter" (an empty list) comes back as a missing field.
+ */
+export function normalizeSettings(raw: Partial<RoomSettings> & Record<string, unknown>): RoomSettings {
+  const list = <T,>(v: unknown): T[] => (Array.isArray(v) ? (v as T[]) : v && typeof v === 'object' ? (Object.values(v) as T[]) : []);
+  return {
+    ...(raw as RoomSettings),
+    subjects: list<string>(raw.subjects),
+    difficulties: list<Difficulty>(raw.difficulties).length ? list<Difficulty>(raw.difficulties) : ['easy', 'medium', 'hard'],
+  };
+}

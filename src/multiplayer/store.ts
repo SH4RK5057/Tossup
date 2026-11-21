@@ -78,6 +78,8 @@ function prune(tree: Tree): Tree {
     if (v && typeof v === 'object' && !Array.isArray(v)) {
       const p = prune(v as Tree);
       if (Object.keys(p).length > 0) out[k] = p;
+    } else if (Array.isArray(v)) {
+      if (v.length > 0) out[k] = v; // like Realtime Database, empty lists are not stored
     } else if (v !== undefined && v !== null) out[k] = v;
   }
   return out;

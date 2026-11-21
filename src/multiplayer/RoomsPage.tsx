@@ -12,7 +12,7 @@ import { navigate, useApp } from '../ui/context';
 import { connect, realtimeConfigured, type Connection } from './connect';
 import { RoomHost, sendAnswer, sendBuzz, writePlayer, type RoomPlayer } from './host';
 import {
-  buildRoomQuestions, poolSignature, READING_SPEEDS, revealedText, TEAM_IDS, teamLabel, toHostQuestions, type RoomSettings,
+  buildRoomQuestions, normalizeSettings, poolSignature, READING_SPEEDS, revealedText, TEAM_IDS, teamLabel, toHostQuestions, type RoomSettings,
 } from './questions';
 import { makeRoomCode, normalizeRoomCode, roomPath, SERVER_TIME, type RoomStore } from './store';
 
@@ -67,6 +67,7 @@ export default function RoomsPage({ code: urlCode }: { code: string | null }) {
   if (error) return <div className="page"><div className="notice error">{error}</div></div>;
   if (!conn) return <div className="page muted">Connecting…</div>;
 
+  const saveName = (n: string) => { setName(n); write(NAME_KEY, n); };
   const leave = () => {
     writeTab(ROOM_KEY, '');
     setCode(null);
@@ -78,11 +79,23 @@ export default function RoomsPage({ code: urlCode }: { code: string | null }) {
       <h1>Rooms</h1>
       {conn.note && <div className="notice">{conn.note}</div>}
       {code
-        ? <RoomView store={conn.store} code={code} onLeave={leave} />
-        : <Entry store={conn.store} name={name} setName={(n) => { setName(n); write(NAME_KEY, n); }}
+        ? <RoomView store={conn.store} code={code} onLeave={leave} name={name} setName={saveName} />
+        : <Entry store={conn.store} name={name} setName={saveName}
             onEnter={(c) => { writeTab(ROOM_KEY, c); setCode(c); navigate(`/rooms?code=${c}`); }} />}
     </div>
   );
+}
+
+/** Adds this device to a room's lobby on the smallest team. Returns an error message, or null on success. */
+async function joinAsPlayer(store: RoomStore, code: string, meta: Meta, name: string): Promise<string | null> {
+  const players = ((await readOnce(store, roomPath(code, 'players'))) as Record<string, RoomPlayer> | null) ?? {};
+  if (players[store.uid]) return null;
+  if (Object.keys(players).length >= MAX_PLAYERS) return `That room is full (${MAX_PLAYERS} players).`;
+  const counts = new Map<string, number>(TEAM_IDS.slice(0, meta.settings.teamCount).map((t) => [t, 0]));
+  for (const p of Object.values(players)) counts.set(p.team, (counts.get(p.team) ?? 0) + 1);
+  const team = [...counts.entries()].sort((a, b) => a[1] - b[1])[0][0];
+  await writePlayer(store, code, name, team);
+  return null;
 }
 
 // ------------------------------------------------------------------ create or join
@@ -134,18 +147,12 @@ function Entry({ store, name, setName, onEnter }: { store: RoomStore; name: stri
     try {
       const meta = (await readOnce(store, roomPath(c, 'meta'))) as Meta | null;
       if (!meta) { setError('No room with that code.'); return; }
-      const players = ((await readOnce(store, roomPath(c, 'players'))) as Record<string, RoomPlayer> | null) ?? {};
       const state = (await readOnce(store, roomPath(c, 'state'))) as RoomState | null;
-      const mine = players[store.uid];
-      if (!mine) {
-        if (Object.keys(players).length >= MAX_PLAYERS) { setError(`That room is full (${MAX_PLAYERS} players).`); return; }
-        // Put new players on the smallest team.
-        const counts = new Map<string, number>(TEAM_IDS.slice(0, meta.settings.teamCount).map((t) => [t, 0]));
-        for (const p of Object.values(players)) counts.set(p.team, (counts.get(p.team) ?? 0) + 1);
-        const team = [...counts.entries()].sort((a, b) => a[1] - b[1])[0][0];
-        await writePlayer(store, c, trimmed, team);
+      // A game already under way cannot take new players; they can still watch.
+      if (!state || state.phase === 'lobby') {
+        const problem = await joinAsPlayer(store, c, meta, trimmed);
+        if (problem) { setError(problem); return; }
       }
-      if (state && state.phase !== 'lobby' && !mine) setError(null); // joins as a spectator
       onEnter(c);
     } catch (e) {
       setError(`Could not join: ${e instanceof Error ? e.message : String(e)}`);
@@ -218,9 +225,45 @@ function Entry({ store, name, setName, onEnter }: { store: RoomStore; name: stri
 
 // ------------------------------------------------------------------ inside a room
 
-function RoomView({ store, code, onLeave }: { store: RoomStore; code: string; onLeave: () => void }) {
+/** Shown to someone who opened a room link without being in the room yet: a name is required to join. */
+function JoinPrompt({ store, code, meta, name, setName }: { store: RoomStore; code: string; meta: Meta; name: string; setName: (n: string) => void }) {
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const trimmed = name.trim();
+  const join = async () => {
+    if (!trimmed) { setError('Type your name to join.'); return; }
+    setBusy(true);
+    setError(null);
+    try {
+      const problem = await joinAsPlayer(store, code, meta, trimmed);
+      if (problem) setError(problem);
+    } catch (e) {
+      setError(`Could not join: ${e instanceof Error ? e.message : String(e)}`);
+    } finally {
+      setBusy(false);
+    }
+  };
+  return (
+    <section className="panel stack">
+      <h2>Join room {code}</h2>
+      {error && <div className="notice error">{error}</div>}
+      <label className="field">
+        <span className="lbl">Your name</span>
+        <input autoFocus type="text" value={name} maxLength={20} placeholder="Name shown to the room"
+          onChange={(e) => setName(e.target.value)} onKeyDown={(e) => { if (e.key === 'Enter') void join(); }} />
+      </label>
+      <div><button className="primary" disabled={busy || !trimmed} onClick={join}>Join room</button></div>
+    </section>
+  );
+}
+
+function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; code: string; onLeave: () => void; name: string; setName: (n: string) => void }) {
   const { repo } = useApp();
-  const meta = useValue<Meta>(store, roomPath(code, 'meta'));
+  const rawMeta = useValue<Meta>(store, roomPath(code, 'meta'));
+  const meta = useMemo<Meta | null | undefined>(
+    () => (rawMeta ? { ...rawMeta, settings: normalizeSettings(rawMeta.settings as never) } : rawMeta),
+    [rawMeta],
+  );
   const players = useValue<Record<string, RoomPlayer>>(store, roomPath(code, 'players'));
   const stored = useValue<RoomState>(store, roomPath(code, 'state'));
   const state = useMemo(() => normalizeRoomState(stored), [stored]);
@@ -238,7 +281,7 @@ function RoomView({ store, code, onLeave }: { store: RoomStore; code: string; on
       if (!live) return;
       setSigOk(poolSignature(pool) === s.bankSig);
       setTossups(buildRoomQuestions(pool, s));
-    }, () => { if (live) setTossups([]); });
+    }).catch(() => { if (live) setTossups([]); });
     return () => { live = false; };
   }, [repo, meta?.settings.seed]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -296,6 +339,8 @@ function RoomView({ store, code, onLeave }: { store: RoomStore; code: string; on
 
   // ---- lobby
   if (state.phase === 'lobby') {
+    // Opened from a shared link without being in the room yet: ask for a name first.
+    if (!me) return <>{header}<JoinPrompt store={store} code={code} meta={meta} name={name} setName={setName} /></>;
     const share = `${window.location.origin}${window.location.pathname}#/rooms?code=${code}`;
     return (
       <>
@@ -308,7 +353,6 @@ function RoomView({ store, code, onLeave }: { store: RoomStore; code: string; on
             <button className="link small" onClick={() => { void navigator.clipboard?.writeText(share); }}>Copy link</button>
           </div>
           <PlayersByTeam players={playerList} teamMode={meta.settings.teamMode} teamCount={meta.settings.teamCount} meUid={store.uid} onTeam={changeTeam} hostUid={meta.hostUid} />
-          {!me && <p className="hint">You are not in this room. Go back and join with the code.</p>}
           {isHost
             ? <div className="row">
                 <button className="primary" disabled={!tossups || tossups.length === 0 || playerList.length === 0} onClick={() => hostRef.current?.start()}>Start game</button>

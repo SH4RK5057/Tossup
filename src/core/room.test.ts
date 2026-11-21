@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import {
-  BUZZ_WINDOW_MS, LEAD_IN_MS, initialRoomState, nextDeadline, normalizeRoomState, rankTeams, reduceRoom, wordsShown,
+  BUZZ_WINDOW_MS, LEAD_IN_MS, initialRoomState, nextDeadline, normalizeRoomState, rankTeams, reduceRoom, segmentOf, wordsShown,
   type RoomEvent, type RoomState,
 } from './room';
 
@@ -182,5 +182,16 @@ describe('normalizeRoomState', () => {
   it('turns a missing or invalid value into an empty lobby', () => {
     expect(normalizeRoomState(null).phase).toBe('lobby');
     expect(normalizeRoomState('nope').phase).toBe('lobby');
+  });
+});
+
+describe('segmentOf', () => {
+  it('is a valid database key (no dots, slashes, $, # or brackets) and changes with each lockout', () => {
+    const a = start();
+    const key = segmentOf(a);
+    expect(key).toMatch(/^[A-Za-z0-9_-]+$/);
+    const b = buzzAndAnswer(a, 'a1', 'x', 'wrong', READ_AT + 500);
+    expect(segmentOf(b)).not.toBe(key);
+    expect(segmentOf(b)).toMatch(/^[A-Za-z0-9_-]+$/);
   });
 });

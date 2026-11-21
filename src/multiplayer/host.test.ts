@@ -33,19 +33,19 @@ describe('RoomHost', () => {
     expect(host.state.teamOf).toEqual({ p1: 'A', p2: 'B' });
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 2000); // four words showing
 
-    await sendBuzz(p1, CODE, '0.0');
+    await sendBuzz(p1, CODE, 'q0_0');
     await vi.advanceTimersByTimeAsync(400); // past the tie window
     expect(host.state).toMatchObject({ phase: 'answering', buzzer: 'p1', frozenWords: 4 });
 
-    await sendAnswer(p1, CODE, '0.0', 'nope');
+    await sendAnswer(p1, CODE, 'q0_0', 'nope');
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state).toMatchObject({ phase: 'reading', lockedOut: ['p1'], teamScores: { A: -1 } });
     expect((stateOf(hub) as { phase: string }).phase).toBe('reading'); // everyone can see it
 
-    await sendBuzz(p2, CODE, '0.1');
+    await sendBuzz(p2, CODE, 'q0_1');
     await vi.advanceTimersByTimeAsync(400);
     expect(host.state).toMatchObject({ phase: 'answering', buzzer: 'p2' });
-    await sendAnswer(p2, CODE, '0.1', 'RIGHT');
+    await sendAnswer(p2, CODE, 'q0_1', 'RIGHT');
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state).toMatchObject({ phase: 'result', teamScores: { A: -1, B: 3 } });
     expect(host.state.last).toMatchObject({ kind: 'correct', uid: 'p2' });
@@ -59,9 +59,9 @@ describe('RoomHost', () => {
     const { host, p1, p2 } = await setup();
     host.start();
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 1000);
-    await sendBuzz(p2, CODE, '0.0'); // stamped first
+    await sendBuzz(p2, CODE, 'q0_0'); // stamped first
     await vi.advanceTimersByTimeAsync(80);
-    await sendBuzz(p1, CODE, '0.0'); // stamped 80 ms later, inside the tie window
+    await sendBuzz(p1, CODE, 'q0_0'); // stamped 80 ms later, inside the tie window
     await vi.advanceTimersByTimeAsync(400);
     expect(host.state.buzzer).toBe('p2');
     host.dispose();
@@ -71,14 +71,14 @@ describe('RoomHost', () => {
     const { host, p1, p2 } = await setup();
     host.start();
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 1000);
-    await sendBuzz(p1, CODE, '0.0');
+    await sendBuzz(p1, CODE, 'q0_0');
     await vi.advanceTimersByTimeAsync(400);
-    await sendBuzz(p2, CODE, '0.0'); // too late: p1 is already answering
+    await sendBuzz(p2, CODE, 'q0_0'); // too late: p1 is already answering
     await vi.advanceTimersByTimeAsync(10);
-    await sendAnswer(p1, CODE, '0.0', 'nope');
+    await sendAnswer(p1, CODE, 'q0_0', 'nope');
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state.phase).toBe('reading');
-    await sendBuzz(p2, CODE, '0.1'); // a fresh segment, so this buzz counts
+    await sendBuzz(p2, CODE, 'q0_1'); // a fresh segment, so this buzz counts
     await vi.advanceTimersByTimeAsync(400);
     expect(host.state).toMatchObject({ phase: 'answering', buzzer: 'p2' });
     host.dispose();
@@ -88,7 +88,7 @@ describe('RoomHost', () => {
     const { host, p1 } = await setup();
     host.start();
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 1000);
-    await sendBuzz(p1, CODE, '0.0');
+    await sendBuzz(p1, CODE, 'q0_0');
     await vi.advanceTimersByTimeAsync(400);
     await vi.advanceTimersByTimeAsync(5100); // answer window (5 s) closes
     expect(host.state.last).toMatchObject({ kind: 'pass', uid: 'p1', points: 0 });
@@ -104,9 +104,9 @@ describe('RoomHost', () => {
     host.start();
     expect(host.state.teamOf).toEqual({ p1: 'p1', p2: 'p2' });
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 500);
-    await sendBuzz(p1, CODE, '0.0');
+    await sendBuzz(p1, CODE, 'q0_0');
     await vi.advanceTimersByTimeAsync(400);
-    await sendAnswer(p1, CODE, '0.0', 'right');
+    await sendAnswer(p1, CODE, 'q0_0', 'right');
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state.teamScores).toEqual({ p1: 3 });
     host.dispose();
