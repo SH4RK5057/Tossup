@@ -67,3 +67,13 @@ export function scaledBonusSeconds(b: ClockBonus, multiplier: number): number {
   const total = (reading + BONUS_CONFER_SECONDS + typing + extra) * multiplier;
   return Math.min(MAX_BONUS_CLOCK_SECONDS, Math.max(MIN_CLOCK_SECONDS, Math.ceil(total)));
 }
+
+/** Official: once you have buzzed in you have 3 seconds to answer. Typed: 3 seconds to start, plus typing time. */
+export const BUZZ_ANSWER_SECONDS = 3;
+
+/** Seconds a player who has buzzed in gets to type the answer in a multiplayer room. */
+export function buzzAnswerSeconds(q: Pick<ClockQuestion, 'answer' | 'answer_type'>): number {
+  const typing = Math.max(MIN_TYPING_SECONDS, q.answer.length / TYPE_CHARS_PER_SECOND);
+  const extra = q.answer_type === 'math' ? 3 : q.answer_type === 'foreign_language' ? 2 : 0;
+  return Math.min(30, Math.max(MIN_CLOCK_SECONDS, Math.ceil(BUZZ_ANSWER_SECONDS + typing + extra)));
+}

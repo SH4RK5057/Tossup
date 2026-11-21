@@ -87,3 +87,15 @@ To change the bank: edit the files in `scripts/bank/data/` (or `patches.json`), 
 - **Duplicates**: `node scripts/bank/dup-scan.mjs` finds same-fact duplicates (same answer plus rare shared words, such as a bonus part that repeats a tossup) and writes `patches-dups.json`; `scripts/bank/answers.mjs "<subject>"` lists a subject's existing answers for writers.
 - **Time-sensitive questions**: add `x=YYYY-MM-DD` to a question's options in the bank format (or set the expiry in the editor); the site stops serving it after that date. Current Events questions must have one.
 - Practice sessions draw evenly across categories, then across subjects within a category, so a category with more subjects is not over-represented.
+
+## Rooms (multiplayer, secondary screen)
+
+Open **Rooms** in the header. The host creates a room (level, categories, number of questions, reading speed, teams or free for all) and shares the 4-letter code; others type a name and join. Questions are revealed word by word, anyone can **buzz with Space**, the first buzz freezes the question and that player types the answer (a wrong answer costs a point and locks them out for the question, a blank answer or running out of time is a free pass), and the host presses **Next**. Plan and design notes: `docs/multiplayer-plan.md`.
+
+- **Try it with no setup:** without the database below, Rooms runs in test mode: open the site in two tabs of the same browser and they play each other.
+- **Online play (once, free):**
+  1. Firebase console → Build → **Realtime Database** → Create database (locked mode). Copy its URL (like `https://<project>-default-rtdb.firebaseio.com`) into `VITE_FIREBASE_DATABASE_URL` in `.env.local`, and add it as a repository variable named `VITE_FIREBASE_DATABASE_URL` in GitHub (Settings → Secrets and variables → Actions → Variables) so the deployed site has it.
+  2. Firebase console → Build → Authentication → Sign-in method → turn on **Anonymous**.
+  3. Rules: paste `database.rules.json` into the Realtime Database Rules tab (or `firebase deploy --only database`).
+- **How it works:** the host's screen is the referee (resolves buzz races by server time, grades answers with the same checker as practice, runs the clocks, writes the room state). Players only write their own buzz, answer and player record. Questions never travel: everyone builds the same list from the host's seed. Keep the host's tab open and visible.
+- **Limits (free tier):** about 100 people connected at once across all rooms; rooms are capped at 30 players. Not cheat-proof (it is friendly practice), and rooms are tossups only for now (no team bonuses yet).

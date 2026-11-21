@@ -18,6 +18,7 @@ import { Summary } from './Summary';
 
 const AdminShell = lazy(() => import('../admin/AdminShell'));
 const EditorModal = lazy(() => import('../admin/EditorModal'));
+const RoomsPage = lazy(() => import('../multiplayer/RoomsPage'));
 
 export function App() {
   const [services, setServices] = useState<Services | null>(null);
@@ -229,6 +230,9 @@ function Main({ services }: { services: Services }) {
       : <Home settings={settings} onChange={setSettings} onStart={startSession} busy={busy} error={error} deck={deckInfo} onStartDeck={startDeck} />;
   } else if (path === '/stats') {
     page = <StatsPage initialRuleset={settings.ruleset} onDrill={drillSubjects} />;
+  } else if (path === '/rooms') {
+    const code = new URLSearchParams(route.split('?')[1] ?? '').get('code');
+    page = <Suspense fallback={<div className="page muted">Loading…</div>}><RoomsPage code={code ? code.toUpperCase().slice(0, 4) : null} /></Suspense>;
   } else if (path.startsWith('/admin')) {
     page = <Suspense fallback={<div className="page muted">Loading…</div>}><AdminShell path={path} /></Suspense>;
   } else {
@@ -247,6 +251,7 @@ function Main({ services }: { services: Services }) {
         <nav>
           <a href="#/" className={path === '/' ? 'active' : ''}>Practice</a>
           <a href="#/stats" className={path === '/stats' ? 'active' : ''}>Stats</a>
+          <a href="#/rooms" className={path === '/rooms' ? 'active' : ''}>Rooms</a>
           {(services.auth.available || path.startsWith('/admin')) && (
             <a href="#/admin" className={path.startsWith('/admin') ? 'active' : ''}>Admin</a>
           )}

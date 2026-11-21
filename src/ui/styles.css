@@ -206,3 +206,10 @@ button.primary kbd { background: rgba(0, 0, 0, 0.18); border-color: rgba(0, 0, 0
   th, td { padding: 0.35rem; }
   kbd { display: none; }
 }
+
+/* ---- rooms (multiplayer) ---- */
+.room-question { font: 1.35rem/1.6 var(--serif, Georgia, 'Times New Roman', serif); min-height: 4.8em; padding: 0.25rem 0; }
+.room-cursor { opacity: 0.5; margin-left: 2px; animation: room-blink 1s steps(2) infinite; }
+@keyframes room-blink { 50% { opacity: 0; } }
+.room-buzz { min-width: 220px; min-height: 56px; font-size: 1.15rem; font-weight: 700; }
+.room-clock { font: 700 1.4rem var(--mono, ui-monospace, monospace); min-width: 2.5ch; text-align: right; }
