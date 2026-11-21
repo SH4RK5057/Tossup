@@ -1,5 +1,6 @@
 import { z } from 'zod';
 import { PACES } from '../core/clock';
+import type { Deck } from '../core/deck';
 import { DEFAULT_RULESET, getRuleset } from '../core/rulesets';
 import type { SessionSummary } from '../core/stats';
 import { levelSchema, partDifficultySchema, rulesetIdSchema } from '../core/types';
@@ -94,4 +95,40 @@ export function saveSession(summary: SessionSummary, store: KeyValueStorage = lo
 
 export function clearSessions(store: KeyValueStorage = localStore): void {
   store.remove(STATS_KEY);
+}
+
+// -------------------------------------------------------------- missed deck
+
+const DECK_KEY = 'tossup.deck.v1';
+const deckEntrySchema = z.object({
+  id: z.string(),
+  type: z.enum(['tossup', 'bonus']),
+  rulesetId: rulesetIdSchema,
+  level: levelSchema,
+  category: z.string(),
+  subcategory: z.string(),
+  box: z.number().int().min(0),
+  misses: z.number().int().min(0),
+  lastSeen: z.string(),
+});
+
+/** Reads the saved missed-question deck, ignoring any entry that does not parse. */
+export function loadDeck(store: KeyValueStorage = localStore): Deck {
+  const raw = store.get<unknown>(DECK_KEY, {});
+  const out: Deck = {};
+  if (raw && typeof raw === 'object') {
+    for (const v of Object.values(raw as Record<string, unknown>)) {
+      const p = deckEntrySchema.safeParse(v);
+      if (p.success) out[p.data.id] = p.data;
+    }
+  }
+  return out;
+}
+
+export function saveDeck(deck: Deck, store: KeyValueStorage = localStore): void {
+  store.set(DECK_KEY, deck);
+}
+
+export function clearDeck(store: KeyValueStorage = localStore): void {
+  store.remove(DECK_KEY);
 }

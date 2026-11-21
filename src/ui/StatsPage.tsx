@@ -1,16 +1,17 @@
 import { useMemo, useState } from 'react';
 import { RULESETS } from '../core/rulesets';
-import { accuracy, aggregate } from '../core/stats';
+import { accuracy, aggregate, weakSubjects } from '../core/stats';
 import { LEVEL_LABEL, type RulesetId } from '../core/types';
 import { clearSessions, loadSessions } from '../storage/storage';
 import { formatDate, formatPercent } from './format';
 import { AccuracyBar, PartTable, SubjectTable } from './Summary';
 
-export function StatsPage({ initialRuleset }: { initialRuleset: RulesetId }) {
+export function StatsPage({ initialRuleset, onDrill }: { initialRuleset: RulesetId; onDrill?: (rulesetId: RulesetId, keys: string[]) => void }) {
   const [sessions, setSessions] = useState(loadSessions);
   const [ruleset, setRuleset] = useState<RulesetId>(initialRuleset);
   const [includeUntimed, setIncludeUntimed] = useState(false);
   const agg = useMemo(() => aggregate(sessions, { rulesetId: ruleset, includeUntimed }), [sessions, ruleset, includeUntimed]);
+  const weak = useMemo(() => weakSubjects(agg.bySubject), [agg]);
   const recent = sessions.filter((s) => s.rulesetId === ruleset).slice(-15).reverse();
 
   return (
@@ -32,6 +33,27 @@ export function StatsPage({ initialRuleset }: { initialRuleset: RulesetId }) {
         <div className="tile"><small>Tossup accuracy</small><b>{formatPercent(accuracy(agg.tossups))}</b></div>
         <div className="tile"><small>Points per bonus</small><b>{agg.ppb === null ? '—' : agg.ppb.toFixed(1)}</b><small>{agg.bonusesPlayed} bonuses</small></div>
       </div>
+
+      {weak.length > 0 && (
+        <section className="panel stack">
+          <h2 style={{ margin: 0 }}>Subjects to work on</h2>
+          <p className="hint" style={{ margin: 0 }}>Your lowest accuracy so far (subjects with at least 5 answers).</p>
+          {weak.map((w) => (
+            <div key={w.key} className="row" style={{ justifyContent: 'space-between' }}>
+              <span>{w.key.replace('/', ' · ')}</span>
+              <span className="small">{w.tally.correct}/{w.tally.seen} · {formatPercent(w.accuracy)}</span>
+            </div>
+          ))}
+          {onDrill && (
+            <div className="row">
+              <button className="primary" onClick={() => onDrill(ruleset, weak.slice(0, 3).map((w) => w.key))}>
+                Drill my {Math.min(3, weak.length)} weakest
+              </button>
+              <button onClick={() => onDrill(ruleset, weak.map((w) => w.key))}>Drill all {weak.length}</button>
+            </div>
+          )}
+        </section>
+      )}
 
       <div className="grid-2">
         <section className="panel"><h2>Accuracy by subject</h2><SubjectTable bySubject={agg.bySubject} /></section>

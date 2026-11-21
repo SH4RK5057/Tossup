@@ -99,11 +99,24 @@ describe('tossup scoring', () => {
     q = reduce(q, { type: 'submitAnswer', answer: 'definitely wrong zzz' });
     expect(q.score).toBe(10);
   });
-  it('treats a timeout with an empty box as incorrect', () => {
+  it('scores nothing when the clock runs out on an empty box', () => {
     let s = createSession(input({ kind: 'tossup' }));
     s = reduce(s, { type: 'timeout' });
     expect(s.phase).toBe('tossup_result');
-    expect(s.records[0]).toMatchObject({ correct: false, timedOut: true, points: -1 });
+    expect(s.records[0]).toMatchObject({ correct: false, timedOut: true, points: 0 });
+    expect(s.score).toBe(0);
+  });
+  it('treats a blank submission as a pass with no penalty', () => {
+    let s = createSession(input({ kind: 'tossup' }));
+    s = reduce(s, { type: 'submitAnswer', answer: '   ' });
+    expect(s.phase).toBe('tossup_result');
+    expect(s.records[0]).toMatchObject({ correct: false, timedOut: true, points: 0, typed: '' });
+    expect(s.score).toBe(0);
+  });
+  it('still penalizes a wrong guess, including one submitted when the clock runs out', () => {
+    let s = createSession(input({ kind: 'tossup' }));
+    s = reduce(s, { type: 'timeout', answer: 'definitely wrong zzz' });
+    expect(s.records[0]).toMatchObject({ correct: false, points: -1 });
   });
   it('submits whatever is typed at timeout', () => {
     let s = createSession(input({ kind: 'tossup' }));

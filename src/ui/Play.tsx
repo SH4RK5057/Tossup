@@ -194,7 +194,7 @@ export function Play({ session: s, dispatch, onDone, onQuit, onEdit, paused }: P
   const partResult = (p: BonusPartRecord, i: number, spec: AnswerSpec, canOverride: boolean) => (
     <div className="part" key={i}>
       <div><span className={`verdict ${p.correct ? 'correct' : 'incorrect'}`} style={{ fontSize: '1.05rem' }}>
-        {i + 1}. {p.correct ? 'Correct' : p.timedOut ? "Time's up" : 'Incorrect'}{p.overridden ? ' (marked right)' : ''}
+        {i + 1}. {p.correct ? 'Correct' : p.timedOut ? 'No answer' : 'Incorrect'}{p.overridden ? ' (marked right)' : ''}
         {p.points ? ` +${p.points}` : ''}
       </span></div>
       {p.typed && <div className="muted small">You typed: {p.typed}</div>}
@@ -233,7 +233,7 @@ export function Play({ session: s, dispatch, onDone, onQuit, onEdit, paused }: P
             <>
               <div className="qtext">{tossup.text}</div>
               <div className={`verdict ${tRec.correct ? 'correct' : 'incorrect'}`}>
-                {tRec.correct ? 'Correct' : tRec.timedOut ? "Time's up" : 'Incorrect'}{tRec.overridden ? ' (marked right)' : ''}
+                {tRec.correct ? 'Correct' : tRec.timedOut ? 'No answer' : 'Incorrect'}{tRec.overridden ? ' (marked right)' : ''}
                 {tRec.points ? ` ${tRec.points > 0 ? '+' : ''}${tRec.points}` : ''}
               </div>
               {tRec.typed && <div className="muted small">You typed: {tRec.typed}</div>}

@@ -11,9 +11,12 @@ interface Props {
   onStart: (kind: SessionKind) => void;
   busy: boolean;
   error: string | null;
+  /** How many missed tossups / bonuses are saved for the current ruleset and level. */
+  deck?: { tossups: number; bonuses: number };
+  onStartDeck?: (kind: 'tossup' | 'bonus') => void;
 }
 
-export function Home({ settings, onChange, onStart, busy, error }: Props) {
+export function Home({ settings, onChange, onStart, busy, error, deck, onStartDeck }: Props) {
   const rs = getRuleset(settings.ruleset);
   const set = (patch: Partial<Settings>) => onChange({ ...settings, ...patch });
 
@@ -66,6 +69,14 @@ export function Home({ settings, onChange, onStart, busy, error }: Props) {
           <span className="small">Tossups with a running score</span>
         </button>
       </div>
+
+      {deck && onStartDeck && deck.tossups + deck.bonuses > 0 && (
+        <div className="notice row">
+          <span><strong>Missed deck:</strong> {deck.tossups} tossup{deck.tossups === 1 ? '' : 's'} and {deck.bonuses} bonus{deck.bonuses === 1 ? '' : 'es'} you missed or passed on at this level. Get one right three times in a row and it leaves the deck.</span>
+          {deck.tossups > 0 && <button disabled={busy} onClick={() => onStartDeck('tossup')}>Practice missed tossups</button>}
+          {deck.bonuses > 0 && <button disabled={busy} onClick={() => onStartDeck('bonus')}>Practice missed bonuses</button>}
+        </div>
+      )}
 
       <div className="grid-2">
         <section className="panel">

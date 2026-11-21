@@ -110,3 +110,19 @@ export function aggregate(all: SessionSummary[], opts: AggregateOptions): Aggreg
 }
 
 export const accuracy = (t: Tally): number | null => (t.seen ? t.correct / t.seen : null);
+
+export interface WeakSubject {
+  /** "Category/Subcategory", the same key the subject picker uses. */
+  key: string;
+  tally: Tally;
+  accuracy: number;
+}
+
+/** The subjects the player struggles on most: lowest accuracy first, ignoring subjects seen fewer than `minSeen` times. */
+export function weakSubjects(bySubject: Record<string, Tally>, limit = 5, minSeen = 5): WeakSubject[] {
+  return Object.entries(bySubject)
+    .filter(([, t]) => t.seen >= minSeen)
+    .map(([key, tally]) => ({ key, tally, accuracy: tally.correct / tally.seen }))
+    .sort((a, b) => a.accuracy - b.accuracy || b.tally.seen - a.tally.seen)
+    .slice(0, limit);
+}

@@ -225,7 +225,8 @@ function gradeBonusPart(typed: string, spec: AnswerSpec, ruleset: Ruleset, diffi
 function recordTossup(s: SessionState, typed: string, correct: boolean, timedOut: boolean): SessionState {
   const q = currentTossup(s)!;
   const r = ruleOf(s);
-  const points = correct ? r.tossupValue : r.wrongTossupPoints;
+  // Not guessing is free: a blank answer (or a clock that runs out on an empty box) scores nothing, never the wrong-answer penalty.
+  const points = correct ? r.tossupValue : typed.trim() === '' ? 0 : r.wrongTossupPoints;
   const rec: TossupRecord = {
     kind: 'tossup', questionId: q.id, category: q.category, subcategory: q.subcategory,
     correct, points, typed, timedOut, overridden: false,
@@ -236,6 +237,8 @@ function recordTossup(s: SessionState, typed: string, correct: boolean, timedOut
 function answerTossup(s: SessionState, typed: string, isTimeout: boolean): SessionState {
   const q = currentTossup(s);
   if (!q) return s;
+  // Submitting nothing is a pass, the same as letting the clock run out (no penalty, no waiting).
+  if (typed.trim() === '') return recordTossup(s, '', false, true);
   const result = check(typed, q, ruleOf(s));
   if (result === 'prompt' && !isTimeout && s.phase === 'tossup') {
     return { ...s, phase: 'tossup_prompt', prompted: true, clockKey: s.clockKey + 1 };
