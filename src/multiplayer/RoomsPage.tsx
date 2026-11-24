@@ -1,32 +1,19 @@
-// The Rooms screen: create or join a room, lobby, buzz-in play, scoreboard.
+// The room view: lobby, buzz-in play, scoreboard. Hosting and joining happen on the Practice screen (Room mode),
+// which shares its settings with solo practice.
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import {
-  normalizeRoomState, rankTeams, segmentOf, wordsShown, type RoomState,
-} from '../core/room';
 import { levelsForPool } from '../core/pool';
+import { normalizeRoomState, rankTeams, segmentOf, wordsShown, type RoomState } from '../core/room';
 import { getRuleset } from '../core/rulesets';
-import { DIFFICULTIES, LEVELS, LEVEL_LABEL, type Level, type Tossup } from '../core/types';
-import { subjectKey } from '../core/pool';
+import { LEVEL_LABEL, type Tossup } from '../core/types';
 import { navigate, useApp } from '../ui/context';
-import { connect, realtimeConfigured, type Connection } from './connect';
+import { connect, type Connection } from './connect';
 import { RoomHost, sendAnswer, sendBuzz, writePlayer, type RoomPlayer } from './host';
 import {
-  buildRoomQuestions, normalizeSettings, poolSignature, READING_SPEEDS, revealedText, TEAM_IDS, teamLabel, toHostQuestions, type RoomSettings,
+  buildRoomQuestions, normalizeSettings, poolSignature, revealedText, TEAM_IDS, teamLabel, toHostQuestions,
 } from './questions';
-import { makeRoomCode, normalizeRoomCode, roomPath, SERVER_TIME, type RoomStore } from './store';
-
-interface Meta { hostUid: string; createdAt: number; settings: RoomSettings }
-
-const NAME_KEY = 'tossup.room.name';
-const ROOM_KEY = 'tossup.room.active';
-const MAX_PLAYERS = 30;
-
-const read = (k: string) => { try { return window.localStorage.getItem(k) ?? ''; } catch { return ''; } };
-const write = (k: string, v: string) => { try { window.localStorage.setItem(k, v); } catch { /* ignore */ } };
-// The room you are in is remembered per tab (a reload keeps you in it; a new tab starts fresh).
-const readTab = (k: string) => { try { return window.sessionStorage.getItem(k) ?? ''; } catch { return ''; } };
-const writeTab = (k: string, v: string) => { try { window.sessionStorage.setItem(k, v); } catch { /* ignore */ } };
+import { joinAsPlayer, savedName, saveName, setActiveRoom, type Meta } from './roomOps';
+import { roomPath, type RoomStore } from './store';
 
 /** Subscribes to a path; undefined while the first value is loading. */
 function useValue<T>(store: RoomStore | null, path: string | null): T | null | undefined {
@@ -39,187 +26,28 @@ function useValue<T>(store: RoomStore | null, path: string | null): T | null | u
   return value;
 }
 
-function readOnce(store: RoomStore, path: string): Promise<unknown> {
-  return new Promise((resolve) => {
-    let off: (() => void) | null = null;
-    let done = false;
-    off = store.onValue(path, (v) => {
-      if (done) return;
-      done = true;
-      resolve(v);
-      queueMicrotask(() => off?.());
-    });
-  });
-}
-
-export default function RoomsPage({ code: urlCode }: { code: string | null }) {
+export default function RoomsPage({ code }: { code: string }) {
   const [conn, setConn] = useState<Connection | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const forceLocal = new URLSearchParams(window.location.hash.split('?')[1] ?? '').has('local');
   useEffect(() => {
-    connect(forceLocal).then(setConn, (e) => setError(String(e)));
-  }, [forceLocal]);
-
-  const [name, setName] = useState(() => read(NAME_KEY));
-  const [code, setCode] = useState<string | null>(() => urlCode ?? (readTab(ROOM_KEY) || null));
-  useEffect(() => { if (urlCode) setCode(urlCode); }, [urlCode]);
+    connect(false).then(setConn, (e) => setError(String(e)));
+  }, []);
+  const [name, setName] = useState(savedName);
 
   if (error) return <div className="page"><div className="notice error">{error}</div></div>;
   if (!conn) return <div className="page muted">Connecting…</div>;
 
-  const saveName = (n: string) => { setName(n); write(NAME_KEY, n); };
   const leave = () => {
-    writeTab(ROOM_KEY, '');
-    setCode(null);
+    setActiveRoom(null);
     navigate('/rooms');
   };
 
   return (
     <div className="page stack">
-      <h1>Rooms</h1>
+      <h1>Room</h1>
       {conn.note && <div className="notice">{conn.note}</div>}
-      {code
-        ? <RoomView store={conn.store} code={code} onLeave={leave} name={name} setName={saveName} />
-        : <Entry store={conn.store} name={name} setName={saveName}
-            onEnter={(c) => { writeTab(ROOM_KEY, c); setCode(c); navigate(`/rooms?code=${c}`); }} />}
+      <RoomView store={conn.store} code={code} onLeave={leave} name={name} setName={(n) => { setName(n); saveName(n); }} />
     </div>
-  );
-}
-
-/** Adds this device to a room's lobby on the smallest team. Returns an error message, or null on success. */
-async function joinAsPlayer(store: RoomStore, code: string, meta: Meta, name: string): Promise<string | null> {
-  const players = ((await readOnce(store, roomPath(code, 'players'))) as Record<string, RoomPlayer> | null) ?? {};
-  if (players[store.uid]) return null;
-  if (Object.keys(players).length >= MAX_PLAYERS) return `That room is full (${MAX_PLAYERS} players).`;
-  const counts = new Map<string, number>(TEAM_IDS.slice(0, meta.settings.teamCount).map((t) => [t, 0]));
-  for (const p of Object.values(players)) counts.set(p.team, (counts.get(p.team) ?? 0) + 1);
-  const team = [...counts.entries()].sort((a, b) => a[1] - b[1])[0][0];
-  await writePlayer(store, code, name, team);
-  return null;
-}
-
-// ------------------------------------------------------------------ create or join
-
-function Entry({ store, name, setName, onEnter }: { store: RoomStore; name: string; setName: (n: string) => void; onEnter: (code: string) => void }) {
-  const { repo } = useApp();
-  const [joinCode, setJoinCode] = useState('');
-  const [level, setLevel] = useState<Level>('jv');
-  const [questions, setQuestions] = useState(10);
-  const [speed, setSpeed] = useState<number>(READING_SPEEDS[1].wordsPerSecond);
-  const [teamMode, setTeamMode] = useState<'teams' | 'ffa'>('teams');
-  const [teamCount, setTeamCount] = useState(2);
-  const [cats, setCats] = useState<string[]>([]);
-  const [busy, setBusy] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const rs = getRuleset('ncal');
-  const trimmed = name.trim();
-
-  const create = async () => {
-    if (!trimmed) { setError('Type your name first.'); return; }
-    setBusy(true);
-    setError(null);
-    try {
-      const pool = await repo.loadPool({ rulesetId: 'ncal', level, levels: levelsForPool(rs, level) });
-      const subjects = rs.subjects.filter((c) => cats.includes(c.name)).flatMap((c) => c.subjects.map((s) => subjectKey(c.name, s.name)));
-      const settings: RoomSettings = {
-        rulesetId: 'ncal', level, subjects, difficulties: [...DIFFICULTIES], wordsPerSecond: speed, teamMode, teamCount,
-        questions, seed: Math.random().toString(36).slice(2), nowIso: new Date().toISOString(), bankSig: poolSignature(pool),
-      };
-      if (buildRoomQuestions(pool, settings).length === 0) { setError('No questions match those settings.'); return; }
-      let code = makeRoomCode();
-      for (let i = 0; i < 20 && (await readOnce(store, roomPath(code, 'meta'))) !== null; i++) code = makeRoomCode();
-      await store.set(roomPath(code, 'meta'), { hostUid: store.uid, createdAt: SERVER_TIME, settings });
-      await writePlayer(store, code, trimmed, 'A');
-      onEnter(code);
-    } catch (e) {
-      setError(`Could not create the room: ${e instanceof Error ? e.message : String(e)}`);
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  const join = async () => {
-    const c = normalizeRoomCode(joinCode);
-    if (!trimmed) { setError('Type your name first.'); return; }
-    if (c.length !== 4) { setError('A room code is 4 letters.'); return; }
-    setBusy(true);
-    setError(null);
-    try {
-      const meta = (await readOnce(store, roomPath(c, 'meta'))) as Meta | null;
-      if (!meta) { setError('No room with that code.'); return; }
-      const state = (await readOnce(store, roomPath(c, 'state'))) as RoomState | null;
-      // A game already under way cannot take new players; they can still watch.
-      if (!state || state.phase === 'lobby') {
-        const problem = await joinAsPlayer(store, c, meta, trimmed);
-        if (problem) { setError(problem); return; }
-      }
-      onEnter(c);
-    } catch (e) {
-      setError(`Could not join: ${e instanceof Error ? e.message : String(e)}`);
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  return (
-    <>
-      {error && <div className="notice error">{error}</div>}
-      <section className="panel stack">
-        <label className="field">
-          <span className="lbl">Your name</span>
-          <input type="text" value={name} maxLength={20} placeholder="Name shown to the room" onChange={(e) => setName(e.target.value)} />
-        </label>
-      </section>
-      <div className="grid-2">
-        <section className="panel stack">
-          <h2>Join a room</h2>
-          <label className="field">
-            <span className="lbl">Room code</span>
-            <input type="text" value={joinCode} maxLength={4} placeholder="ABCD" style={{ textTransform: 'uppercase', letterSpacing: '0.3em', fontSize: '1.4rem', maxWidth: 160 }}
-              onChange={(e) => setJoinCode(normalizeRoomCode(e.target.value))} onKeyDown={(e) => { if (e.key === 'Enter') void join(); }} />
-          </label>
-          <div><button className="primary" disabled={busy} onClick={join}>Join</button></div>
-        </section>
-        <section className="panel stack">
-          <h2>Host a room</h2>
-          <label className="field">
-            <span className="lbl">Level</span>
-            <select value={level} onChange={(e) => setLevel(e.target.value as Level)}>
-              {LEVELS.map((l) => <option key={l} value={l}>{LEVEL_LABEL[l]}</option>)}
-            </select>
-          </label>
-          <div className="field">
-            <span className="lbl">Categories (none selected = all)</span>
-            <div className="row">
-              {rs.subjects.filter((c) => c.name !== 'Current Events').map((c) => (
-                <label key={c.name} className="inline-check small">
-                  <input type="checkbox" checked={cats.includes(c.name)}
-                    onChange={(e) => setCats(e.target.checked ? [...cats, c.name] : cats.filter((x) => x !== c.name))} />
-                  {c.name}
-                </label>
-              ))}
-            </div>
-          </div>
-          <div className="row">
-            <label className="field"><span className="lbl">Questions</span>
-              <select value={questions} onChange={(e) => setQuestions(Number(e.target.value))}>{[5, 10, 15, 20, 30].map((n) => <option key={n} value={n}>{n}</option>)}</select></label>
-            <label className="field"><span className="lbl">Reading speed</span>
-              <select value={speed} onChange={(e) => setSpeed(Number(e.target.value))}>{READING_SPEEDS.map((r) => <option key={r.label} value={r.wordsPerSecond}>{r.label}</option>)}</select></label>
-          </div>
-          <div className="row">
-            <label className="field"><span className="lbl">Play as</span>
-              <select value={teamMode} onChange={(e) => setTeamMode(e.target.value as 'teams' | 'ffa')}>
-                <option value="teams">Teams</option><option value="ffa">Free for all</option></select></label>
-            {teamMode === 'teams' && (
-              <label className="field"><span className="lbl">Number of teams</span>
-                <select value={teamCount} onChange={(e) => setTeamCount(Number(e.target.value))}>{[2, 3, 4].map((n) => <option key={n} value={n}>{n}</option>)}</select></label>
-            )}
-          </div>
-          <div><button className="primary" disabled={busy} onClick={create}>Create room</button></div>
-        </section>
-      </div>
-      {!realtimeConfigured && <p className="hint">NCAL questions. Rooms use the baked question bank, so nothing is read from the database during play.</p>}
-    </>
   );
 }
 
@@ -292,7 +120,7 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
   useEffect(() => {
     if (!isHost || !meta || !tossups || tossups.length === 0 || stored === undefined) return;
     const host = new RoomHost({
-      store, code, questions: toHostQuestions(tossups, meta.settings.rulesetId), teamMode: meta.settings.teamMode,
+      store, code, questions: toHostQuestions(tossups, meta.settings.rulesetId, meta.settings), teamMode: meta.settings.teamMode,
       wordsPerSecond: meta.settings.wordsPerSecond, scoring: { correct: getRuleset(meta.settings.rulesetId).tossupValue, wrong: getRuleset(meta.settings.rulesetId).wrongTossupPoints },
       initialState: initialRef.current ?? null,
     });
@@ -323,8 +151,11 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
 
   const header = (
     <div className="row" style={{ justifyContent: 'space-between' }}>
-      <div><strong>Room {code}</strong> <span className="muted small">· {LEVEL_LABEL[meta.settings.level]} · {meta.settings.questions} tossups · {meta.settings.teamMode === 'teams' ? `${meta.settings.teamCount} teams` : 'free for all'}</span></div>
+      <div><strong>Room {code}</strong> <span className="muted small">· {LEVEL_LABEL[meta.settings.level]} · {meta.settings.unlimited ? "unlimited tossups" : `${tossups ? tossups.length : meta.settings.questions} tossups`} · {meta.settings.teamMode === 'teams' ? `${meta.settings.teamCount} teams` : 'free for all'}</span></div>
       <div className="row">
+        {isHost && (state.phase === 'reading' || state.phase === 'answering' || state.phase === 'result') && (
+          <button onClick={() => { if (confirm('End the game now and show the final scores?')) hostRef.current?.end(); }}>End game</button>
+        )}
         {isHost ? <button className="danger" onClick={() => { if (confirm('Close the room for everyone?')) void closeRoom(); }}>Close room</button>
           : <button onClick={() => void leaveRoom()}>Leave</button>}
       </div>
@@ -397,7 +228,7 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
       {hostHint}
       {scoreboard}
       <section className="panel stack">
-        <div className="muted small">Question {state.q + 1} of {state.total}{taking ? '' : ' · you are watching this game'}</div>
+        <div className="muted small">Question {state.q + 1}{meta.settings.unlimited ? "" : ` of ${state.total}`}{taking ? '' : ' · you are watching this game'}</div>
         <div className="room-question" aria-live="polite">
           {q ? revealedText(q.text, state.phase === 'result' ? state.wordCount : shown) : '…'}
           {state.phase === 'reading' && shown < state.wordCount && <span className="room-cursor">▌</span>}

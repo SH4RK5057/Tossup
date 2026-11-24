@@ -64,6 +64,12 @@ export const settingsSchema = z.object({
   fullDistribution: z.boolean().default(false),
   simLength: z.enum(['count', 'match', 'all']).default('count'),
   simCount: z.number().int().min(1).max(200).default(10),
+  /** Options that only apply when hosting a room (everything else is shared with solo practice). */
+  roomTeamMode: z.enum(['teams', 'ffa']).default('teams'),
+  roomTeams: z.number().int().min(2).max(4).default(2),
+  roomSpeed: z.number().min(1).max(8).default(3.3),
+  /** Tossups in a hosted game; 0 = unlimited. */
+  roomQuestions: z.number().int().min(0).max(200).default(10),
   theme: z.enum(['auto', 'light', 'dark']).default('auto'),
 });
 export type Settings = z.infer<typeof settingsSchema>;

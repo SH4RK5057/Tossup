@@ -1,5 +1,6 @@
 import { lazy, Suspense, useCallback, useEffect, useRef, useState } from 'react';
 import { PACE_MULTIPLIER } from '../core/clock';
+import { activeRoomCode } from '../multiplayer/roomOps';
 import { levelsForPool, subjectKey } from '../core/pool';
 import { getRuleset } from '../core/rulesets';
 import { deckFor, updateDeck, type Deck } from '../core/deck';
@@ -231,8 +232,12 @@ function Main({ services }: { services: Services }) {
   } else if (path === '/stats') {
     page = <StatsPage initialRuleset={settings.ruleset} onDrill={drillSubjects} />;
   } else if (path === '/rooms') {
-    const code = new URLSearchParams(route.split('?')[1] ?? '').get('code');
-    page = <Suspense fallback={<div className="page muted">Loading…</div>}><RoomsPage code={code ? code.toUpperCase().slice(0, 4) : null} /></Suspense>;
+    // A room link (or the room this tab is already in) opens the room; otherwise this is Room mode of the Practice screen.
+    const linked = new URLSearchParams(route.split('?')[1] ?? '').get('code');
+    const code = linked ? linked.toUpperCase().replace(/[^A-Z]/g, '').slice(0, 4) : activeRoomCode();
+    page = code
+      ? <Suspense fallback={<div className="page muted">Loading…</div>}><RoomsPage code={code} /></Suspense>
+      : <Home settings={settings} onChange={setSettings} onStart={startSession} busy={busy} error={error} mode="room" />;
   } else if (path.startsWith('/admin')) {
     page = <Suspense fallback={<div className="page muted">Loading…</div>}><AdminShell path={path} /></Suspense>;
   } else {

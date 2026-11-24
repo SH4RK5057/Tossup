@@ -88,9 +88,9 @@ To change the bank: edit the files in `scripts/bank/data/` (or `patches.json`), 
 - **Time-sensitive questions**: add `x=YYYY-MM-DD` to a question's options in the bank format (or set the expiry in the editor); the site stops serving it after that date. Current Events questions must have one.
 - Practice sessions draw evenly across categories, then across subjects within a category, so a category with more subjects is not over-represented.
 
-## Rooms (multiplayer, secondary screen)
+## Rooms (multiplayer)
 
-Open **Rooms** in the header. The host creates a room (level, categories, number of questions, reading speed, teams or free for all) and shares the 4-letter code; others type a name and join. Questions are revealed word by word, anyone can **buzz with Space**, the first buzz freezes the question and that player types the answer (a wrong answer costs a point and locks them out for the question, a blank answer or running out of time is a free pass), and the host presses **Next**. Plan and design notes: `docs/multiplayer-plan.md`.
+On the Practice screen, switch from **Solo** to **With friends (room)** (or use **Rooms** in the header). The settings panels are the same ones solo practice uses: ruleset, level, difficulty, subjects (including Full distribution) and the answer time after you buzz. The room adds a few options of its own: your name, teams or free for all, number of questions (or unlimited), and reading speed. The host shares the 4-letter code (or the link); others type a name and join. Questions are revealed word by word, anyone can **buzz with Space**, the first buzz freezes the question and that player types the answer (a wrong answer costs a point and locks them out for the question, a blank answer or running out of time is a free pass), and the host presses **Next** (or **End game** at any time). Plan and design notes: `docs/multiplayer-plan.md`.
 
 - **Try it with no setup:** without the database below, Rooms runs in test mode: open the site in two tabs of the same browser and they play each other.
 - **Online play (once, free):**

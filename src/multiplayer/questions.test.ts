@@ -10,7 +10,7 @@ const t = (id: string, text: string, answer: string, sub = 'Literary Terms'): Qu
 
 const pool = Array.from({ length: 12 }, (_, i) => t(`q${i}`, `Which word number ${i} is the answer here?`, `answer${i}`));
 const settings: RoomSettings = {
-  rulesetId: 'ncal', level: 'jv', subjects: [], difficulties: ['easy', 'medium', 'hard'], wordsPerSecond: 3.3,
+  rulesetId: 'ncal', level: 'jv', subjects: [], fullDistribution: false, difficulties: ['easy', 'medium', 'hard'], answerMode: 'scaled', pace: 1, flatSeconds: 10, wordsPerSecond: 3.3,
   teamMode: 'teams', teamCount: 2, questions: 5, seed: 'abc', nowIso: '2026-12-01T00:00:00.000Z', bankSig: poolSignature(pool),
 };
 
@@ -32,7 +32,7 @@ describe('room questions', () => {
     expect(revealedText('one two', 0)).toBe('');
   });
   it('judges typed answers with the real checker', () => {
-    const [q] = toHostQuestions([pool[0] as never], 'ncal');
+    const [q] = toHostQuestions([pool[0] as never], 'ncal', settings);
     expect(q.wordCount).toBe(8);
     expect(q.answerSeconds).toBeGreaterThanOrEqual(5);
     expect(q.judge('Answer0')).toBe('correct');
@@ -51,5 +51,29 @@ describe('normalizeSettings', () => {
   });
   it('accepts lists that came back as objects', () => {
     expect(normalizeSettings({ ...settings, subjects: { 0: 'English/Literary Terms' } as never }).subjects).toEqual(['English/Literary Terms']);
+  });
+});
+
+describe('room answer time follows the shared settings', () => {
+  const one = [pool[0] as never];
+  it('scales the answer window by the pace', () => {
+    const normal = toHostQuestions(one, 'ncal', { answerMode: 'scaled', pace: 1, flatSeconds: 10 })[0].answerSeconds;
+    const generous = toHostQuestions(one, 'ncal', { answerMode: 'scaled', pace: 1.6, flatSeconds: 10 })[0].answerSeconds;
+    expect(generous).toBeGreaterThan(normal);
+  });
+  it('uses a flat number of seconds when asked', () => {
+    expect(toHostQuestions(one, 'ncal', { answerMode: 'flat', pace: 1, flatSeconds: 12 })[0].answerSeconds).toBe(12);
+  });
+  it('draws by the ruleset distribution when full distribution is on', () => {
+    const english = Array.from({ length: 30 }, (_, i) => t(`e${i}`, `English question number ${i} here?`, `ans${i}`));
+    const math = Array.from({ length: 30 }, (_, i) => ({ ...t(`m${i}`, `Math question number ${i} here?`, `mans${i}`), category: 'Math', subcategory: 'Algebra 2' }) as Question);
+    const cats = buildRoomQuestions([...english, ...math], { ...settings, fullDistribution: true, questions: 20 }).map((q) => q.category);
+    expect(cats).toContain('English');
+    expect(cats).toContain('Math');
+  });
+  it('defaults the new settings for a room written by an older version', () => {
+    const old: Record<string, unknown> = { ...settings };
+    for (const k of ['fullDistribution', 'answerMode', 'pace', 'flatSeconds']) delete old[k];
+    expect(normalizeSettings(old)).toMatchObject({ fullDistribution: false, answerMode: 'scaled', pace: 1, flatSeconds: 10 });
   });
 });
