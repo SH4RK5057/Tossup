@@ -310,7 +310,7 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
       <section className="panel stack">
         <div className="muted small">{countText}{taking ? '' : ' · you are watching this game'}</div>
         <div className="room-question" aria-live="polite">
-          {q ? revealedText(q.text, state.phase === 'result' ? state.wordCount : shown) : '…'}
+          {q ? revealedText(q.text, state.phase === 'result' ? (state.last?.kind === 'correct' ? Math.min(state.frozenWords, state.wordCount) : state.wordCount) : shown) : '…'}
           {state.phase === 'reading' && shown < state.wordCount && <span className="room-cursor">▌</span>}
         </div>
 

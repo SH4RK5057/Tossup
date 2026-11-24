@@ -17,6 +17,8 @@ export const BUZZ_WINDOW_MS = 5000;
 export const LEAD_IN_MS = 1500;
 /** Buzzes that arrive this close together are ordered by their server timestamps before a winner is picked. */
 export const BUZZ_TIE_WINDOW_MS = 200;
+/** Once every player is locked out the reading still finishes, then the question ends after this short beat. */
+export const ALL_OUT_TAIL_MS = 1500;
 
 export type RoomMode = 'tossup' | 'bonus' | 'sim';
 export type RoomPhase = 'lobby' | 'reading' | 'answering' | 'result' | 'bonus' | 'bonus_result';
@@ -193,10 +195,13 @@ export function nextDeadline(s: RoomState): number | null {
   return null;
 }
 
-function revealEnd(readStartAt: number, readFrom: number, wordCount: number, wps: number): number {
+/** After the last word the buzz window stays open for `tailMs` (shorter once nobody is left who could buzz). */
+function revealEnd(readStartAt: number, readFrom: number, wordCount: number, wps: number, tailMs = BUZZ_WINDOW_MS): number {
   const remaining = Math.max(0, wordCount - readFrom);
-  return readStartAt + Math.ceil((remaining / wps) * 1000) + BUZZ_WINDOW_MS;
+  return readStartAt + Math.ceil((remaining / wps) * 1000) + tailMs;
 }
+
+const everyoneLockedOut = (s: Pick<RoomState, 'teamOf' | 'lockedOut'>): boolean => Object.keys(s.teamOf).every((p) => s.lockedOut.includes(p));
 
 const blankScore = (): PlayerScore => ({ points: 0, correct: 0, wrong: 0, passes: 0 });
 
@@ -223,7 +228,10 @@ function bump(s: RoomState): RoomState {
   return { ...s, version: s.version + 1 };
 }
 
-/** The answerer failed (wrong or pass): lock them out and either resume the reveal or end the question. */
+/**
+ * The answerer failed (wrong or pass): lock them out and resume the reveal from where it stopped. The reading carries on
+ * even when nobody is left to buzz, so the rest of the question is read before it ends.
+ */
 function afterMiss(s: RoomState, uid: string, kind: 'wrong' | 'pass', typed: string | undefined, at: number): RoomState {
   const scored = award(s, uid, kind);
   const lockedOut = [...s.lockedOut, uid];
@@ -231,11 +239,10 @@ function afterMiss(s: RoomState, uid: string, kind: 'wrong' | 'pass', typed: str
     ...s, ...scored, lockedOut, buzzer: null, answerDeadline: null, pending: [],
     last: { kind, uid, typed, points: scored.points },
   };
-  const everyoneOut = Object.keys(s.teamOf).every((p) => lockedOut.includes(p));
-  if (everyoneOut) return bump({ ...base, phase: 'result', last: { kind, uid, typed, points: scored.points } });
+  const tail = everyoneLockedOut({ teamOf: s.teamOf, lockedOut }) ? ALL_OUT_TAIL_MS : BUZZ_WINDOW_MS;
   return bump({
     ...base, phase: 'reading', readFrom: s.frozenWords, readStartAt: at,
-    endAt: revealEnd(at, s.frozenWords, s.wordCount, s.wordsPerSecond),
+    endAt: revealEnd(at, s.frozenWords, s.wordCount, s.wordsPerSecond, tail),
   });
 }
 
@@ -324,7 +331,8 @@ export function reduceRoom(s: RoomState, e: RoomEvent): RoomState {
         return afterMiss(s, s.buzzer, 'pass', '', e.at);
       }
       if (s.phase === 'reading' && s.pending.length === 0 && e.at >= s.endAt) {
-        return bump({ ...s, phase: 'result', last: { kind: 'nobody', points: 0 } });
+        // Nobody left to buzz keeps the last miss as the outcome; otherwise nobody buzzed at all.
+        return bump({ ...s, phase: 'result', last: everyoneLockedOut(s) && s.last ? s.last : { kind: 'nobody', points: 0 } });
       }
       return s;
     }

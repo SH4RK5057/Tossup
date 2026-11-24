@@ -121,11 +121,15 @@ describe('questions that nobody answers', () => {
     expect(n.phase).toBe('result');
     expect(n.last).toMatchObject({ kind: 'nobody', points: 0 });
   });
-  it('ends at once when everyone has been locked out', () => {
+  it('keeps reading to the end when everyone has been locked out, then ends', () => {
     let s = start({ teamOf: { p: 'p', q: 'q' } });
     s = buzzAndAnswer(s, 'p', 'bad', 'wrong', READ_AT + 500);
     s = buzzAndAnswer(s, 'q', 'bad', 'wrong', s.readStartAt + 500);
+    expect(s.phase).toBe('reading');
+    expect(s.endAt - s.readStartAt).toBeLessThan(5000 + (s.wordCount / s.wordsPerSecond) * 1000);
+    s = reduceRoom(s, { type: 'timeout', at: s.endAt + 10 });
     expect(s.phase).toBe('result');
+    expect(s.last?.kind).toBe('wrong');
     expect(s.teamScores).toEqual({ p: -1, q: -1 });
   });
   it('does not end the question while a buzz is waiting to be resolved', () => {
