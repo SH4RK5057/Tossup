@@ -12,6 +12,7 @@ import { RoomHost, sendAnswer, sendBuzz, writePlayer, type RoomPlayer } from './
 import {
   buildRoomBonuses, buildRoomQuestions, normalizeSettings, poolSignature, revealedText, TEAM_IDS, teamLabel, toHostBonuses, toHostQuestions,
 } from './questions';
+import { LobbySettings, SettingsSummary } from './LobbySettings';
 import { BonusPanel } from './RoomBonus';
 import { joinAsPlayer, savedName, saveName, setActiveRoom, type Meta } from './roomOps';
 import { roomPath, type RoomStore } from './store';
@@ -137,6 +138,10 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
       });
     } else {
       hostRef.current.setContent(hc, s.mode);
+      hostRef.current.setConfig({
+        teamMode: s.teamMode, wordsPerSecond: s.wordsPerSecond,
+        scoring: { correct: rs.tossupValue, wrong: rs.wrongTossupPoints, bonusPart: rs.bonus.pointsPerPart },
+      });
     }
     if (pendingStart && pendingStart === s.seed) { setPendingStart(null); hostRef.current.start(); }
   }, [isHost, meta?.settings.seed, content, stored === undefined, pendingStart]); // eslint-disable-line react-hooks/exhaustive-deps
@@ -226,6 +231,9 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
               </div>
             : <p className="muted">{last ? 'Waiting for the host to start the next game…' : 'Waiting for the host to start…'}</p>}
         </section>
+        {isHost
+          ? <LobbySettings store={store} code={code} meta={meta} players={players ?? {}} />
+          : <SettingsSummary settings={settings} />}
       </>
     );
   }

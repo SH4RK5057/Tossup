@@ -281,3 +281,31 @@ describe('RoomHost: team bonuses', () => {
     host.dispose();
   });
 });
+
+describe('RoomHost: settings changed in the lobby', () => {
+  beforeEach(() => { vi.useFakeTimers({ now: 1_000_000 }); });
+  afterEach(() => { vi.useRealTimers(); });
+
+  it('plays the next game with the new mode, team mode and scoring', async () => {
+    const { host, p1 } = await setup({ tossups: 1, bonuses: 1 });
+    host.start();
+    expect(host.state).toMatchObject({ mode: 'tossup', phase: 'reading' });
+    expect(host.state.teamOf).toEqual({ p1: 'A', p2: 'B', p3: 'A' });
+    host.end(); // back to the lobby
+    expect(host.state.phase).toBe('lobby');
+
+    // The host switched to a bonus drill, free for all, with different scoring.
+    host.setConfig({ teamMode: 'ffa', wordsPerSecond: 4, scoring: { correct: 10, wrong: 0, bonusPart: 3 } });
+    host.setContent({ tossups: [tossup], bonuses: [bonus, bonus] }, 'bonus');
+    host.start();
+    expect(host.state).toMatchObject({ phase: 'bonus', mode: 'bonus', total: 2, wordsPerSecond: 4 });
+    expect(host.state.teamOf).toEqual({ p1: 'p1', p2: 'p2', p3: 'p3' });
+    expect(host.state.bonus?.teams).toEqual(['p1', 'p2', 'p3']);
+    expect(host.state.scoring).toEqual({ correct: 10, wrong: 0, bonusPart: 3 });
+    await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 3000);
+    await sendBonusSubmit(p1, CODE, 0, 'p1', ['right', 'right']); // free for all: each player is their own captain
+    await vi.advanceTimersByTimeAsync(10);
+    expect(host.state.teamScores).toEqual({ p1: 6 });
+    host.dispose();
+  });
+});

@@ -1,8 +1,12 @@
 // Things both the Practice screen (hosting and joining) and the room view need: remembering your name and which room
 // this tab is in, reading a value once, and adding yourself to a lobby.
 
+import { PACE_MULTIPLIER, PACES } from '../core/clock';
+import { getRuleset } from '../core/rulesets';
+import type { Question } from '../core/types';
+import type { Settings } from '../storage/storage';
 import { writePlayer, type RoomPlayer } from './host';
-import { TEAM_IDS, type RoomSettings } from './questions';
+import { buildRoomBonuses, buildRoomQuestions, poolSignature, TEAM_IDS, type RoomSettings } from './questions';
 import { makeRoomCode, roomPath, SERVER_TIME, type RoomStore } from './store';
 
 
@@ -57,4 +61,90 @@ export async function createRoom(store: RoomStore, settings: RoomSettings, name:
   await store.set(roomPath(code, 'meta'), { hostUid: store.uid, createdAt: SERVER_TIME, settings });
   await writePlayer(store, code, name, 'A');
   return code;
+}
+
+// ------------------------------------------------------------------ settings <-> a room's settings
+
+/** The most questions an "unlimited" room can run (it stops earlier if the question pool runs out). */
+export const UNLIMITED_CAP = 400;
+
+/**
+ * Turns the app's settings (the same ones solo practice uses, plus the room options) into the settings a room runs
+ * on. Bonuses in a room are answered all parts at once, so a ruleset that asks one part at a time is tossups only.
+ */
+export function makeRoomSettings(s: Settings, pool: Question[], fresh: { seed: string; nowIso: string }): RoomSettings {
+  const rs = getRuleset(s.ruleset);
+  const unlimited = s.roomQuestions === 0;
+  return {
+    mode: rs.bonus.timing === 'together' ? s.roomMode : 'tossup',
+    rulesetId: rs.id,
+    level: s.level,
+    subjects: s.fullDistribution ? [] : s.subjects,
+    fullDistribution: s.fullDistribution,
+    difficulties: s.difficulties,
+    answerMode: s.tossupTiming === 'scaled' ? 'scaled' : 'flat',
+    pace: PACE_MULTIPLIER[s.tossupPace],
+    flatSeconds: s.tossupSeconds,
+    bonusMode: s.bonusTiming === 'scaled' ? 'scaled' : 'flat',
+    bonusFlatSeconds: s.bonusSeconds,
+    wordsPerSecond: s.roomSpeed,
+    teamMode: s.roomTeamMode,
+    teamCount: s.roomTeams,
+    questions: unlimited ? UNLIMITED_CAP : s.roomQuestions,
+    unlimited,
+    seed: fresh.seed,
+    nowIso: fresh.nowIso,
+    bankSig: poolSignature(pool),
+  };
+}
+
+/** The other way: what the settings panels should show for a room that already exists. */
+export function roomToSettings(r: RoomSettings, base: Settings): Settings {
+  const pace = PACES.reduce((best, p) => (Math.abs(PACE_MULTIPLIER[p] - r.pace) < Math.abs(PACE_MULTIPLIER[best] - r.pace) ? p : best), PACES[0]);
+  return {
+    ...base,
+    ruleset: r.rulesetId,
+    level: r.level,
+    subjects: r.subjects,
+    fullDistribution: r.fullDistribution,
+    difficulties: r.difficulties.length ? r.difficulties : base.difficulties,
+    tossupTiming: r.answerMode === 'scaled' ? 'scaled' : 'fixed',
+    tossupPace: pace,
+    tossupSeconds: r.flatSeconds,
+    bonusTiming: r.bonusMode === 'scaled' ? 'scaled' : 'fixed',
+    bonusSeconds: r.bonusFlatSeconds,
+    roomMode: r.mode,
+    roomTeamMode: r.teamMode,
+    roomTeams: r.teamCount,
+    roomSpeed: r.wordsPerSecond,
+    roomQuestions: r.unlimited ? 0 : r.questions,
+  };
+}
+
+/** Why a room's settings cannot run (no matching questions), or null when they can. */
+export function questionProblem(pool: Question[], room: RoomSettings): string | null {
+  const noTossups = room.mode !== 'bonus' && buildRoomQuestions(pool, room).length === 0;
+  const noBonuses = room.mode !== 'tossup' && buildRoomBonuses(pool, room).length === 0;
+  return noTossups || noBonuses ? `No ${noTossups ? 'tossups' : 'bonuses'} match those settings. Try other subjects, difficulty or level.` : null;
+}
+
+/**
+ * When the number of teams is lowered, players on a team that no longer exists move to the smallest remaining team.
+ * Returns the new team for each player who has to move.
+ */
+export function reassignTeams(players: Record<string, RoomPlayer>, teamCount: number): Record<string, string> {
+  const teams = TEAM_IDS.slice(0, teamCount);
+  const counts = new Map<string, number>(teams.map((t) => [t, 0]));
+  const stray: string[] = [];
+  for (const [uid, p] of Object.entries(players).sort((a, b) => a[1].joinedAt - b[1].joinedAt)) {
+    if (counts.has(p.team)) counts.set(p.team, (counts.get(p.team) ?? 0) + 1);
+    else stray.push(uid);
+  }
+  const moves: Record<string, string> = {};
+  for (const uid of stray) {
+    const team = [...counts.entries()].sort((a, b) => a[1] - b[1])[0][0];
+    counts.set(team, (counts.get(team) ?? 0) + 1);
+    moves[uid] = team;
+  }
+  return moves;
 }

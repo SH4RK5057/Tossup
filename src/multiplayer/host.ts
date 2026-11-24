@@ -43,6 +43,13 @@ export interface HostContent {
   bonuses: HostBonus[];
 }
 
+/** What a game is played with; the host can change it between games. */
+export interface HostConfig {
+  teamMode: 'teams' | 'ffa';
+  wordsPerSecond: number;
+  scoring: Scoring;
+}
+
 export interface HostOptions extends HostContent {
   store: RoomStore;
   code: string;
@@ -74,6 +81,7 @@ export class RoomHost {
   private players: Record<string, RoomPlayer> = {};
   private content: HostContent;
   private mode: RoomMode;
+  private config: HostConfig;
   private subs: Unsubscribe[] = [];
   private questionSubs: Unsubscribe[] = [];
   private subscribedSegment = '';
@@ -93,6 +101,7 @@ export class RoomHost {
     this.state = initialRoomState();
     this.content = { tossups: o.tossups, bonuses: o.bonuses };
     this.mode = o.mode;
+    this.config = { teamMode: o.teamMode, wordsPerSecond: o.wordsPerSecond, scoring: o.scoring };
     this.setTimer = o.setTimer ?? ((fn, ms) => setTimeout(fn, ms));
     this.clearTimer = o.clearTimer ?? ((id) => clearTimeout(id as ReturnType<typeof setTimeout>));
     this.subs.push(o.store.onValue(roomPath(o.code, 'players'), (v) => {
@@ -112,6 +121,11 @@ export class RoomHost {
     return () => this.listeners.delete(cb);
   }
 
+  /** New team mode, reading speed and scoring for the next game (the host changed the settings in the lobby). */
+  setConfig(config: HostConfig): void {
+    this.config = config;
+  }
+
   /** New questions for the next game (the room reseeds between games). */
   setContent(content: HostContent, mode: RoomMode = this.mode): void {
     this.content = content;
@@ -126,10 +140,10 @@ export class RoomHost {
     const total = this.mode === 'bonus' ? bonuses.length : tossups.length;
     if (uids.length === 0 || total === 0) return;
     const teamOf: Record<string, string> = {};
-    for (const uid of uids) teamOf[uid] = this.o.teamMode === 'teams' ? this.players[uid].team : uid;
+    for (const uid of uids) teamOf[uid] = this.config.teamMode === 'teams' ? this.players[uid].team : uid;
     this.apply({
-      type: 'start', at: this.o.store.now(), mode: this.mode, total, wordsPerSecond: this.o.wordsPerSecond, teamOf,
-      captains: pickCaptains(this.players, teamOf), scoring: this.o.scoring,
+      type: 'start', at: this.o.store.now(), mode: this.mode, total, wordsPerSecond: this.config.wordsPerSecond, teamOf,
+      captains: pickCaptains(this.players, teamOf), scoring: this.config.scoring,
       wordCount: tossups[0]?.wordCount ?? 0,
       bonus: this.mode === 'bonus' ? this.bonusInfo(0) : undefined,
     });

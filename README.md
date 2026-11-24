@@ -99,6 +99,8 @@ On the Practice screen, switch from **Solo** to **With friends (room)** (or use 
 
 **Bonuses:** the bonus is read out first; once it has been read, **anyone on a team can type into any answer box** (teammates see each other's typing) but **only the team captain can submit** all the answers (or the clock closes and whatever is typed is submitted). Nobody picks a captain: it is the earliest-joined player on each team (a free-for-all player is their own captain). Rulesets whose bonuses are answered one part at a time (quizbowl) are tossups only in rooms.
 
+**Settings in the lobby:** the host can change everything again in the room's lobby (mode, ruleset, level, difficulty, subjects, answer times, teams, number of questions, reading speed), including between games. Changes save as they are made and everyone else sees them update; players on a team that no longer exists move to the smallest remaining team.
+
 **Between games:** the host presses **Next** after each round (or **End game** any time). When a game ends everyone drops back to the room lobby, still connected, with the last game's results shown; the host starts the next game (fresh questions).
 
 Plan and design notes: `docs/multiplayer-plan.md`.
