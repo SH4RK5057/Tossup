@@ -60,6 +60,7 @@ const GENERIC_TAIL = new Set([
   'wave', 'field', 'scale', 'experiment', 'conference', 'convention', 'compromise', 'proclamation', 'declaration', 'plan', 'pact',
   'accord', 'agreement', 'syndrome', 'disease', 'disorder', 'method', 'model', 'reflex', 'gland', 'acid', 'gas', 'peninsula',
   'valley', 'plateau', 'strait', 'gulf', 'bay', 'canyon', 'falls', 'campaign', 'invasion', 'uprising', 'incident', 'affair',
+  'muscle', 'tissue',
 ]);
 const GENERIC_LEAD = [['battle', 'of'], ['treaty', 'of'], ['siege', 'of'], ['declaration', 'of'], ['gulf', 'of'], ['strait', 'of'],
   ['fall', 'of'], ['war', 'of'], ['mount'], ['lake'], ['river']];

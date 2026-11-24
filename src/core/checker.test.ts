@@ -303,3 +303,14 @@ describe('math answer variations', () => {
     expect(check('2 root 3', m('2sqrt(2)'), ncal)).toBe('incorrect');
   });
 });
+
+describe('shortened answers for muscle and tissue', () => {
+  const cardiac = spec({ answer: 'cardiac muscle' });
+  it('accepts the distinctive word alone', () => {
+    expect(check('cardiac', cardiac, ncal)).toBe('correct');
+    expect(check('connective', spec({ answer: 'connective tissue' }), ncal)).toBe('correct');
+  });
+  it('does not accept just the generic noun', () => {
+    expect(check('muscle', cardiac, ncal)).toBe('incorrect');
+  });
+});

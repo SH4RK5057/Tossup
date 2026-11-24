@@ -3,15 +3,16 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { levelsForPool } from '../core/pool';
-import { normalizeRoomState, rankTeams, segmentOf, wordsShown, type RoomState } from '../core/room';
+import { normalizeRoomState, rankTeams, segmentOf, wordsShown, type PlayerScore, type RoomMode, type RoomState } from '../core/room';
 import { getRuleset } from '../core/rulesets';
-import { LEVEL_LABEL, type Tossup } from '../core/types';
+import { LEVEL_LABEL, type Bonus, type Tossup } from '../core/types';
 import { navigate, useApp } from '../ui/context';
 import { connect, type Connection } from './connect';
 import { RoomHost, sendAnswer, sendBuzz, writePlayer, type RoomPlayer } from './host';
 import {
-  buildRoomQuestions, normalizeSettings, poolSignature, revealedText, TEAM_IDS, teamLabel, toHostQuestions,
+  buildRoomBonuses, buildRoomQuestions, normalizeSettings, poolSignature, revealedText, TEAM_IDS, teamLabel, toHostBonuses, toHostQuestions,
 } from './questions';
+import { BonusPanel } from './RoomBonus';
 import { joinAsPlayer, savedName, saveName, setActiveRoom, type Meta } from './roomOps';
 import { roomPath, type RoomStore } from './store';
 
@@ -85,6 +86,11 @@ function JoinPrompt({ store, code, meta, name, setName }: { store: RoomStore; co
   );
 }
 
+const MODE_LABEL: Record<RoomMode, string> = { tossup: 'Tossups', bonus: 'Bonus drill', sim: 'Game sim' };
+
+/** The game's questions, built from the host's seed; everyone builds the same lists. */
+interface Content { seed: string; tossups: Tossup[]; bonuses: Bonus[] }
+
 function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; code: string; onLeave: () => void; name: string; setName: (n: string) => void }) {
   const { repo } = useApp();
   const rawMeta = useValue<Meta>(store, roomPath(code, 'meta'));
@@ -97,8 +103,8 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
   const state = useMemo(() => normalizeRoomState(stored), [stored]);
   const isHost = !!meta && meta.hostUid === store.uid;
 
-  // Everyone builds the same question list from the host's seed.
-  const [tossups, setTossups] = useState<Tossup[] | null>(null);
+  // Everyone builds the same question lists from the host's seed (the host reseeds before every game).
+  const [content, setContent] = useState<Content | null>(null);
   const [sigOk, setSigOk] = useState(true);
   useEffect(() => {
     if (!meta) return;
@@ -108,25 +114,32 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
     repo.loadPool({ rulesetId: s.rulesetId, level: s.level, levels: levelsForPool(rs, s.level) }).then((pool) => {
       if (!live) return;
       setSigOk(poolSignature(pool) === s.bankSig);
-      setTossups(buildRoomQuestions(pool, s));
-    }).catch(() => { if (live) setTossups([]); });
+      setContent({ seed: s.seed, tossups: buildRoomQuestions(pool, s), bonuses: buildRoomBonuses(pool, s) });
+    }).catch(() => { if (live) setContent({ seed: s.seed, tossups: [], bonuses: [] }); });
     return () => { live = false; };
   }, [repo, meta?.settings.seed]); // eslint-disable-line react-hooks/exhaustive-deps
+  const ready = !!meta && !!content && content.seed === meta.settings.seed;
 
-  // The host's screen runs the referee.
+  // The host's screen runs the referee. It is created once and handed new questions before each game.
   const hostRef = useRef<RoomHost | null>(null);
-  const initialRef = useRef<RoomState | null | undefined>(undefined);
-  if (stored !== undefined && initialRef.current === undefined) initialRef.current = stored ? normalizeRoomState(stored) : null;
+  const [pendingStart, setPendingStart] = useState<string | null>(null);
+  useEffect(() => () => { hostRef.current?.dispose(); hostRef.current = null; }, []);
   useEffect(() => {
-    if (!isHost || !meta || !tossups || tossups.length === 0 || stored === undefined) return;
-    const host = new RoomHost({
-      store, code, questions: toHostQuestions(tossups, meta.settings.rulesetId, meta.settings), teamMode: meta.settings.teamMode,
-      wordsPerSecond: meta.settings.wordsPerSecond, scoring: { correct: getRuleset(meta.settings.rulesetId).tossupValue, wrong: getRuleset(meta.settings.rulesetId).wrongTossupPoints },
-      initialState: initialRef.current ?? null,
-    });
-    hostRef.current = host;
-    return () => { host.dispose(); hostRef.current = null; };
-  }, [isHost, meta?.settings.seed, tossups, stored === undefined]); // eslint-disable-line react-hooks/exhaustive-deps
+    if (!isHost || !meta || !content || stored === undefined || content.seed !== meta.settings.seed) return;
+    const s = meta.settings;
+    const rs = getRuleset(s.rulesetId);
+    const hc = { tossups: toHostQuestions(content.tossups, s.rulesetId, s), bonuses: toHostBonuses(content.bonuses, s.rulesetId, s) };
+    if (!hostRef.current) {
+      hostRef.current = new RoomHost({
+        store, code, mode: s.mode, teamMode: s.teamMode, wordsPerSecond: s.wordsPerSecond,
+        scoring: { correct: rs.tossupValue, wrong: rs.wrongTossupPoints, bonusPart: rs.bonus.pointsPerPart },
+        ...hc, initialState: stored ? normalizeRoomState(stored) : null,
+      });
+    } else {
+      hostRef.current.setContent(hc, s.mode);
+    }
+    if (pendingStart && pendingStart === s.seed) { setPendingStart(null); hostRef.current.start(); }
+  }, [isHost, meta?.settings.seed, content, stored === undefined, pendingStart]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Redraw ten times a second so the reveal and the clocks run smoothly.
   const [, force] = useState(0);
@@ -141,6 +154,8 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
   const playerList = Object.entries(players ?? {}).sort((a, b) => a[1].joinedAt - b[1].joinedAt);
   const nameOf = (uid: string) => players?.[uid]?.name ?? 'Someone';
   const teamOfUid = (uid: string) => (meta.settings.teamMode === 'teams' ? (players?.[uid]?.team ?? uid) : uid);
+  const teamName = (t: string) => (meta.settings.teamMode === 'teams' ? teamLabel(t) : nameOf(t));
+  const settings = meta.settings;
 
   const closeRoom = async () => { await store.remove(roomPath(code)); onLeave(); };
   const leaveRoom = async () => {
@@ -148,13 +163,20 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
     onLeave();
   };
   const changeTeam = (team: string) => { if (me) void writePlayer(store, code, me.name, team); };
+  /** Reseeds the room and starts a game with fresh questions (the host starts it once everyone has the new list). */
+  const startGame = async () => {
+    const seed = Math.random().toString(36).slice(2);
+    await store.set(roomPath(code, 'meta', 'settings', 'seed'), seed);
+    setPendingStart(seed);
+  };
 
+  const rounds = settings.mode === 'bonus' ? content?.bonuses.length : content?.tossups.length;
   const header = (
     <div className="row" style={{ justifyContent: 'space-between' }}>
-      <div><strong>Room {code}</strong> <span className="muted small">· {LEVEL_LABEL[meta.settings.level]} · {meta.settings.unlimited ? "unlimited tossups" : `${tossups ? tossups.length : meta.settings.questions} tossups`} · {meta.settings.teamMode === 'teams' ? `${meta.settings.teamCount} teams` : 'free for all'}</span></div>
+      <div><strong>Room {code}</strong> <span className="muted small">· {MODE_LABEL[settings.mode]} · {LEVEL_LABEL[settings.level]} · {settings.unlimited ? 'unlimited' : `${ready && rounds !== undefined ? rounds : settings.questions} ${settings.mode === 'bonus' ? 'bonuses' : 'tossups'}`} · {settings.teamMode === 'teams' ? `${settings.teamCount} teams` : 'free for all'}</span></div>
       <div className="row">
-        {isHost && (state.phase === 'reading' || state.phase === 'answering' || state.phase === 'result') && (
-          <button onClick={() => { if (confirm('End the game now and show the final scores?')) hostRef.current?.end(); }}>End game</button>
+        {isHost && state.phase !== 'lobby' && (
+          <button onClick={() => { if (confirm('End the game now and go back to the lobby?')) hostRef.current?.end(); }}>End game</button>
         )}
         {isHost ? <button className="danger" onClick={() => { if (confirm('Close the room for everyone?')) void closeRoom(); }}>Close room</button>
           : <button onClick={() => void leaveRoom()}>Leave</button>}
@@ -168,67 +190,81 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
     return <>{header}<div className="notice error">Your copy of the site has a different question bank than the host's. Reload the page (or clear the cache) and rejoin.</div></>;
   }
 
-  // ---- lobby
+  // ---- lobby (also where everyone lands after a game)
   if (state.phase === 'lobby') {
     // Opened from a shared link without being in the room yet: ask for a name first.
     if (!me) return <>{header}<JoinPrompt store={store} code={code} meta={meta} name={name} setName={setName} /></>;
     const share = `${window.location.origin}${window.location.pathname}#/rooms?code=${code}`;
+    const last = state.lastGame;
     return (
       <>
         {header}
         {hostHint}
+        {last && (
+          <section className="panel stack">
+            <h2>{MODE_LABEL[last.mode]}: final scores</h2>
+            {(() => {
+              const winner = rankTeams(last)[0];
+              return winner ? <p style={{ fontSize: '1.2rem' }}>Winner: <strong>{teamName(winner.team)}</strong> with {winner.points} points</p> : null;
+            })()}
+            <Scoreboard teamOf={last.teamOf} teamScores={last.teamScores} players={players ?? {}} teamMode={settings.teamMode} meUid={store.uid} teamName={teamName} />
+            {last.mode !== 'bonus' && <PlayerTable teamOf={last.teamOf} playerScores={last.playerScores} players={players ?? {}} />}
+          </section>
+        )}
         <section className="panel stack">
           <div className="row" style={{ alignItems: 'baseline' }}>
             <span className="lbl">Share this code</span>
             <span style={{ fontSize: '2.2rem', fontWeight: 800, letterSpacing: '0.3em' }}>{code}</span>
             <button className="link small" onClick={() => { void navigator.clipboard?.writeText(share); }}>Copy link</button>
           </div>
-          <PlayersByTeam players={playerList} teamMode={meta.settings.teamMode} teamCount={meta.settings.teamCount} meUid={store.uid} onTeam={changeTeam} hostUid={meta.hostUid} />
+          <PlayersByTeam players={playerList} teamMode={settings.teamMode} teamCount={settings.teamCount} meUid={store.uid} onTeam={changeTeam} hostUid={meta.hostUid} />
           {isHost
             ? <div className="row">
-                <button className="primary" disabled={!tossups || tossups.length === 0 || playerList.length === 0} onClick={() => hostRef.current?.start()}>Start game</button>
-                {!tossups && <span className="muted small">Loading questions…</span>}
+                <button className="primary" disabled={!ready || !rounds || playerList.length === 0 || pendingStart !== null} onClick={() => void startGame()}>{last ? 'Start a new game' : 'Start game'}</button>
+                {!ready && <span className="muted small">Loading questions…</span>}
+                {ready && !rounds && <span className="muted small">No questions match these settings.</span>}
               </div>
-            : <p className="muted">Waiting for the host to start…</p>}
+            : <p className="muted">{last ? 'Waiting for the host to start the next game…' : 'Waiting for the host to start…'}</p>}
         </section>
       </>
     );
   }
 
   const now = store.now();
-  const q = tossups?.[state.q];
-  const shown = wordsShown(state, now);
   const taking = state.teamOf[store.uid] !== undefined;
-  const segment = segmentOf(state);
+  const scoreboard = <Scoreboard teamOf={state.teamOf} teamScores={state.teamScores} players={players ?? {}} teamMode={settings.teamMode} meUid={store.uid} teamName={teamName} />;
+  const isLast = state.q + 1 >= state.total;
+  const countText = `${settings.mode === 'bonus' ? 'Bonus' : 'Question'} ${state.q + 1}${settings.unlimited ? '' : ` of ${state.total}`}`;
 
-  const scoreboard = <Scoreboard state={state} players={players ?? {}} teamMode={meta.settings.teamMode} meUid={store.uid} />;
-
-  // ---- finished
-  if (state.phase === 'done') {
-    const ranked = rankTeams(state);
-    const winner = ranked[0];
+  // ---- bonus
+  if (state.phase === 'bonus' || state.phase === 'bonus_result') {
+    const bonus = content?.bonuses[state.bonus?.index ?? 0];
+    const nextLabel = isLast ? 'Finish game' : settings.mode === 'bonus' ? 'Next bonus' : 'Next question';
     return (
       <>
         {header}
-        <section className="panel stack">
-          <h2>Game over</h2>
-          {winner && <p style={{ fontSize: '1.2rem' }}>Winner: <strong>{meta.settings.teamMode === 'teams' ? teamLabel(winner.team) : nameOf(winner.team)}</strong> with {winner.points} points</p>}
-          {scoreboard}
-          <PlayerTable state={state} players={players ?? {}} />
-          <div><button className="primary" onClick={() => (isHost ? void closeRoom() : onLeave())}>{isHost ? 'Close room' : 'Leave room'}</button></div>
-        </section>
+        {hostHint}
+        {scoreboard}
+        <div className="muted small">{countText}{taking ? '' : ' · you are watching this game'}</div>
+        <BonusPanel store={store} code={code} state={state} bonus={ready ? bonus : undefined} players={players ?? {}} teamMode={settings.teamMode}
+          now={now} isHost={isHost} nextLabel={nextLabel} onNext={() => hostRef.current?.next()} />
       </>
     );
   }
 
-  const isLast = state.q + 1 >= state.total;
+  // ---- tossup
+  const q = ready ? content?.tossups[state.q] : undefined;
+  const shown = wordsShown(state, now);
+  const segment = segmentOf(state);
+  const winnerTeam = state.last?.kind === 'correct' && state.last.uid ? teamOfUid(state.last.uid) : null;
+  const bonusNext = settings.mode === 'sim' && winnerTeam !== null && (content?.bonuses.length ?? 0) > state.bonusesUsed;
   return (
     <>
       {header}
       {hostHint}
       {scoreboard}
       <section className="panel stack">
-        <div className="muted small">Question {state.q + 1}{meta.settings.unlimited ? "" : ` of ${state.total}`}{taking ? '' : ' · you are watching this game'}</div>
+        <div className="muted small">{countText}{taking ? '' : ' · you are watching this game'}</div>
         <div className="room-question" aria-live="polite">
           {q ? revealedText(q.text, state.phase === 'result' ? state.wordCount : shown) : '…'}
           {state.phase === 'reading' && shown < state.wordCount && <span className="room-cursor">▌</span>}
@@ -243,14 +279,15 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
         )}
         {state.phase === 'result' && (
           <div className="stack">
-            <div className={`notice${state.last?.kind === 'correct' ? '' : ''}`}>
-              {state.last?.kind === 'correct' && <><strong>{nameOf(state.last.uid ?? '')}</strong> got it (+{state.last.points} for {teamLabel(teamOfUid(state.last.uid ?? ''))}). </>}
+            <div className="notice">
+              {state.last?.kind === 'correct' && <><strong>{nameOf(state.last.uid ?? '')}</strong> got it (+{state.last.points} for {teamName(winnerTeam ?? '')}). </>}
               {state.last?.kind === 'nobody' && <>Nobody buzzed. </>}
               {(state.last?.kind === 'wrong' || state.last?.kind === 'pass') && <>Everyone has had a turn. </>}
               Answer: <strong>{q?.answer}</strong>
+              {bonusNext && winnerTeam && <> {teamName(winnerTeam)} gets the bonus.</>}
             </div>
             {isHost
-              ? <div><button className="primary" autoFocus onClick={() => hostRef.current?.next()}>{isLast ? 'Finish game' : 'Next question'}</button></div>
+              ? <div><button className="primary" autoFocus onClick={() => hostRef.current?.next()}>{bonusNext ? 'Start the bonus' : isLast ? 'Finish game' : 'Next question'}</button></div>
               : <p className="muted">Waiting for the host…</p>}
           </div>
         )}
@@ -286,14 +323,16 @@ function PlayersByTeam({ players, teamMode, teamCount, meUid, onTeam, hostUid }:
   );
 }
 
-function Scoreboard({ state, players, teamMode, meUid }: { state: RoomState; players: Record<string, RoomPlayer>; teamMode: 'teams' | 'ffa'; meUid: string }) {
-  const ranked = rankTeams(state);
-  const myTeam = state.teamOf[meUid];
+function Scoreboard({ teamOf, teamScores, players, teamMode, meUid, teamName }: {
+  teamOf: Record<string, string>; teamScores: Record<string, number>; players: Record<string, RoomPlayer>; teamMode: 'teams' | 'ffa'; meUid: string; teamName: (t: string) => string;
+}) {
+  const ranked = rankTeams({ teamOf, teamScores });
+  const myTeam = teamOf[meUid];
   return (
     <div className="stat-tiles">
       {ranked.map((r) => (
         <div key={r.team} className="tile" style={r.team === myTeam ? { outline: '2px solid var(--accent, #6aa9ff)' } : undefined}>
-          <small>{teamMode === 'teams' ? teamLabel(r.team) : (players[r.team]?.name ?? 'Player')}{r.team === myTeam ? ' (you)' : ''}</small>
+          <small>{teamMode === 'teams' ? teamName(r.team) : (players[r.team]?.name ?? 'Player')}{r.team === myTeam ? ' (you)' : ''}</small>
           <b>{r.points}</b>
         </div>
       ))}
@@ -301,13 +340,13 @@ function Scoreboard({ state, players, teamMode, meUid }: { state: RoomState; pla
   );
 }
 
-function PlayerTable({ state, players }: { state: RoomState; players: Record<string, RoomPlayer> }) {
-  const rows = Object.keys(state.teamOf).map((uid) => ({ uid, s: state.playerScores[uid] ?? { points: 0, correct: 0, wrong: 0, passes: 0 } }))
+function PlayerTable({ teamOf, playerScores, players }: { teamOf: Record<string, string>; playerScores: Record<string, PlayerScore>; players: Record<string, RoomPlayer> }) {
+  const rows = Object.keys(teamOf).map((uid) => ({ uid, s: playerScores[uid] ?? { points: 0, correct: 0, wrong: 0, passes: 0 } }))
     .sort((a, b) => b.s.points - a.s.points);
   return (
     <div className="table-wrap">
       <table>
-        <thead><tr><th>Player</th><th>Points</th><th>Correct</th><th>Wrong</th><th>Passes</th></tr></thead>
+        <thead><tr><th>Player</th><th>Tossup points</th><th>Correct</th><th>Wrong</th><th>Passes</th></tr></thead>
         <tbody>{rows.map(({ uid, s }) => <tr key={uid}><td>{players[uid]?.name ?? 'Player'}</td><td>{s.points}</td><td>{s.correct}</td><td>{s.wrong}</td><td>{s.passes}</td></tr>)}</tbody>
       </table>
     </div>

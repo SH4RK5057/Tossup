@@ -77,3 +77,14 @@ export function buzzAnswerSeconds(q: Pick<ClockQuestion, 'answer' | 'answer_type
   const extra = q.answer_type === 'math' ? 3 : q.answer_type === 'foreign_language' ? 2 : 0;
   return Math.min(30, Math.max(MIN_CLOCK_SECONDS, Math.ceil(BUZZ_ANSWER_SECONDS + typing + extra)));
 }
+
+/**
+ * Seconds a team gets to type its bonus answers in a multiplayer room, counted from when the bonus has been fully
+ * read: 20 to confer, plus typing time (at least 5 s), times the pace.
+ */
+export function bonusAnswerSeconds(b: ClockBonus, multiplier: number): number {
+  const chars = b.parts.reduce((n, p) => n + p.answer.length, 0);
+  const typing = Math.max(BONUS_MIN_ANSWER_SECONDS, chars / TYPE_CHARS_PER_SECOND);
+  const extra = b.parts.reduce((n, p) => n + (p.answer_type === 'math' ? 3 : p.answer_type === 'foreign_language' ? 2 : 0), 0);
+  return Math.min(MAX_BONUS_CLOCK_SECONDS, Math.max(10, Math.ceil((BONUS_CONFER_SECONDS + typing + extra) * multiplier)));
+}

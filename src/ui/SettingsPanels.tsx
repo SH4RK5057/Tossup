@@ -35,6 +35,7 @@ export function SettingsPanels({ settings, onChange, mode }: Props) {
     ? `Match simulation (${rs.match.minutes[settings.level]} min game clock)`
     : `Match simulation (${rs.match.tossups} tossups)`;
   const untimed = !room && settings.tossupUntimed;
+  const bonusUntimed = !room && settings.bonusUntimed;
 
   return (
     <div className="grid-2">
@@ -109,7 +110,7 @@ export function SettingsPanels({ settings, onChange, mode }: Props) {
           )}
         </div>
 
-        {!room && (
+        {(!room || (settings.roomMode !== 'tossup' && rs.bonus.timing === 'together')) && (
           <>
             <div className="field">
               <span className="lbl">
@@ -119,35 +120,40 @@ export function SettingsPanels({ settings, onChange, mode }: Props) {
                 <>
                   <div className="row">
                     <label className="inline-check">
-                      <input type="radio" name="bonusTiming" disabled={settings.bonusUntimed} checked={settings.bonusTiming === 'scaled'}
+                      <input type="radio" name="bonusTiming" disabled={bonusUntimed} checked={settings.bonusTiming === 'scaled'}
                         onChange={() => set({ bonusTiming: 'scaled' })} />
                       Scaled to bonus length (uses the pace above)
                     </label>
                   </div>
-                  {settings.bonusTiming === 'scaled' && !settings.bonusUntimed && (
-                    <p className="hint">Reading time + 20 s to confer + typing time for the answers (at least 5 s). All parts share one clock.</p>
+                  {settings.bonusTiming === 'scaled' && !bonusUntimed && (
+                    <p className="hint">{room
+                      ? 'Once the bonus has been read: 20 s to confer plus typing time for the answers (at least 5 s), times the pace. All parts share one clock.'
+                      : 'Reading time + 20 s to confer + typing time for the answers (at least 5 s). All parts share one clock.'}</p>
                   )}
                 </>
               )}
               <div className="row">
                 {rs.bonus.timing === 'together' && (
                   <label className="inline-check">
-                    <input type="radio" name="bonusTiming" disabled={settings.bonusUntimed} checked={settings.bonusTiming === 'fixed'}
+                    <input type="radio" name="bonusTiming" disabled={bonusUntimed} checked={settings.bonusTiming === 'fixed'}
                       onChange={() => set({ bonusTiming: 'fixed' })} />
                     Flat
                   </label>
                 )}
                 <input type="number" min={3} max={600} style={{ width: 100 }} aria-label="Flat bonus seconds"
-                  disabled={settings.bonusUntimed || (rs.bonus.timing === 'together' && settings.bonusTiming !== 'fixed')}
+                  disabled={bonusUntimed || (rs.bonus.timing === 'together' && settings.bonusTiming !== 'fixed')}
                   value={settings.bonusSeconds}
                   onChange={(e) => set({ bonusSeconds: Math.max(3, Number(e.target.value) || rs.bonus.defaultSeconds) })} />
-                <label className="inline-check">
-                  <input type="checkbox" checked={settings.bonusUntimed} onChange={(e) => set({ bonusUntimed: e.target.checked })} />
-                  Untimed
-                </label>
+                {!room && (
+                  <label className="inline-check">
+                    <input type="checkbox" checked={settings.bonusUntimed} onChange={(e) => set({ bonusUntimed: e.target.checked })} />
+                    Untimed
+                  </label>
+                )}
               </div>
             </div>
 
+            {!room && (<>
             <label className="inline-check field">
               <input type="checkbox" checked={settings.bonusesOn} onChange={(e) => set({ bonusesOn: e.target.checked })} />
               Bonuses on (game sim)
@@ -183,9 +189,13 @@ export function SettingsPanels({ settings, onChange, mode }: Props) {
                 </label>
               </div>
             </div>
+            </>)}
           </>
         )}
-        {room && <p className="hint">Rooms play tossups; team bonuses are not in rooms yet. Number of questions is under Room options.</p>}
+        {room && settings.roomMode === 'tossup' && <p className="hint">Choose Bonus drill or Game sim above to set the bonus answer time too.</p>}
+        {room && settings.roomMode !== 'tossup' && rs.bonus.timing !== 'together' && (
+          <p className="hint">{rs.name} bonuses are answered one part at a time, which rooms do not support yet, so this ruleset is tossups only in rooms.</p>
+        )}
       </section>
 
       <section className="panel">

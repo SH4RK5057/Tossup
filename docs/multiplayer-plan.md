@@ -1,6 +1,6 @@
 # Multiplayer plan
 
-**Status:** MVP built (steps 1 and 2 plus the network layer of step 4): room engine, lobby with teams or free for all, buzz-in tossups, scoreboards, host Next, local two-tab test mode, and the Realtime Database store with rules. **Not yet:** team bonuses with a captain, host handoff, spectators, rematch, end-of-game review. Online play needs the two console switches in the README.
+**Status:** built: room engine, lobby with teams or free for all, the same three modes as solo (tossups, bonus drill, game sim), team bonuses (anyone on the team types, the auto-picked captain submits), shared settings with the Practice screen, return to the lobby after each game, local two-tab test mode, and the Realtime Database store with rules. **Not yet:** host handoff if the host leaves, spectators who join mid-game as full players, bonuses for rulesets that answer one part at a time (quizbowl).
 
 Goal: hosted rooms where a group plays academic-league tossups and bonuses together. It is a **secondary screen** (a "Rooms" link next to Stats), not the main experience, and it needs only a little sharing: a short room code. Free tier only, no AI.
 

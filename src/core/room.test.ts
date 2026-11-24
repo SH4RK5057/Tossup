@@ -4,11 +4,11 @@ import {
   type RoomEvent, type RoomState,
 } from './room';
 
-const SCORING = { correct: 3, wrong: -1 };
+const SCORING = { correct: 3, wrong: -1, bonusPart: 5 };
 // Two teams of two: a1, a2 on team A; b1, b2 on team B. Ten words per question, 2 words per second.
 const TEAM_OF = { a1: 'A', a2: 'A', b1: 'B', b2: 'B' };
 const start = (extra: Partial<Extract<RoomEvent, { type: 'start' }>> = {}): RoomState =>
-  reduceRoom(initialRoomState(), { type: 'start', at: 1000, total: 3, wordCount: 10, wordsPerSecond: 2, teamOf: TEAM_OF, scoring: SCORING, ...extra });
+  reduceRoom(initialRoomState(), { type: 'start', at: 1000, mode: 'tossup', total: 3, wordCount: 10, wordsPerSecond: 2, teamOf: TEAM_OF, captains: {}, scoring: SCORING, ...extra });
 const READ_AT = 1000 + LEAD_IN_MS; // the reveal starts here
 
 describe('starting and the reveal', () => {
@@ -27,7 +27,7 @@ describe('starting and the reveal', () => {
   });
   it('ignores a second start', () => {
     const s = start();
-    expect(reduceRoom(s, { type: 'start', at: 9, total: 9, wordCount: 9, wordsPerSecond: 9, teamOf: {}, scoring: SCORING })).toBe(s);
+    expect(reduceRoom(s, { type: 'start', at: 9, mode: 'tossup', total: 9, wordCount: 9, wordsPerSecond: 9, teamOf: {}, captains: {}, scoring: SCORING })).toBe(s);
   });
 });
 
@@ -147,10 +147,12 @@ describe('next question and the end', () => {
     s = reduceRoom(s, { type: 'next', at: 90_000, wordCount: 5 });
     s = reduceRoom(s, { type: 'timeout', at: s.endAt });
     s = reduceRoom(s, { type: 'next', at: 99_000, wordCount: 5 });
-    expect(s.phase).toBe('done');
+    expect(s.phase).toBe('lobby'); // the game is over: back to the lobby
+    expect(s.lastGame?.teamScores).toEqual({ A: -1 }); // with the results kept
+    expect(s.games).toBe(1);
   });
   it('can be ended early by the host', () => {
-    expect(reduceRoom(start(), { type: 'end' }).phase).toBe('done');
+    expect(reduceRoom(start(), { type: 'end' }).phase).toBe('lobby');
   });
   it('only advances from a result', () => {
     const s = start();

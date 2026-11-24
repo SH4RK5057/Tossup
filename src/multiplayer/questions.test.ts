@@ -10,7 +10,7 @@ const t = (id: string, text: string, answer: string, sub = 'Literary Terms'): Qu
 
 const pool = Array.from({ length: 12 }, (_, i) => t(`q${i}`, `Which word number ${i} is the answer here?`, `answer${i}`));
 const settings: RoomSettings = {
-  rulesetId: 'ncal', level: 'jv', subjects: [], fullDistribution: false, difficulties: ['easy', 'medium', 'hard'], answerMode: 'scaled', pace: 1, flatSeconds: 10, wordsPerSecond: 3.3,
+  mode: 'tossup', rulesetId: 'ncal', level: 'jv', subjects: [], fullDistribution: false, bonusMode: 'scaled', bonusFlatSeconds: 30, difficulties: ['easy', 'medium', 'hard'], answerMode: 'scaled', pace: 1, flatSeconds: 10, wordsPerSecond: 3.3,
   teamMode: 'teams', teamCount: 2, questions: 5, seed: 'abc', nowIso: '2026-12-01T00:00:00.000Z', bankSig: poolSignature(pool),
 };
 

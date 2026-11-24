@@ -90,7 +90,18 @@ To change the bank: edit the files in `scripts/bank/data/` (or `patches.json`), 
 
 ## Rooms (multiplayer)
 
-On the Practice screen, switch from **Solo** to **With friends (room)** (or use **Rooms** in the header). The settings panels are the same ones solo practice uses: ruleset, level, difficulty, subjects (including Full distribution) and the answer time after you buzz. The room adds a few options of its own: your name, teams or free for all, number of questions (or unlimited), and reading speed. The host shares the 4-letter code (or the link); others type a name and join. Questions are revealed word by word, anyone can **buzz with Space**, the first buzz freezes the question and that player types the answer (a wrong answer costs a point and locks them out for the question, a blank answer or running out of time is a free pass), and the host presses **Next** (or **End game** at any time). Plan and design notes: `docs/multiplayer-plan.md`.
+On the Practice screen, switch from **Solo** to **With friends (room)** (or use **Rooms** in the header). The settings panels are the same ones solo practice uses: ruleset, level, difficulty, subjects (including Full distribution), the answer time after you buzz, and the bonus answer time. The room adds a few options of its own: your name, teams or free for all, number of questions (or unlimited), and reading speed. The host shares the 4-letter code (or the link); others type a name and join.
+
+**Three modes, the same as solo:**
+- **Tossups:** the question is revealed word by word and anyone can **buzz with Space**. The first buzz freezes the question and that player types the answer (a wrong answer costs a point and locks them out for the question; a blank answer or running out of time is a free pass).
+- **Bonus drill:** every team gets the same bonus at once.
+- **Game sim:** a tossup, then the team whose player got it gets the next bonus.
+
+**Bonuses:** the bonus is read out first; once it has been read, **anyone on a team can type into any answer box** (teammates see each other's typing) but **only the team captain can submit** all the answers (or the clock closes and whatever is typed is submitted). Nobody picks a captain: it is the earliest-joined player on each team (a free-for-all player is their own captain). Rulesets whose bonuses are answered one part at a time (quizbowl) are tossups only in rooms.
+
+**Between games:** the host presses **Next** after each round (or **End game** any time). When a game ends everyone drops back to the room lobby, still connected, with the last game's results shown; the host starts the next game (fresh questions).
+
+Plan and design notes: `docs/multiplayer-plan.md`.
 
 - **Try it with no setup:** without the database below, Rooms runs in test mode: open the site in two tabs of the same browser and they play each other.
 - **Online play (once, free):**
@@ -98,4 +109,4 @@ On the Practice screen, switch from **Solo** to **With friends (room)** (or use 
   2. Firebase console → Build → Authentication → Sign-in method → turn on **Anonymous**.
   3. Rules: paste `database.rules.json` into the Realtime Database Rules tab (or `firebase deploy --only database`).
 - **How it works:** the host's screen is the referee (resolves buzz races by server time, grades answers with the same checker as practice, runs the clocks, writes the room state). Players only write their own buzz, answer and player record. Questions never travel: everyone builds the same list from the host's seed. Keep the host's tab open and visible.
-- **Limits (free tier):** about 100 people connected at once across all rooms; rooms are capped at 30 players. Not cheat-proof (it is friendly practice), and rooms are tossups only for now (no team bonuses yet).
+- **Limits (free tier):** about 100 people connected at once across all rooms; rooms are capped at 30 players. Not cheat-proof (it is friendly practice), and the host's screen must stay open and in view.

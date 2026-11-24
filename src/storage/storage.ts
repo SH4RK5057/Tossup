@@ -65,6 +65,8 @@ export const settingsSchema = z.object({
   simLength: z.enum(['count', 'match', 'all']).default('count'),
   simCount: z.number().int().min(1).max(200).default(10),
   /** Options that only apply when hosting a room (everything else is shared with solo practice). */
+  /** The same three modes as solo: tossups, bonus drill, game sim. */
+  roomMode: z.enum(['tossup', 'bonus', 'sim']).default('tossup'),
   roomTeamMode: z.enum(['teams', 'ffa']).default('teams'),
   roomTeams: z.number().int().min(2).max(4).default(2),
   roomSpeed: z.number().min(1).max(8).default(3.3),
