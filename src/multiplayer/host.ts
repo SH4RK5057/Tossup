@@ -9,7 +9,7 @@
 //   answer/s<q>_<team>/<uid>             a captain's submission of all parts    { text:'', at, answers:[...] }
 
 import {
-  BUZZ_TIE_WINDOW_MS, bonusKeyOf, initialRoomState, nextDeadline, reduceRoom, segmentOf, type BonusInfo, type RoomEvent,
+  BUZZ_TIE_WINDOW_MS, bonusKeyOf, initialRoomState, roundKey, nextDeadline, reduceRoom, segmentOf, type BonusInfo, type RoomEvent,
   type RoomMode, type RoomState, type Scoring,
 } from '../core/room';
 import { roomPath, SERVER_TIME, type RoomStore, type Unsubscribe } from './store';
@@ -65,8 +65,8 @@ export interface HostOptions extends HostContent {
 }
 
 /** Keys a bonus's drafts and submission are filed under. */
-export const draftKey = (q: number, team: string, part: number) => `d${q}_${team}_${part}`;
-export const submitKey = (q: number, team: string) => `s${q}_${team}`;
+export const draftKey = (q: number | string, team: string, part: number) => `d${q}_${team}_${part}`;
+export const submitKey = (q: number | string, team: string) => `s${q}_${team}`;
 
 /** The captain of each team: the earliest to join (ties broken by id). A free-for-all player is their own captain. */
 export function pickCaptains(players: Record<string, RoomPlayer>, teamOf: Record<string, string>): Record<string, string> {
@@ -222,7 +222,7 @@ export class RoomHost {
       const entries: { team: string; answers: string[]; verdicts: boolean[] }[] = [];
       for (const team of s.bonus.teams) {
         if (s.bonus.submitted.includes(team)) continue;
-        const answers = await this.readDrafts(s.q, team, s.bonus.partCount);
+        const answers = await this.readDrafts(roundKey(s), team, s.bonus.partCount);
         entries.push({ team, answers, verdicts: bonus ? bonus.judge(answers) : [] });
       }
       this.apply({ type: 'bonusClose', at: this.o.store.now(), entries });
@@ -232,7 +232,7 @@ export class RoomHost {
   }
 
   /** The latest draft of each part for a team (teammates may all have typed into the same part; the newest wins). */
-  private async readDrafts(q: number, team: string, parts: number): Promise<string[]> {
+  private async readDrafts(q: string, team: string, parts: number): Promise<string[]> {
     const out: string[] = [];
     for (let i = 0; i < parts; i++) {
       const v = (await readValue(this.o.store, roomPath(this.o.code, 'answer', draftKey(q, team, i)))) as Record<string, { text?: string; at?: number }> | null;
@@ -278,7 +278,7 @@ export class RoomHost {
     this.subscribedBonus = id;
     this.handledSubmit = new Set();
     for (const team of s.bonus.teams) {
-      this.bonusSubs.push(this.o.store.onValue(roomPath(this.o.code, 'answer', submitKey(s.q, team)), (v) => {
+      this.bonusSubs.push(this.o.store.onValue(roomPath(this.o.code, 'answer', submitKey(roundKey(s), team)), (v) => {
         for (const [uid, sub] of Object.entries((v as Record<string, { answers?: unknown; at: number }> | null) ?? {})) {
           const handled = `${team}:${uid}`;
           if (this.handledSubmit.has(handled) || !sub) continue;
@@ -323,11 +323,11 @@ export async function sendAnswer(store: RoomStore, code: string, segment: string
 }
 
 /** A teammate's draft of one bonus part, shared with the rest of the team. */
-export async function sendDraft(store: RoomStore, code: string, q: number, team: string, part: number, text: string): Promise<void> {
+export async function sendDraft(store: RoomStore, code: string, q: number | string, team: string, part: number, text: string): Promise<void> {
   await store.set(roomPath(code, 'answer', draftKey(q, team, part), store.uid), { text, at: SERVER_TIME });
 }
 
 /** The captain submitting all the team's bonus answers. */
-export async function sendBonusSubmit(store: RoomStore, code: string, q: number, team: string, answers: string[]): Promise<void> {
+export async function sendBonusSubmit(store: RoomStore, code: string, q: number | string, team: string, answers: string[]): Promise<void> {
   await store.set(roomPath(code, 'answer', submitKey(q, team), store.uid), { text: '', at: SERVER_TIME, answers });
 }

@@ -3,7 +3,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { levelsForPool } from '../core/pool';
-import { normalizeRoomState, rankTeams, segmentOf, wordsShown, type PlayerScore, type RoomMode, type RoomState } from '../core/room';
+import { EARLY_BUZZ_MS, normalizeRoomState, rankTeams, segmentOf, wordsShown, type PlayerScore, type RoomMode, type RoomState } from '../core/room';
 import { getRuleset } from '../core/rulesets';
 import { LEVEL_LABEL, type Bonus, type Tossup } from '../core/types';
 import { navigate, useApp } from '../ui/context';
@@ -404,7 +404,7 @@ function ReadingControls({ store, code, state, segment, taking, now, lastMiss }:
   const lockedOut = state.lockedOut.includes(store.uid);
   const buzzedSegment = useRef<string | null>(null);
   const alreadyBuzzed = buzzedSegment.current === segment || state.pending.some((p) => p.uid === store.uid);
-  const canBuzz = taking && !lockedOut && !alreadyBuzzed && now >= state.readStartAt - 300;
+  const canBuzz = taking && !lockedOut && !alreadyBuzzed && now >= state.readStartAt - EARLY_BUZZ_MS;
   const [, force] = useState(0);
 
   const buzz = useCallback(() => {
@@ -453,7 +453,7 @@ function AnsweringControls({ store, code, state, segment, now, buzzerName }: {
     void sendAnswer(store, code, segment, textRef.current);
   }, [store, code, segment]);
 
-  // When the clock is nearly out, send whatever is typed (a blank box is a pass).
+  // When the clock is nearly out, send whatever is typed (a blank box counts as a miss).
   useEffect(() => {
     if (mine && remainingMs <= 400) submit();
   }, [mine, remainingMs, submit]);
@@ -469,7 +469,7 @@ function AnsweringControls({ store, code, state, segment, now, buzzerName }: {
         <button className="primary" onClick={submit}>Submit</button>
         <span className="room-clock">{Math.max(0, Math.ceil(remainingMs / 1000))}s</span>
       </div>
-      <p className="hint">You buzzed in. A blank answer or running out of time is a pass with no penalty; a wrong answer costs a point.</p>
+      <p className="hint">You buzzed in. Buzzing in is a commitment: a blank answer, a wrong answer or running out of time all cost a point.</p>
     </div>
   );
 }

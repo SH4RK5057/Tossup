@@ -2,7 +2,7 @@
 // answering can type into any answer box (teammates see each other's typing), and only the team captain can submit.
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { bonusWordsShown, type RoomState } from '../core/room';
+import { bonusWordsShown, roundKey, type RoomState } from '../core/room';
 import type { Bonus } from '../core/types';
 import { draftKey, sendBonusSubmit, sendDraft, type RoomPlayer } from './host';
 import { revealedBonus, teamLabel } from './questions';
@@ -42,7 +42,7 @@ export function BonusPanel({ store, code, state, bonus, players, teamMode, now, 
   const [texts, setTexts] = useState<string[]>(() => Array(partCount).fill(''));
   const inputs = useRef<(HTMLInputElement | null)[]>([]);
   const timers = useRef<Record<number, ReturnType<typeof setTimeout>>>({});
-  const q = state.q;
+  const q = roundKey(state);
 
   // A new bonus starts with empty boxes.
   useEffect(() => { setTexts(Array(partCount).fill('')); }, [q, round?.index, partCount]);

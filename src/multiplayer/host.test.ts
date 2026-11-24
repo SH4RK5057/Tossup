@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { LEAD_IN_MS, type RoomMode } from '../core/room';
+import { LEAD_IN_MS, roundKey, segmentOf, type RoomMode } from '../core/room';
 import {
   pickCaptains, RoomHost, sendAnswer, sendBonusSubmit, sendBuzz, sendDraft, writePlayer, type HostBonus, type HostQuestion,
 } from './host';
@@ -54,6 +54,7 @@ describe('RoomHost: tossups', () => {
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state).toMatchObject({ phase: 'reading', lockedOut: ['p1'], teamScores: { A: -1 } });
     expect(stateOf(hub).phase).toBe('reading'); // everyone can see it
+    await vi.advanceTimersByTimeAsync(400); // the reading restarts after a short pause; buzzes just before it count
 
     await sendBuzz(p2, CODE, 'q0_1');
     await vi.advanceTimersByTimeAsync(400);
@@ -90,24 +91,45 @@ describe('RoomHost: tossups', () => {
     await sendAnswer(p1, CODE, 'q0_0', 'nope');
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state.phase).toBe('reading');
+    await vi.advanceTimersByTimeAsync(400);
     await sendBuzz(p2, CODE, 'q0_1'); // a fresh segment, so this buzz counts
     await vi.advanceTimersByTimeAsync(400);
     expect(host.state).toMatchObject({ phase: 'answering', buzzer: 'p2' });
     host.dispose();
   });
 
-  it('passes when the answer window runs out, and ends a question nobody buzzes on', async () => {
+  it('counts running out of time after a buzz as a miss, and ends a question nobody buzzes on', async () => {
     const { host, p1 } = await setup();
     host.start();
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 1000);
     await sendBuzz(p1, CODE, 'q0_0');
     await vi.advanceTimersByTimeAsync(400);
     await vi.advanceTimersByTimeAsync(5100); // answer window (5 s) closes
-    expect(host.state.last).toMatchObject({ kind: 'pass', uid: 'p1', points: 0 });
-    expect(host.state.teamScores).toEqual({ A: 0 });
+    expect(host.state.last).toMatchObject({ kind: 'wrong', uid: 'p1', points: -1 });
+    expect(host.state.teamScores).toEqual({ A: -1 });
     await vi.advanceTimersByTimeAsync(60_000); // nobody else buzzes either
     expect(host.state).toMatchObject({ phase: 'result' });
     expect(host.state.last).toMatchObject({ kind: 'nobody' });
+    host.dispose();
+  });
+
+  it('does not pick up the last game buzzes and answers in the next game', async () => {
+    const { host, p1, p2 } = await setup();
+    host.start();
+    await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 2000);
+    await sendBuzz(p1, CODE, 'q0_0');
+    await vi.advanceTimersByTimeAsync(400);
+    await sendAnswer(p1, CODE, 'q0_0', 'RIGHT');
+    await vi.advanceTimersByTimeAsync(10);
+    host.end();
+    expect(host.state.phase).toBe('lobby');
+    host.start();
+    await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 2000);
+    expect(host.state).toMatchObject({ phase: 'reading', games: 1 });
+    expect(host.state.pending).toEqual([]);
+    await sendBuzz(p2, CODE, segmentOf(host.state)); // the real buzz is filed under this game's own key
+    await vi.advanceTimersByTimeAsync(400);
+    expect(host.state).toMatchObject({ phase: 'answering', buzzer: 'p2' });
     host.dispose();
   });
 
@@ -303,7 +325,7 @@ describe('RoomHost: settings changed in the lobby', () => {
     expect(host.state.bonus?.teams).toEqual(['p1', 'p2', 'p3']);
     expect(host.state.scoring).toEqual({ correct: 10, wrong: 0, bonusPart: 3 });
     await vi.advanceTimersByTimeAsync(LEAD_IN_MS + 3000);
-    await sendBonusSubmit(p1, CODE, 0, 'p1', ['right', 'right']); // free for all: each player is their own captain
+    await sendBonusSubmit(p1, CODE, roundKey(host.state), 'p1', ['right', 'right']); // free for all: each player is their own captain
     await vi.advanceTimersByTimeAsync(10);
     expect(host.state.teamScores).toEqual({ p1: 6 });
     host.dispose();

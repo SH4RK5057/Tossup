@@ -84,22 +84,29 @@ describe('answering and scoring', () => {
     expect(reduceRoom(s, { type: 'buzz', uid: 'a1', at: t + 10 })).toBe(s);
     expect(reduceRoom(s, { type: 'buzz', uid: 'a2', at: t + 10 }).pending).toHaveLength(1);
   });
-  it('treats a blank answer as a pass: no penalty, still locked out', () => {
+  it('treats a blank answer as a miss: buzzing is a commitment', () => {
     let s = reduceRoom(start(), { type: 'buzz', uid: 'a1', at: READ_AT + 500 });
     s = reduceRoom(s, { type: 'resolve', at: READ_AT + 600, answerMs: 6000 });
     s = reduceRoom(s, { type: 'answer', uid: 'a1', at: READ_AT + 900, typed: '   ', verdict: 'wrong' });
-    expect(s.last).toMatchObject({ kind: 'pass', points: 0 });
-    expect(s.teamScores).toEqual({ A: 0 });
-    expect(s.playerScores.a1).toMatchObject({ points: 0, passes: 1, wrong: 0 });
+    expect(s.last).toMatchObject({ kind: 'wrong', points: -1 });
+    expect(s.teamScores).toEqual({ A: -1 });
+    expect(s.playerScores.a1).toMatchObject({ points: -1, passes: 0, wrong: 1 });
     expect(s.lockedOut).toContain('a1');
   });
-  it('treats an answer window that runs out as a pass', () => {
+  it('treats an answer window that runs out as a miss', () => {
     let s = reduceRoom(start(), { type: 'buzz', uid: 'b2', at: READ_AT + 500 });
     s = reduceRoom(s, { type: 'resolve', at: READ_AT + 600, answerMs: 6000 });
     expect(reduceRoom(s, { type: 'timeout', at: READ_AT + 5000 })).toBe(s); // too early
     s = reduceRoom(s, { type: 'timeout', at: READ_AT + 600 + 6000 });
-    expect(s.last).toMatchObject({ kind: 'pass', uid: 'b2', points: 0 });
+    expect(s.last).toMatchObject({ kind: 'wrong', uid: 'b2', points: -1 });
     expect(s.phase).toBe('reading');
+  });
+  it('ignores a buzz stamped before the reading reopens, so the host cannot jump ahead of a restart', () => {
+    let s = reduceRoom(start(), { type: 'buzz', uid: 'a1', at: READ_AT + 500 });
+    s = reduceRoom(s, { type: 'resolve', at: READ_AT + 600, answerMs: 6000 });
+    s = reduceRoom(s, { type: 'answer', uid: 'a1', at: READ_AT + 900, typed: 'x', verdict: 'wrong' });
+    expect(reduceRoom(s, { type: 'buzz', uid: 'b2', at: READ_AT + 950 })).toBe(s);
+    expect(reduceRoom(s, { type: 'buzz', uid: 'b2', at: s.readStartAt - 250 }).pending).toHaveLength(1);
   });
   it('ignores an answer from someone who did not win the buzz', () => {
     let s = reduceRoom(start(), { type: 'buzz', uid: 'a1', at: READ_AT + 500 });

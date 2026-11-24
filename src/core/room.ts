@@ -17,6 +17,10 @@ export const BUZZ_WINDOW_MS = 5000;
 export const LEAD_IN_MS = 1500;
 /** Buzzes that arrive this close together are ordered by their server timestamps before a winner is picked. */
 export const BUZZ_TIE_WINDOW_MS = 200;
+/** How long before the reading starts a buzz still counts. */
+export const EARLY_BUZZ_MS = 300;
+/** After a miss the reading restarts this long after the verdict, so players who hear of it later (network delay) are not behind the host. */
+export const RESUME_DELAY_MS = 600;
 /** Once every player is locked out the reading still finishes, then the question ends after this short beat. */
 export const ALL_OUT_TAIL_MS = 1500;
 
@@ -241,8 +245,8 @@ function afterMiss(s: RoomState, uid: string, kind: 'wrong' | 'pass', typed: str
   };
   const tail = everyoneLockedOut({ teamOf: s.teamOf, lockedOut }) ? ALL_OUT_TAIL_MS : BUZZ_WINDOW_MS;
   return bump({
-    ...base, phase: 'reading', readFrom: s.frozenWords, readStartAt: at,
-    endAt: revealEnd(at, s.frozenWords, s.wordCount, s.wordsPerSecond, tail),
+    ...base, phase: 'reading', readFrom: s.frozenWords, readStartAt: at + RESUME_DELAY_MS,
+    endAt: revealEnd(at + RESUME_DELAY_MS, s.frozenWords, s.wordCount, s.wordsPerSecond, tail),
   });
 }
 
@@ -303,6 +307,8 @@ export function reduceRoom(s: RoomState, e: RoomEvent): RoomState {
     }
     case 'buzz': {
       if (s.phase !== 'reading') return s;
+      // Buzzes stamped before the reading opens are ignored, so nobody gains from seeing a restart first.
+      if (e.at < s.readStartAt - EARLY_BUZZ_MS) return s;
       if (!(e.uid in s.teamOf) || s.lockedOut.includes(e.uid) || s.pending.some((p) => p.uid === e.uid)) return s;
       return bump({ ...s, pending: [...s.pending, { uid: e.uid, at: e.at }] });
     }
@@ -323,12 +329,12 @@ export function reduceRoom(s: RoomState, e: RoomEvent): RoomState {
           last: { kind: 'correct', uid: e.uid, typed: e.typed, points: scored.points },
         });
       }
-      // A blank answer is a pass (no penalty); anything else that is wrong is a miss.
-      return afterMiss(s, e.uid, e.typed.trim() === '' ? 'pass' : 'wrong', e.typed, e.at);
+      // Buzzing is a commitment: a blank answer is a miss like any other wrong answer.
+      return afterMiss(s, e.uid, 'wrong', e.typed, e.at);
     }
     case 'timeout': {
       if (s.phase === 'answering' && s.answerDeadline !== null && e.at >= s.answerDeadline && s.buzzer) {
-        return afterMiss(s, s.buzzer, 'pass', '', e.at);
+        return afterMiss(s, s.buzzer, 'wrong', '', e.at);
       }
       if (s.phase === 'reading' && s.pending.length === 0 && e.at >= s.endAt) {
         // Nobody left to buzz keeps the last miss as the outcome; otherwise nobody buzzed at all.
@@ -392,13 +398,21 @@ export function rankTeams(s: Pick<RoomState, 'teamOf' | 'teamScores'>): { team: 
  * out. Buzzes and answers are filed under it, so a player whose buzz was too late can buzz again once the reveal resumes.
  * The characters are all valid in a database key.
  */
-export function segmentOf(s: Pick<RoomState, 'q' | 'lockedOut'>): string {
-  return `q${s.q}_${s.lockedOut.length}`;
+export function segmentOf(s: Pick<RoomState, 'q' | 'lockedOut' | 'games'>): string {
+  return `${gamePrefix(s)}q${s.q}_${s.lockedOut.length}`;
+}
+
+/** Every game in a room files its buzzes and answers under its own prefix, so one game never reads the last game's leftovers. */
+const gamePrefix = (s: Pick<RoomState, 'games'>): string => (s.games > 0 ? `g${s.games}_` : '');
+
+/** The question number as filed in the database (with the game prefix). */
+export function roundKey(s: Pick<RoomState, 'q' | 'games'>): string {
+  return `${gamePrefix(s)}${s.q}`;
 }
 
 /** Key a bonus's drafts and submissions are filed under: one per round. */
-export function bonusKeyOf(s: Pick<RoomState, 'q'>): string {
-  return `b${s.q}`;
+export function bonusKeyOf(s: Pick<RoomState, 'q' | 'games'>): string {
+  return `${gamePrefix(s)}b${s.q}`;
 }
 
 /**
