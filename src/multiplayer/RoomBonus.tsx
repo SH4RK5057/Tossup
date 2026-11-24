@@ -19,12 +19,15 @@ interface Props {
   isHost: boolean;
   /** Label for the host's button on the result screen. */
   nextLabel: string;
+  /** False for a moment after the result appears, so it is not skipped past by accident. */
+  nextReady: boolean;
+  nextRef: React.MutableRefObject<HTMLButtonElement | null>;
   onNext: () => void;
 }
 
 interface Draft { text?: string; at?: number }
 
-export function BonusPanel({ store, code, state, bonus, players, teamMode, now, isHost, nextLabel, onNext }: Props) {
+export function BonusPanel({ store, code, state, bonus, players, teamMode, now, isHost, nextLabel, nextReady, nextRef, onNext }: Props) {
   const round = state.bonus;
   const myTeam = state.teamOf[store.uid];
   const answering = !!round && myTeam !== undefined && round.teams.includes(myTeam);
@@ -145,7 +148,7 @@ export function BonusPanel({ store, code, state, bonus, players, teamMode, now, 
             {round.teams.map((t) => `${teamName(t)}: ${round.results[t]?.verdicts.filter(Boolean).length ?? 0} of ${round.partCount} right (+${round.results[t]?.points ?? 0})`).join(' · ')}
           </div>
           {isHost
-            ? <div><button className="primary" autoFocus onClick={onNext}>{nextLabel}</button></div>
+            ? <div><button ref={nextRef} className="primary" disabled={!nextReady} onClick={onNext}>{nextLabel}</button></div>
             : <p className="muted">Waiting for the host…</p>}
         </div>
       )}

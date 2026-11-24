@@ -213,3 +213,12 @@ button.primary kbd { background: rgba(0, 0, 0, 0.18); border-color: rgba(0, 0, 0
 @keyframes room-blink { 50% { opacity: 0; } }
 .room-buzz { min-width: 220px; min-height: 56px; font-size: 1.15rem; font-weight: 700; }
 .room-clock { font: 700 1.4rem var(--mono, ui-monospace, monospace); min-width: 2.5ch; text-align: right; }
+
+/* ---- the answer revealed in a room ---- */
+.room-reveal { border: 2px solid var(--border, #3b4252); border-radius: 12px; padding: 1.1rem 1.5rem 1.3rem; text-align: center; animation: room-pop 0.25s ease-out; }
+.room-reveal.correct { border-color: var(--ok, #4ade80); background: color-mix(in srgb, var(--ok, #4ade80) 12%, transparent); }
+.room-reveal-title { font-size: 1.1rem; font-weight: 600; }
+.room-reveal-label { margin-top: 0.6rem; font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.7; }
+.room-reveal-answer { font-size: 2.3rem; font-weight: 800; line-height: 1.2; overflow-wrap: anywhere; }
+.room-reveal-typed, .room-reveal-note { margin-top: 0.5rem; opacity: 0.85; }
+@keyframes room-pop { from { transform: scale(0.97); opacity: 0.5; } to { transform: scale(1); opacity: 1; } }

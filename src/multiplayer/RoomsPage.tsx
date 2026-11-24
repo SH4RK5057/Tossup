@@ -17,6 +17,34 @@ import { BonusPanel } from './RoomBonus';
 import { joinAsPlayer, savedName, saveName, setActiveRoom, type Meta } from './roomOps';
 import { roomPath, type RoomStore } from './store';
 
+/** How long a result is held on screen before the host's Next button works. */
+const RESULT_HOLD_MS = 1500;
+
+/** False for `ms` after `key` changes, then true. */
+function useHold(key: string, ms: number): boolean {
+  const [ready, setReady] = useState(false);
+  useEffect(() => {
+    setReady(false);
+    const t = setTimeout(() => setReady(true), ms);
+    return () => clearTimeout(t);
+  }, [key, ms]);
+  return ready;
+}
+
+/** The answer to a tossup as a full-width panel, so the winning answer is hard to miss. */
+function AnswerReveal({ kind, title, answer, typed, note }: { kind: 'correct' | 'miss'; title: string; answer: string; typed?: string; note?: string }) {
+  const showTyped = typed !== undefined && typed.trim() !== '' && typed.trim().toLowerCase() !== answer.trim().toLowerCase();
+  return (
+    <div className={`room-reveal ${kind}`} role="status" aria-live="polite">
+      <div className="room-reveal-title">{kind === 'correct' ? '✓ ' : ''}{title}</div>
+      <div className="room-reveal-label">Answer</div>
+      <div className="room-reveal-answer">{answer}</div>
+      {showTyped && <div className="room-reveal-typed">They typed: “{typed}”</div>}
+      {note && <div className="room-reveal-note">{note}</div>}
+    </div>
+  );
+}
+
 /** Subscribes to a path; undefined while the first value is loading. */
 function useValue<T>(store: RoomStore | null, path: string | null): T | null | undefined {
   const [value, setValue] = useState<T | null | undefined>(undefined);
@@ -150,6 +178,14 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
   const [, force] = useState(0);
   useEffect(() => { const id = setInterval(() => force((n) => n + 1), 100); return () => clearInterval(id); }, []);
 
+  // A result stays on screen for a moment before the host can move on, so the answer is never skipped past by
+  // an Enter press (or a held key) that was still going when the result appeared.
+  const nextReady = useHold(`${state.q}:${state.phase}:${state.bonusesUsed}`, RESULT_HOLD_MS);
+  const nextRef = useRef<HTMLButtonElement | null>(null);
+  useEffect(() => {
+    if (nextReady && isHost && (state.phase === 'result' || state.phase === 'bonus_result')) nextRef.current?.focus();
+  }, [nextReady, isHost, state.phase]);
+
   if (meta === undefined || players === undefined || stored === undefined) return <p className="muted">Joining room {code}…</p>;
   if (meta === null) {
     return <div className="notice row"><span>Room {code} is closed or does not exist.</span><button onClick={onLeave}>Back</button></div>;
@@ -255,7 +291,7 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
         {scoreboard}
         <div className="muted small">{countText}{taking ? '' : ' · you are watching this game'}</div>
         <BonusPanel store={store} code={code} state={state} bonus={ready ? bonus : undefined} players={players ?? {}} teamMode={settings.teamMode}
-          now={now} isHost={isHost} nextLabel={nextLabel} onNext={() => hostRef.current?.next()} />
+          now={now} isHost={isHost} nextLabel={nextLabel} nextReady={nextReady} nextRef={nextRef} onNext={() => hostRef.current?.next()} />
       </>
     );
   }
@@ -287,15 +323,16 @@ function RoomView({ store, code, onLeave, name, setName }: { store: RoomStore; c
         )}
         {state.phase === 'result' && (
           <div className="stack">
-            <div className="notice">
-              {state.last?.kind === 'correct' && <><strong>{nameOf(state.last.uid ?? '')}</strong> got it (+{state.last.points} for {teamName(winnerTeam ?? '')}). </>}
-              {state.last?.kind === 'nobody' && <>Nobody buzzed. </>}
-              {(state.last?.kind === 'wrong' || state.last?.kind === 'pass') && <>Everyone has had a turn. </>}
-              Answer: <strong>{q?.answer}</strong>
-              {bonusNext && winnerTeam && <> {teamName(winnerTeam)} gets the bonus.</>}
-            </div>
+            <AnswerReveal
+              kind={state.last?.kind === 'correct' ? 'correct' : 'miss'}
+              title={state.last?.kind === 'correct'
+                ? `${nameOf(state.last.uid ?? '')} got it! +${state.last.points}${settings.teamMode === 'teams' ? ` for ${teamName(winnerTeam ?? '')}` : ''}`
+                : state.last?.kind === 'nobody' ? 'Nobody buzzed' : 'Everyone has had a turn'}
+              answer={q?.answer ?? ''}
+              typed={state.last?.kind === 'correct' ? state.last.typed : undefined}
+              note={bonusNext && winnerTeam ? `${teamName(winnerTeam)} gets the bonus.` : undefined} />
             {isHost
-              ? <div><button className="primary" autoFocus onClick={() => hostRef.current?.next()}>{bonusNext ? 'Start the bonus' : isLast ? 'Finish game' : 'Next question'}</button></div>
+              ? <div><button ref={nextRef} className="primary" disabled={!nextReady} onClick={() => hostRef.current?.next()}>{bonusNext ? 'Start the bonus' : isLast ? 'Finish game' : 'Next question'}</button></div>
               : <p className="muted">Waiting for the host…</p>}
           </div>
         )}
